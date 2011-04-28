@@ -8,7 +8,7 @@ Cartoon; کارتون
 -  ich bin Cartoonzeichner; زَمينهٔ کارَم کارتون است، طَنزنِويس هَستَم
 Cäsar; قِيصَر
 Celsius; سانتيگراد
-- 40o Celsius; دَرجهٔ) ۴۰ سانتيگراد)
+- 40° Celsius; دَرجهٔ) ۴۰ سانتيگراد)
 Cent; سِنت
 Chamäleon; بوقَلَمون، آفتاب پَرَست
 Champagner; شامپان
