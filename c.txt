@@ -1,14 +1,14 @@
-ca (*: cirka);  تَخميناً، تَقريباً
+ca (*: cirka);  تَخمیناً، تَقریباً
 Campus; مُحَوَطهٔ دانِشگاه
-Canossa; شَهر دَر ايتاليا
+Canossa; شَهر دَر ایتالیا
 - der Gang nach Canossa; به دَست و پاى ِ کِسى اُفتادَن
-Caritas; - نيکوکارى ِ اُمور ِ خِيريه، مؤِسِسهٔ
-caritativ; خِير خواهانه، خِيريه
+Caritas; - نیکوکارى ِ اُمور ِ خِیریه، مؤِسِسهٔ
+caritativ; خِیر خواهانه، خِیریه
 Cartoon; کارتون
--  ich bin Cartoonzeichner; زَمينهٔ کارَم کارتون است، طَنزنِويس هَستَم
-Cäsar; قِيصَر
-Celsius; سانتيگراد
-- 40° Celsius; دَرجهٔ) ۴۰ سانتيگراد)
+-  ich bin Cartoonzeichner; زَمینهٔ کارَم کارتون است، طَنزنِویس هَستَم
+Cäsar; قِیصَر
+Celsius; سانتیگراد
+- 40° Celsius; دَرجهٔ) ۴۰ سانتیگراد)
 Cent; سِنت
 Chamäleon; بوقَلَمون، آفتاب پَرَست
 Champagner; شامپان
@@ -21,165 +21,179 @@ Chance; فُرصَت، شانس
 Chancengleichheit; تَساوى ِ اِمکانات
 Chanson; سُرود، تَرانه، شانسون
 chantieren; شُعارهارا دَم گِرِفتَن
-Chaos; هَياهو، هَرج و مَرج، آشُفتِگى، بِهَم ريختِگى، نابِسامانى
-- Chaos, das durch Überreste entstanden ist; ريخت و پاش
-- in diesem Chaos!; تو اين هير و وير
+Chaos; هَیاهو، هَرج و مَرج، آشُفتِگى، بِهَم ریختِگى، نابِسامانى
+- Chaos, das durch Überreste entstanden ist; ریخت و پاش
+- in diesem Chaos!; تو این هیر و ویر
 - s. in Chaos auflösen (z.B. ein Land); خَر تو خَر شُدَن
 - ein Chaos verursachen bei ...; کاسه کوزهٔ کِسی را به هَم زَدَن
-Chaot; آدَم بي رَبط و نَظم، خاندان ِ بَراَنداز 
-chaotisch; هِياهو، بي نَظم و تَرتيب، دَرهَم و بَرهَم
-- chaotische Zustände; وَضعيتهاى ِ بِريز و بِپاش
-- chaotische Ausdehnung der Stadt; توسعهٔ بى رَويهٔ شَهر
-- in dieser chaotischen Zeit; دَر اين زَمان ِ  بِريز و بِپاشها
+Chaot; آدَم بی رَبط و نَظم، خاندان ِ بَراَنداز
+chaotisch; هِیاهو، بی نَظم و تَرتیب، دَرهَم و بَرهَم
+- chaotische Zustände; وَضعیتهاى ِ بِریز و بِپاش
+- chaotische Ausdehnung der Stadt; توسعهٔ بى رَویهٔ شَهر
+- in dieser chaotischen Zeit; دَر این زَمان ِ  بِریز و بِپاشها
 - chaotischer Haufen; گُروه ِ بِلبِشو
-- in ... herrschen chaotische Verhältnisse; چيزی خَر تو خَر است
-Charakter; طَبع، طينَت، خو و خِصلَت، سيرَت، مَنِش، کاراکتِر
+- in ... herrschen chaotische Verhältnisse; چیزی خَر تو خَر است
+Charakter; طَبع، طینَت، خو و خِصلَت، سیرَت، مَنِش، کاراکتِر
 - unbeständiger Charakter; مُتَلَوِن اُلمِزاج
-- er hatte keinen schlechten Charakter; او بَد طينَت نَبود
-- er hat einen niedrigen Charakter; دِلِش دِل پَسته شامى و چُس فيل است
+- er hatte keinen schlechten Charakter; او بَد طینَت نَبود
+- er hat einen niedrigen Charakter; دِلِش دِل پَسته شامى و چُس فیل است
 - vom Charakter & Verhalten; دَر ظاهِر و باطِن
-Charakterbildung; تَکوين ِ مَنِش، تَحوُل ِ شَخصيَت
+Charakterbildung; تَکوین ِ مَنِش، تَحوُل ِ شَخصیَت
 Charaktereigenschaft;
-- Charaktereigenschaft; (pl.)  (ويژِگى ِ شَخصيَت، سَجيه (سَجايا
-charakterfest; مَتين
-charakterisieren; تَشخيص دادَن، وَصف کَردَن
+- Charaktereigenschaft; (pl.)  (ویژِگى ِ شَخصیَت، سَجیه (سَجایا
+charakterfest; مَتین
+charakterisieren; تَشخیص دادَن، وَصف کَردَن
 - charakterisiert werden; مُتَصِف بودَن، مُشَخَص شُدَن
-Charakterisierung; وَصف، شَخصيَت پَردازى
+Charakterisierung; وَصف، شَخصیَت پَردازى
 charakteristisch;
-- charakteristische Eigenart; خَصيصهٔ فَردى
+- charakteristische Eigenart; خَصیصهٔ فَردى
 - ... hat charakteristische Eigenschaften; داراى ِ صِفات ِ اِختِصاصى دارَد
 - charakteristische Kurve; مُنهَنى ِ شاخِص
-charakterlos; بى چِشم و رو، بى هُويَت، بي صِفَت
+charakterlos; بى چِشم و رو، بى هُویَت، بی صِفَت
 Charakterlosigkeit; بى اِصالتَى
 charmant; جَذاب
-- wie charmant; او چه جَذابيَتي دارَد
-Charme; رُبايِش، جَذابيَت
+- wie charmant; او چه جَذابیَتی دارَد
+Charme; رُبایِش، جَذابیَت
 Charta;  مَنشور
 - Charta der Menschenrechte; مَنشور ِ حُقوق ِ بَشَر
-Chassis; زير بَدَنه، شاسى
-Chauffeur; رانَندهٔ ماشين، شوفُر
+Chassis; زیر بَدَنه، شاسى
+Chauffeur; رانَندهٔ ماشین، شوفُر
 Chaussee; راه ِ شوسه
-Chauvinismus; شُوينيزم
-Check in; پَذيرِش ِ مُسافِر
-Chef; (pl.)  (کارفَرما،  رَئيس (رُؤَساء
+Chauvinismus; شُوینیزم
+Check in; پَذیرِش ِ مُسافِر
+Chef; (pl.)  (کارفَرما،  رَئیس (رُؤَساء
 Chefarzt; پِزِشک ِ باشى، - اَرشَد
 Chefkoch; سَر آشپَز، آشپَز ِ باشى
-Chemie; شيمى
-- anorganische Chemie; شيمى ِ کانى
-- organische Chemie; شيمى ِآلى
-- stochastische Chemie; شيمى ِ اِتِفاقى
-chemisch; شيميائى
-- chemische Reaktion; - فِعل و اِنفِعال ِ شيميائى، واکُنِش
-Chemiker; شيمى دان
-chick; خوش آينَد، شيک و پيک
+Chemie; شیمى
+- anorganische Chemie; شیمى ِ کانى
+- organische Chemie; شیمى ِآلى
+- stochastische Chemie; شیمى ِ اِتِفاقى
+chemisch; شیمیائى
+- chemische Reaktion; - فِعل و اِنفِعال ِ شیمیائى، واکُنِش
+Chemiker; شیمى دان
+chick; خوش آینَد، شیک و پیک
 Chiffre; حُروف ِ رَمزى
-Chimäre; خيال باطِل، نَمود ِ بى بود
+Chimäre; خیال باطِل، نَمود ِ بى بود
 Chinin;گِنه گِنه
-Chips; چيپس
+Chips; چیپس
 Chirurg; جَراح
-- Schönheitschirurg; جَراح ِ پلاستيک
+- Schönheitschirurg; جَراح ِ پلاستیک
 Chirurgie; جَراحی
 - Unfallchirurgie; جَراحى ِ سَوانِح
 Chlor;کلُر
 chloren;کلُر زَدَن
-Chlorophyll; سَبزينه، کلُروفيل
+Chlorophyll; سَبزینه، کلُروفیل
 Choke; ساسات
 Cholera; وَبا
 Choleriker; آدَم ِ صَفرائى، تُند مِزاج، تُند خو
-cholerisch; ناخويشتَن دار
-Cholesterin; کُلِستِرول، کُلُسيم
+cholerisch; ناخویشتَن دار
+Cholesterin; کُلِستِرول، کُلُسیم
 Chor; گُروه ِ خوانَنده
 - im Chor sprechend; مُتَفِق اُلقول
 - Parolen im Chor von s. geben; شُعارهارا دَم گِرِفتَن
 Chorgesang; سُرود ِ جَمعى
-Christ; مَسيحى
-Christenheit; مَسيحيَت
-christlich; مَسيحى
+Christ; مَسیحى
+Christenheit; مَسیحیَت
+christlich; مَسیحى
 Christrose; لالَکى
-Christus; عيسىٰ مَسيح
-- 400 nach Christus; چَهار صَد سال ِ ميلادى، ـ بَعد از ميلاد
-- 400 vor Christus; سَده چَهارم قَبل از ميلاد، چَهار صَد سال قَبل از ميلاد
+Christus; عیسىٰ مَسیح
+- 400 nach Christus; چَهار صَد سال ِ میلادى، ـ بَعد از میلاد
+- 400 vor Christus; سَده چَهارم قَبل از میلاد، چَهار صَد سال قَبل از میلاد
 Chrom; وَرشو، کرُم
 Chromosom; کروموزوم
 - Chromosomen in Bohnenzellen; کروموزومها دَر سِلولهاى ِ باقَلا
-Chronik; وَقايِعنامه، گاهنامه
+Chronik; وَقایِعنامه، گاهنامه
 chronisch; مُزمِن
-Chronologie; تَرتيب ِ زمان
+Chronologie; تَرتیب ِ زمان
 chronologisch;
-- chronologisches Alter; سِن ِ تَقويمى، سِن ِ زَمانى
-- den chronologischen Hergang der Ereignisse untersuchen; رُخدادهارا با نَظم و تَوالى ِ واقِعيَتهايِشان بَررِسى کَردَن، بَر طِبق ِ تَرتيب ِ زَمانى ـ
-cirka; تَخميناً، تَقريباً
+- chronologisches Alter; سِن ِ تَقویمى، سِن ِ زَمانى
+- den chronologischen Hergang der Ereignisse untersuchen; رُخدادهارا با نَظم و تَوالى ِ واقِعیَتهایِشان بَررِسى کَردَن، بَر طِبق ِ تَرتیب ِ زَمانى ـ
+cirka; تَخمیناً، تَقریباً
 - cirka um das Jahr 100; ... ِ حُدود ِ سال ِ ۱۰۰، حَوالى
-Clan; طايِِفه، سِبط
+Clan; طایِِفه، سِبط
 clever; هوشمَند، زِرَنگ
 - cleverer Plan; تَرفَند
 Clinch;
-- mit jem. im Clinch liegen (*: in der Wolle liegen); با کِسى سَر ِ سِتيز داشتَن
+- mit jem. im Clinch liegen (*: in der Wolle liegen); با کِسى سَر ِ سِتیز داشتَن
 Clique; جِرگه، گُروهَک
-- herrschende Clique; هِيئَت ِ حاکِمه
+- herrschende Clique; هِیئَت ِ حاکِمه
 Clown; دَلقَک، هَزال
 Club; باشگاه
 cm; سانتى مِتر
-CO (Kohlenmonoxyd);  اُکسيد کَربُن
-CO2 (Kohlendioxyd); گاز ِ کَربُنيک
-Cockpit; -ِ اُتاق ِ خَلَبان، کابين
+CO (Kohlenmonoxyd);  اُکسید کَربُن
+CO2 (Kohlendioxyd); گاز ِ کَربُنیک
+Cockpit; -ِ اُتاق ِ خَلَبان، کابین
 Code; کَلَمهٔ رَمزی
 - einen Code knacken; رَمزى را شِکَستَن
-Codex; مَجموعهٔ قَوانين
+Codex; مَجموعهٔ قَوانین
 Coitus; جَماع
-Colostrum; شيرماک
+Colostrum; شیرماک
 - Colostrum bei Tieren; آغوز
 Comedy; مَسخَره بازى، مَسخَرِگى کَردَن
-Comics; تَصاوير ِ فَکاهى
-common sense; عَقل ِ سَليم، مُعتَقِدات ِ عامه
-Computer; کامپيوتر، رايانه
+Comics; تَصاویر ِ فَکاهى
+common sense; عَقل ِ سَلیم، مُعتَقِدات ِ عامه
+Computer; کامپیوتر، رایانه
 Computerbegriffe;
-- Animation; اَنيمِيشِن سازى
-- Arbeitssystem (z.B. Linux); سيستِم ِ عامِل
-- Auflösung (beim Monitor); تَفکيک پَذيرى ِ مانيتور
-- Bit (Masseinheit bei Datenverarbeitung); بيت، اَرقام ِ دوتائى
-- Buchstabenattribute:; خُصوصيات ِ حُروف: fett حُروف ِ ضَخيم, gedehnt حُروف ِ پَهن, hochgestellt حُروف ِ بالا نِويس, Italic حُروف ِ کَج, normal حُروف ِ مَعَمولى, Outline حُروف ِ تو خالى, schattiert حُروف ِ سايه دار, tiefgestellt حُروف ِ زير نِويس, unterstrichen حُروف ِ زير خَطى
+- Animation; اَنیمِیشِن سازى
+- Anwender; کاربَر
+- Anwenderinformationen (z.B.: Adresse, etc.); اِطِلاعات ِ کاربَری
+- Arbeitssystem (z.B. Linux); سیستِم ِ عامِل
+- Auflösung (beim Monitor); تَفکیک پَذیرى ِ مانیتور
+- Bit (Masseinheit bei Datenverarbeitung); بیت، اَرقام ِ دوتائى
+- Buchstabenattribute:; خُصوصیات ِ حُروف: fett حُروف ِ ضَخیم, gedehnt حُروف ِ پَهن, hochgestellt حُروف ِ بالا نِویس, Italic حُروف ِ کَج, normal حُروف ِ مَعَمولى, Outline حُروف ِ تو خالى, schattiert حُروف ِ سایه دار, tiefgestellt حُروف ِ زیر نِویس, unterstrichen حُروف ِ زیر خَطى
 - Chat; چَت
 - Cursor; مَکان نَما
 - Client; کارخاه
-- Datei; پَروَنده
-- Datenbank; بانک ِ داده ها
+- Datei; پَروَندهٔ رایانه، فایل
+- Datenbank; بانک ِ داده ها، بانک ِ اِطِلاعاتی
+- Datenschutz; حِفاظَت ِ اطِلاعات
+- Datenschutzbestimmung; مُقَرَرات ِ حِفاظَت ِ اِطِلاعات
+- Diktiersoftware; پَردازِش ِ گُفتار
 - Drucker; چاپگَر
-- editieren (z.B. kopieren, verschieben); ويرايِش کردن
+- editieren (z.B. kopieren, verschieben); ویرایِش کردن
+- einloggen; وُرود به سایت
+- Einstellungen (z.B. Uhr, Farbe, etc.); تَنظیمات
 - Grafikprogramm; بَرنامهٔ طَراحى
 - Hardware; اَبزار ِ سَخت؛ سِفت اَبزار
 - Installation; نَصب
-- Internet; شَبَکه اينتِرنِت
-- Lernplattform; سيستِم ِ مديريَت ِ يادگيری
+- Internet; شَبَکه اینتِرنِت
 - entsprechender Knopf (z.B. bei ein Softwareinstallation);  دُکمهٔ مُرورگَر
-- Mikroprozessor; ريزپَرداز
+- Lernplattform; سیستِم ِ مدیریَت ِ یادگیری
+- log in; وُرود به سایت
+- log out; خُروج از سایت
+- Messenger; پِیام رِسان
+- Mikroprozessor; ریزپَرداز
 - Modem; مودِم
-- Monitor; مانيتور
-- Multitasking; سيستِم ِ چَند تَکليفى
-- Nachrichtensofortversand (Instant Messaging "IM"); پِيام رِسان ِ فوری
+- Monitor; مانیتور
+- Multitasking; سیستِم ِ چَند تَکلیفى
+- Nachrichtensofortversand (Instant Messaging "IM"); پِیام رِسان ِ فوری
 - Netzwerkumgebung; شَبَکه اِرتِباطى
 - Ordner; پوشه
 - Installationsordner; پوشهٔ نَصب
 - Zielordner; پوشهٔ مَقصَد
+- Passwort; رَمز ِ وُرود
 - Seitengestaltung; صَفحه آرائى
-- Seriennummer; شُمارهٔ سِريال
+- Seriennummer; شُمارهٔ سِریال
 - Server; سِروِر، کارساز، خادِم
 - Software; اَبزار ِ نَرم، نَرم اَبزار
 - Suchmaschine; جُستِجوگَر
-- Textbearbeitung; ويرايِش
+- Textbearbeitung; ویرایِش
 - Textverarbeitung; مَتن پَرداز
 - Textverarbeitungsprogramm; برنامهٔ واژه گارى، برنامهٔ مَتن پَرداز
-- Web-Site; سايت
-- Windows; ويندوز
+- virtuelle Maschine; ماشین ِ مَجازی
+Webblog; وِبلاگ
+- Web-Site; سایت
+- Windows; ویندوز
 Coniferen; دِرَحت ِ سوزَنی ِ بَرگ، دِرَحت ِ کاجی
 contra; ِ ضِد ِ، بَر خَلاف
 cool;
 - bleib cool; جوش نَزَن
-Copyright; کُليهٔ حُقوق ِ چاپ مَحفوظ است، حَق ِ چاپ - ، کُپيرايت
+Copyright; کُلیهٔ حُقوق ِ چاپ مَحفوظ است، حَق ِ چاپ - ، کُپیرایت
 Corn Flakes; کورن فلِکس
-Corpus; پِيکَر
-- Corpus delicti; شِئى که وُقوع ِ جِنايَت را ثابِت مي کُنَد
-Couch; نيمکَت ِ راحَتى
+Corpus; پِیکَر
+- Corpus delicti; شِئى که وُقوع ِ جِنایَت را ثابِت می کُنَد
+Couch; نیمکَت ِ راحَتى
+Count-Down; شُمارِش ِ مَعَکوس
 Coup d`Etat; کودِتا
 Coupon; کوپُن
 - Essenscoupon; کوپُن ِ غَذا
@@ -194,8 +208,8 @@ Cross- over; تَقاطُع
 - Cross- over- Prinzip; اَصل ِ تَقاطُع
 Cup; جام
 - Weltmeistercup (z.B.: Fußball); جام ِ جَهانی
-Curriculum; بَرنامهٔ آموزِشى، دوره هاى ِ فَراگير
-cyklisch; دايِره ای، حَلقَوی، اِدواری، دوره ای
-- cyklische Veränderung; تَغيير ِ دوره ای
+Curriculum; بَرنامهٔ آموزِشى، دوره هاى ِ فَراگیر
+cyklisch; دایِره ای، حَلقَوی، اِدواری، دوره ای
+- cyklische Veränderung; تَغییر ِ دوره ای
 Cyklus; دوره
-Cytologie; ياخته شِناسى
+Cytologie; یاخته شِناسى
