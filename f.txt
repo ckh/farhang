@@ -1,4 +1,4 @@
-﻿Fabel; (plur.) نَردَک، بُردَک، اُسطوره (اَساطیر)، اَفسانه
+Fabel; (plur.) نَردَک، بُردَک، اُسطوره (اَساطیر)، اَفسانه
 fabelhaft; عَجیب، اِعحاب گونه
 Fabelwesen; موجود ِ ساخته و پَرداختهٔ خیالى، وُجود ِ موهوم
 Fabrik; کارخانه، کارگاه
@@ -913,7 +913,7 @@ Feuer; آتَش، آذَر، حَریق
 - er geht für jem. durchs Feuer; او بَراى ِ کِسى از هیچ کارى دَریغ نِمى کُنَد
 - s. die Kastanien aus dem Feuer holen; سَر ِ مار بدست ِ غِیر کوبیدَن
 - wie Feuer und Wasser; مِثل ِ آب و آتَش؛ جَمع نَشُدَنی؛ ضِد ِ یِکدیگَر
-- das Feuer findet seinen Weg آتَش جایِ  خود باز می کُنَد، مَرد ِ زیرَک و ماهِر و اُستاد زود شِناخته شَوَد
+- das Feuer findet seinen Weg; آتَش جایِ  خود باز می کُنَد، مَرد ِ زیرَک و ماهِر و اُستاد زود شِناخته شَوَد
 - mit Feuer kann man kein Feuer löschen; آتَش را به آتَش نَتَوان کُشت، عِداوَت را با مُحَبَت تَسکین تَوان داد نَه با عِداوَت، آتَش را به  آتَش نَنِشانَند، آتَش را به روغَن نَتَوان نِشاند
 feuerfest; نَسوز
 feuergefährlich; خَطَر ِ آتَش سوزى
@@ -966,7 +966,7 @@ Filiale; شُعبه
 - er arbeitet in der Bankfiliale; او دَر شُعبهٔ بانک کار مى کُنَد
 Filigranarbeit; مَلیله کارى
 Film; سینِما، فیلم
-- Begriffe aus der Filmwelt:
+- Begriffe aus der Filmwelt;
 - Beleuchter; نورپَرداز
 - Bühnenbildner; طَراح ِ صَحنه
 - Drehbuch; فیلمنامه
@@ -1284,7 +1284,7 @@ Flügelmutter; خُروسَک، مُهرهٔ خُروسَکى
 Flügelventil; سوپاپ ِ خُروسَک دار
 flügge;
 - nicht flügge; سیخ پَر
-- die Kinder werden flügge: بَچه ها از خانه خارِج می شَوَند
+- die Kinder werden flügge; بَچه ها از خانه خارِج می شَوَند
 Flughafen; فُرودگاه
 Flugplan; (plur.) (بَرنامهٔ پَرواز (- پَروازها
 flugs; سَریع، با عَجَله
@@ -1489,7 +1489,7 @@ Frage; (plur.) پُرسِش، سؤال (سؤالات)، اِستِفسار
 - sonst habt Ihr keine Fragen? (iron.); دیگه سوژه گیر نَیاوَردید؟
 - habt Ihr immer solche Fragen?; شُما هَم چه سؤالهائى مى پُرسید؟
 - zeitraubende Fragen stellen; اُصول ِ دین از کِسی پُرسیدَن
-- was soll diese Frage?!  !چِطور مَگَر؟
+- was soll diese Frage?!;  !چِطور مَگَر؟
 - Fangfrage; سؤال ِ مَغلَطه آمیز، پُرسِش ِ آزمایِشى
 - Fangfrage stellen; سؤال ِ پیچ کَردَن
 - Rückfrage; سئوال ِ مُنَعکِس کُنَنده

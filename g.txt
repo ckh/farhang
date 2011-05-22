@@ -1,4 +1,4 @@
-﻿Gabe (f);
+Gabe (f);
 - Gabe, Geschenk; هِدیه
 - Gabe von Gott; عَطا، عَطیه، موهِبه، نِعمَت
 - Gabe, Begabung; اِستِعداد، تَوانائى، قابِلیَت
@@ -208,7 +208,7 @@ geben;
 - wer viel gibt, dem wird viel gegeben; هَرچه پول بِدَهى آش مى خورى
 - im Schnitt gibt es für eine Familie 1 Wohnung; به اَزاى ِ هَر خانِوار یِک واحِد ِ مَسکونى دَر دَسترِس میباشَد
 - was nicht sein darf, gibt es nicht; هَمانَند ِ شَخصى بودَن که دَر بیرون ِ دَر بَراى ِ آفتاب ایستاده باشد و بگوید که خورشیدرا نِمى بینَد
-- (in Zusammensetzung) jem., der gibt دِه (شیرده، پَناه ده
+- (in Zusammensetzung) jem., der gibt; دِه (شیرده، پَناه ده
 - früher gab es den Begriff .. nicht; پیشتَر اِصطِلاح ِ .. وُجود نَداشت
 - Helfen & Geben; داد و دِهِش
 - Verhältnis zwischen Nehmenden & Gebenden; نِسبَت ِ سِتانده ها به داده ها
@@ -353,7 +353,7 @@ gedankenverloren; دَر فِکرهای ِ خود گُم گَشته، با بی 
 gedankenvoll; اَندیشمَند
 Gedankenwelt; ثَبت ِ فِکر
 gedanklich; دَر فِکر ِ خود
-- gedankliche Erneuerung اِحیاى ِ اَندیشه
+- gedankliche Erneuerung; اِحیاى ِ اَندیشه
 Gedärm; اَمعاء
 gedeihen; .رُشد کَردَن، پیشرَفت ک
 - meine Arbeit gedeiht; کارَم گُل اَنداخت
@@ -470,8 +470,8 @@ Gefässerkrankung; بیمارى ِ رَگها
 Gefässpflanze; گیاه ِ آوَندى
 gefässreich; آوَندى
 gefasst;
-- s. auf etwas gefasst machen خودرا بَراى ِ چیزى آماده کَردَن
-- gefasster Gesichtsausdruck قیافهٔ مَتین، ـ آرام و شُمُرده
+- s. auf etwas gefasst machen; خودرا بَراى ِ چیزى آماده کَردَن
+- gefasster Gesichtsausdruck; قیافهٔ مَتین، ـ آرام و شُمُرده
 Gefecht; پیکار، نَبَرد
 Gefechtslärm; چَکاچَک
 gefeit;
@@ -739,7 +739,7 @@ geladen; دَعوَت شُده
 - ich bin vielleicht geladen; *: Wut
 Gelage; بَزم، عِیش و نوش، عِیاشى
 gelähmt; اِفلیج، مَفلوج
-- wie gelähmt: اِفلیچ وار
+- wie gelähmt; اِفلیچ وار
 - er ist gelähmt; او مَفلوج است
 - er wurde gelähmt; او فَلَج زَده شُد
 - es gibt dort viele Gelähmte; آنجا آدَمهاى ِ مَفلوج زیادند، ـ فَلَج زَده ـ
@@ -1050,7 +1050,7 @@ Geplätscher; شُرشُره
 Geplauder; دَرد ِ دِل
 Gepolter;
 - mit Gepolter gehen; تَلَق تَلَق راه رفتَن
-Gepränge:دَبدَبه
+Gepränge; دَبدَبه
 - er kam mit Prunk und Gepränge; با دَبدَبه و کَبکَبه آمَد
 gerade;
 - ich lese gerade; مَن دارَم میخوانَم
@@ -1731,7 +1731,7 @@ Glaube; ایمان، اِعتِقاد
 glauben;
 - nicht zu glauben; نِمى شَوَد باوَر کَرد
 - das war kaum zu glauben; نِمیشُد فِکرِش را فِکر کَرد
-- du glaubst es nicht! اِنگار نَه اِنگار
+- du glaubst es nicht!; اِنگار نَه اِنگار
 - ich glaube nicht, dass ...; خیال نِمیکُنَم که
 - ich glaube an Gott; مَن به خُدا ایمان مى آوَرَم
 - ich glaube, dass es Gott gibt; مَن ایمان دارَم که خُدا وُجود دارَد
