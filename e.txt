@@ -1,4 +1,4 @@
-﻿e (Vokal über Konsonant); عَلامَت ِ کَسرَه
+e (Vokal über Konsonant); عَلامَت ِ کَسرَه
 Ebbe;
 - Ebbe & Flut; جَزر و مَد
 - bei mir ist Ebbe; کیسه اَم تَه کِشیده است
@@ -929,7 +929,7 @@ einreichen;
 - Rücktritt einreichen; اِستِعفا را تَسلیم کَردَن
 - beim Sekretariat einreichen; به دَبیر ِ خانه تَقدیم کَردَن
 einreihen (s. -); نوبَت گِرِفتَن
-einreisen: داخِل ِ کِشوَر شُدَن، تَشریف آوَردَن
+einreisen; داخِل ِ کِشوَر شُدَن، تَشریف آوَردَن
 Einreiseerlaubnis; اِجازهٔ وُرود
 einreissen;
 - s. den Nagel einreissen; سَر ِ ناخُن را کَندَن
@@ -989,7 +989,7 @@ einsaugen; مَکیدَن
 einsäumen;
 - den Stoff einsäumen; پارچه را لَب دوزى کَردَن
 - eingesäumt; لَب بَرگَردان
-- Einsäumen لَب دوزى
+- Einsäumen; لَب دوزى
 einschalen; تَخته بَندى کَردَن
 einschalten;
 - s. einschalten in etwas; دِخالَت کَردَن
@@ -1902,7 +1902,7 @@ enthalten;
 - s. der Kritik nicht enthalten; از خُرده گیرى فُروگُذار نَکَردَن
 - Trinkgeld ist im Preis enthalten; قِیمت ِ اِنعام را هَم بَر دارَد
 Enthaltsamkeit; ریاضَت، پَرهیزکارى، خوددارى
-Enthaltung اِمتِناع 
+Enthaltung; اِمتِناع 
 - Stimmenthaltung; اِمتِناع از دادَن ِ رأى
 enthärten; آهَک و نَمَک ِ آب را گِرِفتَن
 enthaupten; سَر ِ کِسى را بُریدَن
@@ -3171,7 +3171,7 @@ erschrecken;
 - s. erschrecken; مُتَوَحِش شُدَن
 - die Nachrichten erschrecken mich; از این خَبَر مُتَوَحِش میشَوَم، خَبَرها مَرا به وَحشَت مى اَندازَند
 - Erschrecken Sie nicht!; !تَرسان نَباشید!، هول نَخورید
-- das erschreckt mich از این چیز وَحشَتَم میگیرَد
+- das erschreckt mich; از این چیز وَحشَتَم میگیرَد
 - du hast mich vielleicht erschreckt!; وَحشَتَم کرَدى
 - wenn du sie erschreckst, fallen sie in Ohnmacht; اَگَر تو دِلِشان پَخ بِکُنى غِش مى کُنَند
 - erschreckende Informationen; اِطِلاعات ِ وَحشَت اَنگیز، ـ دِهشَت ناک

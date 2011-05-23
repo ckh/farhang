@@ -137,10 +137,10 @@ Computerbegriffe;
 - Animation; اَنیمِیشِن سازى
 - Anwender; کاربَر
 - Anwenderinformationen (z.B.: Adresse, etc.); اِطِلاعات ِ کاربَری
-- Arbeitssystem (z.B. Linux); سیستِم ِ عامِل
+- Betriebssystem (z.B. Linux); سیستِم ِ عامِل
 - Auflösung (beim Monitor); تَفکیک پَذیرى ِ مانیتور
 - Bit (Masseinheit bei Datenverarbeitung); بیت، اَرقام ِ دوتائى
-- Buchstabenattribute:; خُصوصیات ِ حُروف: fett حُروف ِ ضَخیم, gedehnt حُروف ِ پَهن, hochgestellt حُروف ِ بالا نِویس, Italic حُروف ِ کَج, normal حُروف ِ مَعَمولى, Outline حُروف ِ تو خالى, schattiert حُروف ِ سایه دار, tiefgestellt حُروف ِ زیر نِویس, unterstrichen حُروف ِ زیر خَطى
+- Buchstabenattribute:; خُصوصیات ِ حُروف: fett حُروف ِ ضَخیم, gedehnt حُروف ِ پَهن, hochgestellt حُروف ِ بالا نِویس, kursiv حُروف ِ کَج, normal حُروف ِ مَعَمولى, Outline حُروف ِ تو خالى, schattiert حُروف ِ سایه دار, tiefgestellt حُروف ِ زیر نِویس, unterstrichen حُروف ِ زیر خَطى
 - Chat; چَت
 - Cursor; مَکان نَما
 - Client; کارخاه
@@ -150,7 +150,7 @@ Computerbegriffe;
 - Datenschutzbestimmung; مُقَرَرات ِ حِفاظَت ِ اِطِلاعات
 - Diktiersoftware; پَردازِش ِ گُفتار
 - Drucker; چاپگَر
-- editieren (z.B. kopieren, verschieben); ویرایِش کردن
+- bearbeiten (z.B. kopieren, verschieben); ویرایِش کردن
 - einloggen; وُرود به سایت
 - Einstellungen (z.B. Uhr, Farbe, etc.); تَنظیمات
 - Grafikprogramm; بَرنامهٔ طَراحى
@@ -181,7 +181,7 @@ Computerbegriffe;
 - Textverarbeitung; مَتن پَرداز
 - Textverarbeitungsprogramm; برنامهٔ واژه گارى، برنامهٔ مَتن پَرداز
 - virtuelle Maschine; ماشین ِ مَجازی
-Webblog; وِبلاگ
+- Weblog; وِبلاگ
 - Web-Site; سایت
 - Windows; ویندوز
 Coniferen; دِرَحت ِ سوزَنی ِ بَرگ، دِرَحت ِ کاجی
@@ -204,10 +204,10 @@ Credo; اِعتِقاد نامه
 Creme; 
 - Creme (Sahne); خامه
 - Hautcreme; کرِم
-Cross- over; تَقاطُع
-- Cross- over- Prinzip; اَصل ِ تَقاطُع
+Cross-over; تَقاطُع
+- Cross-over-Prinzip; اَصل ِ تَقاطُع
 Cup; جام
-- Weltmeistercup (z.B.: Fußball); جام ِ جَهانی
+- Weltmeisterschaft (z.B.: Fußball); جام ِ جَهانی
 Curriculum; بَرنامهٔ آموزِشى، دوره هاى ِ فَراگیر
 cyklisch; دایِره ای، حَلقَوی، اِدواری، دوره ای
 - cyklische Veränderung; تَغییر ِ دوره ای

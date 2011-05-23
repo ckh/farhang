@@ -1,4 +1,4 @@
-﻿da; آنجا
+da; آنجا
 - da es so ..; از بَسکه
 - da es so heiss war; از بَسکه هَوا گَرم بود
 - da oben; آن بالا
@@ -963,7 +963,7 @@ Donner; صاعِقه، تُندَر، رَعد
 - wie vom Donner gerührt; یَکه خورده
 donnern; رَعد زَدَن
 - Donnern; غُرِش، رَعد
-Donnerstag پَنجشَنبه
+Donnerstag; پَنجشَنبه
 Doping; تَحریک با دارو، دوپینگ
 Dopingmittel; مَواد ِ نیروزا
 Doppelbereifung; لاستیکهاى ِ جُفتى
