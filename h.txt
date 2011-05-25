@@ -1,4 +1,4 @@
-﻿Haar; مو
+Haar; مو
 - abstehende Haare; موهاى ِ پاشنه نَخواب
 - seine Haare waren verlegen; موهایَش بَد خواب بود
 - seine Haare schneiden; موهایَش را زَدَن، کَله اش را ماشین کَردَن
@@ -956,7 +956,7 @@ hie;
 - hie und da etwas hören; گوشه و کِنار ِ چیزى را شِنیدَن
 Hieb; سُقُلُمه
 - jem. einen Hieb (*: Schlag) versetzen; کِسى را سُقُلُمه زَدَن
-- jem. einen Seitenhieb versetzen, یِک سُقُلُمه پَهلوی ِ کِسی زَدَن
+- jem. einen Seitenhieb versetzen; یِک سُقُلُمه پَهلوی ِ کِسی زَدَن
 hier; اینجا
 - er kommt von hier; او اَهل ِ اینجاست
 Hierarchie; سِلسِله
