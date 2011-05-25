@@ -3444,7 +3444,7 @@ aufregen (*: aufgeregt);
 - seine Stimme regt ihn auf; صِدایَش اورا کَلافه مى کُنَد
 - er regt s. auf (ohne es zu zeigen); خون خونَش را می خورَد
 - ... als er hörte, wurde er aufgeregt; وَقتیکه ... شِنید از این حَرفها دَنگ شُد
-َAufregung;
+Aufregung;
 - Aufregung, Verwirrung; تَشَوُش، بَرانگیختِگى
 - nachts konnte sie vor Aufregung nicht schlafen; شَب را از ذوق خوابَش نَبُرد
 - kein Grund zur Aufregung; بیجا جوشى نَباش!، عِلَتى بَراى ِ اِغتِشاش خاطِر نیست
