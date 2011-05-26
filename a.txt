@@ -2567,7 +2567,7 @@ Apathie; بیحِسى، خونسَردى، بى تَفاوُتى، لاقِید�
 apathisch; پَکَر، بى اِحساس، بیحِس، بى عَلاقه
 aperiodisch; نامُنَظَم
 Apfel; سیب
-- Der Apfel fällt nicht weit vom Baum; عاقِبَت ِ گُرگ زاده گُرگ شَوَد، گَرچه با آدمَى بُزُرگ شَوَد
+- Der Apfel fällt nicht weit vom Stamm; عاقِبَت ِ گُرگ زاده گُرگ شَوَد، گَرچه با آدمَى بُزُرگ شَوَد
 - in den sauren Apfel beissen; به چیزی قَناعَت کَردَن
 - Äpfel mit Birnen vergleichen (und ersetzen); تَلافی ِ غوره را سَر ِ کوره دَر آوَردَن
 Apfelmus; پورهٔ سیب
@@ -3444,7 +3444,7 @@ aufregen (*: aufgeregt);
 - seine Stimme regt ihn auf; صِدایَش اورا کَلافه مى کُنَد
 - er regt s. auf (ohne es zu zeigen); خون خونَش را می خورَد
 - ... als er hörte, wurde er aufgeregt; وَقتیکه ... شِنید از این حَرفها دَنگ شُد
-َAufregung;
+Aufregung;
 - Aufregung, Verwirrung; تَشَوُش، بَرانگیختِگى
 - nachts konnte sie vor Aufregung nicht schlafen; شَب را از ذوق خوابَش نَبُرد
 - kein Grund zur Aufregung; بیجا جوشى نَباش!، عِلَتى بَراى ِ اِغتِشاش خاطِر نیست
