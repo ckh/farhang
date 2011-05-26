@@ -1,4 +1,4 @@
-﻿Vabanquespiel; ماجِرا
+Vabanquespiel; ماجِرا
 Vagabund; سَر گَشتة غافِل، هَرزه گَرد، لات و پات
 vagabundieren;  .سَر گَشتَن، وِل گ
 Vagabundieren (n); هَرزه گَردى، وِل گَردى، دَر بِدَرى
@@ -142,7 +142,7 @@ Verband;
 - paramilitärische Verbände; واحِدهاى ِ شِبة نِظامى
 verbannen; تَبعيد کَردَن
 Verbannung; تَبعيد
-Verbannungsort تَبعيد گاه
+Verbannungsort; تَبعيد گاه
 verbarrikadieren (z.B. Tür); دَر را چِفت کَردَن، با زَنجير بَستَن
 verbeissen;
 - s. in etwas verbeissen; دَر چيزى پافِشارى کَردَن، ـ مُصِر بودَن
@@ -1706,7 +1706,7 @@ vertreten;  .جانِشين بودَن، نِمايَنده ب
 Vertreter;
 - Vertreter (polit., jurist.); (pl.) وَکيل (وُکَلا
 - Arzneimittelvertreter; نَمايَندۀ دارو
-- in Vertretung به نَمايَندِگى
+- in Vertretung; به نَمايَندِگى
 Vertretung; نَمايَندِگي
 - diplomatische Vertretung; نَمايَندِگى ِ ديپلُماتيک
 Vertrieb (in Firma); بَخش ِ فُروش

@@ -1,4 +1,4 @@
-﻿Waage; تَرازو
+Waage; تَرازو
 - Dezimalwaage; قَپان ِ فَرَنگ
 - Federwaage; قَپان ِ فَنَرى
 Waagebalken; شاهين ِ تَرازو
@@ -485,7 +485,7 @@ wegen; از بابَت ِ، دَر قِبال ِ، به هَواى ِ، بَر �
 - wegen des Themas auf Kriegsfuss stehen; بَر( سَر ِ) موضوع با .. دَر اُفتاد
 - wegen der Erinnerung an ..; به پاس ِ بُزُرگداشت ِ فِلان
 - verurteilt wegen des Vergehens von ..; به جُرم ِِ .. مَحکوم شُد
-- wegen welcher Sünde? به کُدامين گُناه
+- wegen welcher Sünde?; به کُدامين گُناه
 Wegfall;
 - nach Wegfall des Grundes; پَس از زَوال ِ سَبَب
 Weggabelung; سر ِ دو راهى، دو راهى
@@ -1393,7 +1393,7 @@ Wort; کَلام
 - s. zu Wort melden; اِجازة سُخَن خواستَن
 - er sagte kein einziges Wort; او لاکَلام حَرف نِمى زَد
 - mit einem Wort; حاصِل ِ کَلام، اَلقِصه
-- mit anderen Worten: به عِبارَت ِ ديگَر
+- mit anderen Worten; به عِبارَت ِ ديگَر
 - Geflügeltes Wort; اِرسال اُلمَثَل، به قول ِ شُما
 - ein klares Wort schafft klare Verhältnisse; جَنگ ِ اَوَل به از صُلح ِ آخَر
 - ein Wort kann mehr verletzen, als ein Schwert; زَخم ِ زَبان از زَخم ِ شَمشير بَدتَر است

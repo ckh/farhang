@@ -1,4 +1,4 @@
-﻿U-Bahn; راه ِ آهن ِ زير زَمينى، مِترو
+U-Bahn; راه ِ آهن ِ زير زَمينى، مِترو
 u.a. (unter anderem); مِنجُمله، از قَبيل ِ
 übel;
 - jem. wird übel; حال ِ کِسى بِهَم مى خورَد
@@ -1084,7 +1084,7 @@ Unglück; (pl.) فَلاکَت، مُصيبَت (مَصائِب)، شَقاوَ�
 - jem., der Unglück bringt; آدَم ِ مَضَرات
 - willst du, dass dir ein Unglück geschieht?; مى خواهى بَلائى سَرِت بياد؟
 - im Glück und Unglück; دَر خِير و شَر
-- vom Unglück verfolgt فَلاکَت زَده، آب ِ خوش از گَلويَ ِ کِسی پايين نَرَفتَن
+- vom Unglück verfolgt; فَلاکَت زَده، آب ِ خوش از گَلويَ ِ کِسی پايين نَرَفتَن
 - da sind Sie, und das Unglück, das Sie gebracht haben; حال اين شُما و اين خانه خَرابى
 unglücklich; بَخت بَر گَشته، شَقى
 - unglücklicher Mensch; (pl.) آدَم ِ بَد بَخت، شَقى (اَشقياء)، آدَم ِ سياه بَخت، ـ ناکَم، ـ تَلخکام، ـ بَد يُمن

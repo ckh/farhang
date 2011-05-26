@@ -1,4 +1,4 @@
-﻿Saal (m); سالُن
+Saal (m); سالُن
 - Saal für öffentliche Versammlungen; تالار ِ اِجتِماعات
 Saat (f); زَرع
 - Aussaat; کِشته
@@ -625,7 +625,7 @@ scheuen;
 - er scheut s. vor keiner Arbeit; او از هيچ کارى روگَردان نِمى شَوَد، ـ هيچ کاري نمى تَرسَد
 - gebrannter Mensch scheut das Feuer; آدَم ِ مار گَزيده از ريسمان ِ سياه و سِفيد مى تَرسَد
 scheuern; سابيدَن
-- Topf mit Sand scheuern ديگ را شِن مالى کَردَن
+- Topf mit Sand scheuern; ديگ را شِن مالى کَردَن
 - jem. eine scheuern; يِکي تو سَر کِسي زَدَن
 Scheune; اَنبار ِغله، کاهدان
 Scheusal; هِيولا
@@ -1058,7 +1058,7 @@ Schlussfolgerung; اِستِنباط، اِستِنتاج، پيش فَرض، ا
 schlüssig;
 - schlüssige Antwort; جَواب ِ قاطِع، ـ قَطعى
 Schlusslicht;
-- Schlusslicht (z.B. in Wertetabelle) قَعر نِشين
+- Schlusslicht (z.B. in Wertetabelle); قَعر نِشين
 - er ist beim Sport das Schlusslicht; او آدَم ِ بازَنده است
 Schlussphase; مَرحَلة نَهائى، دور ِ ـ
 Schlussverkauf; حَراج
@@ -2233,7 +2233,7 @@ Sichtvermerk; رَواديد، ويزا
 Sichtweite; دورنَما، فاصِلة ديد، چِشم رِس
 Sickergrube; چوهَک ِ تَصفية فاضِل آب
 sickern; تَراويدَن
-- Durchsickern تَراوِش، چِکيدِگى
+- Durchsickern; تَراوِش، چِکيدِگى
 Sickerwasser; زِهاب
 sie;
 - sie (sing.); او
@@ -3969,7 +3969,7 @@ Stundung; مُهلَت، آجَل
 stur; کَله شَق، خود سَر، لَجاز، بَد قِلِق، بَدپيله، سَمِج
 Sturheit; بَد قِلِقي، ِکدَندِگي
 Sturm; طوفان
-- Sturm (auf See) کولاک
+- Sturm (auf See); کولاک
 - im Sturm & Drang der Jugend; دَر جوش و خُروش ِ جَوانى
 - Jahre des Sturms & Drangs; سَنَوات ِ طوفان و طُغيان
 - Sturm (beim Sport); خَط ِ حَمله
@@ -4027,7 +4027,7 @@ Suchantenne; آنتِن ِ رَدياب
 Suche; جُستِجو، پويا
 - er machte s. auf die Suche nach; به سُراغ ِ کِسى آمَد
 - die Suche nach Wahrheit; دَر تَحَرى ِ حَقيقَت، دَر جُستِجوى ِ ـ
-suchen:
+suchen;
 - nach jem. suchen; دُنبال ِ کِسى گَشتَن، دَر جُستِجوى ِ ـ، پوياى ِ کِسى بودَن
 - suche nicht nach einem Grund; دَر پِى ِ دَليل نَباش
 - sie suchen eine Gelegenheit; آنها مُتَرَصِد هَستَند، آنها دَر صَدَد ِ فُرصَت مى شَوَند

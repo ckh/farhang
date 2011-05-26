@@ -1,4 +1,4 @@
-﻿Mach; اَندازه بَراى ِ سُرعَت ِ صوت
+Mach; اَندازه بَراى ِ سُرعَت ِ صوت
 - das Flugzeug fliegt mit einer Geschwindigkeit von 2 Mach; هَواپيما با سُرعَت ِ دو بَرابَر ِ سُرعَت ِ صوت پَرواز مى کُنَد
 machen; کَردَن، اَنجام دادَن
 - was willst du denn machen?; چه کارى از دَستَت بَر مى آيَد؟
@@ -366,7 +366,7 @@ Matthäi;
 - Matthäi am Letzten; مُحلَت
 Mauer; ديوار
 - lebende Mauer (beim Fussball); ديوار ِ گوشتى
-- Steinmauer سَنگچين
+- Steinmauer; سَنگچين
 mauern; ساختَن
 - beim Fußball mauern; دِفاع کَردَن
 - gemauerte Brunnenauskleidung; بَدَنة آجُرى ِ چاه
@@ -1157,9 +1157,9 @@ Motiv; دَليل، سَبَب
 Motivation; اَنگيزه، آرمان
 Motivationsbremse; حال گيرى
 motivieren;
-- jem. zu etwas motivieren (*: anstacheln) کِسى را واداشتَن که، ـ به چيزى سوق دادَن
+- jem. zu etwas motivieren (*: anstacheln); کِسى را واداشتَن که، ـ به چيزى سوق دادَن
 - das motiviert mich überhaupt nicht; مَرا به هيج وَجه وانِمي دارَد به اينکه
-- politisch motivierter Streik اِعتِصاب با اَنگيزة سياسى
+- politisch motivierter Streik; اِعتِصاب با اَنگيزة سياسى
 Motor; موتور، مُتُر
 Motoraufhängung; تَعليق ِ موتور
 Motorboot; قايِق ِ موتورى

@@ -1,4 +1,4 @@
-﻿Lab; خَمير مايه پَنير
+Lab; خَمير مايه پَنير
 laben (- s.); لِذَت بُردَن
 labern;  .وِراجي کَردَن، چُس نَفَسي ک
 - laber nicht rum; پُر چانِگی نَکُن
@@ -82,7 +82,7 @@ Lager; (pl.)  (اَنبار، ذَخيره (ذَخايِر
 - Pleuellager; ياتاغان ِ شاتون
 - Zeltlager; اُردو
 lagern; اَنباشتَن، اَنبار کَردَن، جَمع ک
-- gelagert werden اَنباشته شُدَن
+- gelagert werden; اَنباشته شُدَن
 Lagerraum; پَستوي ِ دُکان، اَنبار
 lahm; لَنگ
 - lahm legen; کَرَخ کَردَن
@@ -1020,7 +1020,7 @@ Loch; گودال، سوراخ
 Locher; سوراخ کُن
 löchrig; سوراخ دار
 Locke;
-- Haarlocke فِر
+- Haarlocke; فِر
 locken;
 - jem. ins Garn locken; کِسي را توي هَچَل اَنداختَن
 Lockenwickler; بيگودي
