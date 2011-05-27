@@ -823,7 +823,7 @@ Hersteller; سازَنده، ایجاد کُنَنده، صانِع
 herum;
 - um ... herum; دُورادُور
 herumdrucksen; مِن و مِن کَردَن
-herumfuchteln; به هَوا مُشت زَدَن، دَستهارا دَر هَوا پیچ و خَم ز
+herumfuchteln; .به هَوا مُشت زَدَن، دَستهارا دَر هَوا پیچ و خَم ز
 herumhängen; دور و بَر ِ خود لولیدَن
 herumkaspern; مَسخَرِگی کَردَن
 - kaspere nicht so herum; مَسخَرِگی نَکُن
@@ -833,7 +833,7 @@ herumreichen;
 - den Kelch herumreichen; جامى را دور گَردانیدَن
 herumschlagen;
 - s. mit jem. herumschlagen; با کِسى مُحاجه کَردَن
-herumschweifen; آواره گشتَن، وِل گ
+herumschweifen; .آواره گشتَن، وِل گ
 herumsprechen;
 - die Nachricht von ... wird s. herumsprechen; خَبَر ِ ... خواهَد پیچید
 - die Sache hat s. herumgesprochen; این موضوع بَر مَلا شُد
@@ -843,7 +843,7 @@ herumstochern; کَند و کو کَردَن
 - im Schloss herumstochern; با قُفل کَند و کو کَردَن
 herumstreuen;
 - seine Kleider auf dem Boden herumstreuen; لِباس ِ خودرا روى ِ زَمین وِلو کَردَن
-herumstromern;
+herumstromern; ‌پَرسه زَدَن
 - nach einigem Herumstromern; پَس از پَرسه زَدَنهاى ِ مُتَوالى
 herumtreiben (s. -); پَلَکیدَن، پَرسه زَدَن، دَدَر رَفتَن، وِل گَشتَن
 Herumtreiber; پَرسه زَن، وِلگَرد
@@ -857,9 +857,9 @@ heruntersetzen;
 hervorbringen; پَدید آوَردَن، به بار آوَردَن، سَر دَر آوَردَن
 - wenn deine Hand Böses hervorbringt; اَگَر دَستَت خَطائى سَر مى زَنَد
 hervorgehen;
-- hervorgehen, folgern; مُستَفاد شُدَن، اِستِنباط ش
+- hervorgehen, folgern; .مُستَفاد شُدَن، اِستِنباط ش
 - hervorgehend aus; چیزى ناشى از .. باعِث شُد که
-hervorgehoben; فَریده
+hervorgehoben (i.S.: einzigartig); فَریده
 hervorheben; به چیزی اَهَمیَت دادَن
 - s. hervorheben; مُتَمایِز بودَن
 - einen Punkt hervorheben; یِک نُکته را اِختِصاص دادَن
@@ -867,7 +867,7 @@ hervorholen;
 - Hand hervorholen; .. دَست یازیدَن به 
 - die Angelegenheit hervorholen; قَضیه را پیش کِشیدَن
 hervorkommen; بیرون آمَدَن، به ظُهور رِسیدَن
-- als er wieder hervorkam; وَقتى سَر و کَله اَش پِیدا شد
+- als er wieder hervorkam; وَقتى سَر و کَله اَش پِیدا شُد
 hervorlugen;
 - kein Mensch lugt hervor; هیچ سَرى سَرَک نِمى کِشَد
 hervorragen; بَرآمَدِگى داشتَن
@@ -906,7 +906,7 @@ Herzenslust;
 herziehen;
 - etwas hinter s. herziehen; چیزى را یَدَک کِشیدَن
 - über Menschen herziehen;  مَردُم را مَچَل گوئى کَردَن، از مَردُم غِیبَت ک.، دَربارهٔ کِسى بَد و بیراه گُفتَن
-Herzinfarkt; کسِکتهٔ قَلبى
+Herzinfarkt; سِکتهٔ قَلبى
 Herzklopfen; دِل تَپِش، تَپِش ِ دِل
 Herzkräftigung; مُقَوى ِ قَلب
 Herzkranzgefässe; عُروق ِ جانِبهٔ کُرونى
@@ -932,7 +932,7 @@ hetzerisch; تَحریک کُنَنده
 Hetzjagd; تازیبانى
 Heu; عَلَف ِ خُشک
 Heuchelei; شیله پیله، ریاکارى، مُقَدَسبازى، مُنافِقَت، اِفتِعال، نِفاق
-heucheln; آب زیر ِ کاه از آب در آمَدَن، ریاکارى کَردَن، مُنافِقَت ک
+heucheln; .آب زیر ِ کاه از آب در آمَدَن، ریاکارى کَردَن، مُنافِقَت ک
 Heuchler; مُرائى، ریاکار، مُنافِق
 Heugabel; چَنگال ِ چار شاخه
 heulen; گِریه کَردَن، گِریستَن
