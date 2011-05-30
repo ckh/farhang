@@ -1252,7 +1252,7 @@ hochleben;
 - s. hochleben lassen; نوش ِ جان ِ خود کَردَن
 Hochleistung; تَوان ِ بالا، قُدرَت ِ زیاد
 Hochmut; اَنانیَت، تَکَبُر، غُرور
-- Hochmut kommt vor dem Fall; فَواره چون بُلَند شَوَد، سَرنِگون شَوَد 
+- Hochmut kommt vor dem Fall; فَواره چون بُلَند شَوَد سَرنِگون شَوَد 
 hochmütig; کَله بَر باد، بَرتَرمَنِش، مَغرور، مُتَکَبِر
 hochnäsig; پُراِفاده، کَله خَر
 hochnehmen;
@@ -1291,10 +1291,10 @@ Hochzeitszug; عَروس کِشى
 hochziehen; خودرا بالا کِشیدَن
 - er zieht die Oberlippe hoch; لَب ِ بالایَش را وَر مى چینَد
 Hocke; چُمپاتِمه، چُمباتِمه
-hocken; چُمباتِمه زَدَن، چُندَک ز
+hocken; .چُمباتِمه زَدَن، چُندَک ز
 Höcker (anatom.); زایِده، قوز
 - Kamelhöcker; کوههٔ شُتُر، کوهان ِ ـ
-Hoden; خایه، بیضه
+Hoden; خایه، بِیضه
 Hof; مُحَوَطه، صَحن، حَیاط
 - einer Frau den Hof machen; با یِک زَن لاس زَدَن
 - Hof des Königs; دَربار ِ پادِشاه
@@ -1310,8 +1310,8 @@ Hoffnung; اُمید، نَوید، رِجاء
 - Hoffnung haben, dass ..; دَر تَرَصُد بودَن که، با چِشم داشتَن به
 - ich habe keine Hoffnung bezüglich der ...; مَن از ...چِشمَم آب نِمی خورَد
 - die Hoffnung zu Grabe tragen; آرِزوی ِ چیزی را به گور بُردَن
-- jem. seiner Hoffnung berauben; آب ِ پاکی بَر (روی ِ) دَست ِ کِسی ریختن، یِکباره و از هَر جَهَت او را مایوس کَردَن
-- falsche Hoffnungen hegen; اُمید ِ واهى کَردَن، طَمَع ِ خام ک
+- jem. seiner Hoffnung berauben; آب ِ پاکی بَر (روی ِ) دَست ِ کِسی ریختَن، یِکباره و از هَر جَهَت او را مٔأیوس کَردَن
+- falsche Hoffnungen hegen; .اُمید ِ واهى کَردَن، طَمَع ِ خام ک
 - ich hatte nur noch wenig Hoffnung; چَندان اُمیدى بِدِل نَداشتَم
 - Hoffnung bringen; نَوید دادَن
 - in der Hoffnung, sie zu sehen, dreht er s. um; او به هَواى ِ دیدَنِشان رو بَر مى گَردانَد
@@ -1329,11 +1329,11 @@ Höflichkeitsfloskel; تَعارُف
 Höhe; بُلَندى، اِرتِفاع
 - die Höhe des Erfolges; حَجم ِ تَوافُقها
 - Höhen & Tiefen des Lebens; خوب و بَد ِ دُنیا
-- das Flugzeug gewinnt an Höhe; هواپیما اوج مى گیرَد
+- das Flugzeug gewinnt an Höhe; هَواپِیما اوج مى گیرَد
 - das hat den Stromverbrauch in die Höhe getrieben; این که مَصرَف ِ بَرقِش سَرسام آوَرده
 Hoheit;
-- Gebietshoheit; قَلَمرو ایالات، حاکِمیَت اَرضى ِ ایالات
-- Lufthoheitsgebiet; مَنطَقهٔحاکِمیَت ِ هَوائى
+- Gebietshoheit; قَلَمرو ِ ایالات، حاکِمیَت ِ اَرضى ِ ایالات
+- Lufthoheitsgebiet; مَنطَقهٔ حاکِمیَت ِ هَوائى
 - sie haben hier Hoheitsrechte; آنها اینجا کیابیا دارَند
 Höhenflug (geistig); بُلَند پَروازى
 - Höhenflug mit Bauchlandung; به آسِمان رَفتَن و به زَمین آمَدَن، کوشِش ِ بیهوده کَردَن
@@ -1341,7 +1341,7 @@ Höhenmesser; فَرازیاب، سَنجِش ِ اِرتِفاع
 Höhenstrahlen; اَشِعهٔ کِیهانى
 Höhenvorschub; تَغذیهٔ عُمودى
 Höhepunkt; اوج
-- die Spannung ist am Höhepunkt; هِیَجان دَر اوج است
+- die Spannung ist am Höhepunkt; هَیَجان دَر اوج است
 höher *: hoch;
 Höherentwicklung; تَکامُل ِ عالیتَر
 hohl; پوک، توخالى، مُجَوَف
