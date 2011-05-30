@@ -952,14 +952,14 @@ Hexe (Märchenfigur); آل
 Hexenschuss (med.); کَمَر دَرد، قولِنج
 hie;
 - hie und da etwas hören; گوشه و کِنار ِ چیزى را شِنیدَن
-Hieb; سُقُلُمه
+Hieb; سُقُلُمه، ضَربه
 - jem. einen Hieb (*: Schlag) versetzen; کِسى را سُقُلُمه زَدَن
 - jem. einen Seitenhieb versetzen; یِک سُقُلُمه پَهلوی ِ کِسی زَدَن
 hier; اینجا
-- er kommt von hier; او اَهل ِ اینجاست
+- er kommt von hier; او اَهل ِ اینجاست، او شیر ِ ‌پاک خوردهٔ اینجا
 Hierarchie; سِلسِله
-- Berufshierarchie;سِلسِلهٔ مَراتِب ِ شُغلى
-- Ministerialhierarchie;سِلسِلهٔ مَراتِب ِ وِزارَتى
+- Berufshierarchie; سِلسِلهٔ مَراتِب ِ شُغلى
+- Ministerialhierarchie; سِلسِلهٔ مَراتِب ِ وِزارَتى
 hierher;
 - kommen Sie bitte hierher!; بِفَرمائید بیائید اینجا
 - hiermit teile ich Ihnen mit; بِدینوَسیله به اطِلاع ِ شُما میرِسانَم
@@ -981,18 +981,17 @@ Hilfe; پایمَردى، کُمَک، یارى، اِمداَد، مَدَد
 - Rechtshilfe; تَعاوُن ِ قَضائى
 Hilfeschrei;
 - wir hörten den Hilfeschrei der Kinder; ما هَوار ِ بَچه ها را شِنیدیم
-hilflos;
+hilflos; بی چاره
 - hilflos sein; آه دَر بَساط نَداشتَن
-- s. hilflos fühlen; خودرا زَبون و بیچاره اِحساس کَردَن، اِز آمَدَن
+- s. hilflos fühlen; خودرا زَبون و بی چاره اِحساس کَردَن، اِز آمَدَن
 - total hilflos; مَذبوحانه، دَرمانده
 Hilflosigkeit; بی چارِگی
-- in seiner Hilflosigkeit sagte er ..; او که مانده بود چه کُند، گُفت ..، دَر بیچارِگى اَش گُفت ...
-hilfreich;
-- hilfreich sein; کار ساز بودَن، سودمَند ب.، مُفید بودَن
+- in seiner Hilflosigkeit sagte er ..; او که مانده بود چه کُند، گُفت ..، دَر بی چارِگى اَش گُفت
+hilfreich (- sein); کار ساز بودَن، سودمَند ب.، مُفید بودَن
 Hilfsarbeiter; عَمَله
 Hilfsgüter; وَسائِل ِ اِمدادى
-Hilfsorgan;نَهاد ِ کُمَکى، مؤِسِسهٔ اِمدادى
-- christliche Hilfswerke; خَدَمات ِ کُمَک رِسانى ِ مَسیحیان
+Hilfsorgan; نَهاد ِ کُمَکى، مؤِسِسهٔ اِمدادى
+Hilfswerke; خَدَمات ِ کُمَک رِسانى
 Hilfswissenschaften; دانِشهاى ِ دَخیله
 Himbeere; تَمِشک
 Himmel; آسمان
@@ -1030,13 +1029,13 @@ hinausziehen; به تَعویق اَنداختَن، مُعاطِله کَردَ
 hinauszögern; موکول کَردَن، به عَقَب اَنداختَن
 - s. hinauszögern; بِطول اَنجامیدَن
 - den Augenblick hinauszögern; این لحظه را دِرَنگ کَردَن
-- eine Entscheidung hinauszögern; تَصمیم را تَعویق انداختَن
+- eine Entscheidung hinauszögern; تَصمیم را تَعویق اَنداختَن
 Hinauszögern (n); اِطاله
 hinbestellen;
 - wo immer wir hinbestellt wurden; بِهَر جا که اِحضار مى شُدیم
 Hinblick;
 - im Hinblick auf ...; نَظَر به
-hinbringen; کِسى را بُردَن به
+hinbringen (jem. -); کِسى را بُردَن به
 hinderlich;
 - etwas, das hinderlich ist; چیزى دَست و پاگیر، مانِع شُده
 - die hinderlichen Tonnen liessen es nicht zu, ...; تُنهاى ِ حائِل نِمى گُذاشت
@@ -1053,9 +1052,9 @@ hindeuten; اِشاره کَردَن
 - Zeichen, die auf etwas hindeuten; عَلائم حاکى بَر این است
 hindurch;
 - den ganzen Tag hindurch; تَمام روز
-- durch schwierige Erfahrungen hindurch, bereiten sie s. vor; با گُذَشتَن از تَجرُبیات ِ سَخت، خود را آماده کُنَند
+- durch schwierige Erfahrungen hindurch, bereiten sie s. vor; با گُذَشتَن از تَجرُبیات ِ سَخت خود را آماده کُنَند
 hindurchdringen; از چیزى گُذَشتَن
-hindurchführen;
+hindurchführen; عُبور دادَن
 - Menschen durch das Tal hindurchführen; مَردُم را از دَره عُبور دادَن
 hinein; داخِل
 - hinein ins Vergnügen; دِلَم را صابون زَدَم، شِکَمَم را ـ
@@ -1072,7 +1071,7 @@ hineinziehen;
 hinfallen; دِراز به دِراز اُفتادَن، زَمین خوردَن
 hinfällig;
 - hinfällig, ungültig; باطِل
-- hinfällig, schwach; دَرمانده
+- hinfällig, schwach; دَرمانده، عاجِز، زَمینگیر
 - hinfällig werden; از حال و کار رَفتَن
 - das Problem wurde hinfällig; مَسأله مُنتَفى شُد
 Hinfälligkeit; دَرماندِگى
@@ -1088,7 +1087,7 @@ hinhocken; تَمَرگیدَن
 - hock dich endlich hin!; بِگیر سَر ِ جات بِتَمَرگ
 hinken; (präs.)  شَلیدَن (مى شَلَد)، لَنگیدَن
 - die Sache hinkt; یِک چیزَش لَنگ است
-- hinkend und hüpfend kamen sie an; اُفتان و خیزان به .. رِسیدَند، ـ لَنگان ـ
+- hinkend und hüpfend kamen sie an; اُفتان و خیزان به .. رِسیدَند، ـ لَنگان رِسیدَند
 Hinkender; شَخص ِ لَنگ
 hinkommen;
 - wir kommen damit hin; بَرای ِ ما کِفایَت می کُنَد
@@ -1106,7 +1105,7 @@ Hinrichtung; اِعدام، قَتل
 Hinsicht; مَنظَر
 - in finanzieller Hinsicht (*: Aspekt); دَر اُمور ِ مالى
 hinsichtlich;
-- hinsichtlich der ...; دَر مورِد ِ، از لَحاظ ِ
+- hinsichtlich der ...; ... ِدَر مورِد ِ، از لَحاظ
 hinspringen;
 - so hin- und herspringen, dass ..; جورى به پَر و پاى ِ این و آن مى پیچَد که
 - hin- und herspringen; وِرجه وِرجه کَردَن
@@ -1132,9 +1131,9 @@ Hinterachse; اَکسِل ِ عَقَب
 Hinterbacken; کَپَل
 Hinterbliebene; زاد و رَوَد، باز ماندِگان
 Hintereinanderschaltung; اِتِصال ِ پُشت ِ سَر ِ هَم، اِتِصال ِ سِرى
-hinterfragen; دَر مَعرَض ِ سؤال قَرار دادَن، مورِد ِ سؤال قَرار د.، زیر ِ سئوال بُردن
+hinterfragen; دَر مَعرَض ِ سؤال قَرار دادَن، مورِد ِ سؤال قَرار د.، زیر ِ سئوال بُردَن
 Hintergrund; زَمینه
-- auf dem Hintergrund der Kultur;دَر زَمینهٔ فَرهَنگ
+- auf dem Hintergrund der Kultur; دَر زَمینهٔ فَرهَنگ
 Hinterhalt; مَخفی گاه، کَمین گاه
 Hinterhältigkeit; تَرفَند، نیرَنگ
 hinterhältig; رَذیل، مَکر آمیز، دورو، آب زیر ِ کاه
@@ -1151,10 +1150,10 @@ hinterlassen;
 - Nachwuchs hinterlassen; نَسل را باقى گُذاشتَن
 - ohne eine Spur zu hinterlassen; بى هیچ پِژواک ِ نِشانى از گُذَر
 - er hinterliess eine Bremsspur; تُرمُز پُشت سَر ِ خودش جا گُذاشت
-- keine andere Möglichkeit hinterlassen; مَجال ِ دیگَرى باقى نِمى گُذارَند
+- keine andere Möglichkeit hinterlassen; مَجال ِ دیگَرى باقى نَگُذاشتَن
 - der Krieg hinterliess ... Tote; حَمله ... کُشته به جا گُذاشت
 Hinterlassenschaft; مُخَلَفات، مُرده ریگ
-hinterlegen; چیزى را به اَمانَت گُذاشتَن، ـ وَدیعه گ
+hinterlegen; .چیزى را به اَمانَت گُذاشتَن، ـ وَدیعه گ
 Hinterlist; تَرفَند، نیرَنگ
 hinterlistig; مَکرآمیز، بَدجِنس
 Hintern; ماتَحت، سُرین، کون، لُنبه، مَقعَد
