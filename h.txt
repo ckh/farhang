@@ -1394,7 +1394,7 @@ Hopfen; رازَک، لَبلاب
 hopsen; جَست و خیز کَردَن
 - das ist gehopst wie gesprungen; چه عَلى خواجه، چه خواجهٔ عَلى
 hörbar; قابِل ِ شِنیدَن، شِنیدَنى
-- hörbar sein; رَسا بودَن، شِنَوَنده ب
+- hörbar sein; .رَسا بودَن، شِنَوَنده ب
 Hörbereich; ناحیهٔ صوتى، ـ شِنَوائى
 horchen; گوش گِرِفتَن
 - horch mal!; گوش گیر
@@ -1403,19 +1403,18 @@ hören; گوش کَردَن
 - lass hören!; بِگو بِبینَم
 - er hörte überhaupt nicht zu; گوشِش به .. بِدِهکار نَبود
 - nicht auf etwas hören, s. nicht darum kümmern; زیر ِ بار نَرفتَن
-- zuhören; گوش فَرا دادَن، ـ کَردَن، اِستِماع ک
+- zuhören; .گوش فَرا دادَن، ـ کَردَن، اِستِماع ک
 - was man so hört; از قَرار ِ مَعلوم، ـ مَسموع 
 - die .., die er von .. hörte; او چیزى را که از فِلان سَر مى زَد
-- hör mal zu; پَس گوش فَرا دَهى، بِشنو، گوش بِگیر، ـ گوش کُن
+- hör mal zu; پَس گوش فَرا دَهى، بِشنو، گوش بِگیر، گوش کُن
 - Hör mal gut zu!; گوشِت با مَن باشَد
-- das mußt du hören; که بیایی و تَماشا کُن...
-- Jeder hört s. selbst am liebsten; صوت ِ خودَش بِگوش ِ خودَش خوشنَوا ست
+- das mußt du hören; که بیایی و تَماشا کُن
+- Jeder hört s. selbst am liebsten; صوت ِ خودَش بِگوش ِ خودَش خوشنَواست
 Hören (n); اِستِماع، اِصغاء
 - dass einem Hören und Sehen vergeht; که نَگو و نَشنو ... 
 - Preise, wo einem Hören & Sehen vergeht; قِیمَتى دارَد که کَلهٔ آدَم سوت مى کِشَد
 hörend; سامِع، شِنَوَنده
-Hörensagen;
-- vom Hörensagen; اَفواهاً
+Hörensagen (vom -); اَفواهاً
 Hörer; گوشنِشین، شِنَوَنده، سامِع
 - die Hörer fesseln; تَوَجُه ِ مُستَمعِین را جَلب کَردَن
 - Telefonhörer; گوشی
@@ -1442,7 +1441,7 @@ Hörsaal; سالُن ِ دَرس ِ دانِشگاه
 Hörschärfe; تیز ِگوشى
 Hörspiel; نَمایِش ِ رادیوئى
 Hörweite;
-- in Hörweite von ...; دَر صِدا رَس ِ
+- in Hörweite von ...; ... ِ دَر صِدا رَس
 Hose; شَلوار
 - jem., der die Hosen voll hat; بَچهٔ شیشو، ـ ریغو
 - er hat die Hose voll; از تَرس تو شَلوارَش ریده، ـ شاشیده
@@ -1531,7 +1530,7 @@ hüpfen; جَست و خیز کَردَن، جَهیدَن
 Hürde; (pl.)  (مانِع (مَوانِع
 - die letzte parlamentarische Hürde nehmen; از آخَرین مَرحَلهٔ پارلِمانى گُذَشتَن                                   
 Hürdenlauf; دُو با عَوارض
-Hurra;
+Hurra; هورا
 - Hurra schreien; هورا کِشیدَن
 husten; سُرفه کَردَن
 Husten (m); سُرفه
@@ -1543,7 +1542,7 @@ Hut; کُلاه
 hüten;
 - Schafe hüten; گوسفَندهارا چوپانى کَردَن
 - s. hüten vor; خودرا از چیزى نِگَه داشتَن، از چیزى بر هَذَر بودَن
-Hütte; کوهه، کَپَر، آلونَک، کُلبه
+Hütte; کَپَر، آلونَک، کُلبه
 - Eisenhütte; کورهٔ آهَن گَرى
 - Holzhütte; آلونَک
 Hyäne; کَفتار
@@ -1559,12 +1558,12 @@ hygroskopisch; نَمگیر
 Hymne; مَدح
 - Nationalhymne; سُرود ِ مِلى
 Hyperbel; مُنحَنى ِ هَذلولى، خَط ِ ـ
-Hypnose; چِشم بَندى
+Hypnose; چِِشم بَندى
 - er blieb wie hypnotisiert stehen; او مِثل ِ گُنجِشکى که خواب بَند نِگاه ِ اَفعى شُده باشَد سَر ِ جایَش خُشکَش زَده بود
 hypnotisierend; مُنَوِم
 Hypotenuse; زاویهٔ قائِمه
 Hypothek; رَهن
-Hypothekenzinsen; نُزول ِ رَهن، رِبح ـ
+Hypothekenzinsen; نُزول ِ رَهن، رِِبح ـ
 Hypothese; فَرضیه
 hypothetisch; فَرضى
 Hysterie; تَشَنُج، بیمارى ِ اَعصاب
