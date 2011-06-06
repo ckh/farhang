@@ -2538,6 +2538,7 @@ blass; زَردرو، رَنگ رَفته
 Blatt; بَرگ
 - das Blatt hat s. gewendet; وَرَق بَرگَشت
 - ohne Blatt vor dem Mund; با صَراحَت ِ تَمام، بى تَعرُف، رو راست حَرف زَدَن، بى پَرده، رُک و راست
+- jedes Blatt ist ein Hinweis auf den Schöpfer (Saadi); بَرگ ِ دِرَختان ِ سَبز دَر نَظَر ِ هوشيار، هَر وَرَقِش دَفتَرى است مَعرِفَت ِ کِردِگار
 - Blatt ansetzen; بَرگ آوَردَن
 - ein Blatt Papier; يِک وَرَق ِ کاغَذ
 - Platanenblatt; بَرگ ِ پَنجه اى
@@ -2820,7 +2821,7 @@ Bogenschütze; تير اَنداز
 Bohème; قَلَندَرى
 Bohle; اَلوار، تَخته
 böhmisch;
-- das sind böhmische Dörfer; هَمه اش هَم دَر باره اِسرار ِ عِلم ِ کيميا و ليميا است
+- das sind böhmische Dörfer; هَمه اش هَم دَر بارهٔ اِسرار ِ عِلم ِ کيميا و ليميا است
 Bohne; لوبيا
 - Bohnen, ausgehülst;  لَپة باقَلا
 bohnern; واکس زَدَن

@@ -1,6 +1,6 @@
 ﻿ich; مَن، بَنده، اینجانب
 - selbstherrliches Ich; نَفس ِ اَماره
-- mein inneres Ich; ضَمیر ِ خود، خودى ِ خود، نَفس ِ خود
+- mein inneres Ich; ضَمیر ِ خود، خودى ِ خود، نَفس  ِ خود
 Ichsucht; خود خواهی
 Ideal; آرمان، ایدِه ال
 - Glaube an Ideale; ایمان به آرمان
@@ -91,12 +91,13 @@ impliziert; ضِمنى، حاکى است
 imponieren; خودرا دَر مُقابِل ِ کِسى بُزُرگ نِشان دادَن
 Import; تورید، وارِدات
 - Export & Import; صادِرات و وارِدات
-importieren; تورید کَردَن، وارِد ک
+importieren; .تورید کَردَن، وارِد ک
 imposant; پُر سَطوَت، هِیبَت اَنگیز، تَوَجُه ِ مَردُم را جَلب میکُنَد، جَلب ِ تَوَجُه کُنَنده
 impotent; عَقیم
 Impotenz; سُستى ِ کَمَر، عُقم
 imprägnieren; اِشباع کَردَن
 imprägniert; مُشبَع
+Imprägnierung; اِشباع
 - Imprägnierung von Holz; اِشباع ِ چوب، نِگَهدارى ِ ـ
 Imprägnierungsmittel; جِلوگیرى کُنَنده از فِساد
 Impressum; نِشانى ِ مَطبَعه و تاریخ ِ طَبع ِ کِتاب

@@ -2267,6 +2267,7 @@ anspielen;
 - anspielen auf; کِنایه گُفتَن، کِنایه به چیزى زَدَن
 anspielend; کِنایه دار
 Anspielung; تَلمیح، کِنایه
+- in Anspielungen reden; به دَر مى گوئى ديوار بِشنو
 anspitzen; تیز کَردَن
 - anspitzen (*:anstacheln); تَحریک کَردَن
 Ansporn; تَضریب، تَشویق، اَنگیزه
@@ -3647,6 +3648,7 @@ Auftakt (Verhandlungs -); پیشدَرآمَد ِ مُذاکِره
 auftanken; بِنزین زَدَن، سوخت گیرى کَردَن
 auftauchen;
 - auftauchen, erscheinen; سَر از آب دَر آمَدَن، بُروز شُدَن، چیزى از کِسى سَر مى زَنَد، نَمایان شُدَن
+- aus der Versenkung auftauchen; آدم  به  آدم  ميرسد کوه  بکوه  نميرسد : هرچند سالها يا مرحله ها از يکديگر دور بوديم  و اميد ديدار نداشتيم  اکنون  باز يکديگر را ديديم
 - bei ihm taucht manchmal ein Fehler auf; گاهى از او خَطائى سَر مى زَنَد
 - Auftauchen; ظُهور
 auftauen; آب شُدَن
@@ -4310,6 +4312,7 @@ ausnehmen;
 - er ist eine ausnehmende Erscheinung; آدَم ِ خوش پَسَند است
 ausnutzen; مُستَفید شُدَن، اِستِفاده کَردَن
 - jem. ausnutzen; آب دَر گوش ِکِسی کَردَن، دَر سودایی او را فِریفتَن
+- nicht die Schwäche anderer ausnutzen; آدم  حسابش  را پيش  خودش  ميکند : از شرمگني  و حجب  ديگران  استفاده  سوء نبايد کردن
 - ausgenutzt werden; خَر شُدَن، خَر حَمال بودَن
 - ausnutzend; مُستَفید
 Ausnutzung; بَهره کِشى
