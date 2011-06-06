@@ -137,7 +137,7 @@ Inbesitznahme; تَصاحُب
 Inbusschraube; پیچ ِ آلِن
 indem;
 - indem er ...; هَمینطور که ...، هَنگامیکه
-- indem er sie nicht beachtet ...; او با به هیچ گِرِفتَنِشان آنهارا
+- indem er sie nicht beachtet ...; ... او با به هیچ گِرِفتَنِشان آنهارا
 Index; فِهرِست
 - Index der Lebenshaltungskosten; شاخِص ِ هَزینهٔ زِندِگى
 Indianer; سُرخ پوست
@@ -168,7 +168,7 @@ Industrialisierung; صَنعَتى کَردَن
 Industrialisierungsbemühungen; تَلاشهاى ِ صَنعَتى
 Industrie; (pl.) صَنايِع (صَناعَت)، صَنعَت
 - Grundstoffindustrie; صَنایعِ ِ اِستِخراجى
-- Leichtindustrie; صَنايِع ِ سَبُک، صَنَعت ـ
+- Leichtindustrie; صَنايِع ِ سَبُک، صَنَعت ِـ
 - Rüstungsindustrie; صَنايِع ِ جَنگى
 - Industrie- & Handelskammer; اُتاق ِ صَنایع ِ و بازَرگانى
 Industrieviertel; مَحَل ِ مَخصوص ِ کارخانِجات
@@ -184,19 +184,19 @@ Infektionskrankheit; بیمارى ِ مُسرى
 infektiös; واگیر، مُسرى، عُفونى، سَرايَت کَردَنى
 Infiltration; نُفوذ
 Infinitiv; مَصدَر
-infizieren; کِسى را مُسرى کَردَن، ـ مَریض ک.، ـ مُبتَلا ک.، ـ سَرايَت ک
+infizieren; .کِسى را مُسرى کَردَن، ـ مَریض ک.، ـ مُبتَلا ک.، ـ سَرايَت ک
 Inflation; تَوَرُم ِ مالى
 - Inflation der Begriffe; فُروپاشی ِ مَعنا
 - inflationärer Preisauftrieb; جَهِش ِ تَوَرُمى ِ قِیمَتها
 Influenza; اِنفلوانزا
-Information; (pl.) اِطِلاع (اِطِلاعات
-- in Bezug auf Information von ...; دَر اَمر ِ اِطِلاع رِسانى ِ
+Information; (pl.) (اِطِلاع (اِطِلاعات
+- in Bezug auf Information von ...; ... ِ دَر اَمر ِ اِطِلاع رِسانى
 Informationsnetz; شَبَکهٔ اِطِلاعات
 Informationsquelle; مَنبَع ِ اِطِلاعاتى
 Informationsreise; سَفَر ِ کَسب ِ اِطِلاعات
 informieren; خَبَر دادَن، اِطلاع د.، مُطَلَع کَردَن
 - s. informieren; کَسب ِ اِطِلاع کَردَن
-- informiert sein über; بَر چیزى واقِف بودن، خَبَردار ب .، مُطَلَع ب
+- informiert sein über; .بَر چیزى واقِف بودن، خَبَردار ب .، مُطَلَع ب
 - gut informiert; سَر ِ حِساب
 - jem. wird darüber informiert, dass ..; از کِسى به اِستِحضار میرِسَد که
 - informierte Kreise; مُحافِل ِ مُطَلَع
@@ -208,9 +208,9 @@ ingangsetzen; بِحَرَکَت اَنداختَن، بِکار ـ
 Ingenieur; مُهَندِس
 Ingwer; زَنجَبیل
 Inhaber; صاحِب
-inhaftieren; زِندانی کَردَن، حَبس ک
+inhaftieren; .زِندانی کَردَن، حَبس ک
 - inhaftiert sein; زِندانى کِشیدَن
-inhalieren; اِستِشمام کَردَن، اِستِنشاق ک
+inhalieren; .اِستِشمام کَردَن، اِستِنشاق ک
 Inhalt; مَضمون، مُحتَویات
 inhaltsarm; کَم مايِع
 inhaltslos; سَخیف، بى مُحتَوى
@@ -226,7 +226,7 @@ injizieren; آمپول زَدَن
 Inkarnation; تَجَسُم، حُلول
 inkarnieren;
 - s. auch in anderen Menschen inkarnieren; خودرا دَر اَفراد ِ دیگَرى نیز حُلول کَردَن
-inklusive ...; به انِضِمام  ِ
+inklusive ...; ... ِ به انِضِمام
 inkognito; نام ِ مُستَعار، اِسم ِ رَمز، مَجهول اُلهُویه، نامَعلوم اُلِمکان
 inkompatibel; مُتَضاد، به چیزی نِمی خورَد
 Inkompatibilität; ناسازگارى
@@ -243,7 +243,7 @@ Inkubationszeit; زَمان بِین ِ سَرايَت و پَدید آمَدَ�
 inmitten;
 - inmitten der Entscheidung; گَرم ا گَرم ِ نَتیجه گیرى
 - inmitten des Kampfes;  دَر بُحبوحهٔ مُبارزه، دَر وَسَط ِ ـ
-innehaben; بَر عُهده داشتن، دَر اِختیار د
+innehaben; .بَر عُهده داشتن، دَر اِختیار د
 innehalten; مَکث کَردَن
 - ich habe innegehalten; مُچ ِ خودَم را گِرِفتَم
 innen; دَرون، داخِل
