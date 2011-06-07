@@ -247,21 +247,20 @@ innehaben; .بَر عُهده داشتن، دَر اِختیار د
 innehalten; مَکث کَردَن
 - ich habe innegehalten; مُچ ِ خودَم را گِرِفتَم
 innen; دَرون، داخِل
+- innere Unruhe; غوغاى ِ دَرونى
+- inneres Wesen; دَرونَمایه
 Innenraum; فَضاى ِ داخِلى
 Innerweltlichkeit;
 - Innerweltlichkeit Gottes; هَمِگامى و حُضور ِ دائِم ِ خُدا
-inner;
-- innere Unruhe; غوغاى ِ دَرونى
-- inneres Wesen; دَرونَمایه
 Innerei; دِل و جِگَر، دِل و روده
 innerhalb;
 - innerhalb 1 Jahres; دَر ظَرف ِ ۱ سال، دَر عَرض ِ ـ
 innerlich;
 - ich habe mich innerlich darauf eingestellt; دِلَم را صابون زَدَم، شِکَمَم را صابون زَدَم
-- innerlich & äusserlich; دَر ظاهِر و باطِن
+- innerlich & äusserlich; دَر باطِن و ظاهِر
 innerparteilich; دُرون ِ حِزبى
 Innerst;
-- das Innerste des Menschen; (pl.) بَطن ِ اِنسان، ضَمیر ِ اِنسان (ضَمايِر ِ
+- das Innerste des Menschen; (pl.) (بَطن ِ اِنسان، ضَمیر ِ اِنسان (ضَمايِر
 - ... hat sein Innerstes so erfüllt, dass ...;  چیزى بِطورى دَر رَگ و پِى او ریشه دَوانیده بود که
 innig; پُر اِخلاص
 Innovation; نو آوَری
@@ -297,7 +296,7 @@ Installation;
 - Wasserinstallation; لوله کِشی ِ آب
 - Programminstallation (Computer); نَصب ِ بَرنامه
 installieren;
-- installieren (Leitung); لوله کِشیدَن، سیم ک
+- installieren (Leitung); .لوله کِشیدَن، سیم ک
 - installieren, anbringen; نَصب کَردَن
 Instandhaltung; حِفظ و نِگَه دارى
 inständig;
@@ -375,9 +374,9 @@ Internierungslager; اُردوگاه ِ توقیف
 Interpellationsrecht; حَق ِ اِستیضاح، ـ بازخواست
 Interpret; مُفَسِر
 Interpretation; تَفسیر
-- bei der Interpretation; دَر تَفسیر ِ، ـ تأویل ِ، ـ تَعبیر ِ
+- bei der Interpretation; ِ دَر تَفسیر ِ، ـ تأویل ِ، ـ تَعبیر
 Intervall;
-- im Intervall von ..; دَر خَلال ِ
+- im Intervall von ..; ... ِ دَر خَلال
 Intervention; مُداخِله، دِخالَت
 Interview; مُصاحِبه
 - ein Interview geben; مُصاحِبه دادَن
@@ -393,7 +392,7 @@ intolerant; بی مَدارا، مُتَعَصِب
 - eine intolerante Aussage; اِظهارات ِ باریک بَیانه و اِنحِصارى، اِظهارات ِ مُتَعَصِب
 Intrigant; مُشتَبِه کار، دَسیسه باز
 Intrige; بَند و بَستها، دَسیسه، توطئه، پُشت ِ هَم اَندازى، مُشتَبه کارى، اَسباب چینى، جُفت و کَلَک
-intrigieren; موش دَوانى کَردَن، دَسیسه ک
+intrigieren; .موش دَوانى کَردَن، دَسیسه ک
 introvertiert; کَم جوش، رو بِباطِن
 Invalide; ناقِص اُلعُضو، آدَم ِ فَلَج
 Invasion; تَهاجُم، اِستیلاء، تاخت و تاز
@@ -413,7 +412,7 @@ inzwischen; دَر این میان
 - inzwischen kam ich zu dem Ergebnis; دَر این میان به نَتیجه نائِل آمَدَم
 Ion; یون
 Iran; ایران
-Iraner (- in); ایرانى (زَن ِ ـ
+Iraner (- in); (ایرانى (زَن ِ ـ
 irgendein;
 - auf irgendeine Weise; به نَحوى از اَنحاء
 - wenn irgendeine Aussage ..; هَر گونه اِظهار ِ نَظَرى که
@@ -433,15 +432,15 @@ ironisch; طَعنه آمیز
 - sie versuchte, nicht ironisch zu werden; سَعی می کَرد طَعنه نَزَنَد
 irrational; غِیر ِ مَنطِقى، نامَعقول
 irreal; غِیر ِ واقِعى
-irreführen; بِآب راندَن، مُنحَرِف کَردَن، گُمراه کَردَن، به گُمراهى اَنداختَن، به بیراهه ا
+irreführen; مُنحَرِف کَردَن، گُمراه کَردَن، به گُمراهى اَنداختَن، به بیراهه ا.،  بِآب راندَن
 irreführend; اِغفال کُنَنده
 Irreführung; تَضلیل، اِغفال
 irregeleitet, verirrt; ضَلیل، بِضِلالَت اُفتاده
 irregulär; غِیر ِ مُنَظَم، بى قاعِده
 irren; اِشتِباه کَردَن، چیزى را قََر و قاطى دیدَن
-- s. irren ist menschlich; اِنسان جايِِز اُلخَطا است
+- s. irren ist menschlich; اِنسان جايِِز اُلخَطا است، اِنسان شیر ِخام خورده است
 - wenn ich mich nicht irre, ...; اَگَر اِشتِباه نَکُنَم
-- ich irrte mich in ...; مَن ... را اِشتِباه گِرِفتَم، ـ عَوَضى گ
+- ich irrte mich in ...; .مَن ... را اِشتِباه گِرِفتَم، ـ عَوَضى گ
 - von Haus zu Haus irren; این دَر ِ حَسَن و آن دَر ِ حُسِین، این خانه و آن خانه رَفتَن
 irrend; ضَلیل
 Irrer; مَجنون، دیوانه
@@ -464,7 +463,7 @@ Isobare; هَمفِشار
 Isolation (phys.); عايِق
 - in der Isolation; دَر تَفَرُد، دَر اِنزوا، دَر جُدائى
 Isolierband; نَوار ِ عايِق کُنَنده
-isolieren (- s.); ایزوله کَردَن، مُنزَوى ک
+isolieren (s. -); .ایزوله کَردَن، مُنزَوى ک
 Isolierschicht; روکِش ِ عاِیق
 Isolierzelle; حُجرهٔ اِنفِرادى
 Isomerie; هَم تَرکیبى
@@ -472,5 +471,5 @@ isometrisch (literat.); هَموَزنى
 ist (*: sein, bin, war);
 - er ist Schüler (*: befinden); او شاگِرد است
 - es ist, wie es ist; این است که هَست
-- jem. ist (als Anhängung von z.B. Fundamentalist); گِرا (مَثَلاً: بُنیان گِرا
+- jem. ist (als Anhängung von z.B. Fundamentalist); (گِرا (مَثَلاً: بُنیان گِرا
 - Ist - Menge; مِقدار ِ واقِعى

@@ -177,7 +177,7 @@ gebären; زائیدَن، به دُنیا آوَردَن
 - nicht gebärend; نازا
 Gebärmutter (f); رَحِم، زِهدان
 Gebäude (n); عِمارَت، ساختِمان
-- Gebäudegrösse (in Annoncen); مَساحَت ِ اَعیان
+- Gebäudegröße (in Annoncen); مَساحَت ِ اَعیان
 gebaut;
 - gut gebaut (Figur); خوش بُنیه
 Gebefreudigkeit (f); بَذل و بَخشِش
@@ -2134,10 +2134,11 @@ gross;
 grossartig; مُجَلَل، شَریف، عالى
 - grossartige Eigenschaften der Menschen; خُصوصیات ِ والاى ِ اِنسان
 - s. mit grossartigen Gesten von etwas freimachen; چیزى را با توجیهات عاطِفى از سَر باز کَردَن
-Grösse; بُزُرگى، اَندازه
-- Grösse, Erhabenheit (eines Menschen); عُلُو
-- Grösse Gottes; عِزَت و قُدرَت ِ خُدا، عَظَمَت خُدا
-- Grösse (i.S. Ausdehnung) eines Landes; مَساحَت
+Größe; بُزُرگى، اَندازه
+- Größe, Erhabenheit (eines Menschen); عُلُو
+- Größe Gottes; عِزَت و قُدرَت ِ خُدا، عَظَمَت خُدا
+- Größe (i.S. Ausdehnung) eines Landes; مَساحَت
+- Wahre Größe zeigt sich durch Demut; آدَم  از کوچِکی بُزُرگ میشَوَد : خُضوع  و فُروتَنی سَبَب ِ بُزُرگی ِ مَرد شَوَد
 Grosseltern; جَد و جَده، پِدَر و مادَر بُزُرگ
 Grosshandel; بُنَکدارى، عُمده فُروشى
 grossherzig; بُزُرگوار، بُزُرگ مَنِش
@@ -2224,7 +2225,7 @@ grundsätzlich; اُصولاً
 Grundschule; دَبِستان
 Grundschullehrer; آموزِگار، مُعَلِم ِ دَبِستان
 Grundstück; (plur.) اَرض (اَراضى)، زَمبن
-Grundstücksgrösse; مَساحَت ِ عَرصه
+Grundstücksgröße; مَساحَت ِ عَرصه
 Gründung; تأسیس
 - Gründung einer Institution; - ِ تأسیس ِ مُؤِسِسه، اِحداث
 Gründungsmitglied; عُضو ِ مُؤَسِس
