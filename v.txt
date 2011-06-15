@@ -2039,7 +2039,7 @@ Vokal; (pl.) حَرف (حُروف) ِ مُصَوَته، ـ صِدادار
 - "a" - Vokal; عَلامَت ِ فَتحَه
 - "e" - Vokal; عَلامَت ِ کَسرَه
 - "o" - Vokal; عَلامَت ِ ضَمَه
-Volalharmonie; هَماهَنگی ِ اِصوات
+Vokalharmonie; هَماهَنگی ِ اِصوات
 Vokalzeichen; عَلامَت ِ حَرف ِ صِدا دار
 Volk; (pl.)  (قوم (اَقوام)، مِلَت (مِلِل
 - Volk, Leute; عامة مَردُم، خَلق
@@ -2264,7 +2264,7 @@ vorenthalten;
 - jem. den Lohn vorenthalten; نان ِ کِسي را آجُر کَردَن
 - jem. nichts vorenthalten; چيزى را از کِسى مُضايِقه نَکَردَن
 - Freiheit den Menschen vorenthalten; آزادى ِ اَفرادرا دَريغ داشتَن، ـ کَردَن
-vorerst; (fi-l-hāl) فى الحال
+vorerst; (fi-l-hāl) فى الحال
 - vorerst nicht; فِعلاً که نَه
 vorfabriziert; پيش ساخته
 Vorfahren; آبا و اَجداد، سَلَف، اَسَلاف، پيشينيان
