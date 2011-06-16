@@ -338,19 +338,21 @@ Kehle; حُلقوم، گَلو گاه
 Kehlkopf; ناى ِ گَلو، خُشک ناى، حَلق، خِرخِره
 Kehlkopfkrebs; سَرَتان ِ گَلو
 Kehrblech; خاک اَنداز
-kehren; روبیدَن، رُفت و روب کَردَن، جارو ک
+kehren; .روبیدَن، رُفت و روب کَردَن، جارو ک
 - s. ins Gegenteil kehren; نَعَل وارونه زَدَن
 Kehricht; خار و حاشاک، خاکروبه، نُخاله
 Kehrmaschine; دَستگاه ِ رُفتگَر
+Kehrseite; - ضَعفِش دَر این است، عِیبِش
+keifen; جیغ زَدَن
 keifig; پَتاره، جیغ زَنَنده، جیغو
 Keil; چوب شِکاف، گاوه، گوه
-Keilriemen; تَسمه پَروانه
+Keilriemen; تَسمهٔ پَروانه
 Keilschrift; خَط ِ میخى
 Keim;
 - Keim, Ursprung; مَنشأ
 - Keim (*: Keimling); نُطفه
 - etwas im Keime ersticken; چیزى را در نُطفه خَفه کَردَن
-- den Aufstand im Keim ersticken; فِتنه را قَلع و قَمع کَردَن، ـ دَر نُطفه کُشتَن، ـ از گیشه بَرانداختَن
+- den Aufstand im Keim ersticken; فِتنه را قَلع و قَمع کَردَن، ـ دَر نُطفه کُشتَن، ـ از گیشه بَراَنداختَن
 keimen; جوانه زَدَن
 Keimling; جِنین، گیاهَک، جَوانه، نُطفه، تُخم، دانه
 Keimung; جَوانه زَدَن
@@ -374,10 +376,10 @@ Kelle;
 - Suppenkelle; آبگَردان
 Keller; زیرزَمین
 Kellner; پیشخِدمَت، گارسُن
-kellnern; گارسُنى کَردَن، خِدمَت ک
+kellnern; .گارسُنى کَردَن، خِدمَت ک
 Kelter; (pl.) مِعصَر (مَعاصِر)، چَرخُشت
 keltern; دَر چَرخُشت پایمال کَردَن
-kennen; شِناختن
+kennen; شِناختَن
 - ich kenne da jemand; با کِسى آشنا هَستَم، کِسى را سُراغ دارَم
 - kennst du einen Arzt?; سُراغ ِ پِزِشک را دارى؟
 - welchen Flecken (Platz) kennt er nicht?; چه جاها که دَستَش بَند نَبود
@@ -402,7 +404,7 @@ Kenntnisnahme; مُلاحِظه
 Kennwort; شُعار
 Kennzeichen;
 - besondere Kennzeichen; عَلامَت ِ فارِقه، نِشانهٔ خُصوصى
-- Autokennzeichen; شُماره ماشین
+- Autokennzeichen; شُمارهٔ ماشین
 - Wesenskennzeichen; عَلائِم ِ ذاتى
 kennzeichnen;  .عَلامَت گُذاشتَن، نِشانه گ
 kennzeichnend; فارِق
@@ -412,21 +414,23 @@ Kerbe; کُنگره، آج، بُریدِگى
 Kerker; سیاه چال، هُلُفدونى، دَخمه
 Kerl; مَتیکه، مَردَک، یارو
 - er war ein Kerl; او آتَش پاره بود
-- dieser Scheißkerl; این گور به گور
+- dieser Scheißkerl (popul.); این گور به گور
 Kern; هَسته
 - Kern (philos.) (kohn); کنه
 Kernaussage; لُب ِ مَطلَب
 Kernenergie; اِنِرژی ِ اَتُمی، - هَسته ای
-Kernreaktor; رآکتُر ِ اتُمى
-Kernwaffe; اََسلحه اَتُمی
+Kernreaktor; راکتُر ِ اَتُمى
+Kernwaffe; اََسلحهٔ اَتُمی
 - kernwaffenfreie Zone; مَنطَقهٔ عارى از سَلاحهاى ِ اَتُمى
 Kerze; شَمع
 - Kerze anzünden; شَمع روشَن کَردَن
 - Zündkerze; شَمع ِ بَرقى
 kerzengerade;
 - s. kerzengerade hinstellen; سیخ واایستادَن
+Kerzenständer; شَمعِدان
 kess; پُر رو
 Kessel; دیگ، کِترى
+- Wasserkessel; کِتری ِ آب
 Kesselstein; تَه گیرى، جِرم، رُسوب
 Ketchup; کِچاپ
 Kette;
@@ -451,7 +455,8 @@ Keule;
 keusch; مَعصوم، پاکدامَن
 Keuschheit; نِجابَت، عِصمَت، حِصانَت، پاکدامَنى
 kH (Frequenz); کیلو هِرتز
-kichern; نُخودى خَندیدَن
+Kichererbse; نُخود ِ سِفید
+kichern; .نُخودى خَندیدَن، کِرکِر خ
 Kick;
 - einer Sache einen Kick geben; چیزى را تاب دادَن
 Kidnapper; آدَم رُبا، - دُزد
@@ -476,10 +481,11 @@ Kind; (pl.) فَرزَند، وَلَد (اولاد)، بَچه
 - ein Kind bekommen; بَچه دار شُدَن
 - Kinder & Kindeskinder; اولاد و اولاد ِ اولاد، فَرزَندان و نَوه ها
 -  für ihn ist das Tier wie sein eigen Kind; او اِنگار این حِیوان پارهٔ جِگَرِش است
-- (nach 2 Kindern) wollten wir keine Kinder mehr; بَعد از دو تا بَچه) دَر ِ اِزا بِزايِمان را گُذاشتیم)
+- nach 2 Kindern wollten wir keine Kinder mehr; بَعد از دو تا بَچه دَر ِ اِزا بِزايِمان را گُذاشتیم
 Kindererziehung; پَروَرِش ِ اولاد، ـ فَرزَندان
 Kinderfrau; دَده، لَله
 Kindergarten; کودَکِستان
+- Vorschulkindergarten; مَحد ِ کودَکان
 Kindergärtner; پَرَستار ِ کودَکان، مُرَبى ِ ـ
 kinderleicht; مِثل ِ آب خوردَن
 kinderlos (- sein); نازاد بودَن، بى اولاد ب.، فَرزَندى نَبودَن، بی تُخم و تَرَکه ماندَن
@@ -526,14 +532,14 @@ Kitsch; اِبتِذال
 kitschig; قُلُنبه، بى روح، بى مَزه، اِحساساتى
 Kitt; بِتونه
 Kittel; پیراهَن ِ راحَتى، روپوش
-kitten; بَطانه زَدَن، بِتونه ز
+kitten; .بَطانه زَدَن، بِتونه ز
 Kitzel;
 - Nervenkitzel; خاطِره اَنگیز
 kitzeln; قِلقِلَک دادَن
 Kitzler; چوچوله
 kitzlig;
 - er ist kitzlig; قِلقِلَکى است
-- eine kitzlige Angelegenheit; قَضیه حَساسی
+- eine kitzlige Angelegenheit; قَضیهٔ حَساسی
 Kladde; مُسَوَده
 Klage;
 - Klage, Trauer; نوحه، فَغان، شَکوه، ناله
