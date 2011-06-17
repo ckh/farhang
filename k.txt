@@ -596,7 +596,7 @@ klar;
 - klare Stimme; آواز ِ ناب
 - klare Formulierung; بَیان ِ روشَن و بى پیرایهٔ مَسأله
 - du musst einen klaren Kopf behalten; بايَد حَواسَت سَر ِ جا باشَد
-- ich bin mir darüber im klaren; مَن از این چیز آگاه هَستَم، مَن خاطِر جَمع هَستًم که
+- ich bin mir darüber im klaren; مَن از این چیز آگاه هَستَم، مَن خاطِر جَمع هَستَم که
 - klares Wetter; هَواى ِ صاف
 - klares Quellwasser; آب ِ زِلاف ِ چِشمه
 - man muss s. im Klaren sein; بايَد يَقین حاصِل کُنَد
@@ -611,13 +611,17 @@ Klarheit;
 - in aller Klarheit (des Geistes); با صَحو تَمام
 - Klarheit schaffen; وُضوع بَخشیدَن، شَفافيَت دادَن
 Klarinette; قَرنِى
-klarkommen; با کِسی سَر شُدَن، - ساختَن
-- mit etwas (jem.) klarkommen; با چیزی (کِسی) کِنار آمَدَن
+klarkommen;
+- mit etwas (jem.) klarkommen; با چیزی (کِسی) کِنار آمَدَن، با کِسی سَر شُدَن، - ساختَن
 Klärung; توضیح، روشَن کَردَن
 - der Richter versprach vollständige Klärung;  قاضى وَعدهٔ رِسیدِگى ِ کامِل داد
 Klasse;
 - er geht in die dritte Klasse; او میرَوَد کلاس ِ سِوُم
 - er war Klasse; او آتَش پاره بود
+- Wagen der 2. Klasse; واگُن ِ دَرَجهٔ ۲
+- Arbeiterklasse; طَبَقهٔ کارگَران
+- Führerschein Klasse 2; گُواهینامهٔ رانَندِگی ۲
+- Steuerklasse; گُروه ِ مالیاتی
 Klassenältester; مُبصِر
 Klassenbewusstsein; شُعور ِ طَبَقاتى، آگاهى ِ ـ
 klassenspezifisch;
@@ -630,7 +634,7 @@ klassisch;
 Klatsch; بَد زَبانى، جُغُلى
 klatschen;
 - klatschen (Beifall); دَست زَدَن
-- klatschen, tratschen;  .دو بَر هَم زَنى کَردَن، جُغُلى ک
+- klatschen, tratschen; .دو بَر هَم زَنى کَردَن، جُغُلى ک
 Klatschtante; خاله زَنَک
 Klaue; پنچه
 - Klaue (Schrift); خَط ِ خَرچَنگ ِ غورباغه ای
@@ -667,35 +671,33 @@ Kleidung; لِباس، جامه، مَلبوس، لِباس و پوشاک
 Kleie; سَبوس و پوشهٔ خوشهٔ غَلات
 klein; کوچِک
 - klein, aber fein; ریز وَلى تیز
-- klein, aber oho!; فِلفِل نَبین چه ریزه، بِشکَن بِبین چه تیزه
+- klein, aber oho!; فِلفِل نَبین چه ریزه بِشکَن بِبین چه تیزه
 - von klein auf an; از اَوان کودَکى
 - er war klein; او ریز نَقش بود، قَدَش کوتاه بود
 - klein mit Hut werden; کِسى تا حَد ِ شِش دَر چَهار کوچِک مى شَوَد
-- ein kleines Kind; کودَک ِ خُرد
+- ein kleines Kind; کودَک ِ خُرد، کوچولو
 - eine kleine Schrift (i.S.: Buch); کِتابی ِ کَم حَجم
 - um ihn mit .. klein zu kriegen; تا اورا با .. ذَلیل سازَد
-- das kleinere übel; اَهوَن اُلشَرین
+- das kleinere Übel; اَهوَن اُلشَرین
 - man fängt klein an (bei Diebstahl); تُخم ِ مُرغ دُزد شُتُر دُزد می شَوَد
 - Im Kleinen treu sein; دَر اَندَک اَمین بودَن
 - im Kleinen & im Grossen; صُغرا و کُبرا
-- immer trifft es die Kleinen; از خُردان لَخشیدَن، از بُزُرگان بَخشیدَن، از خُردان خَطا، از بُزُرگان عَطا
+- immer trifft es die Kleinen; از خُردان لَخشیدَن، از بُزُرگان بَخشیدَن، از خُردان خَطا از بُزُرگان عَطا
 Kleinasien; آسیاى ِ ضَغیر
 Kleingeld; پَشیز، پول ِ خُرد، سِکه
-kleinhacken;
-- Zwiebeln kleinhacken; پیازرا رَنده خُرد کَردَن
-Kleinigkeit; (pl.) جُزئی (جُزئیات
+kleinhacken (z.B.: Zwiebeln); پیازرا رَنده خُرد کَردَن
+Kleinigkeit; (pl.) (جُزئی (جُزئیات
 - auf Kleinigkeiten achten; دِقَت کَردَن
-- das ist eine Kleinigkeit; اینها که چیزى نیست از هَفت بُرو به هَفتاد
+- das ist eine Kleinigkeit; اینها که چیزى نیست، از هَفت بُرو به هَفتاد
 kleinkariert;
 - er ist kleinkariert (*: pingelig); او تَنگ نَظَر است
 Kleinkram; خورده ریز، دَله کاری
 - s. mit Kleinkram abgeben; به چیزى وَررَفتَن
 Kleinkrämer; پیله وَر، خورده فُروش
 kleinkriegen; کِسى را خُرد کَردَن، ـ داغون ک.، ـ از پا دَر آوَردَن
-Kleinod; (pl.) نَفیسه (نَفايِس
+Kleinod; (pl.) ( نَفیسه (نَفايِس
 Kleinstadt; شَهرَک
-kleinwüchsig;
-- kleinwüchsiger Mann; مَرد ِ کوتاه قَد، آدَم ِ ریزنَقش
+kleinwüchsig;  آدَم ِ کوتاه قَد، - ریزنَقش
 Kleister; چَسب
 Klemme;
 - in der Klemme sitzen; دَر گِرِفتارى بودَن، نَه راه پیش و نَه راه پَس داشتَن، دَر این مورِد گیر شُدَن
@@ -737,7 +739,7 @@ Klo (*: Toilette); دَسیت شوئی
 - Drang auf´s Klo; دَست به آبِش گِرِفت
 Kloake; کود ِ مُستَراحى
 Klon; موجود ِ هَمانَند سازى شُده
-klonen; هَمانَند سازى کَردَن، شَیبه سازى ک
+klonen; .هَمانَند سازى کَردَن، شَیبه سازى ک
 klopfen; کوبیدَن، دَق کَردَن، دَر زَدَن
 Klopfer;
 - Teppichklopfer; کوبه قالی
@@ -748,7 +750,7 @@ Klöppel; کوبه
 - Klöppel (bei Musikinstrumenten, z.B. Santur); مِضراب
 Kloss; کوفته
 Kloster; راحِب خانه، خانگاه، خانِقاه، دِیر
-Klosterzelle; (pl.) صومِعِه (صَوامِع
+Klosterzelle; (pl.) (صومِعِه (صَوامِع
 Klub; باشگاه
 Kluft;
 - Kluft, Kleidung; لِباس، پوشاک
@@ -757,7 +759,7 @@ klug; با هوش
 - aus ihren Reden werde ich nicht klug; از صُحبَت ِ آنها سَر دَر نِمى آوَرَم
 - kluge Leitung; راهنَمائى ِ داهیانه
 Klugheit; فِطانَت، عَقل، هوش
-Klugredner; آدَم ِ گَنده مَغز
+Klugredner; آدَم ِ گُنده مَغز
 klumpen; لَخته بَستَن
 Klumpen (m);
 - Klumpen (z.B. Blut); لَخته
