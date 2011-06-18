@@ -789,14 +789,14 @@ knarren; جیر جیر کَردَن
 Knarzen; صَریر
 Knäuel; کَلاف
 Knauserei; خِسَت
-knauserig; حَریس
+knauserig; حَریص
 - Knauserig sein; آب از دَریا بَخشیدَن; از چیزی بی اَرز و فَراوان عَطا دادَن؛ آب از دَستَش نِمی چِکَد، سَخت مُمسِک بودَن
 knautschig; مُچاله، چُروک
 knebeln; پارچه اى توى ِ دَهَن چُپاندَن
 Knecht; کِنیز، رَهى، غُلام، نوکَر
 - Knecht Gottes; (pl.) عَبد ِ خُدا، (عِباد ِ-)، خادِم ِ ـ
 Knechtschaft; عَبوديَت
-Knechtung; تَفییقات، دَست اَندازى
+Knechtung; دَست اَندازى
 kneifen; نَشگون گِرِفتَن، نیشگون گ.، وِشگون کَردَن
 Kneifzange; گاز اَنبُر، میخ کِش
 - kleine Kneifzange; شیپسى
@@ -828,7 +828,7 @@ Knirschgeräusch; صِداى ِ تاراق و توروق
 knistern; خِش خِش کَردَن
 knittern; چین و چُروک شُدَن
 knittrig; پُرچین، مُچاله
-knobeln; قُرِعه اَنداختَن، طاس ا
+knobeln; .قُرِعه اَنداختَن، طاس اَ
 Knoblauch; سیر، مو سیر
 Knöchel; شاخَک، قوزَک
 Knochen; اُستُخوان
@@ -851,7 +851,7 @@ Knoten (m); گِره
 - Haarknoten; گیسوى ِ پُشت ِ سَر
 Knotenpunkt; جاى ِ تَقاطُع
 knüllen;
-- etwas zusammenknüllen; چیزى را مُچاله کَردَن، ـ چُروک ک
+- etwas zusammenknüllen; .چیزى را مُچاله کَردَن، ـ چُروک ک
 knüpfen; گِره زَدَن، ـ بَستَن
 - Teppich knüpfen; قالی بافتَن
 Knüppel; چُماق، گُرز، چوبدَست ِ سَر گِره دار
@@ -864,27 +864,28 @@ knurren;
 - jem. anknurren; سَر ِ کِسى قُر زَدَن
 knutschen; ماچ و موچ کَردَن
 k.o.; ضَربهٔ فَنى
--   jem. k.o. schlagen; کِسى را ضَربهٔ فَنى کَردَن
+- jem. k.o. schlagen; کِسى را ضَربهٔ فَنى کَردَن
 - der Sportler ist k.o.; وَرزِشکار از پا دَرآمَد
 Koalition; اِئتِلاف
 - Parteienkoalition; اِئتِلاف ِ اَحزاب
 - Koalitions- (zusammengesetztes Wort); مؤتَلِف
 Koch; آشپَز، طَباخ
 - Viele Köche verderben den Brei; آشپَز که دو تا شُد آش یا شور است یا بى نَمَک
-kochen; (präs.) پُختَن (مى پَزَد
+kochen; (präs.) (پُختَن (مى پَزَد
 - kochen (vor Wut); از جا دَر رَفتَن
 - etwas fängt an, zu kochen; چیزى جوش میايَد، چیزى مى جوشَد
 - gekochte Eier; تُخم ِ مُرغ ِ آب پَز
 Köcher; تَرکِش
 Kochgeschirr; دیگ و دیگبَر
 Kochkunst; طَباخى، هُنَر ِ آشپَز
+Kochrezept; راهنَمای ِ آشپَزی
 Kochtopf; قابلِمه، دیگ
 - Schnellkochtopf; دیگ ِ بَرقى ِ زود پَز
 Köder; طُعمه
 - Der Köder muss dem Fisch schmecken; عَلَف باید به دَهَن ِ بُزی سیری بیاید
 Kodex; مَصحَف، مَجمَع
 - Kodex Alexandrinus; نُسخهٔ اِسکَندَریه
-- Kodex Sinaiticus; نُسخۀ سینا
+- Kodex Sinaiticus; نُسخهٔ سینا
 - Sittenkodex; مَجمَع اُلقَوانین ِ اَخلاقى
 kodifizieren; تَدوین کَردَن ِ قَوانین
 Koeffizient; ضَریب
@@ -967,7 +968,7 @@ Kommandant; فَرماندِه، سَردار
 kommandieren; فَرمان دادَن
 Kommando; فَرمان
 - auf das Kommando: Aufstehen; با صِداى ِ بَرپا
-- unter dem Kommando; به سَر کَردِگى، زیر ِ فَرمان ِ
+- unter dem Kommando; ِ به سَر کَردِگى، زیر ِ فَرمان
 kommen; آمَدن
 - kommen zu  ; از .. دیدَن کَردَن
 - etwas kommen lassen, wie vorausgesagt; بَر حَسب ِ پیشگوئى چیزى را به وُقوع آمَدَن
@@ -989,7 +990,7 @@ kommen; آمَدن
 Kommentar (jurist.); تَبصِره
 - vor der Abstimmung einen Kommentar abgeben; قَبل از رأى گیرى شَرح دادَن
 - seinen Kommentar abgeben (*: Meinung); نَظَر ِ خودرا بَیان کَردَن
-Kommentator; مُحَشى
+Kommentator; مُحَشى، مُفسِر
 kommentieren; نَظَریه دادَن
 Kommerz; سوداگَرى
 kommerziell; تَجارى، بازَرگانى، تِجارَتى
@@ -1024,7 +1025,7 @@ kompatibel; قابل ِ اِنتِقال
 Kompatibilität; قابِليَت ِ اِنتِقال
 Kompendium; فَرايَند
 Kompensationsgeschäft; مُعامِلهٔ پایا پائى، ـ تَهاتُرى، ـ مُعاوِضه
-kompensieren; مُساوى کَردَن، مُستَهلَک ک.، مُتَعادِل ک
+kompensieren; .مُساوى کَردَن، مُستَهلَک ک.، مُتَعادِل ک
 kompetent; صَلاحيَت دار، خِبره، صالِحانه
 - er ist kompetenter als ...; او از ... با کِیفيَت تَر است
 Kompetenz; صَلاحيَت، اَهَليَت، کِفايَت
@@ -1041,7 +1042,7 @@ Komplex (m); عُقده
 - Schuldkomplex; عُقدهٔ گُناه
 Komplexität; تَرکیب ِ پیچیده
 Komplikation; گِرِفتاری
-- es gibt Komplikationen; گِرهى دَر کار است، گِرِفتاریها ـ
+- es gibt Komplikationen; گِرِِهى دَر کار است، گِرِفتاریها ـ
 Kompliment; تَعریف
 Komplize; شَریک، هَمدَست
 kompliziert; بُغرَنج، غامِض، پیچیده، مُشکِل
@@ -1051,7 +1052,7 @@ kompliziert; بُغرَنج، غامِض، پیچیده، مُشکِل
 Kompliziertheit; تَعقید، پیچیدِگى
 Komplott; ساخت و پاخت، توطِئه
 - einen Komplott schmieden; توطِئه چیدَن
-komponieren; تَصنیف کَردَن، آَهَنگسازى ک
+komponieren; .تَصنیف کَردَن، آَهَنگسازى ک
 Komponist; آهَنگ ساز، مُصَنَف
 Komposition; آَهنگ، سُرود، تَصنیف
 Kompost; کود ِ طَبیعى
@@ -1067,12 +1068,11 @@ Kompromiss; سازِش، تَوافُق
 - Politik der Kompromisse; سیاسَت ِ سازِش
 Kompromissler; سازِشکار
 kompromitieren; ابروی ِ کِسی را بُردَن
-Kondensation; تَبدیل بُخار به مايِع، تَقطیر
+Kondensation; تَبدیل بُخار به مايِع
 Kondensationswärme; حَرارت ِ مَيَعان
 Kondensator; خازِن
-kondensieren; تَقطیر کَردَن
-kondensiert; مُکَثِف
-Kondensierung; تَکثیف
+kondensieren; تَبدیل شُدَن به مایِع
+Kondensierung (Verdichtung); تَکثیف
 Kondition;
 - Kondition, Bedingung; شَرط
 - Kondition, Belastbarkeit; وَضع ِ بَدَنى
@@ -1082,9 +1082,9 @@ Kondolenz; تَسَليَت
 Kondolenzbuch; کِتاب ِ تَسليَت
 kondolieren; تَسَليَت گُفتَن
 Kondom; کاپوت
-Konfekt; نُقل
+Konfekt; نُقل، تَنَقُلات
 Konferenz; کُنفِرانس
-- eine Pressekonferenz abhalten; يِک کُنفِرانس ِ مَطبوعاتى بَر گُذار کَردَن
+- eine Pressekonferenz abhalten; يِک کُنفِرانس  ِ مَطبوعاتى بَر گُذار کَردَن
 konferieren; مَشوَرَت کَردَن
 konfessionell; کِلیسائى
 - überkonfessionell; بِین اُلکِلیسائى
@@ -1093,14 +1093,14 @@ Konfiguration; تَرتیب، شِکل ِ عُمومى
 Konfiszierung; توقیف، ضَبط، مُصادِره
 Konfitüre; مُرَبا
 Konflikt; تِضاد، دَر گیرى، نَبَرد، مُناقِشه
-- Konflikt hervorrufend; مُناقَشه اَنگیز
-- .. hat viele Forscher in Konflikt gebracht; بِسیارى از دانِشمَندان به دَردسَر اَنداخت
+- Konflikt hervorrufend; مُناقِشه اَنگیز
+- .. hat viele Forscher in Konflikt gebracht; بِسیارى از دانِشمَندان به دَردِسَر اَنداخت
 - ich habe einen Konflikt; مَن گیر اُفتادَم، ـ گیر شُدَم
 - die Polizei war in einen Konflikt verwickelt; پُلیس با کِسى دَر گیر شُد
 - der Konflikt tritt auf; دَر گیرى به ظُهور مى آيَد
 - Ost-West-Konflikt; تِضاد ِ شَرق و غَرب
 konflikterzeugend; بُحران آفرین، مُشکِل ساز
-Konfliktherd; مَنشاء ِ دَر گیرى
+Konfliktherd; مَنشاء ِ دَرگیرى
 Konfliktparteien; طَرَفِین ِ دَرگیرى
 konform; مُطابِق
 - systemkonform; دَر خَط ِ نِظام
