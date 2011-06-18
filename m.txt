@@ -113,9 +113,7 @@ Makel; عِيب، نَقص
 makellos; طاهِر، مُنَزَه
 - in makellosem Zustand; دَر حال ِ بى عِيبى، ـ بى شاِئبه، خالى از عِيب
 mäkeln; نِق نِق زدن؛ نِق ز.؛ ايراد گِرِفتَن�
-
 - mäkeliger Kunde (*: Nörgler); مُشتَرى ِ ايرادى�
-
 Makler; دَلال
 Maklerbüro; بُنگاه ِ اِجاره و مُعامِلات ِ مِلکى
 Maklergebühr (bei Immobilie); سَر قُفلي
@@ -368,7 +366,7 @@ Matthäi;
 - Matthäi am Letzten; مُحلَت
 Mauer; ديوار
 - lebende Mauer (beim Fussball); ديوار ِ گوشتى
-- Steinmauer سَنگچين
+- Steinmauer; سَنگچين
 mauern; ساختَن
 - beim Fußball mauern; دِفاع کَردَن
 - gemauerte Brunnenauskleidung; بَدَنة آجُرى ِ چاه
@@ -1161,9 +1159,9 @@ Motiv; دَليل، سَبَب
 Motivation; اَنگيزه، آرمان
 Motivationsbremse; حال گيرى
 motivieren;
-- jem. zu etwas motivieren (*: anstacheln) کِسى را واداشتَن که، ـ به چيزى سوق دادَن
+- jem. zu etwas motivieren (*: anstacheln); کِسى را واداشتَن که، ـ به چيزى سوق دادَن
 - das motiviert mich überhaupt nicht; مَرا به هيج وَجه وانِمي دارَد به اينکه
-- politisch motivierter Streik اِعتِصاب با اَنگيزة سياسى
+- politisch motivierter Streik; اِعتِصاب با اَنگيزة سياسى
 Motor; موتور، مُتُر
 Motoraufhängung; تَعليق ِ موتور
 Motorboot; قايِق ِ موتورى
