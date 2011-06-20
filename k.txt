@@ -1102,17 +1102,17 @@ Konflikt; تِضاد، دَر گیرى، نَبَرد، مُناقِشه
 konflikterzeugend; بُحران آفرین، مُشکِل ساز
 Konfliktherd; مَنشاء ِ دَرگیرى
 Konfliktparteien; طَرَفِین ِ دَرگیرى
-konform; مُطابِق
+konform; مُطابِق، بَرابَر
 - systemkonform; دَر خَط ِ نِظام
 Konformität; بَرابَرى
 Konfrontation; دَرگیرى، رویا روئى، مُواجِهه
-konfrontieren;
+konfrontieren; مُواجِهه کَردَن
 - jem. mit .. konfrontieren; با کِسى از .. مُواجِهه کَردَن، کِسى را با چیزى رو بِرو کَردَن
 - konfrontiert sein, - werden; مُواجه بودَن، ـ شُدَن
 konfus; گیچ، دَست پاچه
 Konfusion; تَشَوُش، دَست پاچِگی، اِغتِشاش
 Konglomerat; مَجموع
-- Zellkonglomerat; مَجموِعهٔ چَند یاختهٔپِیوَسته
+- Zellkonglomerat; مَجموِعهٔ چَند یاختهٔ پِیوَسته
 Kongress; کُنگره، مَجمَع
 Kongruenz; مُماتِله، قابِليَت ِ تَطابُق، اِنطِباق
 König; (pl.) مَلِک (مُلوک)، پادِشاه
@@ -1120,9 +1120,9 @@ König; (pl.) مَلِک (مُلوک)، پادِشاه
 Königin; مَلِکه، شَهبانو
 - Königinmutter; مَلَکه مادَر
 königlich; مَلوکانه، شاهانه
-Königreich; (pl.) مَملَکَت (مَمالِک)، مَلِکوت
+Königreich; (pl.) مَملَکَت (مَمالِک)، مَلَکوت
 Königsgeschlecht; دودمان ِ سَلطَنَتى
-Königsherrschaft; پادِشاهى، حُکومَت سَلطَنَتی
+Königsherrschaft; پادِشاهى، حُکومَت ِ سَلطَنَتی
 konisch; مَخروطى
 Konjugation; تَصریف
 - Konjugation des Verbes; صَرف ِ فِعل
@@ -1136,12 +1136,12 @@ konkret; به نَحو ِ عَمَلى، مَلموس، مُشَخَص، عِی�
 Konkurrent; حَریف، رَقیب
 Konkurrenz; رِقابَت، (چِشم و) هَمچِشمی
 - die Firma befindet s. in Konkurrenz mit ..; کارخانه دَر تَسابُق است با، ـ اِرتِقاب ـ آنها با هَم تَسابُق مى کُنَند
-konkurrieren; هَم چِشمى داشتن، رِقابَت کَردَن
+konkurrieren; هَمچِشمى داشتن، رِقابَت کَردَن
 Konkurs; وَرشِکَستِگى، اِفلاس، تَفلیس
 - Konkurs machen; وَرشِکَست شُدَن
 Konkursmasse; اَموال ِ شِرکَت ِ وَرشِکَستِگى
 Konkursverwalter; مُتَوَلى ِ وَرشِکَستِگى
-können; تَوانستَن، بَلَد بودَن، تَوانائى داشتن
+können; تَوانستَن، بَلَد بودَن، تَوانائى داشتَن
 - dieser Mangel an ... könnte ...; این نَقصان ... مُمکِن بود که
 - sie versuchen so gut sie können; آنها هَرچه از دَستِشان بَر مى آيَد تَلاش مى کُنَند
 - das eine können sie noch nicht, das andere haben sie vergessen; راه رَفتَن ِ کَبک را یاد نَگِرِفته خودرا هَم از باد بُرده اند
@@ -1151,13 +1151,13 @@ können; تَوانستَن، بَلَد بودَن، تَوانائى داشت�
 - Jem., der nichts kann, Looser; آب از گََلوی ِکِسی پایین نِمی رَوَد
 Können (n); مُهارَت، لیاقَت، قابِليَت، اَهَليَت، تَوانائى
 - Können verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر
-Konsens; مُبتَنى بَر) اِجماع ِ نَظَر
+Konsens; مُبتَنى بَر) اِجماع ِ نَظَر)
 konsequent;
 - er ist konsequent; او سَر سَخت است، ـ جِدى است
 Konsequenz; نَتیجه، پِى آمَد، عَواقِب
 - das hat gerichtliche Konsequenzen; این پِى گَرد ِ قانونى دارَد
 - die Konsequenzen, die s. daraus ergeben; عَوارِض ِ ناشی از آن
-- du trägst die Konsequenzen dafür!; ! هَر چه دیدی از چیشم ِ خودِت دیدی
+- du trägst die Konsequenzen dafür!; ! هَر چه دیدی از چِشم ِ خودِت دیدی
 konservativ; مُحافِظه کار
 - konservative Zeitung; روزنامهٔ مُحافِظه کار
 - stockkonservativ; محُافِظه کار ِ سَرسَخت
@@ -1165,11 +1165,11 @@ Konservatorium; هُنَرِستان ِ موسیقى
 Konserve; کُنسِرو
 - Olivenkonserven; تَغار ِ زِیتون، کُنسِرو ِ ـ
 konservieren; کُنسِرو کَردَن
-Konservierungsmitel; مَواد ِ شیمیائى بَراى ِ کُنسِرو کَردَن ِ مَواد ِ غَذائى
+Konservierungsmitel; مَواد ِ شیمیائى بَراى ِ کُنسِرو کَردَن ِ مَواد ِ غَذائى، -  نِگَهداری ِ غَذا
 Konsistenz; جِسميَت، ثَبات، اِستِحکام
 - Konsistenz als Wahrheitskriterium (philos.); اِثبات پَذیرى
 konsolidieren; اِستِحکام بَخشیدَن
-Konsonanten; حُروف ِ غِیر ِ مَصَوَته، ـ بیصِدا
+Konsonanten; حُروف ِ غِیر ِ مُصَوَته، ـ بیصِدا
 Konsortium; اِتِحاد ِ مُوَقَت ِ پِیمانکاران
 konstant; ثابِت، اِنعِطاف ناپَذیر
 - konstantes Kapital; سَرمایهٔ ثابِت
@@ -1221,14 +1221,14 @@ Konto;
 - das geht auf mein Konto; این به حِساب مَن می آيَد، این پای ِ مَن است
 Kontoauszug; صورَت ِ حِساب ِ بانکى
 Kontostand; موجودى ِ حِساب ِ بانکى
-kontra; ضِد ِ، مُخالِف ِ
+kontra; ِ ضِد ِ، مُخالِف
 Kontrahent; حَریف، مُخالِف
 Kontrakt; قرار داد
 - Kontrakt schliessen; مُعاهِده بَستَن، قَرار داد ـ
 kontraktil; مُنقَبِض شَوَنده
 Kontraktion; اِنقِباض
 konträr; مُتَضاد، بَر خَلاف
-Kontrast; تَناقُض، اِختِلاف، سابه روشَن
+Kontrast; تَناقُض، اِختِلاف، سایه روشَن
 Kontrawirkung; نَتیجهٔ عَکس
 Kontribution; غَرامَت
 - Kriegskontribution; غَرامَت ِ جَنگ
@@ -1267,7 +1267,7 @@ konvex; مُحَدَب
 Konvoi; موکِب، سُتون
 - offizieller Konvoi; موکِب ِ رَسمى
 Konvulsion; اِرتِعاش، تَشَنُع
-Konzentration; تَمَرکُز، تَجَمُع، تَراکُم، غَلظَت، تَغلیط
+Konzentration; تَمَرکُز، تَجَمُع، تَراکُم، غَلظَت، تَغلیظ
 - meine volle Konzentration galt diesem Thema; حَواس ِ خودرا شِش دانگ ِ مَعطوف ِ این موضوع کَردَم
 Konzentrationsausgleich; تَساوى ِ غَلظَت
 Konzentrationslager; بازداشتگاه ِ مَرکَزى ِ اَسیران و زِندانیان
@@ -1288,7 +1288,7 @@ Koordinate; طول و عَرض، مُختَص
 Koordinatensystem; دَستگاه ِ مِحوَرهاى ِ مُختَصات
 Koordination; هَماهَنگى
 Koordinator; هَماهَنگ کُنَنده
-koordinieren; تَطبیق کَردَن، تَنظیم ک.، هَماهَنگ ک
+koordinieren; .تَطبیق کَردَن، تَنظیم ک.، هَماهَنگ ک
 Kopf; سَر، کَله
 - pro Kopf; سَر شِکَن، نَفَرى
 - den Kopf verlieren; دَست پاچه شُدَن
@@ -1302,20 +1302,19 @@ Kopf; سَر، کَله
 - alles auf den Kopf stellen (*: umdrehen); هَمه اَش را بِهَم ریختَن
 - Kopf in den Sand stecken; سَر زیر ِ آب کَردَن
 - die Schüler stellen die Klasse auf den Kopf; شاگِردان کلاس را رو سَرِشان مى گیرنَد
-- du willst mir wieder über den Kopf wachsen (popul.); تو دوباره میخواهى از سَرو كول ِ مَن بالا بَِرى
+- du willst mir wieder über den Kopf wachsen (popul.); تو دوباره میخواهى از سَر و كول ِ مَن بالا برى
 - seinen eigenen Kopf durchsetzen; خَر ِ خودرا سَوار بودَن
 - sie warf s. den Schleier über den Kopf; چادرَش را سَرَش کَرد
-- es geht um Kopf & Kragen; کَلامون پَس مَعرِکه است
 - was man nicht im Kopf hat, muss man in den Beinen haben; هَر که خَر باشَد بارَش مى کُنَد، آدَم ِ فَراموشکار راه اَش را دو مَرتَبه مى پِیمايَد
 - Gelenkkopf; سیبَگ، غِرغِره
-- Hinterkopf; پَس ِ گَردَن، پَس ِ کَله، پُشت ِ سَر
+- Hinterkopf; پَس  ِ گَردَن، پَس  ِ کَله، پُشت ِ سَر
 Kopfball; ضَربهٔ سَر
 Kopfbedeckung; روسَری
 - Kopfbedeckung (deren Ende um den Hals geschlungen ist); تَحت اُلحَنَک
 köpfen; سَر بُریدَن
 Kopfkissen; کوسِن، بالِش زیر ِ سَر
 kopflos; بی کَله
-- kopflos werden; عَلافه شُدَن
+- kopflos werden; عَلاف شُدَن
 - sie wandern kopflos umher; این وَر آن وَر میرَوَند، سَر دَر گُم مى گَردَند
 Kopfschmerz; سَر دَرد، دَرد ِ سَر
 Kopfsprung; شیرجه
@@ -1326,7 +1325,7 @@ Kopftuch; رو سَرى، چارقَد، لَچَک
 kopfüber; سَر پائین
 - kopfüber aufhängen; سَر و تَه آویزان کَردَن
 Kopie; اِستِناخ، رونِوِشت، کُپى
-koppeln; جُفت کَردَن، وَصل ک
+koppeln; .جُفت کَردَن، وَصل ک
 Koralle; مَرجان
 Korb; زَنبیل، سَبَد، سَله
 - jem. einen Korb geben; کِسی را به دُرُشتی جَواب دادَن
@@ -1339,7 +1338,7 @@ Korn;
 - Korn, Getreide; غَله
 - Korn, Same; دانه
 - Korn (& Kimme); مَگَسَک ِ تُفَنگ، دیده وان
-Kornblume; گل ِ گندُم
+Kornblume; گل ِ گَندُم
 Körnchen; (pl.) ذَره (ذُرات)، دانه
 Kornelkirsche; زُغال اَخته
 körnig; دانه دانه
@@ -1359,7 +1358,7 @@ Korrektheit; صِداقَت، صِحَت
 Korrektur; اِصلاح، غَلَط گیرى
 - das braucht noch eine kleine Korrektur; دَستکاری می خواهَد
 - Endkorrektur; تَصحیح ِ نَهائى
-Korrekturbogen; نِمونۀ چاپ
+Korrekturbogen; نِمونهٔ چاپ
 Korrelation; اِرتِباط ِ مُتَقابِل
 - in Korrelation zueinander sein (*: Beziehung); به فَرا ِ خور
 korrelativ; لازِم و مَلزوم
@@ -1373,9 +1372,9 @@ korrespondieren;
 - mit etwas korrespondieren; تَطابُق داشتن با چیزى
 Korridor; دالان
 - Luftkorridor; دالان ِ هُوائى
-Korrosion; خوردِگی
+Korrosion; خوردِگی، زَنگزَدِگی
 - Bodenkorrosion; زَمین خوردِگى
-- Feuchtigkeitskorrosion; خورَندِگى ِ رُطوبَت، پوسیدِگى ـ
+- Feuchtigkeitskorrosion; - پوسیدِگى رُطوبَت، خوردَنِگی
 korrumpieren; به فِساد کِشاندَن ، آبِستَن کَردَن
 korrupt; فاسِد، رِشوه خوار
 Korruption (*: Bestechlichkeit); فِساد، مُفت خورى، رِشوه خوارى
@@ -1397,9 +1396,9 @@ Kost; خوراک
 kostbar; مَرغوب، گِرانبَها
 - kostbare Kleidung; جامهٔ زَربَفت
 - kostbare Information; اِطِلاع ِ ذیقِیمَت
-Kostbarkeit; (pl.) نَفیسه (نَفايِس
-kosten; قِیمَت ِ آن این است، قِیمَت داشتن
-- die .. Dollar kosten; که .. دُلار خَرج دَر بَر داشتن
+Kostbarkeit; (pl.) (نَفیسه (نَفايِس
+kosten; قِیمَت ِ آن این است، قِیمَت داشتَن
+- die .. Dollar kosten; که .. دُلار خَرج دَر بَر داشتَن
 - was kostet das?; قِیمَتَش چَنده؟
 - Koste es, was es wolle; به هَر قِیمَتى که شُده
 - das kostet schon einiges; این مَبلَغى خَرج دَر مى دارَد
@@ -1410,15 +1409,15 @@ Kosten (f); مَخارِج
 - auf meine Kosten; به حِساب ِ مَن
 - kommt, wir teilen uns die Kosten; بیایید، دانگی کُنیم
 - jem., der auf seine Kosten kommt; قَند توى ِ کِسى آب میشَوَد
-- das Auto verursacht Kosten; ماشین بِخَرج مى اُفتاد
+- das Auto verursacht Kosten; ماشین بِخَرج مى اُفتَد
 - Lebenshaltungskosten; هَزینهٔ زِندِگى، مَخارِج ِ زِندِگى
 - Produktionskosten; هَزینهٔ تولید
 kostendeckend;
-- die Anlage arbeitet kostendeckend; طَرح به مَرحَلۀ بَهره بَر دارى رِسید
+- die Anlage arbeitet kostendeckend; طَرح به مَرحَلهٔ بَهره بَر دارى رِسید
 kostengünstig;
 - ... ist kostengünstig; قِیمَتَش مُناسِب است
 kostenintensiv; بِسیار پُر هَزینه
-Kostenvoranschlag; تَخمین ِ مَخارِج، بَرآوُرد
+Kostenvoranschlag; تَخمین ِ مَخارِج، بَرآوَرد
 kostspielig; بِسیار پُر هَزینه
 Kostüm; کُت و دامَن
 - Faschingskostüm; لِباس ِ کارنِوال
