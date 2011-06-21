@@ -1430,31 +1430,32 @@ Kotflügel; گِل گیر
 kotverschmiert; گُهى
 Kotzen; قِی، اِستِفراغ
 - ich finde ... zum Kotzen; از چیز بَرايَم قَی آوَر است
-Krabbe; مِیگو
-krabbeln; غِلغِلَک دادَن
+Krabbe; خَرچَنگ
+krabbeln;
+- krabbeln, kitzeln; غِلغِلَک دادَن
 - krabbeln (auf allen Vieren); چَهار دَست و پا راه رفتَن
 Krach; غَلَیان و خُروش، سَر و صِدا
 - mit jem. Krach haben; با کِسى دَعوا کَردَن
 - Krach schlagen; طَرَق و طُروق کَردَن
 - die Tür mit Krach zuschlagen; دَر را با سَر و صِدا بَستَن
-krachmachen; جُفت و تیز کَردَن، جِز زَدَن
+- Krach machen; جُفت و تیز کَردَن، جِز زَدَن
 Krächzen; قارقار
 kraft;
 - kraft seiner Autorität; با ضَرب ِ اِقتِدارَش
 Kraft (f); نیرو، قُدرَت، قُوه، تاب
-- Kraft des Meeres; صَلابَت ِ دَریا
+- die Kraft des Meeres; صَلابَت ِ دَریا
 - Kraft aufbringen; تاب آوَردَن
 - die Kraft zu .. finden; یاراى ِ .. یافتَن
 - er hatte keine Kraft, zu stehen; ناى ایستادَن نَداشت
 - ausser Kraft setzen; لَغو کَردَن
-- in Kraft setzen; به مَرحله اِجرا دَر آوَردَن
+- in Kraft setzen; به مَرحلهٔ اِجرا دَر آوَردَن
 - nach Kräften; حَتى اُلوُسع
-- mit aller Kraft ... widerstehen; دَر مُقابِل ِ چیزى تا پاى ِ جان مُقاوِمَت کَردَن
+- mit aller Kraft ... widerstehen; دَر مُقابِل ِ چیزى تا پاى ِ جان مُقاوَمَت کَردَن
 - er kam zu neuen Kräften; سَر ِ حال آمَده بود
 - vom Menschen unabhängige Kräfte; قُوهٔ مُجبَره
 - Kräfte messen; دَست پَنچه نَرم کَردَن، کَلَنجار وَررَفتَن با
 - die Kräfte übersteigend; فوق اُلطاقه
-Kräftegleichgewicht; تَوازُن ِ قُوا، تَکافوی ِ
+Kräftegleichgewicht; - ِ تَوازُن ِ قُوا، تَکافوی
 kräfteraubend; طاقَت فَرسا
 - die Lebensbedingungen sind unglaublich kräfteraubend; شَرايِط ِ زِندِگى بینَهايَت طاقَت فَرسا است
 Kräfteverhältnis; تَناسُب ِ قُوا
@@ -1462,7 +1463,7 @@ Kraftfeld; مِیدان ِ نیرو
 kraftfördernd;
 - kraftfördernde Mittel; مَواد ِ نیروزا
 kräftig; پُر قُدرَت، قَوى
-- kräftige äste; شاخه هاى ِ قُطور دِرَخت
+- kräftige Äste; شاخه هاى ِ قُطور دِرَخت
 - kräftiger Faden; نَخ ِ قُرص
 - kräftige Nahrung; غَذاى ِ مُغَذى، ـ مُقَوى
 - eine kräftige Ohrfeige; يِک سیلى ِ حِسابى
@@ -1475,7 +1476,7 @@ Kraftlinien;
 - magnetische Kraftlinien; خُطوط ِ نیروى ِ آهَن رُبائى
 kraftlos;
 - kraftlos sein; جان به لَب رِسید
-- kraftlos werden; بى تاب شُدَن، بى طاقَت ش.، ضَعیف ش
+- kraftlos werden; .بى تاب شُدَن، بى طاقَت ش.، ضَعیف ش
 - saft- und kraftlos; سَخیف
 Kraftmesser (z.B. auf Jahrmärkten); نیروسَنج
 Kraftpaket; آدَم ِ سَطوَتى
@@ -1483,9 +1484,9 @@ Kraftprobe; زورآزمائى
 Kraftstoff; سوخت
 - Kraftstoff tanken; سوخت گیرى کَردَن
 kraftvoll;
-- kraftvolles Tier; حِیوان ِ پُر سُطوتى
+- kraftvolles Tier; حِیوان ِ پُر سَطوَت
 Kragen; يَقه
-- am Kragen packen; يَخه گِرِفتَن، يَقه گ
+- am Kragen packen; .يَخه گِرِفتَن، يَقه گ
 - Stehkragen; يَقهٔ آخوندى
 Kragenweite (umg.); لَندازهٔ گَل و گَردَن
 Krähe; کَلاغ ِ زاغى
@@ -1505,6 +1506,7 @@ kramen; اَنگولَک زَدَن
 Krämer; بَقال، دُکان دار
 - der Krämer an der Ecke; بَقال سَر ِ گُذَر
 Krampf; اِرتِعاش، تَشَنُج
+- so ein Krampf (popul.);  مُزَخرَفات بودَن
 - Muskelkrampf; گِرِفتِگى ِ ماهیچه
 Krampfadern; واریس
 krampfartig; مُتَشَنِج
@@ -1518,7 +1520,7 @@ kränken; کِسى را دِلسَرد کَردَن، ـ دِلگیر ک.، آز
 Krankenbett; بالین
 Krankenhaus; بیمارِستان
 - ich lag noch nie im Krankenhaus; دَر بیمارِستان بَستَرى نَشُده بودَم
-- dass du im Krankenhaus liegst ...; از بَستَرى شُدَنِت دَر بیمارِستان
+- dass du im Krankenhaus liegst ...; ... از بَستَرى شُدَنِت دَر بیمارِستان
 Krankenkasse; بیمهٔ بیمارى
 Krankenschein; وَرَقهٔ بیمهٔ بیمارى
 Krankenschwester; پَرَستار
@@ -1537,8 +1539,9 @@ krass;
 - krasser Unterschied; تَفاوُت ِ اَساسى، ـ گُنده
 Krater; دَهانهٔ آتَشفِشانى
 krätschen; پُشت ِ پا زَدَن
-kratzen; خَراشیدَن، شَخانیدَن، خاراندن، پَنجول زَدَن، خاریدن
+kratzen; خَراشیدَن، شَخانیدَن، خاراندَن، پَنجول زَدَن، خاریدَن
 - an etwas kratzen; چیزى را پَنجول کِشیدَن
+- das kratzt mich nicht; کَکَم هَم نِمی گَزَد
 - Kratzen ( mit Krallen); خِنج، پَنجول
 Kratzer; خَش، خَراش
 - Kratzer bekommen; خَش اُفتادَن (بَر چیزی)، خَراش ـ
@@ -1550,7 +1553,7 @@ kratzig;
 - kratzige Stimme; آهَنگ خَراشیده، صِداى ِ ـ
 krauchen; زَحف کَردَن
 kraus;
-- krause Haare; موهاى ِ مُجَعَد
+- krause Gedanken; نَظَرات ِ پیچیده
 kräuseln;
 - seine Mähne kräuselt s.; یالَش موج میخورَد
 - der Rauch kräuselt s.; دود پیچ می خورَد
@@ -1564,7 +1567,7 @@ Krawattennadel; سَنجاق ِ کراوات
 Kraxe; چانچو
 Kreation; اِبداع
 kreativ; خَلاق، آفَرینَنده
-Kreatur; (pl.) آفَریده، مَخلوق (مَخلوقات
+Kreatur; (pl.) (آفَریده، مَخلوق (مَخلوقات
 Krebs;
 - Krebs (med.); سَرَطان
 - Krebs (biolog.); خَرچَنگ
@@ -1578,34 +1581,34 @@ Kreditaufnahme; وامگیرى
 Kreditbank; بانک ِ اِستِقراضى
 Kreditkarte; کارت ِ اِعتِبار
 Kreide; گَچ
-Kreidepulver; گِل ِگیوه
+Kreidepulver; گِل ِ گیوه
 kréieren; چیزى را اِبداع کَردَن
 Kreis; دايِره
-- Kreis (polit.); بَخش، حوزه، ناحیه
+- Kreis, Bezirk; بَخش، حوزه، ناحیه
 - s. im Kreis bewegen; چَرخ زَدَن، حَرَکَت ِ دورانى
 - s. im Kreis drehen; تَنوره کِشیدَن
 - sie bilden einen Kreis; آنها دور ِ هَم حَلقه می زَنَند
 - im Kreis stehen; دوره ایستادَن
 - ein gemütlicher Kreis; گِردهَمائى ِ خودِمانى
-- literarischer Kreis; (pl.) مَحفَل ِ اَدَبى (مَحافِل ِ
+- literarischer Kreis; (pl.) (مَحفَل ِ اَدَبى (مَحافِل ِ
 - in den Kreisen der Opposition; دَر مَحافِل ِ اَقَليَت
 kreischen; جیغ زَدَن
 Kreisel; فِرفِره، چَرخانَک
 - der Kreisel dreht s.; فِرفِره دور ِ خود فِر میزَنَد، ـ مى چَرخَد
-- Brummkreisel; فِرفِرۀ صوتى
+- Brummkreisel; فِرفِرهٔ صوتى
 - beim Kreisel, Rondell; سَر ِ فَلَکه
 kreisen; دايِره زَدَن، چَرخیدَن
 - das Kreisen der Gedanken; جَوَلان ِ فِکر
 kreisförmig; حَلقَوى، دايِره دار
 - kreisförmig um einen Punkt herum drehen; چَرخاندَن ِ حول ِ يِک نُقطه، ـ بِدور ِ ـ
 Kreislauf; گَردِش
-- Kreislauf von Essen und ...; دایرۀ خور و
+- Kreislauf von Essen und ...; ... دایرهٔ خور و
 - Blutkreislauf; گَردِش ِ خون
 Kreislaufstörung; اِختِلال دَر گَردِش ِ خون
 kreisrund;
 - kreisrunder Kopf; سَر ِ گِرد و مُدَوِر
 kreißen; زائیدَن
-- es kreißte der Berg und gebar eine Maud; كوه كَندَن و موش بَر آوَردَن، کوه ِ اِلبُرز پَس از دَرد ِ فَراوان موش زائید
+- es kreißte der Berg und gebar eine Maus; كوه كَندَن و موش بَر آوَردَن، کوه ِ اِلبُرز پَس از دَرد ِ فَراوان موش زائید
 Kreißsaal; اُتاق ِ زايِمان
 Kresse; شاهى
 kreuz;
@@ -1618,7 +1621,7 @@ Kreuzbein; اُستُخوان ِ خاچى
 kreuzen;
 - kreuzen (biolog.); آمیزِش دادَن، پِیوَند زَدَن
 - jemandes Weg kreuzen; کِسى را بَرخورد کَردَن
-- jeder, der ihren Weg kreuzt, ...; هَر کِسى که از راه بِرِسَد، آنها را
+- jeder, der ihren Weg kreuzt, ...; ... هَر کِسى که از راه بِرِسَد آنها را
 kreuzend; مُتَقاطِع
 kreuzigen; مَصلوب کَردَن، رو صَلیب زَدَن
 Kreuzigung; تَصلیب
@@ -1630,14 +1633,14 @@ kribbelig; ناراحَت، عَصَبانى
 kriechen; زَحف کَردَن، خَزیدَن
 - zwischen den Leuten herumkriechen; از لاى ِ مَردُم سُریدَن
 kriecherisch; سینه مال، چاپلوسانه
-- kriecherischer Mensch; آدَم ِ لوس
+- kriecherischer Mensch; آدَم ِ لوس، - چاپلوسی
 Kriechstrom; بَرق ِ پَراکَنده، ـ مُنشَعِب شُده
-Kriechtier; (pl.) خَزَنده (خَزَندِگان
+Kriechtier; (pl.) (خَزَنده (خَزَندِگان
 Krieg; جَنگ
 - im Krieg mit jem. sein; تَحارُب، عَلِیه کِسى جَنگیدَن
 - gegen jem. in den Krieg ziehen; به ... حَمله بُردَن
 - Kalter Krieg; جَنگ ِ سَرد
-kriegen;
+kriegen; دَریافت کَردَن
 - von da kriegen wir kein Geld (*: bekommen); از اینجا چیزى عايِد ِ ما نِمیشَوَد
 - dich werde ich noch kriegen; حِسابَت پیش ِ مَن است
 Krieger; رَزمَنده، مُقاتِل، مُحارِب
@@ -1662,9 +1665,9 @@ Kriminalbeamter; کار آگاه
 Kriminalistik; جُرم شِناسى
 Kriminalroman; رُمان ِ جِنائى
 kriminell; جِنايَت آمیز، جِنائى
-Krimineller; آدَم ِ جانى، تَبَه کار، جِنايَت کار
+Krimineller; مُجرِم، تَبَه کار، جِنايَت کار
 Krimskrams; بُنجُل، آت و آشغال
-kringeln (sich -); حَلقه شُدَن
+kringeln (s. -); حَلقه شُدَن
 Krippe; آخور
 - Kinderkrippe; مَحَل ِ اَطفال، ـ کودَکِستان
 Krise; بُحران
@@ -1696,11 +1699,11 @@ kritzeln; با خَط خَرچَنگ ِ قورباغه نِوِشتَن
 Krokodil; تِمساح
 - Krokodilstränen weinen; اَشک ِ تِمساح ریختَن
 Krone; تاج
-- Krone (biol.); جام ِ گُل، مَجموعۀ گُلبَرگها
+- Krone (biol.); جام ِ گُل، مَجموعهٔ گُلبَرگها
 - Zahnkrone; روکِش ِ دَندان
 krönen; تاج گُذاشتَن، تاج گُذارى کَردَن
 - gekrönt; تاج دار
-Kronleuchter; چِلچِراغ
+Kronleuchter; چِلچِراغ، لوستِر
 Kronprinz; وَليَعهد، شاهزاده
 Krönung;
 - Krönung, Thronbesteigung; جُلوس، تاج گُذارى
@@ -1722,9 +1725,8 @@ krumm;
 - krumm, unaufrichtig; مُعَوَج
 - ihr Rücken, der etwas krumm war, ...; پُشت کَمى قوز کَرده اَش
 - krumm & schief; پَرت و پَلا
-krümmen; کَج کَردَن، اِنحِنا دادَن
+krümmen (*: beugen); کَج کَردَن، اِنحِنا دادَن
 - s. krümmen (vor Schmerz); از دَرد) به خود پیچیدَن، پیچ و تاب خوردَن )
-- gekrümmt; مُعَوَج
 - ihr leicht gekrümmter Rücken; پُشت ِ کَمى قوز کَرده اش
 - gekrümmte Linie; خَط ِ مُنحَنى
 Krümmung; عِوَج، خَمیدِگى، تَحَدُب، شِکَن، اِنحِداب
@@ -1737,6 +1739,7 @@ krustig; خُشک
 Kryptogamen; نَهانزادان، گیاهان ِ بى گُل
 Kübel; دَلو، طَشتَک
 kubisch; مُکَعبى، حَجمى
+Kubus; مُکَعَب
 Küche; آشپَزخانه، مَطبَخ
 - Feldküche; پیش خانه
 Kuchen; قُطاب، کِیک
