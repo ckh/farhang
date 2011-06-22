@@ -88,6 +88,8 @@ Impfstoff; واکسُن
 Impfung; مایه زَنى، مایه کوبى
 Implantation; نِشاندَن ِ بافت دَر بافت ِ دیگَر
 impliziert; ضِمنى، حاکى است
+implizit;
+- implizites Lernen; یادِگاری با رَعایَت قاعِدهٔ شِناخته وَلی بَیان نَشُده
 imponieren; خودرا دَر مُقابِل ِ کِسى بُزُرگ نِشان دادَن
 Import; تورید، وارِدات
 - Export & Import; صادِرات و وارِدات

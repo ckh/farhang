@@ -114,7 +114,7 @@ Kanalarbeiter; مُقَنى
 Kanalisation; فاضِل آب کِشی
 Kanarienvogel; قَنارى
 Kandare; مَهار، اَفسار، لِگام
-- jem. an die Kandare nehmen; کِسى را دَر چیلان اَنداختَن
+- jem. an die Kandare nehmen; کِسى را دَر چیلان اَنداختَن، - مَهار کَردَن
 Kandelaber; قِندیل
 Kandidat; نامزَد، داوطَلَب، کاندیدا
 - Oppositionskandidat; نامزَد ِ اَقَليَت
@@ -880,6 +880,7 @@ Kochgeschirr; دیگ و دیگبَر
 Kochkunst; طَباخى، هُنَر ِ آشپَز
 Kochrezept; راهنَمای ِ آشپَزی
 Kochtopf; قابلِمه، دیگ
+- Reiskochtopf; پُلوپَز
 - Schnellkochtopf; دیگ ِ بَرقى ِ زود پَز
 Köder; طُعمه
 - Der Köder muss dem Fisch schmecken; عَلَف باید به دَهَن ِ بُزی سیری بیاید
@@ -1753,7 +1754,7 @@ Kugelgelenk; مَفصَل ِ کُرَوى
 Kugellager; یاتاقان، ساچمه اى، يُلبرینگ
 - kleines Kugellager; بوش
 kugelrund; گِرد و گُلوله
-- kugelrunder Kopf; سَر ِ گِرد و مُدَوِر
+- kugelrunder Kopf; سَر ِ گِرد و مُدَوَر
 Kugelschreiber; خودکار
 kugelsicher; ضِد ِ گُلوله
 - kugelsichere Weste; جِلِتقهٔ ضِد ِ گُلوله
@@ -1764,9 +1765,9 @@ Kuhhandel;
 - parteipolitischer Kuhhandel; بِده بُستان دَرون ِ حِزبى
 kühl;
 - kühles Wetter; هَواى ِ خُنَک
-- kühler Kopf; خونسَردى
+- kühler Kopf; خونسَرد
 Kühlbox; يَخدان، کیف ِ خُنَک کُنَنده
-kühlen; تَبرید کَردَن، خُنَک ک
+kühlen; تَبرید کَردَن، خُنَک کَردَن
 Kühler (bei Auto); رادیاتور، کولِر
 Kühlhaus; سَردخانه
 Kühlmittel; مُبَرَد
@@ -1808,12 +1809,12 @@ kümmern;
 - jem., der s. nur um seine Arbeit kümmert; سَرِش کاسِبى اَش است
 - sie kümmern s. nicht um die Anschuldigung gegenüber X; آنها به شِکايَت ِ فِلان تَرتیب ِ اَثَر نِمى دَهَند
 Kumpel; هَمپایه، هَمکار
-- Kumpel (Anrede); داداش
+- Kumpel (Anrede); داداش، کاکا
 kündbar; قابِل ِ فَسخ
 Kunde; مُشتَرى
 Kundgebung; تَظاهُرات
 kündigen;
-- kündigen (z.B. Vertrag); فَسخ کَردَن، لَغو ک
+- kündigen (z.B. Vertrag); فَسخ کَردَن، لَغو کَردَن
 - jem. kündigen (Arbeit); اِستِعفاء کَردَن
 Kündigung;
 - Kündigung (eines Vertrages); فَسخ ِ قَرار داد
@@ -1821,15 +1822,15 @@ Kündigung;
 Kündigungsgesuch;
 - Kündigungsgesuch einreichen; اِستِعفاء دادَن، مُستَعفى شُدَن
 Kündigungsklausel; بَند اُلغاى ِ قَرار داد
-Kündigungsschreiben; اِلغاء نامه، اِخراج ـ، اِنفِصال ـ، فَسخ ـ
+Kündigungsschreiben; اِلغاء نامه، اِخراج نامه، اِنفِصال نامه، فَسخ نامه
 Kundschafter; طَلایه دار
 kundtun;
 - eine Meinung kundtun; رأى صادِر کَردَن، ـ بَیان ک.، نَظَریه را شَرح و بَسط دادَن، ـ به اِطِلاع رِساندَن
-künftig; مِنبَعد، بَعدى، آتى، دَر آيَنده
+künftig; مِنبَعَد، بَعدى، آتى، دَر آيَنده
 - künftige Generationen; نَسلهاى ِ آتى
 Kunst; هُنَر
 - bildende Kunst (z.B. Malerei); تَصویر گَری
-künsteln; بِطور ِ مَصنوعی جیزی را اَنجان دادَن
+künsteln; بِطور ِ مَصنوعی جیزی را اَنجام دادَن
 - gekünstelt; زورَکى، مَصنوعى
 - gekünstelte Hektik; شِتابزَدِگى ِ ساختِگى
 Künstler; هُنَرمَند
@@ -1840,7 +1841,7 @@ künstlich; مَصنوعى، عاريَتى
 Künstlichkeit; تَصَنُع
 Kunststoff; پلاستیک، مَواد ِ مَصنوعى
 Kunststück;
-- du hast ein echtes Kunststück vollbracht; خوب مَعرِکه کردى
+- du hast ein echtes Kunststück vollbracht; خوب مَعرِکه کَردى
 kunterbunt; اُجُق وُجُق، پُر رَنگ ِ نامُنَظَم
 Kupfer; مِس
 Kupferkessel; پاتیل
@@ -1860,7 +1861,7 @@ Kurator; مُتَوَلى
 Kuratorium; هَیئَت ِ اُمَنا
 Kurbel; هِندِل
 kurbeln; هِندِل زَدَن
-Kurbelwelle; میله لَنگ
+Kurbelwelle; میلهٔ لَنگ
 Kürbis; کَدو
 Kurheim; آسایش خانه، آسايِش گاه، اِستِراحَاگاه ِ دَرمانی
 Kurier; پیک
@@ -1874,13 +1875,13 @@ Kurs;
 - Warenkurs; نِرخ ِ کالا
 - einen Sprachkurs besuchen; دورهٔ زَبان گُذَراندَن، ـ دیدَن
 kursieren; دايِر شُدَن
-- der Grund für das Kursieren der ..; عِلَت ِ تَداوُل ِ، دَلیل ِ پیچیدَن ِ
+- der Grund für das Kursieren der ..; ِ عِلَت ِ تَداوُل ِ، دَلیل ِ پیچیدَن
 Kursivschrift; خَط ِ کَج
 Kurve; پیچگاه، پیچ، گَردَنه
 - in der Kurve; دَر خَم ِ خیابان
 kurz; کوتاه
 - kurz gesagt; اَلقِصه، خُلاصه، بِطور ِ مُختَصَر میگويَم
-- kurz davor; دَر آستانۀ نِیل به
+- kurz davor; دَر آستانهٔ نِیل به
 - kurz & gut; حاصِل اُلاَمر
 - über kurz oder lang; دیر یا زود
 - kurze Zeit; اَندَک زَمان
@@ -1889,12 +1890,12 @@ kurz; کوتاه
 - nach kurzer Zeit; بَعد از مُدَت ِ کَم
 - in Kürze; به زودی، عَنقَریب
 - in kürzester Zeit; دَر اَسرَع ِ وَقت، دَر کوتاه مُدَت
-Kürzen; ایجاز
+kürzen (z.B. Text); .خُلاصه کَردَن، کوتاه ک
+- Kürzen (zur Präzisierung von Text); ایجاز
 - nicht den Kürzeren ziehen; کوتاهی نَداشتَن
 - er musste immer in Bezug auf .. den Kürzeren ziehen; هَمواره مُقابِل ِ .. کوتاه آمَده بود
 - verkürzen; مُنقَبِض کَردَن
 Kürzel; مُخَفَفه
-kürzen (z.B. Text); خُلاصه کَردَن، کوتاه ک
 kurzfristig; قَصیر اُلمُدَت، قَلیل اُلمُدَت، کوتاه مُدَت، تَک پا
 kurzlebig; زود گُذَر، خَلق اُلساِعه
 kürzlich; اَخیراً
@@ -1907,7 +1908,7 @@ Kurzstreckenrakete; موشَک ِ کَم بُرد
 Kürzung; کاهِش
 Kurzwarenhändler; خَرازى فُروش
 Kurzwelle;  موج ِ کوتاه
-kurzzeitig; زود گُذَر
+kurzzeitig; کوتاه مُدَت
 kuschen; اِطاعَت مُآب
 - kusch dich!; لُنگ بيَنداز
 Kusine; دُختَر عَمو، - دائی
