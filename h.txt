@@ -309,7 +309,7 @@ Handwerk; حِرفه، کاسِبى
 - eigenes Handwerk; پیشهٔ خود
 Handwerker; پیشه وَر، کاسِب
 Handwerkzeug; اَبزار
-Handy; تِلِفُن ِ دَستى، ـ سَیار، هَمراه
+Handy; تِلِفُن ِ دَستى، تِلِفُن ِ سَیار، تِلِفُن ِ هَمراه، مُبایل
 Handzettel; تراکت ِ دَستی
 Hanf; شاه دانه، کَنَف
 - Hanf rauchen; بَنگ کِشیدَن
