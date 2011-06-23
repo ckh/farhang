@@ -1,4 +1,4 @@
-﻿Nabe; قِسمَت ِ مياني ِ چَرخ، توپي، مِحوَر ِ وَسَط ِ چَرخ
+Nabe; قِسمَت ِ مياني ِ چَرخ، توپي، مِحوَر ِ وَسَط ِ چَرخ
 Nabel; ناف
 - er sieht s. als Nabel der Welt;  -او خودَش را مَرکَز ِ جَهان مي بينَد، - مِحوَر ِ جَهان
 - Nabelschau betreiben; خودبين بودَن
@@ -353,7 +353,7 @@ nebenan; پَهلويي
 nebenbei; سَرزَباني
 Nebeneinnahmen; دَرآمَد ِ مَضاف
 - Einnahmen & Nebeneinnahmen; عايِد و مُداخِل
--Nebenfluß; شاخابه
+- Nebenfluß; شاخابه
 Nebengebäude; مُضافات ِ خانه
 Nebenmann;
 - dem Nebenmann Bescheid sagen; به بَغَل ِ دَستي خَبَر دادَن

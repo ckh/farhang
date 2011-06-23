@@ -1,4 +1,4 @@
-﻿Tabak; توتون
+Tabak; توتون
 - Tabak kauen; تَنباکو جويدَن
 Tabakwaren; دُخانيات
 Tabelle; رَسته، جَدوَل، ليست، چارت
@@ -467,7 +467,7 @@ Tintensack (bei Tintenfisch); غَشاء ِ مُرَکَب
 Tip; پيشنَهاد، پِند
 - jem. einen Tip geben; پِند دادَن، راهنَمائى کَردَن
 tippen;
- -tippen, vermuten; حَدس زَدَن
+- tippen, vermuten; حَدس زَدَن
 - tippen (auf Schreibmaschine); تايپ کَردَن
 - tippen (z.B. Lotto); قُمار بازى کَردَن
 Tisch; ميز
