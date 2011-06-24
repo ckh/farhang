@@ -61,13 +61,13 @@ Ladung;
 Lafette;
 - Geschützlafette; عَرادهٔ توپدار
 Lage; وَضعيَت، موقِعيَت
-- ich bin in der Lage, ....; بَرای ِ این کار ساخته شُده ام، این کار از مَن بَر می آيَد
+- ich bin in der Lage, ...; بَرای ِ این کار ساخته شُده ام، این کار از مَن بَر می آيَد
 - in meiner Lage; به مَثابهٔ مَن
 - sie sind in der Lage; آنها دَر موقِعيَتی هَستَند
 - missliche Lage; بَد بُنه
 - alles, wozu sie in der Lage war, hat sie gemacht; هَر چه از دَستَش بَر می آمَد کَرد
 - jem. in eine schlimme Lage bringen; کِسی را به خاک ِ سیاه نِشاندَن
-- ich bin nicht mehr in der Lage zu ...; تَوان به ... نَدارَم
+- ich bin nicht mehr in der Lage zu ....; تَوان به .... نَدارَم
 - er ist dazu nicht in der Lage; از او ساخته نیست، او پاپِی ِ این نَشُد که، او جانَش را نَدارَد
 - er wurde aus einer unsicheren Lage befreit; از بِلاتَکلیفی نِجات پِیدا کَرد
 - seiner Lage nicht mehr Herr sein; حال و روز ِ خودرا نَفَهمیدَن
@@ -150,7 +150,7 @@ lang; طولانی
 - lang & breit; دور و دِراز، عَریض و طَویل
 - er erzählt lang & breit; او شاخ و بَرگ حَرف می زَنَد
 - es ist lange her; دیری است که، دیرزَمانی ـ، مُدَتهاست که
-- es ist schon lange her, dass wir nicht im .... waren;  خِیلی وَقت بود که دیگَر پايِمان نَرِسیده بود به
+- es ist schon lange her, dass wir nicht im ... waren;  خِیلی وَقت بود که دیگَر پايِمان نَرِسیده بود به
 - lange Fasern; رِشته های ِ طَویل، ـ طولانی
 - das Leben währt lange; عُمر کَفاف می کُنَد
 - langer Zeitraum; مُدَت ِ مَدید، زَمان ِ دیرنَد، ـ زیاد
@@ -217,7 +217,7 @@ Lapsus; اِشتِباه
 Lärche; صَنوبَر ِ آراسته
 Lärm; سَر و صِدا، فَریاد
 - in diesem Lärm; دَر این گیر و دار
-- ... und inmitten des Lärms ...; و میان ِ هَمهَمهٔ شان
+- .... und inmitten des Lärms ....; و میان ِ هَمهَمهٔ شان
 - fröhlicher Lärm; بِزَن و بِکوب
 - Lärm schlagen; قیل و قال راه اَنداختَن، جار و جَنجال راه اَنداختَن
 - Viel Lärm um nichts (popul.); با اینهَمه که می چَری کو دنبه ات؟
@@ -235,22 +235,22 @@ lasiert; لُعاب زَده
 - lasierte Fläche; روکِش لُعاب زَده
 lassen;
 - ins Haus lassen; به خانه پا گُذاشتَن
-- die Finger von etwas lassen!; وِلِش کُن
+- die Finger von etwas lassen!; وِلِش کُن، دَست از چیزی کِشیدَن
 - das Licht brennen lassen; چِراغ را روشَن گُذاشتَن
 - lassen Sie Ihr Auto zuhause; ماشینِتان را جا بِگُذارید
 - s. von jem. etwas machen lassen (z.B. Anzug); بَرای ِ خود سِفارِش ِ کُت و شَلوار را دادَن
-- lassen wir das und nehmen das; بی خیال ِ این چیز و آن را بِگیریم
+- lassen wir das und nehmen das; بی خیال ِ این چیز باشیم و آن را بِگیریم
 - er hat s. einen Bart wachsen lassen; او ریش گُذاشت
 - jem. etwas tun lassen; به کِسی اِجازهٔ کاررا دادَن
 - ich werde dich nicht aus den Augen lassen; چِشم از تو بَر نِمی دارَم
 - lass sie in Ruhe; اذيَتِشان نَکُن، وِلِشان کُن
 - Lass den Blödsinn; دیگر قَرار نَبود شوخی کُنیم
-- .... lässt mir keine Zeit ....; بَرايَم وَقت آزاد نِمی گُذارَد
+- ... lässt mir keine Zeit ...; بَرايَم وَقت آزاد نِمی گُذارَد
 - Tun & Lassen; حَرَکَت و سَکَنات، اَنجام و ایجاب
 lässig;
 - lässig macht er die Tür auf; با خونسَردی دَر را باز می کُنَد
-- er hat einen lässigen Gang; شُل راه میرَوَد
-- eine lässige Methode; رَوِش ِ ناکار
+- er hat einen lässigen Gang; شُل راه می رَوَد
+- eine lässige Methode; رَوِش ِ ناکاره
 Lasso; کَمَند
 Last; وَبال، بار، مَحموله
 - jem. die Last abnehmen; باری از دوش ِ کِسی بَرداشتَن، از مَشَقَت ِ کِسی کَم کَردَن
@@ -262,17 +262,18 @@ lasten;
 Lastenträger; باربَر، آدَم ِ بار کِش
 Laster; شَهوَت
 - ein Laster haben; عادَت ِ بَد داشتَن
-Lästerer (Gott gegenüber); (pl.) کافَر (کُفار
+Lästerer (Gott gegenüber); (pl.) (کافَر (کُفار
 lasterhaft; فاجِر، فاسِق، جِلف
 Lästermaul; بَدزَبان
 lästern; به کسی کُفر گُفتَن، ـ اِهانَت کَردَن، ـ بَد گوئی کَردَن، ـ فُحش دادَن
-lästig; سَمِش، مُزاحِم
+lästig; سَمِج، مُزاحِم
 - lästige Aufgabe; تَکلیف ِ شاق
-- lästiger Mensch; آدَم ِ سَمِج، آدَمی که زَحمَت میدَهَد
+- lästiger Mensch; آدَم ِ سَمِج، آدَم ِ موذی، آدَمی که زَحمَت میدَهَد
 Lastschrift (von Bank); یادداشت ِ پَرداخت
 Lastwagen; ماشین ِ باری، کامیون
 Lasur; لُعاب
 lasurfarben (blau); لاجوَردی
+lasziv; شَهوانی
 Latein; زَبان لاتینی، لاتین
 Lateinamerika; آمریکای ِ لاتین
 lateinisch; زَبان لاتینی
@@ -284,7 +285,7 @@ Laterne; فانوس
 Latrine; مُستَراح
 Latrinenreiniger; مُتَصِدی ِ مُستَراح
 latschen; تِلو تِلو راه رَفتَن
-- jem. eine latschen; يِکی توی ِ گوش ِ کِسی خاباندَن
+- jem. eine latschen (popul.); يِکی توی ِ گوش ِ کِسی خواباندَن
 Latschen;
 - Latschen (Hausschuhe); دَمپائی
 - Latschen (Strauch); دِرَخت ِ کاج ِ کوهی
@@ -303,43 +304,46 @@ Lauch; تَرهٔ فَرَنگی
 Lauer;
 - sie liegen auf der Lauer; آنها دَر کَمین هَستَند
 lauern;
-- sie lauern auf eine Gelegenheit; آنها مُتَرَصِد ِ.... هَستَند
+- sie lauern auf eine Gelegenheit; آنها مُتَرَصِد ِ... هَستَند
 - er lauerte auf eine günstige Gelegenheit; گوشِش خواباند
+- sie lauern hinter der Tür; آنها پُشت ِ دَر سَرَک می کِشَند
 Lauern (n); اِستِراق ِ بَصر، دید زَدَن، دُزدَکی نِگاه کَردَن
 Lauf; دُو
 - Lauf der Geschichte; خَط ِ سِیر ِ تاریخ
 - im Laufe der Zeit; به مُرور ِ زَمان
-- den Tränen freien Lauf lassen; گِریه را سَر دادَن، به اَشک راه د
+- den Tränen freien Lauf lassen; .گِریه را سَر دادَن، به اَشک راه د
 - Gewehrlauf; لولهٔ تُفَنگ
 - Rechtslauf (z.B. Motor); راست گِرد
 Laufbahn; تَرفیع، سِیر ِ اِرتِقاء
 Laufband; باند ِ رَوَنده
 Laufbursche; پادو، پَرقِیچی
 Laufeigenschaften (phys.); مُشَخَصات ِ حَرَکَت
-laufen; دُویدَن
-- ohne Gefahr zu laufen; بی اینکه این خَطَررا دَر پیش داشته باشیم
-- wenn bei mir alles gut läuft; اگر کار و بارَم خوب باشد
+laufen; دَویدَن
+- er läuft 100 Meter; او ۱۰۰ مِتر می دُوَد
+- Pferd laufen lassen (z.B.: ohne Zügel); اَسب را دَوانیدَن، - دَواندَن
+- ohne dass wir Gefahr laufen; بی اینکه این خَطَررا دَر پیش داشته باشیم
+- wenn bei mir alles gut läuft; اگر کار و بارَم خوب باشَد
 - das Cafe läuft gut; قَهوه خانه خوب می چَرخَد
 - er läuft als einer von ihnen, er gilt -;  او بِعُنوان ِ يِکی از آنها گُذَران می کُنَد
-- er lässt den Motor laufen; می گُذارَد موتور روشَن باشد
+- er lässt den Motor laufen; می گُذارَد موتور روشَن باشَد
 - das ist gelaufen (*: aus); کار از کار گُذَشته
 - zum Laufen bringen; دايِر کَردَن
 - zum Laufen gebracht werden; دايِر شُدَن
 laufend;
 - im laufenden Jahr; سال ِ جاری، سَنهٔ حالیه
 - Leitung der laufenden Geschäfte; راندَن ِ اُمور ِ جاری
-- jem. auf dem laufenden halten; کِسی را دَر جَریان ِ این کار قَرار دادَن
-- die Abrechnungen befinden s. auf dem laufenden; سَر ِ حِساب
-- auf dem laufenden sein über; بَر چیزی واقِف بودَن
-laufenlassen (- jem.); کِسی را رَها کَردَن، ـ وِل ک
-Läufer; دُوَنده
+- jem. auf dem Laufenden halten; کِسی را دَر جَریان ِ این کار قَرار دادَن
+- die Abrechnungen befinden s. auf dem Laufenden; سَر ِ حِساب
+- auf dem Laufenden sein über; بَر چیزی واقِف بودَن
+laufenlassen (jem. -); .کِسی را رَها کَردَن، ـ وِل ک
+Läufer; دَوَنده
 - Läufer, Teppich; زیر اَنداز
 - jem. den Roten Läufer ausrollen; پا اَنداختَن بَرای ِ کِسی
-läufig; طَلَب آمَدَن، فَحل آ، لاس زَدَن، لاسیدَن
+läufig; طَلَب آمَدَن، فَحل آ.، لاس زَدَن، لاسیدَن
 - läufiger Hund; سَگ ِ لاس
 Laufkatze; غَلتَک ِ بَرقگیر
 Laufkran; جَر ِ ثَقیل ِ گَردان
-Laufmasche; دَرزها از هَم باز میشود، ریز ِدَررَفته
+Laufmasche; دَرزها از هَم باز می شَوَد، ریز ِ دَررَفته
 Laufpass;
 - Laufpass geben; کِسی را قال گُذاشتَن
 Laufschritt;
@@ -348,7 +352,7 @@ Laufschritt;
 Laufsteg; گُذَرگاه
 Laufwerk (bei Computer); دیسک ِ گَردان
 Laufzeit; زَمان ِ عُبور، مُدَت ِ زَمان ِ اِعتِبار
-Lauge; مَحلول ِ مَواد ِ قِلیائی دَر آب، مَحلول بازی
+Lauge; مَحلول ِ مَواد ِ قِلیائی دَر آب، مَحلول ِ بازی
 Laune; خود کامی، بُلهَوَسی، خُلق، حالَت
 - gute Laune haben; حال داشتَن
 - das hebt seine Laune; این چیز خُلقَش را خوش می کُنَد، کِیفَش کوک می شَوَد
@@ -363,16 +367,16 @@ launenhaft; (gah-gir) خودکامه، بُلهَوَس، دَم دَمی مِز
 Launenhaftigkeit; دَمدَمی مِزاجی، بُلهَوَسی
 launisch; (gah-gir) خودکامه، بُلهَوَس، دَم دَمی مِزاج، گَهگیر
 Laus; شِپِش
-lauschen; سَرک کِشیدَن، اِستِراق ِ سَمع کَردَن
+lauschen; سَرَک کِشیدَن، اِستِراق ِ سَمع کَردَن
 - sie lauschen auf die Klingel; آنها گوش به زَنگ می شَوَند
 - von jem. etwas ablauschen; چیزی را از کِسی اِستِراق ِ سَمع کَردَن، به حَرف ِ کِسی پِنهانی گوش دادَن
 Lauschen (n); اِستِراق ِ سَمع
 Lauscher; (nijuschande) نیوشَنده
 laut;
-- laut sein; رَسا بودَن، شُلوغ ب.، پُر سَر و صِدا ب
+- laut sein; .رَسا بودَن، شُلوغ ب.، پُر سَر و صِدا ب
 - mit lauter Stimme; با صِدای ِ رَسا، ـ بُلَند
 - sein Bedauern gegenüber ... nicht laut werden lassen; رِسانه دَر مورِد ِ ... سُکوت کَردَن
-- laut Mitteilung, schrieb ....; به نَقل از سُخَنگوی ِ .... نِوِشته
+- laut Mitteilung, schrieb ...; به نَقل از سُخَنگوی ِ ... نِوِشته
 Laut (m); (pl.) آوا، صِدا، صوت (اَصوات)، آواز
 Laute;
 - Laute (arab., mit Ziegenhaut); مَزهَر
@@ -382,7 +386,7 @@ lauten;
 läuten; زَنگ زَدَن
 lauter;
 - vor lauter Schwäche; از فَرط ِ ضَعَف، از زور ِ ضَعف
-- vor lauter Schreien; از بَس که جیغ و داد کَرده بودَم
+- vor lauter Schreien war mir ...; از بَس که جیغ و داد کَرده بودَم
 - vor lauter schlechten Nachrichten sind wir ganz geknickt; از فَرط ِ اَخبار ِ مأیوس کُنَنده ای سَر بِزیریم
 - seine Absicht ist lauter; نيَت ِ او پاک است
 - in lauterster Absicht; با خُلوص ِ نيَت
@@ -392,7 +396,7 @@ läutern; پاک کَردَن
 Läuterung;
 - Läuterung des Menschen; تَزکیهٔ نَفس
 lautlos; بی سَر و صِدا
-- lautloser Angriff; تُرکتازی ِ بلامُنازِع، ـ بیصِدا
+- lautloser Angriff; تُرکتازی ِ بِلامُنازِع، ـ بیصِدا
 Lautsprecher; بُلَند گو
 Lautstärke; شِدَت ِ صوت
 Lautstärkeregelung; کُنترُل ِ شِدَت ِ صوت
@@ -403,19 +407,19 @@ Lavendel; اُسطوخودوس
 Lavieren; چَم و خَم
 Lawine; بَهمَن
 lax; غافِل، لااُبالی
-Layout; موزون ِ صَفحه، صَفحه بَندی
+Layout; موزون ِ صَفحه، صَفحه بَندی، ویرایِش، صَفحه آرایی
 Lazarett;
 - Feldlazarett; مَریض خانهٔ صَحرائی
 leben; زِندِگی کَردَن
-- Menschen, die in ... leben; مَردُم ِ مُقیم ِ
+- Menschen, die in .... leben; مَردُم ِ مُقیم ِ
 - sie leben in innerer Unruhe; آنها دَر پَریشانی بِسَر می بَرَند
-- sie leben vom Geld des ...; آنها با پول ِ فِلان گُذَران می کُنَند
+- sie leben vom Geld des ....; آنها با پول ِ فِلان گُذَران می کُنَند
 - auf grossem Fuss leben; فَراخ رَوی کَردَن
 - er lebte im Ausland; او دَر خارِجی بسَر بُرد
 - von seinen Kindern leben; مَخارِج ِ اورا فَرزَندانَش به عُهده دارَند
 - so wahr ich lebe (popul.); که جونَم
-- es lebe ....!; زِنده باد ....!، پايَنده باد
-- wenn du lange lebst, ....; اَگَر عُمر ِ طولانی کُنی
+- es lebe ...!; زِنده باد ...!، پايَنده باد
+- wenn du lange lebst, ...; اَگَر عُمر ِ طولانی کُنی
 - Wo leben wir eigentlich?; کُجا داریم زِندِگی میکُنیم؟
 - leben und leben lassen; زِندِگی کُن و بِگُذار که زِندِگی کُنَند
 - in den Tag hineinleben; لِک و لِک کَردَن
@@ -429,7 +433,7 @@ Leben (n); رَوان، حَیات، زِندِگی
 - bis ans Ende des Lebens; تا آخَر ِعُمر
 - nach dem Leben trachten;  به قَصد ِ جان زَدَن
 - etwas ins Leben rufen; چیزی را به نَقد کِشیدَن، ـ به وُجود آوَردَن
-- der Verein wurde im Jahre .... ins Leben gerufen; اَنجُمَن دَر سال ِ .... موجوديَت یافت
+- der Verein wurde im Jahre ... ins Leben gerufen; اَنجُمَن دَر سال ِ ... موجوديَت یافت
 - jem. ins Leben zurückrufen; دَست از دِل ِ کِسی بَرداشتَن، کِسی را به حال ِ خود گُذاشتَن
 - Wasser des Lebens; آب ِ زِندِگانی، ـ حَیات
 - Das Leben ist kein Spaziergang; دُنیا جای ِ آزمايِش است نه جای ِ آسايِش
@@ -509,7 +513,7 @@ Lebhaftigkeit; جُنب و جوش
 leblos; بی جان، مُرده
 - leblose Maschine; ماشین از جان اُفتاده، ـ اَنداخته، ـ از کار اُفتاده
 lechzen; از فَرط ِ دِرَندِگی لَه لَه زَدَن
-- lechzend sein nach; راغِب ِ چیزی بودَن،  آب از دَهانَش سَرازیر می شَوَد،  سَخت شیفته و خواهان ِ چیزی  گَشتَن، آب اَنداختَن ِ دَهان،  فُزوده شُدَن ِ اِشتِها نِسبَت بچیزی، آب دَر دَهان آمَدَن  از.... ، شائِق و خواهان ِ آن شُدَن
+- lechzend sein nach; راغِب ِ چیزی بودَن،  آب از دَهانَش سَرازیر می شَوَد،  سَخت شیفته و خواهان ِ چیزی  گَشتَن، آب اَنداختَن ِ دَهان،  فُزوده شُدَن ِ اِشتِها نِسبَت بچیزی، آب دَر دَهان آمَدَن  از... ، شائِق و خواهان ِ آن شُدَن
 leck; سوراخ دار، رَخنه دار
 Leck (n); سوراخ، رَخنه
 lecken; لیسیدَن
@@ -618,7 +622,7 @@ leicht; چابُک، سَبُک، آسان
 - Nimms leicht; سَخت نَگیر
 - das ist leicht gesagt; گُفتَنَش آسان است
 - leichtes Mädchen; پالانَش کَج است
-- am leichtesten erreichst du ihn in ...; بِهتَر از هَمه جا دَر ... اورا مُلاقات کُنی
+- am leichtesten erreichst du ihn in ....; بِهتَر از هَمه جا دَر .... اورا مُلاقات کُنی
 - das ist für mich kinderleicht; این مِثل ِ آب خوردَن است
 Leichtathletik; دُو و مِیدانی
 leichtfertig; سَهل اَنگار، بی جَنبه، سَبُک سَر
@@ -634,20 +638,20 @@ Leichtsinn; سَهل اِنگاری
 leichtsinnig; سَر در هَوا، بی اِحتیاط، سَبُک سَر
 leid;
 - es tut uns leid, dass es nicht so ist; دَریغ که چِنین نیست
-- wo es dir leid tut, dass ....; که حِیفَت می آيَد که
+- wo es dir leid tut, dass ...; که حِیفَت می آيَد که
 - ich bin seine Unaufmerksamkeit leid;  از دَست ِ سَر به هَوائی ِ این شَخص خَسته می شَوَم
 Leid (n); نِکبَت، دَرد، رَنج
 - jem. kein Leid zufügen; به کِسی صَدَمه ای نَزَدَن
 - Leid tragen; غُصه خوردَن
 leiden;
-- an ... leiden; به بیماری ِ ... مُبتَلا بودَن
+- an .... leiden; به بیماری ِ .... مُبتَلا بودَن
 - um der Gerechtigkeit willen leiden; دَر راه ِ عِدالَت جَفاء دیدَن
 - an einer Nervenkrankheit leiden; به اِختِلال ِ عَصَبی دُچار بودَن
 - jem. sehen, wie er leidet; کِسی را دَر دَرد و رَنج دیدَن
-- ich litt unter dem Eingeständnis, dass ....; رَنج ِ مَن دَر اِعتِراف به اینکه .... هَستَم، زیاد بود
+- ich litt unter dem Eingeständnis, dass ...; رَنج ِ مَن دَر اِعتِراف به اینکه ... هَستَم، زیاد بود
 - Hunger erleiden; گُرُسنِگی کِشیدَن
 leidend; دَردکِش، دِق دار کِش، دَردزَده
-- leidend sein an ...; مُبتَلا به چیزی بودَن، ـ شُدَن
+- leidend sein an ....; مُبتَلا به چیزی بودَن، ـ شُدَن
 - ein leidender Mensch; اِنسان ِ رَنج دیده
 leidensbereit; آمادهٔ جَفاء، جَفاء پَذیر
 Leidenschaft;
@@ -667,7 +671,7 @@ leidgeprüft; مَنکوب، نِکبَت زَده
 leidig;
 - eine leidige Geschichte; واقعهٔ مولِمه
 leidtragend;
-- wenn ... dann sind die Menschen die Leidtragenden; وَقتیکه ... این وَسَط چوبَش را مَردُم میخورَند
+- wenn .... dann sind die Menschen die Leidtragenden; وَقتیکه .... این وَسَط چوبَش را مَردُم میخورَند
 Leier;
 - immer die gleiche Leier; هَمان ساز ِ قَدیمی را زَدَن
 Leierkasten; اُرگ نَوازها
@@ -697,7 +701,7 @@ Leiste; شِمشه
 - Fussbodenleiste; هَزاره، باریکه
 - Parkettleiste (einzelnes Brett); تیغهٔ پارکَت
 leisten;
-- das kann ich mir leisten; تَوانائی ِ.... را دارَم
+- das kann ich mir leisten; تَوانائی ِ... را دارَم
 - jem. Folge leisten; پَذیرُفتَن ِ فَرمان ِ فِلان را
 - Hilfe leisten; به اِمداد ِ کِسی رِساندن، کُمَک کَردَن
 - kannst du mir Gesellschaft leisten? (popul.); بیا بِشین
@@ -751,7 +755,7 @@ Lendenbereich; گرده، ناحیهٔ پشت کمر، کَشاله ران
 lenken; راندَن، رانَندِگی کَردَن، هِدايَت ک
 - jemandes Aufmerksamkeit lenken auf; تَوَجُه ِ کِسی را مَعطوف داشتَن به
 - ferngelenkt; هِدايَت شَوَنده از دور
-- der Blick ist gelenkt auf ....; نِگارِش مَعطوف است بَر
+- der Blick ist gelenkt auf ...; نِگارِش مَعطوف است بَر
 - gelenkte Marktwirtschaft; اِقتِصاد ِ اَرشادی ِ بازار
 Lenkrad; فَرمان، رُل
 Lenkradschaltung; تَعویض ِ دَندهٔ چَرخ ِ فَرمان
@@ -849,7 +853,7 @@ Lidschatten;
 liebäugeln; نَظَربازی کَردَن، کِرِشمه ک
 Liebchen; مَعشوق
 liebe;
-- liebe Anwesende, ....; آقایان و خانُمهای ِ گِرامی
+- liebe Anwesende, ...; آقایان و خانُمهای ِ گِرامی
 - deine liebe Familie; خانِوادهٔ گِراميَت
 Liebe (f); مُحَبَت، حُب، عِشق
 - gegenseitige Liebe; مُعشِقه
@@ -905,7 +909,7 @@ liegen; قَرار داشتَن
 - die Anzahl der Arbeiter, die bei 100 Personen liegt; کارمَندان که بالِغ بَر ۱۰۰ نَفَر می شَوَد
 - die Stadt liegt 100 mtr. hoch; شَهر دَر اِرتِفاع ِ ۱۰۰ مِتر قَرار دارَد
 - die Stadt liegt im Norden; شَهر دَر شُمال واقِع است، ـ قََرار دارَد
-- die Verantwortung liegt bei ....; مَسئوليَت بَر عُهدهٔ .... است
+- die Verantwortung liegt bei ...; مَسئوليَت بَر عُهدهٔ ... است
 - diese Sache liegt mir nicht; از این موضوع بِدورَم
 - die Last liegt schwer auf mir; باری ِ گِران بَر مَن سَنگینی می کُنَد
 - mit dem Gesicht nach unten liegend; دَمَد
@@ -914,7 +918,7 @@ liegenbleiben;
 - was liegengeblieben ist, bleibt liegen; آنچه به جا مانده است به جا خواهَد ماند
 liegenlassen;
 - seine Kleider auf dem Boden liegenlassen; لِباس ِ خودرا روی ِ زَمین وِلو کَردَن
-- das Geld habe ich in ... liegenlassen; پول را دَر ... جا گُذاشتَم
+- das Geld habe ich in .... liegenlassen; پول را دَر .... جا گُذاشتَم
 - es wurde liegengelassen; جامانده بود
 Liegenschaft; مِلک ِ عَقاری، مِلک ِ غِیر ِ مَنقول
 Liegestuhl; صَندَلی ِ تا شو
@@ -1009,7 +1013,7 @@ loben; .کِسی را تَعریف کَردَن، ـ تَحسین ک، بَه ب
 lobenswert; تَحسین اَنگیز، قابِل ِ تَمجید
 - ist nicht lobenswert; تَعریفی نَداشتَن
 Lobeshymnen;
-- Lobeshymnen in Bezug auf ... halten; نُطق ِ غَرائی دَر چیزی کَردَن، خَطابهٔ فَصیحی دَر مَدح ِ کِسی خواندَن
+- Lobeshymnen in Bezug auf .... halten; نُطق ِ غَرائی دَر چیزی کَردَن، خَطابهٔ فَصیحی دَر مَدح ِ کِسی خواندَن
 Lobpreis; تَسبیح، حَمد، ثَناء، سُبحان، سِتايِش، نیايِش
 lobpreisen; حَمد و ثَناء گُفتَن
 Lobredner (auch iron.); ثَنا گو
@@ -1033,7 +1037,7 @@ locker;
 - lockere Kleidung; لِباس ِ گَل و گُشاد
 - lockeres (moralisch) Bild; تَصویر ِ جِلف
 Lockerung;
-- Lockerung der ...; - ِ شُل کَردَن ِ...، کاستَن
+- Lockerung der ....; - ِ شُل کَردَن ِ....، کاستَن
 - Lockerung der restriktiven Politik; شُل کَردَن ِ سیاسَت ِ تَضییقی
 - Lockerung der Muskeln durchführen (beim Sport); اُستُخوان نَرم کَردَن
 Lockvogel; جاسوس ِ تَحریک کُنَنده
@@ -1083,11 +1087,11 @@ Looser; آب از گََلوی ِکِسی پایین نِمی رَوَد، بی 
 Lorbeer; دِرَخت ِ غار
 Lorbeerblatt; بَرگ ِ بو
 los;
-- um zu wissen, was los ist ...; که سَر و گوشی آب بِدَهَد
+- um zu wissen, was los ist ....; که سَر و گوشی آب بِدَهَد
 - dass er weiss, was los ist; که بِدانَد چی به چیه
 - was ist mit dir los?; با تو چه شُده؟، تو چِته؟
 - was ist in der Stadt los?; دَر شَهر چه خَبَره؟
-- solange im Laden nichts los ist, muß er ....;  .... تا تَه ِ تَرازو به زَمین بِخورَد او بايَد
+- solange im Laden nichts los ist, muß er ...;  ... تا تَه ِ تَرازو به زَمین بِخورَد او بايَد
 - lass mich los!; وِلَم کُن
 - los gehts!; راه بيُفت!، بِرَویم
 Los (n); قُرِعه
@@ -1127,12 +1131,12 @@ Löslichkeit; قابِليَت ِ اِنحِلال
 loslösen; مُفَرِق کَردَن، جُدا ک
 - s. loslösen; وَر آمدن
 - nicht loszulösen von; لايَنفَک
-- losgelöst von ....; مُنفَک شُده از
+- losgelöst von ...; مُنفَک شُده از
 - Loslösung eines Gebietes; تَجزیهٔ مَنطَقه ای
 losreissen;
 - s. losreissen von etwas; از چیزی دِل کَندَن
 lossagen; خود را رَها کَردَن
-- falls er s. nicht lossagt von ....; دَر صورَت ِ چِشم نَپوشیدَن از
+- falls er s. nicht lossagt von ...; دَر صورَت ِ چِشم نَپوشیدَن از
 losschicken; راهسِپَر کَردَن، فِرِستادَن
 losstürzen; شِتافتَن
 - auf jem. losstürzen; به سوی ِ کِسی حَمله کَردَن، بَر سَر ِ کِسی ریختَن
@@ -1163,7 +1167,7 @@ Löwe; شیر
 Löwenmaul; گُل ِ مِیمون
 Löwenzahn; قاصِدی، کاسنی ِ صَحرائی
 loyal; وَفادار، اِرادَت کیش، با وفا
-- Loyalität gegenüber ...; وَفاداری به، صِداقَت به
+- Loyalität gegenüber ....; وَفاداری به، صِداقَت به
 Luchs; سیاه گوش
 Lücke; سوراخ، شِکاف، رَخنه
 lückenhaft; سوراخ دار، ناقِص
@@ -1177,8 +1181,8 @@ Luft; باد، هَوا
 - in die Luft gehen; مُنفَجِر شُدَن
 - jem. an die frische Luft setzen, entlassen; پالان ِ کِسی را آفتاب گُذاشتَن
 - Dicke Luft; هَوا پَس است
-- als sie sahen, dass dicke Luft ist, ....; آنها که هَوا را پَس دیدَند
-- versteck dich, bis die Luft rein ist; آبها از آسیاب اُفتادَن، .... بَعد از اینکه همهٔ آبها .... آنوَقت دیدَم ....، قايِم شو تا آبها از آسیاب بیفُتَد
+- als sie sahen, dass dicke Luft ist, ...; آنها که هَوا را پَس دیدَند
+- versteck dich, bis die Luft rein ist; آبها از آسیاب اُفتادَن، ... بَعد از اینکه همهٔ آبها ... آنوَقت دیدَم ...، قايِم شو تا آبها از آسیاب بیفُتَد
 - Frischluft schnappen;  .باد خوردَن، هَوا خ
 - Zimmerluft; دَمای ِ اُتاق
 Luftballon; باد ِ کُنَک
@@ -1198,11 +1202,11 @@ Luftschacht; هواکِش، بادگیر، بادکِش
 Luftschutz; حِفاظَت ِ هَوائی
 Luftspiegelung; سَر آب، آبنَما
 Luftsprung;
-- er machte einen Luftsprung; او جَست زَد توی ِ هَوا، دِلََش بَرای ِ .... پَر می زََد، به هَوا پَرید
+- er machte einen Luftsprung; او جَست زَد توی ِ هَوا، دِلََش بَرای ِ ... پَر می زََد، به هَوا پَرید
 Luftströmungen; (sing.)  (مُجاری ِ هَوا (مَجرا
 Lüftung; تَهویه
 Luftveränderung; تَغییر ِ هَوا
-- zwecks Luftveränderung ....; تا آب به آب شَوَد
+- zwecks Luftveränderung ...; تا آب به آب شَوَد
 Luftwaffe; نیروی ِ هَوائی
 Lüge; کِذب، دُروغ
 - sein Tun straft diesem Anspruch Lügen; اَعمالَش این اِدِعا را تَکذیب میکُنَد
@@ -1230,12 +1234,12 @@ Lupe; ذَره بین، عَدَسی ِ بُزُرگ نَما، میکروسکُ
 Lust;
 - Lust, Freudigkeit; مِیل، تَمايُل
 - Lust, Lüsternheit; شَهوَت
-- ich hatte Lust, ....; هَوَس کَردَم
+- ich hatte Lust, ...; هَوَس کَردَم
 - ihren Lüsten unterwerfen; لَگَد کوب ِ هَوَس های ِ خود ساختَن
 - ich habe keine Lust; حالَش را نَدارَم، اُفتاده بودَم، دِلَش را نَدارَم
 - jem. die Lust nehmen; کِسی را بی مِیل ساختن، ـ دِلسَرد کَردَن
 - keine Lust haben, zu reden; نای ِ حَرف زَدَن را نَداشتَن، بَرای ِ حَرف زَدَن پايَش راه نِمی گیرَد
-- die Lust auf .... packt ihn; هَوَس ِ ... گَریبانَش را می گیرَد
+- die Lust auf ... packt ihn; هَوَس ِ .... گَریبانَش را می گیرَد
 - die Lust aufs Reisen überkommt ihn; هَوای ِ سَفَر به سَر ِ او می زَنَد، هَوَس ِ سَفَر می کُنَد
 - er hat Lust auf ein Bier; هَوَس ِ يِک آبِجو کَرد
 lüstern; شَهوانی، شَهوَتی
@@ -1248,7 +1252,7 @@ lustig; نَشیط، شوخ، شوخ و شَنگ، بَشاش
 - lebenslustig sein; اَهل ِ حال بودَن
 lustlos;
 - er ist lustlos; او بی دَماغ است
-- lustlos sagte er, ...; بی هَوا گفت
+- lustlos sagte er, ....; بی هَوا گفت
 lutschen; مَکیدَن
 - wir lutschen Eis; بَستَنی می مَکیم
 luxuriös; مُجَلَل، تَجَمُلی
