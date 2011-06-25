@@ -1,4 +1,4 @@
-﻿Kaaba; کَعبه
+Kaaba; کَعبه
 Kabarett; کاباره
 Kabel; کابِل، سیم
 - Kabel legen; سیم کِشى کَردَن
@@ -480,7 +480,7 @@ Kind; (pl.) فَرزَند، وَلَد (اولاد)، بَچه
 - ein kleines Kind; کودَک ِ خُرد
 - ein Kind bekommen; بَچه دار شُدَن
 - Kinder & Kindeskinder; اولاد و اولاد ِ اولاد، فَرزَندان و نَوه ها
--  für ihn ist das Tier wie sein eigen Kind; او اِنگار این حِیوان پارهٔ جِگَرِش است
+- für ihn ist das Tier wie sein eigen Kind; او اِنگار این حِیوان پارهٔ جِگَرِش است
 - nach 2 Kindern wollten wir keine Kinder mehr; بَعد از دو تا بَچه دَر ِ اِزا بِزايِمان را گُذاشتیم
 Kindererziehung; پَروَرِش ِ اولاد، ـ فَرزَندان
 Kinderfrau; دَده، لَله
@@ -790,7 +790,7 @@ Knarzen; صَریر
 Knäuel; کَلاف
 Knauserei; خِسَت
 knauserig; حَریص
-- Knauserig sein; آب از دَریا بَخشیدَن; از چیزی بی اَرز و فَراوان عَطا دادَن؛ آب از دَستَش نِمی چِکَد، سَخت مُمسِک بودَن
+- Knauserig sein; آب از دَریا بَخشیدَن، از چیزی بی اَرز و فَراوان عَطا دادَن؛ آب از دَستَش نِمی چِکَد، سَخت مُمسِک بودَن
 knautschig; مُچاله، چُروک
 knebeln; پارچه اى توى ِ دَهَن چُپاندَن
 Knecht; کِنیز، رَهى، غُلام، نوکَر

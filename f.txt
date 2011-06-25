@@ -1634,7 +1634,7 @@ frequentieren;
 Frequenz; نَوَسان، فرِکانس
 - Frequenz der vorkommenden Begriffe; واژه نَما و بَسآمَد نِویسى
 fressen; خوردَن، کوفت کَردَن
-- angefressen (z.B.; vom Hund); دَهَن زَده
+- angefressen (z.B. vom Hund); دَهَن زَده
 Freude; اِبتِهاج، شادى، مَسرَت، خوشحالى
 - sie platzen vor Freude; از شادى دَر پوست نِمى گُنجیدَند
 - Ausrasten vor Freude; آب از چَک و چانه سَرازیر شُدَن، دَر تَداوُل ِ عَوام بِمِزاح‚ از دیدَن یا شِنیدَن ِ چیزی سَخت لِذَت  بُردَن

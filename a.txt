@@ -1685,7 +1685,7 @@ anfragen;
 - bei jem. anfragen; اِستِسفار کَردَن، اَز کِسى جویاى چیزى بودَن، چیزى را اَز کِسى سُؤال کَردَن
 - jem., der anfragt; مُتَقاضى
 anfressen;
-- angefressen (z.B.; vom Hund); دَهَن زَده
+- angefressen (z.B. vom Hund); دَهَن زَده
 anfreunden;
 - s. anfreunden mit; با کِسى گَرم گِرِفتَن ، ـ دوست شُدَن
 - damit kann ich mich nicht anfreunden; این را قَبول نِمی کُنَم
@@ -1733,7 +1733,7 @@ angebracht;
 angebunden; مُتَقَیِد، بَسته
 angedacht; دَر نَظَر گِرِفته
 angefeuchtet;  .مَبلول شده، نَم ش
-angefressen (z.B.; vom Hund); دَهَن زَده
+angefressen (z.B. vom Hund); دَهَن زَده
 angefüllt;
 - angefüllt sein mit; مَشحون بودَن اَز، تو گِرِفته
 angegliedert; مُضاف
@@ -3364,7 +3364,7 @@ aufmucken; جیک زَدَن
 aufmuntern;
 - jem. aufmuntern; به کِسى جان دادَن، ـ دِل د.، کِسى را دِلدار د.، ـ تَشویق کَردَن
 - aufmuntern & herausfordern; هَوا حالِشان را جا مى آوَرَد، هَوا آنهارا بیدار مى کُنَد
--  aufmunternd, anregend; جانپَروَر
+- aufmunternd, anregend; جانپَروَر
 - auf Deine Aufmunterung hin habe ...; ... به پُشتگَرمى ِ تو ..، با تَشویق ِ تو
 aufmüpfig; جیک زَدَن
 Aufnahme;
@@ -3701,7 +3701,7 @@ aufwallen (z.B. Gefühl); موج زَدَن
 Aufwand; صَرف
 - der Aufwand lohnt s. nicht; صَرف نِمى کُنَد
 aufwändig; پُرخَرج
--  aufwändig, luxoriös; مُجَلَل
+- aufwändig, luxoriös; مُجَلَل
 aufwärmen; گَرم کَردَن
 - eine Arbeit zum Aufwärmen; کارى را بَراى ِ دَستگَرمى
 - zum Aufwärmen machte er einige ...; بَرای ِ دَست گَرمی چَند ... کَرد
@@ -3719,7 +3719,8 @@ aufweisen;  .ارائه دادَن، نِشان د
 - Erinnerung weist Mangel auf; حافِظه دُچار ِ نَقصان مى شَوَد
 aufwenden; مَصرَف کَردَن
 - den Betrag, den man für jem. aufwenden muss; مَبلَغى را که بایَد خَرج ِ کِسى کَرده باشَد
-- die Tagesration wendet man für die Frisur auf; مُعادل ِ خَرج ِ یِک روز خوراک را صَرف ِ اِصلاح ِ مو مى کُنَد aufwerten;  .به اَرزِش ِ چیزى اَفزودَن، اَرزش ِ چیزى را اَ
+- die Tagesration wendet man für die Frisur auf; مُعادل ِ خَرج ِ یِک روز خوراک را صَرف ِ اِصلاح ِ مو مى کُنَد 
+aufwerten;  .به اَرزِش ِ چیزى اَفزودَن، اَرزش ِ چیزى را اَ
 Aufwertung; تَرَقى، اَفزایش
 aufwickeln; پیچیدَن
 aufwiegeln; سیاقه کَردَن، تَحریک ک. ، فِتنه اَنگیختَن
@@ -3797,11 +3798,11 @@ Auge; چِشم
 - mit eigenen Augen; بِرأى اُلعِین، با چِشم ِ خود
 - vor den Augen aller; دَر اِنظار ِ عُمومى
 - die Hand vor den Augen nicht sehen; چِشم چِشم را نِمى بینَد
-- in´s Auge fallen; به چِشم اُفتادَن
+- ins Auge fallen; به چِشم اُفتادَن
 - die Augen weit aufreissen; چِشمها چَهار تا شُدَن
 - ein Auge zudrücken (*: Nachsicht); چِشم پوشیدَن
 - Die Menschen werden gesund, wenn sie mit den Augen des Herzens sehen, nicht mit Augen aus Glas und Stahl; عِلاج ِ بَشَر دیدهٔ باطِن اَست، نَه چِشمى که از شیشه و آهَن اَست
-- Die Augen des Habsüchtigen werden entweder durch Genügsamkeit oder durch Grabeserde gefüllt; weder die Diamanten der Welt, noch alle wertvollen Güter sättigen den Geizhals;  چِشم ِ تَنگ ِ دُنیا دوست را یا قَناعَت پُركُنَد یا خاك ِ گور گَر هیمه عود گَردَد و گَر سَنگ دُرّ شَوَد مَشنو كه چِشم ِ آدَمی ِ تَنگ پُر شو 
+- Die Augen des Habsüchtigen werden entweder durch Genügsamkeit oder durch Grabeserde gefüllt\; weder die Diamanten der Welt, noch alle wertvollen Güter sättigen den Geizhals;  چِشم ِ تَنگ ِ دُنیا دوست را یا قَناعَت پُركُنَد یا خاك ِ گور گَر هیمه عود گَردَد و گَر سَنگ دُرّ شَوَد مَشنو كه چِشم ِ آدَمی ِ تَنگ پُر شو 
 - Glotzauge; چِشم وَر قُلُنبیده
 äugeln;  .نَظَربازى کَردَن، عِشوه گَرى ک
 Augenarzt; چِشم پِزِشک

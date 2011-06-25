@@ -687,7 +687,7 @@ dichtmachen;
 - ein Rohr dichtmachen; لوله را آب بَندى کَردَن
 - das Schiff dicht machen (oder: dichtmachen); کِشتى را قِیر اَندود کَردَن
 Dichtung;
-- Dichtung; Gedicht; شِعر نِویسی، اَدَبیات ِ شِعری، شِعریَت
+- Dichtung, Gedicht; شِعر نِویسی، اَدَبیات ِ شِعری، شِعریَت
 - Dichtung, Abdichtung; آب بَندی
 - Dichtung & Wahrheit; خیالبافى و حَقیقَت
 - Gummidichtung; واشِر

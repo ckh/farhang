@@ -1,4 +1,4 @@
-﻿Raa; چوب بَراى ِ اِستِحکام شِراع
+Raa; چوب بَراى ِ اِستِحکام شِراع
 Rabatt; تَنزيل، تَخفيف
 Rabatte; کَرت، کَرت بَندي
 - Blumenrabatte; گُلزار
@@ -379,7 +379,7 @@ Recht (n); حَق
 - Recht verdrehen; کُلاه ِ شَرعى گُذاشتَن
 - das Recht aufheben; حَق را ناحَق کَردَن
 - jem. das Recht absprechen; حَق ِ کِسی را خوردَن
--  jem. Recht verschaffen; کِسى را دادرَسى فَرمودَن
+- jem. Recht verschaffen; کِسى را دادرَسى فَرمودَن
 - gleiches Recht für alle; گَر حُکم کُنَند که مَست گيرَند، دَر شَهر هَر آنچه هَست گيرَند
 - können ihre Rechte nicht anerkannt bekommen; نِمى تَوانَند اِحقاق ِ حَق کُنَند
 - mit Gesichtsausdruck, wo man s. im Recht weiß; با قيافة حَق به جانِب
