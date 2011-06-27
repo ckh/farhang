@@ -411,11 +411,11 @@ Layout; موزون ِ صَفحه، صَفحه بَندی، ویرایِش، صَ
 Lazarett;
 - Feldlazarett; مَریض خانهٔ صَحرائی
 leben; زِندِگی کَردَن
-- Menschen, die in .... leben; مَردُم ِ مُقیم ِ
+- Menschen, die in ... leben; ... ِ مَردُم مُقیم
 - sie leben in innerer Unruhe; آنها دَر پَریشانی بِسَر می بَرَند
-- sie leben vom Geld des ....; آنها با پول ِ فِلان گُذَران می کُنَند
+- sie leben vom Geld des ...; آنها با پول ِ فِلان گُذَران می کُنَند
 - auf grossem Fuss leben; فَراخ رَوی کَردَن
-- er lebte im Ausland; او دَر خارِجی بسَر بُرد
+- er lebte im Ausland; او دَر خارِجی بِسَر بُرد
 - von seinen Kindern leben; مَخارِج ِ اورا فَرزَندانَش به عُهده دارَند
 - so wahr ich lebe (popul.); که جونَم
 - es lebe ...!; زِنده باد ...!، پايَنده باد
@@ -427,7 +427,7 @@ leben; زِندِگی کَردَن
 Leben (n); رَوان، حَیات، زِندِگی
 - das Leben lassen; به مَرگ رِسیدَن، جان دادَن
 - das Leben verlieren; جان باختَن
-- mein Leben eingesetzt; دَست از جان شُستَم، جان بَر کَف نَهادَم
+- ich habe mein Leben eingesetzt; دَست از جان شُستَم، جان بَر کَف نَهادَم
 - das nackte Leben retten; جان سالِم به دَر بُردَن
 - das Leben währt lange; عُمر کَفاف میکُنَد
 - bis ans Ende des Lebens; تا آخَر ِعُمر
@@ -436,10 +436,10 @@ Leben (n); رَوان، حَیات، زِندِگی
 - der Verein wurde im Jahre ... ins Leben gerufen; اَنجُمَن دَر سال ِ ... موجوديَت یافت
 - jem. ins Leben zurückrufen; دَست از دِل ِ کِسی بَرداشتَن، کِسی را به حال ِ خود گُذاشتَن
 - Wasser des Lebens; آب ِ زِندِگانی، ـ حَیات
-- Das Leben ist kein Spaziergang; دُنیا جای ِ آزمايِش است نه جای ِ آسايِش
+- Das Leben ist kein Spaziergang; دُنیا جای ِ آزمايِش است نَه جای ِ آسايِش
 - Ein bisschen was vom Leben haben; سَری دَر آخوری داشتَن، اَندَکی ِ سَر و سامان پِیدا کَردَن
 - Jeder macht aus seinem Leben, was er kann; از آب ِ خُرد ماهی ِ خُرد خیزَد
-- Auf und Ab des Lebens; فَراز و نَشیب ِ زِندِگی
+- Auf und Ab des Lebens; فَراز و نِشیب ِ زِندِگی
 - sein Leben steht auf dem Spiel; زِندِگی ِ او به موئی بَسته است
 - sein Leben aufs Spiel setzen; بَر لَبهٔ تیغ زِندِگی کَردَن
 - sein Leben neigt s. dem Ende zu; چیزی از عُمر ِ او نِمی مانَد
@@ -448,7 +448,7 @@ Leben (n); رَوان، حَیات، زِندِگی
 - Höhen & Tiefen des Lebens; خوب و بَد ِ دُنیا
 - s. durchs Leben schlagen; کِر و کِر کَردَن
 - Was ist das Leben? Trübsal, Leiden und schliesslich der Tod; زِندِگی چیست؟ خون ِ دِل خوردن سَر به سَر ِ رَنج و عاقِبَت مُردَن
-- Das Leben ist zu kurz, um ständig für sein Recht zu kämpfen; آدَم دو دَفعه نِمی میرَد، گاه دِفاع از حَق و حَقیقَتی رَعَب و هَراس ناسِزاوار است
+- Das Leben ist zu kurz, um ständig für sein Recht zu kämpfen; آدَم دو دَفعه نِمی میرَد گاه دِفاع از حَق و حَقیقَتی رَعَب و هَراس ناسِزاوار است
 - Die Mittel reichen weder zum Leben noch zum Sterben; سَد ِ رَمِق، پاداش ِ بخور و نَمیر
 - Jedes Korn, das in die Erde fällt, entsteht zu neuem Leben, warum  glaubt Ihr das nicht auch für den Menschen?;   کُدام دانه فُرو رَفت دَر زَمین که نَرُست چِرا به دانهٔ اِنسانيَت این گُمان نَباشَد؟
 - das Leben von Tausenden; گُذَران ِ هِزاران نَفَر
@@ -464,14 +464,14 @@ Lebensbedingungen; شَرايِط ِ زِندِگی
 Lebenserfahrung; عِلم ِ مَعاش، تَجرُبهٔ زِندِگی
 Lebenserwartung;
 - erhöhte Lebenserwartung; اُمید به اَفزايِش ِ عُمر، اَفزايِش ِ طول ِ عُمر
-Lebenselixier; آب ِ شَهادَت
+Lebenselixier; آب ِ شَهادَت، آب ِ تُربَت
 Lebensfaden;
-- bis der Lebensfaden reisst; تا رَگ ِ جان بگُسِلَد
+- bis der Lebensfaden reisst; (infin.) (تا رَگ ِ جان بگُسِلَد (گُسِلیدَن
 Lebensfreude; تَنَشُط، نِشاط، شوق ِ زیستَن، خوش گُذَرانی
 Lebensgefahr; خَطَر ِ مَرگ
-Lebensgefährte (-in); هَمدَم ِ مُذَکِر (ـ مُؤنَث
+Lebensgefährte (-in); (هَمدَم ِ مُذَکِر (ـ مُؤنَث
 Lebensgeister;
-- seine Lebensgeister sind wieder geweckt; آبی زیر ِ پوسَش رَفت
+- seine Lebensgeister sind wieder geweckt; آب زیر ِ پوستَش رَفت
 Lebensgrundlage;
 - jem. die Lebensgrundlage nehmen; نان ِ مَردُم را آجُر کَردَن
 Lebenshaltung; مَعیشَت، مَعاش ِ زِندِگی
@@ -522,7 +522,7 @@ lecker; لَذیذ، خوش مَزه
 Leckerbissen; مَتاع، خوراک ِ لَذیذ
 Leder; چَرم
 - zäh wie Leder; سِفت تَر از چَرم ِ ساغِری است
-- Rohleder; آش نَکرده، پوست ِ خام
+- Rohleder; پوست ِ آش نَکرده، پوست ِ خام
 Lederhaut; صُلبیه
 Ledertasche (aus Schafshaut);  اَنبان
 ledig; مُجَرَد
@@ -541,7 +541,7 @@ Leertaste; دُکمهٔ فاصِله
 Leerung; تَخلیه
 legal; قانونی، مَشروع
 Legalität; مَشروعيَت، قانونيَت
-legen; گُذاشتن
+legen; گُذاشتَن
 - s. legen; دِراز کِشیدَن
 - s. legen (Wind); باد فُروکِش کَردَن
 - Wert legen auf; اَرزِش قائِل شُدَن به
@@ -550,7 +550,7 @@ legen; گُذاشتن
 - s. ins Bett legen; به تَخت ِ خواب رَفتَن
 - die Worte in seinen Mund legen; کَلام را به زَبان ِ او اِلقاء کَردَن
 - seinen Kopf an das Ohr von jem. legen; سَر را به بیخ ِ گوش ِ کِسی گُذاشتَن
-- Besorgnis legt s. auf alle; تَشویش به جان ِ همه اُفتاد
+- Besorgnis legt s. auf alle; تَشویش به جان ِ هَمه اُفتاد
 legendär; اَفسانه آمیز
 Legende; اَفسانه، حِکايَت
 - Dolchstosslegende; اَفسانهٔ خَنجَر زَنی از پُشت
@@ -576,7 +576,7 @@ lehnen; تِکیه دادَن
 - s. gegen das Kissen lehnen; پُشت به پُشتی دادَن
 Lehrbuch; کِتاب ِ آموزِشی
 Lehre; دورهٔ آموزِشی، کارآموزی
-- er macht seine Lehre; او دورهٔ آموزی را می گُذَراند
+- er macht seine Lehre; او دورهٔ آموزی را می گُذَرانَد
 - Lehre ziehen aus; دَرس ِ عِبرَت گرَفتَن از
 lehren;  .دَرس دادَن، تَعلیم د
 - jem. seine Lektion lehren; کِسی را دَرس دادَن
@@ -609,7 +609,7 @@ Leibgarde; مُحافِظ ِ شَخصی، گارد ِ مُحافِظ
 leiblich; جِسمی، جِسمانی، بَدَنی
 - leiblicher Bruder; بَرادَر ِ تَنی
 Leibwächter; مُستَحفِظ، سَلیحدار، مُحافِظ
-Leiche; (pl.) نَعش، جَسَد (اَجساد)، مَيَّتِ (اَموات)، جِنازه
+Leiche; (pl.) نَعش، جَسَد (اَجساد)، مَيِت (اَموات)، جِنازه
 - nur über meine Leiche; بايَد مَرا از سَر ِجايَم بِکِناری بِزَنَد
 Leichenschmaus; حَلوای ِ مُرده
 Leichentuch; کَفَن
@@ -622,7 +622,7 @@ leicht; چابُک، سَبُک، آسان
 - Nimms leicht; سَخت نَگیر
 - das ist leicht gesagt; گُفتَنَش آسان است
 - leichtes Mädchen; پالانَش کَج است
-- am leichtesten erreichst du ihn in ....; بِهتَر از هَمه جا دَر .... اورا مُلاقات کُنی
+- am leichtesten erreichst du ihn in ...; بِهتَر از هَمه جا دَر ... اورا مُلاقات کُنی
 - das ist für mich kinderleicht; این مِثل ِ آب خوردَن است
 Leichtathletik; دُو و مِیدانی
 leichtfertig; سَهل اَنگار، بی جَنبه، سَبُک سَر
@@ -631,7 +631,8 @@ Leichtfertigkeit; آسان گیری، سَهل اِنگاری
 leichtfüssig; نَرم پا
 leichtgläubig; زود باوَر
 Leichtigkeit; سُهولَت
-- mit Leichtigkeit; به سُهولت، به چابُکی
+- mit Leichtigkeit; به سُهولَت، به چابُکی
+- die Leichtigkeit des Seins; سُهولَت ِ بَقاء
 Leichtindustrie; صَنايِع ِ سَبُک
 Leichtmetall; فِلِز ِ سَبُک
 Leichtsinn; سَهل اِنگاری
@@ -644,14 +645,14 @@ Leid (n); نِکبَت، دَرد، رَنج
 - jem. kein Leid zufügen; به کِسی صَدَمه ای نَزَدَن
 - Leid tragen; غُصه خوردَن
 leiden;
-- an .... leiden; به بیماری ِ .... مُبتَلا بودَن
+- an ... leiden; به بیماری ِ ... مُبتَلا بودَن
 - um der Gerechtigkeit willen leiden; دَر راه ِ عِدالَت جَفاء دیدَن
 - an einer Nervenkrankheit leiden; به اِختِلال ِ عَصَبی دُچار بودَن
 - jem. sehen, wie er leidet; کِسی را دَر دَرد و رَنج دیدَن
-- ich litt unter dem Eingeständnis, dass ...; رَنج ِ مَن دَر اِعتِراف به اینکه ... هَستَم، زیاد بود
+- ich litt unter dem Eingeständnis, dass ...; رَنج ِ مَن دَر اِعتِراف به اینکه ... هَستَم زیاد بود
 - Hunger erleiden; گُرُسنِگی کِشیدَن
 leidend; دَردکِش، دِق دار کِش، دَردزَده
-- leidend sein an ....; مُبتَلا به چیزی بودَن، ـ شُدَن
+- leidend sein an ...; مُبتَلا به چیزی بودَن، ـ شُدَن
 - ein leidender Mensch; اِنسان ِ رَنج دیده
 leidensbereit; آمادهٔ جَفاء، جَفاء پَذیر
 Leidenschaft;
@@ -664,30 +665,30 @@ Leidenschaft;
 leidenschaftlich;
 - leidenschaftlicher Mensch (*: begeistert); آدَم ِ شوریده دِل، آدَم ِ مَسحور
 Leidensmiene;
-- mit Leidensmiene sagte er; او بَرزَخ گُفت
+- mit Leidensmiene sagte er; او بَرزَخ گُفت، با لَحنهٔ آسیب دیده گُفت
 leider;
 - es ist leider so; دَریغ است که، مُتأِسِفانه اینطوری است
 leidgeprüft; مَنکوب، نِکبَت زَده
 leidig;
-- eine leidige Geschichte; واقعهٔ مولِمه
+- eine leidige Geschichte; واقِعِهٔ مولِمه
 leidtragend;
-- wenn .... dann sind die Menschen die Leidtragenden; وَقتیکه .... این وَسَط چوبَش را مَردُم میخورَند
+- die Menschen sind die Leidtragenden; مَردُم چوبَش را میخورَند
 Leier;
 - immer die gleiche Leier; هَمان ساز ِ قَدیمی را زَدَن
-Leierkasten; اُرگ نَوازها
+Leierkasten (Drehorgel); اُرگ ِ دَندانه ای
 leiern;
 - etwas herunterleiern; چیزی را کِشیده گُفتَن
 Leihe; عاریه، وام
 - Fernleihe; عاریهٔ کِتاب از کِتابخانهٔ خارِجی
-leihen (*: ausleihen); وام دادَن، قَرض د
-- s. bei jemandem leihen; وام گرَفتَن، قَرض گ.، عاریه کَردَن
+leihen (*: ausleihen); .وام دادَن، قَرض د.، اَمانَت د
+- s. bei jemandem leihen; وام گرَفتَن، قَرض گ.، عاریه کَردَن، اَمانَت گِرِفتَن
 Leihgebühr; حَق اُلعَمَل ِ بُنگاه ِ رَهنی
 Leihwagen; ماشین ِ کِرایه ای
-leihweise; اَمانَتی
+leihweise; اَمانَتی، اَمانی
 - leihweise sein; اَمانَتی بودَن
 Leim; چَسب، سِریشُم، سِریش
 Leine; بَند، ریسمان
-- Leine ziehen; کَعب ِ پارا نشان دادَن، دَر رَفتَن
+- Leine ziehen; کَعب ِ پارا نِشان دادَن، دَر رَفتَن
 - Wäscheleine; بَند ِ رَخت
 Leinen; بَز، کَتان
 Leinöl; روغَن ِ تُخم ِ کَتان، ـ بَرزَک
@@ -703,7 +704,7 @@ Leiste; شِمشه
 leisten;
 - das kann ich mir leisten; تَوانائی ِ... را دارَم
 - jem. Folge leisten; پَذیرُفتَن ِ فَرمان ِ فِلان را
-- Hilfe leisten; به اِمداد ِ کِسی رِساندن، کُمَک کَردَن
+- Hilfe leisten; به اِمداد ِ کِسی رِساندَن، کُمَک کَردَن
 - kannst du mir Gesellschaft leisten? (popul.); بیا بِشین
 - was der s. wieder leistet; دو قورَش و نیمَش هَم باقی است
 - der leistet s. ein Auto; او که هَم ماشین دارَد
@@ -724,7 +725,7 @@ leiten; رَهنِمون کَردَن، راهنَمائی کَردَن، هِد
 - leitendes Organ; نِهاد ِ مُدیريَت
 Leiter;
 - Leiter, Führer; هادی، رَهبَر، راهنَما، مُدیر
-Leiterin; خانُم مُدیر
+- Leiterin; خانُم ِ مُدیر
 - Leiter, Treppe; نَردِبان
 - s. als Leiter eignen; ساخت ِ يِک رَهبررا داشتَن
 - er ist Leiter der Bibliothek; او مُتَصِدی ِ کِتابخانه است، او مُدیر ِ ـ
@@ -738,32 +739,32 @@ Leitung; راهبُرد
 - unter der Leitung von; با رَهنِمود ِ فِلان، با مُدیريَت ِ ـ
 - er hat die Leitung der Schule; او ریاسَت ِ مَدرِسه را عُهده دار است
 - Leitung der laufenden Geschäfte; راندَن ِ اُمور ِ جاری
-- Lange Leitung; دو زاری اَش نِمیاُفتَد
+- Lange Leitung; دو زاری اَش نِمیاُفتَد، - دیر می اُفتَد
 - Wasserleitung; لوله آب
 Leitungswasser; آب ِ شیر
 Leitwesen;
 - Verkehrsleitwesen; راهنَمائی ِ رانَندِگی
 Leitwort; شُعار
-Lektion (pl.); دَرس (دُروس
+Lektion (pl.); (دَرس (دُروس
 - das ist uns eine Lektion; این بَرای ِ ما دَرس ِ عِبرَت است، از آن عِبرَت گِرِفتیم
 - jem. seine Lektion lehren; کِسی را دَرس دادَن
 - er hat seine Lektion gelernt; او دَرسِش را رَوان کَرد
 Lektor; ویراستار، ویرايِشگَر
 Lektorat; ویرايِشگَری
 Lektüre; خواندَن، قَرائَت
-Lendenbereich; گرده، ناحیهٔ پشت کمر، کَشاله ران
-lenken; راندَن، رانَندِگی کَردَن، هِدايَت ک
-- jemandes Aufmerksamkeit lenken auf; تَوَجُه ِ کِسی را مَعطوف داشتَن به
+Lendenbereich; گَرده، ناحیهٔ پُشت ِ کَمَر، کَشاله ران
+lenken; .راندَن، رانَندِگی کَردَن، هِدايَت ک
+- jemandes Aufmerksamkeit lenken auf; تَوَجُه ِ کِسی را مَعطوف به ... کَردَن به
 - ferngelenkt; هِدايَت شَوَنده از دور
 - der Blick ist gelenkt auf ...; نِگارِش مَعطوف است بَر
-- gelenkte Marktwirtschaft; اِقتِصاد ِ اَرشادی ِ بازار
+- gelenkte Marktwirtschaft; اِقتِصاد ِ اِرشادی ِ بازار
 Lenkrad; فَرمان، رُل
 Lenkradschaltung; تَعویض ِ دَندهٔ چَرخ ِ فَرمان
 Lenkstange; رُل، فَرمان، غَربیل ِ فَرمان
 - Lenkstange (bei Fahrrad); فَرمان ِ دو چَرخه، دَستهٔ ـ
 Lenkung (von Gesprächen); اِرشاد، مُدیريَت، راهنَمائی، رَهبَری
 Lenkungsfunktion; وَظیفهٔ هِدايَت
-Leopard; یوز پِلِنگ
+Leopard; پِلِنگ
 Lepra; پیس
 leprös; پیس دار
 Lerche; کاکُلی، چَکاوَک، قَزلاق، غَزلاق

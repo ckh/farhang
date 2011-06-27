@@ -1041,6 +1041,7 @@ Gepäckaufbewahrung; صَندوق ِ جامِدان، نِگَهدارى ِ با
 Gepäckträger; باربَر
 - Gepäckträger (auf dem Auto); باربَند
 - Fahrradgepäckträger; تَرک بَند
+Gepard; یوز پِلِنگ
 gepflegt;
 - gepflegtes Restaurant; رِستوران ِ تَر و تَمیز
 Gepflogenheit; رَسم و عادَت، عادات و رُسوم

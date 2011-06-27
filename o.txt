@@ -383,6 +383,7 @@ Organtransplantation; پِيوَند ِ عُضو ِ بَدَنى
 Organza; اُرگاندی
 Orgasmus; اُرگاسم
 Orgel; اُرگ
+- Drehorgel; اُرگ ِ دَندانه ای
 Orgie; عَياشى، عِيش و نوش، عِشرَت
 - eine Orgie veranstalten; جَشن ِ خارِق ِ رُسوم گرفتن
 Orient; مَشرِق زمين، شَرق
