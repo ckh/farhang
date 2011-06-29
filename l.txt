@@ -768,19 +768,19 @@ Leopard; پِلِنگ
 Lepra; پیس
 leprös; پیس دار
 Lerche; کاکُلی، چَکاوَک، قَزلاق، غَزلاق
-lernen; دَرس خواندَن، یاد گرَفتَن، آموختَن
-- wenn er früh lernt, auf eigenen Beinen zu stehen, umso besser; اَگَر گِلیم ِ خودرا از آب بیرون می کِشَد که چه بِهتَر!
+lernen; دَرس خواندَن، یاد گِرِفتَن، آموختَن
+- wenn er früh lernt, auf eigenen Beinen zu stehen, umso besser; اَگَر گِلیم ِ خودرا از آب بیرون می کِشَد که چه بِهتَر
 - praxisorientiertes Lernen; آموزِش ضِمن ِ خِدمَت
 - mein Lernen; دَرس خواندَنَم
 lesbar; خوانا
 - lesbare Zahlen; اَعداد ِ خوانا
 Lesbarkeit; خَط خوانی
 Lesefibel; کِتاب ِ آموزِشی بَرای ِ مُبتَدیان
-lesen; قَرائت کَردَن، خواندَن
+lesen; قَرائَت کَردَن، خواندَن
 - er kann lesen; او سَواد دارَد
 - er kann nicht lesen; او بی سَواد است
 - Ähren lesen; خوشه چیدَن
-Leser; (pl.) خوانَنده (خوانَندِگان
+Leser; (pl.) (خوانَنده (خوانَندِگان
 Lesung; شِعر خوانی، قَرائَت
 - in erster Lesung; دَر شور ِ اَوَل
 Lethargie; سُبات، خواب و غِفلَت، اِغما
@@ -791,9 +791,9 @@ letzte; دیرین، آخَرین، آخَر
 - letzte Antwort; جَواب ِ خاتِم
 - das letzte Mal; واپَسین بار
 - eine letzte Ursache muss es doch geben; يِک عِلَت ِ غائی بايَد وُجود داشته باشَد
-- das war wirklich das letzte; این واقعِاً باطِل و کَشک بود
+- das war wirklich das letzte;  واقعِاً باطِل و کَشک بود
 - jeder letzte Donnerstag im Monat; هَر پَنجشَنبه آخَر ِ ماه
-- das letzte Wochenende im Mai; آخَر ِ آخَرین هَفته دَر مِه
+- das letzte Wochenende im Mai; آخَر ِ آخَرین هَفته دَر ماه ِ مِه
 - auf der letzten Reise; دَر واپَسین سَفَر
 - in den letzten Zügen liegend; مَذبوحانه
 - bis zum letzten Pfennig die Strafe bezahlen; تا ریال ِ آخَر جَریمه را بِپَردازَد
@@ -812,7 +812,7 @@ Leuchtreklame; تابلوهای ِ نِئون
 Leuchttafel;
 - Leuchttafel mit Schrift; نَوار با لامپهای ِ نُقطه چین، نَوار ِتَبلیقات
 Leuchtturm; فانوس ِ دَریائی
-leugnen; حاشا کَردَن، وادَنگ ک
+leugnen; .حاشا کَردَن، وادَنگ ک
 Leukozyten; گُلُبولهای ِ سِفید
 Leumund;
 - guter Leumund; خوشنام
@@ -820,10 +820,10 @@ Leumund;
 Leute; مَردُم، اَفراد
 - bei Leuten (zu Gast sein); دَر مِهمانی
 - einige Leute; تَنی ِ چَند
-- Leute mit Rang und Namen; سَرِشان به تَنِشان می ارزَد
+- Leute mit Rang und Namen; سَرِشان به تَنِشان می اَرزَد
 - kleine Leute (vom Rang); بَقال و چَقال
 - die Kinder kleiner Leute; بَچه های ِ بَقال چَقال
-Leutnant; (Ober-, Unter-) سِتوان ( ـ ِ اَوَل، ـ ِ دُوُم، ـ ِ سِوُم
+Leutnant; (Ober-, Unter-) (سِتوان ( ـ ِ اَوَل، ـ ِ دُوُم، ـ ِ سِوُم
 Leutseligkeit; به رَوِش ِ مَماشات، دوست رَوی
 Levkoje; شَب بو
 Lexikon; فَرهَنگ، قاموس، لُغَت نامه
@@ -831,7 +831,7 @@ Libelle; سَنجاقَک
 liberal; آزادیخواه
 Liberalismus; لیبِرالیزم
 Licht; چِراغ، نور، روشَنائی
-- ans Licht kommen; به ظُهور رِسیدَن، واضِح شُدَن، روشَن ش
+- ans Licht kommen; .به ظُهور رِسیدَن، واضِح شُدَن، روشَن ش
 - das Licht der Lampe geht aus; چِراغ خاموش میشَوَد
 - jetzt geht mir ein Licht auf; تازه فَهمیدَم
 - jem. hinters Licht führen; آب به زیر ِ کِسی می شَوَد، کِسی را فَریفتَن
@@ -851,11 +851,13 @@ Lid;
 - Augenlid (pl.); جَفن (اَجفان)، پِلک
 Lidschatten;
 - Lidschatten ziehen; به چِشمها سُرمه کِشیدَن
-liebäugeln; نَظَربازی کَردَن، کِرِشمه ک
+liebäugeln; .نَظَربازی کَردَن، کِرِشمه ک
 Liebchen; مَعشوق
-liebe;
+lieb;
+- er ist sehr lieb; او نازنین است
+- mein Lieber; جانَم
 - liebe Anwesende, ...; آقایان و خانُمهای ِ گِرامی
-- deine liebe Familie; خانِوادهٔ گِراميَت
+- deine liebe Familie; خانِوادهٔ گِراميَت، - عَزیزَت
 Liebe (f); مُحَبَت، حُب، عِشق
 - gegenseitige Liebe; مُعشِقه
 - die Liebe hat ihn gefangen; آتَش ِ عِشق دامَن ِ او گِرِفت
@@ -871,9 +873,7 @@ lieben; دوست داشتَن، مُحَبَت کَردَن
 Liebender; عاشِق
 - die Welt der Liebenden; آفاق ِ وِصال
 liebenswürdig; با مُحَبَت
-Liebenswürdiger (pl.); حَلیم (حَلیمان
-Lieber;
-- mein Lieber; جانَم
+- Liebenswürdiger (pl.); (حَلیم (حَلیمان
 Liebesaffaire; نَرد ِ عِشق باختَن، هیاهوی ِ عاشِقانه
 Liebesbrief; نامهٔ عاشِقانه
 Liebeslieder; تَصنیفهای ِ عاشِقانه
@@ -883,7 +883,7 @@ liebevoll; مُحَبَت آمیز، مُحِبانه
 - sanfte, liebevolle Mutter; مادَر ِ نازِنین
 - liebevoll untersuchen; با نازُکبینی وارِسی کَردَن
 Liebhaber; مَعشوق، مول
-liebkosen; کسی را ناز و نازِش کَردَن
+liebkosen; کسی را ناز و نَوازِش کَردَن
 - ich liebkoste sie; نَوازِشِش می دادَم
 Liebling; (fem.) مَحبوب (مَحبوبه)، عَزیز
 Lieblingsideen; اَفکار ِ دِلاویز، ـ مورِد ِ عَلاقه
@@ -898,7 +898,7 @@ Lied; سُرود، تَرانه، آواز
 - Schlaflied singen; لالایی خواندَن
 liederlich; بی بَند و بار
 Liederlichkeit; هَرزِگی
-Lieferant; خانه سالار، سورساتچی
+Lieferant; تَحویل کُنَنده، سورساتچی
 liefern; فِرِستادَن، آوَردَن
 Lieferung; تَحویل، اِرسال
 Lieferwagen; وانِت، کامیون ِ باری
@@ -906,7 +906,6 @@ Liege; نیمکَت ِ بالِش دار
 - Krankenliege; بَستَر ِ بیماری، بَرانکَر
 liegen; قَرار داشتَن
 - an uns soll es nicht liegen; ما کوتاه نِمی آئیم
-- etwas liegen lassen, unberücksichtigt lassen; وانَهادَن
 - die Anzahl der Arbeiter, die bei 100 Personen liegt; کارمَندان که بالِغ بَر ۱۰۰ نَفَر می شَوَد
 - die Stadt liegt 100 mtr. hoch; شَهر دَر اِرتِفاع ِ ۱۰۰ مِتر قَرار دارَد
 - die Stadt liegt im Norden; شَهر دَر شُمال واقِع است، ـ قََرار دارَد
@@ -914,13 +913,14 @@ liegen; قَرار داشتَن
 - diese Sache liegt mir nicht; از این موضوع بِدورَم
 - die Last liegt schwer auf mir; باری ِ گِران بَر مَن سَنگینی می کُنَد
 - mit dem Gesicht nach unten liegend; دَمَد
-liegenbleiben;
-- liegengebliebene Arbeit; کار ِعَقَب اُفتاده، ـ باقی مانده
-- was liegengeblieben ist, bleibt liegen; آنچه به جا مانده است به جا خواهَد ماند
-liegenlassen;
-- seine Kleider auf dem Boden liegenlassen; لِباس ِ خودرا روی ِ زَمین وِلو کَردَن
-- das Geld habe ich in .... liegenlassen; پول را دَر .... جا گُذاشتَم
-- es wurde liegengelassen; جامانده بود
+liegen bleiben;
+- liegen gebliebene Arbeit; کار ِعَقَب اُفتاده، ـ باقی مانده
+- was liegen geblieben ist, bleibt liegen; آنچه به جا مانده است به جا خواهَد ماند
+liegen lassen;
+- etwas liegen lassen, unberücksichtigt lassen; وانَهادَن
+- seine Kleider auf dem Boden liegen lassen; لِباس ِ خودرا روی ِ زَمین وِلو کَردَن
+- das Geld habe ich in .... liegen lassen; پول را دَر .... جا گُذاشتَم
+- es wurde liegen gelassen; جامانده بود
 Liegenschaft; مِلک ِ عَقاری، مِلک ِ غِیر ِ مَنقول
 Liegestuhl; صَندَلی ِ تا شو
 Lift; آسانسور
@@ -948,7 +948,7 @@ Linie; خَط
 - in erster Linie; دَر وَهلهٔ اَوَل
 - er kommt von der Linie X (familiär); او از صُلب ِ فِلان پَدید میايَد
 Linienrichter (beim Sport); داوَر
-linieren; سَطر بَندی کَردَن، خَط کِشی ک
+linieren; .سَطر بَندی کَردَن، خَط کِشی ک
 - liniertes Papier; کاغَذ ِ خَط دار
 link;
 - das ist ein linker Typ; او آدَم ِ عَوَضی است، ـ نادُرُست است
@@ -967,10 +967,11 @@ linsenförmig; عَدَسی
 Lippe; لَب
 - er riskiert eine dicke Lippe; خِشتمال، لاف زَن
 - an jem. Lippen hängen; چِشم به دَهَن ِ کِسی دوختَن، به دَهَن ِ کِسی نِگاه کَردَن
+- von den Lippen lesen; لَپخوانی کَردَن
 - er zieht die Oberlippe hoch; لَب ِ بالايَش را وَر می چینَد
 Lippenstift; ماتیک، روژلَب
 liquid;
-- er ist liquid; او پول ِ مايِع دارَد، ـ پول ِ نَقد د
+- er ist liquid; .او پول ِ مايِع دارَد، ـ پول ِ نَقد د
 Liquidation (finanz.); نَقدینِگی، نَقدینه، بَرچیدِگی
 liquidieren; کِسی را از مِیدان بِدَر کَردَن، ـ نابود کَردَن، ـ مُنحَل کَردَن، از دَست ِ کِسی خَلاص شُدَن
 Liquidierter; تَصفیه شُده، اِعدام شُده
@@ -993,7 +994,7 @@ Literat (pl.);  (اَدیب (اُدَباء
 Literatur; اَدَبیات
 - jem. Literatur unterrichten; (umg.) با کِسی اَدَبیات کار کَردَن
 Literaturkritik; سَنجِش ِ اَدَبیات، نَقادی ِ ـ، نَقد ِ اَدَبی
-Literaturwissenschaft;
+Literaturwissenschaft; عِلم ِ اَدَبیات
 - vergleichende Literaturwissenschaft; اَدَبیات ِ تَطبیقی
 Lithographie; چاپ ِ سَنگی
 Liturgie; مَراسِم ِ عِبادَت
