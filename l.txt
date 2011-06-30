@@ -173,6 +173,7 @@ Langeweile; خَسته کُنَندِگی، کِسالَت، يِکنَواخت�
 - Langeweile erzeugen; مَلالَت فَراهَم آوَردَن
 Langfinger; دَله دُزد
 langfristig; طَویل اُلمُدَت، دوراَندیش، بُلَند مُدَت
+- langfristige Anleihe; سَنَد ِ قَرضهٔ مُدَت دار
 - langfristige Planung; بَرنامه ریزی ِ بُلَند مُدَت، ـ دِراز مُدَت
 - langfristiger Kontakt; تَماس ِ مُستَمِر
 - langfristige, ständige Arbeit; کار ِ مُستَمِر
@@ -439,6 +440,7 @@ Leben (n); رَوان، حَیات، زِندِگی
 - Das Leben ist kein Spaziergang; دُنیا جای ِ آزمايِش است نَه جای ِ آسايِش
 - Ein bisschen was vom Leben haben; سَری دَر آخوری داشتَن، اَندَکی ِ سَر و سامان پِیدا کَردَن
 - Jeder macht aus seinem Leben, was er kann; از آب ِ خُرد ماهی ِ خُرد خیزَد
+
 - Auf und Ab des Lebens; فَراز و نِشیب ِ زِندِگی
 - sein Leben steht auf dem Spiel; زِندِگی ِ او به موئی بَسته است
 - sein Leben aufs Spiel setzen; بَر لَبهٔ تیغ زِندِگی کَردَن
@@ -1006,9 +1008,9 @@ livriert;
 Lizenz; اِمتیاز، جَواز
 Lizenzgebühr; حَق اُلزَحمه
 Lob; تَحسین
-- Lob zollen; اَحسَنتی گُفتَن، حَمد گ.، تَحسین گ
+- Lob zollen; .اَحسَنتی گُفتَن، حَمد گ.، تَحسین گ
 Lobby; تَحمیل گَری، لوبی
-loben; .کِسی را تَعریف کَردَن، ـ تَحسین ک، بَه بَه گُفتَن
+loben; کِسی را تَعریف کَردَن، ـ تَحسین ک، بَه بَه گُفتَن
 - s. selbst loben; مَنَم زَدَن، مَن مَنی کَردَن
 - loben (im Übermaß); بَه بَه و چَه چَه کَردَن
 - jem. lobend erwähnen; تَعَریف ِ کِسی را کَردَن
@@ -1021,9 +1023,10 @@ lobpreisen; حَمد و ثَناء گُفتَن
 Lobredner (auch iron.); ثَنا گو
 Loch; گودال، سوراخ
 - elendes Loch; سولدانی
-- Löcher in die Luft schlagen; به هَوا مُشت زَدَن، دَستها را دَر هَوا پیچ و خَم ز
+- Löcher in die Luft schlagen; به هَوا مُشت زَدَن، دَستها را دَر هَوا پیچ و خَم زَدَن
 Locher; سوراخ کُن
 löchrig; سوراخ دار
+Lockartikel; کالاهايی که باقِيمَت ِپائين (باضرر) بِفُروش می رِسَد، کالايی که به مَنظور ِ جَلب ِ تِوَجُه ِ مُشتَری زير ِ قِيمَت تَمام شُدبِفُروش می رِسَد
 Locke;
 - Haarlocke; فِر
 locken;
@@ -1038,8 +1041,9 @@ locker;
 - der Stecker sitzt locker; پِِریز شُل است
 - lockere Kleidung; لِباس ِ گَل و گُشاد
 - lockeres (moralisch) Bild; تَصویر ِ جِلف
+- er hat ein lockeres Mundwerk; دَهَنَش لَق است 
 Lockerung;
-- Lockerung der ....; - ِ شُل کَردَن ِ....، کاستَن
+- Lockerung der ...; - ِ شُل کَردَن ِ...، کاستَن
 - Lockerung der restriktiven Politik; شُل کَردَن ِ سیاسَت ِ تَضییقی
 - Lockerung der Muskeln durchführen (beim Sport); اُستُخوان نَرم کَردَن
 Lockvogel; جاسوس ِ تَحریک کُنَنده
@@ -1059,14 +1063,14 @@ logisch; مَعقول، با عَقل، مَنطِقی
 - das ist logisch; بَدیهی است، مَنطِقی است
 - mit logischer Kraft; به نیروی ِ عَقل
 Logo; نِشانه، آرم
-Lohn; دَستاوُرد، دَستمُزد، اُجرَت، حُقوق
+Lohn; دَستاوَرد، دَستمُزد، اُجرَت، حُقوق
 - Lohn der Mühe; دَسترَنج
 - der Lohn der Tat; حَق ِ کار را کَف ِ دَستَش گُذاشته است
-- Lohn der Ungerechtigkeit; ثًواب کَردَن کَباب شُدَن
+- Lohn der Ungerechtigkeit; ثَواب کَردَن کَباب شُدَن
+- das war mein Lohn für alle Mühe (iron.); ثَواب کَردَم کَباب شُدَم
 - bei jemandem in Brot & Lohn stehen; نان ِ کِسی را خوردَن، سَر ِ سُفرهٔ کِسی نان و نَمَک خوردَن
 - Der Arbeiter ist seines Lohnes wert; اَرزِش ِ يِک کارگَر بِاَندازهٔ اُجرَتَش است، کارگَر مُستَحَق ِ مُزد ِ خود است
 - jem. den Lohn vorenthalten; نان ِ کِسی را آجُر کَردَن
-- das war mein Lohn für alle Mühe (iron.); ثَواب کَردَم، کَباب شُدَم
 - Finderlohn; مُشتلُق
 - Reallohn; مُزد ِ واقِعی
 Lohnarbeiter; اَجیر
@@ -1081,7 +1085,7 @@ lokal; مَحَلی، موضِعی
 Lokal (n); رِستوران
 Lokalanästhesie; بیحِسی ِ موضِعی
 Lokalisation; تَعیین ِ مَحَل
-Lolly; نُقل، خُروس قَندی
+Lolly; نُقل، خُروس ِ قَندی
 - einen Lolly lutschen; خُروس ِ قَندی مَکیدَن
 Looping;
 - Looping fliegen (wāru); وارو کَردَن
@@ -1089,11 +1093,11 @@ Looser; آب از گََلوی ِکِسی پایین نِمی رَوَد، بی 
 Lorbeer; دِرَخت ِ غار
 Lorbeerblatt; بَرگ ِ بو
 los;
-- um zu wissen, was los ist ....; که سَر و گوشی آب بِدَهَد
+- um zu wissen, was los ist ...; که سَر و گوشی آب بِدَهَد
 - dass er weiss, was los ist; که بِدانَد چی به چیه
 - was ist mit dir los?; با تو چه شُده؟، تو چِته؟
 - was ist in der Stadt los?; دَر شَهر چه خَبَره؟
-- solange im Laden nichts los ist, muß er ...;  ... تا تَه ِ تَرازو به زَمین بِخورَد او بايَد
+- solange im Laden nichts los ist, muß er ...;   تا تَه ِ تَرازو به زَمین بِخورَد او بايَد
 - lass mich los!; وِلَم کُن
 - los gehts!; راه بيُفت!، بِرَویم
 Los (n); قُرِعه
@@ -1118,7 +1122,7 @@ lösen;
 - Problem lösen; مُشکِل را حَل و فَصل کَردَن
 - das löst das Problem nicht; قوز بالای ِ قوز کَردَن، مُشکِل را حَل نِمی کُنَد
 - das Problem löst s. auf; مَسأله مُنتَفی می شَوَد
-- fettlösend; مُحَلِل چَربیها
+- fettlösend; مُحَلِل ِ چَربیها
 losgehen;
 - auf jem. losgehen; تو دِل ِ کِسی رَفتَن، باروت پاشیدَن
 - ich ging auf ihn los; رَفتَم توی ِ دِلِش
@@ -1130,30 +1134,30 @@ loslegen;
 - mit etwas loslegen; چیزی را به راه اَنداختَن
 löslich; قابِل ِ اِنحِلال
 Löslichkeit; قابِليَت ِ اِنحِلال
-loslösen; مُفَرِق کَردَن، جُدا ک
-- s. loslösen; وَر آمدن
+loslösen; .مُفَرِق کَردَن، جُدا ک
+- s. loslösen; وَر آمَدَن
 - nicht loszulösen von; لايَنفَک
 - losgelöst von ...; مُنفَک شُده از
 - Loslösung eines Gebietes; تَجزیهٔ مَنطَقه ای
-losreissen;
-- s. losreissen von etwas; از چیزی دِل کَندَن
+losreißen;
+- s. losreißen von etwas; از چیزی دِل کَندَن
 lossagen; خود را رَها کَردَن
 - falls er s. nicht lossagt von ...; دَر صورَت ِ چِشم نَپوشیدَن از
 losschicken; راهسِپَر کَردَن، فِرِستادَن
 losstürzen; شِتافتَن
 - auf jem. losstürzen; به سوی ِ کِسی حَمله کَردَن، بَر سَر ِ کِسی ریختَن
 Lösung; نَتیجه، راه ِ حَل
-- echte Lösung; مَحلول ِ حَقیقی
 - das ist die Lösung; رازَش هَمین است، لِمِش ـ، حَلِش ـ
-- gesättigte Lösung (chem.); مَحلول ِ اِشباعی
 - sie mussten eine Lösung dafür finden; به حال ِ آن کَمَر می بَستَند
 - es ist besser, über eine Lösung nachzudenken; بِهتَر است فِکر ِ چاره باشیم
+- echte Lösung (chem.); مَحلول ِ حَقیقی
+- gesättigte Lösung (chem.); مَحلول ِ اِشباعی
 Lösungsmittel; مَواد ِ حَلال
 loswerden; فارِغ شُدَن، از دَست دادَن، باز کَردَن
 - Ware loswerden; کالا را آب کَردَن
 - jem. loswerden wollen; دَست به سَر ِ کِسی کَردَن، از دَست ِ کِسی راحَت شُدَن
 - damit wir ihn loswerden; که اورا از سَر ِ خودِمان باز کُنیم
-- das beste ist, wenn wir ihn loswerden; چاره این است که سَرَش را از سَرِمون واکنیم
+- das beste ist, wenn wir ihn loswerden; چاره این است که سَرَش را از سَرِمون واکُنیم
 Lot; شاقول
 - mit dem Lot ausrichten; با شاقول تَراز کَردَن
 Lötdraht; سیم ِ لَحیم کاری
@@ -1161,22 +1165,22 @@ löten; لَحیم کَردَن
 Lötung; لَحیم
 Lotse; هادی ِ کِشتی
 Lotterleben; سَر گَردانی
-- hör dein Lotterleben auf; کُلاه دَیوثی از سَرِت بَر دار
+- hör dein Lotterleben auf (dajjusi); کُلاه دَیوثی از سَرِت بَر دار
 Lotto; قُرعِه کِشی، بِش
 Lotus; کُنار
 Löwe; شیر
-- in die Arena des Löwen gehen; به صَحنهٔ نَبَرد ِ شیران رَفتَتن
+- in die Arena des Löwen gehen; به صَحنهٔ نَبَرد ِ شیران رَفتَن
 Löwenmaul; گُل ِ مِیمون
 Löwenzahn; قاصِدی، کاسنی ِ صَحرائی
 loyal; وَفادار، اِرادَت کیش، با وفا
-- Loyalität gegenüber ....; وَفاداری به، صِداقَت به
+- Loyalität gegenüber ...; وَفاداری به، صِداقَت به
 Luchs; سیاه گوش
 Lücke; سوراخ، شِکاف، رَخنه
 lückenhaft; سوراخ دار، ناقِص
 - lückenhafte Erzählung; حِکايَت ِ ناقِص
 Luft; باد، هَوا
 - aus der Luft gegriffen; بی پَر و پا
-- Luft schnappen, spazierengehen; هَوا خوردَن
+- Luft schnappen, spazierengehen; هَوا خوردَن، باد خوردَن
 - nach Luft schnappend; هِن هِن کُنان
 - ich setzte mich, um tief Luft zu holen; نِشَستَم تا نَفَسی چاق کُنَم
 - er hat s. in Luft aufgelöst; غِیبَش زَد،آب شُد و به زَمین فُرو رَفت، دود شُد و به آسمان رَفت
@@ -1185,7 +1189,6 @@ Luft; باد، هَوا
 - Dicke Luft; هَوا پَس است
 - als sie sahen, dass dicke Luft ist, ...; آنها که هَوا را پَس دیدَند
 - versteck dich, bis die Luft rein ist; آبها از آسیاب اُفتادَن، ... بَعد از اینکه همهٔ آبها ... آنوَقت دیدَم ...، قايِم شو تا آبها از آسیاب بیفُتَد
-- Frischluft schnappen;  .باد خوردَن، هَوا خ
 - Zimmerluft; دَمای ِ اُتاق
 Luftballon; باد ِ کُنَک
 Luftbrücke; پُل ِ هَوائی
@@ -1211,23 +1214,23 @@ Luftveränderung; تَغییر ِ هَوا
 - zwecks Luftveränderung ...; تا آب به آب شَوَد
 Luftwaffe; نیروی ِ هَوائی
 Lüge; کِذب، دُروغ
-- sein Tun straft diesem Anspruch Lügen; اَعمالَش این اِدِعا را تَکذیب میکُنَد
+- sein Tun straft diesem Anspruch Lügen; اَعمالَش این اِدِعا را تَکذیب می کُنَد
 - Notlüge; دُروغ ِ مَصلَحَت آمیز
 lugen; سَرَک کِشیدَن
 - kein Mensch lugt hervor; هیچ سَری سَرَک نمی کِشَد
 lügen; دُروغ گُفتَن
-- lügen, um seine religiöse überzeugung nicht zu verraten; تَقیه کَردَن
+- lügen, um seine religiöse Überzeugung nicht zu verraten; تَقیه کَردَن
 - lügen wie gedruckt; چاپ زَدَن، هَمهٔ حَرفَش کَشک است
 Lügenmärchen; اَباطیل
 Lügner; چاخان، دُروغگو، کاذِب، کَذاب
-Luke;
+Luke; روزَنه
 - Schiffsluke; روزَنهٔ کِشتی
 Lümmel; پُررو
 Lump; دَغاباز، دَغا
 Lumpen; کُهنه
 Lumpensammler; کُهنه بَر چین، آدَم ِ خِنزِر پِنزِر
 Lumperei; دَغَلی
-Lunge (beidseitige Lungenflügel); شُش، ريِه، (ريَتِین
+Lunge (beidseitige Lungenflügel); (شُش، ريِه، (ريَتِین
 Lungenentzündung; سام بَر، سینه پَهلو، تَوَرُم ِ ريَوی
 lungern;
 - herumlungern; پلِکیدَن، پَرسه زَدَن، وِلگَردی کَردَن
@@ -1239,9 +1242,9 @@ Lust;
 - ich hatte Lust, ...; هَوَس کَردَم
 - ihren Lüsten unterwerfen; لَگَد کوب ِ هَوَس های ِ خود ساختَن
 - ich habe keine Lust; حالَش را نَدارَم، اُفتاده بودَم، دِلَش را نَدارَم
-- jem. die Lust nehmen; کِسی را بی مِیل ساختن، ـ دِلسَرد کَردَن
+- jem. die Lust nehmen; کِسی را بی مِیل ساختَن، ـ دِلسَرد کَردَن
 - keine Lust haben, zu reden; نای ِ حَرف زَدَن را نَداشتَن، بَرای ِ حَرف زَدَن پايَش راه نِمی گیرَد
-- die Lust auf ... packt ihn; هَوَس ِ .... گَریبانَش را می گیرَد
+- die Lust auf ... packt ihn; هَوَس ِ ... گَریبانَش را می گیرَد
 - die Lust aufs Reisen überkommt ihn; هَوای ِ سَفَر به سَر ِ او می زَنَد، هَوَس ِ سَفَر می کُنَد
 - er hat Lust auf ein Bier; هَوَس ِ يِک آبِجو کَرد
 lüstern; شَهوانی، شَهوَتی
@@ -1254,7 +1257,7 @@ lustig; نَشیط، شوخ، شوخ و شَنگ، بَشاش
 - lebenslustig sein; اَهل ِ حال بودَن
 lustlos;
 - er ist lustlos; او بی دَماغ است
-- lustlos sagte er, ....; بی هَوا گفت
+- lustlos sagte er, ...; بی هَوا گفت
 lutschen; مَکیدَن
 - wir lutschen Eis; بَستَنی می مَکیم
 luxuriös; مُجَلَل، تَجَمُلی
@@ -1263,6 +1266,7 @@ Luxus; لوکس، تَجَمُل
 Luzerne; یونجه
 Lymphdrüse; غُدهٔ لَنفی
 Lymphknoten; گِرهٔ سِپید ِ رَگ، ـ لَنفاوی
-Lynchjustiz; دادرِسی ِ مُثله کُنی، بِدون ِ مُحاکِمه کُشتَن
+lynchen; اِعدام کَردَن بِدون ِ مِحاکِمه
+Lynchjustiz; دادرِسی ِ مُثلِه کُنی، بِدون ِ مُحاکِمه کُشتَن
 Lyrik; تَغَزُل
 lyrisch; غَزَلی
