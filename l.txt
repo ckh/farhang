@@ -425,6 +425,7 @@ leben; زِندِگی کَردَن
 - leben und leben lassen; زِندِگی کُن و بِگُذار که زِندِگی کُنَند
 - in den Tag hineinleben; لِک و لِک کَردَن
 - Man lebt nur einmal; آدَم دو بار به این دُنیا نِمی آيَد، بايَد از لِذات ِ حَیات هَرچه بیشتَر تَمَتُع بُرد
+- und wenn sie nicht gestorben sind, dann leben sie noch heute; قِصهٔ ما بِسَر رِسيد کَلاغه به خانه اش نَرِسيد
 Leben (n); رَوان، حَیات، زِندِگی
 - das Leben lassen; به مَرگ رِسیدَن، جان دادَن
 - das Leben verlieren; جان باختَن
@@ -440,7 +441,6 @@ Leben (n); رَوان، حَیات، زِندِگی
 - Das Leben ist kein Spaziergang; دُنیا جای ِ آزمايِش است نَه جای ِ آسايِش
 - Ein bisschen was vom Leben haben; سَری دَر آخوری داشتَن، اَندَکی ِ سَر و سامان پِیدا کَردَن
 - Jeder macht aus seinem Leben, was er kann; از آب ِ خُرد ماهی ِ خُرد خیزَد
-
 - Auf und Ab des Lebens; فَراز و نِشیب ِ زِندِگی
 - sein Leben steht auf dem Spiel; زِندِگی ِ او به موئی بَسته است
 - sein Leben aufs Spiel setzen; بَر لَبهٔ تیغ زِندِگی کَردَن

@@ -1,30 +1,30 @@
 Mach; اَندازه بَراى ِ سُرعَت ِ صوت
-- das Flugzeug fliegt mit einer Geschwindigkeit von 2 Mach; هَواپيما با سُرعَت ِ دو بَرابَر ِ سُرعَت ِ صوت پَرواز مى کُنَد
+- das Flugzeug fliegt mit einer Geschwindigkeit von 2 Mach; هَواپیما با سُرعَت ِ دو بَرابَر ِ سُرعَت ِ صوت پَرواز مى کُنَد
 machen; کَردَن، اَنجام دادَن
 - was willst du denn machen?; چه کارى از دَستَت بَر مى آيَد؟
 - da kann man nichts machen; کارى نِمى شَوَد کَرد
-- was soll man machen?; چه ميتَوان کَرد؟
-- alles, was gemacht werden mußte, hat sie gemacht; تَمام ِ بُگذار و وَردارهارا او اَنجام مي داد
-- was machen wir mit ihm?; چه کارِش کُنيم؟
-- sie machen das so, weil ...; اينها را جور کَردَند بَراى ِ
+- was soll man machen?; چه میتَوان کَرد؟
+- alles, was gemacht werden mußte, hat sie gemacht; تَمام ِ بُگذار و وَردارهارا او اَنجام می داد
+- was machen wir mit ihm?; چه کارِش کُنیم؟
+- sie machen das so, weil ...; ِ اینها را جور کَردَند بَراى
 - das habe ich alles gemacht; هَمه را از خودَم جور کَرده بودَم
-- das macht nichts; عِيب نَدارَد
-- selbst ... können nichts machen; حَتى ... کارى از پيش نَخواهَند بُرد
-- und machte s. auf den Weg ins Hotel; و راهى ِ هُتِل شد
-- mit jem. Literatur machen; با کِسي اَدَبيات کار کَردَن
+- das macht nichts; عِیب نَدارَد
+- selbst sie können nichts machen; حَتى آنها کارى از پیش نَخواهَند بُرد
+- und machte s. auf den Weg ins Hotel; و راهى ِ هُتِل شُد
+- mit jem. Literatur machen; با کِسی اَدَبیات کار کَردَن
 - 2 verschiedene Sachen auf einmal machen; با يِک دَست دو هِندِوانه بَرداشتَن
 - ich machte eine grosse Entdeckung; به کَشف ِ بُزُرگى نائِل آمَدَم
 - mach, was richtig ist; آنچه راست است بِجا آوَر
 - mach vorwärts!; زود باش!، عَجَله کُن
-- Vorschlag wurde von .. gemacht; پيشنَهاد از .. اِرائه گَرديد
+- Vorschlag wurde von .. gemacht; پیشنَهاد از .. اِرائه گَردید
 - was ich gemacht habe, macht er kaputt; کَرده هايَم را پاره مى کُنَد
 - was hast du wieder gemacht!; چه کارها که از تو سَر نِمى زَنَد
 Machenschaften; مَفسَده، دَسايِس، دوز و کَلَک
 - Machenschaften vereiteln; توطئه هارا با شِکَست مُواجه کَردَن، جِلوى ِ توطئه هارا گِرِفتَن
 Macht;
-- Macht, Autorität; قُدرَت، اِقتِدار، نيرو
+- Macht, Autorität; قُدرَت، اِقتِدار، نیرو
 - Macht, Reichtum; مِکنَت
-- Leute, die Macht haben; آنانى که بَر سَرير ِ قُدرَت هَستَند، آنها صَد کَله را کُلاه و صَد کوررا عَصا هستند، آدَمهاى ِ کَلان
+- Leute, die Macht haben; آنانى که بَر سَریر ِ قُدرَت هَستَند، آنها صَد کَله را کُلاه و صَد کوررا عَصا هَستَند، آدَمهاى ِ کَلان
 - sie versuchten mit aller Macht; آنها هَرچه از دَستِشان بَر مى آيَد تَلاش کَردَند
 - unbeschränkte Macht; مُطلَق اُلعِنانى
 Machtbesessenheit; سوداى ِ قُدرَت
@@ -32,65 +32,66 @@ Machtfaktor; عامِل ِ قُدرَت
 Machtfülle; حَشمَت
 Machtgefüge; ساختار ِ قُدرَت
 Machthaber; قُدرَتمَند، حُکمران
-mächtig; زورآوَر، کَلان، قَدير، قَوى، قُدرَتمَند
+mächtig; زورآوَر، کَلان، قَدیر، قَوى، قُدرَتمَند
 - mächtige Arme; بازوى ِ سُتُرگ
-- mächtige Gestalt; هِيکَل ِ يُغور
-- einer Sache mächtig sein; دَر يِک چيز مُسَلَط بودَن
-machtlos; عاجِز، ضَعيف، ناتَوان، سُست، دَست ِ کوتاه
+- mächtige Gestalt; هِیکَل ِ يُغور
+- einer Sache mächtig sein; دَر يِک چیز مُسَلَط بودَن
+machtlos; عاجِز، ضَعیف، ناتَوان، سُست، دَست ِ کوتاه
 Machtverlust; زَوال ِ قُدرَت
 Mädchen; دُختَر
 - leichtes Mädchen; پالانَش کَج است
 - ihr Mädchenname ist ...; نام ِ خانِولدِگى ِ زَن
 Made; کِرم
 - Made in Germany; ساخت ِ آلمان، صَنعَت ِ ـ
-madig; کِرمي
+madig; کِرمی
 - jem. Arbeit madig machen; کارَش را سِکه يِک پول کَردَن
 Magazin;
 - Magazin, Lager; مَخزَن، اَنبار
 - Magazin (z.B. bei Pistole); شانه
 - Magazin, Zeitschrift; مَجَله
-Magd; کُلفَت، کِنيزه
+Magd; کُلفَت، کِنیزه
 Magen; مِعده
-- mir zog s. der Magen (hor Hunger) zusammen; دِلَم (از گُرُسنِگي) مالِش رَفت
-- wenn du das siehst, dreht s. dir den Magen um; اين مَحَل تو ذوقَت مى زَنَد
-Magenknurren; قارت و قورت ِ شِکَم، ـ مِعده، مِعده غار و غور ميکُنَد
-Magenkrämpfe; دِلپيچه
+- mir zog s. der Magen (vor Hunger) zusammen; دِلَم (از گُرُسنِگی) مالِش رَفت
+- wenn du das siehst, dreht s. dir den Magen um; این مَحَل تو ذوقَت مى زَنَد
+Magenknurren; قارت و قورت ِ شِکَم، ـ مِعده، مِعده غار و غور میکُنَد
+Magenkrämpfe; دِلپیچه
 Magenschleimhaut; مُخاط ِ مُعده
 mager; لاغَر
 - mageres Fleisch (ohne Fett & Knochen); گوشت ِ لُخم، ـ لاغَر، ـ بى چَرب و اُستُخوان
-Magermilch; شير ِ چَربى گِرِفته
+Magermilch; شیر ِ چَربى گِرِفته
 Magie; سِحر، ساحِرى
 - Magie & Zauberei; سِحر و جادو
 Magier; ساحِر
-Magister; فوق ِ ليسانس
+Magister; فوق ِ لیسانس
 Magistrat; شوراى ِ شَهر، شَهر دارى
-Magma; خَمير ِ مَواد ِ مَعدَنى، دُرده
-Magnesium; مَغنِزيا، مَنيزيُم
+Magma; خَمیر ِ مَواد ِ مَعدَنى، دُرده
+Magnesium; مَغنِزیا، مَنیزيُم
 Magnet; آهَن رُبا
-Magnetantrieb; مُحَرِکة مَغناطيسى
-magnetisch; مَغناطيسى
-magnetisieren; مَغناطيسى کَردَن
-Magnetismus; کِيفيَت ِ آهَن رُبائى، مَغناطيس
-Magnetnadel; عَقرَبة آهَن رُبا
+Magnetantrieb; مُحَرِکهٔ مَغناطیسى
+magnetisch; مَغناطیسى
+magnetisieren; مَغناطیسى کَردَن
+Magnetismus; کِیفيَت ِ آهَن رُبائى، مَغناطیس
+Magnetnadel; عَقرَبهٔ آهَن رُبا
 Mahagoni; ماهون
-mähen; دِرو کَردَن، چَمَن زَدَن
-Mäher; دِرَوَنده
-- Rasenmäher; ماشين ِ چَمَن زَنى
+Mähdrescher; ماشین ِ دِرو ِ جو
+mähen; چَمَن زَدَن
+Mäher:
+- Rasenmäher; ماشین ِ چَمَن زَنى
 Mahl; غَذا، خوراک
-mahlen; مَطحون کَردَن، آسياب ک
+mahlen; .مَطحون کَردَن، آسیاب ک
 Mahlzeit; غَذا، وَقت ِ غَذا
 - Mahlzeit!; نوش ِ جان
 - 1 Mahlzeit pro Tag; يِک وَعده غَذا دَر روز
 Mähne;
-- Pferdemähne; يال
-- langmähniges Pferd; اَسب ِ بُلَنديال
-mahnen; اِختار کَردَن، اِخطار ک
-- mahnend; عِبرَت نَما، ـ انگيز
-- mahnende Worte; حَرفهاى ِ پَندآميز
-Mahnmal; يادبودگاه
-Mahnung; اِخطار، اِخطاريه
-Mahnverfahren; جَريان ِ اخطار، ـ ياد آورَى، ـ اِخطاريه
-Mähre; يابو
+- Pferdemähne; یال
+- langmähniges Pferd; اَسب ِ بُلَندیال
+mahnen; .اِختار کَردَن، اِخطار ک
+- mahnend; عِبرَت نَما، ـ انگیز
+- mahnende Worte; حَرفهاى ِ پَندآمیز
+Mahnmal; یادبودگاه
+Mahnung; اِخطار، اِخطاریه
+Mahnverfahren; جَریان ِ اخطار، ـ یاد آورَى، ـ اِخطاریه
+Mähre; یابو
 Mai; ماه ِ مِه
 - 1. Mai; روز ِ جَهانى ِ کارگَر
 Maiglöckchen; گُل ِ بَرف
@@ -99,24 +100,24 @@ Mais; ذُرَت
 - gerösteter Maiskolben; بَلال، ذُرَت ِ بِرِشته شُده
 Majestät;
 - Majestät der Berge; شِگَرفى ِ کوه ها
-- Euer Majestät; اَعليحَضرَتا
+- Euer Majestät; اَعلیحَضرَتا
 - Majestät Gottes; حَضرَت ِ اَعلى
-- göttliche Majestät; کِبريائى
+- göttliche Majestät; کِبریائى
 majestätisch; شِگَرف، شوکَت مآب، با شُکوه
-Majonaise; مايونِز
-Majoran; آويشَن، مَرزَن جوش
+Majonaise; مایونِز
+Majoran; آویشَن، مَرزَن جوش
 Majorität; اَکثَريَت
-Majoritätsbeschluss; تَصويبنامة اَکثَريَت
+Majoritätsbeschluss; تَصویبنامهٔ اَکثَريَت
 makaber; هولناک، تَرس آوَر
-Makel; عِيب، نَقص
+Makel; عِیب، نَقص
 - er ist ohne Makel; اَخلاق ِ او بى شائِبه است، ـ بى نَقص است
 makellos; طاهِر، مُنَزَه
-- in makellosem Zustand; دَر حال ِ بى عِيبى، ـ بى شاِئبه، خالى از عِيب
-mäkeln; نِق نِق زدن؛ نِق ز.؛ ايراد گِرِفتَن�
-- mäkeliger Kunde (*: Nörgler); مُشتَرى ِ ايرادى�
+- in makellosem Zustand; دَر حال ِ بى عِیبى، ـ بى شاِئبه، خالى از عِیب
+mäkeln; نِق نِق زدن؛ نِق ز.؛ ایراد گِرِفتَن
+- mäkeliger Kunde (*: Nörgler); مُشتَرى ِ ایرادى
 Makler; دَلال
 Maklerbüro; بُنگاه ِ اِجاره و مُعامِلات ِ مِلکى
-Maklergebühr (bei Immobilie); سَر قُفلي
+Maklergebühr (bei Immobilie); سَر قُفلی
 Makrele; ماهى ِ اُسقومرى
 Makroökonomie; اِقتِصاد ِ کَلان
 mal;
@@ -124,63 +125,63 @@ mal;
 - nach dreimal Klopfen; بَعد از سه بار دَر زَدَن
 - zwei mal zwei ist vier; دو ضَرب دَر دو مى شَوَد چَهار، ـ مُساوى است با چَهار
 Mal (n); (pl.) مَرتَبه (مَراتِب)، بار، کَره (کَرات)، دَفِعه
-- mit einem Mal; به يکباره
-- zum ersten Mal; دَفعة اَوَل
-- mehrere Male; دَفِعات ِ بيشتَر
-- einige Male; چَندين مَرتَبه، ـ بار
-- bis zum nächsten Mal; تا بَعد، تا دَفعة ديگَر، به اُميد ِ ديدار 
-- ein weiteres Mal; ديگَر باره
-Malaria; مالاريا
+- mit einem Mal; به یکباره
+- zum ersten Mal; دَفعهٔ اَوَل
+- mehrere Male; دَفِعات ِ بیشتَر
+- einige Male; چَندین مَرتَبه، ـ بار
+- bis zum nächsten Mal; تا بَعد، تا دَفعهٔ دیگَر، به اُمید ِ دیدار 
+- ein weiteres Mal; دیگَر باره
+Malaria; مالاریا
 malen; رَنگ زَدَن
 - malen (Gemälde); نَقاشى کَردَن
 Maler; نَقاش
 malerisch;
-- eine malerische Gegend; مَنطَقة جَذاب، ـ جالِب، ـ قَشَنگ
+- eine malerische Gegend; مَنطَقهٔ جَذاب، ـ جالِب، ـ قَشَنگ
 Maloche; بى گارى، مَشَقَت
-Malve; پَنيرَک
+Malve; پَنیرَک
 Malz; سَمَنوجو، مالت
-mampfen; لَمبونيدَن، لُپ لُپ خوردَن
+mampfen; لَمبونیدَن، لُپ لُپ خوردَن
 man; آدَم، مَردُم
 - man sagt, dass ...; مَردُم مى گويَند که
-- wie sagt man auf deutsch?; آلمانى چه مى شَوَد گفت؟
-- von da aus kann man nach X fahren; از آنجا ميشَوَد به فِلان جا رَفت
+- wie sagt man auf deutsch?; آلمانى چه مى شَوَد گُفت؟
+- von da aus kann man nach X fahren; از آنجا میشَوَد به فِلان جا رَفت
 - sie wollten, dass man ihn tötet; آنها مى خواستَند که اورا بِکُشَند
-Management; مُديريَت
-- schlechtes Management; سوءِ مُديريَت
-Manager; مُدير
-manche; بَعضى ها، بَرخيها
-manchmal; اِحياناً، بَعضى ِ اوقات، گاهگاهى، گاهى اوقات
+Management; مُدیريَت
+- schlechtes Management; سوء ِ مُدیريَت
+Manager; مُدیر
+manche; بَعضى ها، بَرخیها
+manchmal; اِحیاناً، بَعضى ِ اوقات، گاهگاهى، گاهى اوقات
 Mandant; مُوَکِل
 Mandarine; نارَنگى
 Mandat;
-- Parlamentsmandat; کُرسى  ِمَجلِس
 - sein Mandat niederlegen; از وِکالَت ِ مَجلِس اِستِعفا دادَن
-Mandatsgebiet; سَرزَمين ِ تَحت ِ قِيموميَت
+- Parlamentsmandat; کُرسى  ِمَجلِس
+Mandatsgebiet; سَرزَمین ِ تَحت ِ قِیموميَت
 Mandel;
-- Mandel (Nahrungsmittel); بادام
 - Mandel (med.); لوزه، لوزَتيِن
+- Mandel (Nahrungsmittel); بادام
 - gebrannte Mandel; بادام ِ سوخته
 mandelförmig; لوزى
 Mandelplantage; بادام زار
 Mandoline (dreisaitige-);  سِتار
 Manege;
 - Pferdemanege; اَسبدَوانى
-- Zirkusmanege; مِيدان ِ سيرک
+- Zirkusmanege; مِیدان ِ سیرک
 Mangel; فُقدان، کَمبود، نَقص
-- Mangel haben an ...; از چيزى کوتاهى داشتَن، ـ کَم د.، ـ نَقصيه د.، ـ داراى ِ نَقص بودَن
-- aus Mangel an ..; به دَليل ِ کَمبود ِ
-- hatten sie solchen Mangel, dass .. ?; مَگر آدَم قَحطى بود که ..؟
-- Mangel schmerzhaft empfinden; آب ِ دَريا را اگر نََتَوان کِشيد، هَم بِقَدر ِ تِشنِگي بايَد چِشيد
+- Mangel haben an ...; از چیزى کوتاهى داشتَن، ـ کَم د.، ـ نَقصیه د.، ـ داراى ِ نَقص بودَن
+- aus Mangel an ...; ِ به دَلیل ِ کَمبود
+- hatten sie solchen Mangel, dass ... ?; مَگر آدَم قَحطى بود که ...؟
+- Mangel schmerzhaft empfinden; آب ِ دَریا را اگر نََتَوان کِشید هَم بِقَدر ِ تِشنِگی بايَد چِشید
 - Konzentrationsmangel; عَدَم ِ تَمَرکُز
 - Erinnerung weist Mangel auf; حافِظه دُچار ِ نَقصان مى شَوَد
 - wegen Mangel an Bewegung; از کوتاهى دَر رَفت و آمَدها
 - Mängel & Vorzüge; مَعايِب و مُحاسِن
-mangelhaft; قِناس، کَج و مُوَج، ناقِص، مَعيوب
+mangelhaft; قِناس، کَج و مُوَج، ناقِص، مَعیوب
 - mangelhafte Antwort geben; جَواب ِ سَر بالا دادَن
-- mangelhafte Nahrung; خوراک ِ سَخيف
+- mangelhafte Nahrung; خوراک ِ سَخیف
 mangeln; کَم داشتَن
-- mir mangelt es an nichts; چيزى کَم نَدارَم
-- es mangelt überall; دَر هَمه جا نَقصى وُجود دارد، ـ فاقِد ِ هَمه چيز است
+- mir mangelt es an nichts; چیزى کَم نَدارَم
+- es mangelt überall; دَر هَمه جا نَقصى وُجود دارَد، ـ فاقِد ِ هَمه چیز است
 - Möge es Ihnen nie an Kunden mangeln!; آب ِ شُما از آب نَيُفتَد
 - Wäsche mangeln; لِباس اُتو زَدَن
 mangels;
@@ -190,78 +191,79 @@ Manier; نَحو
 - in bester Manier; به نَحو ِ اَحسَن
 Manieren; طَرز ِ رَفتار، عادَت
 - die Feinheiten der Manieren; ظَرافَت ِ حَرَکات و سَکَنات
-Manifest; بَيان نامه
+Manifest; بَیان نامه
 Manifestation; بُروز، تَجَسُم
 Maniküre; بِهداشت و آرايِش ِ دَست و ناخُن
-Manipulation; تَقَلُب، تأثير گُذارى
-- Manipulation, Eingriff (z.B. um etwas besser zu machen); دَست کاري، تَغيير
-manipulieren; کِسى را تَحت ِ تأثير گُذاشتَن
+Manipulation; تَقَلُب، تأثیر گُذارى
+- Manipulation, Eingriff (z.B. um etwas besser zu machen); دَست کاری، تَغییر
+manipulieren (jem. -); کِسى را تَحت ِ تأثیر گُذاشتَن
 - manipuliertes Dokument; مَدرَک ِ قَلَم خورده
 - Wahlen manipulieren; اِنتِخابات را تَقَلُب کَردَن
-manisch; تَحت ِ فِشار ِ روحاني
+manisch; تَحت ِ فِشار ِ روحانی
 Manko; فُقدان
-- der Glaube weist gegenüber der Wissenschaft kein Manko auf; ايمان دَست ِ کَمى از عِلم نَدارَد بَلکه
+- der Glaube weist gegenüber der Wissenschaft kein Manko auf; ایمان دَست ِ کَمى از عِلم نَدارَد
 Mann; مَرد
 - für einen Mann, männlich; مَردانه
-- weibischer Mann; آقای با غِين، مَرد ِ زَن صِفَت
+- weibischer Mann; آقای با غِین، مَرد ِ زَن صِفَت
 - er steht seinen Mann; او آدَم ِ حِسابى است
 - sei ein Mann; شُجاع باش!، خَردِل نَباش
 - Mann, oh Mann!; اى بابا، به دَرَک، اِی دِل ِ غافِل
-- aus einem Säugling einen Mann machen; کِسى را از زَمان ِ شيرخوار به شيردِل پَروَرانيدَن
-- "Schwarzer Mann"; ديگ به سَر
-Mannequin; مانِکين
+- aus einem Säugling einen Mann machen; کِسى را از زَمان ِ شیرخوار به شیردِل پَروَرانیدَن
+- "Schwarzer Mann"; دیگ به سَر
+Mannequin; مانِکین
 Männerschuhe; کَفشهاى ِ مَردانه
-Männerteil (des Hauses); (im Gegensatz: Frauenteil: بيروني (اَندَروني
+Männerteil (des Hauses); (im Gegensatz: Frauenteil: بیرونی (اَندَرونی
 Männerwirtschaft; آقابالاسَرى
 mannigfaltig; مُتَنَوِع
 Männlein; آدَمَک
-männlich; مُذَکِر، نَرينه، مَردانه
+männlich; مُذَکِر، نَرینه، مَردانه
 Männlichkeit; مَردانِگی
 - er strahlt Männlichkeit aus; او صَفاى ِ مَردانه دارَد
-Mannschaft; تيم، دَسته
-Mannschaftskapitän; سَر دَسته، کاپيتان ِ تيم
+Mannschaft; تیم، دَسته
+Mannschaftskapitän; سَر دَسته، کاپیتان ِ تیم
 Manometer; فِشار سَنج
 Manöver; مانوِر
-Manschettenknopf; دُگمة سَردَست
+Manschettenknopf; دُگمهٔ سَردَست
 Mantel; پالتو، رَدا
 - Mantel, überzug; روکِش، پوشِش
-- Mantel (von Reifen); لاستيک ِ رويه
+- Mantel (von Reifen); لاستیک ِ رویه
 - Regenmantel; بارانى
-- er hängt sein Mäntelchen nach dem Wind; او رَنگ داد  و رَنگ گِرِفت، او آدَم ِ باد است
+- er hängt sein Mäntelchen nach dem Wind; او رَنگ داد و رَنگ گِرِفت، او آدَم ِ باد است
 manuell; با دَست، دَستى
 - manuelle Geschicklichkeit; صَنَعت ِ بازو، مَهارَت ِ دَستى
-Manuskripte; مَخطوطات، دَستنِويسها
-Mappe; کيف
+Manuskripte; مَخطوطات، دَستنِویسها
+Mappe; کیف
 Märchen; اَفسانه، قِصه، مَتَل، سَروا
-märchenhaft; اَفساطيرى، قِصِه وار
+märchenhaft; اَفساطیرى، قِصِه وار
 Märchenonkel; قِصه خوان، قِصه سَرا
 Marder; دَله، دَلَق
 Margarine; روغَن ِ نَباتى
 Margerite; گُل ِ داودى
 Marienkäfer; کَفشدوزَک
-Marine; نيروى ِ دَريائى
+Marine; نیروى ِ دَریائى
 mariniert; نَمَک سود
 Marionette; لُعبَت، عَروسَک
 Marionettenregierung; دولَت ِ دَست نِشانده
 Mark;
-- Mark (Knochen-, Pflanzen-); مَغز (ـ اُستُخوان، ـ گياه
+- Mark (Knochen-, Pflanzen-); (مَغز (ـ اُستُخوان، ـ گیاه
 - D - Mark (alte Währung); مارک ِ آلمان
 - Tomatenmark; رُب ِ گوجه فَرَنگى
 Marke;
 - Marke (z.B. Rekordmarke); نِصاب
 - Briefmarke; تَمبر
 - Essensmarke; کوپُن ِ غَذا
-Marketenderei; پيش خانه
-markieren; عَلامَت گُذاشتَن، نِشانه ـ
-- jem. markieren als ...; اَنگ ِ چيز بودَن را به کِسى زَدَن
+- Firmenmarke, Logo; آرم
+Marketenderei; پیش خانه
+markieren; .عَلامَت گُذاشتَن، نِشانه گ
+- jem. markieren als ...; اَنگ ِ چیز بودَن را به کِسى زَدَن
 Markierung; عَلامَت گُذارى
 markig;
-- markiger Spruch; کلمه رَجَز خوان
+- markiger Spruch; کلمهٔ رَجَز خوان
 Markise; سايِبان
-Markt; مَکاريه، بازار
-- Obst- & Gemüsemarkt; مِيدان ِ ميوه و تَره بار
-- Schwarzmarkt; بورس ِ سياه، بازار ِ ـ
-Marktforschung; بَررِسى ِ نَظَر يابى
+Markt; مَکاریه، بازار
+- Obst- & Gemüsemarkt; مِیدان ِ میوه و تَره بار
+- Schwarzmarkt; بورس ِ سیاه، بازار ِ ـ
+Marktforschung; بَررِسى ِ نَظَر یابى
 Marktordnung; نِظام ِ بازار، مُقَرَرات ِ ـ
 Marktschreier; چاچول باز
 Marktstand; دَکه، بِساط
@@ -271,110 +273,110 @@ Marmelade; مُرَبا
 Marmor; مَرمَر
 marmoriert; مَرمَر نَما
 Marone; شاه بَلوط
-Mars; مِريخ
-Marsch; مارش، راه پِيمائى
-- während des Marsches; حين ِ اين راه پِيمائى
-- Friedensmarsch; راه پِيمائى ِ صُلح
+Mars; مِریخ
+Marsch; مارش، راه پِیمائى
+- während des Marsches; حین ِ این راه پِیمائى
+- Friedensmarsch; راه پِیمائى ِ صُلح
 marschieren; خَرَکَت کَردَن
 - im Stand marschieren; رِژه بَر جا
-- marsch!; به پيش!، قَدَم رو
-martern; کِس را جَفا کَردَن
-Märtyrer; (pl.)  (شَهيد (شُهَداء
-- als Märtyrer sterben; شَهيد شُدَن
-- schiitische Märtyrergeschichten (erzählen); روضه (خواندَن
+- marsch!; به پیش!، قَدَم رو
+martern; کِسی را جَفا کَردَن
+Märtyrer; (pl.)  (شَهید (شُهَداء
+- als Märtyrer sterben; شَهید شُدَن
+- schiitische Märtyrergeschichten (erzählen); (روضه (خواندَن
 Martyrium; شَهادَت
 März; مارسَ
-Marzipan; باقلَوا، شيرينى ِ بادامى
+Marzipan; باقلَوا، شیرینى ِ بادامى
 Masche;
 - Masche, Netz; شَبَکه، تار
-- Masche, Trick; تَرفَند، حيله
-- Maschen, die s. auflösen; دَرزها از هَم باز ميشَوَند
-Maschendraht; سيم ِ شَبَکه
-Maschine; ماشين
-- maschinelle Fertigung; توليد ِ ماشينى، ـ با ماشين
-Maschinenausfall; ماشين ريزِش
-Maschinenausfallzeit; زَمان ِ اُفت ِ ماشين
-Maschinengewehr; مُسَلسَل، تيربار
-Maschinenlaufzeit; زَمان ِ ماشين کارآئى
-Maschinenpistole; مُسَلسَل ِ دَستي
-- mit Maschinenpistolen beschiessen; چيزى را به مُسَلسَل بَستَن
-Maschinentaktierung; زَمانگيرى ِ ماشين
+- Masche, Trick; تَرفَند، حیله
+- Maschen, die s. auflösen; دَرزها از هَم باز میشَوَند
+Maschendraht; سیم ِ شَبَکه
+Maschine; ماشین
+- maschinelle Fertigung; تولید ِ ماشینى، ـ با ماشین
+Maschinenausfall; ماشین ریزِش
+Maschinenausfallzeit; زَمان ِ اُفت ِ ماشین
+Maschinengewehr; مُسَلسَل، تیربار
+Maschinenlaufzeit; زَمان ِ ماشین کارآئى
+Maschinenpistole; مُسَلسَل ِ دَستی
+- mit Maschinenpistolen beschiessen; چیزى را به مُسَلسَل بَستَن
+Maschinentaktierung; زَمانگیرى ِ ماشین
 Masern; سُرخَک
 - an Masern erkranken; سُرخَک دَر آوَردَن
 Maske; نِقاب، ماسک
 - Gasmaske; ماسک ِ مُحافِظَتى
-Mass; اَندازه، ميزان
-- mit einem Mass an .. weitermachen; با ضَريب ِ .. اِدامه يافتن
+Mass; اَندازه، میزان
+- mit einem Mass an ... weitermachen; با ضَریب ِ ... اِدامه یافتن
 Massage; ماساژ، مُشت و مال
 Massaker; سَلاخى، قَتل ِ عام، کُشت و کُشتار
-Masse; اَنبوه، خِيلى زياد، توده
-Masseanschluss; اِتِصال ِ زَمين
-Massenarbeitslosigkeit; بيکارى ِ توده اى، ـ اَنبوه
+Masse; اَنبوه، خِیلى زیاد، توده
+Masseanschluss; اِتِصال ِ زَمین
+Massenarbeitslosigkeit; بیکارى ِ توده اى، ـ اَنبوه
 Massenentlassung; اِخراج ِ جَمعى
 Massengrab; قَبر ِ جَمعى
 Massengüter; کالاهاى ِ توده اى
 Massenhinrichtung; اِعدام ِ جَمعى، قَتل ِ عام
 Massenkonsum; مَصرَف ِ اَنبوه
 Massenmedien; رِساله هاى ِ گُروهى، وَسائِل ِ اِرتِباط ِ جَمعى
-Massenproduktion; توليد ِ اَنبوه، بَسفَراوَرى، سِرى سازى
-Massenvernichtungswaffen; سَلاحهاى ِ بَسويرانگَر
-Massenwirkungsgesetz; قانون ِ تأثير ِ ماده
-Massgabe; ميزان
-massieren; مُشت و مال دادَن، ماساژ د
-mässigen (- s.); خودرا قانِع کَردَن، راضى شُدَن
-Mässigung; رياضَت
+Massenproduktion; تولید ِ اَنبوه، بَسفَراوَرى، سِرى سازى
+Massenvernichtungswaffen; سَلاحهاى ِ بَسویرانگَر
+Massenwirkungsgesetz; قانون ِ تأثیر ِ ماده
+Maßgabe; میزان
+massieren; .مُشت و مال دادَن، ماساژ د
+mäßigen (s. -); خودرا قانِع کَردَن، راضى شُدَن
+Mäßigung; ریاضَت
 massiv;
-- massiv, schwer; ثَقيل
+- massiv, schwer; ثَقیل
 - massive Vergeltung; اِنتِقام ِ اَنبوه
-masslos; بى حِساب و کِتاب، خارِج از اَندازه
-Massnahme; (pl.)  (اِقدام ( ـ ات
-- vertrauensbildende Massnahmen; اِقدامات ِ اِعتِماد اَنگيز
-- vorbeugende Massnahmen; اِقدامات ِ پيش گيرَنده
-- Maßnahmen ergreifen; اِقدامي بَراي ِ ... فُرو گُذار کَردَن
-- sie ergriffen Massnahmen, um ..; آنها اِقدام  به .. کَردَند
-Massregel; مُقَرَرات، نِظام
-Massstab; آرمون، مِقياس، مِعيار، قاعِده
+maßlos; بى حِساب و کِتاب، خارِج از اَندازه
+Maßnahme; (pl.)  (اِقدام ( ـ ات
+- vertrauensbildende Maßnahmen; اِقدامات ِ اِعتِماد اَنگیز
+- vorbeugende Maßnahmen; اِقدامات ِ پیش گیرَنده
+- Maßnahmen ergreifen; اِقدامی بَرای ِ ... فُرو گُذار کَردَن
+- sie ergriffen Maßnahmen, um ...; آنها اِقدام  به ... کَردَند
+Maßregel; مُقَرَرات، نِظام
+Maßstab; آرمون، مِقیاس، مِعیار، قاعِده
 mästen; حال آوَردَن
-Mastvieh; شيرمَست
-Material; (pl.)  (ماده (مَواد)، خام، وَسيله (وَسائِل
-- von dem Material dieser Welt (wörtl: Kette & Einschuss); از تار و پود ِ اين جَهان
-Materialermüdung; فَرسودِگى ِ ماتِريال
-- Dialektischer Materialismus;  ماتِرياليزم ِ ديالکتيک، مادة آئينى ِ جَدَلى
+Mastvieh; شیرمَست
+Material; (pl.)  (ماده (مَواد)، خام، وَسیله (وَسائِل
+- von dem Material dieser Welt (wörtl: Kette & Einschuss); از تار و پود ِ این جَهان
+Materialermüdung; فَرسودِگى ِ ماتِریال
+- Dialektischer Materialismus;  ماتِریالیزم ِ دیالکتیک، مادهٔ آئینى ِ جَدَلى
 materialistisch; دَهرى، مادى
 Materie; ماده، جِرم
-materiell; مادى، مالى، عِينى
+materiell; مادى، مالى، عِینى
 - unsere materielle Lage war schlecht;  وَضع ِ مالى ِ خودِمان هَم چَنگى به دِل نِمى زَد
-Mathematik; رياضيَت، رياضى
-Mathematiker; رياضى دان
+Mathematik; ریاضيَت، ریاضى
+Mathematiker; ریاضى دان
 Matratze; تُشَک
 - Sprungmatratze; تُشَک ِ فَنَرى
 Matriarchat; مادَر سالارى
-Matritze; ماده، ماتريس
-Matrix; ماتريس
+Matritze; ماده، ماتریس
+Matrix; ماتریس
 Matrose; مِلوان، جاشو، مَلاح
 Matsche; گِل آب
-- matschige Kartoffel; سيب زَمينى ِ ليج شُده
+- matschige Kartoffel; سیب زَمینى ِ لیج شُده
 Matschwetter; هَواى ِ بَرفاب
-matt; تيره، مات، کَدِر، ضَعيف
+matt; تیره، مات، کَدِر، ضَعیف
 - mattes Gelb; زَرد ِ کَهرُبائى
 Matte;
-- Filzmatte; باريکة نَمَد
+- Filzmatte; باریکهٔ نَمَد
 - Fussmatte; پادَرى
-- Kokosmatte; حَصير از شاخه هاى ِ نارگيل
+- Kokosmatte; حَصیر از شاخه هاى ِ نارگیل
 Mattglanz; کَدِرشُدِگى
 Matthäi;
 - Matthäi am Letzten; مُحلَت
-Mauer; ديوار
-- lebende Mauer (beim Fussball); ديوار ِ گوشتى
-- Steinmauer; سَنگچين
+Mauer; دیوار
+- lebende Mauer (beim Fussball); دیوار ِ گوشتى
+- Steinmauer; سَنگچین
 mauern; ساختَن
 - beim Fußball mauern; دِفاع کَردَن
-- gemauerte Brunnenauskleidung; بَدَنة آجُرى ِ چاه
+- gemauerte Brunnenauskleidung; بَدَنهٔ آجُرى ِ چاه
 Mauervorsprung; جِرز
 Maul; پوزه
 - jem. was aufs Maul geben; توپوزی به کِسی زَدَن
 Maulbeerbaum; دِرَخت ِ توت
-Maulheld; رُستَم صولَت و اَفَندى پيزى
+Maulheld; رُستَم صولَت و اَفَندى پیزى
 Maulkorb; پوزه بَند، مَنع ِ اِظهار ِ نَظَر
 Maulschlüssel; آچار ِ مُهَندِس
 Maultier; اَستَر، قاطِر
@@ -384,123 +386,123 @@ Maurer; بَنا
 Maus; موش
 Mauschelei; جاکَشى، دَلالى ِ مُحَبَت، تَبانى، ساخت و پاخت، ماست مالى
 mauscheln; ماست مالى کَردَن
-Mausefalle; موش تَله، تَله موش
+Mausefalle; موش تَله، تَلهٔ موش
 mausen; ناخُنَک زَدَن، کِش رَفتَن
-Mauser; پَر ريزى
-mausern; پَر ريختَن
-Mausoleum; (pl.)  (مَقبَره، آرامگاه، تُربَت، بُقِعه، ضَريح (ضَرايِح
-Maut; عَوارِض ِ خيابان
+Mauser; پَر ریزى
+mausern; پَر ریختَن
+Mausoleum; (pl.)  (مَقبَره، آرامگاه، تُربَت، بُقِعه، ضَریح (ضَرايِح
+Maut; عَوارِض ِ خیابان
 maximal; حَدِاَکثَر، نَهايَت
 maximieren; بِحَد ِ اَکثَر رِساندَن، از ... حَدِاَکثَر ِ اِستِفاده را کَردَن
-Maximierung; بِحَدِاَکثَر رِسانى، بى اِنتِها رِسانيدَن
-Mäzen; هُنَر پَروَر، ولي اُلنِعَم
-Mechanik; مِکانيک
-Mechaniker; مِکانيک، مِکانيسيِن
-mechanisiert; مِکانيزه، ماشينى
-Mechanisierung; مِکانيزه کَردَن
-- Mechanisierung der Landwirtschaft; مِکانيزه کَردَن ِ کِشاوَرزى
-Mechanismus; مِکانيزم
-- die Mechanismen des Marktes; ساز و کار ِ بازار، مِکانيزم ِ ـ
-Meckerer; ايراد گير، نِق زَن
-meckern; نِق زَدَن، ايراد گِرِفتَن
+Maximierung; بِحَدِاَکثَر رِسانى، بى اِنتِها رِسانیدَن
+Mäzen; هُنَر پَروَر، ولی اُلنِعَم
+Mechanik; مِکانیک
+Mechaniker; مِکانیک، مِکانیسيِن
+mechanisiert; مِکانیزه، ماشینى
+Mechanisierung; مِکانیزه کَردَن
+- Mechanisierung der Landwirtschaft; مِکانیزه کَردَن ِ کِشاوَرزى
+Mechanismus; مِکانیزم
+- die Mechanismen des Marktes; ساز و کار ِ بازار، مِکانیزم ِ ـ
+Meckerer; ایراد گیر، نِق زَن
+meckern; نِق زَدَن، ایراد گِرِفتَن
 Medaille; مِدال
 - Bronzemedaille; مِدال ِ بُرُنز
 medial; از راه ِ رِسانه ها
-- mediale Wiedergabe; اِطِلاع رِساني
+- mediale Wiedergabe; اِطِلاع رِسانی
 Medikament; دارو
 Meditation; تَعَمُق ِ فِکرى، تَفَکُر
-- meditative Konzentration; رياضَت
-Medium; (pl.) وَسيله (وَسائِل
-- audio-visuelle Medien; رِسانه هاى ِ ديدارى و شِنيدارى
-- von anderen Medien übernommen; از رِسانه هاى ِ ديگَر مُنتَقِل شُده
-- Information durch Medien; اِطِلاع رِساني
+- meditative Konzentration; ریاضَت
+Medium; (pl.) وَسیله (وَسائِل
+- audio-visuelle Medien; رِسانه هاى ِ دیدارى و شِنیدارى
+- von anderen Medien übernommen; از رِسانه هاى ِ دیگَر مُنتَقِل شُده
+- Information durch Medien; اِطِلاع رِسانی
 - Massenmedien; رِسانه هاى ِ گُروهى، وَسائِل ِ اِرتِباط ِ جَمعى
 - Medien-Center; دَفتَر ِ رِسانه ها
-Medizin; رِشتة پِزِشکى
+Medizin; رِشتهٔ پِزِشکى
 - Medizin, Medikament; دارو
 - hergebrachte Medizin (i.S.: medizin. Verfahren); طِب ِ سُنَتی
 Mediziner; پِزِشک
 medizinisch; پِزِشکى
-- medizinische Untersuchung; مُعايِنة پِزِشکى
-Meer; (pl.) بَحر (بِحار)، دَريا
+- medizinische Untersuchung; مُعايِنهٔ پِزِشکى
+Meer; (pl.) بَحر (بِحار)، دَریا
 - Land & Meer; بَر و بَحر
-Meeresbecken; بَستَر ِ اُقيانوس، کَف ِ ـ
-Meeresenge; تَنگة دَريا
-Meeresströmung; لايه دَر توى ِ آب
-Meeresgrund; قَعَر ِ دَريا، اَعماق ِ ـ
+Meeresbecken; بَستَر ِ اُقیانوس، کَف ِ ـ
+Meeresenge; تَنگهٔ دَریا
+Meeresströmung; لایه دَر توى ِ آب
+Meeresgrund; قَعَر ِ دَریا، اَعماق ِ ـ
 Meerrettich; تُرُب ِ کوهى
-Meerschweinchen; خوکچة هِندى
+Meerschweinchen; خوکچهٔ هِندى
 Megaphon; بُلَند گوى ِ دَستى
 Mehl; آرد
 Mehlbeere; سِنجِد
-mehr; بيشتَر
+mehr; بیشتَر
 - um wieviel mehr; تا چه رِسَد که
 - immer mehr; بِطور ِ فَزايَنده، گُر و گُر
 - ich kam immer mehr ins Schwitzen; گُر و گُر عَرَق کَردَم
-- mehr als; مُتَجاوِز از، بيش از، بيشتَر از
-- mehr oder weniger; کَم و کَسر، کَمابيش
-- nicht mehr & nicht weniger; نَه کَم و نَه بيش
-- wenn es nicht mehr ist (i.S.: kein Problem); اينها که چيزى نيست از هَفت بُرو به هَفتاد
-- je mehr, desto besser; (fa-behå) هَر چه بيشتَر بِهتَر است، فبها
+- mehr als; مُتَجاوِز از، بیش از، بیشتَر از
+- mehr oder weniger; کَم و کَسر، کَمابیش
+- nicht mehr & nicht weniger; نَه کَم و نَه بیش
+- wenn es nicht mehr ist (i.S.: kein Problem); اینها که چیزى نیست از هَفت بُرو به هَفتاد
+- je mehr, desto besser; (fa-behå) هَر چه بیشتَر بِهتَر است، فبها
 Mehrarbeit; کار ِ اِضافى
-Mehrausgaben; هَزينه هاى ِ اِضافى
+Mehrausgaben; هَزینه هاى ِ اِضافى
 Mehrbetrag;
-- Mehrbetrag bis zu 30 Dollar zulassen; مازاد بَر سَقف ِ ۳۰ دُلار را تَرخيص کَردَن
+- Mehrbetrag bis zu 30 Dollar zulassen; مازاد بَر سَقف ِ ۳۰ دُلار را تَرخیص کَردَن
 Mehreinnahme; مازاد
 Mehrheit; اَکثَريَت
 - mit knapper Mehrheit regieren; با اَکثَريَت ِ کَمى حُکومَت کَردَن
 mehrkernig; چَند هَسته اى
-mehrmals; دَفِعات، مُکَرَر، بارها، چَندين بار، به کَرات
+mehrmals; دَفِعات، مُکَرَر، بارها، چَندین بار، به کَرات
 Mehrparteiensystem; نَظام ِ چَند حِزبى
 mehrseitig; چَند جانِبه
-mehrsilbig; چَند هِجائى، چَند سيلابى
-Mehrwertsteuer; ماليات بَر مَصرَف
+mehrsilbig; چَند هِجائى، چَند سیلابى
+Mehrwertsteuer; مالیات بَر مَصرَف
 Mehrzahl; جَمع
 - Einzahl & Mehrzahl; مُفرَد و جَمع
 meiden; اِجتِناب کَردَن
-- er wird gemieden; مَنفور ميشَوَد
+- er wird gemieden; مَنفور میشَوَد
 mein; مال ِ مَن
 Meineid; سوگَند ِ دُروغ، قَسَم شِکَنى، سوگَند ـ
 meineidig; قَسَم شِکَن
 - meineidig werden; زِنهار خوردَن
 meinen; فِکر کَردَن
-- was meinen Sie dazu?; نَظَرِتان دَر اين مورِد چيه؟
-- was meint er damit?; چه کاسه اي زير ِ نيم کاسه اَش است
-- wie Sie meinen; هَر طورى ِ که شُما مايِل باشيد
+- was meinen Sie dazu?; نَظَرِتان دَر این مورِد چیه؟
+- was meint er damit?; چه کاسه ای زیر ِ نیم کاسه اَش است
+- wie Sie meinen; هَر طورى ِ که شُما مايِل باشید
 - dich meine ich; به تو هَستَم، مَنظورَم توئى
-- was damit gemeint ist; که چه چيزى مَنظور ِ نَظَر است
-- als sie verstanden, dass sie mit ... gemeint sind; وَقتيکه مُتَوَجه شُدَند که مَنظور ِ ... خود آنها است
+- was damit gemeint ist; که چه چیزى مَنظور ِ نَظَر است
+- als sie verstanden, dass sie mit ... gemeint sind; وَقتیکه مُتَوَجه شُدَند که مَنظور ِ ... خود آنها است
 meinetwegen; مُشکِلى نَدارَد، باشه
-Meinung (pl.);  (نَظَر (اِنظار)، عَقيده (عقايِد
-- die Meinung festigt s. bei mir; آن عَقيدة مَن رُسوخ مى کُنَد
-- nach seiner Meinung; بِخيال ِ خود، به نَظَرَش، به زَعم ِ او
+Meinung (pl.);  (نَظَر (اِنظار)، عَقیده (عقايِد
+- die Meinung festigt s. bei mir; آن عَقیدهٔ مَن رُسوخ مى کُنَد
+- nach seiner Meinung; بِخیال ِ خود، به نَظَرَش، به زَعم ِ او
 - ich bin der Meinung, dass ..; من مُعتَقِدَم که
-- er ist anderer Meinung; او دِگَراَنديش است
-- wir sind nicht einer Meinung; آبِمان توي ِ يِک جو نِمي رَوَد
-- ohne eigene Meinung; بي نَظَر
+- er ist anderer Meinung; او دِگَراَندیش است
+- wir sind nicht einer Meinung; آبِمان توی ِ يِک جو نِمی رَوَد
+- ohne eigene Meinung; بی نَظَر
 - nach der gängigen Meinung anderer ; به مَعناى ِ رايِج ِ آن که
 - nach Meinung berühmter ..; بَنابَر نَظَر ِ مَشهور ِ..، به زَعم ِ ـ
-- eine Meinung kundtun; رأى صادِر کَردَن، رأيزَنى کَردَن، نَظَر دادَن
-- hast du deine Meinung gesagt?; آيا نَظَر کَرده اى؟
+- eine Meinung kundtun; رأى صادِر کَردَن، رأیزَنى کَردَن، نَظَر دادَن
+- hast du deine Meinung gesagt?; آیا نَظَر کَرده اى؟
 - mit jem. einer Meinung sein; با کِسى هَمرأى داشتَن، هَم رأى ِ کِسى بودَن
-- wir sind jetzt zu einer Meinung gekommen; حالا به هَم رِسيديم
-- er vertritt die Meinung, dass ..; او اِظهار دارد که، او بَر اين باوَر است که
+- wir sind jetzt zu einer Meinung gekommen; حالا به هَم رِسیدیم
+- er vertritt die Meinung, dass ..; او اِظهار دارد که، او بَر این باوَر است که
 - seine Meinung zum Besten geben; اَفکارَش را بِخَرج دادَن
 - s. eine Meinung über die Lage bilden; بَر آوَرد ِ اوضاع
 - s. nicht um die Meinung anderer kümmern; جِلوی ِ کِسی وِل شُدَن
-- jetzt, wo sie ihre Meinung gebildet hatte; وَلي او که دو پاي اَش را دَر يِک کَفش کَرده بود
-- damit jem. von seiner Meinung wegkommt; که از خَر ِ شِيطان پايين بيايَد 
-Meinungsäusserung; رأيزَنى، اِظهار ِ نَظَر
+- jetzt, wo sie ihre Meinung gebildet hatte; وَلی او که دو پای اَش را دَر يِک کَفش کَرده بود
+- damit jem. von seiner Meinung wegkommt; که از خَر ِ شِیطان پایین بیايَد 
+Meinungsäusserung; رأیزَنى، اِظهار ِ نَظَر
 Meinungsaustausch; تَبَادُل ِ نَظَر، تَعاطى ِ اَفکار، گُفت و شُنود
-Meinungsbild; کَسب ِ عَقيده
-Meinungsforscher; بَررِسى کُنَندة عَقايِد ِ عُمومى
-Meinungsforschung; نَظَريابي
+Meinungsbild; کَسب ِ عَقیده
+Meinungsforscher; بَررِسى کُنَندهٔ عَقايِد ِ عُمومى
+Meinungsforschung; نَظَریابی
 Meinungsfreiheit; آزادى ِ تَفَکُر
-- Denk- & Meinungsfreiheit; آزادى ِ تَفَکُر و آزادى ِ عَقيده
+- Denk- & Meinungsfreiheit; آزادى ِ تَفَکُر و آزادى ِ عَقیده
 Meinungsmacher; صاحِب ِ نَظَر
 Meinungsumfrage; هَمه پُرسى، بَررِسى ِ عَقايِد ِ عُمومى
 Meinungsverschiedenheit (in ..);  (تَشتُت ِ آراء، مُغايِرَت، دودَستِگی، اِختِلاف ِ نَظَر (- دَر
-Meise; چَرخ ريسَک
+Meise; چَرخ ریسَک
 Meissel; اِشکَنه، قَلَم ِ تَراش، اِسکَنه
 meist;
 - die meiste Zeit; اَکثَر ِ وَقت
@@ -510,285 +512,285 @@ Meister; اُستاد
 meisterhaft; با اُستادى، اُستادانه
 meistern;
 - mit Erfolg meistern; با مُوَفَقيَت از سَر گُذَراندَن
-- er meistert s. so weit, dass er nichts sagt; اين اَندازه آقائى دارَد که چيزى را نَگويَد
-- sie werden das schon meistern; از پَس ِ خودِشان بَر مي آيَد
+- er meistert s. so weit, dass er nichts sagt; این اَندازه آقائى دارَد که چیزى را نَگويَد
+- sie werden das schon meistern; از پَس ِ خودِشان بَر می آيَد
 Meisterschaft; اُستادى
 - er zeigt seine Meisterschaft; او اُستادى ِ خودرا نِشان مى دَهَد
 Meisterwerk; بَرق کار، شاهکار
-Melancholie; ماليخوليا، بَد بينى، مِراق
-melancholisch; ماليخوليائى
+Melancholie; مالیخولیا، بَد بینى، مِراق
+melancholisch; مالیخولیائى
 Melasse; شیره
 - Traubenmelasse; شیرهٔ اَنگور
 melden;
-- s. bei der Polizei melden; خودرا به پُليس مُعَرِفى کَردَن
+- s. bei der Polizei melden; خودرا به پُلیس مُعَرِفى کَردَن
 - s. in der Schule melden; به سُئوال ِ مُعَلِم جَواب دادَن
 Meldung; گُذارِش، اِعلام
 - Falschmeldung (abgeben);  (چِل و چو (اَنداختَن
-melken; شير دوشيدَن
-Melker; شير دوش
+melken; شیر دوشیدَن
+Melker; شیر دوش
 Melodie; نَغمه، تَرانه، آهَنگ
 - Melodie für Koranrezitation; حِجاز
-- leichte, fliessende Melodie; آهَنگ ِ سَليس
-melodiös; خوش نَغمه، دِلپَذير
+- leichte, fliessende Melodie; آهَنگ ِ سَلیس
+melodiös; خوش نَغمه، دِلپَذیر
 Melodrama; مِلودرام
 Melone; دَستَنبو، هِندِوانه
 - Honigmelone; خَربُزه
 Meltau; يَرقان، زَنگ ِ نَباتى
-Membran; پَرده، شامه، مِمبران، ديافراگم، واشِر ِ مَشمائى، غَشاء
-Membranpumpe; پُمپ ِ ديافراگم دار
+Membran; پَرده، شامه، مِمبران، دیافراگم، واشِر ِ مَشمائى، غَشاء
+Membranpumpe; پُمپ ِ دیافراگم دار
 memmenhaft; خَرگوش دِل، نامَردانه
-Memoiren; تَزکير، يادآورى ِ کَتبى
-Memorandum; تَذَکاريه
+Memoiren; تَزکیر، یادآورى ِ کَتبى
+Memorandum; تَذَکاریه
 Menge; (pl.) مِقدار (مَقادِر)، قَدر
-- die Menge ist nicht wichtig; مِقدارَش مُهِم نيست
+- die Menge ist nicht wichtig; مِقدارَش مُهِم نیست
 - Menge Geld; مَبلَغ ِ کَلانى
-- grosse Menge; قَدر ِ زياد
+- grosse Menge; قَدر ِ زیاد
 - täglich nahm er eine gewisse Menge; هَر روز مِقدارى  ِ.. گِرِفت
-- wir haben uns eine Menge zu erzählen; کُلى ِ حَرف بَراى ِ گُفتَن داريم
+- wir haben uns eine Menge zu erzählen; کُلى ِ حَرف بَراى ِ گُفتَن داریم
 - Gesamtmenge der ..; مَجموع  ِ
 - Menschenmenge; (pl.) فوج (اَفواج)، انبوه
-mengen; آميختَن، قاطي کَردَن
-Meningitis; سام ِ سَر، مِنِنژيت
+mengen; آمیختَن، قاطی کَردَن
+Meningitis; سام ِ سَر، مِنِنژیت
 Mensa; سالُن ِ ناهار خورى
 Mensch; اِنسان، آدَم
 - er ist ein bedeutender Mensch geworden; آدَمی شُده بود
 - Kategorie von Menschen bestimmter Art; زُمره
-- er gehört nicht zu der Sorte von Mensch; او از اين آدَميها نيست، از اين قُماش نيسيت، اَهل ِ چِنين کاری نيست
-- wir sind keine unbekannten Menschen; ما کَم آدَمهايی نيستيم
-- der Mensch ist fehlerhaft; آدَميزاد شير ِ خام خورده، اِنسان جايِزاُلخَطاست
-- Alle Menschen haben die gleiche Wurzel, wenn einer leidet, läßt das die anderen nicht gleichgültig. Wenn dich das Unglück anderer kalt läßt, verlierst du dein Menschsein; بِني آدَم عَضاي ِ يِکديگَرَند که دَر آفَرينِش زِ يِک گوهَرَند. چو عُضوي بِدَرد آوَرَد روزِگار، ديگَر عُضو هارا نَملنَد قَرار تو کِز مِحنَت ِ ديگَران بي غَمي نَشايَد که نامَت نَهَند آدَمي
+- er gehört nicht zu der Sorte von Mensch; او از این آدَمیها نیست، از این قُماش نیسیت، اَهل ِ چِنین کاری نیست
+- wir sind keine unbekannten Menschen; ما کَم آدَمهایی نیستیم
+- der Mensch ist fehlerhaft; آدَمیزاد شیر ِ خام خورده، اِنسان جايِزاُلخَطاست
+- Alle Menschen haben die gleiche Wurzel, wenn einer leidet, läßt das die anderen nicht gleichgültig. Wenn dich das Unglück anderer kalt läßt, verlierst du dein Menschsein; بِنی آدَم عَضای ِ يِکدیگَرَند که دَر آفَرینِش زِ يِک گوهَرَند. چو عُضوی بِدَرد آوَرَد روزِگار، دیگَر عُضو هارا نَملنَد قَرار تو کِز مِحنَت ِ دیگَران بی غَمی نَشايَد که نامَت نَهَند آدَمی
 menschenleer; خِلوَت
 - menschenleer (i.S.: ausgeflogen) ; پَرَنده پَر نِمی زَنَد
 Menschenmenge; اَنبوه، جَمعيَت
 - in die Menschenmenge treiben; به دِل ِ جَمعيَت زَدَن
 Menschenraub; آدَم رُبائى
 Menschenrechte; حُقوق ِ بَشَر
-- Allgemeine Erklärung der Menschenrechte; اِعلامية هَمِگانى ِ حُقوق ِ بَشَر
-Menschenrechtskonvention; کُنوانسيون ِ حُقوق ِ بَشَر، قَرار داد ِ ـ
+- Allgemeine Erklärung der Menschenrechte; اِعلامیهٔ هَمِگانى ِ حُقوق ِ بَشَر
+Menschenrechtskonvention; کُنوانسیون ِ حُقوق ِ بَشَر، قَرار داد ِ ـ
 Menschsein;
 - er hat sein Menschsein verloren; آدَم نِمون شُدَن
 Menschenwürde; کَرامَت ِ اِنسانى
-- menschenwürdige Bedingungen schaffen; تَرفيه کَردَن
-Menschheit; بَشَريَت، جَهانيان
+- menschenwürdige Bedingungen schaffen; تَرفیه کَردَن
+Menschheit; بَشَريَت، جَهانیان
 menschlich; ناسوتى، اِنسانى
 - jem. menschlicher machen; کِسى را اِنسانتَر کَردَن
 Menschlichkeit; اِنسانيَت، مُرُوَت
-Menstruation; حِيض، قاعِدِگى
+Menstruation; حِیض، قاعِدِگى
 - Menstruation haben; قاعِده بودَن
-menstruieren; حِيض شُدَن
-Mentalität; روحيه، طَرز ِ فِکر
+menstruieren; حِیض شُدَن
+Mentalität; روحیه، طَرز ِ فِکر
 Meridian; نِصف اُلنَهار
 Merkantilismus; مَکتَب ِ سوداگَرى
-merken; يادآوَرى کَردَن
+merken; یادآوَرى کَردَن
 - etwas merken; .مُتَوَجه شُدَن، مُلتَفِت ش
-- Merk dir das!; کَف ِ دَستَت بِنِويس!، گِرِه بِزَن
+- Merk dir das!; کَف ِ دَستَت بِنِویس!، گِرِه بِزَن
 Merkmal; نِشانه، عَلامَت، مُشَخَصات
 - geschlechtliche Merkmale (i.S. von Vorteile, Unterschiede); تَمايُز ِ جِنسى
 Merkur; عُطارِد
 Merkurochrom; مِرکورُکرُم
-merkwürdig; شِگِفت اَنگيز، عَحيب و غَريب
-- daran ist nichts merkwürdig; هيچ چيز عَجيب نِمى نَمايَد
-- das sind aber merkwürdige Gedanken; چه فِکرهاى ِ عَجيبى که نَکَرده بود
-Mesopotamien; اَرام ِ نَهرِين، بِين ِ نَهرِين
-messbar; قابِل ِ اَندازه گيرى
-- messbare Eigenschaft; خاصيَت ِ اَندازه بَردار، ـ قابِل ِ اَندازه گيرى
-Messe; مَکاريه، بازاره مَکاره، نَمايِشگاه ِ اِقتِصادى
+merkwürdig; شِگِفت اَنگیز، عَحیب و غَریب
+- daran ist nichts merkwürdig; هیچ چیز عَجیب نِمى نَمايَد
+- das sind aber merkwürdige Gedanken; چه فِکرهاى ِ عَجیبى که نَکَرده بود
+Mesopotamien; اَرام ِ نَهرِین، بِین ِ نَهرِین
+messbar; قابِل ِ اَندازه گیرى
+- messbare Eigenschaft; خاصيَت ِ اَندازه بَردار، ـ قابِل ِ اَندازه گیرى
+Messe; مَکاریه، بازاره مَکاره، نَمايِشگاه ِ اِقتِصادى
 - Totenmesse lesen; فاتِحه خواندَن
 messen; اَندازه گِرِفتَن
-- ausmessen, abschreiten; پِيمايِش نِمودَن
-- s. mit jem. messen; با کِسى مُقابله کَردَن، قابِليَت ِ خودرا با کِسى سَنجِش ک.، مَرد ِ مِيدان و حَريف ِ کِسى بودَن، خود را به پاي ِ کِسي گُذاشتَن
-- unser Team kann s. mit ihnen messen; تيم ِ ما حَريف ِ آنهاست
-- mit dem Mass, mit dem du andere misst, wirst du gemessen werden; با هَر پِيمانه اى که به ديگَران بِدَهى با هَمان پِيمانه عَوَض خواهى گِرِفت
+- ausmessen, abschreiten; پِیمايِش نِمودَن
+- s. mit jem. messen; با کِسى مُقابله کَردَن، قابِليَت ِ خودرا با کِسى سَنجِش ک.، مَرد ِ مِیدان و حَریف ِ کِسى بودَن، خود را به پای ِ کِسی گُذاشتَن
+- unser Team kann s. mit ihnen messen; تیم ِ ما حَریف ِ آنهاست
+- mit dem Mass, mit dem du andere misst, wirst du gemessen werden; با هَر پِیمانه اى که به دیگَران بِدَهى با هَمان پِیمانه عَوَض خواهى گِرِفت
 - er mass ihn von Kopf bis Fuss; نِگاهى به سَر تا پاى ِ او کَرد
 Messer; کارد
 - Hackmesser; ساطور
 - Klappmesser; چاقو
 - Radiermesser; قَلَم ِ تَراش
-- Auf Messers Schneide; بِدَم ِ شَمشير
+- Auf Messers Schneide; بِدَم ِ شَمشیر
 Messerstecher; قَمه زَن، چاقو کِش
 Messing; بِرِنج، مِس
 - Samowar mit Messinglegierung; سَماوَر ِ مِسوار
 Messlatte; چوب ِ نِشانه
-Messung; اَندازه گيرى
-Metabolismus; مِتابوليسم، سوخت و ساز
+Messung; اَندازه گیرى
+Metabolismus; مِتابولیسم، سوخت و ساز
 Metall; فِلِز
 - flüssiges Metall; فِلِز ِ مُذاب
-Metalldetektor; فِلِز ياب
+Metalldetektor; فِلِز یاب
 Metalldichtung; لائى ِ فِلِزى
 Metalloid; شِبه ِ فِلِز
-Metallprobe; سَنجِش ِ عَيار
-Metamorphose; تَماسُخ، اِستِحاله، دِگَرديسى
+Metallprobe; سَنجِش ِ عَیار
+Metamorphose; تَماسُخ، اِستِحاله، دِگَردیسى
 - Metamorphose (zum Schlechteren); نَنگ سار، مَسخ
-Metapher; (pl.) اِستِعاره (اِستِعارات)، کِنايه
-metaphysisch; مابَعد اُلطَبيعى، ماوَراء ِ طَبيعى
-Metazoen; پُر ياخته ها
+Metapher; (pl.) اِستِعاره (اِستِعارات)، کِنایه
+metaphysisch; مابَعد اُلطَبیعى، ماوَراء ِ طَبیعى
+Metazoen; پُر یاخته ها
 Meteorit; ذوذَنَب، شِهاب
-Meteorologie; عِلم ِ نيوار، عِلم ِ هَوا شِناسى
+Meteorologie; عِلم ِ نیوار، عِلم ِ هَوا شِناسى
 Meter; مِتر
-Methode; اُسلوب، سَبک، رَوِش، رَويه، مِتُد
+Methode; اُسلوب، سَبک، رَوِش، رَویه، مِتُد
 Metier;
-- das ist nicht mein Metier; باب ِ طَبع ِ مَن نيست
-Metzelei; سَلاخى، کُشت و کُشتار، خونريزى
+- das ist nicht mein Metier; باب ِ طَبع ِ مَن نیست
+Metzelei; سَلاخى، کُشت و کُشتار، خونریزى
 Metzger; قَصاب
-Meuterei; عُصيان، ياغى گَرى، سَرکُشى، تَمَرُد، نافَرمائى، طُغيان، شورِش
+Meuterei; عُصیان، یاغى گَرى، سَرکُشى، تَمَرُد، نافَرمائى، طُغیان، شورِش
 mich; مَرا
-- an mich; به اينجانِب، به مَن
+- an mich; به اینجانِب، به مَن
 mickrig;
-- der ist mickrig geworden; قيافَتَش مِثل ِ عَکس ِ شيش دَر چَهار مى نَمايَد
+- der ist mickrig geworden; قیافَتَش مِثل ِ عَکس ِ شیش دَر چَهار مى نَمايَد
 - ich kam mir ganz mickrig vor; سوسک شُده بودَم
-Mieder; کُرسِت، نيمه تَنه
+Mieder; کُرسِت، نیمه تَنه
 Mief; بوى ِ زَهم
 Miene;
-- die Miene verziehen; قيافه گِرِفتَن
-- er verzog keine Miene; کِيکَش هَم نَگَزيد
-- Unschuldsmiene; قيافة خَق به جانِب
+- die Miene verziehen; قیافه گِرِفتَن
+- er verzog keine Miene; کِیکَش هَم نَگَزید
+- Unschuldsmiene; قیافهٔ خَق به جانِب
 mies;
-- s. mies fühlen; حال ِ کِسی خوب نيست
+- s. mies fühlen; حال ِ کِسی خوب نیست
 - miese Handlung; عَمَل نابه کارانه، کار ِ زِشت است
-- miese Propaganda; تَبليغات ِ مُتَذاوِل
+- miese Propaganda; تَبلیغات ِ مُتَذاوِل
 miesmachen;
-- es jem. miesmachen; نوميد ِ کِسى کَردَن
-Miete; کِرايه، اِجاره
+- es jem. miesmachen; نومید ِ کِسى کَردَن
+Miete; کِرایه، اِجاره
 - Zimmer zur Miete haben; اُتاق را دَر اِجاره داشتَن
 mieten; اِجاره کَردَن
 Mieter; مُستأجِر
 Mieterschutz; حِمايَت ِ مُستأجر
-Mietpreis; اِجاره بَها، مَبلَغ ِ کِرايه
-Mietvertrag; کِرايه نامه، قَرار داد ِ اِجاره
-Migräne; دَرد ِ شَقيقه، ميگرِن
+Mietpreis; اِجاره بَها، مَبلَغ ِ کِرایه
+Mietvertrag; کِرایه نامه، قَرار داد ِ اِجاره
+Migräne; دَرد ِ شَقیقه، میگرِن
 Migration; مُهاجِرَت
-Mikrobe; ميکُرب
-Mikrofon; ميکرُفون
-Mikroprozessor; ريزپَرداز
-Mikroskop; ميکروسکوپ، ذَره بين
-Milch; شير
-- Erstlingsmilch (bei Menschen, Colostrum); شيرماک
+Mikrobe; میکُرب
+Mikrofon; میکرُفون
+Mikroprozessor; ریزپَرداز
+Mikroskop; میکروسکوپ، ذَره بین
+Milch; شیر
+- Erstlingsmilch (bei Menschen, Colostrum); شیرماک
 - Erstlingsmilch (bei Tieren, Colostrum); آغوز
-- Frischmilch; شير ِ تازه
-- H- Milch; شير ِ مُدَت دار
-Milchprodukte; لَبَنيات
-Milchreis; شيربرِنج
-Milchsäure; اَسيد ِ لاکتيک
-Milchstrasse; کَهکَشان، راه ِ شيرى
-Milchzahn; دَندان ِ شيرى
+- Frischmilch; شیر ِ تازه
+- H- Milch; شیر ِ مُدَت دار
+Milchprodukte; لَبَنیات
+Milchreis; شیربرِنج
+Milchsäure; اَسید ِ لاکتیک
+Milchstrasse; کَهکَشان، راه ِ شیرى
+Milchzahn; دَندان ِ شیرى
 mild; مُلايِم
 Milde; مُلايَمَت
 - bei jem. Milde walten lassen; به کِسى اِرفاق کَردَن
-mildern; تَخفيف دادَن، آرام کَردَن
-- mildernde Umstände; کِيفيَت ِ مُخَفِفه، ـ کاهَنده
-- Strafmilderung; تَخفيف ِ مُجازات
-Milieu; مُحيط ِ زيست
+mildern; تَخفیف دادَن، آرام کَردَن
+- mildernde Umstände; کِیفيَت ِ مُخَفِفه، ـ کاهَنده
+- Strafmilderung; تَخفیف ِ مُجازات
+Milieu; مُحیط ِ زیست
 militant; مُتَعَرِض
 Militär; اَرتِش
 - zum Militär gehen; به خِدمَت ِ نِظام رَفتَن
-Militärattaché; وابَستة نِظامى
+Militärattaché; وابَستهٔ نِظامى
 Militärdienst; خِدمَت ِ سَربازى
-militärisch; نِظامي
+militärisch; نِظامی
 - militärische Ehren; اِحتِرامات ِ نِظامى
 Militärstab; سِتاد ِ نِظامى
-Miliz; نيروهاى ِ شَبه نِظامى
-- phalangistische Milizen; نيروهاى ِ شَبه نِظامى ِ اُلکَتائِب
-Million; ميليون
-- eine halbe Million Menschen kam; عِده ي مَردُم که آمَدَند يِک کُرور بود
+Miliz; نیروهاى ِ شَبه نِظامى
+- phalangistische Milizen; نیروهاى ِ شَبه نِظامى ِ اُلکَتائِب
+Million; میلیون
+- eine halbe Million Menschen kam; عِده ی مَردُم که آمَدَند يِک کُرور بود
 Milz; طَحال
-Milzbrand; سياه زَخم
+Milzbrand; سیاه زَخم
 mimosenhaft; آدَم ِ زودرَنج، ـ حَساس
 Minarett; مَناره، گُلدَسته
 Minderheit; اَقَليَت
 Minderheitenschutz; حِمايَت ِ اَقَليَتها
-minderjährig; خُردسال، کَم سال، کَم سِن، کَم سِن و سال، صَغير
-Minderung; تَقليل، تَخفيف، کاهِش
-minderwertig; ذَليل
-- minderwertiges Gold; زَر ِ کَم عَيار
-Minderwertigkeitskomplex; عُقدة حِقارَت
+minderjährig; خُردسال، کَم سال، کَم سِن، کَم سِن و سال، صَغیر
+Minderung; تَقلیل، تَخفیف، کاهِش
+minderwertig; ذَلیل
+- minderwertiges Gold; زَر ِ کَم عَیار
+Minderwertigkeitskomplex; عُقدهٔ حِقارَت
 Mindestbeteiligung; حَد ِ نِصاب
 Mindestlohn; حَداَقَل ِ مُزد
 Mindestmass;
-- er kam mit dem Mindestmass an Nahrung aus; او به حَد ِ اَقَل ِ غَذا نياز داشت
+- er kam mit dem Mindestmass an Nahrung aus; او به حَد ِ اَقَل ِ غَذا نیاز داشت
 Mindestpunktzahl;
-- .. deren Note die Mindestpunktzahl nicht erreicht; که نُمرة خام از حَد ِ نِصاب مُعَيِن کَمتَر باشَد
+- .. deren Note die Mindestpunktzahl nicht erreicht; که نُمرهٔ خام از حَد ِ نِصاب مُعَيِن کَمتَر باشَد
 Mindestreserve; حَد ِاَقَل ِ ذَخايِر، ذَخايِر ِ اِجبارى
 Mindeststimmzahl; حَد ِ نِصاب ِ آرا
-Mine; مين
+Mine; مین
 - Bergwerksmine; (pl.)  (مَعدَن (مُعادِن
-- Kugelschreibermine; مَغزة خودکار
-Minensuchschiff; کَشتى ِ مين جَمع کُن
-Mineral; (pl.)  (مَعدَن (مَعدَنيات
+- Kugelschreibermine; مَغزهٔ خودکار
+Minensuchschiff; کَشتى ِ مین جَمع کُن
+Mineral; (pl.)  (مَعدَن (مَعدَنیات
 mineralisch; کانى
 Mineralogie; عِلم ِ مَعدَن، مَعدَن شِناسى
 Mineralwasser; آب ِمَعدَنى
 Minimum; حَد ِ اَقَل
 - mit einem Minimum auskommen; با قَدر ِ حَدِاَقَل سَر کَردَن
 - Existenzminimum; سَد  ِ رَمَق
-Minister; وَزير
-- Minister für besondere Aufgaben; وَزير ِ وَظايِف ِ ويژه
-- Minister ohne Geschäftsbereich; وَزير ِ مُشاوِر
-Ministerialhierarchie; سِلسِلة مَراتِب ِ وِزارَتى
+Minister; وَزیر
+- Minister für besondere Aufgaben; وَزیر ِ وَظايِف ِ ویژه
+- Minister ohne Geschäftsbereich; وَزیر ِ مُشاوِر
+Ministerialhierarchie; سِلسِلهٔ مَراتِب ِ وِزارَتى
 Ministerium; وِزارَت
 - Aussenministerium; وِزارَت ِ اُمور ِ خارِجى
-- Justizministerium; عَدلية وِزارت
-Ministerpräsident; نَخُست وَزير
+- Justizministerium; عَدلیهٔ وِزارت
+Ministerpräsident; نَخُست وَزیر
 minus;
 - 5 minus 4; پَنج مِنهاى ِ چَهار
-- 5 Grad minus; پَنج دَرَجه زير ِ صِفر
+- 5 Grad minus; پَنج دَرَجه زیر ِ صِفر
 - ich habe auf dem Konto ein Minus; مَبلَغ ِ (حِساب ِ) بانکی اَم کَسری دارَد
 Minuszeichen; عَلامَت ِ مَنفى
-Minute; دَقيقه
-- das sagen Sie mir 5 Minuten vor 12; دُرُست دَر آخَرين لَحظه به مَن گفتيد
-Minutenzeiger; عَقرَبة دَقيقه شُمار
+Minute; دَقیقه
+- das sagen Sie mir 5 Minuten vor 12; دُرُست دَر آخَرین لَحظه به مَن گفتید
+Minutenzeiger; عَقرَبهٔ دَقیقه شُمار
 Minze; نَعنا
 mir; به مَن
-- das gehört mir; اين مال ِ مَن است
-- gib das mir; اين را به مَن بِدِه
-- wie du mir, so ich dir; چيزى که عَوَض دارَد گِله نَدارَد
+- das gehört mir; این مال ِ مَن است
+- gib das mir; این را به مَن بِدِه
+- wie du mir, so ich dir; چیزى که عَوَض دارَد گِله نَدارَد
 Mirabelle; آلو زَرد
-Misanthrop; آدَم گُريز
+Misanthrop; آدَم گُریز
 mischerbig; دو رَگه
 Mischehe; نِکاه ِ مَخلوطه
-mischen; سِرِشتَن، آميختَن، مَخلوط کَردَن، قاطى ک
+mischen; سِرِشتَن، آمیختَن، مَخلوط کَردَن، قاطى ک
 - Karten mischen; بُر زَدَن
-- Betonmischer; ماشين ِ بِتون سازى
+- Betonmischer; ماشین ِ بِتون سازى
 Mischling; از دو نِژاد، دورَگه
 Mischmasch (von Meinungen, u.ä.); مَعجون
-Mischung; اِختِلاط، آميزِش، مَخلوط، آميختِگى
-- Mischung, Legierung; اِمتِزاج، آلياژى
+Mischung; اِختِلاط، آمیزِش، مَخلوط، آمیختِگى
+- Mischung, Legierung; اِمتِزاج، آلیاژى
 - eine Mischung aus ...; يِک مَخلوطی از
-missachten; چيزى را خوار شُماردَن
+missachten; چیزى را خوار شُماردَن
 Missachtung; اِحتِقار، حِقارَت
-- bei Missachtung von ..; غافل از اينکه، با عَدَم رَعايَت
-Missbildung; تَشکيل ِ غَلَط، خِلقَت ِ ناقِص
+- bei Missachtung von ..; غافل از اینکه، با عَدَم رَعايَت
+Missbildung; تَشکیل ِ غَلَط، خِلقَت ِ ناقِص
 missbilligen;
-- er missbilligt das, verurteilt das; اينرا تَخطِئِه ميکُنَد، - رَد مي کُنَد
-missbilligend; اِهانَت آميز
-Missbilligung; رَد، عَدَم ِ تَصويب
+- er missbilligt das, verurteilt das; اینرا تَخطِئِه میکُنَد، - رَد می کُنَد
+missbilligend; اِهانَت آمیز
+Missbilligung; رَد، عَدَم ِ تَصویب
 Missbrauch; سوء اِستِفاده
-missbrauchen; از چيزى سوء اِستِفاده کَردَن
-- es kann sein, dass .. missbraucht wird; مُمکِن است که .. حِيف و مِيل شَوَد
-missdeuten; سوء تَعبير کَردَن
-Misserfolg; ناکامي، عَدَم ِ توفيق
+missbrauchen; از چیزى سوء اِستِفاده کَردَن
+- es kann sein, dass .. missbraucht wird; مُمکِن است که .. حِیف و مِیل شَوَد
+missdeuten; سوء تَعبیر کَردَن
+Misserfolg; ناکامی، عَدَم ِ توفیق
 Missernte; قَحط
 - eine Missernte trat ein; قَحطى اُفتاد
 - von Missernte Geschädigter; قَحط زَده
 missfallen;
 - sie missfallen ihm; او آنهارا مَقبول نِمى کُنَد
-- das missfällt ihm; چيزى بَر او گِران مى آيَد، دَر نَظَر ِ او بَد مى آيَد، از اين چيزها بَدِش مى آيَد
+- das missfällt ihm; چیزى بَر او گِران مى آيَد، دَر نَظَر ِ او بَد مى آيَد، از این چیزها بَدِش مى آيَد
 - was sein Missfallen erregt; که موجِب ِ ناخُشنودى ِ اوست، ـ عَدَم ِ رِضايَت ِ اوست
-Missgeschick; (pl.)  شَقاوَت، آسيب، مَضيقه (مَضايِق)، بَدبياري
-- ein Missgeschick sein; بَد بياري بودَن
-missgestaltet (z.B. Kleidungsstück); بَدريخت
+Missgeschick; (pl.)  شَقاوَت، آسیب، مَضیقه (مَضايِق)، بَدبیاری
+- ein Missgeschick sein; بَد بیاری بودَن
+missgestaltet (z.B. Kleidungsstück); بَدریخت
 missglücken;
-- die Sache ist missglückt; اين چيز خوب دَرنَيامَد
+- die Sache ist missglückt; این چیز خوب دَرنَیامَد
 missgönnen; رِشک بُردَن
 Missgunst; خُصونَت
-missgünstig; بَد اَنديش، خاصِم
+missgünstig; بَد اَندیش، خاصِم
 misshandeln;  .کِسى را شَل و پَل کَردَن، با کِسى بَد رَفتارى ک
 Misshandlung; بَدرَفتارى
 Missionar; مُرسَل ِ خُداوَند، مُبَشِر
-missionieren; بِشارَت دادَن، اِنجيل را به مَردُم رِساندَن
+missionieren; بِشارَت دادَن، اِنجیل را به مَردُم رِساندَن
 misslich;
 - missliche Lage; بَد بُنه
 - in einer misslichen finanziellen Lage; دَر موِقعيَت ِ بَد مالى
-misslingen; بى نَتيجه ماندَن
+misslingen; بى نَتیجه ماندَن
 missmutig;
 - missmutig sein; پَکَر بودَن
 - missmutig dasitzen; بُغ کَردَن، تُرش رو نِشَستَن
@@ -802,15 +804,15 @@ misstrauisch;
 - die Stille macht ihn misstrauisch; سُکوت، اورا مَشکوک مى کُنَد
 - jem. misstrauisch gegenüber ... machen; کِسى را نِسبَت به ... بَد گُمان کَردَن
 Missverhältnis;
-- er wies auf das Missverhältnis von ... hin; او به تَلفيق ِ ... اِشاره کَرد
-missverständlich; سوء ِ تَفاهُم بَر اَنگيز
+- er wies auf das Missverhältnis von ... hin; او به تَلفیق ِ ... اِشاره کَرد
+missverständlich; سوء ِ تَفاهُم بَر اَنگیز
 Missverständnis; سوء ِ تَفاهُم
-Misswirtschaft; سوء ِ مُديريَت
+Misswirtschaft; سوء ِ مُدیريَت
 Mist; (goh) پِهِن، گُه
-- Kleinvieh macht auch Mist; قَطره قَطره جَمع شَوَد وانِگَهى دَريا شَوَد
+- Kleinvieh macht auch Mist; قَطره قَطره جَمع شَوَد وانِگَهى دَریا شَوَد
 - er hat Mist gebaut; دَسته گُل به آب داد
 - so ein Mist; قَباحَت دارَد
-- Kuhmist ;تَپالة گاو
+- Kuhmist ;تَپالهٔ گاو
 - Tiermist; کود ِ دامى
 - Vogelmist; چَلغوز
 Mistel; دارواش
@@ -818,119 +820,119 @@ Misthaufen; مَزبَله
 Mistkäfer; گُه غَلطاق
 mit; با
 - mit einem Mal; به يِکباره
-- mit Vergnügen; با کَمال ِ مِيل
+- mit Vergnügen; با کَمال ِ مِیل
 - mit Abscheu; از سَر ِ اِکراه
-- mit der Schärfe des Schwertes; به ضَرب ِ شَمشير
+- mit der Schärfe des Schwertes; به ضَرب ِ شَمشیر
 - was du mit ihr gemacht hast, ..; کارى که دَر حَق ِ او کردى
 - mit Knüppeln bewaffnet werden; به چُماقها مُسَلَح شُدَن
 - mit s. haben; هَمراه اش بودَن
 Mitarbeit; هَمکارى
-Mitarbeiter; هَمکار، رَقيب، شَريک
-Mitbestimmung; مُديريَت ِ مُشتَرِک ِ کارگَر و کارفَرما، تَصميم ِ مُشتَرِک
+Mitarbeiter; هَمکار، رَقیب، شَریک
+Mitbestimmung; مُدیريَت ِ مُشتَرِک ِ کارگَر و کارفَرما، تَصمیم ِ مُشتَرِک
 Mitbewerber; هَماوَرد از حِزب
 Mitbewohner; هَم اُطاق
 mitbringen; با خود آوَردَن
 Mitbürger; هَمشَهرى
-Miteigentümer; شَريک اُلمِلک، مالِک ِ مُشاع
-miteinander; با هَمديگَر، با هَم
+Miteigentümer; شَریک اُلمِلک، مالِک ِ مُشاع
+miteinander; با هَمدیگَر، با هَم
 mitfühlend; مُعَزى، دِلسوز، هَمدَرد بودَن
 Mitgebringsel; رَه آوَرد، سوغات، اَرمَغان، دَمراهی
-- das ist ein Mitgebringsel (, mehr nicht); اين از آب گُذَشته است
-Mitgefühl; رأفَت، هَمدَردى، دِلسوزى، حِس ِ دَرد ِ ديگَران
+- das ist ein Mitgebringsel (, mehr nicht); این از آب گُذَشته است
+Mitgefühl; رأفَت، هَمدَردى، دِلسوزى، حِس ِ دَرد ِ دیگَران
 - Mitgefühl haben; دِلسوز بودَن، هَمدَرد ب
 mitgenommen; مَنسوخ شُده، مُستَهلَک ش
-- er sieht mitgenommen aus; حالِش مِثل اينکه کوبيده باشَد، حالَتَش رِقبَت اَنگيز است
-Mitgift; جَهاز، جَهيزيه، کابين
+- er sieht mitgenommen aus; حالِش مِثل اینکه کوبیده باشَد، حالَتَش رِقبَت اَنگیز است
+Mitgift; جَهاز، جَهیزیه، کابین
 Mitglied; (pl.) عُضو (اَعضاء
 Mitgliedsbeitrag; حَق ِ عُضويَت
-Mitgliedskirchen; کِليساهاى ِ اَعضاء
+Mitgliedskirchen; کِلیساهاى ِ اَعضاء
 Mitgliedschaft; عُضويَت
 Mitgliedsstaat; کِشوَر ِ عُضو
 mitkommen; هَمراه ِ کِسى بودَن
-- die mit den anderen nicht mitkommen; آنهائى که از ديگَران جا مى اُفتَند
+- die mit den anderen nicht mitkommen; آنهائى که از دیگَران جا مى اُفتَند
 - ich komme mit Euch mit; مَن با شُما مى آيَم
-- er kommt nicht mit (nicht verstehen); دو زارى اش دير مى اُفتَد
+- er kommt nicht mit (nicht verstehen); دو زارى اش دیر مى اُفتَد
 Mitkonkurrent; هَماوَرد از حِزب
-mitkriegen; مُلتَفِت شُدَن، فَهميدن
-Mitläufer; رَفيق ِ نيمه راه
+mitkriegen; مُلتَفِت شُدَن، فَهمیدن
+Mitläufer; رَفیق ِ نیمه راه
 Mitleid; هَمدَردى، دِلسوزى
-- Mitleid erregender Zustand; حالَت ِ رِقَت اَنگيز، حالَت ِ دِلسوزى
-- Mitleid mit jem. haben; دَست ِ تَفَقُد به کِسى کِشيدَن
-- Mitleid erfasste mich für ...; دِلَم بَراي ِ کِسي کَباب مي شَوَد
-- sie hatten Mitleid mit mir; دِلِشان کَباب شُد بَراي ِ مَن
+- Mitleid erregender Zustand; حالَت ِ رِقَت اَنگیز، حالَت ِ دِلسوزى
+- Mitleid mit jem. haben; دَست ِ تَفَقُد به کِسى کِشیدَن
+- Mitleid erfasste mich für ...; دِلَم بَرای ِ کِسی کَباب می شَوَد
+- sie hatten Mitleid mit mir; دِلِشان کَباب شُد بَرای ِ مَن
 Mitleidenschaft;
-- der Krieg zog ... in Mitleidenschaft; تَوَسُط ِ جَنگ ... به مُصيبَت کِشيده شُد
+- der Krieg zog ... in Mitleidenschaft; تَوَسُط ِ جَنگ ... به مُصیبَت کِشیده شُد
 mitleidig; رَؤوف، دِلسوز
-mitmachen; هَمدَست شُدَن، شَريک بودَن، شِرکَت کَردَن، اِقتِداء ک.، هَمکارى ک
+mitmachen; هَمدَست شُدَن، شَریک بودَن، شِرکَت کَردَن، اِقتِداء ک.، هَمکارى ک
 Mitmensch; هَمنوع، بِنى آدَم
 mitnehmen; بَر داشتَن، با خود بُردن
-- jem. mitnehmen; کِسى را سَوار کَردَن، ـ بُردَن به يک جا
+- jem. mitnehmen; کِسى را سَوار کَردَن، ـ بُردَن به یک جا
 - Brot auf die Reise mitnehmen; بَراى ِ سَفَر با خود نان بِهَمراه بُردن
-- wenn ich mir ... mitnehmen dürfte; اَگَر اِجازة هَمراه داشتَن ِ ... داده ميشُد
+- wenn ich mir ... mitnehmen dürfte; اَگَر اِجازهٔ هَمراه داشتَن ِ ... داده میشُد
 - ich nehme die Bücher mit; کِتابهارا هَمراه ِ خود مى بَرَم
-- das nimmt mich mit; اين خِيلى بَر مَن تأثير مى گُذارَد
+- das nimmt mich mit; این خِیلى بَر مَن تأثیر مى گُذارَد
 - er nahm 5 Leute mit; او ۵ نَفَر هَمراه ِ خود بُرد
 mitreissen;
 - mitreissende Worte; کَلَمات ِ مَجذوب کُنَنده
-- mitreissende Vision der Brüderlichkeit; رويائى ِ چِنان اِلهام اَنگيز دَربارة بَرادَرى
+- mitreissende Vision der Brüderlichkeit; رویائى ِ چِنان اِلهام اَنگیز دَربارهٔ بَرادَرى
 Mittag; ظُهر
 Mittagessen; ناهار
-Mitte; وَسَط، مَرکَز، ميان
+Mitte; وَسَط، مَرکَز، میان
 - Mitte Mai; اَواسِط ِ ماه ِ مِه
 - er ist Mitte Fünfzig; او حُدود ِ ۵۰ سال دارَد
 - zur Mitte des Hügels gehen; به کَمَرکِش تَپه رَفتَن
-- Partei der Mitte; حِزب ِ ميانه رو
+- Partei der Mitte; حِزب ِ میانه رو
 mitteilen; اِبلاغ کَردَن، باز نِمودَن
 - ich muss Ihnen mitteilen, dass ..; بايَد به اِطِلاع ِ شُما بِرِسانَم که، بايَد به عَرضِتان بِرِسانَم که
 Mitteilung; اِبلاغ، اِعلام
-- Pressemitteilung (*: Bericht); اِطِلاعية مَطبوعاتى
-Mittel; (pl.) وَسيله (وَسائِل
+- Pressemitteilung (*: Bericht); اِطِلاعیهٔ مَطبوعاتى
+Mittel; (pl.) وَسیله (وَسائِل
 - die Mittel dazu haben; (tou) تو وَرداشتَن
 - Mittel zum Leben; نَوا، وَسائِل ِ زِندِگى، لَوازِم ِ مَعاش
 - sie versuchten mit allen Mitteln, ...; آنها هَرچه از دَستِشان بَر مى آيَد تَلاش کَردَند
 - Existenzmittel; وَسائِل ِ گُذَران، ـ زِندِگى، آب و دانه، وَجه ِ مَعاش
-- Produktionsmittel; اَبزار ِ توليد
+- Produktionsmittel; اَبزار ِ تولید
 Mittelalter; قُرون ِ وُسطىٰ
-- um das Mittelalter in Erinnerung zu bringen; تا دوران ِ قُرون ِ وُسطىٰ را بِخاطِر بياوَرَد
-mittelbar; غِير ِ مُستَقيم
-Mittelfinger; اَنگُشت ِ ميانى
-mittelfristig; ميان مُدَت
+- um das Mittelalter in Erinnerung zu bringen; تا دوران ِ قُرون ِ وُسطىٰ را بِخاطِر بیاوَرَد
+mittelbar; غِیر ِ مُستَقیم
+Mittelfinger; اَنگُشت ِ میانى
+mittelfristig; میان مُدَت
 mittelhart;
-- mittelharter Käse; پَنير ِ نيمه صِفت
-- er war so der übliche mittelharte Typ; او از هَمان نيمچة خَشِنهاي ِ مَعمولي بود
-Mittelklasse (z.B. Auto); دَرَجة مُتَوَسِط
+- mittelharter Käse; پَنیر ِ نیمه صِفت
+- er war so der übliche mittelharte Typ; او از هَمان نیمچهٔ خَشِنهای ِ مَعمولی بود
+Mittelklasse (z.B. Auto); دَرَجهٔ مُتَوَسِط
 mittellos; بى سَر و سامان، نَدار
 - mittellos sein; آه نَداشتَن که با ناله سودا کَردَن
-- sie wurden mittellos; آنها بى چيز شُدَند، به اِفلاس اُفتادَند
+- sie wurden mittellos; آنها بى چیز شُدَند، به اِفلاس اُفتادَند
 - soll ich dich mittellos auf das Fest schicken?;سَر و کون ِ بِرَحنه بِبَرَمِت جَشن
-- bedürftig und mittellos; آب دَر جِگَر نَداشتَن، سَخت مُحتاج و فَقير بودَن
+- bedürftig und mittellos; آب دَر جِگَر نَداشتَن، سَخت مُحتاج و فَقیر بودَن
 Mittellosigkeit; اِفلاس، نادارى، تَنگدَستى
 mittelmässig;
-- der Film hat eine mittelmässige Handlung; فيلم داستانى ِ پيش ِ پا اُفتاده دارَد
-Mittelmeer; دَرياى ِ مِديتِرانه
-Mittelost; خاورِميانه
-Mittelpunkt; نُقظة مَرکَزي
+- der Film hat eine mittelmässige Handlung; فیلم داستانى ِ پیش ِ پا اُفتاده دارَد
+Mittelmeer; دَریاى ِ مِدیتِرانه
+Mittelost; خاورِمیانه
+Mittelpunkt; نُقظهٔ مَرکَزی
 - s. in den Mittelpunkt stellen; دوررا از دَست ِ هَمه گِرِفتَن، يِکه تازى کَردَن، خودرا دَر مَرکَز قَرار دادَن
-Mittelschicht; طَبَقة مُتَوَسِط
+Mittelschicht; طَبَقهٔ مُتَوَسِط
 Mittelstreifen;
-- durchgezogener Mittelstreifen (z.B. auf der Strasse); فاصِلة اِحتياطى طَرَفين
+- durchgezogener Mittelstreifen (z.B. auf der Strasse); فاصِلهٔ اِحتیاطى طَرَفین
 Mittelweg;
-- den goldenen Mittelweg gehen; ميانه رَوى کَردَن
-- geh den goldenen Mittelweg; ميان رو باش، ميانه رَوى کُن
+- den goldenen Mittelweg gehen; میانه رَوى کَردَن
+- geh den goldenen Mittelweg; میان رو باش، میانه رَوى کُن
 mitten; مُتَمَرکِز، دَر وَسَط
 - mitten in der Nacht; دَر دِل ِ شَب
 - mitten im Winter; دَر قَعر ِ زِمِستان
-Mitternacht; نيمه شَب، نِصف ِ شَب
-- Land der Mitternachtssonne; سَرزَمين ِ آفتاب نيمه شَب
+Mitternacht; نیمه شَب، نِصف ِ شَب
+- Land der Mitternachtssonne; سَرزَمین ِ آفتاب نیمه شَب
 mittler;
-- er ist im mittleren Alter; او آدَم ِ ميان سال است
+- er ist im mittleren Alter; او آدَم ِ میان سال است
 - mittlerer Dienst; خِدمَت ِ اِجرائى ِ مُتَوَسِط
 - mittlere Schiene; خَط ِ مُتَوَسِط
 Mittler (m); واسِطه
-mittlerweile; دَر اين ميان، دَر اين بِين
+mittlerweile; دَر این میان، دَر این بِین
 Mittwoch; چَهارشَنبه
 mitwirken;
-- an einer Sache mitwirken; دَستى دَر چيزى داشتَن
+- an einer Sache mitwirken; دَستى دَر چیزى داشتَن
 Mitwirkender; هَمکار
 - wer sind die Mitwirkenden? (i.S. :Fachleute); عَوامِل ِ دَست اَندَر کاران چه کِسانى هستَند؟
 mixen; مَخلوط کَردَن، قاطى ک
@@ -940,18 +942,18 @@ Mob; غوغاگَر
 mobben; توسَری زَدَن
 - gemobbt werden; توسَری خوردَن
 - jem., der gemobbt wird; توسَری خور
-Mobbing; آش بَراى ِ کِسى پُختَن، بَراى ِ اَذيَت و تَنبية کِسى تَصميمى گِرِفتَن و تَدارُکى ديدَن
+Mobbing; آش بَراى ِ کِسى پُختَن، بَراى ِ اَذيَت و تَنبیهٔ کِسى تَصمیمى گِرِفتَن و تَدارُکى دیدَن
 Möbel; مُبل
 mobil; سالِم و سَر ِ حال، مُتَحَرِک
-Mobiliar; اثاثيه، وَسائل و آثاث
+Mobiliar; اثاثیه، وَسائل و آثاث
 Mobilien; مَنقولات، اَموال ِ مَنقول
-mobilisieren; به بَسيج پَرداختَن، به تَجهيز ـ، بَسيج کَردَن
-- er mobilisiert seine Streitkräfte gegen ihn; او لَشکَر ِ خودرا بَراى ِ حَمله به او بَسيج مى کُنَد
-Mobilisierung; (Teil-, allgemeine -) بَسيج، تَجهيز، قُشون گيرى (ـ جُزئى، ـ هَمِگانى
+mobilisieren; به بَسیج پَرداختَن، به تَجهیز ـ، بَسیج کَردَن
+- er mobilisiert seine Streitkräfte gegen ihn; او لَشکَر ِ خودرا بَراى ِ حَمله به او بَسیج مى کُنَد
+Mobilisierung; (Teil-, allgemeine -) بَسیج، تَجهیز، قُشون گیرى (ـ جُزئى، ـ هَمِگانى
 Mobilität; تَحَرُک
 - Aufstiegsmobilität; تَحَرُک ِ سُعودى، ـ تَرَقى
-Mobilmachung; (Teil-, allgemeine -) بَسيج، تَجهيز، قُشون گيرى (ـ جُزئى، ـ هَمِگانى
-Mobiltelefon; تِلِفُن ِ هَمراه، مُبايل
+Mobilmachung; (Teil-, allgemeine -) بَسیج، تَجهیز، قُشون گیرى (ـ جُزئى، ـ هَمِگانى
+Mobiltelefon; تِلِفُن ِ هَمراه، مُبایل
 möbliert; مُبله اى
 - möbliertes Zimmer; مُبله، اُطاق ِ مُبله اى
 Modalität; شَرط
@@ -959,89 +961,89 @@ Modalität; شَرط
 Mode; مُد
 - aus der Mode kommen; وَر اُفتادَن، از مُد اُفتادَن
 - in Mode kommen; باب شُدَن
-Model; مُدِل ِ عَکاسي
-Modell; مُدِل، تيپ
+Model; مُدِل ِ عَکاسی
+Modell; مُدِل، تیپ
 - Photomodell; مُدِل ِ عَکاسى
 - im vorliegenden Modell; دَر مُدِل ِ اِرائه شُده
-- Modelldefinitionen (zur Beschreibung bestimmter Phänomene); طَريقى بَراى ِ تَصَوُر ِ يِک فَرضيه است که بَر اَساس ِ حَقايِق ِ دانِسته شُدها اِرائه شُده است، تَجَسُم ِ يِک ساختِمان و شِناخت ِ قِسمَتهاى ِ مُختَلِف ِ آن دَر رابِطه با يِِکديگَر اِطلاق کَرده مى شَوَد
+- Modelldefinitionen (zur Beschreibung bestimmter Phänomene); طَریقى بَراى ِ تَصَوُر ِ يِک فَرضیه است که بَر اَساس ِ حَقايِق ِ دانِسته شُدها اِرائه شُده است، تَجَسُم ِ يِک ساختِمان و شِناخت ِ قِسمَتهاى ِ مُختَلِف ِ آن دَر رابِطه با يِِکدیگَر اِطلاق کَرده مى شَوَد
 Modellschreiner; مُدِلساز ِ دُرودگَرى
 Modem; مودِم
 Moder; پَرمَک، خَزه، کَپَک زَدِگى
 Moderation; راهنَمائى ِ بَرنامه
-Moderator; مُجرى ِ بَرنامه، اِجرا کُنَندة ـ
+Moderator; مُجرى ِ بَرنامه، اِجرا کُنَندهٔ ـ
 Modergeruch; بوى ِ زَهم
-modern; مُدِرن، نوين
-- moderne Kleidung; لِباس ِ نوين
-Moderne (f); روزِگار ِ کُنوني
+modern; مُدِرن، نوین
+- moderne Kleidung; لِباس ِ نوین
+Moderne (f); روزِگار ِ کُنونی
 - die Moderne in der Kunst; هُنَر ِ اِمروزه
 - Antike & Moderne; عَصر و دَهه
 modernisieren; نوسازى کَردَن، نو ک
 Modernisierung; نوسَزا، نوسازى
-Modernismus; نوآئينى، تَجَدُد طَلَبى
-Modifizierung; تَغيير، تَعديل
-modisch; شيک و پيک
+Modernismus; نوآئینى، تَجَدُد طَلَبى
+Modifizierung; تَغییر، تَعدیل
+modisch; شیک و پیک
 - altmodisch; وَر اُفتاده، از مُد اُفتاده
 modrig; نَموَر، نَم دار
 Modul; واحِد
 - der Unterricht besteht aus mehreren Modulen; دَرس شامِل ِ واحِدهاى ِ مُختَلِف است
-Modus; شيوه
-- Modus Operandi; شيوة عَمَل
-- Modus Vivendi; شيوة زيست (قابِل ِ تَحَمُل بِين ِ طَرَفِين
-mogeln; فَريب دادَن، سَر ِ کِسي کُلاه گُذاشتَن
+Modus; شیوه
+- Modus Operandi; شیوهٔ عَمَل
+- Modus Vivendi; شیوهٔ زیست (قابِل ِ تَحَمُل بِین ِ طَرَفِین
+mogeln; فَریب دادَن، سَر ِ کِسی کُلاه گُذاشتَن
 mögen; دَرخواست کَردَن، خواستَن
 - Geschichten mögen; قِصه هارا دوست داشتَن
-- ich möchte ... (*: wollen); من دَرخواست ِ چيزى مى کُنَم، دِلَم مى خواهَد
+- ich möchte ... (*: wollen); من دَرخواست ِ چیزى مى کُنَم، دِلَم مى خواهَد
 - ich möchte gehen; مى خواهَم بِرَوَم
 - um .... möchte ich gerne ...; به هَواى ِ ..، به آرِزوى ِ ..، به سوداى ِ
-- überall, wo Sie möchten; دَر هَر جا که تَمايُل داريد
-- wer möchte das machen?; کى حالَش را دارَد تا اين کار را اَنجام بِدَهَد؟
+- überall, wo Sie möchten; دَر هَر جا که تَمايُل دارید
+- wer möchte das machen?; کى حالَش را دارَد تا این کار را اَنجام بِدَهَد؟
 - ich mag sie; مَن اورا دوست دارَم، دوستَش دارَم
-- ich mag das nicht; از اين چيزها خوشَم نِمى آيَد، ـ بَدَم مى آيَد
+- ich mag das nicht; از این چیزها خوشَم نِمى آيَد، ـ بَدَم مى آيَد
 - mag sein, möglicherweise; لابُد
 möglich;
-- möglich sein; مَقدور بودَن، اِمکان پَذير ب
-- welches Programm hältst du für möglich?; چه برنامه اي مُتَصَوَر هَستيد؟
-- es ist gut möglich, dass .. (*: wahrscheinlich); لابُد، بَعيد نيست
+- möglich sein; مَقدور بودَن، اِمکان پَذیر ب
+- welches Programm hältst du für möglich?; چه برنامه ای مُتَصَوَر هَستید؟
+- es ist gut möglich, dass .. (*: wahrscheinlich); لابُد، بَعید نیست
 - es ist möglich, dass einige sagen, dass ...; بَعضى مُمکِن است بِگويَند که
 - wenn es möglich ist; حَتىٰ اَلاِمکان، اَگَر مُمکِن باشد، شايَد
 - ist es möglich, dass ...?; اِمکانِش هَست که، مُمکِن است که
-- es ist mir nicht möglich; بَراى ِ مَن مَقدور نيست
+- es ist mir nicht möglich; بَراى ِ مَن مَقدور نیست
 - es war nicht möglich; مَجال نَشُده بود
-- durch seine Tat machte er das möglich; با عَمَلَش اين را مُيَسِر ساخت
-- wegen .. war ein Besuch nicht möglich; به عِلَت ِ .. ديدار مُيَسِر نَشُد
-- für möglich halten; بَعيد نِمى دانِستَن، مُتَصَوَر بودَن
+- durch seine Tat machte er das möglich; با عَمَلَش این را مُيَسِر ساخت
+- wegen .. war ein Besuch nicht möglich; به عِلَت ِ .. دیدار مُيَسِر نَشُد
+- für möglich halten; بَعید نِمى دانِستَن، مُتَصَوَر بودَن
 - es ist ihm nicht möglich, zu heiraten (kein Geld, etc); اِستِطاعَت ِ اِزدِواج نَدارَد
 möglicherweise;
 - möglicherweise, damit, um zu; تا بَلکه، حَتىٰ اَلاِمکان
 - möglicherweise mit .. veranstalten; اِمکانا با شِرکَت ِ فِلان بَرگُزار مى شَوَد، مُمکِن است با ـ
-- wir wollten möglicherweise dort Arbeit bekommen; ميخواستيم بَلکه کارى در آن بِدَست آوَريم
+- wir wollten möglicherweise dort Arbeit bekommen; میخواستیم بَلکه کارى در آن بِدَست آوَریم
 Möglichkeit; اِمکان
 - Möglichkeit haben; مَجال داشتَن، اِمکان د
 - nach Möglichkeit; حَتىٰ اُلمَقدور، عِند اُلاِمکان
 - nach Möglichkeit am Samstag durchführen; حَتىٰ اَلاِمکان روز ِ شَنبه بَرگُزار شَوَد
-- warum hat nicht jeder die Möglichkeit?; چِرا طورى نيست که هَر کَس اِستِطاعَتَش بِرِسَد
-- die Möglichkeit, dass ..; اِمکان ِ اينکه
-- es gibt nur diese beiden Möglichkeiten; از دو حال خارِج نيست، دو چيز بيشتَر وُجود نَدارَد
+- warum hat nicht jeder die Möglichkeit?; چِرا طورى نیست که هَر کَس اِستِطاعَتَش بِرِسَد
+- die Möglichkeit, dass ..; اِمکان ِ اینکه
+- es gibt nur diese beiden Möglichkeiten; از دو حال خارِج نیست، دو چیز بیشتَر وُجود نَدارَد
 - Möglichkeit geben; دَسترِسى داشتَن
 möglichst;
 - möglichst früh; هَر چه زودتَر
 Mohn; خَشخاش
-Möhre; هَويج
+Möhre; هَویج
 Mole; اِسکِله
 Molekül; مولِکول
-Molke; آب پَنير، کَشک
-Molkerei; صِنايِع ِ لَبَنيات
-Moll; مينور
+Molke; آب پَنیر، کَشک
+Molkerei; صِنايِع ِ لَبَنیات
+Moll; مینور
 mollig; گوشتالو، چاق و چِله
-- hier ist es mollig warm; اينجا گَرم و نَرم است
+- hier ist es mollig warm; اینجا گَرم و نَرم است
 Moment;
 - Moment, Augenblick; طَرفه، دَم، لَحظه
 - statisches Moment; گَشتاور
 - in jedem Moment; دَم بِدَم، هَر لَحظه
 - ein flüchtiger Moment; لَمحِه
-- für einen Moment reinschauen; يِک تَک پا هَم ميايَم به مَنزِلِت
-- aus einem Moment werden 2 Wochen; تَک پا ميشَوَد ۲ هَفته
-- im letzten Moment das Geld auftreiben; با هِزار جان کَندَن پول را تأمين کَردَن
+- für einen Moment reinschauen; يِک تَک پا هَم میايَم به مَنزِلِت
+- aus einem Moment werden 2 Wochen; تَک پا میشَوَد ۲ هَفته
+- im letzten Moment das Geld auftreiben; با هِزار جان کَندَن پول را تأمین کَردَن
 momentan;
 - momentan, im Augenblich; فِعلاً
 - momentan, kurzlebig; آنى، لَحظه اى، زودگُذَر
@@ -1050,18 +1052,18 @@ Monarch; پادِشاه
 Monarchie; سَلطَنَت، پادِشاهى
 - konstitutionelle Monarchie; سَلطَنَت ِ مَشروطه
 Monat; ماه
-monatlich; ماهانه، ماهيانه
-- monatliche Entlohnung; شَهريه، اُجرَت ِ ماهانه
-- im monatlichen Turnus; از طَريق ِ ماهواره
+monatlich; ماهانه، ماهیانه
+- monatliche Entlohnung; شَهریه، اُجرَت ِ ماهانه
+- im monatlichen Turnus; از طَریق ِ ماهواره
 Monatsbericht; گُزارِش ِ ماهانه
-Monatsgehalt; ماهوارى، حُقوق ِ ماهيانه
-Monatsnamen; اَسامي ِ ماها
-- 21. März - 20. April	(31Tage); فَروَردين 
-- 21. April - 21. Mai	(31 - " -); اُرديبِهِشت
+Monatsgehalt; ماهوارى، حُقوق ِ ماهیانه
+Monatsnamen; اَسامی ِ ماها
+- 21. März - 20. April	(31Tage); فَروَردین 
+- 21. April - 21. Mai	(31 - " -); اُردیبِهِشت
 - 22. Mai - 21. Juni  (31 - " -); خُرداد
-- 22. Juni - 22. Juli  (31 - " -); تير
+- 22. Juni - 22. Juli  (31 - " -); تیر
 - 23. Juli - 22. August (31 - " -); مُرداد
-- 23. August - 22. September (31 - " -); شَهريوَر
+- 23. August - 22. September (31 - " -); شَهریوَر
 - 23. September - 22. Oktober	(30 - " -); مِهر
 - 23. Oktober - 21. November	(30 - " -); آبان
 - 22. November - 21. Dezember (30 - " -); آذَر
@@ -1075,15 +1077,15 @@ Mondfinsternis; خُسوف ِ قَمَر، ماهگِرِفتِگى، اِنخِ
 Mondschein; ماهتاب، مَهتاب
 - wie das Hundegekläff bei Mondschein; مانَند ِ پارس ِ سَگ دَر شَب ِ مَهتاب
 Mondsichel; هِلال ِ ماه
-Mondviertel (1. Viertel); ماه دَر طَربيع ِ اَوَل
-Monitor; مانيتور
+Mondviertel (1. Viertel); ماه دَر طَربیع ِ اَوَل
+Monitor; مانیتور
 monogam; شَخص ِ يِک هَمسَر
 Monogamie; با يِک شَخص مُتأهِل بودَن
-Monogramm; طُغراء، اَوَلين حَرف ِ نام
+Monogramm; طُغراء، اَوَلین حَرف ِ نام
 Monokratie; تَکسالارى
 Monopol; اِنحِصار
 - das Monopol auf ... (z.B. auf eine bestimmte Marke); مُنحَصِر به
-- Die Firma hat das Kaffeemonopol;  -اين شِرکَت دارای انحِصار توليد قَهوه است، - حَق ِ توليد
+- Die Firma hat das Kaffeemonopol;  -این شِرکَت دارای انحِصار تولید قَهوه است، - حَق ِ تولید
 monopolisieren; به اِنحِصار دَر آوَردَن
 monopolisiert; مُنحَصِر
 monopolistisch; اِنحِصار گِرانه، اِنحِصارى
@@ -1092,27 +1094,27 @@ Monostruktur; تَک ساختار
 monotheistisch; مُوَحِد
 monoton; يِکنَواخت
 Monowirtschaft; اِقتِصاد ِ يِکجانِبه
-monströs; هَيولائى
-Monstrum; هِيولا
+monströs; هَیولائى
+Monstrum; هِیولا
 Montag; دوشَنبه
 Montage; مونتاژ
 Montagegerüst; چوب بَست ِ مونتاژ
 Montanindustrie; صَنعَت ِ مَعَدَن و فولاد
-Montanunion; اِتِحادية زُغال و فولاد ِ اُروپا
-Monteur; مونتاژکار، تَعميرکار، مِکانيک
+Montanunion; اِتِحادیهٔ زُغال و فولاد ِ اُروپا
+Monteur; مونتاژکار، تَعمیرکار، مِکانیک
 montieren; وَصل کَردَن، نَصب ک
 Monument; مُجَسَمه
-monumental; خِيلي بُزُرگ، عَظيم
+monumental; خِیلی بُزُرگ، عَظیم
 - monumentaler Fehler; خَطاى ِ کِران
 Moor; مُرد آب،باتلاق
 Moos; خَزه
-- ohne Moos nix los (popul.); بي پول هيجي نِميشه
-Moped; مُتُر گازى، مُتُر سيکلِت ِ گاز سوز
+- ohne Moos nix los (popul.); بی پول هیجی نِمیشه
+Moped; مُتُر گازى، مُتُر سیکلِت ِ گاز سوز
 moppelig; خِپله، تُپُلی
-mopsen; ناخُنَک زَدَن، به جيب ز.، کِش رَفتَن
+mopsen; ناخُنَک زَدَن، به جیب ز.، کِش رَفتَن
 Moral; اَخلاق
 - die Moral von der Geschicht; از قِصه حِصه گِرِفتَن
-- Kampfmoral; روحية رَزمى
+- Kampfmoral; روحیهٔ رَزمى
 moralisch; اَخلاقى
 moralisieren; اَخلاقى کَردَن
 Moralpredigt; نُطق ِ غَرا
@@ -1121,67 +1123,67 @@ Moratorium; اِستِمهال
 Mord; آدَم کُشى، قَتل
 Mörder; قاطِل، آدَم کُش
 mörderisch; آدَم کُشانه
-- mörderischer Wettbewerb; رِقابَت ِ آدَمکُشانه، ـ وَحشيانه، ـ وَحشَتناک
+- mörderischer Wettbewerb; رِقابَت ِ آدَمکُشانه، ـ وَحشیانه، ـ وَحشَتناک
 mordgierig; خون آشام
 morgen; فَردا
 - übermorgen; پَس فَردا
 Morgen; صُبح
-Morgenbrise; صَبَح، نِسيم صُبح
-Morgendämmerung; بامداد، هَوا هَنوز گُرگ و ميش است، شَفَق ِ صُبح گاهى، سِپيدة صُبح، دَر تاريک و روشَن ِ هَوا
-- Morgendämmerung (poes.); فَجر، طَليفة فَجر
-Morgengabe; مِهر، مِهريه، شيربَها
-Morgenland; مَشرِق زَمين
+Morgenbrise; صَبَح، نِسیم صُبح
+Morgendämmerung; بامداد، هَوا هَنوز گُرگ و میش است، شَفَق ِ صُبح گاهى، سِپیدهٔ صُبح، دَر تاریک و روشَن ِ هَوا
+- Morgendämmerung (poes.); فَجر، طَلیفهٔ فَجر
+Morgengabe; مِهر، مِهریه، شیربَها
+Morgenland; مَشرِق زَمین
 Morgenrot; طُلوع ِ آفتاب
 morgens; صُبح
-- von morgens bis abends saß er da; بام تا شام مي نِشَست
+- von morgens bis abends saß er da; بام تا شام می نِشَست
 - frühmorgens; پَگاه، بامداد، صُبح ِ زود، صُبح ِ اَول ِ صُبح
-Morphium; مُرفين، مورفين
+Morphium; مُرفین، مورفین
 Morphologie; اَندام شِناسى
-morsch; پوسيده
-- ein morscher hölzener Stuhl; يِک صَندلي ِ چوبي زِهوار دَر رَفته
+morsch; پوسیده
+- ein morscher hölzener Stuhl; يِک صَندلی ِ چوبی زِهوار دَر رَفته
 morsen; مُرس زَدَن
 Mörser; هاوِن
-- im Mörser zerstampfen; دَر هاوِن کوبيدَن
-Morsetaste; تُکمة مورس
+- im Mörser zerstampfen; دَر هاوِن کوبیدَن
+Morsetaste; تُکمهٔ مورس
 Mörtel; مِلاط، ساروج
-Mosaik; خاتِم کارى، موزائيک
+Mosaik; خاتِم کارى، موزائیک
 Moschee; (pl.) مَسجِد (مَساجِد
 Moschus; زَباد، مِشک
 Mose; موسىٰ
 Moskito; پَشه
 Moskitonetz; پَشه پَران، پَشه بَند
 Moslem; (pl.) مُسلِم (مُسَلمان
-Moslembrüder; اَخوان ِ مُسلِمين
+Moslembrüder; اَخوان ِ مُسلِمین
 moslemisch; اِسلامى
 Most; آب ِ اَنگور
-Motiv; دَليل، سَبَب
+Motiv; دَلیل، سَبَب
 - persönliches Motiv; غَرَض و مَرَض
-Motivation; اَنگيزه، آرمان
-Motivationsbremse; حال گيرى
+Motivation; اَنگیزه، آرمان
+Motivationsbremse; حال گیرى
 motivieren;
-- jem. zu etwas motivieren (*: anstacheln); کِسى را واداشتَن که، ـ به چيزى سوق دادَن
-- das motiviert mich überhaupt nicht; مَرا به هيج وَجه وانِمي دارَد به اينکه
-- politisch motivierter Streik; اِعتِصاب با اَنگيزة سياسى
+- jem. zu etwas motivieren (*: anstacheln); کِسى را واداشتَن که، ـ به چیزى سوق دادَن
+- das motiviert mich überhaupt nicht; مَرا به هیج وَجه وانِمی دارَد به اینکه
+- politisch motivierter Streik; اِعتِصاب با اَنگیزهٔ سیاسى
 Motor; موتور، مُتُر
-Motoraufhängung; تَعليق ِ موتور
+Motoraufhängung; تَعلیق ِ موتور
 Motorboot; قايِق ِ موتورى
-Motorhaube; کاپوت ِ ماشين
-Motorrad; موتور سيکلِت
+Motorhaube; کاپوت ِ ماشین
+Motorrad; موتور سیکلِت
 Motorradfahrer; موتور سَوار
 Motorroller; موتور ِ روروک
-Motte; بيد
+Motte; بید
 Motto; شُعار
 motzen; غُر و لُند کَردَن
-Möve; مُرغ ِ سِفيد ِ دَريائى
+Möve; مُرغ ِ سِفید ِ دَریائى
 Mücke; پَشه
-- aus einer Mücke einen Elefanten machen; کاه را کوه کَردَن، يِک کَلاغ و ۴۰ کَلاغ ميشَوَد
+- aus einer Mücke einen Elefanten machen; کاه را کوه کَردَن، يِک کَلاغ و ۴۰ کَلاغ میشَوَد
 mucken; مُخالِفَت کَردَن
 - ohne zu mucken s. beschimpfen lassen; فُحش را خوردَن و دُم نَزَدَن
 Mucks;
-- er tat keinen Mucks mehr; و ب ِ و ميم را نِمي تَوانِست بِگويَد
+- er tat keinen Mucks mehr; و ب ِ و میم را نِمی تَوانِست بِگويَد
 müde; خَسته
 - den Gegner müde machen; دُشمَن را به سُتوه آوَردَن
-- werde in deinem Eifer nicht müde (*: erlahmen); دَر کوشِش کوتاه نَيا
+- werde in deinem Eifer nicht müde (*: erlahmen); دَر کوشِش کوتاه نَیا
 - müde und zerschlagen; خَسته و کوفته
 - er ist müde geworden; او از پا اُفتاده بود
 - todmüde; خَسته و کوفته
@@ -1189,87 +1191,87 @@ Müdigkeit; خَستِگى
 - Müdigkeit brachte uns um; خَستِگى مارا از پا دَر آوُرد
 Muezzin; مُوَذِن
 Muff; خَز ِ دَست
-- der Muff im Zimmer, Mief; بوي ِ بَد دَر اُطاق
-Muffe; زانوئى، قَطعة اِتِصال ِ دو لوله
-muffig; بوي ِ بَد
+- der Muff im Zimmer, Mief; بوی ِ بَد دَر اُطاق
+Muffe; زانوئى، قَطعهٔ اِتِصال ِ دو لوله
+muffig; بوی ِ بَد
 - muffiger Mensch (*: mürrisch); آدَم ِ خود خور
-- muffiger Geruch; بوي ِ زُهم
+- muffiger Geruch; بوی ِ زُهم
 - muffige Wohnung; مَنزِل ِ خَفه
 Mühe; رَنج، زَحمَت، اِجتِهاد
 - mit Mühe; بِدُشوارى، با رَنجورى
-- s. Mühe geben; به دَست و پا اُفتادَن، زَحمَت کِشيدَن
+- s. Mühe geben; به دَست و پا اُفتادَن، زَحمَت کِشیدَن
 - s. Mühe machen; توى ِ زَحمَت اُفتادَن
-- etwas mit Mühe und Not herbringen; چيزي را به هِن کِشيدَن
+- etwas mit Mühe und Not herbringen; چیزی را به هِن کِشیدَن
 - ... machte mir große Mühe; جانَم به لَبَم آمَد ...
 - das ist der Mühe wert; به زَحمَتَش مى اَرزَد
-- das ist nicht der Mühe wert; آفتابه را خَرج ِ لَحيم کَردَن
-- alle Mühe umsonst; تيرة کِسى به سَنگ خورد، تَلاش ِ کِسى به نَتيجه نَرِسيد
-- Haben uns dafür nicht echt Mühe gemacht?; مَگَر جانِمان را از سَر ِ راه بَرداشته ايم؟
-- ein Mensch, der keine Mühe macht; بَچة بى دَرد ِ سَر
+- das ist nicht der Mühe wert; آفتابه را خَرج ِ لَحیم کَردَن
+- alle Mühe umsonst; تیرهٔ کِسى به سَنگ خورد، تَلاش ِ کِسى به نَتیجه نَرِسید
+- Haben uns dafür nicht echt Mühe gemacht?; مَگَر جانِمان را از سَر ِ راه بَرداشته ایم؟
+- ein Mensch, der keine Mühe macht; بَچهٔ بى دَرد ِ سَر
 - sie hoben die Hände mit Mühe hoch; دَستها بِزَحمَت بُلَند شُدَند
-mühelos; بي زَحمَت
+mühelos; بی زَحمَت
 - mühelos erworbenes Geld; گَنج است بِدون ِ رَنج، پول ِ باد آوَرده
-muhen; ماغ کشيدَن
-Mühle; آسياب، آسيا
-- Handmühle; دَستاس، آسياب ِ دَستى
-- Windmühle; آسياب ِ بادی
-- Wassermühle; آسياب ِ آبی
+muhen; ماغ کشیدَن
+Mühle; آسیاب، آسیا
+- Handmühle; دَستاس، آسیاب ِ دَستى
+- Windmühle; آسیاب ِ بادی
+- Wassermühle; آسیاب ِ آبی
 Mühsal; مَشَقَت، مِحنَت
 mühsam; به زَحمَت، هِن و هِن کُنان
-- mühsam nach Atem ringen; به سَختى نَفَس کِشيدَن، به زَحمَت ـ
+- mühsam nach Atem ringen; به سَختى نَفَس کِشیدَن، به زَحمَت ـ
 Mull; مِشمِش
 Müll; آخال، خاکروبه، آشغال، زُباله، اِسقاطی
 - Sperrmüll; چِرت و پِرت
 Mulla; مُلا
 Müllabfuhr; زُباله کِشى
 Mülleimer; سَطل ِ آشغال، زُباله دان
-Müller; آسيابان
-Müllsammler; آشغال وَرچين
+Müller; آسیابان
+Müllsammler; آشغال وَرچین
 multilateral; چَند جانِبه
-Multimedia; رِسانه هاى ِ ديدارى و شِنيدارى، چَند رِسانه اي
-multinational; کَثير اُلمِله، فَرا مِليَتى
-Multiple-Choice; آزمون ِ چَند گُزينه اى
+Multimedia; رِسانه هاى ِ دیدارى و شِنیدارى، چَند رِسانه ای
+multinational; کَثیر اُلمِله، فَرا مِليَتى
+Multiple-Choice; آزمون ِ چَند گُزینه اى
 Multiplikant; مَضروب
 Multiplikation; عَمَل ِ ضَرب
-- geistliche Multiplikation; تَکثير ِ روحانى
-Multiplikator; مُتَنَفِذ، تَکثير کُنَنده، مَضروب ِ فيه
+- geistliche Multiplikation; تَکثیر ِ روحانى
+Multiplikator; مُتَنَفِذ، تَکثیر کُنَنده، مَضروب ِ فیه
 multiplizieren; ضَرب کَردَن
-- multiplizieren mit ..; چيزى را دَر .. ضَرب کَردَن
-- 4 multipliziert mit 4 gibt 16; چَهار ضَرب دَر چَهار ميشَوَد ۱۶
-Multitasking; سيستِم ِ چَند تَکليفى
-Mumie; موميائى
-mumienartig; موميائى
-mumifizieren; موميائى کَردَن
+- multiplizieren mit ..; چیزى را دَر .. ضَرب کَردَن
+- 4 multipliziert mit 4 gibt 16; چَهار ضَرب دَر چَهار میشَوَد ۱۶
+Multitasking; سیستِم ِ چَند تَکلیفى
+Mumie; مومیائى
+mumienartig; مومیائى
+mumifizieren; مومیائى کَردَن
 Mumm; جُرأت، شُجاعَت، دِلاوَرى، جَسارَت، بى باکى، رِشادَت، حِماسَت
 - wenn du Mumm hast; اَگَر مَرد هَستى
-Mumps; اَروين
+Mumps; اَروین
 Mund; دَهَن، دَهان
-- halt den Mund!; خَفَقون بِگير، خَفه شو
+- halt den Mund!; خَفَقون بِگیر، خَفه شو
 - s. den Mund spülen; غَراره زَدَن
-- s. den Mund verbrennen; اين لَب سوز است
+- s. den Mund verbrennen; این لَب سوز است
 - s. den Mund zuhalten; جِلوى ِ دَهان ِ خودرا گِرِفتَن
-- jem. den Mund verbieten; دَهَن ِ کِسی را سِرويس کَردَن
+- jem. den Mund verbieten; دَهَن ِ کِسی را سِرویس کَردَن
 - jem. etwas in den Mund legen; حَرف توى ِ دَهَن ِ کِسى گُذاشتَن
 - mir läuft das Wasser im Mund zusammen; دَهانَم آب مى اُفتَد
 - er hat einen losen Mund; دَهَنَش لَق است
 - er bekam seinen Mund nicht auf; او لَب از لَب بَر نَداشت
 - den Mund voll nehmen (*: prahlen); لاف زَدَن
-- sie nehmen den Mund mit ... voll; از اين خَرفهای دَهَن پُر کُن می زَنَند
-- in aller Munde sein; بَر سَر ِ زَبانها است، چيزى که وِرد ِ زَبانها است، اِسم ِ او بَر سَر ِ زَبانها مى اُفتَد
+- sie nehmen den Mund mit ... voll; از این خَرفهای دَهَن پُر کُن می زَنَند
+- in aller Munde sein; بَر سَر ِ زَبانها است، چیزى که وِرد ِ زَبانها است، اِسم ِ او بَر سَر ِ زَبانها مى اُفتَد
 Mundart; لَهجه
 Mundbereich; چَک و چانه
-Mündel; (musā - alej-he) تَحت ِ وِصايَت، ـ قِيمومَت، موصى عليه
+Mündel; (musā - alej-he) تَحت ِ وِصايَت، ـ قِیمومَت، موصى علیه
 munden; خوش مَزه بودَن
 münden;
-- das ganze mündet in ...; اين هَمه اَش به ... مُنتَهى ميشَوَد
+- das ganze mündet in ...; این هَمه اَش به ... مُنتَهى میشَوَد
 mundgerecht;
-- mundgerecht sein; سَرد و دَهَن گير شُدَن
-- der Tee muss mundgerecht sein; چاى بايَد لَب پَذير باشَد
+- mundgerecht sein; سَرد و دَهَن گیر شُدَن
+- der Tee muss mundgerecht sein; چاى بايَد لَب پَذیر باشَد
 Mundharmonika; ساز ِ دَهانى
 mündig; بالِغ
 mündlich; شَفاهى
 - mündliche überlieferung; حِکايَت ِ دَهان به دَهان، عَنعَنه
-- die Informationen wurden mündlich überliefert; اِطِلاعات سينه به سينه مُنتَقِل شُد
+- die Informationen wurden mündlich überliefert; اِطِلاعات سینه به سینه مُنتَقِل شُد
 Mundpropaganda;
 - Mundpropaganda betrieben werden; دَهن به دَهن پَخش شُدَن
 Mundraub; دُزدى ِ مَواد ِ غَذائى
@@ -1284,41 +1286,41 @@ Mündung; دَهانه، مَصَب
 Munition; مُهِمات ِ جَنگى
 Munitionsmagazin; خَشاب
 munkeln;
-- wie man so munkelt; اين طور که بويَش مى آيَد
+- wie man so munkelt; این طور که بويَش مى آيَد
 munter; سَر ِ حال، شَنگول
 Münze; سِکه
-- entwertete Münzen; مَسکوکات ِ مَعيوب
+- entwertete Münzen; مَسکوکات ِ مَعیوب
 - geprägte Münzen; مَسکوکات
 mürbe;
 - jem. mürbe machen; کِسى را خَسته کَردَن
 - mürbe, matt sein; دِلخور شُدَن
 - mürbes Fleisch; گوشت ِ تُرد
 murmeln; وِر زَدَن
-- er murmelt vor s. hin; او زير ِ لَب ميگويَد، ـ حَرف ميزَنَد
-Murmelspiel; تيله بازى
+- er murmelt vor s. hin; او زیر ِ لَب میگويَد، ـ حَرف میزَنَد
+Murmelspiel; تیله بازى
 Murmeltier; موش ِ خُرماى ِ کوهى
 murren; غُر و لُند کَردَن
 - über jem. murren; بَر کِسى هَمهَمه کَردَن
 mürrisch; تُرشرو، تَلخ مِزاج
 - mürrisch sein; بُغ کَردَن، تُرش رو نِشَستَن
-- mürrisches Gesicht; چهرة عَبوس، ـ اَخمو
-- er sah ihn mürrisch und schweigsam; اورا دَرهَم و گِرِفته ديد
+- mürrisches Gesicht; چهرهٔ عَبوس، ـ اَخمو
+- er sah ihn mürrisch und schweigsam; اورا دَرهَم و گِرِفته دید
 Mus; پوره
-- Apfelmus; پورة سيب
+- Apfelmus; پورهٔ سیب
 Muschel; صَدَف
 Museum; موزه
-Musik; موسيقى، موزيک
+Musik; موسیقى، موزیک
 - Musik für ... schreiben; آهَنگ ساختَن
 - Musik & Tanz; سِماع و رَقص
 - mit der Musik, Gesang beginnen; به تَرَنُم دَر آوَردَن
 - zur Musik, Singen veranlassen; به تَرَنُم آوَردَن
-Musikanten; مُغَنيان، نَوازَندِگان، مُطرِب
+Musikanten; مُغَنیان، نَوازَندِگان، مُطرِب
 - Strassenmusikant; آواز خوان ِ دوره گَرد
 - Bandmusiker; گُروه نَواز
-Musikband; دَستة موزيک
-Musikbox; جُعبة موسيقى
-Musikinstrument; (pl.) ساز، آلَت (آلات) ِ موسيقى
-- Akkordeon; آکورديون، اُرگ ِ دَستى
+Musikband; دَستهٔ موزیک
+Musikbox; جُعبهٔ موسیقى
+Musikinstrument; (pl.) ساز، آلَت (آلات) ِ موسیقى
+- Akkordeon; آکوردیون، اُرگ ِ دَستى
 - Blasinstrument; ساز ِ بادى
 - Blechinstrument; ساز ِ مِسى
 - Bogengeige; کَمانچه
@@ -1326,11 +1328,11 @@ Musikinstrument; (pl.) ساز، آلَت (آلات) ِ موسيقى
 - Fiedel; طَنور ِ رَباب
 - Flöte; نِى، فلوت
 - Flöte (Hirten -); نِى ِ لَبَک
-- Geige; ويلُن
+- Geige; ویلُن
 - Harfe; چَنگ، بَربَط
 - Horn; کَرنا
 - Klarinette; قَرنِى
-- Klavier; پيانو
+- Klavier; پیانو
 - Laute (arab., mit Ziegenhaut); مَزهَر
 - Laute (iran., aus Holz); عود، بَربَط، لوت
 - Leierkasten; اُرگ ِ نوازها
@@ -1342,82 +1344,82 @@ Musikinstrument; (pl.) ساز، آلَت (آلات) ِ موسيقى
 - Pauke; نَقاره
 - Pauke (Hand -); تُنبَک ِ دَف
 - Posaune; کَرنا
-- Saxophon; ساکسيفون
+- Saxophon; ساکسیفون
 - Schalmei; سُرنا
 - Trommel; تُنبَک، دُمبَک، طَبل
 - Trompete; ترُمپِت
-- Violine; ويلُن
-- Xylophon; زيلوفون
+- Violine; ویلُن
+- Xylophon; زیلوفون
 - Zither; سَنتور
 musizieren; ساز زَدَن، مُطرِبى کَردَن
-Muskatnuss; جوز ِ بويا
-Muskel; (pl.)  (ماهيچه، عَضُله (عَضُلات
-- Muskel, gestreift; ماهيچة مُخَطَط
-- Muskel, glatt; هاهيچة صاف
+Muskatnuss; جوز ِ بویا
+Muskel; (pl.)  (ماهیچه، عَضُله (عَضُلات
+- Muskel, gestreift; ماهیچهٔ مُخَطَط
+- Muskel, glatt; هاهیچهٔ صاف
 Muskelelastizität; اِرتِجاع ِ عَضُلات 
 Muskelerweichung; اِستِرخاء ِ عَضُلات
-Muskelkater; گِرِفتِگى ِ ماهيچه
+Muskelkater; گِرِفتِگى ِ ماهیچه
 - ich habe Muskelkater im Bein; پايَم گِرِفته است
 Muskelkontraktion; اِنقِباض ِ عَضُلات
 Muskelverlängerung; اِنبساط ِ عَضُلات
-muskulös; ماهيچه دار
+muskulös; ماهیچه دار
 Musse; فَراغَت
 - Mussestunden; ساعات ِ فَراغَت
 müssen; بايِستَن، مَجبور بودَن
 - ich muss gehen; مَن بايَد بِرَوَم
-- ich musste gehen; مَن بايَستي بِرَوَم
-- ich musste lachen; قَهقَهة خَنده را سَر دادَم، خَندِه اَم گِرِفت
+- ich musste gehen; مَن بايَستی بِرَوَم
+- ich musste lachen; قَهقَههٔ خَنده را سَر دادَم، خَندِه اَم گِرِفت
 - er musste arbeiten; او بايَست کار کِنَد
-- jedesmal, wenn er (auf die Toilette) muss, soll er es sagen; هَر وَفت که جيش دارَد بايَد بِگويَد
+- jedesmal, wenn er (auf die Toilette) muss, soll er es sagen; هَر وَفت که جیش دارَد بايَد بِگويَد
 müssig;
-- müssig gehen (*: faulenzen); (präs.) تَنبَلى و تَن پَروَرى کَردَن، مُساحِمه پَروانى ک.، تَنبَل بودَن، چَريدَن (می چِرَد)، بيکار و بى عار نِشَستَن
-Müssiggang; تَعَطُل، سَر ِ بهَوائى، بيکارى و بى عارى، تَن آسائى، تَنبَلى، مَگس پَرانى، والَميدِگى، بيعاري
+- müssig gehen (*: faulenzen); (präs.) تَنبَلى و تَن پَروَرى کَردَن، مُساحِمه پَروانى ک.، تَنبَل بودَن، چَریدَن (می چِرَد)، بیکار و بى عار نِشَستَن
+Müssiggang; تَعَطُل، سَر ِ بهَوائى، بیکارى و بى عارى، تَن آسائى، تَنبَلى، مَگس پَرانى، والَمیدِگى، بیعاری
 Müssiggänger; پَرسه زن، وِلگرد، نُخاله، مَگَس ران
 Muster; اُلگو، نِمونه، طَرح، نَقش، سَرمَشق
-- nach unten angeführtem Muster; از قَرار ِ زير
+- nach unten angeführtem Muster; از قَرار ِ زیر
 mustern;
 - jem. von Kopf bis Fuss mustern; کِسى را وَراَنداز کَردَن، ـ وَراَنداختَن
 Musterung;
-- Musterung zum Wehrdienst;  (مُعايِنة پِزِشکى (بَراى ِ خِدمَت ِ نِظامى
+- Musterung zum Wehrdienst;  (مُعايِنهٔ پِزِشکى (بَراى ِ خِدمَت ِ نِظامى
 Mut; جُرأت، شُجاعَت، دِلاوَرى، جَسارَت، بى باکى، رِشادَت، حِماسَت
-- er nimmt seinen Mut zusammen; او به خود جُرأت ميدَهَد
+- er nimmt seinen Mut zusammen; او به خود جُرأت میدَهَد
 - jem. Mut machen; به کِسى دِلدارى دادَن، - قُوَت ِ دِل دادَن
 - s. Mut zusprechen; به خود دِل و جُرأت دادَن
-- jem. fasst Mut; دِل ِ کِسي قُرص مي شَوَد
-- ich hatte keinen Mut; دِل توي ِ دِلَم نَبود
-- ihr Mut sinkt; دِلهايِشان فُرو مى ريزَد
+- jem. fasst Mut; دِل ِ کِسی قُرص می شَوَد
+- ich hatte keinen Mut; دِل توی ِ دِلَم نَبود
+- ihr Mut sinkt; دِلهايِشان فُرو مى ریزَد
 - hab Mut!; شُجاع باش
 - er hat echt Mut; جِگَرِش را دارَد
-Mutation; جَهِش ِ وِراثَت، موتاسيون
-mutig; بى باک، سَر دَر کَف، شُجاع، جَرى، رَشيد، دِلاوَر، مُتَجاسِر، جَسور، دِلدار
+Mutation; جَهِش ِ وِراثَت، موتاسیون
+mutig; بى باک، سَر دَر کَف، شُجاع، جَرى، رَشید، دِلاوَر، مُتَجاسِر، جَسور، دِلدار
 - mutig s. auf den Weg machen; جان به کَف به راه افتادَن
-- ich wurde ein bißchen mutiger; يِک کَم شير شُدَم
+- ich wurde ein bißchen mutiger; يِک کَم شیر شُدَم
 mutlos; دِل افتاده، خَردِل
 mutmassen; اَنگاشتَن، گُمان بُردن، حَدس زَدَن
 mutmasslich; به اِحتِمال، اِحتِمالاً
 Mutter; (pl.) اُم (اُمَهات)، مادَر
-- Schraubenmutter; مُهرة پيچ
+- Schraubenmutter; مُهرهٔ پیچ
 Mutterleib; رَحِم
 mütterlicherseits;
 - Bruder mütterlicherseits; بَرادَر ِ مادَرى
-Muttermal; خيلان، خال
-Muttermund; فَم ِ رَحِم، دَهانة ـ
-mutterseelenalleine; لااِنسان، لاشَريک
-Muttersöhnchen; مامي شوشو
+Muttermal; خیلان، خال
+Muttermund; فَم ِ رَحِم، دَهانهٔ ـ
+mutterseelenalleine; لااِنسان، لاشَریک
+Muttersöhnchen; مامی شوشو
 Muttersprache; زَبان ِ مادَرى
 Muttertag; روز ِ مادَر
 Mutwillen;
 - Mutwillen treiben; تَدَلُل کَردَن
 mutwillig; عَمداً
-- mutwillig etwas kaputtmachen (*: absichtlich); عَمداً چيزى را خَراب کَردَن
+- mutwillig etwas kaputtmachen (*: absichtlich); عَمداً چیزى را خَراب کَردَن
 Mütze; کُلاه
 Myrrhe;  مُر
 Myrthe; آس
-Mysterienspiel; شَبيه
+Mysterienspiel; شَبیه
 mysteriös; مَرموز
 - mysteriöser Anruf; زَنگ ِ کَذائى
 Mysterium; رَمز، سِر
 Mystik; عِرفان، تَصَوُف
 Mystiker; عارِف، سالِک، صوفى
-mystisch; اَفساطيرى، اِسرارآميز، مُبهَم، مَرموز
-Mythos; (pl.)  (اُسطوره (اَساطير
+mystisch; اَفساطیرى، اِسرارآمیز، مُبهَم، مَرموز
+Mythos; (pl.)  (اُسطوره (اَساطیر
