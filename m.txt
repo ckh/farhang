@@ -412,16 +412,16 @@ medial; از راه ِ رِسانه ها
 Medikament; دارو
 Meditation; تَعَمُق ِ فِکرى، تَفَکُر
 - meditative Konzentration; ریاضَت
-Medium; (pl.) وَسیله (وَسائِل
+Medium; (pl.) (وَسیله (وَسائِل
 - audio-visuelle Medien; رِسانه هاى ِ دیدارى و شِنیدارى
 - von anderen Medien übernommen; از رِسانه هاى ِ دیگَر مُنتَقِل شُده
 - Information durch Medien; اِطِلاع رِسانی
-- Massenmedien; رِسانه هاى ِ گُروهى، وَسائِل ِ اِرتِباط ِ جَمعى
+- Massenmedium; رِسانهٔ گُروهى
 - Medien-Center; دَفتَر ِ رِسانه ها
-Medizin; رِشتهٔ پِزِشکى
+Medizin; رِشتهٔ پِزِشکى، طِب
 - Medizin, Medikament; دارو
-- hergebrachte Medizin (i.S.: medizin. Verfahren); طِب ِ سُنَتی
-Mediziner; پِزِشک
+- hergebrachte Medizin; طِب ِ سُنَتی
+Mediziner; پِزِشک، طَبیب
 medizinisch; پِزِشکى
 - medizinische Untersuchung; مُعايِنهٔ پِزِشکى
 Meer; (pl.) بَحر (بِحار)، دَریا
@@ -453,25 +453,25 @@ Mehrheit; اَکثَريَت
 - mit knapper Mehrheit regieren; با اَکثَريَت ِ کَمى حُکومَت کَردَن
 mehrkernig; چَند هَسته اى
 mehrmals; دَفِعات، مُکَرَر، بارها، چَندین بار، به کَرات
-Mehrparteiensystem; نَظام ِ چَند حِزبى
+Mehrparteiensystem; نِظام ِ چَند حِزبى
 mehrseitig; چَند جانِبه
 mehrsilbig; چَند هِجائى، چَند سیلابى
 Mehrwertsteuer; مالیات بَر مَصرَف
 Mehrzahl; جَمع
-- Einzahl & Mehrzahl; مُفرَد و جَمع
+- Einzahl & Mehrzahl; مُفرِد و جَمع
 meiden; اِجتِناب کَردَن
 - er wird gemieden; مَنفور میشَوَد
 mein; مال ِ مَن
 Meineid; سوگَند ِ دُروغ، قَسَم شِکَنى، سوگَند ـ
 meineidig; قَسَم شِکَن
-- meineidig werden; زِنهار خوردَن
+- meineidig werden (bei Verträgen); زِنهار خوردَن
 meinen; فِکر کَردَن
 - was meinen Sie dazu?; نَظَرِتان دَر این مورِد چیه؟
-- was meint er damit?; چه کاسه ای زیر ِ نیم کاسه اَش است
+- was meint er damit? (i.S.: welche Absicht hat er?); چه کاسه ای زیر ِ نیم کاسه اَش است
 - wie Sie meinen; هَر طورى ِ که شُما مايِل باشید
 - dich meine ich; به تو هَستَم، مَنظورَم توئى
 - was damit gemeint ist; که چه چیزى مَنظور ِ نَظَر است
-- als sie verstanden, dass sie mit ... gemeint sind; وَقتیکه مُتَوَجه شُدَند که مَنظور ِ ... خود آنها است
+- als sie verstanden, dass sie mit ... gemeint sind; وَقتیکه مُتَوَجه شُدَند که مَنظور ِ ... خود ِ آنها است
 meinetwegen; مُشکِلى نَدارَد، باشه
 Meinung (pl.);  (نَظَر (اِنظار)، عَقیده (عقايِد
 - die Meinung festigt s. bei mir; آن عَقیدهٔ مَن رُسوخ مى کُنَد
@@ -481,12 +481,12 @@ Meinung (pl.);  (نَظَر (اِنظار)، عَقیده (عقايِد
 - wir sind nicht einer Meinung; آبِمان توی ِ يِک جو نِمی رَوَد
 - ohne eigene Meinung; بی نَظَر
 - nach der gängigen Meinung anderer ; به مَعناى ِ رايِج ِ آن که
-- nach Meinung berühmter ..; بَنابَر نَظَر ِ مَشهور ِ..، به زَعم ِ ـ
+- nach Meinung berühmter ...; بَنابَر ِ نَظَر ِ مَشهور ِ..، به زَعم ِ ـ
 - eine Meinung kundtun; رأى صادِر کَردَن، رأیزَنى کَردَن، نَظَر دادَن
 - hast du deine Meinung gesagt?; آیا نَظَر کَرده اى؟
 - mit jem. einer Meinung sein; با کِسى هَمرأى داشتَن، هَم رأى ِ کِسى بودَن
 - wir sind jetzt zu einer Meinung gekommen; حالا به هَم رِسیدیم
-- er vertritt die Meinung, dass ..; او اِظهار دارد که، او بَر این باوَر است که
+- er vertritt die Meinung, dass ..; او اِظهار دارَد که، او بَر این باوَر است که
 - seine Meinung zum Besten geben; اَفکارَش را بِخَرج دادَن
 - s. eine Meinung über die Lage bilden; بَر آوَرد ِ اوضاع
 - s. nicht um die Meinung anderer kümmern; جِلوی ِ کِسی وِل شُدَن
@@ -501,19 +501,19 @@ Meinungsfreiheit; آزادى ِ تَفَکُر
 - Denk- & Meinungsfreiheit; آزادى ِ تَفَکُر و آزادى ِ عَقیده
 Meinungsmacher; صاحِب ِ نَظَر
 Meinungsumfrage; هَمه پُرسى، بَررِسى ِ عَقايِد ِ عُمومى
-Meinungsverschiedenheit (in ..);  (تَشتُت ِ آراء، مُغايِرَت، دودَستِگی، اِختِلاف ِ نَظَر (- دَر
+Meinungsverschiedenheit (in ...);  تَشَتُت ِ آراء، مُغايِرَت، دودَستِگی، اِختِلاف ِ نَظَر (- دَر
 Meise; چَرخ ریسَک
-Meissel; اِشکَنه، قَلَم ِ تَراش، اِسکَنه
+Meißel; قَلَم ِ تَراش، اِسکَنه
 meist;
 - die meiste Zeit; اَکثَر ِ وَقت
-Meistbegünstigung; کامِل اُلوِداد
+Meistbegünstigung (Klausel im internat. Handelsverkehr); کامِل اُلوِداد
 meistens; غالِباً، اَغلَب ِ اوقات، عُمدَتاً
 Meister; اُستاد
 meisterhaft; با اُستادى، اُستادانه
 meistern;
 - mit Erfolg meistern; با مُوَفَقيَت از سَر گُذَراندَن
-- er meistert s. so weit, dass er nichts sagt; این اَندازه آقائى دارَد که چیزى را نَگويَد
-- sie werden das schon meistern; از پَس ِ خودِشان بَر می آيَد
+- er meistert s. so weit, dass er nichts sagt; این اَندازهٔ آقائى دارَد که چیزى را نَگويَد
+- sie werden das schon meistern; از پَس ِ خودِشان بَر می آيَند
 Meisterschaft; اُستادى
 - er zeigt seine Meisterschaft; او اُستادى ِ خودرا نِشان مى دَهَد
 Meisterwerk; بَرق کار، شاهکار
@@ -535,6 +535,7 @@ melodiös; خوش نَغمه، دِلپَذیر
 Melodrama; مِلودرام
 Melone; دَستَنبو، هِندِوانه
 - Honigmelone; خَربُزه
+- Zuckermelone; طالِبی
 Meltau; يَرقان، زَنگ ِ نَباتى
 Membran; پَرده، شامه، مِمبران، دیافراگم، واشِر ِ مَشمائى، غَشاء
 Membranpumpe; پُمپ ِ دیافراگم دار
@@ -545,9 +546,9 @@ Menge; (pl.) مِقدار (مَقادِر)، قَدر
 - die Menge ist nicht wichtig; مِقدارَش مُهِم نیست
 - Menge Geld; مَبلَغ ِ کَلانى
 - grosse Menge; قَدر ِ زیاد
-- täglich nahm er eine gewisse Menge; هَر روز مِقدارى  ِ.. گِرِفت
+- täglich nahm er eine gewisse Menge; هَر روز مِقدارى  ِ... گِرِفت
 - wir haben uns eine Menge zu erzählen; کُلى ِ حَرف بَراى ِ گُفتَن داریم
-- Gesamtmenge der ..; مَجموع  ِ
+- Gesamtmenge der ...; ِ مَجموع
 - Menschenmenge; (pl.) فوج (اَفواج)، انبوه
 mengen; آمیختَن، قاطی کَردَن
 Meningitis; سام ِ سَر، مِنِنژیت
@@ -558,9 +559,9 @@ Mensch; اِنسان، آدَم
 - er gehört nicht zu der Sorte von Mensch; او از این آدَمیها نیست، از این قُماش نیسیت، اَهل ِ چِنین کاری نیست
 - wir sind keine unbekannten Menschen; ما کَم آدَمهایی نیستیم
 - der Mensch ist fehlerhaft; آدَمیزاد شیر ِ خام خورده، اِنسان جايِزاُلخَطاست
-- Alle Menschen haben die gleiche Wurzel, wenn einer leidet, läßt das die anderen nicht gleichgültig. Wenn dich das Unglück anderer kalt läßt, verlierst du dein Menschsein; بِنی آدَم عَضای ِ يِکدیگَرَند که دَر آفَرینِش زِ يِک گوهَرَند. چو عُضوی بِدَرد آوَرَد روزِگار، دیگَر عُضو هارا نَملنَد قَرار تو کِز مِحنَت ِ دیگَران بی غَمی نَشايَد که نامَت نَهَند آدَمی
+- Alle Menschen haben die gleiche Wurzel, wenn einer leidet, läßt das die anderen nicht gleichgültig. Wenn dich das Unglück anderer kalt läßt, verlierst du dein Menschsein; بِنی آدَم عَضای ِ يِکدیگَرَند که دَر آفَرینِش زِ يِک گوهَرَند. چو عُضوی بِدَرد آوَرَد روزِگار، دیگَر عُضو هارا نَمانَد قَرار تو کِز مِحنَت ِ دیگَران بی غَمی نَشايَد که نامَت نَهَند آدَمی
 menschenleer; خِلوَت
-- menschenleer (i.S.: ausgeflogen) ; پَرَنده پَر نِمی زَنَد
+- das Wartezimmer war menschenleer (i.S.: ausgeflogen) ; دَر اُتاق ِ اِنتِظار پَرَنده پَر نِمی زَد
 Menschenmenge; اَنبوه، جَمعيَت
 - in die Menschenmenge treiben; به دِل ِ جَمعيَت زَدَن
 Menschenraub; آدَم رُبائى
@@ -568,8 +569,8 @@ Menschenrechte; حُقوق ِ بَشَر
 - Allgemeine Erklärung der Menschenrechte; اِعلامیهٔ هَمِگانى ِ حُقوق ِ بَشَر
 Menschenrechtskonvention; کُنوانسیون ِ حُقوق ِ بَشَر، قَرار داد ِ ـ
 Menschsein;
-- er hat sein Menschsein verloren; آدَم نِمون شُدَن
-Menschenwürde; کَرامَت ِ اِنسانى
+- sein Menschsein verlieren; آدَم نِمون شُدَن
+Menschenwürde; کَرامَت ِ اِنسانى، لیاقَت ِ اِنسانی
 - menschenwürdige Bedingungen schaffen; تَرفیه کَردَن
 Menschheit; بَشَريَت، جَهانیان
 menschlich; ناسوتى، اِنسانى
