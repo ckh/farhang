@@ -54,6 +54,8 @@ Bahnschranke; راهبَند ِ راه آهَن
 Bahnschwelle; تراوِرس
 Bahnsteig; سَکوى ِ راه آهَن
 Bahnübergang; تَقاطُع ِ خَط ِ راه آهَن، عُبور ِ رايل
+- beschrankter Bahnübergang; تَقاطُع ِ خُطوط ِ آهَن با مُستَحفِظ
+- unbeschrankter Bahnübergang; تقاطُع ِ خُطوط ِ آهَن بِدون ِ مُستَحفِظ
 Bahre; بَرانکَر، تَخت ِ رَوان
 Baisse; تَنَزُل ِ قِيمَت
 Bajonett; سَر ِ نِيزه

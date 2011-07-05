@@ -2134,6 +2134,7 @@ Sense; داس
 sensibel; حَساس
 sensibilisieren; حَساس کَردَن
 Sensibilität; حَساسيَت
+Sensor; حِسگَر
 sentimental; اِحساساتی، اِحساس گِرا
 Sentimentalität; اِحساسگِرائى، حالَت ِ اِحساساتى
 separat; مُجَزا، جُداگانه
@@ -3701,6 +3702,8 @@ Stottern; تِته پِته، لِکنَت ِ زَبان
 - ins Stottern kommen;  به تِته پِته اُفتادَن
 stotternd; تِته تِپه کُنان
 - stotternd sagte ich ...; تِته تِپه کَردَم و گُفتَم
+- Strafantrag; تَقاضای ِ مُجازات
+- Strafantrag stellen; تَقاضای ِ مُجازات کَردَن
 Strafaussetzung; تَعطیل ِ مُجازات
 - bedingte Strafaussetzung; کِیفَر ِ تَعلیقى
 strafbar; مُجرِم، سَزاوار ِ مُجازات

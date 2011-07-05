@@ -1351,6 +1351,7 @@ körperlich; جِسمى، جِسمانى، بَدَنى
 Körperschaft; اِجماع، هِیئَت ِ اِجتِماع
 Körpersprache; عَلائم ِ بَدَنى، با بَدَن اِرائه دادَن که آیا از طَرَف ِ مُقابِل خوشحال است یا نه
 Körperverletzung; آسیب ِ بَدَنى، جَراحَت ِ ـ
+- Körperverletzung (jurist. Tatbestand); ضَرب و جَرح
 Korps; سِپَه
 - Freiwilligenkorps; سِپاه ِ داوطَلَبان
 korpulent; جُسام، چاق، گوشتالود

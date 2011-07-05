@@ -647,19 +647,20 @@ Miene;
 - Unschuldsmiene; قیافهٔ خَق به جانِب
 mies;
 - s. mies fühlen; حال ِ کِسی خوب نیست
-- miese Handlung; عَمَل نابه کارانه، کار ِ زِشت است
+- miese Handlung; عَمَل نابه کارانه، کار ِ کِسی زِشت است
 - miese Propaganda; تَبلیغات ِ مُتَذاوِل
 miesmachen;
 - es jem. miesmachen; نومید ِ کِسى کَردَن
 Miete; کِرایه، اِجاره
 - Zimmer zur Miete haben; اُتاق را دَر اِجاره داشتَن
-mieten; اِجاره کَردَن
+mieten; اِجاره کَردَن، کِرایه کَردَن
 Mieter; مُستأجِر
 Mieterschutz; حِمايَت ِ مُستأجر
 Mietpreis; اِجاره بَها، مَبلَغ ِ کِرایه
 Mietvertrag; کِرایه نامه، قَرار داد ِ اِجاره
 Migräne; دَرد ِ شَقیقه، میگرِن
 Migration; مُهاجِرَت
+Migrant; مُهاجِر
 Mikrobe; میکُرب
 Mikrofon; میکرُفون
 Mikroprozessor; ریزپَرداز
@@ -674,6 +675,7 @@ Milchreis; شیربرِنج
 Milchsäure; اَسید ِ لاکتیک
 Milchstrasse; کَهکَشان، راه ِ شیرى
 Milchzahn; دَندان ِ شیرى
+Milchzucker (Laktose); لاکتوز، قَند ِ شیر
 mild; مُلايِم
 Milde; مُلايَمَت
 - bei jem. Milde walten lassen; به کِسى اِرفاق کَردَن
@@ -705,21 +707,22 @@ minderwertig; ذَلیل
 - minderwertiges Gold; زَر ِ کَم عَیار
 Minderwertigkeitskomplex; عُقدهٔ حِقارَت
 Mindestbeteiligung; حَد ِ نِصاب
-Mindestlohn; حَداَقَل ِ مُزد
+Mindestlohn; حَدِاَقَل ِ مُزد
 Mindestmass;
 - er kam mit dem Mindestmass an Nahrung aus; او به حَد ِ اَقَل ِ غَذا نیاز داشت
 Mindestpunktzahl;
-- .. deren Note die Mindestpunktzahl nicht erreicht; که نُمرهٔ خام از حَد ِ نِصاب مُعَيِن کَمتَر باشَد
+- .. deren Note die Mindestpunktzahl nicht erreicht; که نُمرهٔ خام از حَد ِ نِصاب ِ مُعَيِن کَمتَر باشَد
 Mindestreserve; حَد ِاَقَل ِ ذَخايِر، ذَخايِر ِ اِجبارى
 Mindeststimmzahl; حَد ِ نِصاب ِ آرا
-Mine; مین
+Mine;
+- Mine (milit.); مین
 - Bergwerksmine; (pl.)  (مَعدَن (مُعادِن
 - Kugelschreibermine; مَغزهٔ خودکار
 Minensuchschiff; کَشتى ِ مین جَمع کُن
 Mineral; (pl.)  (مَعدَن (مَعدَنیات
 mineralisch; کانى
 Mineralogie; عِلم ِ مَعدَن، مَعدَن شِناسى
-Mineralwasser; آب ِمَعدَنى
+Mineralwasser; آب ِ مَعدَنى
 Minimum; حَد ِ اَقَل
 - mit einem Minimum auskommen; با قَدر ِ حَدِاَقَل سَر کَردَن
 - Existenzminimum; سَد  ِ رَمَق
@@ -737,18 +740,18 @@ minus;
 - ich habe auf dem Konto ein Minus; مَبلَغ ِ (حِساب ِ) بانکی اَم کَسری دارَد
 Minuszeichen; عَلامَت ِ مَنفى
 Minute; دَقیقه
-- das sagen Sie mir 5 Minuten vor 12; دُرُست دَر آخَرین لَحظه به مَن گفتید
+- das sagen Sie mir 5 Minuten vor 12; دُرُست دَر آخَرین لَحظه به مَن گُفتید
 Minutenzeiger; عَقرَبهٔ دَقیقه شُمار
 Minze; نَعنا
 mir; به مَن
 - das gehört mir; این مال ِ مَن است
 - gib das mir; این را به مَن بِدِه
 - wie du mir, so ich dir; چیزى که عَوَض دارَد گِله نَدارَد
-Mirabelle; آلو زَرد
+Mirabelle; زَرد آلو
 Misanthrop; آدَم گُریز
 mischerbig; دو رَگه
 Mischehe; نِکاه ِ مَخلوطه
-mischen; سِرِشتَن، آمیختَن، مَخلوط کَردَن، قاطى ک
+mischen; .سِرِشتَن، آمیختَن، مَخلوط کَردَن، قاطى ک
 - Karten mischen; بُر زَدَن
 - Betonmischer; ماشین ِ بِتون سازى
 Mischling; از دو نِژاد، دورَگه
@@ -758,15 +761,15 @@ Mischung; اِختِلاط، آمیزِش، مَخلوط، آمیختِگى
 - eine Mischung aus ...; يِک مَخلوطی از
 missachten; چیزى را خوار شُماردَن
 Missachtung; اِحتِقار، حِقارَت
-- bei Missachtung von ..; غافل از اینکه، با عَدَم رَعايَت
+- bei Missachtung von ...; غافل از اینکه، با عَدَم رَعايَت
 Missbildung; تَشکیل ِ غَلَط، خِلقَت ِ ناقِص
 missbilligen;
-- er missbilligt das, verurteilt das; اینرا تَخطِئِه میکُنَد، - رَد می کُنَد
+- er missbilligt das, verurteilt das; اینرا تَخطِئِه می کُنَد، - رَد می کُنَد
 missbilligend; اِهانَت آمیز
 Missbilligung; رَد، عَدَم ِ تَصویب
 Missbrauch; سوء اِستِفاده
 missbrauchen; از چیزى سوء اِستِفاده کَردَن
-- es kann sein, dass .. missbraucht wird; مُمکِن است که .. حِیف و مِیل شَوَد
+- es kann sein, dass ... missbraucht wird; مُمکِن است که ... حِیف و مِیل شَوَد
 missdeuten; سوء تَعبیر کَردَن
 Misserfolg; ناکامی، عَدَم ِ توفیق
 Missernte; قَحط
@@ -802,11 +805,11 @@ Misstrauensvotum; رأى ِ عَدَم ِ اِعتِماد
 misstrauisch;
 - wenn er misstrauisch wird; اَگَر بَد گُمان شَوَد
 - er sah mich misstrauisch an; او نِگاه ِ مَظنونانه اى به مَن اَنداخت
-- die Stille macht ihn misstrauisch; سُکوت، اورا مَشکوک مى کُنَد
+- die Stille macht ihn misstrauisch; سُکوت اورا مَشکوک مى کُنَد
 - jem. misstrauisch gegenüber ... machen; کِسى را نِسبَت به ... بَد گُمان کَردَن
 Missverhältnis;
 - er wies auf das Missverhältnis von ... hin; او به تَلفیق ِ ... اِشاره کَرد
-missverständlich; سوء ِ تَفاهُم بَر اَنگیز
+missverständlich; مُبهَم
 Missverständnis; سوء ِ تَفاهُم
 Misswirtschaft; سوء ِ مُدیريَت
 Mist; (goh) پِهِن، گُه
@@ -824,7 +827,7 @@ mit; با
 - mit Vergnügen; با کَمال ِ مِیل
 - mit Abscheu; از سَر ِ اِکراه
 - mit der Schärfe des Schwertes; به ضَرب ِ شَمشیر
-- was du mit ihr gemacht hast, ..; کارى که دَر حَق ِ او کردى
+- was du mit ihr gemacht hast, ...; کارى که دَر حَق ِ او کردى
 - mit Knüppeln bewaffnet werden; به چُماقها مُسَلَح شُدَن
 - mit s. haben; هَمراه اش بودَن
 Mitarbeit; هَمکارى
@@ -840,11 +843,11 @@ mitfühlend; مُعَزى، دِلسوز، هَمدَرد بودَن
 Mitgebringsel; رَه آوَرد، سوغات، اَرمَغان، دَمراهی
 - das ist ein Mitgebringsel (, mehr nicht); این از آب گُذَشته است
 Mitgefühl; رأفَت، هَمدَردى، دِلسوزى، حِس ِ دَرد ِ دیگَران
-- Mitgefühl haben; دِلسوز بودَن، هَمدَرد ب
-mitgenommen; مَنسوخ شُده، مُستَهلَک ش
+- Mitgefühl haben; .دِلسوز بودَن، هَمدَرد ب
+mitgenommen; .مَنسوخ شُده، مُستَهلَک ش
 - er sieht mitgenommen aus; حالِش مِثل اینکه کوبیده باشَد، حالَتَش رِقبَت اَنگیز است
-Mitgift; جَهاز، جَهیزیه، کابین
-Mitglied; (pl.) عُضو (اَعضاء
+Mitgift; جَهاز، جَهیزیه، کابین، مِهریه
+Mitglied; (pl.) (عُضو (اَعضاء
 Mitgliedsbeitrag; حَق ِ عُضويَت
 Mitgliedskirchen; کِلیساهاى ِ اَعضاء
 Mitgliedschaft; عُضويَت
@@ -854,7 +857,7 @@ mitkommen; هَمراه ِ کِسى بودَن
 - ich komme mit Euch mit; مَن با شُما مى آيَم
 - er kommt nicht mit (nicht verstehen); دو زارى اش دیر مى اُفتَد
 Mitkonkurrent; هَماوَرد از حِزب
-mitkriegen; مُلتَفِت شُدَن، فَهمیدن
+mitkriegen; مُلتَفِت شُدَن، فَهمیدَن
 Mitläufer; رَفیق ِ نیمه راه
 Mitleid; هَمدَردى، دِلسوزى
 - Mitleid erregender Zustand; حالَت ِ رِقَت اَنگیز، حالَت ِ دِلسوزى
@@ -864,18 +867,18 @@ Mitleid; هَمدَردى، دِلسوزى
 Mitleidenschaft;
 - der Krieg zog ... in Mitleidenschaft; تَوَسُط ِ جَنگ ... به مُصیبَت کِشیده شُد
 mitleidig; رَؤوف، دِلسوز
-mitmachen; هَمدَست شُدَن، شَریک بودَن، شِرکَت کَردَن، اِقتِداء ک.، هَمکارى ک
+mitmachen; .هَمدَست شُدَن، شَریک بودَن، شِرکَت کَردَن، اِقتِداء ک.، هَمکارى ک
 Mitmensch; هَمنوع، بِنى آدَم
-mitnehmen; بَر داشتَن، با خود بُردن
+mitnehmen; بَر داشتَن، با خود بُردَن
 - jem. mitnehmen; کِسى را سَوار کَردَن، ـ بُردَن به یک جا
-- Brot auf die Reise mitnehmen; بَراى ِ سَفَر با خود نان بِهَمراه بُردن
+- Brot auf die Reise mitnehmen; بَراى ِ سَفَر با خود نان بِهَمراه بُردَن
 - wenn ich mir ... mitnehmen dürfte; اَگَر اِجازهٔ هَمراه داشتَن ِ ... داده میشُد
 - ich nehme die Bücher mit; کِتابهارا هَمراه ِ خود مى بَرَم
 - das nimmt mich mit; این خِیلى بَر مَن تأثیر مى گُذارَد
 - er nahm 5 Leute mit; او ۵ نَفَر هَمراه ِ خود بُرد
-mitreissen;
-- mitreissende Worte; کَلَمات ِ مَجذوب کُنَنده
-- mitreissende Vision der Brüderlichkeit; رویائى ِ چِنان اِلهام اَنگیز دَربارهٔ بَرادَرى
+mitreißen;
+- mitreißende Worte; کَلَمات ِ مَجذوب کُنَنده
+- mitreißende Vision der Brüderlichkeit; رویائى ِ چِنان اِلهام اَنگیز دَربارهٔ بَرادَرى
 Mittag; ظُهر
 Mittagessen; ناهار
 Mitte; وَسَط، مَرکَز، میان
@@ -884,10 +887,10 @@ Mitte; وَسَط، مَرکَز، میان
 - zur Mitte des Hügels gehen; به کَمَرکِش تَپه رَفتَن
 - Partei der Mitte; حِزب ِ میانه رو
 mitteilen; اِبلاغ کَردَن، باز نِمودَن
-- ich muss Ihnen mitteilen, dass ..; بايَد به اِطِلاع ِ شُما بِرِسانَم که، بايَد به عَرضِتان بِرِسانَم که
+- ich muss Ihnen mitteilen, dass ...; بايَد به اِطِلاع ِ شُما بِرِسانَم که، بايَد به عَرضِتان بِرِسانَم که
 Mitteilung; اِبلاغ، اِعلام
 - Pressemitteilung (*: Bericht); اِطِلاعیهٔ مَطبوعاتى
-Mittel; (pl.) وَسیله (وَسائِل
+Mittel; (pl.) (وَسیله (وَسائِل
 - die Mittel dazu haben; (tou) تو وَرداشتَن
 - Mittel zum Leben; نَوا، وَسائِل ِ زِندِگى، لَوازِم ِ مَعاش
 - sie versuchten mit allen Mitteln, ...; آنها هَرچه از دَستِشان بَر مى آيَد تَلاش کَردَند
@@ -902,7 +905,7 @@ mittelhart;
 - mittelharter Käse; پَنیر ِ نیمه صِفت
 - er war so der übliche mittelharte Typ; او از هَمان نیمچهٔ خَشِنهای ِ مَعمولی بود
 Mittelklasse (z.B. Auto); دَرَجهٔ مُتَوَسِط
-mittellos; بى سَر و سامان، نَدار
+mittellos; بى سَر و سامان، نَدار، بی نَوا
 - mittellos sein; آه نَداشتَن که با ناله سودا کَردَن
 - sie wurden mittellos; آنها بى چیز شُدَند، به اِفلاس اُفتادَند
 - soll ich dich mittellos auf das Fest schicken?;سَر و کون ِ بِرَحنه بِبَرَمِت جَشن
@@ -911,32 +914,33 @@ Mittellosigkeit; اِفلاس، نادارى، تَنگدَستى
 mittelmässig;
 - der Film hat eine mittelmässige Handlung; فیلم داستانى ِ پیش ِ پا اُفتاده دارَد
 Mittelmeer; دَریاى ِ مِدیتِرانه
-Mittelost; خاورِمیانه
+Mittelost; خاوَرِمیانه
 Mittelpunkt; نُقظهٔ مَرکَزی
 - s. in den Mittelpunkt stellen; دوررا از دَست ِ هَمه گِرِفتَن، يِکه تازى کَردَن، خودرا دَر مَرکَز قَرار دادَن
 Mittelschicht; طَبَقهٔ مُتَوَسِط
 Mittelstreifen;
-- durchgezogener Mittelstreifen (z.B. auf der Strasse); فاصِلهٔ اِحتیاطى طَرَفین
-Mittelweg;
+- durchgezogener Mittelstreifen (z.B. auf der Strasse); خَط ِ مُمتَد
+- unterbrochener Mittelstreifen; خَط ِ مُنقَطِع
+Mittelweg; 
 - den goldenen Mittelweg gehen; میانه رَوى کَردَن
 - geh den goldenen Mittelweg; میان رو باش، میانه رَوى کُن
 mitten; مُتَمَرکِز، دَر وَسَط
 - mitten in der Nacht; دَر دِل ِ شَب
 - mitten im Winter; دَر قَعر ِ زِمِستان
 Mitternacht; نیمه شَب، نِصف ِ شَب
-- Land der Mitternachtssonne; سَرزَمین ِ آفتاب نیمه شَب
+- Land der Mitternachtssonne; سَرزَمین ِ آفتاب ِ نیمه شَب
 mittler;
 - er ist im mittleren Alter; او آدَم ِ میان سال است
 - mittlerer Dienst; خِدمَت ِ اِجرائى ِ مُتَوَسِط
 - mittlere Schiene; خَط ِ مُتَوَسِط
-Mittler (m); واسِطه
+Mittler (m); واسِطه، میانجی
 mittlerweile; دَر این میان، دَر این بِین
 Mittwoch; چَهارشَنبه
 mitwirken;
 - an einer Sache mitwirken; دَستى دَر چیزى داشتَن
 Mitwirkender; هَمکار
-- wer sind die Mitwirkenden? (i.S. :Fachleute); عَوامِل ِ دَست اَندَر کاران چه کِسانى هستَند؟
-mixen; مَخلوط کَردَن، قاطى ک
+- wer sind die Mitwirkenden? (i.S. :Fachleute); عَوامِل ِ دَست اَندَر کاران چِه کِسانى هستَند؟
+mixen; .مَخلوط کَردَن، قاطى ک
 - gemixt; مَمزوج
 Mixtur; مُمزَج
 Mob; غوغاگَر
