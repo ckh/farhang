@@ -59,6 +59,7 @@ Magenschleimhaut; مُخاط ِ مُعده
 mager; لاغَر
 - mageres Fleisch (ohne Fett & Knochen); گوشت ِ لُخم، ـ لاغَر، ـ بى چَرب و اُستُخوان
 Magermilch; شیر ِ چَربى گِرِفته
+Magersucht; بیماری ِ لاغَری، اِختِلال ِ رَوانی دَر غَذا خوردَن، بی‌ اِشتِهایی ِ عَصَبی
 Magie; سِحر، ساحِرى
 - Magie & Zauberei; سِحر و جادو
 Magier; ساحِر
@@ -210,7 +211,7 @@ Mann; مَرد
 - Mann, oh Mann!; اى بابا، به دَرَک، اِی دِل ِ غافِل
 - aus einem Säugling einen Mann machen; کِسى را از زَمان ِ شیرخوار به شیردِل پَروَرانیدَن
 - "Schwarzer Mann"; دیگ به سَر
-Mannequin; مانِکین
+Mannequin; مانِکین، مانِکِن
 Männerschuhe; کَفشهاى ِ مَردانه
 Männerteil (des Hauses); (im Gegensatz: Frauenteil: بیرونی (اَندَرونی
 Männerwirtschaft; آقابالاسَرى
@@ -947,7 +948,7 @@ Mob; غوغاگَر
 mobben; توسَری زَدَن
 - gemobbt werden; توسَری خوردَن
 - jem., der gemobbt wird; توسَری خور
-Mobbing; آش بَراى ِ کِسى پُختَن، بَراى ِ اَذيَت و تَنبیهٔ کِسى تَصمیمى گِرِفتَن و تَدارُکى دیدَن
+Mobbing; آش بَراى ِ کِسى پُختَن، بَراى ِ اَذيَت و تَنبیه ِ کِسى تَصمیمى گِرِفتَن و تَدارُکى دیدَن
 Möbel; مُبل
 mobil; سالِم و سَر ِ حال، مُتَحَرِک
 Mobiliar; اثاثیه، وَسائل و آثاث
@@ -966,11 +967,11 @@ Modalität; شَرط
 Mode; مُد
 - aus der Mode kommen; وَر اُفتادَن، از مُد اُفتادَن
 - in Mode kommen; باب شُدَن
-Model; مُدِل ِ عَکاسی
+Model; مُدِل ِ عَکاسی، مانِکِن
 Modell; مُدِل، تیپ
 - Photomodell; مُدِل ِ عَکاسى
 - im vorliegenden Modell; دَر مُدِل ِ اِرائه شُده
-- Modelldefinitionen (zur Beschreibung bestimmter Phänomene); طَریقى بَراى ِ تَصَوُر ِ يِک فَرضیه است که بَر اَساس ِ حَقايِق ِ دانِسته شُدها اِرائه شُده است، تَجَسُم ِ يِک ساختِمان و شِناخت ِ قِسمَتهاى ِ مُختَلِف ِ آن دَر رابِطه با يِِکدیگَر اِطلاق کَرده مى شَوَد
+- Modelldefinitionen (zur Beschreibung bestimmter Phänomene); طَریقى بَراى ِ تَصَوُر ِ يِک فَرضیه است که بَر اَساس ِ حَقايِق ِ دانِستهٔ شُدها اِرائه شُده است، تَجَسُم ِ يِک ساختِمان و شِناخت ِ قِسمَتهاى ِ مُختَلِف ِ آن دَر رابِطه با يِِکدیگَر اِطلاق کَرده مى شَوَد
 Modellschreiner; مُدِلساز ِ دُرودگَرى
 Modem; مودِم
 Moder; پَرمَک، خَزه، کَپَک زَدِگى
@@ -982,7 +983,7 @@ modern; مُدِرن، نوین
 Moderne (f); روزِگار ِ کُنونی
 - die Moderne in der Kunst; هُنَر ِ اِمروزه
 - Antike & Moderne; عَصر و دَهه
-modernisieren; نوسازى کَردَن، نو ک
+modernisieren; .نوسازى کَردَن، نو ک
 Modernisierung; نوسَزا، نوسازى
 Modernismus; نوآئینى، تَجَدُد طَلَبى
 Modifizierung; تَغییر، تَعدیل
@@ -993,37 +994,37 @@ Modul; واحِد
 - der Unterricht besteht aus mehreren Modulen; دَرس شامِل ِ واحِدهاى ِ مُختَلِف است
 Modus; شیوه
 - Modus Operandi; شیوهٔ عَمَل
-- Modus Vivendi; شیوهٔ زیست (قابِل ِ تَحَمُل بِین ِ طَرَفِین
+- Modus Vivendi; (شیوهٔ زیست (قابِل ِ تَحَمُل بِین ِ طَرَفِین
 mogeln; فَریب دادَن، سَر ِ کِسی کُلاه گُذاشتَن
 mögen; دَرخواست کَردَن، خواستَن
 - Geschichten mögen; قِصه هارا دوست داشتَن
 - ich möchte ... (*: wollen); من دَرخواست ِ چیزى مى کُنَم، دِلَم مى خواهَد
 - ich möchte gehen; مى خواهَم بِرَوَم
-- um .... möchte ich gerne ...; به هَواى ِ ..، به آرِزوى ِ ..، به سوداى ِ
+- um ... möchte ich gerne ...; ِبه هَواى ِ ...، به آرِزوى ِ ...، به سوداى
 - überall, wo Sie möchten; دَر هَر جا که تَمايُل دارید
 - wer möchte das machen?; کى حالَش را دارَد تا این کار را اَنجام بِدَهَد؟
 - ich mag sie; مَن اورا دوست دارَم، دوستَش دارَم
 - ich mag das nicht; از این چیزها خوشَم نِمى آيَد، ـ بَدَم مى آيَد
 - mag sein, möglicherweise; لابُد
 möglich;
-- möglich sein; مَقدور بودَن، اِمکان پَذیر ب
+- möglich sein; .مَقدور بودَن، اِمکان پَذیر ب
+- für möglich halten; بَعید نِمى دانِستَن، مُتَصَوَر بودَن
 - welches Programm hältst du für möglich?; چه برنامه ای مُتَصَوَر هَستید؟
-- es ist gut möglich, dass .. (*: wahrscheinlich); لابُد، بَعید نیست
+- es ist gut möglich, dass ... (*: wahrscheinlich); لابُد، بَعید نیست
 - es ist möglich, dass einige sagen, dass ...; بَعضى مُمکِن است بِگويَند که
 - wenn es möglich ist; حَتىٰ اَلاِمکان، اَگَر مُمکِن باشد، شايَد
 - ist es möglich, dass ...?; اِمکانِش هَست که، مُمکِن است که
 - es ist mir nicht möglich; بَراى ِ مَن مَقدور نیست
 - es war nicht möglich; مَجال نَشُده بود
 - durch seine Tat machte er das möglich; با عَمَلَش این را مُيَسِر ساخت
-- wegen .. war ein Besuch nicht möglich; به عِلَت ِ .. دیدار مُيَسِر نَشُد
-- für möglich halten; بَعید نِمى دانِستَن، مُتَصَوَر بودَن
+- wegen ... war ein Besuch nicht möglich; به عِلَت ِ ... دیدار مُيَسِر نَشُد
 - es ist ihm nicht möglich, zu heiraten (kein Geld, etc); اِستِطاعَت ِ اِزدِواج نَدارَد
-möglicherweise;
+möglicherweise; لابُد
 - möglicherweise, damit, um zu; تا بَلکه، حَتىٰ اَلاِمکان
-- möglicherweise mit .. veranstalten; اِمکانا با شِرکَت ِ فِلان بَرگُزار مى شَوَد، مُمکِن است با ـ
+- möglicherweise mit ... veranstalten; اِمکانا با شِرکَت ِ فِلان بَرگُزار مى شَوَد، مُمکِن است با ـ
 - wir wollten möglicherweise dort Arbeit bekommen; میخواستیم بَلکه کارى در آن بِدَست آوَریم
 Möglichkeit; اِمکان
-- Möglichkeit haben; مَجال داشتَن، اِمکان د
+- Möglichkeit haben; .مَجال داشتَن، اِمکان د
 - nach Möglichkeit; حَتىٰ اُلمَقدور، عِند اُلاِمکان
 - nach Möglichkeit am Samstag durchführen; حَتىٰ اَلاِمکان روز ِ شَنبه بَرگُزار شَوَد
 - warum hat nicht jeder die Möglichkeit?; چِرا طورى نیست که هَر کَس اِستِطاعَتَش بِرِسَد
@@ -1075,7 +1076,7 @@ Monatsnamen; اَسامی ِ ماها
 - 22. Dezember - 20. Januar (30 - " -); دِى
 - 21. Januar - 19. Februar (30 - " -); بَهمَن
 - 20. Februar - 20. März (29 - " -); اِسفَند
-Mönch (Nonne); راحِب (راحِبه
+Mönch (Nonne); (راحِب (راحِبه
 Mönchskutte; خِرقه، دَلق ِ راحِب
 Mond; (pl.) قَمَر (اَقمار)، ماه
 Mondfinsternis; خُسوف ِ قَمَر، ماهگِرِفتِگى، اِنخِساف
@@ -1090,7 +1091,7 @@ Monogramm; طُغراء، اَوَلین حَرف ِ نام
 Monokratie; تَکسالارى
 Monopol; اِنحِصار
 - das Monopol auf ... (z.B. auf eine bestimmte Marke); مُنحَصِر به
-- Die Firma hat das Kaffeemonopol;  -این شِرکَت دارای انحِصار تولید قَهوه است، - حَق ِ تولید
+- Die Firma hat das Kaffeemonopol;  این شِرکَت دارای ِ اِنحِصار ِ تولید ِ قَهوه است، - حَق ِ تولید ِ قَهوه است
 monopolisieren; به اِنحِصار دَر آوَردَن
 monopolisiert; مُنحَصِر
 monopolistisch; اِنحِصار گِرانه، اِنحِصارى
@@ -1107,7 +1108,7 @@ Montagegerüst; چوب بَست ِ مونتاژ
 Montanindustrie; صَنعَت ِ مَعَدَن و فولاد
 Montanunion; اِتِحادیهٔ زُغال و فولاد ِ اُروپا
 Monteur; مونتاژکار، تَعمیرکار، مِکانیک
-montieren; وَصل کَردَن، نَصب ک
+montieren; .وَصل کَردَن، نَصب ک
 Monument; مُجَسَمه
 monumental; خِیلی بُزُرگ، عَظیم
 - monumentaler Fehler; خَطاى ِ کِران
@@ -1132,7 +1133,7 @@ mörderisch; آدَم کُشانه
 mordgierig; خون آشام
 morgen; فَردا
 - übermorgen; پَس فَردا
-Morgen; صُبح
+Morgen (m); صُبح
 Morgenbrise; صَبَح، نِسیم صُبح
 Morgendämmerung; بامداد، هَوا هَنوز گُرگ و میش است، شَفَق ِ صُبح گاهى، سِپیدهٔ صُبح، دَر تاریک و روشَن ِ هَوا
 - Morgendämmerung (poes.); فَجر، طَلیفهٔ فَجر
@@ -1152,12 +1153,12 @@ Mörser; هاوِن
 Morsetaste; تُکمهٔ مورس
 Mörtel; مِلاط، ساروج
 Mosaik; خاتِم کارى، موزائیک
-Moschee; (pl.) مَسجِد (مَساجِد
+Moschee; (pl.) (مَسجِد (مَساجِد
 Moschus; زَباد، مِشک
 Mose; موسىٰ
 Moskito; پَشه
 Moskitonetz; پَشه پَران، پَشه بَند
-Moslem; (pl.) مُسلِم (مُسَلمان
+Moslem; (pl.) (مُسلِم (مُسَلمان
 Moslembrüder; اَخوان ِ مُسلِمین
 moslemisch; اِسلامى
 Most; آب ِ اَنگور
@@ -1167,7 +1168,7 @@ Motivation; اَنگیزه، آرمان
 Motivationsbremse; حال گیرى
 motivieren;
 - jem. zu etwas motivieren (*: anstacheln); کِسى را واداشتَن که، ـ به چیزى سوق دادَن
-- das motiviert mich überhaupt nicht; مَرا به هیج وَجه وانِمی دارَد به اینکه
+- das motiviert mich überhaupt nicht; مَرا به هیچ وَجه وانِمی دارَد به اینکه
 - politisch motivierter Streik; اِعتِصاب با اَنگیزهٔ سیاسى
 Motor; موتور، مُتُر
 Motoraufhängung; تَعلیق ِ موتور
@@ -1207,11 +1208,11 @@ Mühe; رَنج، زَحمَت، اِجتِهاد
 - s. Mühe geben; به دَست و پا اُفتادَن، زَحمَت کِشیدَن
 - s. Mühe machen; توى ِ زَحمَت اُفتادَن
 - etwas mit Mühe und Not herbringen; چیزی را به هِن کِشیدَن
-- ... machte mir große Mühe; جانَم به لَبَم آمَد ...
+- ... machte mir große Mühe; جانَم به لَبَم آمَد
 - das ist der Mühe wert; به زَحمَتَش مى اَرزَد
 - das ist nicht der Mühe wert; آفتابه را خَرج ِ لَحیم کَردَن
 - alle Mühe umsonst; تیرهٔ کِسى به سَنگ خورد، تَلاش ِ کِسى به نَتیجه نَرِسید
-- Haben uns dafür nicht echt Mühe gemacht?; مَگَر جانِمان را از سَر ِ راه بَرداشته ایم؟
+- haben wir uns dafür nicht echt Mühe gemacht?; مَگَر جانِمان را از سَر ِ راه بَرداشته ایم؟
 - ein Mensch, der keine Mühe macht; بَچهٔ بى دَرد ِ سَر
 - sie hoben die Hände mit Mühe hoch; دَستها بِزَحمَت بُلَند شُدَند
 mühelos; بی زَحمَت
@@ -1224,7 +1225,7 @@ Mühle; آسیاب، آسیا
 Mühsal; مَشَقَت، مِحنَت
 mühsam; به زَحمَت، هِن و هِن کُنان
 - mühsam nach Atem ringen; به سَختى نَفَس کِشیدَن، به زَحمَت ـ
-Mull; مِشمِش
+Mull (Stoffart); مِشمِش
 Müll; آخال، خاکروبه، آشغال، زُباله، اِسقاطی
 - Sperrmüll; چِرت و پِرت
 Mulla; مُلا
