@@ -76,7 +76,7 @@ Magnetnadel; عَقرَبهٔ آهَن رُبا
 Mahagoni; ماهون
 Mähdrescher; ماشین ِ دِرو ِ جو
 mähen; چَمَن زَدَن
-Mäher:
+Mäher;
 - Rasenmäher; ماشین ِ چَمَن زَنى
 Mahl; غَذا، خوراک
 mahlen; .مَطحون کَردَن، آسیاب ک

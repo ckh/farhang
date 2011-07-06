@@ -117,7 +117,6 @@ Tarifautonomie; آزادى ِ تَعرِفه
 Tarifvertragsparteien; طَرَفِين ِ قَرار داد ِ دَستمُزد
 tarnen; مُستَتِر شُدَن، اِستِتار کَردَن
 - getarnte Stellung; موضِع ِ مَستور�
-
 Tarnung; اِستِتار، کاموفلاژ
 Tasche;
 - Tasche (Hose, Mantel, u.ä.); جيب
@@ -195,9 +194,7 @@ Täufling; شَخص ِ غُسل ِ تَعميد داده شُده
 Taufpate (- in);  (پِدَر ِ تَعميدى (مادَر ِ ـ
 taugen;
 - als Leiter taugen; ساخت ِ يک رَهبَررا داشتَن، بدَرد ِ رَهبَر خوردَن�
-
 - das taugt nicht für den Film; که به کار ِ سينِما نِمى آيَد�
-
 - nichts taugen (Tätigkeit, u.ä.); نابِجا بودَن، تعَريفى نَداشتَن
 - die Worte taugen nichts; کَلَمات جُفت و جور نِمي شَوَند
 - wozu taugt das?; اين به چه کار مى آيَد؟
@@ -459,7 +456,6 @@ Tierzucht; پَروَرِش ِ بَهيمه، دامدارى
 Tiger; بَبر
 Tigris; دِجله
 - Wirf dein Brot in den Tigris, und Gott wird es dir in Zeiten der Not wiedergeben (i.S.: Hilf dem Armen, Gott wird es dir vergelten); تو نيکى مى کُن و دَر دِجله اَنداز، که ايزَد دَر بيابانَت دَهَد باز
-
 tilgen; تَصفيه کَردَن، اِدا کَردَن
 - den Betrag von 1 Euro tilgen; اِداى ِ ۱ يورو کَردَن
 - getilgt; مَحزوف
