@@ -1242,7 +1242,7 @@ Multiplikation; عَمَل ِ ضَرب
 - geistliche Multiplikation; تَکثیر ِ روحانى
 Multiplikator; مُتَنَفِذ، تَکثیر کُنَنده، مَضروب ِ فیه
 multiplizieren; ضَرب کَردَن
-- multiplizieren mit ..; چیزى را دَر .. ضَرب کَردَن
+- multiplizieren mit ...; چیزى را دَر ... ضَرب کَردَن
 - 4 multipliziert mit 4 gibt 16; چَهار ضَرب دَر چَهار میشَوَد ۱۶
 Multitasking; سیستِم ِ چَند تَکلیفى
 Mumie; مومیائى
@@ -1262,7 +1262,7 @@ Mund; دَهَن، دَهان
 - er hat einen losen Mund; دَهَنَش لَق است
 - er bekam seinen Mund nicht auf; او لَب از لَب بَر نَداشت
 - den Mund voll nehmen (*: prahlen); لاف زَدَن
-- sie nehmen den Mund mit ... voll; از این خَرفهای دَهَن پُر کُن می زَنَند
+- sie nehmen den Mund mit ... voll; از این خَرفهای ِ ... دَهَن پُر کُن می زَنَند
 - in aller Munde sein; بَر سَر ِ زَبانها است، چیزى که وِرد ِ زَبانها است، اِسم ِ او بَر سَر ِ زَبانها مى اُفتَد
 Mundart; لَهجه
 Mundbereich; چَک و چانه
@@ -1316,7 +1316,7 @@ Mus; پوره
 Muschel; صَدَف
 Museum; موزه
 Musik; موسیقى، موزیک
-- Musik für ... schreiben; آهَنگ ساختَن
+- Musik komponieren; آهَنگ ساختَن
 - Musik & Tanz; سِماع و رَقص
 - mit der Musik, Gesang beginnen; به تَرَنُم دَر آوَردَن
 - zur Musik, Singen veranlassen; به تَرَنُم آوَردَن
@@ -1342,7 +1342,7 @@ Musikinstrument; (pl.) ساز، آلَت (آلات) ِ موسیقى
 - Laute (arab., mit Ziegenhaut); مَزهَر
 - Laute (iran., aus Holz); عود، بَربَط، لوت
 - Leierkasten; اُرگ ِ نوازها
-- (dreisaitige-) Mandoline; سِتار
+- Mandoline (dreisaitige-); سِتار
 - Maultrommel; زَنبورَک
 - Mundharmonika; ساز ِ دَهانى
 - Oboe; سُرنا
@@ -1375,12 +1375,12 @@ müssen; بايِستَن، مَجبور بودَن
 - ich muss gehen; مَن بايَد بِرَوَم
 - ich musste gehen; مَن بايَستی بِرَوَم
 - ich musste lachen; قَهقَههٔ خَنده را سَر دادَم، خَندِه اَم گِرِفت
-- er musste arbeiten; او بايَست کار کِنَد
+- er musste arbeiten; او بايَست کار کُنَد
 - jedesmal, wenn er (auf die Toilette) muss, soll er es sagen; هَر وَفت که جیش دارَد بايَد بِگويَد
-müssig;
-- müssig gehen (*: faulenzen); (präs.) تَنبَلى و تَن پَروَرى کَردَن، مُساحِمه پَروانى ک.، تَنبَل بودَن، چَریدَن (می چِرَد)، بیکار و بى عار نِشَستَن
-Müssiggang; تَعَطُل، سَر ِ بهَوائى، بیکارى و بى عارى، تَن آسائى، تَنبَلى، مَگس پَرانى، والَمیدِگى، بیعاری
-Müssiggänger; پَرسه زن، وِلگرد، نُخاله، مَگَس ران
+müßig;
+- müßig gehen (*: faulenzen); تَنبَلى و تَن پَروَرى کَردَن، مُساحِمه پَروانى ک.، تَنبَل بودَن، بیکار و بى عار نِشَستَن
+Müßiggang; تَعَطُل، سَر بِهَوائى، بیکارى و بى عارى، تَن آسائى، تَنبَلى، مَگس پَرانى، والَمیدِگى، بیعاری
+Müßiggänger; پَرسه زن، وِلگَرد، نُخاله، مَگَس ران
 Muster; اُلگو، نِمونه، طَرح، نَقش، سَرمَشق
 - nach unten angeführtem Muster; از قَرار ِ زیر
 mustern;
@@ -1396,12 +1396,12 @@ Mut; جُرأت، شُجاعَت، دِلاوَرى، جَسارَت، بى با
 - ihr Mut sinkt; دِلهايِشان فُرو مى ریزَد
 - hab Mut!; شُجاع باش
 - er hat echt Mut; جِگَرِش را دارَد
-Mutation; جَهِش ِ وِراثَت، موتاسیون
+Mutation; جَهِش  ِ وِراثَت، موتاسیون
 mutig; بى باک، سَر دَر کَف، شُجاع، جَرى، رَشید، دِلاوَر، مُتَجاسِر، جَسور، دِلدار
-- mutig s. auf den Weg machen; جان به کَف به راه افتادَن
+- mutig s. auf den Weg machen; جان به کَف به راه اُفتادَن
 - ich wurde ein bißchen mutiger; يِک کَم شیر شُدَم
 mutlos; دِل افتاده، خَردِل
-mutmassen; اَنگاشتَن، گُمان بُردن، حَدس زَدَن
+mutmassen; اَنگاشتَن، گُمان بُردَن، حَدس زَدَن
 mutmasslich; به اِحتِمال، اِحتِمالاً
 Mutter; (pl.) اُم (اُمَهات)، مادَر
 - Schraubenmutter; مُهرهٔ پیچ

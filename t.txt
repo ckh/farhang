@@ -116,7 +116,7 @@ Tarif; تَعرِفه
 Tarifautonomie; آزادى ِ تَعرِفه
 Tarifvertragsparteien; طَرَفِين ِ قَرار داد ِ دَستمُزد
 tarnen; مُستَتِر شُدَن، اِستِتار کَردَن
-- getarnte Stellung; موضِع ِ مَستور�
+- getarnte Stellung; موضِع ِ مَستور
 Tarnung; اِستِتار، کاموفلاژ
 Tasche;
 - Tasche (Hose, Mantel, u.ä.); جيب
@@ -193,8 +193,8 @@ taufen; کِسى را غُسل ِ تَعميد دادَن
 Täufling; شَخص ِ غُسل ِ تَعميد داده شُده
 Taufpate (- in);  (پِدَر ِ تَعميدى (مادَر ِ ـ
 taugen;
-- als Leiter taugen; ساخت ِ يک رَهبَررا داشتَن، بدَرد ِ رَهبَر خوردَن�
-- das taugt nicht für den Film; که به کار ِ سينِما نِمى آيَد�
+- als Leiter taugen; ساخت ِ يک رَهبَررا داشتَن، بدَرد ِ رَهبَر خوردَن
+- das taugt nicht für den Film; که به کار ِ سينِما نِمى آيَد
 - nichts taugen (Tätigkeit, u.ä.); نابِجا بودَن، تعَريفى نَداشتَن
 - die Worte taugen nichts; کَلَمات جُفت و جور نِمي شَوَند
 - wozu taugt das?; اين به چه کار مى آيَد؟
