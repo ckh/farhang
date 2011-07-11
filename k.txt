@@ -858,10 +858,11 @@ Knüppel; چُماق، گُرز، چوبدَست ِ سَر گِره دار
 - mit Knüppeln bewaffnet werden; به چُماقها مُسَلَح شُدَن
 - jem. wirft ihm den Knüppel zwischen die Beine; کِسى چوب لاى ِ چَرخ ِ او مى گُذارَد، دَر کار ِ کِسى مُشکِل اَنداختَن
 - Gummiknüppel; باطوم
-knurren;
+knurren; ژَکیدَن
 - sein Magen knurrt; شِکَمِش غار و غور میکُنَد
-- Magenknurren; قارت و قورت ِ شِکَم، غار و غور ِ شِکَم
+- knurriger Mensch; ژَکان
 - jem. anknurren; سَر ِ کِسى قُر زَدَن
+- Magenknurren; قارت و قورت ِ شِکَم، غار و غور ِ شِکَم
 knutschen; ماچ و موچ کَردَن
 k.o.; ضَربهٔ فَنى
 - jem. k.o. schlagen; کِسى را ضَربهٔ فَنى کَردَن
@@ -1067,6 +1068,7 @@ Kompromiss; سازِش، تَوافُق
 - fauler Kompromiss; قَرار ِ تو خالى، سازش ِ ـ
 - einen Kompromiss schliessen; به تَوافُق رِسیدن، با کِسى کِناره رَفتَن
 - Politik der Kompromisse; سیاسَت ِ سازِش
+kompromissbereit; با گُذَشت
 Kompromissler; سازِشکار
 kompromitieren; ابروی ِ کِسی را بُردَن
 Kondensation; تَبدیل بُخار به مايِع
