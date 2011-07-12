@@ -341,10 +341,9 @@ Naturreich (Stein, Pflanze, Tier); مَوالید
 Naturwissenschaft; عِلم ِ تَجرُبی، عُلوم ِ طَبیعی، طَبیعیات
 Navigation; ناوبَری
 Nebel; مِه
-nebelig; مِه آلود
 Nebelscheinwerfer; نوراَفکَن ِ مِه شِکَن
 neben;
-- sie sitzt neben ..; او بَغَل ِ دَست ِ فِلان می نِشینَد
+- sie sitzt neben ...; او بَغَل ِ دَست ِ فِلان می نِشینَد
 - neben mir; نَزدیک به مَن، بَغَل ِ مَن
 - er steht neben sich; او طاقَتَش را از دَست داد
 - neben dem Haus; کِنار ِ خانه، مُجاوِر ِ ـ
@@ -354,21 +353,21 @@ nebenan; پَهلویی
 nebenbei; سَرزَبانی
 Nebeneinnahmen; دَرآمَد ِ مَضاف
 - Einnahmen & Nebeneinnahmen; عايِد و مُداخِل
-- Nebenfluß; شاخابه
+Nebenfluß; شاخابه
 Nebengebäude; مُضافات ِ خانه
 Nebenmann;
 - dem Nebenmann Bescheid sagen; به بَغَل ِ دَستی خَبَر دادَن
 Nebenraum; اُطاق ِ پَهلوئی
-Nebensache; چیز ِ جَنِبی
+Nebensache; چیز ِ جانِبی
 - Hauptsache & Nebensache; اُصول و فُروع
-nebensächlich; بی اَهَمیَت، کَم -، جَنِبی، فَرعی
+nebensächlich; بی اَهَمیَت، کَم -، جانِبی، فَرعی
 - alles Gerede ist nebensächlich; این هَمه حَرفها فَرعی است
-Nebensächlichkeit; (pl.) فَرع (فُروع، فَرعیات
+Nebensächlichkeit; (pl.) (فَرع (فُروع، فَرعیات
 Nebenschauplatz; صَحنهٔ فَرعی
 nebenstehend;
 - mit nebenstehender Adresse; با آدرِس ِ مُجاوِر
 Nebenstrasse; خیابان ِ فَرعی
-Nebenwirkungen; عَوارِض ِ جَنبی، ـ جانِبی
+Nebenwirkungen; عَوارِض  ِ جانِبی
 neblig; مِه آلود
 necken; توی ِ کوک ِ کِسی رَفتَن، با کِسی سَر به سَر گُذاشتَن
 - ich ging, um x zu necken; رَفتَم تو کوک ِ کِسی
@@ -381,8 +380,9 @@ negieren; نَفی کَردَن
 nehmen; گِرِفتَن، بُردَن، بَرداشتَن
 - aus der Hand nehmen; از دَست دَرآوَردَن
 - nehmen lassen; گیراندَن
+- Sie können das nehmen (i.S.: mitnehmen); شما می تَوانید این را بَردارید
 - jem. das Recht nehmen; به حَق ِ کِسی تَجاوُز کَردَن
-- nehmen Sie s. Zeit für ..; مُدَت ِ زَمانی را بَرای ِ چیزی قائِل شَوید
+- nehmen Sie s. Zeit für ...; مُدَت ِ زَمانی را بَرای ِ چیزی قائِل شَوید
 - hart im Nehmen sein; روی ِ زَمین  ِ سِفت شاشیدَن
 - Unangenehmes auf s. nehmen; پیه چیزی را به تَن ِ خود مالیدَن
 - Verhältnis zwischen Nehmenden & Gebenden; نِسبَت ِ سِتانده ها به داده ها
@@ -390,12 +390,12 @@ Neid; حَسودی، حَسَد، حِسادَت، غِبطه
 - Objekt des Neides; مَحسود
 neidisch;
 - neidisch sein; غِبطه خوردَن، حَسود بودَن
-- sie waren auf ihn neidisch; به او حَسَد میبُردَند، چِشم دیدَنِش را نَداشتَن
+- sie waren auf ihn neidisch; به او حَسَد میبُردَند، چِشم دیدَنِش را نَداشتَند
 - es war keiner, der nicht auf ihre Bildung neidisch gewesen wäre; کِسی پِیدا نِمی شُد که بَر فَضل ِ او غِبطه نَخورده باشَد
-neigen; گِرايِش داشتَن، گِرانیدَن
+neigen; گِرايِش داشتَن، گِرائیدَن
 - zur Gefährlichkeit neigen; به وَخامَت گِرائیدَن
 - die Straße neigt s.; خیابان کَجی دارَد، صَطح ِ خیابان شیب دار است
-- der Vortrag neigt s. dem Ende entgegen; سُخَنرانی رو به پایان می شوَوَد
+- der Vortrag neigt s. dem Ende entgegen; سُخَنرانی رو به پایان می شَوَد
 - ich neige dazu, ...; مَن تَمایُل دارَم به اینکه
 Neigung;
 - Neigung, Schräge; شیب، سَراشیبی
@@ -408,8 +408,8 @@ nein; نَه، نَخِیر، خِیر
 Nektar; شَهد
 Nelke (Blume & Gewürz); میخَک
 Nenndrehzahl; سُرعَت ِ نامی
-nennen; کِسی را نامیدَن، اِسم بُردن
-- nenne mich "X"; مَرا »فِلان« صِدا کن
+nennen; کِسی را نامیدَن، اِسم بُردَن
+- nenne mich "X"; مَرا »فِلان« صِدا کُن
 - wenn man X nennt, kommt er gerennt (popul.); اِسم ِ فِلان را می بَری فوری حاضِر می شَوَد
 - was man so kennen nennt; تا شِناختَن چه باشَد
 - genannt, bezeichnet; مُسَمی
@@ -420,9 +420,9 @@ Nenner; بَرخه نام، مُخرِج
 Nennwert; اَرزِش ِ اِسمی
 Neonlicht; چِراغ ِ نِئون
 Nerv; (pl.)  (عَصَب (اَعصاب
-- er geht uns auf die Nerven; او موی ِ دَماغ ِ ما شده، کَلافهٔ ما می کُنَد، کاسِمان می کُنَد
+- er geht uns auf die Nerven; او موی ِ دَماغ ِ ما شُده، کَلافهٔ ما می کُنَد، کاسِمان می کُنَد
 - er verliert die Nerven; از کوره دَر می رَوَد
-- Nerven haben; عَجَب اعصابی داشتن
+- Nerven haben; عَجَب اَعصابی داشتَن
 - noch den Nerv haben, zu lachen; حال و حوصِلهٔ خَندیدَن داشتَن
 Nervenheilanstalt; دارالمَجانین، تیمارِستان
 Nervenkrankheit; اِختِلال ِ عَصَبی
@@ -459,8 +459,8 @@ Netzhaut; شَبَکیهٔ چِشم
 Netzwerk; شَبَکه
 Netzwerkumgebung; شَبَکهٔ اِرتِباطی
 neu; جَدید، نو
-- was in .. völlig neu ist; که دَر .. تازِگی دارَد
-- etwas neu empfangen; چیزی را از نو دارا شَوَند، ـ از سَر گِرِفتَن
+- was in ... völlig neu ist; که دَر ... تازِگی دارَد
+- etwas neu empfangen; چیزی را از نو دارا شُدَن، ـ از سَر گِرِفتَن
 - neuer Tag mit neuem Vorsatz; روز از نو شَرط از نو
 - neues Leben anfangen; زِندِگی ِ نوین را آغاز کَردَن
 - war für mich etwas neues; بَرايَم تازِگی داشت
@@ -479,7 +479,7 @@ Neugeburt; نوزايِش
 Neugierde; کُنجکاوی
 neugierig; کُنجکاو، پی جو
 Neujahr; سال ِ نو، تَحویل ِ سال
-Neujahrsfigur; جاحی ِ فیروز
+Neujahrsfigur; حاجی ِ فیروز
 neulich; اَخیراً، تازِگی
 Neuling; تازه کار
 Neumond; مَحاق، غُره، ماه ِ نو
@@ -506,15 +506,15 @@ Nicäa; نیقیه
 nicht; نَه
 - nicht im geringsten; حاشا و کَلا
 - nicht mehr; دیگَر نَه
-- .. noch nicht bekannt waren; شِناخته شُده نَبودَند
+- ... noch nicht bekannt waren; شِناخته شُده نَبودَند
 - mit ihm ist nicht viel los; باروتَش کَم است
-- habe ich nicht gesagt, dass ..; مَگَر نَگُفتَم که
-- nicht genug, dass ihr euch mit den Kindern beschäftigt; کَم با بَچه ها سَر و کَله می زَنید
+- habe ich nicht gesagt, dass ...; مَگَر نَگُفتَم که
+- nicht genug, dass ihr euch mit den Kindern beschäftigt, ...; کَم با بَچه ها سَر و کَله می زَنید
 Nichtanerkennung; به رَسميَت نَشِناختَن
 - Politik der Nichtanerkennung; سیاسَت ِ عَدَم ِ شِناسائی
 Nichtangriffspakt; پِیمان ِ عَدَم ِ تَجاوُز
 Nichtbeachtung; عَدَم ِ رَعایَت
-- die Nichtbeachtung dieser ...; نادیده اَنگاشتَن ِ این
+- die Nichtbeachtung dieser ...; ... نادیده اَنگاشتَن ِ این
 Nichte; دُختَر ِ بَرادر زاده، ـ خواهَر زاده
 Nichteinmischung; عَدَم ِ مُداخِله
 - Nichteinmischung in die inneren Angelegenheiten anderer Staaten; عَدَم ِ مُداخِله دَر اُمور ِ داخِلی ِ کِشوَرهای ِ دیگَر
@@ -536,7 +536,7 @@ nichts; هیچ
 - das macht nichts; مُهِم نیست، ناراحَت نَباش، عِیبی نَدارَد، بی خیال
 - sein Leben war nichts als Lüge; زِندِگی ِ خودِش دُروغ ِ بُزُرگی بیش نَبود
 Nichts (n); نیستی، عَدَم ِ وُجود
-- aus dem Nichts etwas erschaffen; چیزی را از عَدَم بِوُجود آوَردَن، ـ از نیستی به هَستی آوَردَن
+- aus dem Nichts etwas erschaffen; چیزی را از نیستی به هَستی آوَردَن
 - mein Reichtum ist bald im Nichts; ثِروَت ِ مَن به زودی دَر سَرای ِ نیستی است
 - du bist ein Nichts & Niemand; تو آسِمان جُل و بی کَس و کار بیشتَر نیستی
 nichtsdestoweniger; با وُجود ِ این، عِلىٰ رَغم ِ این، مَعَذَلِک
@@ -568,7 +568,7 @@ Niedergang; فُرو پاشی، اِنحِطاط
 niedergeschlagen; پَکَر، با سَر ِ اَفکَندِگی، دِل اُفتاده، چِگَرخواره، پَریشان حال، دَرمانده، مَلول، شِکَسته خاطِر
 Niedergeschlagenheit; سُتوه، دِلگِرِفتِگی، دَرماندِگی، شِکَسته خاطِری
 Niederkunft; زا، زايِش
-- eine Frau kurz vor der Niederkunft; زَنی پا به زا، - به ماه
+- eine Frau kurz vor der Niederkunft; زَنی پا به زا
 Niederlage; شِکَست
 - Niederlage erleiden; مَقهور شُدَن، شِکَست خوردَن
 - jem. eine Niederlage zufügen; کِسی را شِکَست دادَن
@@ -607,7 +607,7 @@ Niederträchtigkeit; خِسَت ِ شَدید، دون بازی
 niederwerfen; فُرو نِشاندَن، بَر اَنداختَن، خواباندَن
 niedlich; شیرین، مَلیح
 niedrig;
-- die Decke war so niedrig, dass ..; سَقف بِقَدری کوتاه بود که
+- die Decke war so niedrig, dass ...; سَقف بِقَدری کوتاه بود که
 - niedrige Lebewesen; جانِوَران ِ پَست
 - niedriger Hügel; تَپهٔ کَم اِرتِفاع
 - von einem niedrigen zu einem höheren Zustand übergehen; از صورَتی ِ اَدَنی به صورَتی ِ اَعلىٰ
@@ -618,14 +618,14 @@ niemand; هیچ کَس
 - niemand ist da; جا تَر است و بَچه نیست
 Niemandsland; سَرزَمین ِ بی صاحِب
 Niere; گِرده، کُلیه
-Nierenstein; (pl.)  (سَنگ ِ کُلیه، رَمل  ِکلیه (رِمال ِ ـ
+Nierenstein; (pl.)  (سَنگ ِ کُلیه، رَمل  ِکُلیه (رِمال ِ ـ
 nieseln; تَراویدَن، يِک ریز می بارَد
 niesen; عَطسه زَدَن، ـ کَردَن
 Niesen (n); عَطسه
 Niessbrauch; حَق ِ عُمری و رَقبی از دارائی ِ دیگَران
 Niete; پَرچین
 - Niete (beim Los); قُرِعهٔ پوچ
-nieten; پَرچ کَردَن، پَرچین ک
+nieten; .پَرچ کَردَن، پَرچین ک
 Nihilismus; نیست اِنگاری، لاگِرائی
 Nikotin; نیکوتین
 Nimmerwiedersehen;
@@ -795,6 +795,7 @@ Nummer; نُمره، شُماره
 - welche Nummer wohnen Sie?; پلاک ِ شُما چیست؟
 - mit Nummern versehen; نُمره گُذاری کَردَن، نُمره زَنی ک
 - eine Nummer schieben; بِنداز، عَمَل ِ جِنسی
+- sie zieht eine echte Nummer ab; عَجَب جانَماز ِ آب کِشى هَستِش
 Nummernschild (vom Haus); پلاک
 nun;
 - von nun an; از این پَس، از هَمین اَلان
