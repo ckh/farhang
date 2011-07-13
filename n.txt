@@ -657,12 +657,12 @@ Nockenwelle; مِیل ِ بادامَک
 Nomade; خانه بَر دوش، جادُر نِشین
 Nomadenstamm; (pl.) تیره، عَشیره (عَشائِر)، ایل
 nomadisch; عَشايِری
-Nomenklatur; مَجموِعه، اِصطِلاحات، نامگُزاره
+Nomenklatur; مَجموِعه، اِصطِلاحات، نامگُزاری
 Nomenklaturkoordinierungsausschuss; کُمیسیون ِ هَماهَنگی ِ نامگُزاری
 Nominativ; حالَت ِ فاعِلی
 nominell; اِسمی، اِسماً، سَمَوی
 nominieren; نامزَد کَردَن، مُعَرِفی کَردَن ِ کاندیدا
-Nominierungsausschuss; هَیات ِ تَعیین ِ کاندیدا
+Nominierungsausschuss; هِیئَت ِ تَعیین ِ کاندیدا
 Nonne; راهِبه
 Nonsens; مُزَخرَفات
 nonstop; بی تَوَقُف، يِکسَره
@@ -671,24 +671,24 @@ Nordamerika; آمریکای ِ شُمالی
 Nordsee; دَریای ِ شُمال
 Nord-Süd-Gefälle; اِختِلاف ِ سَطح ِ زِندِگی ِ شُمال و جُنوب
 Nörgelei; بَهانه گیری، بَهانه جوئی، ایراد گیری، نِق
-nörgeln; نِق نِق زَدَن، نِق ز.، ایراد گِرِفتَن، خُرده گ
+nörgeln; .نِق نِق زَدَن، نِق ز.، ایراد گِرِفتَن، خُرده گ
 - nörgeliger Kunde; مُشتَری ِ ایرادی
 - Nörgler (nörgelt, um Vorteil zu bekommen); دَبه دَر آر
 Norm; (pl.) مِعیار، قاعِده (قَواعِد)، میزان، اَندازه، هَنجار
 - das ist die Norm; به هَنجار است
-- von den üblichen Normen der ... befreit; از قِید ِ مَوازین ِ مُتَعارِف ِ.. آسوده ساخته است
+- von den üblichen Normen der ... befreit; از قِید ِ مَوازین ِ مُتَعارِف ِ... آسوده ساخته است
 - Rechtsnorm; مِعیار ِ حُقوقی
 normal;
 - normaler Bürger; فَرد ِ عادی
 - ruhiger und normaler Bürger; آدَم ِ آرام و مُوَقِر
-- es ist normal (geworden); مَرسوم (شُده است
+- es ist normal (geworden); (مَرسوم (شُده است
 - ganz normales Leben; زِندِگی ِ عادی و مُتَعارِف
 normalerweise;
 - normalerweise ist er ...; او دَر موقِع ِ عادی، مَعمولاً
 - normalerweise regnet es in ... nicht; مَگَر نَه اینکه دَر ... از باران خَبَری نیست
 normalisieren;
 - die Lage normalisieren; وَضع را عادی کَردَن
-Normalisierungsprozess; رَوَند عادی شُدَن
+Normalisierungsprozess; رَوَند ِ عادی شُدَن
 normativ; دَستوری
 Normenausschuss; کُمیسیون ِ اِستانداردها، ـ مِعیارها
 Normvorschrift; مُشَخَصات ِ اِستاندارد
@@ -716,17 +716,17 @@ Notenschlüssel; کِلید ِ نوت
 Notenständer; سه پایهٔ نوت
 notfalls; دَر صورَت ِ لُزوم، وَقتیکه ایجاب کُنَد
 notgedrungen; ناگُزیر
-- notgedrungen etwas bezüglich .. machen; ناگُزیر به چیزی شُدَن
+- notgedrungen etwas bezüglich ... machen; ناگُزیر به چیزی شُدَن
 Nothilfe; کُمَک ِ ضَروری
 notieren;  .دَرج کَردَن، یاد داشت ک
 notiert; دَرج شُده
 Notifizierung; تَذکار
 nötig;
-- nötig sein;  .لُزومی داشتن، ضَرورَت د.، ضَروری بودَن، مُقتَضىٰ ب.، لازِم ب.، مُبرَم ب
+- nötig sein;  لُزومی داشتن، ضَرورَت د.، ضَروری بودَن، مُقتَضىٰ ب.، لازِم ب.، مُبرَم بودَن
 - bis jetzt hatte ich ihn noch nicht nötig; مَن هَنوز اِحتیاجَم به او نَيُفتاده بود
-- ich glaub, du hast das nötig (i.S.: Bestrafung); به نَظَرَم. تَنِت می خورَد
+- ich glaub, du hast das nötig (i.S.: Bestrafung); به نَظَرَم تَنِت می خورَد
 nötigen;
-- s. zu etwas nötigen (*: veranlassen); خودرا اِلزام کَردَن، ـ تَحت ِ فِشار گُذاشتَن ِ
+- s. zu etwas nötigen (*: veranlassen); خودرا اِلزام کَردَن، ـ تَحت ِ فِشار گُذاشتَن
 Nötigung; هَتک ِ ناموس، ـ غَرَض، تَجاوُز
 Notiz; دَستنِوِشته، یاد داشت
 notleidend; خِل، مُحتاج
@@ -739,7 +739,7 @@ Notstand; وَضع ِ اِضطِراری
 Notstandsgebiet; مَنطَقهٔ اِضطِراری
 Notwehr; دِفاع ِ نَفس، ـ اِضطِراری، ـ از خود
 notwendig;
-- notwendig sein; لُزومی داشتن، ضَرورَت د.، ضَروری بودَن، مُقتَضىٰ ب.، لازِم ب.، مُبرَم ب
+- notwendig sein; لُزومی داشتن، ضَرورَت د.، ضَروری بودَن، مُقتَضىٰ ب.، لازِم ب.، مُبرَم بودَن
 - notwendig, zu beachten; واجِب اُلرَعایه
 - notwendige Sorgfalt; دِقَت ِ لازِم، ـ واجِب
 - notwendig machen; مُستَلزِم بودَن
@@ -774,7 +774,7 @@ Nudel; رِشته، ماکارونی
 nuklear; هَسته ای
 - nukleare Rüstung; تَسلیحات ِ هَسته ای
 Nuklearenergie; اِنِرژی ِ هَسته ای
-Nuklearpotential; قوهٔ هَسته ای
+Nuklearpotential; قُوهٔ هَسته ای
 null; هیچ
 - null & nichtig; باطِل، کأن لَم يَکُن، اِنگار نَه اِنگارَش بودَن
 - null zu zwei; دو بَر هیچ
@@ -784,18 +784,18 @@ Null (f); صِفر
 - die Möglichkeiten der ... waren gleich Null; اِمکانات ِ... بِسیار ناچیز بود
 Nulleinstellung; تَنظیم ِ صِفر ِ دَستگاه
 Nulllinie; خَط ِ صِفر
-numerieren; بَر شُمُردَن، نُمره گُذاری کَردَن، نُمره زَنی ک
-Numerierung; نُمره گُذاری
-- Seitennumerierung; وَرَق شُماری
 numerisch; بِشِکل ِ شُماره ای
 - numerisch gesteuert; بِشِکل ِ شُماره ای کُنترُل شُده
 Numerus clausus; شَرط ِ مُعَدِل بَرای ِ وُرود به دانِشگاه بَر مَبنای ِ نُمرهٔ مُعَدِل ِ دیپلم
 Nummer; نُمره، شُماره
 - er wählt eine Nummer nach der anderen; تَک تَک شُمارهٔ تِلِفُنهارا می گیرَد
 - welche Nummer wohnen Sie?; پلاک ِ شُما چیست؟
-- mit Nummern versehen; نُمره گُذاری کَردَن، نُمره زَنی ک
+- mit Nummern versehen; .نُمره گُذاری کَردَن، نُمره زَنی ک
 - eine Nummer schieben; بِنداز، عَمَل ِ جِنسی
 - sie zieht eine echte Nummer ab; عَجَب جانَماز ِ آب کِشى هَستِش
+nummerieren; .بَر شُمُردَن، نُمره گُذاری کَردَن، نُمره زَنی ک
+Nummerierung; نُمره گُذاری
+- Seitennummerierung; وَرَق شُماری
 Nummernschild (vom Haus); پلاک
 nun;
 - von nun an; از این پَس، از هَمین اَلان
@@ -820,21 +820,21 @@ Nutzeffekt; راندِمان، بازده
 nutzen; اِستِفاده کَردَن
 - die Gelegenheit nutzen; فُرصَت را مُغتَنَم شُمُردَن، از فُرصَت اِستِفاده کَردَن
 Nutzen (m); مَنفعَت، بَهره، فایده، اَرزِش، هوده، هُده
-- zum Nutzen; بَرای ِ خِیريَت، ـ اِنتِفاع، به نَفع ِ
+- zum Nutzen; ِ بَرای ِ خِیريَت، ـ اِنتِفاع، به نَفع
 - Nutzen ziehen (allg.); مُستَفید شُدَن، بَهره بُردَن، بَهره گِرِفتَن، سود بُردَن، اِستِفاده کَردَن
 - geistlichen Nutzen ziehen aus ...; از .. مُستَفیض شُدَن
-- aus etwas Nutzen ziehen (betrügerisch); روی ِ .. کُلاه ِ شَرعی گُذاشتَن
+- aus etwas Nutzen ziehen (betrügerisch); روی ِ ... کُلاه ِ شَرعی گُذاشتَن
 - jem. sucht seinen eigenen Nutzen; کِسی خَر ِ خودَش را سَوار است
 - der Helfer hat den größten Nutzen; آتَش از آتَش گُل کُنَد، یاری بِيِکدیگَر مایهٔ سَعادَت ِ یاری دَهَندِگان است
 nützen; فایده داشتن
 - das nützt mir; به دَرد ِ مَن می خورَد، مَنفَعَت می بینَم
 - etwas kaufen, was jem. nützt; يِک چیز بَرای ِ دَردخوری ِ کِسی خَریدَن
-- wem nützt das (z.B. eine Reise)?; آبَش نَبود نانَش نَبود، ... اش چه بود؟؛ بِطور ِ مِثال: آبَت نَبود نانَت نَبودتوط ِ این بَرف سَفَر کَردَنَت چه بود؟
+- wem nützt das (z.B. eine Reise)?; آبَش نَبود نانَش نَبود ... اش چه بود؟؛ بِطور ِ مِثال: آبَت نَبود نانَت نَبود توی ِ این بَرف سَفَر کَردَنَت چه بود؟
 Nutzfahrzeug; وَسیلهٔ نَقلیهٔ عام اُلمَنفِعه
 Nutzlast; بار مُفید
 nützlich; مُفید
-- nützlich sein;  .کار ساز بودَن، سازَنده ب.، سودمَند ب.، مَنفَعَت ب.، مُفبد ب
-- für nützlich halten; مَصلَحَت دانستن، ـ دیدن
+- nützlich sein;  .کار ساز بودَن، سازَنده ب.، سودمَند ب.، مَنفَعَت ب.، مُفید ب
+- für nützlich halten; مَصلَحَت دانِستَن، ـ دیدَن
 - kein Beweis für die Nützlichkeit seines Berufes; دَلیل بَر بَهره وَر بودَن ِ شُغل ِ او نیست
 nutzlos; نافَرجام، هَدَر، باطِل
 - nutzlos herumsitzen; عَلاف نِشَستَن
