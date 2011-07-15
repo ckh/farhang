@@ -52,7 +52,7 @@ Oberst (milit.); سَرهَنگ
 Oberteil; بَخش ِ فوقانى
 obgleich;
 - obgleich, dass doch; وِلو اینکه، گو اینکه، با اینکه
-- obgleich .., so; هَرچَند ... وَلى
+- obgleich ..., so; هَرچَند ... وَلى
 Objekt; مَفعول
 - Objekt der Begierde (*: Gegenstand, *: Thema); مَطمَع
 - Objekt der Kritik; آماج ِ اِنتِقاد
@@ -70,11 +70,11 @@ Obst; (pl.)  (میوه (میوِجات
 - unreifes Steinobst; چَغاله
 obszön; مُستَهجَن، زَنَنده، وَقیح
 obwohl;
-- obwohl er wusste, eingedenk der Tatsache, dass ...; با اینکه، با عِلم ِ
+- obwohl er wusste, eingedenk der Tatsache, dass ...; ِ با اینکه، با عِلم
 Ochse; گاو ِ نَر اَخته
 - Zugochse; وَرزاو، وَرزگاو
-Ocker; گِل زَرد
-öde; موات، زَمین ِ بايِر
+Ocker; گِل ِ زَرد
+öde; مَوات، زَمین ِ بايِر
 - öde, langweilig; خَسته کُنَنده
 - total öde; بی آب و عَلَف
 Ödem; وَرَم
@@ -87,14 +87,14 @@ OECD (Organisation für wirtschaftliche Zusammenarbeit); سازِمان ِ هَ
 Ofen; اُجاق، بُخارى
 - Backofen; تَنور
 - Badeofen; تون
-- Hochofen; کورة بُلَند
+- Hochofen; کورهٔ بُلَند
 Ofenauskleidung; پوشِش ِ نَسوز ِ کوره
 Ofenausmauerung; پوشِش ِ آجُرى ِ کوره
 offen; روباز
 - offen sein miteinander;  .با هَم رو راست بودَن، رُک و راست ب
 - offen & ehrlich; بى غَل و غَش
 - weit offen; مُنبَسِط
-- die Augen offen halten; پِلکهايِشان را باز نِگَه دارَند
+- sie halten die Augen offen; پِلکهايِشان را باز نِگَه دارَند
 - das Land steht dir offen; تَمامى ِ زَمین پیش ِ تو است
 - die Stadt liegt offen vor dir; شَهر لُخت و بَرهوت است
 - Zeilen offen lassen in einer Urkunde; دَر مَدرَک سَطرهارا خالى گُذاشتَن
@@ -102,7 +102,7 @@ offen; روباز
 - Tag der offenen Tür; روزى که وُرود بَراى ِ هَمِگان آزاد است
 - offenes Ende; آخَرَش مَعلوم نیست
 - offene Ebene; دَشت ِ گُستَرده
-- offener Brief; نامة سَرگُشاده
+- offener Brief; نامهٔ سَرگُشاده
 - offener Güterwagen; واگُن ِ روباز
 - offener Meinungsaustausch; تَبادُل ِ نَظَر بى تَکَلُف
 - offen gesagt; راستِش را بِخواهید
@@ -115,7 +115,7 @@ offenbaren; عَیان کَردَن
 - Offenbarer der Geheimnisse (Gott); کاشِف اُلاِسرار
 - dem Prophet offenbartes Wissen; لوح ِ ناخوانده
 Offenbarung; وَحى، بُروز، مُکاشِفه
-- Selbstoffenbarung; اَفشاء از خود
+- Selbstoffenbarung; اِفشاء از خود
 - verkörperte Offenbarung; وَحى ِ مُجَسَم
 Offenbarungseid; سوگَند ِ راستین
 Offenheit;
@@ -133,12 +133,12 @@ Offensive; تَهاجُم، تَعرُض، آفِند، حَمله، هُجوم
 öffentlich; عَلَنى
 - etwas öffentlich machen; بَر مَلا گُذاشتَن، آشکار کَردَن
 - öffentlich sprechen; سُخَن گفتن دَر جَمع
-- öffentliches Amt; اِدارة عُمومى
+- öffentliches Amt; اِدارهٔ عُمومى
 - öffentliche Ausgaben; هَزینه هاى ِ عُمومى
 - öffentlicher Dienst; خَدَمات ِ عُمومى
 - öffentliche Hand; مَقامات ِ عُمومى
 - öffentliches Interesse; مُصالِح ِ عُمومى
-- öffentliche Körperschaft; مؤِسِسة عُمومى
+- öffentliche Körperschaft; مؤِسِسهٔ عُمومى
 - öffentliche Meinung; عَقیده و اَراء ِ عُمومى
 - unter dem Druck der öffentlichen Meinung; تَحت ِ فِشار ِ اَفکار ِ عُمومى
 - öffentliche Mittel; وُجوه ِ عُمومى
@@ -147,7 +147,7 @@ öffentlich; عَلَنى
 - Mann des öffentlichen Lebens; رَجُل ِ اِجتِماعى
 - Polarisierung der öffentlichen Meinung; قُطبى کَردَن ِ عَقايِد ِ عُمومى
 - er hat X öffentlich blossgestellt; بَراى ِ فِلان دَردسَر ِ کَذائى را دُرُست کَرد
-- öffentlich-rechtliche Körperschaft; مؤِسِسة تَخت ِ قانون ِ عُمومى
+- öffentlich-rechtliche Körperschaft; مؤِسِسهٔ تَخت ِ قانون ِ عُمومى
 Öffentlichkeit;
 - Öffentlichkeit des Verfahrens; عَلَنيَت ِ مُحاکِمه
 - an die Öffentlichkeit kommen; شايِع شُدَن
@@ -169,14 +169,14 @@ Öffnungsweite; پَهناى ِ اِتِصال ِ باز
 Öffnungszeiten; ساعات ِ کار
 oft; غالِباً، بارها، اَغلَب
 - oft kommt es vor, dass ...;  بَسا مى شَوَد که
-- wie oft habe ich gesagt, dass ..?; چَند بار گُفتَم که ..؟ بارها و بارها ـ
+- wie oft habe ich gesagt, dass ...?; چَند بار گُفتَم که ...؟ بارها و بارها ـ
 - des öfteren; مُکَرَر، بارها
-ohne; بِدون ِ
+ohne; ِ بِدون
 - ohne dich; بى تو
-- ohne jede ..;  خالى از
-- ohne wirklich ..; بى هیچ
+- ohne jede ...;  خالى از
+- ohne wirklich ...; بى هیچ
 - ohne zu;  بى اینکه، بِدون ِ اینکه
-- ohne zu zögern ..; بِلا دِرَنگ
+- ohne zu zögern ...; بِلا دِرَنگ
 - ohne Selbstverleugnung; بِدون ِ از خود گُذَشتِگی
 ohnegleichen; عَدیم اُلقَرین، بى نَظیر، قابِل ِ مُقايِسه نیست
 Ohnmacht; بی هوش
@@ -194,10 +194,10 @@ Ohr; گوش
 - jem. das Fell über die Ohren ziehen; سیرُم از پُشت ِ کِسى کِشیدَن
 - der Hund hat große, abstehende Ohren; این سَگ گوشهای ِ بَلبَله دارَد
 - mir brausen die Ohren; گوشهايَم صِدا مى کُنَد
-- seine Ohren überall haben; بايَد گوش به زَنگ باشَد، کِسى هَمه جا ریشه دُوانده است
+- seine Ohren überall haben; بايَد گوش به زَنگ باشَد، کِسى هَمه جا ریشهٔ دُوانده است
 - sie waren ganz Ohr; آنها سَر و پا گوش شُدَند
 - die .., die ihm zu Ohren kamen; او چیزى را که از فِلان سَر مى زَد
-- Wände haben Ohren; دیوار موش دارَد، موش گوش دارَد
+- Wände haben Ohren; دیوار موش دارَد موش گوش دارَد
 - die Ohren spitzen; گوش را تیز کَردَن، گوش به چیزى شُدَن
 - noch grün hinter den Ohren; دَهَنَش هَنوز بوی ِ شیر می دَهَد، تازه از تُخم دَر آمَده
 - noch nicht trocken hinter den Ohren, aber schon grosse Töne spucken; آنها غوره نَشُده مَویز مى شَوَند
@@ -205,9 +205,9 @@ Ohrenschmalz; چِرک ِ گوش
 Ohrfeige; کِشیده، سیلى، طَپانچه
 - Ohrfeige einstecken;  .توسَرى خوردَن، تو دَهَنى خ
 ohrfeigen;  .توسَرى زَدَن، به صورَت سیلى ز.، طَپانچه ز
-Ohrgehänge; آویزة گوش
-Ohrläppchen; پَرة گوش، نَرمة گوش
-Ohrmuschel; لالة گوش
+Ohrgehänge; آویزهٔ گوش
+Ohrläppchen; پَرهٔ گوش، نَرمهٔ گوش
+Ohrmuschel; لالهٔ گوش
 Ohrring; مَنگوش، گوشواره
 ok; باشه
 - so, das alles ok wird; که آب از آب تَکان نَخورَد
@@ -246,7 +246,7 @@ Ölwanne; وان ِ روغَن، کارتِل
 Ölwechsel; تَعویض ِ روغَن
 Olympiade; اُلِمپیک
 - die olympischen Spiele; مُسابِقات ِ اُلِمپیک
-Olympiasieger; قَهرَمان ِ اُلِمپیک، بَرَندة جایزة اُلِمپیک
+Olympiasieger; قَهرَمان ِ اُلِمپیک، بَرَندهٔ جایزهٔ اُلِمپیک
 Oma; نَنِه، مامان ِ بُزُرگ
 Omelett; خاگینه، اُملِت
 Omen; اَتَر، فال
@@ -292,18 +292,18 @@ Opiumraucher; اَفیونى، تِریاکى
 Opportunismus; فُرصَت طَلَبى
 Opportunist; فُرصَت طَلَب، دَم ساز، اِبن اُلوَقت، نان به نِرخ و روز خور
 Opposition; اُپوزیسیون، مُخالِفَت، جِناح ِ مُخالِف، اَقَليَت ِ مَجلِس
-- s. in Opposition befinden mit; دَر تَقابُل بودَن با ..، مُخالِف ِ کِسى بودَن
+- s. in Opposition befinden mit; دَر تَقابُل بودَن با ...، مُخالِف ِ کِسى بودَن
 - ausserparlamentarische Opposition; اُپوزیسیون ِ بُرون ِ پارلِمانى
-- in die Opposition gehen; عُهده دار ِ وَظیفة اَقَليَت شُدَن
+- in die Opposition gehen; عُهده دار ِ وَظیفهٔ اَقَليَت شُدَن
 Optik; نور شِناسى، تَجهیزات ِ نورى
 Optiker; عِینَک ساز
 optimal; عالى، از هَمه چیز بِهتَر است
-optimieren; به حَد اَعلاء رِساندَن
+optimieren; به حَد ِ اَعلاء رِساندَن
 Optimismus; خوشبینى
 optimistisch; خوش بین
 - er ist optimistisch; او خوش بین است
 - er hatte eine optimistische Phase; اُمید ِ او گُل مى کَرد
-Optimum; دَرَچة عالى
+Optimum; دَرَچهٔ عالى
 Option; اِختیار، خیار، اِنتِخاب
 optisch; عِینی، بَصَری
 - optische Geräte; آلات ِ بَصَرى
@@ -347,15 +347,15 @@ Ordnung;
 - zur Ordnung rufen; به نَظم فَرا خوندَن
 - das hat alles seine Ordnung; حِساب و کِتاب داشتَن
 - sein Bett in Ordnung bringen;  .مَلافِه اَش را آنکادِر کَردَن، مُرَتَب ک
-- mit dem Auto ist was nicht in Ordnung;  .ماشین را خَلَل هَست، ماشین عِیب دارَد، خَلاف د
+- mit dem Auto ist was nicht in Ordnung;  اشین را خَلَل هَست، ماشین عِیب دارَد، خَلاف دارَد
 - das Dokument ist nicht in Ordnung; سَنَد مَخدوش است
 - die Kleidung in Ordnung bringen; لِباس را صاف و صوف کَردَن
 - eine Sache in Ordnung bringen; به چیزى سَر و صورَت دادَن، چیزى را مُرَتَب کَردَن، ـ دُرُست ک.، ـ نَظم و تَرتیب دادَن
 - indem man Organisationen eine Ordnung gibt; تَشکیلهائى با ساماندَهى
-- Gemeindeordnung; آئین نامة بَخشدارى
-- Neuordnung (der ..); (... ِ  ) نوسازِماندَهى
+- Gemeindeordnung; آئین نامهٔ بَخشدارى
+- Neuordnung (der ...); (... ِ  ) نوسازِماندَهى
 - Raumordnung; نَسق ِ اِنتِفاع از زَمین، آئین نامهٔ انتفاع از مُلک و زَمین
-Ordnungsamt; اِدارة ثَبت
+Ordnungsamt; اِدارهٔ ثَبت
 ordnungsgemäss; بَر طِبق ِ قانون
 Organ;
 - beratendes Organ; نِهاد ِ مَشوَرَتى
@@ -367,17 +367,17 @@ Organisation; سازِمان
 - er ist für die ganze Organisation zuständig; تَدارُکات دَر دَست ِ اوست
 - Mitglied einer (bestimmten) Organisation; عُضو ِ سازِمان
 organisatorisch; تَشکیلاتی
-- das ist ein organisatorisches Problem; این مَسئَلة تَشکیلاتى است
+- das ist ein organisatorisches Problem; این مَسئَلهٔ تَشکیلاتى است
 organisch;
 - organische Chemie; شیمى ِ آلى
-- ein organischer Prozess; پروسه طَبیعی
+- ein organischer Prozess; پروسهٔ طَبیعی
 organisieren; سازِمان دادَن
 - Versammlung organisieren; تَشکیل ِ جَلَسه دادَن
 - Widerstand organisieren; مُبارِزه را سازِمان دادَن
 - organisierter Streik; اِعتِصاب ِ سازِمان یافته
 Organisierung; سازِماندَهى
 Organismus; موجود ِ زِنده، بَدَن
-Organist; نَوازَندة اُرگ
+Organist; نَوازَندهٔ اُرگ
 Organspende; اِهداء ِ عُضو
 Organtransplantation; پِیوَند ِ عُضو ِ بَدَنى
 Organza; اُرگاندی
@@ -385,19 +385,19 @@ Orgasmus; اُرگاسم
 Orgel; اُرگ
 - Drehorgel; اُرگ ِ دَندانه ای
 Orgie; عَیاشى، عِیش و نوش، عِشرَت
-- eine Orgie veranstalten; جَشن ِ خارِق ِ رُسوم گرفتن
+- eine Orgie veranstalten; جَشن ِ خارِق ِ رُسوم گِرِفتَن
 Orient; مَشرِق زمین، شَرق
 Orientalistik; شَرق شِناسى
 orientieren;  .وانِگَریستَن، جَهَت دادَن، اِطِلاعات د
+- ich muss mich erst einmal orientieren; مَن بایَد اَوَل جَهَت ِ خودَم را پِیدا کُنَم
 - eine Politik neu orientieren; به سیاسَت جَهَت ِ نو دادَن
 - linksorientiert; چَپ گِرا
 - rechtsorientiert; راست رو، راستگِرا
 Orientierung; جَهَت گیرى، اِرشاد، جَهات یابى، خَط ِ مَشق، تَشخیص ِ موقِعيَت
 - jem. eine Orientierung geben; کِسى را راهنَمائى کَردَن
-- jem. eine Orientierung geben (*: anleiten); کِسى را توجیه کَردَن
 Orientierungsstufe (in der Schule); کلاس ِ راهنَمایى
 Original; اَصل
-Originalfassung; نُسخة اَصلى
+Originalfassung; نُسخهٔ اَصلى
 Originalität; اِصالَت
 - Originalität der Kultur; اِصالَت ِ فَرهَنگ
 Originalverpackung; آكبَند، بَسته بَندی دَست نَخورده
@@ -421,7 +421,7 @@ Ortsanzeiger; مَکان نَما
 Ortschaft; (pl.) دِهکَده، آبادى، قَریه (قَراء)، قَصَبه (قَصَبات)، بَلاد
 ortsfest; ثابِت
 Ortsgespräch (Telefon); صُحبَت ِ تِلِفُنى ِ مَحَلى
-Ortskrankenkasse; بیمة مَحَلى ِ بیمارى
+Ortskrankenkasse; بیمهٔ مَحَلى ِ بیمارى
 Ortswechsel; تَفییر ِ مَکان
 - um einen Ortswechsel zu haben (popul.); تا آب به آب شَوَد
 Ortung; جَهَت یابى، مَحَل ـ
@@ -451,4 +451,4 @@ Ozean; دَریا، اُقیانوس
 - Atlantischer Ozean; اُقیانوس ِ آتلانتیک
 - Indischer Ozean; اُقیانوس ِ هِند
 - Pazifischer Ozean; اُقیانوس ِ آرام
-Ozon; اوزون (دَر اَثَر اَشَعة ماوَراء ِ بَنَفش ِ آفتاب تَشکیل مى شَوَد
+Ozon; اوزون (دَر اَثَر اَشَعهٔ ماوَراء ِ بَنَفش ِ آفتاب تَشکیل مى شَوَد

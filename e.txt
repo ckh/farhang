@@ -1551,6 +1551,7 @@ elterlich;
 - elterliches Erziehungsrecht; حَق ِ حِضانَت ِ والِدِین
 - elterliche Gewalt; وِلایَت ِ والِدِین
 Eltern; اَبَوِین، والِدِین، مادَر و پِدَر
+e-Mail; رایانامه
 Emaille; لُعاب، مینا
 emaillen; لُعابى
 emaillieren; لُعابدار کَردَن، مینائى ک
