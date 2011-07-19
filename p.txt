@@ -429,7 +429,7 @@ Pfeife; پیپ
 pfeifen; صَفیر زَدَن، سوت ز.، ـ کِشیدَن
 - er pfeift aus dem letzten Loch; تَنَفُسِش به شُمار اُفتاده بود
 - er pfiff und spitzte seine Mund dazu; دَهان ِ خودرا غُنچه کَرد و سوتى کِشید
-- pfeif´auf die 500 Dollar; گور ِ بابای 500 دُلار
+- pfeif´auf die 500 Dollar; گور ِ بابای ۵۰۰ دُلار
 - Pfeifen des Windes; نَفیر ِ باد
 - pfeifend; سوت کِشان
 Pfeil; تیر
@@ -452,13 +452,14 @@ Pferd; اَسب
 - auf das Pferd einschlagen; شَلاق بَر کَفَل و گُردهٔ اَسب زَدَن
 - das Pferd beim Schwanz aufzäumen; از تَه ِ سُرنا زَدَن، اَسب را عَقَب ِ دُرُشکه بَستَن
 - er hat auf ein gutes Pferd gesetzt; او بَر خِنگ ِ مُراد سَوار شُد
+- Pferd in der Tretmühle; اَسب ِ اَسیره
 Pferdefuhrwerk; اَسب کِش
 Pferdemanege; مِیدان ِ اَسبدَوانى
 Pferderennen; مُسابِقهٔ اَسب دَوانى، ـ اَسب سَوارى
 Pfiff;
 - der Pfiff des Zuges; صَفیر ِ قَطار، سوت ِ ـ
 - die Kleidung hat Pfiff; لِباس شیک است
-er hat den Pfiff raus; لَمَش دَستَش آمَده
+- er hat den Pfiff raus; لَمَش دَستَش آمَده
 Pfifferling; يِک نوع قارچ خوردَنی
 - keinen Pfifferling wert; چیزى را به پَشیزى نَگِرِفتَن
 - dafür gebe ich keinen Pfifferling; بَراى ِ این اَرزِشى قائِل نیستَم
@@ -469,35 +470,34 @@ Pflanze; رُستَنى، گیاه، نَبات
 - Sammelbegriff für jede Art von duftender Pflanze; رِیحان
 pflanzen; غَرس کَردَن، کاشتَن
 - gepflanzt; مَغروس
+Pflanzenkunde; گیاه شِناسی
 Pflanzer; غارِس
 Pflanzung; غَرس، کِشت
-Pflanzenkunde; گیاه شِناسی
 Pflaster;
 - Pflaster, Verband; مُرهَم، جَسب ِ زَخم
 - Steinpflaster; سَنگ فَرش، آجُر فَرش
-Pflasterstein; قُلبهٔ سَنگ
 pflastern; تَرصیف کَردَن، سَنگ گُذاشتَن، سَنگ نِشاندَن
 - den Weg pflastern; راه را سَنگ فَرش کَردَن
 - gepflastert; آجُری
+Pflasterstein; قُلبهٔ سَنگ
 Pflaume; آلو
 Pflege; مُراقِبَت، پَرَستارى
 pflegebedürftig;
 - pflegebedürftige Person; آدَم ِ بالینى، ـ بَستَرى، ـ فَراشى
 Pflegeeltern; ناپِدَرى و نامادَرى
-Pflegekind; فَرزَند خوانده
 pflegeleicht;
 - ein pflegeleichtes Kind (popul.); بَچهٔ بى درد ِ سَر
 pflegen;  .از کِسی مُواظِبَت کَردَن، - پَرَستداری ک
 - jem. pflegen, der hilflos ist; کِسی را تَر و خُشک کَردَن
 - sein Äusseres pflegen; ظاهِرِش را آراستَن
-- diese Arbeit war, .. zu pflegen; این شُغل مُراقِبَت از .. بود
-- er pflegte darüber zu reden; دَر بارهٔ آن داد سُخن مى داد
+- diese Arbeit war, ... zu pflegen; این شُغل مُراقِبَت از ... بود
+- er pflegte darüber zu reden; دَر بارهٔ آن داد سُخَن مى داد
 Pfleger; پَرَستار
-Pflicht; وَظیفه، شرط، تَکلیف
-- da gibt es auch noch die Unterhaltspflicht für ..; حالا مُتَکَفِل ِ مَخارِج ِ فْلان هَم هَست
+Pflicht; وَظیفه، شَرط، تَکلیف
+- da gibt es auch noch die Unterhaltspflicht für ...; حالا مُتَکَفِل ِ مَخارِج ِ فْلان هَم هَست
 pflichtbewusst; وَظیفه شِناس
 - pflichtbewusster Mensch; آدَم ِ وَظیفه شِناس
-- Gefühl des Pflichtbewusstsein; اِحساس ِ وَظیفه شِناسى
+- Gefühl des Pflichtbewusstseins; اِحساس ِ وَظیفه شِناسى
 Pflichtfach; رِشتهٔ اِجبارى
 Pflichtteil; سَهم ِ اِرث
 Pflichtverteidiger; وَکیل ِ تَسخیرى
@@ -505,7 +505,7 @@ Pflock; دیرَک
 - Pflock (als Strafmittel); کُنده
 pflücken; (präs.)  (چیدَن (مى چینَد
 Pflug; خیش، شُخم، گاو ِ آهَنگ
-pflügen; خیش زَدَن، شُخمکارى کَردَن، شیار ک
+pflügen; .خیش زَدَن، شُخمکارى کَردَن، شیار ک
 - gepflügter Boden; زَمین ِ شیار شُده، - شُخم خورده
 Pforte; دَر ِ وُرودى، دَرب
 Pförtner; دَربان
@@ -516,7 +516,7 @@ Pfriem; دِرَفشه، جَوال دوز
 Pfropf; پِیوَند
 - Blutpfropf; لَخته
 pfropfen; پِیوَند زَدَن
-pfui; تُفو، تُفو
+pfui; تُفو تُفو
 Pfund; نیم کیلو
 - 1 englisches Pfund; يِک پاوند
 Pfusch; کار به عَجَله و سَر ِ هَم بَندى، سُنبُل کارى
@@ -524,7 +524,7 @@ Pfusch; کار به عَجَله و سَر ِ هَم بَندى، سُنبُل �
 Pfuscher; سُنبُل کار، سَر ِ هَم بَند
 Pfütze; دَست چال، گودال، چاله
 Phalangist; سَرباز شِبه نِظامی
-- phalangistische Milizen; نیروهاى ِ شَبه نِظامى اُلکَتائِب
+- phalangistische Milizen; نیروهاى ِ شِبه نِظامى ِ اُلکَتائِب
 Phanerogamen; گیاه هاى ِ روشَن زاد
 Phänomen; پَدیده
 - das ist ein Phänomen; خِیلى عَجیب است
@@ -568,6 +568,8 @@ photografieren; عَکس گِرِفتَن
 Photokopie; فُتوکُپى
 Photometer; نور سَنج
 Photosynthese; فُتوسِنتِز
+Phrase; کُلی بافی
+- Phrasen dreschen; کُلی بافی کَردَن
 phrasenhaft; اِسطِلاحات ِ هَمه جائى، ـ پیش ِ پا اُفتاده
 Physik; فیزیک
 - Festkörperphysik; فیزیک ِ اَجسام ِ صُلب
@@ -595,14 +597,14 @@ pikant;
 pikiert;
 - er reagiert pikiert; مِثل ِ اینکه آبرويَش رَفته است قیافه به خود مى گیرَد
 Pilger; (pl.) زائِر (زائِرین، زُوار)، چاوُش
-- (echter) Pilger; (i. Gegensatz zu: Pseudo-)  (جاحی جاده ای (- مِعده ای
+- (echter) Pilger; (i. Gegensatz zu: Pseudo-)  (حاجی جاده ای (- مِعده ای
 Pilgerschaft; زیارَت
 Pille; قُرض، حُب
 Pilot; خَلَبان
 Pilz; قارچ
 Pimmel; دودول
 pingelig;
-- er ist pingelig; او به اِفراط مُقَيِد بِجُزئیات ِ رُسوم است، او مَته به کون ِ خَشخَاش مى نَهَد، او تَنگ نَظَر است، او موشِکاب است
+- er ist pingelig; او به اِفراط مُقَيِد بِجُزئیات ِ رُسوم است، او مَته به کون ِ خَشخَاش مى نَهَد، او تَنگ نَظَر است، او موشِکاف است
 Pinguin; پِنگوئِن
 Pinie; صَنوبَر
 Pinkel;
@@ -624,29 +626,29 @@ Piste; پیست
 - Skipiste; پیست ِ اِسکى
 Pistole; تَپانچه، هَفت تیر
 Pizza; کِش لُقمه، پیتسا
-Plackerei; سَگ دوى، کَد
+Plackerei; سَگ دُوى، کَد
 Plage; زَجر، اَذیَت
 - Plage (z.B. Tier-); بَلا، آفَت
-- von der Plage des .. verschont; از شَر ِ.. راحَت شُدَن
+- von der Plage des ... verschont; از شَر ِ... راحَت شُدَن
 plagen;
 - jem. plagen; رَنجانیدَن، رَنج دادَن، آزار د.، اَذيَت کَردَن
 - s. plagen; سَگ دو زَدَن
-Plagiat; جَعَل
+Plagiat; جَعَل، اِنتِحال
 Plakat; پلاکات
 Plakette; نِشان
 plan (eben); صاف، هَموار، مُسَطَح
 Plan (m); نَقشه، بَرنامه
 - Pläne (i.S. Ränke) schmieden; زَمینه سازى کَردَن
-- wenn .. gewesen wäre, wäre unser Plan gelungen; اَگَر .. بود طَرح ِ ما عَمَلى مى شُد
+- wenn ... gewesen wäre, wäre unser Plan gelungen; اَگَر ... بود طَرح ِ ما عَمَلى مى شُد
 - der Plan fällt ins Wasser; نَقش بَر آب مى شَوَد
 - der Plan hätte ins Wasser fallen können; دَر آن صورَت حِساب ِ ما پاک بود و هَر چه رِشته بودیم پَنبه مى شُد
-- Dreijahresplan; بَرنامۀ سه ساله
-- Flugplan; (pl.) بَرنامهٔ پَرواز ( ـ پَروازها
+- Dreijahresplan; بَرنامهٔ سه ساله
+- Flugplan; (pl.) (بَرنامهٔ پَرواز ( ـ پَروازها
 - Stadtplan; نَقشهٔ شَهر
 planarbeiten;  .مُسَطَح کَردَن، صاف ک
 Plane; پوشِش
 planen; بَرنامه ریزى کَردَن، طَرح ریزى ک.، نَقشه کِشیدَن
-- eine Ausgabe im Etat planen; خَرج دَر بودجه پیش بینى کَردَن، ـ تأمین ک
+- eine Ausgabe im Etat planen; .خَرج دَر بودجه پیش بینى کَردَن، ـ تأمین ک
 - planen (i.S.: etwas im Augen haben); دَر پیش داشتَن
 - es ist geplant, 10 Leute als Berater einzustellen; دَه نَفَر پُست ِ مُستَشار نَظَر داده مى شَوَد
 - geplante Veränderungen; تَغییرات ِ دَر نَظَر گِرِفته شُده، - مَطروحِه
@@ -659,10 +661,10 @@ Planierraupe; بولدوزر ِ کاتِرپیلار
 Planke; اَلوار، تَخته
 planlos; بى رَویه، بى نَظم و تَرتیب
 - planlose Ausdehnung der Stadt; توسعهٔ بى رَویهٔ شَهر
-Planlosigkeit; بى رَویگِى
+Planlosigkeit; بى رَویِگى
 Planmässigkeit; اِنتِظام
 planschen; آب پاشیدَن
-Plantage;
+Plantage; کِشت زار
 - Mandelplantage; بادام زار
 Planung; بَرنامه ریزی
 - ... ist in Planung; دَر دَست ِ تَهیه است
@@ -672,7 +674,7 @@ Planungsamt; اِدارهٔ بَرنامه
 Planungsgruppe; گُروه ِ بَرنامه ریزى
 Planungsstab; سِتاد ِ بَرنامه ریزى
 plappern;  .وِردهاى ِ بیمَعنى تِکرار کَردَن، وِرد ِ زَبان ک
-- .. fing an zu plappern; شُروع به وِراجى کَرد
+- ... fing an zu plappern; شُروع به وِراجى کَرد
 - ununterbrochen plappern; وِروِر حَرف زَدَن
 plärren; عَر و تیز کَردَن، وِنگ زَدَن
 - plärr nicht so rum; اینقَدر عَر نَزَن
@@ -697,7 +699,7 @@ Platte; تَخته
 - Festplatte; دیسک ِ سَخت
 Plättchen; وَرَقهٔ نازُک
 Platten (beim Rad); بى باد، پَنچَر
-- einen Platten haben; پَنچَر ِ چَرخ داشتن، چَرخ پَنچَر است، پَنچَری دادَن
+- einen Platten haben; پَنچَر ِ چَرخ داشتَن، چَرخ پَنچَر است، پَنچَری دادَن
 - eine Platten reparieren; پَنچَری گِرِفتَن
 Plattenreparatur; پَنچَر گیری، تَرمیم ِ پَنچَری
 Plattenspieler; گرامافون
@@ -706,15 +708,15 @@ Plattform; صَحنه
 Plattfuss; پای ِ کَف ِ تَخت
 plattieren;  .روکِش کَردَن، جِلد ک
 Platz; (pl.) جاى گاه، صَحن، مَحَل (مَحال)، مَکان
-- Platz da!; خَبر خَبر، نَسوزى، نَفتى نَشى، جا بِده
-- das findet seinen Platz in ...; این دَر .... جا مى اُفتَد
+- Platz da!; خَبر خَبر، نَسوزى نَفتى نَشى، جا بِده
+- das findet seinen Platz in ...; این دَر ... جا مى اُفتَد
 - Platz einnehmen; جا گِرِفتن
 - jem. Platz einräumen; کِسى را جا دادَن
 - ich habe (im Leben) meinen Platz gefunden; دَر این زِندِگی جا اُفتاده بودَم
 - er setzt s. auf seinen Platz; خودش را جا اَنداخت، ـ سَر ِ جايَش مى نِشینَد
 - den Platz von etwas wechseln; چیزی را جا به جا کَردَن
 - da ist kein Quentchen Platz; جا نیست که سوزَن بيَندازی
-- auf die Plätze, fertig, los!; بِجاى ِ خود، حاضِر، شُروع!، يِک، دو، سه
+- auf die Plätze, fertig, los!; بِجاى ِ خود حاضِر شُروع!، يِک دو سه
 - Exerzierplatz; مِیدان ِ مَشق
 - Fensterplatz; جاى ِ دَم ِ پَنجَره
 Platzangst; هَراس از مَکانهاى ِ باز
@@ -729,7 +731,7 @@ plaudern; عامیانه با هَم حَرف زَدَن
 - er plaudert Geheimnisse aus; چانه اش لَق است، رَمزهارا فاش مى کُنَد
 Plausch;
 - Plausch halten; گَپ زَدَن
-plausibel;
+plausibel; قابِل ِ قَبول
 - seine Entschuldigung war nicht plausibel; عُزر ِ او مَسموع نَبود، ـ وارِد نَبود
 Plazenta; مَشیمه، جُفت جِنین
 plazieren (jem. -); کِسى را جا دادَن
