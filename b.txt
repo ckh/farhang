@@ -32,10 +32,10 @@ Badetuch; قَطيفه، حوله
 Badewanne; حَمام، وان
 Bagage; اوباش، اَراذِل
 Bagatelle; لاشِىء
-Bagger; ماشين ِ لاروب
-- Spülbagger; ماشين ِ فُرش کَن، ـ شِن کِش
+Bagger; ماشين ِ لاروب، بیل ِ هیدرولیکی
+- Spülbagger; ماشين  ِ شِن کِش
 baggern;  .لاروبى کَردَن، شِن کِشى ک
-- den Fluss ausbaggern;  .رودخانه را با شِنکِش خالى کَردَن، ـ گِلکِشى ک.، ـ لاى روبى ک
+- den Fluss ausbaggern;  رودخانه را با شِنکِش خالى کَردَن، ـ گِلکِشى کَردَن، ـ لاى ِ روبى کَردَن
 - Kanal ausbaggern;  .نَهررا تَنقيهِ کَردَن، ـ شِن کِشى ک
 Bahn;
 - auf die schiefe Bahn geraten; مُنحَرِف شُدَن، از اَصل اُفتادَن

@@ -475,6 +475,7 @@ Pflanzer; غارِس
 Pflanzung; غَرس، کِشت
 Pflaster;
 - Pflaster, Verband; مُرهَم، جَسب ِ زَخم
+- Pflastermaschine; ماشین ِ سَنگ فَرش کُن
 - Steinpflaster; سَنگ فَرش، آجُر فَرش
 pflastern; تَرصیف کَردَن، سَنگ گُذاشتَن، سَنگ نِشاندَن
 - den Weg pflastern; راه را سَنگ فَرش کَردَن
@@ -746,13 +747,14 @@ Pleite (f); وَرشِکَستِگى
 - ich habe eine Pleite erlebt; مَن به هَچَل اُفتادَم
 Plejaden; ثُرَیا، سِتارِگان ِ پَروین
 Plektrum; زَخمه
+Plenarsaal; تالار  ِ مَجلِس
 Plenarsitzung; جَلَسهٔ عُمومى ِ مَجلِس
 Pleuellager; یاتاغان ِ شاتون
 Pleuelstange; شاتان، میلهٔ اِتِصال، میله لَنگ
 Plombe; پُلُمب
 - Plombe, Verschluss; مُهر ِ سُربى، پُلُمب
 plombieren; پلُمب کَردَن، سوراخ ِ دَندن را پُر کَردَن
-plötzlich; يِکباره، ناگِهان، ناگاه، ضَرب اُلعَجَل، يِک سَره، يِکریز، دَفِعاً، دَر آن ِ واحِد
+plötzlich; يِکباره، ناگِهان، ناگاه، ضَرب اُلعَجَل، يِک سَره، يِکریز، دَفِعاً، دَر آن واحِد
 - plötzlich tauchte er auf; سَر و کَلهٔ او پِیدا شُد، او سَر رِسید
 - er erlitt einen plötzlichen Tod; او دُچار ِ مَرگ ِ مَفاجات شُد
 - plötzlich mußte ich lachen; يِهویی زَدَم زیر ِ خَنده
@@ -792,7 +794,7 @@ Poesie; شِعِر
 Poet; شاعِر
 poetisch; شاعِرانه
 - poetische Ader; ذوق ِ شاعِرانه
-Pogrom; مَلحَمه
+Pogrom; مَلحَمه، اِنحِلال، ویرانی
 Pokal; کاپ، قَدَح، جام، پیاله
 Pökelfleisch; گوشت ِ نَمَک سود
 pökeln; نَمَک سود کَردَن، دَر آب نَمَک گُذاشتَن
@@ -811,8 +813,8 @@ Police;
 polieren; صِیقَل دادَن
 - Messer polieren; کاردرا بَرق اَنداختَن، ـ جَلاء دادَن
 Politik; سیاسَت
-- Politik der Abschreckung; سیاسَت باز دارَندِگى
-- Politik der Nadelstiche; سیاسَت باز ِ نیش زَن
+- Politik der Abschreckung; سیاسَت ِ باز دارَندِگى
+- Politik der Nadelstiche; سیاسَت ِ نیش زَن
 - Erfüllungspolitik; سیاسَت ِ ساخت و پاخت
 - Realpolitik; سیاسَت ِ واقِع بینانه
 Politiker; سیاسَتمَدار
@@ -826,7 +828,7 @@ polizeilich; از طَرَف ِ پُلیس
 Polizeirevier; کَلانتَرى، شَهربانى ِ مَحَل
 Polizeistreife; پُلیس گَشت
 Polizist; (alt)  (پاسِبان (آژان
-Pollenkorn; دانهٔ گَرده، گَردهٔگُل
+Pollenkorn; دانهٔ گَرده، گَردهٔ گُل
 Pollution; اِحتِلام
 Polospieler; چوگان باز
 Polster; بالِشتَک
@@ -845,7 +847,7 @@ Pontonbrücke; تخته پُل، پُل ِ مُتَحَرِک
 populär; مَردُم پَسَند، وَجیه اُلمُلهى
 - er ist populär; او مَحبوب ِ خاص و عام است
 - populär machen; مَردُم پَسَند کَردَن، تَعمیم دادَن
-- populär werden; دامَنه دار شُدَن، تَعمیم یافتن
+- populär werden; دامَنه دار شُدَن، تَعمیم یافتَن
 - Die Scharfsicht und der Tiefblick sind populär geworden, aber der Weitblick ist eingeschränkt worden; تیزبینى و عُمق ِ دید توسِعه یافت وَلى مِیدان ِ دید تَنگ شُده
 Popularisierung; تَعمیم
 Popularist; وَجیه اُلخَلق
@@ -853,11 +855,12 @@ Popularität; مَحبوبيَت، قَبول ِ عامه، وِجههٔ مِل
 Popularitätsschwund; زَوال ِ مَحبوبيَت
 Pore; (pl.) مَسام (مَسامات)، سوراخ ِ ریزه، حُفره
 Porigkeit; خُلَل و فُرَج
-Pornographie; صُوَر ِ قَبیحه، عَکس و مَطلَب ِ شَهوَت اَنگیز
+Pornographie; صُوَر ِ قَبیحه، عَکس و مَطلَب ِ شَهوَت اَنگیز، پورنوگرافی، هَرزه‌نِگاری
 porös; مَنفَذ دار، اِسفَنج مانَند، پُر سوراخ
 - poröses Fundament; شالودهٔ خُلَل و فُرَج دار
 Porree; گَندنا، تَره
 Portemonnaie; کیف ِ پول
+Portfolio; مَجموعِه
 Portier; دَربان
 Portion; پُرس
 - 1 Portion Essen; يِک پُرس ِ غَذا
@@ -865,7 +868,7 @@ portionieren; پُرس کَردَن، تَقسیم بَندی کَردَن
 Porto; اُجرَت ِ پُستى، هَزینهٔ ـ
 Portrait; (pl.)  (تِمثال، شَمیله (شَمائِل
 Portraitierung; شَبیه سازى، چِهره یا چیزى نَقاشى کَردَن
-Porzell; چینى
+Porzellan; چینى
 Porzellanerde; گِل ِ چینى
 Porzellangeschirr; ظَرفهاى ِ چینى
 Posamente; پَراک، خَرازى
@@ -877,7 +880,7 @@ Pose; پُز
 - s. in Pose setzen; گَردَن ِ خود را شَق و رَق گِرِفتَن
 Position; موقِعیَت، موضِع
 - in deiner Position; دَر مَقام ِ تو
-- Position einnehmen; موضِع را گِرِفتَن، جا گ
+- Position einnehmen; .موضِع را گِرِفتَن، جا گ
 - aus der Position der Stärke heraus verhandeln; از موضِع ِ قُدرَت مُذاکِره کَردَن
 - die Position des Schiffes; موضع ِ کِشتی
 positionieren; جا دادَن
@@ -891,15 +894,17 @@ Possessivpronomen; ضَمیر ِ مُلکى
 Post; پُستخانه
 Postbote; پُستچى
 Posten; نِگَهبان
-- seinen Posten einnehmen; نِگَهبانى ِ خودرا به عُهده گِرِفتَن، جایَ را ـ
+- seinen Posten einnehmen; نِگَهبانى ِ خودرا به عُهده گِرِفتَن، جای را ـ
 - er ist auf dem Posten; او خِیلى هوشدار است
-- er hat einen guten Posten; او مَقام ِ خوب دارد
+- er hat einen guten Posten; او مَقام ِ خوب دارَد
 Poster; پوستِر
 Postfach; صَندوق ِ پُستى
 postieren (jem. -); کِسى را جا دادَن
 Postkarte; کارت ِ پُستال
 Postleitzahl; کُد ِ پُستى
-Postskriptum; بَعد اُلتَحریر، یاد داشت
+Postmoderne; پَسانوگِرایی، پُست مُدِرنیسم، پَسامُدِرنیسم، پَساتَجَدُد، مابَعد تَجَدُد
+Postskriptum; بَعد اُلتَحریر، یاد داشت، پِی نِوِشت
+postum; پَسامَرگ
 Potenz; تَوانائى، قُدرَت، قُوه
 - Zehnerpotenz;  بنَماى ِ ۱۰، به قُوهٔ ۱۰
 Potenzial;
@@ -942,18 +947,19 @@ Pranger;
 - an den Pranger stellen; کِسى را پیش ِ همه رُسوا کَردَن
 Präparat; ماده
 präparieren; آماده کَردَن
-Präposition; حُروف اُلجَرٌ، حَرف ِ جَرٌ، حَرف ِ اِضافه
+Präposition; حُروف اُلجَر، حَرف ِ جَر، حَرف ِ اِضافه
 Präsens; زَمان ِ حال
-präsent;
-- präsent sein; حاضِر بودَن
-Präsent (n); هِدیه
+präsent (- sein); حاضِر بودَن
+Präsent (n); هِدیه، کادو
 präsentieren; تَقدیم کَردَن، هِدیه دادَن
 - s. präsentieren; خود را نِشان دادَن
 - präsentiert das Gewehr; پیش فَنگ
 Präsentierteller (für Naschereien); خوانچه
 Präsentation (einer Sache); تَلفیق
 Präservativ; کاپُت
-Präsident; (pl.) رَئیس (رُؤَساء
+Präsident; (pl.) (رَئیس (رُؤَساء
+- Ministerpräsident; نَخُست وَزیر
+- Staatspräsident; رَئیس  ِ جُمهور
 Präsidentschaft; ریاسَت، دورهٔ ریاسَت
 Präsidium; هَیئَت ِ مُدیره
 - Polizeipräsidium; اِدارهٔ مَرکَزى ِ پُلیس
@@ -962,7 +968,7 @@ prassen; تَن پَروَری کَردَن، بیش از اَندازه خور�
 präsumptiv; مُحتَمَل
 - präsumptiver Nachfolger; جانِشین ِ مُحتَمَل
 Prävention; پیش گیرى، جِلو گیرى
-Präventivmassnahme; اِقدامات ِ پیش گیرَنده
+Präventivmaßnahme; اِقدامات ِ پیش گیرَنده
 Praxis; عَمَل، کار ِ روزانه
 - er hat viel Praxis; او تَجرُبهٔ زیاد دارَد
 - Arztpraxis; مَطَب
@@ -975,7 +981,7 @@ Präzedenzfall; سابقهٔ قَضائى
 präzise; دَقیق، با دِقَت
 Präzision; دِقت، صَراحَت، عِینيَت
 Präzisionswaage; تَرازوى ِ حَساس
-predigen; وَعظ کَردَن، موعِظه ک
+predigen; .وَعظ کَردَن، موعِظه ک
 Prediger; (pl.)  (واعِظ (واعِظین
 - Prediger, dessen Lehre mit dem Leben nicht übereinstimmt; واعِظ ِ غِیر ِ مُتَعِظ
 Predigt; (pl.)  (وَعظ، موعظه (مَواعِظ
