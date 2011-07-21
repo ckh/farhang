@@ -988,10 +988,10 @@ Predigt; (pl.)  (وَعظ، موعظه (مَواعِظ
 Preis; قِیمَت
 - Preis, Gewinn; جايِزه
 - wie hoch ist der Preis?; قِیمَتِش چَند است؟
-- für den Preis eines ...; دَر اِزاء ِ يِک
+- für den Preis eines ...; ... دَر اِزاء ِ يِک
 - Preis abwägen; خَرج تَراشی کَردَن
 - Preis festsetzen; نِرخ بَستَن
-- Schönheit hat ihren Preis; خَربُزهٔ شیرین نَصیب ِ کَفتار می شَوَد، اَنگور ِ خوب نَصیب ِ شَغال می شَوَد، سیب ِ سُرخ برای ِ دَست ِ چَلاق خوب است
+- Schönheit hat ihren Preis; خَربُزهٔ شیرین نَصیب ِ کَفتار می شَوَد اَنگور ِ خوب نَصیب ِ شَغال می شَوَد، سیب ِ سُرخ برای ِ دَست ِ چَلاق خوب است
 - Nobelpreis; جايِزهٔ نوبِل
 - Tagespreis; نِرخ ِ روز، قِیمَت ِ ـ
 Preisaufsicht; نِظارَت بَر قِیمَتها
@@ -1001,20 +1001,20 @@ Preisdiktat; تَحمیل ِ قِیمَت
 preisen; حَمد کَردَن، حَمد و ثَنا گُفتَن
 - der gepriesene und erhabene Gott; خُداى ِ عَزَ و جَل، خُداى ِ حَمد شُده و مُتَعال
 preisgeben;
-- preisgeben (z.B. die Wahrheit); حَقیقَت را بَرمَلا ساختن، ـ به باد ِ.. دادَن، ـ از دَست دادَن
+- preisgeben (z.B. die Wahrheit); حَقیقَت را بَرمَلا ساختَن، ـ به باد دادَن، ـ از دَست دادَن
 - etwas der Vergessenheit preisgeben; چیزى را دَر نِوِشتَن، ـ بِدَست ِ فَراموشى سِپُردَن
 Preisniveau; سَطح ِ قِیمَت
-Preisnotierung; مَظنه گُذارى، قِیمَت ـ
+Preisnotierung; مَظَنه گُذارى، قِیمَت ـ
 Preistreiber; گِرانفُروش
 preiswert; کَم خَرج، اَرزان
-Prellbock; راه بَند ِ اخَر ِ راه ِ آهَن
-- er wurde zum Prellbock; او سِپَر ِ بَلا شد
+Prellbock; راه بَند ِآخَر ِ راه ِ آهَن
+- er wurde zum Prellbock; او سِپَر ِ بَلا شُد
 prellen;
 - s. prellen; اِصابَت کَردَن
 - um wieviel jem. prellen (*: betrügen); چِقدَر کِسى را تَلَکه کَردَن
 Prellung; ضَربَت، کوفتِگى
 Premiere;
-- heute ist Fimpremiere; اِمشَب اَوَلین نَمايِش ِ فیلم بَرگُذار خواهَد بود
+- heute ist Filmpremiere; اِمشَب اَوَلین نَمايِش ِ فیلم بَرگُذار خواهَد بود
 Presse;
 - Presse, Kelter; چَرخُشت
 - Presse, Zeitung; مَطبوعات، جَرائِد
@@ -1059,7 +1059,7 @@ primitiv;
 - primitive Stämme; طَوايِف ِ کَم مُتَمَدِن
 - primitiv gebaut; بِسیار ساده ساخته شُده، - بَدَوی -، - اِبتِدائی ـ
 Primzahl; عَدَد ِ اول
-Printer; پرینتِر
+Printer; پرینتِر، چاپگَر
 Prinz; شاهزاده
 - Kronprinz; وَلیعَهد
 Prinzessin; دُختَر شاهزاده
@@ -1097,7 +1097,7 @@ proben; تَمرین کَردَن
 Probezeit; دورهٔ آزمايِشى
 probieren; آزمايِش کَردَن
 - probieren, kosten; چِشیدَن
-Problem; مَسئَله، مُشکِل، چالِش
+Problem; مَسئَله، مُشکِل
 - ich habe ein Problem; مَن گیر اُفتادَم، ـ گیر شُدَم
 - ich habe Probleme bekommen; پِدَرَم دَر آمَد
 - der Zirkus hatte Probleme; پِدَر ِ سیرک دَر آمَد
@@ -1114,7 +1114,7 @@ Problem; مَسئَله، مُشکِل، چالِش
 - von Geburt an Probleme mit der Wirbelsäule; از بَدو ِ تَوَلُد ناراحتَى ِ سُتون ِ فُقَرات داشتَن
 - in Probleme geraten (bei Unachtsamkeit); بَهانه دادَن به دَست ِ کِسی
 - tu nichts, was ihnen Probleme machen könnte; کاری نَکُن که بَهانه بِدَهی دَستِشان
-- ... damit wir keine Probleme kriegen; که دُچار ِ دِق و سِق نَشویم ...
+- ... damit wir keine Probleme kriegen; که دُچار ِ دِق و سِق نَشویم
 problematisch; مَسئله ساز
 - das ist sehr problematisch; این خِیلى پیچیده است، مَسئَله سَر ِ این است
 Problemlösung; چاره اَندیشى
@@ -1176,13 +1176,13 @@ Proletariat; طَبَقهٔ کارگَر، پرولِتاریا
 Promenade; گَردِشگاه
 Prometheus; پرومِته
 prominent; نامدار، بَرجَسته
-Promotion; رِساله دُکتُرا
-- Promotion, Förderung; چیزی را آشنِنا کَردَن، آگَهی
+Promotion; رِسالهٔ دُکتُرا
+- Promotion, Förderung; چیزی را آشنا کَردَن، تَرویج
 - er legt seine Promotion ab; او دُکتُرايَش را اَخذ میکُنَد
 - mit der Promotion beschäftigt sein; دَر دورهٔ دُکتُرا فَعاليَت کَردَن
 Promotor; وَلی ِ نِعمَت
 promovieren; دَرَجهٔ دُکتُرا گِرِفتَن، دُکتُرا کَردَن
-- über ein Thema promovieren; رِساله دُکتُری دَر مورِد ِ چیزی نِوِشتَن
+- über ein Thema promovieren; رِسالهٔ دُکتُری دَر مورِد ِ چیزی نِوِشتَن
 Pronomen; (pl.)  (ضَمیر (ضَمايِر
 - unbestimmtes Pronomen; ضَمیر ِ مُبهَم
 - Zahlwort in Funktion eines unbestimmten Pronomens; ضَمیر ِ عَدَد
@@ -1194,7 +1194,7 @@ Propaganda; تَبلیغ
 - Mundpropaganda betreiben; دَهَن به دَهَن پَخش کَردَن، سینه به سینه گُفتَن
 Propagandist; مُبَلِغ
 propagandistisch; تَبلیغاتى
-propagieren; بیخ گوشى کَردَن، تَبیلغ ک
+propagieren; .بیخ گوشى کَردَن، تَبیلغ ک
 Propeller; پَروانه، مَلَخ
 Prophet; (pl.) نَبى (اَنبیا)، پیشگو، پِیغَمبَر
 Prophetie; نُبُوَت، پیشگوئى
@@ -1217,19 +1217,19 @@ Protektorat; تَحت اُلحَمایه، قِیمومَت
 Protest; اِعتِراض
 Protestant; پروتِستان
 protestieren; اِعتِراض کَردَن
-Prothese; وَسیله عاریه، - مَصنوعی
+Prothese; وَسیلهٔ عاریه، - مَصنوعی
 - Beinprothese; پاى چوبى
 - Zahnprothese; دَندانهاى ِ عاريَتى، - عاریه
 Protokoll; صورَتِجَلَسه
 - Protokoll (i.S. Etikette); تَشریفات
 - Abfassen des Protokolls; تَحریر ِ صورَتِجَلَسه
-- das Protokoll aufnehmen; صورَتِجَلَسه بَرداشتَن
-protokollieren; صورَتِجَلَسه بَرداشتَن، ـ کَردَن
+- das Protokoll aufnehmen; صورَتِجَلَسه را بَرداشتَن
+protokollieren; صورَتِجَلَسه را بَرداشتَن، ـ کَردَن
 Protozoen; تَک یاخته ها
 Protz;
 - Protz, Selbstdarstellung; اِهِن و تَلُپ
 protzen; مُباهات کَردَن، قُمپُز دَر آوَردَن، پُز دادَن
-- er protzt wegen .. (*: aufschneiden); او دَم از .. مى زَنَد
+- er protzt wegen ... (*: aufschneiden); او دَم از ... مى زَنَد
 Proviant; خوار بار، آذوقه، اَزواد، سورسات، جیره
 Proviantlieferant; سورسات چى
 Provianttasche; توبره، توشه دان، خورجین
@@ -1259,7 +1259,7 @@ Prozess; دَعوا، مُحاکِمه، قَضیه
 prozessieren; اِقامهٔ دَعوا کَردَن
 Prozession; گَردِش
 - Fronleichnamsprozession; گَردِش ِ مَذهَبی دَر کِلیسای ِ کاتُلیک
-- Leichenprozession; تَشبیع ِ جِنازه
+- Leichenprozession; تَشییع ِ جِنازه
 - jem., der eine Prozession anführt; چاوُش
 prüfen;  .اِمتِحان کَردَن، آزمايِش ک
 - jem. prüfen (*: geprüft); کِسى را اِمتِحان کَردَن
@@ -1269,7 +1269,7 @@ prüfen;  .اِمتِحان کَردَن، آزمايِش ک
 - überprüfen; باز بینى کَردَن
 - geprüft, beglaubigt; مُصَدِق
 - jem., der geprüft wird; آزموده
-prüfend; مُجَرِب
+prüfend (i.S.: wachsam); مُراقِب
 - prüfende Augen; چِشمان ِ مُراقِب
 Prüfer; مُجَرِب، باز رَس، اِمتِحان کُنَنده، مُمتَحِن
 - Rechnungsprüfer; حِسابرَس
@@ -1283,7 +1283,7 @@ Prüfung; تِست، آزمايِش، اِمتِحان، آزمون
 - es findet keine Prüfung statt; اِمتِحانات اَنجام نِمى گیرَند
 - die Prüfung bestehen; دَر اِمتِحان توفیق داشتن، ـ قبول شُدَن، از اِمتِحان دَر آمَدَن
 - die Prüfung nicht bestehen; دَر اِمتِحان رَد شُدَن، ـ قَبول نَشُدَن
-- ich habe die Prüfung gut bestanden; مَن از بوتهٔ آزمايِش خوب دَر آمَدَم
+- ich habe die Prüfung (i.S.: Versuchung) gut bestanden; مَن از بوتهٔ آزمايِش خوب دَر آمَدَم
 - die Prüfung mit der Note drei bestehen; با نُمرهٔ ۳ از عُهدهٔ اِمتِحان دَر آمَدَن
 - sich einer Prüfung unterziehen; خودرا دَر مَعرَض ِ اِمتِحان قَرار دادَن
 - Aufnahmeprüfung; کُنکور
@@ -1319,9 +1319,9 @@ Psychose; اِختِلال ِ رَوانی
 - Kriegspsychose; تَب ِ جَنگ
 Psychotherapeut; رَوان کاو
 Psychotherapie; رَوان کاوى، رَوان دَرمانى
-Pubertät; زَمان ِ بُلوغ
+Pubertät; زَمان ِ بُلوغ، بُلوغ ِ جِنسی
 publik; علَنی
-- publik machen (*: öffentlich); به عَیان رِساندَن، به اِطِلاع ِ هَمِگى ر
+- publik machen (*: öffentlich); .به عَیان رِساندَن، به اِطِلاع ِ هَمِگى ر
 Publikation; جَرائِد، اِشاعه
 publizieren; .مُنتَشِر کَردَن، دَرج ک
 publiziert; مُندَرِج
@@ -1365,7 +1365,7 @@ Puppe; عَروسَک
 - Schmetterlingspuppe; بادامَک ِ پَروانه، بادامهٔ ـ
 pur;
 - das ist pures Wasser; آب ِ خالِص، - تَمیز
-- pure Lügen; دُروغهاى ُ شاخدارى، ـ مَحض
+- pure Lügen; دُروغهاى ِ شاخدارى، ـ مَحض
 - pures Gold; طَلای ِ ناب، - خالِص
 - aus purem Stolz; از غُرور ِ نِخوَت
 Püree; پوره
@@ -1381,7 +1381,7 @@ Pute; بوقَلَمون
 puterrot;
 - puterrotes Gesicht (vor Wut);  چِهرهٔ بَراَفروخته
 Putsch; کودِتا
-Putschist; کودتاگر
+Putschist; کودِتاگَر
 Putz;
 - auf den Putz hauen; لاف زَدَن
 - Frühjahrsputz; خانه تَکانى ِ بَهارى
@@ -1398,6 +1398,6 @@ Putzzeug; وَسائِل ِ نِظافَت
 Puzzle; موزائیک
 - Einzelteile des Puzzle; قَطِعات ِ موزائیک
 Pyjama; پیژامه، لِباس ِ خواب
-Pyramide; (pl.) .هَرَم (اَهرام
-Pyrenäen; پیرنه
+Pyramide; (pl.) (هَرَم (اَهرام
+Pyrenäen; پیرِنه
 Pythagoras; فیثاغورَث
