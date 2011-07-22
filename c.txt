@@ -137,8 +137,9 @@ Computerbegriffe;
 - Animation; اَنیمِیشِن سازى
 - Anwender; کاربَر
 - Anwenderinformationen (z.B.: Adresse, etc.); اِطِلاعات ِ کاربَری
-- Betriebssystem (z.B. Linux); سیستِم ِ عامِل
 - Auflösung (beim Monitor); تَفکیک پَذیرى ِ مانیتور
+- bearbeiten (z.B. kopieren, verschieben); ویرایِش کردن
+- Betriebssystem (z.B. Linux); سیستِم ِ عامِل
 - Bit (Masseinheit bei Datenverarbeitung); بیت، اَرقام ِ دوتائى
 - Buchstabenattribute:; خُصوصیات ِ حُروف: fett حُروف ِ ضَخیم, gedehnt حُروف ِ پَهن, hochgestellt حُروف ِ بالا نِویس, kursiv حُروف ِ کَج, normal حُروف ِ مَعَمولى, Outline حُروف ِ تو خالى, schattiert حُروف ِ سایه دار, tiefgestellt حُروف ِ زیر نِویس, unterstrichen حُروف ِ زیر خَطى
 - Chat; چَت
@@ -150,11 +151,13 @@ Computerbegriffe;
 - Datenschutzbestimmung; مُقَرَرات ِ حِفاظَت ِ اِطِلاعات
 - Diktiersoftware; پَردازِش ِ گُفتار
 - Drucker; چاپگَر
-- bearbeiten (z.B. kopieren, verschieben); ویرایِش کردن
+- e-Mail; رایانامه، ای‌مِیل
+- e-Mail-Adresse; رایانِشانی، نِشانی ِ پُست ِ اِلِکترونیکی
 - einloggen; وُرود به سایت
 - Einstellungen (z.B. Uhr, Farbe, etc.); تَنظیمات
 - Grafikprogramm; بَرنامهٔ طَراحى
 - Hardware; اَبزار ِ سَخت؛ سِفت اَبزار
+- Implementierung von Software; پیاده سازی ِ نَرم اَفزار
 - Installation; نَصب
 - Internet; شَبَکه اینتِرنِت
 - entsprechender Knopf (z.B. bei ein Softwareinstallation);  دُکمهٔ مُرورگَر
@@ -172,6 +175,7 @@ Computerbegriffe;
 - Installationsordner; پوشهٔ نَصب
 - Zielordner; پوشهٔ مَقصَد
 - Passwort; رَمز ِ وُرود
+- public domain; مالِکیَت ِ عُمومی
 - Seitengestaltung; صَفحه آرائى
 - Seriennummer; شُمارهٔ سِریال
 - Server; سِروِر، کارساز، خادِم

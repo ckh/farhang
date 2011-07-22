@@ -87,6 +87,7 @@ impfen; مایه کوبى کَردَن، واکسُن زَدَن
 Impfstoff; واکسُن
 Impfung; مایه زَنى، مایه کوبى
 Implantation; نِشاندَن ِ بافت دَر بافت ِ دیگَر
+Implementierung; پیاده سازی
 impliziert; ضِمنى، حاکى است
 implizit;
 - implizites Lernen; یادِگاری با رَعایَت قاعِدهٔ شِناخته وَلی بَیان نَشُده

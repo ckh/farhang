@@ -1320,6 +1320,7 @@ Psychose; اِختِلال ِ رَوانی
 Psychotherapeut; رَوان کاو
 Psychotherapie; رَوان کاوى، رَوان دَرمانى
 Pubertät; زَمان ِ بُلوغ، بُلوغ ِ جِنسی
+public domain (*: Computerbegriffe); مالِکیَت ِ عُمومی
 publik; علَنی
 - publik machen (*: öffentlich); .به عَیان رِساندَن، به اِطِلاع ِ هَمِگى ر
 Publikation; جَرائِد، اِشاعه
