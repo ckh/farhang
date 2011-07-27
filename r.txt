@@ -1,167 +1,169 @@
 Raa; چوب بَراى ِ اِستِحکام شِراع
-Rabatt; تَنزيل، تَخفيف
-Rabatte; کَرت، کَرت بَندي
+Rabatt; تَنزیل، تَخفیف
+Rabatte; کَرت، کَرت بَندی
 - Blumenrabatte; گُلزار
 Rabbiner; خاخام
 Rabe; غُراب، زاغ، کَلاغ
 rabiat; خَشِن
-Rache; کِيفَر، اِنتِقام، کينه، تَقاص
-- jem. Rache schwören; کينة کِسى را بِدِل گِرِفتَن
-- Blutrache üben; قُصاص کَردَن، تَقاص کِشيدَن، ـ پَس گِرِفتَن
+Rache; کِیفَر، اِنتِقام، کینه، تَقاص
+- jem. Rache schwören; کینهٔ کِسى را بِدِل گِرِفتَن
+- Blutrache üben; قُصاص کَردَن، تَقاص کِشیدَن، ـ پَس گِرِفتَن
 Rachen; حَلقوم، حَلق
-- jem. aus ihren Rachen befreien; کِسى از کام ِ آنها رَهائى کَردَن
+- jem. aus ihren Rachen befreien; کِسى را از کام ِ آنها رَهائى کَردَن
 rächen;
-- jem. rächen; اِنتِقام ِ کِسى را کِشيدَن
-- s. rächen; اِنتِقام گِرِفتَن، کينه گ.، دادگيرى کَردَن، دِق ِ دِل ِ خودرا دَر آوَردَن
+- jem. rächen; اِنتِقام ِ کِسى را کِشیدَن
+- s. rächen; اِنتِقام گِرِفتَن، کینه گ.، دادگیرى کَردَن، دِق ِ دِل ِ خودرا دَر آوَردَن
 rächend; مُنتَقِم
-Rächer; مُنتَقِم، دادگير
+Rächer; مُنتَقِم، دادگیر
 Rachitis; مَلاسَت ِ اُستُخوان، نَرمى ِ ـ
-Rachsucht; کينه توزى، اِنتِقام جوئى
+Rachsucht; کینه توزى، اِنتِقام جوئى
 Rad; چَرخ
-- sie erfinden das Rad nochmal neu; آنها راهى را طِى مى کُنَند که بُزُرگتَرها و گُذَشتِگان تَلاش ِ خودرا صَرف ِ آن کَرده اند
-- er ist nur ein kleines Rädchen im Getriebe; او مُهرة ناچيز بيش نيست
-- unter die Räder geraten; زير ِ دَست و پا لِه و لورده شُدَن
+- sie erfinden das Rad nochmal neu; آنها راهى را طِى مى کُنَند که بُزُرگتَرها و گُذَشتِگان تَلاش ِ خودرا صَرف ِ آن کَرده اَند
+- er ist nur ein kleines Rädchen im Getriebe; او مُهرهٔ ناچیز بیش نیست
+- unter die Räder geraten; زیر ِ دَست و پا لِه و لورده شُدَن
 - Fahrrad; دوچَرخه
 - Riesenrad; چَرخ و فَلَک
 Radachse; مِحوَر ِ چَرخ
 Radar; رادار
-Radau; گير و دار، داد و بيداد، عَربَده
+Radau; گیر و دار، داد و بیداد، عَربَده
 Radaubruder; عَربَده جو
-Radbolzen; پيچ ِ چَرخ
-Rädelsführer; سَر کَرده، عُصيانگَر
+Radbolzen; پیچ ِ چَرخ
+Rädelsführer; سَر کَرده، عُصیانگَر
 radfahren; دوچَرخه سَوارى کَردَن
 Radfahren (n); دوچرخه سَوارى
 Radfahrer; دوچرخه سَوار
-Radfelge; ريم ِ چرخ
+Radfelge; ریم ِ چرخ
 radial; شُعاعى
-Radiator; رادياتور
+Radiator; رادیاتور
 radieren; پاک کَردَن
 Radiergummi; مِداد پاک کُن
 - Radiergummi (scherzhaft); مالِش و دانِش
 Radiermesser; خَط تَراش
-Radierung; نَقاشى ِ حَک شده روى ِ وَرَقة مِسى
+Radierung; نَقاشى ِ حَک شده روى ِ وَرَقهٔ مِسى
 Radieschen; تُرُبچه
 radikal; تُندرو، اِفراطى
-- radikale Gruppe; گُروه ِ ريشه گِرا
-- radikales Mittel; وَسيلة اَشَد، ـ بِسيار شَديد، ـ شِدَد ِ بى ذات
-Radikalenerlass; تَصويبنامه راجِع به اِفراطيون
-Radikalismus; راديکاليسم، ريشه گِرائى، اِفراط گِرائى
-Radikalist; اِفراطي
-Radio; راديو
-radioaktiv; راديوئى، راديواکتيف
-- radioaktive Strahlung; تابِش ِ راديوئى
-- radioaktiver Niederschlag; نُزولات ِ راديوئى، اُفت ِ راديواکتيف
-Radiolarien (Strahlentierchen); رَخشيان
+- radikale Gruppe; گُروه ِ ریشه گِرا
+- radikales Mittel; وَسیلهٔ اَشَد، ـ بِسیار شَدید، ـ شِدَد ِ بى ذات
+Radikalenerlass; تَصویبنامه راجِع به اِفراطیون
+Radikalismus; رادیکالیسم، ریشه گِرائى، اِفراط گِرائى
+Radikalist; اِفراطی
+Radio; رادیو
+radioaktiv; رادیوئى، رادیواکتیف
+- radioaktive Strahlung; تابِش ِ رادیوئى
+- radioaktiver Niederschlag; نُزولات ِ رادیوئى، اُفت ِ رادیواکتیف
+Radiolarien (Strahlentierchen); رَخشیان
 Radiologe; پَرتوشِناس
-Radiologie; پَرتوشِناسى، راديولوژى
-Radioskopie; پَرتوبينى
+Radiologie; پَرتوشِناسى، رادیولوژى
+Radioskopie; پَرتوبینى
 Radius; قُطر ِ نِصف، شُعاع
 - Wirkungsradius; شُعاع ِ عَمَل، حول و حوش
 Radkappe; قالپاق ِ چَرخ
-Radnabe; بُلبرينک چَرخ
-Radspeiche; پَرة چَرخ
-Radstand; پاية چَرخ
+Radnabe; بُلبرینک چَرخ
+Radspeiche; پَرهٔ چَرخ
+Radstand; پایهٔ چَرخ
 raffen;
 - (Geld) raffen; از روى ِ حِرص جَمع کَردَن
-- Segel raffen; شِراع را پائين آوَردَن
-- geraffter Stoff; پارچة چين خورده
+- Segel raffen; شِراع را پائین آوَردَن
+- geraffter Stoff; پارچهٔ چین خورده
 raffgierig; دَندان ِ گِرد
 - er ist raffgierig; دَندانَش گِرد است
 Raffinerie; پالايِشگاه
-- Erdölraffinerie; پالايِشگاه ِ نَفت، تَصفيه گاه
-raffinieren; (präs.)  (تَصفيه کَردَن، پالايِش ک.، پالودَن (مى پالايَد
-raffiniert; هيله گَر، زيرَکانه
-- raffinierter Zucker; شِکَر تَصفيه شُده
+- Erdölraffinerie; پالايِشگاه ِ نَفت، تَصفیه گاه
+raffinieren; (präs.)  (تَصفیه کَردَن، پالايِش ک.، پالودَن (مى پالايَد
+raffiniert; هیله گَر، زیرَکانه
+- raffinierter Zucker; شِکَر تَصفیه شُده
 Rage; غَضَب، خَشم
-Rahm; خامه، سَرشير
+Rahm; خامه، سَرشیر
 Rahmen; قاب
 - Rahmen der Aussprache; چار چوپ ِ مُذاکِرات
-- im Rahmen dieser Organisation; دَر چار چوپ ِ اين سازِمان
-- im Rahmen des Möglichen; دَر چَهارچوب ِ اِمکانات، دَر مَحدودة ـ
-Rahmenabkommen; مُوافِقَتنامة فَراگير
+- im Rahmen dieser Organisation; دَر چار چوپ ِ این سازِمان
+- im Rahmen des Möglichen; دَر چَهارچوب ِ اِمکانات، دَر مَحدودهٔ ـ
+Rahmenabkommen; مُوافِقَتنامهٔ فَراگیر
 Rain; کِنارکِشت
 Raison; عَقل
-- jem. zur Raison bringen; کِسي را به عَقل رِساندَن
+- jem. zur Raison bringen; کِسی را به عَقل رِساندَن
 - Parteiraison; اِنضِباط ِ حِزبى
 Rakete; موشَک، فِشفِشه
-- landgestützte Rakete; موشَک ِ زَمين پايه
+- landgestützte Rakete; موشَک ِ زَمین پایه
 - Mehrstufenrakete; موشَک ِ چَند مَرحَله اى
-- Luft-Boden-Rakete; موشَک ِ هَوا به زَمين
+- Luft-Boden-Rakete; موشَک ِ هَوا به زَمین
 - fahrbare Raketenabschussbasis; موشَک اَنداز ِ مُتَحَرِک
-Raketenangriff; حملة موشَکى
+Raketenangriff; حملهٔ موشَکى
 Raketenreichweite; بُرد ِ موشَک
+Rallye; رالی
 Rambazamba;
-- so ein Rambazamba; اين هَمه دَنگ و فَنگ
-Ramme; تيرکوب، زَمين سِفت کُن
-rammen; پايه کوبى کَردَن
-Rammgerüst; فرَيم ِ پايه کوب، چَهار چوب ِ تير
+- so ein Rambazamba; این هَمه دَنگ و فَنگ
+Ramme; تیرکوب، زَمین سِفت کُن
+rammen; پایه کوبى کَردَن
+Rammgerüst; فرَیم ِ پایه کوب، چَهار چوب ِ تیر
 Rampe; روگاه، سَکوب
 Rampenlicht;
-- aus dem Rampenlicht herauskommen; از کانون ِ تَوَجُه بيرون آمَدَن
+- aus dem Rampenlicht herauskommen; از کانون ِ تَوَجُه بیرون آمَدَن
 ramponieren; لَطمه دادَن
 - sein Stolz wurde ramponiert; به غُرور ِ او لَطمه وادار شُد، غُرورَش لَطمه خورد
 Ramsch; خِرت و پِرت
-Rand; ديواره، کِناره، لَبه
-- das muss doch nicht bis zum Rand voll sein!; اين قَدر تو لَب نَباش
-- den Menschen an den Rand drängen; به حاشيه راندَن ِ اِنسان
+Rand; دیواره، کِناره، لَبه
+- das muss doch nicht bis zum Rand voll sein!; این قَدر تو لَب نَباش
+- den Menschen an den Rand drängen; به حاشیه راندَن ِ اِنسان
 - er ist ausser Rand & Band; سَر از پا نَشِناختَن
 - er ist vor Freude ausser Rand & Band; از شادى دَر پوست نِمى گَنجَد
-- mit einer Sache nicht zu Rande kommen; نَتَوانِستَن از چيزي تَسکين يافتَن
-- am Rande des Geschehens sein ; کِنار ِ گود بودَن، دَر شُرُف ِ رويداد بودَن
-- am Rande des Schattens; لَب ِ سايه
-- s. auf den Bettrand setzen; بَر لَبة تَخت نِشَستَن
+- mit einer Sache nicht zu Rande kommen; نَتَوانِستَن از چیزی تَسکین یافتَن
+- am Rande des Geschehens sein ; کِنار ِ گود بودَن، دَر شُرُف ِ رویداد بودَن
+- am Rande des Schattens; لَب ِ سایه
+- s. auf den Bettrand setzen; بَر لَبهٔ تَخت نِشَستَن
 Randale; فِتنه، آشوبگَرى
 Randalierer; خاندان بَراَنداز، آشوبگَر
 Rändel; کُنگِره، آج
-Rändelmutter; پيچ ِ کُنگِره دار
-Randnotiz; حَواشى، حاشيه نِويسى
-Rang; پايه، دَرَجه، رُتبه
+Rändelmutter; پیچ ِ کُنگِره دار
+Randnotiz; حَواشى، حاشیه نِویسى
+Rang; پایه، دَرَجه، رُتبه
 - aber jem., der höher im Rang ist; وَلى بالاى ِ دَست ِ خودِش
-- Christus: der ranghöhere Sohn; مَسيح: فَرزَند ِ اَرشَد
 Ranghöherer; بالا دَست
+- Christus: der ranghöhere Sohn; مَسیح: فَرزَند ِ اَرشَد
 rangieren;
-- rangieren (Zug); به خَط ِ ديگَر راندَن
-- er rangiert an 2. Stelle; او دَر دَرَجة دُوُم قَرار دارَد
-Rangordnung; تَرتيب ِ مَقام
-Ranke; پيچَک
-Ränke; زَمينه سازيِ
-- Ränke schmieden; زَمينه سازى کَردَن، از هَم خورده گِرِفتَن
+- rangieren (Zug); به خَط ِ دیگَر راندَن
+- er rangiert an 2. Stelle; او دَر دَرَجهٔ دُوُم قَرار دارَد
+Rangordnung; تَرتیب ِ مَقام
+Ranke; پیچَک
+Ränke; زَمینه سازی
+- Ränke schmieden; زَمینه سازى کَردَن، از هَم خورده گِرِفتَن
 ranmachen;
 - s. an jem. ranmachen; تو نَخ ِ کِسی رَفتن
 ranzig; خَراب، فاسِد
-Raps; مَنداب
-rar; کَمياب، به نُدرَت
+Raps; کِلزا 
+rar; کَمیاب، به نُدرَت
 Rarität; (pl.)  (تُخفه، نادِره (نَوادِر
 rascheln; خِش خِش کَردَن
-rasen; با سُرعَت ِ مَزيد راندَن
+rasen; با سُرعَت ِ مَزید راندَن
 Rasen (m); چَمَن
-rasend; ژيان، جُنون آميز
-Rasenmäher; ماشين ِ چَمَن چين، ـ زَنى
+rasend; ژیان، جُنون آمیز
+Rasenmäher; ماشین ِ چَمَن چین، ـ زَنى
 Rasierapparat;  (خود تَراش(ـ  ِ بَرقى
-Rasiercreme; خَمير ِ ريش تَراشى
-rasieren; صورَت را اِصلاح کَردَن، ريش تَراشيدَن
+Rasiercreme; خَمیر ِ ریش تَراشى
+rasieren; صورَت را اِصلاح کَردَن، ریش تَراشیدَن
 - gegen den Strich rasieren; چَپَه تَراش کَردَن
-Rasierklinge; تيغ ِ ريش تَراش
+Rasierklinge; تیغ ِ ریش تَراش
 Rasiermesser; اُستُره
 Rasierpinsel; فُرچه
-Raspel; رِنده، سوهان ِ چوب سا، ـ چوب ساب
-raspeln; سوهان کِشيدَن، رِنده کَردَن
+Raspel; رِنده، سوهان ِ چوب سای
+raspeln; سوهان کِشیدَن، رِنده کَردَن
 Rasse; نِژاد
-Rassendiskriminierung; تَبعيض ِ نِژادى
-Rassenintegration; يگانه سازى ِ نِژادها
+Rassendiskriminierung; تَبعیض ِ نِژادى
+Rassenintegration; یگانه سازى ِ نِژادها
 Rassenunruhen; آشوبهاى ِ نِژادى
-Rassenverfolgung; تَعقيب ِ نِژادى
-Rassenvorurteile; پيشداوَرى هاى ِ نِژادى
+Rassenverfolgung; تَعقیب ِ نِژادى
+Rassenvorurteile; پیشداوَرى هاى ِ نِژادى
 Rassismus; نِژاد پَرَستى
 Rast; اِستِراحَت، تَوَقُف
 rasten; .اِستِراحَت کَردَن، تَوَقُف ک
-- Wer rastet, rostet; آب که يِک جا مانَد مي گَندَد
-- rastlos sein; بيقَرار بودَن
-Raststätte; رِستوران ِ بِين ِ راه
-Rasur; اِصلاح ِ صورَت، ريش تَراشى
+- Wer rastet, rostet; آب که يِک جا مانَد می گَندَد
+rastlos (- sein); بیقَرار بودَن
+Rastlosigkeit; بی قَراری
+Raststätte; رِستوران ِ بِین ِ راه
+Rasur; اِصلاح ِ صورَت، ریش تَراشى
 Rat; مَشوَرَت، پَند
 - Rat einholen (in religiösen und rechtlichen Fragen); اِستِفتاء کَردَن
-- Rat erteilen; (pl.)  (پَند دادَن، اندَرز د.، نَصيحَت د. (نَصايح
+- Rat erteilen; (pl.)  (پَند دادَن، اندَرز د.، نَصیحَت د. (نَصایح
 - ... weiss um einen Rat; چاره ساز است
 - als Rat weitergeben; مِن باب ِ مَشوَرَت گُفتَن
 - auf den Rat hin; (be-sch-schour) بالشور
@@ -173,42 +175,42 @@ raten;
 - das rate ich dir; از مَن به تو اَمانَت
 - raten, vermuten; حَدس زَدَن
 Ratenzahlung; پَرداخت ِ قِسطى، قِسطبَندى
-Ratgeber; ناصِح، اِرشاد کُنَنده، مُشير، مُشاوِر، مُستَشار
+Ratgeber; ناصِح، اِرشاد کُنَنده، مُشیر، مُشاوِر، مُستَشار
 Rathaus; شَهردارى
-Ratifizierung; اِبرام، تَصويب
-Ratifizierungsverfahren; رَوَند ِ تَصويب
-Ration; سورسات، جيره، مَواجِب
-rational; عَقلي، تَعَقُلي
+Ratifizierung; اِبرام، تَصویب
+Ratifizierungsverfahren; رَوَند ِ تَصویب
+Ration; سورسات، جیره، مَواجِب
+rational; عَقلی، تَعَقُلی
 - rationale Philosophie; حِکمَت ِ تَعَقُلى
 Rationalisierung; کِفايَت ِ اَفزايِش
-Rationalisierungsinvestition; سَرمايه گُذارى بَراى ِ کِفايَت ِ اَفزايِش
+Rationalisierungsinvestition; سَرمایه گُذارى بَراى ِ کِفايَت ِ اَفزايِش
 Rationalismus; عَقل پَرَستِش
 rationalistisch; عَقلانى
-rationell; مؤَثِر، مُناسِب، صَرفه جويانه
-Rationierung; جيره بَندى
-ratlos; مات و مَبهوت، حِيرَت زَده، سَراسيمه، دَرمانده
+rationell; مؤَثِر، مُناسِب، صَرفه جویانه
+Rationierung; جیره بَندى
+ratlos; مات و مَبهوت، حِیرَت زَده، سَراسیمه، دَرمانده
 ratsam;
-- für ratsam halten; مَصلَحَت دانستَن، ـ ديدَن، مُفيد د
+- für ratsam halten; .مَصلَحَت دانستَن، ـ دیدَن، مُفید د
 Ratsche; چَرخ ِ ضامِن دار، ـ  جَغجَغه دار
 Ratschlag; مَشوَرَت، پَند
 Rätsel; مُعَما، لُغَز
 - Kreuzworträtsel; جَدوَل ِ کَلَمات ِ مُتَقاطِع
 rätselhaft; مَرموز، مُبهَم
-- rätselhafte Beziehung; اِرتِباط ِ مُعماگونه، ـ اِسرار آميز
+- rätselhafte Beziehung; اِرتِباط ِ مُعماگونه، ـ اِسرار آمیز
 Rätselhaftigkeit; غَرابَت
 rätseln; حَدس زَدَن
-- was kommt für ... heraus, wenn wir herumrätseln?; وَلي از اَنگ ِ "مُعَما" زَدَن به ... چه حاصِل؟
-Ratsuchender; مُستَشير
+- was kommt für ... heraus, wenn wir herumrätseln?; وَلی از اَنگ ِ "مُعَما" زَدَن به ... چه حاصِل؟
+Ratsuchender; مُستَشیر
 Ratte; موش ِ سَحرایی
 rattern; تَق تَق کَردَن
 - Rattern; تَلَق و تَلوق
-Raub; دُزدي، سِرقَت، خانه بُري
+Raub; دُزدی، سِرقَت، خانه بُری
 - Bankraub; دَستبُرد ِ بانک
-rauben; به يَغما بُردَن، به غارَت ب.، قاپيدَن، دُزديدَن، تاراج کَردَن، سِرقَت ک.، غارَت ک.، رُبودَن
+rauben; به يَغما بُردَن، به غارَت ب.، قاپیدَن، دُزدیدَن، تاراج کَردَن، سِرقَت ک.، غارَت ک.، رُبودَن
 - den Schlaf rauben; خواب را از چِشم مى رُبايَد
 - jem. den Schlaf rauben; کِسى را از خواب مَحروم کَردَن
 - der Hunger raubte uns die Kraft zum Arbeiten; گُرُسنِگى اَنجام ِ کارها را از ما سَلب مى کَرد
-Räuber; تاراجگَر، دُزد، سارِق، غارَتگَر، يَغماگَر، ياغى، راهزَن
+Räuber; تاراجگَر، دُزد، سارِق، غارَتگَر، يَغماگَر، یاغى، راهزَن
 Räuberhöhle; پاتوق
 räuberisch;
 - räuberische Gesinnung; رَفتار ِ غارَت گَرا
@@ -216,28 +218,30 @@ Raubesbeute; چَپو
 raubgierig; دَرَنده
 Raubmord; قَتل و سِرقَت
 Raubmörder; سارِق ِ قاتِل
-Raubtier; حِيوان ِ گوشتخوار ِ دَرَنده
+Raubtier; حِیوان ِ گوشتخوار ِ دَرَنده
 Raubüberfall; راهزَنى، غارَت
-Raubvogel; پَرَندة چِکارچى
+Raubvogel; پَرَندهٔ چِکارچى
 Rauch; دود
-rauchen; سيگار کِشيدَن
-Raucher; سيگارى
+rauchen; سیگار کِشیدَن
+- ihm raucht der Kopf; دود از کَلهٔ او بُلَند می شَوَد
+Raucher; سیگارى
 räuchern; دود زَدَن
-- ihm raucht der Kopf; دود از کَلة او بُلَند می شَوَد
 - weihräuchern; بُخور سوزاندَن
 - geräuchert; دود زَده
-- geräucherte Wurst; کالباس ِ بوداده، - دودي
+- geräucherte Wurst; کالباس ِ بوداده، - دودی
 - verräuchern; بو دادَن
-Rauchfang; قيف
+- verräuchert; دود آلود، دودى
+Rauchfang; قیف
 rauchgeschwärzt; دود گِرِفته
 rauchig; دود آلود، دودى
 Räude; جَرَب، گَرى
-Raufbold; سِتيز جو، قُلدُر، بِزَن
+räudig (z.B.: Hund); سَگ ِ گَر
+Raufbold; سِتیز جو، قُلدُر، بِزَن
 raufen; زَد و خورد کَردَن
-- s. mit jem. raufen; با کِسي کَلَنجار رَفتَن
-- wegen etwas raufen; دَر مورِد ِ چيزى قيل و قال کَردَن
-Rauferei; سِتيز، زَد و خورد، قُلدُرى
-- Rauflustiger (der aber gleichzeitig den Schwachen hilft); داش
+- s. mit jem. raufen; با کِسی کَلَنجار رَفتَن
+- wegen etwas raufen; دَر مورِد ِ چیزى قیل و قال کَردَن
+Rauferei; سِتیز، زَد و خورد، قُلدُرى
+Rauflustiger (der aber gleichzeitig den Schwachen hilft); داش
 rauh;
 - rauh (z.B. Gesichtszüge); ناهَنجار
 - rauh (Stoff); زِبر
@@ -248,47 +252,48 @@ Rauhheit;
 Raum; فَضا، مَکان
 - im geschlossenen Raum; دَر سالُن ِ دَربَسته
 - Raum & Zeit; مَکان و زَمان
-- in einer Sache für etwas Raum geben; دَر اين عَمَل به چيزى جا دادَن
+- in einer Sache für etwas Raum geben; دَر این عَمَل به چیزى جا دادَن
 - seinen Gedanken Raum geben; به اَفکار ِ خود راه دادَن
 - Nebenraum; اُطاق ِ پَهلوئى
 räumen;
+- Schnee räumen; بَرف پارو کَردَن
 - sie räumen ihn aus den Weg; آنها او را از سَر ِ راهِشان بَردارَند
-- ich muss das Feld räumen; مَن بايد از مِيدان بِرَوَم کِنار
-- er versucht, ihn aus dem Weg zu räumen; از مِيدان به دَر کَردَنَش دَر جَريان است
+- ich muss das Feld räumen; مَن باید از مِیدان بِرَوَم کِنار
+- er versucht, ihn aus dem Weg zu räumen; از مِیدان به دَر کَردَنَش دَر جَریان است
 Raumfahrer; فَضا نَوَرد، فَضاء ـ
 Raumfahrt; فَضا نَوَردى
-Raumflug; فَضا پِيمائى
+Raumflug; فَضا پِیمائى
 Rauminhalt; ظَرفيَت، حَجم
 räumlich; از نَظَر ِ جا و مَکان
-Raumordnung; نَسق ِ اِنتِفاع از زَمين، آئين نامة اِنتِفاع از مُلک و زَمين
-Raumplanung; بَرنامه ريزى ِ اِنتِفاع از زَمين
-Raumschiff; سَفينة فَضاء، فَضا پِيما
+Raumordnung; نَسق ِ اِنتِفاع از زَمین، آئین نامهٔ اِنتِفاع از مُلک و زَمین
+Raumplanung; بَرنامه ریزى ِ اِنتِفاع از زَمین
+Raumschiff; سَفینهٔ فَضاء، فَضا پِیما
 Raumstation; آزمايِشگاه ِ مَدارى
-Räumung (z.B. Haus); تَخليه
-raunen; زير ِ لَب حَرف زَدَن
+Räumung (z.B. Haus); تَخلیه
+raunen; زیر ِ لَب حَرف زَدَن
 Raupe; کِرم
-raus; بيرون
-- er wollte raus; او مى خواست بيرون بِزَنَد
+raus; بیرون
+- er wollte raus; او مى خواست بیرون بِزَنَد
 Rausch; نَشئِه، مَستى، نِشات، سُکر
 Rauschen (z.B. Wind); خِشاخِش
 Rauschgetränke; مُسَکِرات
-Rauschgift; مادة مُخَدِر
+Rauschgift; مادهٔ مُخَدِر
 Rauschgiftkontrolle; نِظارَت بَر مَواد ِ مُخَدِر
 rauskommen;
 - wenn die Sache rauskommt; اَگَر مَطلَب به جائى دَرز کُنَد
-- wenn das erst mal rausgekommen ist; اَگَر بيخ پِيدا مى کَرد
+- wenn das erst mal rausgekommen ist; اَگَر بیخ پِیدا مى کَرد
 rausnehmen;
-- du nimmst dir allerhand raus; دو قورت و نيمِت هَم باقى است
-räuspern; سينه صاف کَردَن
-rausreden (- s.); بَهانه گِرِفتَن
+- du nimmst dir allerhand raus (i.S.: den Hals nicht voll kriegen); دو قورت و نیمِت هَم باقى است
+räuspern; سینه صاف کَردَن
+rausreden (s. -); بَهانه گِرِفتَن
 rausrutschen; از دَهَن دَر رَفتَن
 - das ist mir nur so rausgerutscht; مَنَم از دَهَنَم دَر رَفت
 Raute;
 - Raute (biolog.); اِسپَند
 - Raute (mathemat.); لوزى
 rautenförmig; لوزى شِکل
-Razzia; تَفتيش بِدون ِ اِعلامية قَبلى
-Reagenzglas; لولة شيميائى
+Razzia; تَفتیش بِدون ِ اِعلامیهٔ قَبلى
+Reagenzglas; لولهٔ شیمیائى
 reagieren; عَکس اُلعَمَل نِشان دادَن
 - reagieren auf ...; دَر مُقابِل ِ ... عَکس اُلعَمَل نِشان دادَن
 - ich reagierte schnell und ...; زود خودَم را رو بِراه کَردَم و
@@ -303,59 +308,59 @@ reaktionsschnell; با هوش
 - jem., der nicht mehr reaktionsschnell ist; آدَم ِ مَدهوش
 Reaktionszeit; زَمان ِ واکُنِش
 Reaktor; راکتور
-real; حَقيقى، واقِعى، عِينى، موضوعى
-- real existierender Sozialismus; سوسياليسم ِ واقِعاً موجود
+real; حَقیقى، واقِعى، عِینى، موضوعى
+- real existierender Sozialismus; سوسیالیسم ِ واقِعاً موجود
 - Steigerung des realen Pro-Kopf-Einkommens; اَفزايِش ِ دَرآمَد ِ واقِعى ِ سَرانه
-realisieren; عَمَل کَردَن، اَنجام دادَن، به وُقوع پِيوَستَن
-- realisiert werden; واقِع شُدَن، وُقوع يافتَن
+realisieren; عَمَل کَردَن، اَنجام دادَن، به وُقوع پِیوَستَن
+- realisiert werden; واقِع شُدَن، وُقوع یافتَن
 Realisierung; تَحَقُق
-Realismus; واقِع بينى، واقِع آئينى، واقِعگَرى
+Realismus; واقِع بینى، واقِع آئینى، واقِعگَرى
 - Begriffsrealismus; واقِعگَرى ِ مَفهومى
-Realist; واقِعبين
+Realist; واقِعبین
 realistisch; واقِعى
-- realistisch gesehen; واقِعيَتَش اين است
-Realität; حَقيقَت، واقِعيَت
+- realistisch gesehen; واقِعيَتَش این است
+Realität; حَقیقَت، واقِعيَت
 Reallohn; مُزد ِ واقِعى
-Realpolitik; سياسَت ِ واقِع بينانه
-Realschule; مَدرِسة مُتَوَسِطه
-reanimieren; اِحياء کَردَن
-Rebell; عُصيانگَر، ياغي، غوغاسالار
-rebellieren; سَر به شورِش گُذاشتَن، ضِد ِ کِسي شورِش کَردَن
-Rebellion; شورِش، عُصيان، ياغي گَري، طُغيان، نافَرمائي
+Realpolitik; سیاسَت ِ واقِع بینانه
+Realschule; مَدرِسهٔ مُتَوَسِطه
+reanimieren; اِحیاء کَردَن
+Rebell; عُصیانگَر، یاغی، غوغاسالار
+rebellieren; سَر به شورِش گُذاشتَن، ضِد ِ کِسی شورِش کَردَن
+Rebellion; شورِش، عُصیان، یاغی گَری، طُغیان، نافَرمائی
 - Rebellion gegen Gott; مَعصيَت
-rebellisch; شَراَنگيز
+rebellisch; شَراَنگیز
 - rebellischer Mensch; شَخص ِ خاطى و عاصى، آدَم ِ مُتَمَرِد
-Rebhuhn; کَبک، تيهو
+Rebhuhn; کَبک، تیهو
 Reblaus; شَتۀ مو
 Rechen; عَلَف کِش
 Rechenbrett; چُتکه
 - mit Rechenbrett rechnen; جُتکه اَنداختَن
 Rechenschaft;
-- jem. Rechenschaft ablegen;  ِ به کِسى حِساب پَس دادَن، - جَواب پَس دادَن، پاسُخگوئي دَر مُقابِل
+- jem. Rechenschaft ablegen;  ِ به کِسى حِساب پَس دادَن، - جَواب پَس دادَن، پاسُخگوئی دَر مُقابِل
 - Rechenschaft fordern; حِساب ِ کِسى را باز خواستَن، باز خواست کَردَن
 - ich ziehe dich wegen deiner Taten zur Rechenschaft; تورا به سَزاى ِ اَعمالَت مى رِسانَم، حَق ِ تو را کَف ِ دَستَِت مى گُذارَم
 Rechenschaftsbericht (- geben);  (حِساب (پَس دادَن
 Rechenschieber; خَط کِش ِ حِساب
 Rechentafel; جَدوَل ِ محاسِباتى
-Recherche; پِي گَردي، تَفَحُص
+Recherche; پِی گَردی، تَفَحُص
 recherchieren; تَفَحُص کَردَن
 rechnen; حِساب کَردَن
 - rechnen zu; به (دَر) شُمار ِ کِسى دَرآوَردَن
 - ich rechne mit dir; مَن روى ِ تو حِساب مى کُنَم
 - was rechnest du da?; چه دارى چُتکه مى اَندازى؟
-Rechner; ماشين ِ حِساب
-- Taschenrechner; ماشين ِ حِساب ِ جيبى
+Rechner; ماشین ِ حِساب
+- Taschenrechner; ماشین ِ حِساب ِ جیبى
 Rechnung; صورَت ِ حِساب، قَبض
 - auf meine Rechnung (*: Kappe); پاى ِ مَن، به حِساب ِ مَن است
 - gegen Rechnung; عَلىَ الحِساب
 - jem., der auf seine Rechnung kommt; قَند توى ِ کِسى آب مى شَوَد
 - Rechnung verlangen; حِساب پَس گِرِفتَن
-- Rechnung von ... begleichen; حِساب ِ چيزی را داشتَن
+- Rechnung von ... begleichen; حِساب ِ چیزی را داشتَن
 - seine Rechnung ist beglichen; حِسابِش پاک است
 - eine alte Rechnung mit jem. begleichen (alleg.); حِساب ِ قَلتاق ِ کُهنه با کِسى داشتن، حِساب ِ کُهنه را پاک کَردَن
 - Phantasierechnung; حِساب سازی
 Rechnungsbücher; حِساب و کِتاب
-Rechnungshof; ديوان محاسبات
+Rechnungshof; دیوان محاسبات
 Rechnungsprüfer; حِسابرَس
 Rechnungsprüfung; حِسابرَسى
 recht;
@@ -364,12 +369,12 @@ recht;
 - das geschieht ihm recht; سَزاوارَش بود
 - ihm geschieht recht für seinen Egoismus; حَق ِ خودخواهى را دَر کَف ِ دَستِش گُذاشته است
 - ist es recht, wenn ...; خوب است اَگَر ...، مُناسِب است ـ
-- bitte recht freundlich; خواهِش مى کُنَم شاد باشيد
-- es jedem recht machen wollen; کارى کَردَن که نَه سيخ بسوزَد نَه کَباب، او مي خواهَد کِرم ِ دِرَختي يِکي باشَد
-- das geht nicht mit rechten Dingen zu; هيله گَرى دَر کار است
-- nach dem Rechten sehen;  .سَر کِشى کَردَن، وارِسى ک.، رِسيدِگى ک
+- bitte recht freundlich; خواهِش مى کُنَم شاد باشید
+- es jedem recht machen wollen; کارى کَردَن که نَه سیخ بسوزَد نَه کَباب، او می خواهَد کِرم ِ دِرَختی يِکی باشَد
+- das geht nicht mit rechten Dingen zu; هیله گَرى دَر کار است
+- nach dem Rechten sehen;  .سَر کِشى کَردَن، وارِسى ک.، رِسیدِگى ک
 Recht (n); حَق
-- (relig.) Recht; (feqh) قانون، شَريعَت، فقه
+- (relig.) Recht; (feqh) قانون، شَریعَت، فقه
 - mit Recht; به حَق
 - Zivilrecht; عُرف، حُکم ِ قَضائى
 - Recht auf Religionsfreiheit; حَق ِ آزادى ِ مَذهَب
@@ -380,39 +385,39 @@ Recht (n); حَق
 - das Recht aufheben; حَق را ناحَق کَردَن
 - jem. das Recht absprechen; حَق ِ کِسی را خوردَن
 - jem. Recht verschaffen; کِسى را دادرَسى فَرمودَن
-- gleiches Recht für alle; گَر حُکم کُنَند که مَست گيرَند، دَر شَهر هَر آنچه هَست گيرَند
+- gleiches Recht für alle; گَر حُکم کُنَند که مَست گیرَند، دَر شَهر هَر آنچه هَست گیرَند
 - können ihre Rechte nicht anerkannt bekommen; نِمى تَوانَند اِحقاق ِ حَق کُنَند
-- mit Gesichtsausdruck, wo man s. im Recht weiß; با قيافة حَق به جانِب
-Rechteck; مُرَبَع ِ مُستَطيل، راست گوشه
-rechteckig; مُستَطيل، قائم اُلَزاويه
+- mit Gesichtsausdruck, wo man s. im Recht weiß; با قیافهٔ حَق به جانِب
+Rechteck; مُرَبَع ِ مُستَطیل، راست گوشه
+rechteckig; مُستَطیل، قائم اُلَزاویه
 rechten;
-- miteinander rechten; با هَمديگَر مُحاجه کَردَن
+- miteinander rechten; با هَمدیگَر مُحاجه کَردَن
 rechtens; به حَق
-- war es nicht rechtens, dass ...; آيا حَقِش نَبود که
+- war es nicht rechtens, dass ...; آیا حَقِش نَبود که
 rechtfertigen;
 - jem. rechtfertigen;  .کِسى را تَبرئه کَردَن، از حَق ِ کِسى دِفاع ک
-- s. rechtfertigen;  .خودرا توجيه کَردَن، ـ دِفاع ک
-Rechtfertigung; توجيه، دِفاع
-Rechtfertigungslehre; تَعليم ِ بَخشِش، ـ بَرائت، ـ تَبرئه
+- s. rechtfertigen;  .خودرا توجیه کَردَن، ـ دِفاع ک
+Rechtfertigung; توجیه، دِفاع
+Rechtfertigungslehre; تَعلیم ِ بَخشِش، ـ بَرائت، ـ تَبرئه
 Rechtgläubiger (isl.); راشِد
 - rechtgläubiger Mensch (allg.); آدَم ِ دُرُست اِعتِقاد
 rechtlich; حُقوقى، قانونى، شَرعى
 rechtlos; بى حُقوق، مَحروم از قانون
-rechtmässig; به حَق، قانوني
+rechtmässig; به حَق، قانونی
 - rechtmässiger Erwerb; کَسب ِ حَلال، ـ قانونى
 - es ist sein rechtmässiges Eigentum; مِلک ِ طِلق ِ اوست
 rechts; سَمت ِ راست
 - Augen rechts!; نَظَر به راست
 Rechtsanspruch; حَق ِ طَلَبى، اِدعِاى ِ حَق
-Rechtsanwalt; وَکيل ِ دَعاوى، مُدافِع
-Rechtsauffassung; نَظَرية حُقوقى
-Rechtsbeistand; مُشاوِر ِ حُقوقى، وَکيل ِ دادگُستَرى
-Rechtsberater; مُستَشار، رايزَن ِ حُقوق
-rechtschaffen; دُرُستکار، اَمين، عادِل، مُنَزه
-Rechtschaffenheit; آبرومَندى، نيکى
-Rechtschreibung; دُرُست نِويسى
+Rechtsanwalt; وَکیل ِ دَعاوى، مُدافِع
+Rechtsauffassung; نَظَریهٔ حُقوقى
+Rechtsbeistand; مُشاوِر ِ حُقوقى، وَکیل ِ دادگُستَرى
+Rechtsberater; مُستَشار، رایزَن ِ حُقوق
+rechtschaffen; دُرُستکار، اَمین، عادِل، مُنَزه
+Rechtschaffenheit; آبرومَندى، نیکى
+Rechtschreibung; دُرُست نِویسى
 rechtsdrehend; بِطَرَف ِ راست مى چَرخَد
-Rechtsgelehrter (isl.); (pl.)  (مُجتَحِد، فَقيه (فُقَها
+Rechtsgelehrter (isl.); (pl.)  (مُجتَحِد، فَقیه (فُقَها
 Rechtsgültigkeit; قانونيَت، شَرعيَت
 Rechtsgutachten (isl.); فَتوا
 - Rechtsgutachten ausstellen; فَتوا دادَن
@@ -421,82 +426,82 @@ Rechtskraft; حُکم ِ قَطعى، ـ نَهائى
 rechtskräftig; قَطعى
 Rechtslage; وَضعيَت ِ حُقوقى، موقِعيَت ِ ـ
 Rechtsmittel; راه هاى ِ قانونى، طُرُق ِ ـ، وَسائِل ِ ـ
-Rechtsnachfolge; جانِشينى ِ شَرعى، وِراثَت ِ ـ
-Rechtsnorm; مِعيار ِ حُقوقى، قاعِدة ـ
+Rechtsnachfolge; جانِشینى ِ شَرعى، وِراثَت ِ ـ
+Rechtsnorm; مِعیار ِ حُقوقى، قاعِدهٔ ـ
 Rechtsordnung; نِظام ِ قَضائى
 rechtsorientiert; راست رو، راستگَرا
 Rechtspflege; نِصفَت، حَقانيَت
 Rechtsspruch; حُکم ِ قِضاوَت
 Rechtsstaat; حُکومَت مُبتَنىٰ بَر قانون، حُکومَت ِ مَشروطه
 Rechtsstreitigkeit; دَعواى ِ حُقوقى، نِزاع ِ ـ
-rechtsunfähig; مَهجور عَلِيه
+rechtsunfähig; مَهجور عَلِیه
 Rechtsunsicherheit; عَدَم ِ اَمنيَت ِ قانونى
 Rechtsverbindlichkeit; اِلزام ِ قانونى، تَعَهُد ِ ـ
-Rechtsverdreher; تَلبيس کار، مُحَرِف ِ قانون
+Rechtsverdreher; تَلبیس کار، مُحَرِف ِ قانون
 Rechtsverlust; سَلب ِ حَق
-- Rechtsverlust durch Verjährung; تَضييع ِ حَق دَر اَثَر ِ مورِد ِ زَمان
-rechtswidrig; نامَشروع، غِير ِ قانونى، مُغايِر ِ قانون، مُخالِف ِ ـ
+- Rechtsverlust durch Verjährung; تَضییع ِ حَق دَر اَثَر ِ مورِد ِ زَمان
+rechtswidrig; نامَشروع، غِیر ِ قانونى، مُغايِر ِ قانون، مُخالِف ِ ـ
 rechtzeitig; سَر ِ وَقت، به موقِع
 recken (s. -); دِراز کَردَن
-Reckstange; بار فيکس
-Redakteur; دَبير ِ روزنامه، گِرد آوَرَنده
-Redaktion; هيأت تَحريريه، ـ تَحرير، سَر دَبيرى
+Reckstange; بار فیکس
+Redakteur; دَبیر ِ روزنامه، گِرد آوَرَنده
+Redaktion; هیأت تَحریریه، ـ تَحریر، سَر دَبیرى
 Rede; صُحبَت، مُخاطِبه، سُخَنرانى
 - die Rede ist von ..; سُخَن از .. است
-- wovon gestern die Rede war; که ديروز حَرفَش بود
+- wovon gestern die Rede war; که دیروز حَرفَش بود
 - Rede halten; نُطق کَردَن
-- indirekte Rede; نَقل ِ قول ِ غِير ِ مُستَقيم
-- jem. zur Rede stellen; کِسى را با چيزى رو بِرو کَردَن
-- kaum war ich zu Hause, stellte mich meine Mutter zur Rede; هَمينکه آمَدَم خانه، مادَرَم شُروع کَرد به سين جيم کَردَنَم
-- Tischrede; سُخَنرانى ِ سَر ِ ميز ِ غَذا
-redegewandt; زَبان فَصيح، فَصيح اُلکَلام، دَر سُخَن گُفتَن فَصيح و بَليغ بودَن
-Redegewandtheit; فَصيحى
+- indirekte Rede; نَقل ِ قول ِ غِیر ِ مُستَقیم
+- jem. zur Rede stellen; کِسى را با چیزى رو بِرو کَردَن
+- kaum war ich zu Hause, stellte mich meine Mutter zur Rede; هَمینکه آمَدَم خانه، مادَرَم شُروع کَرد به سین جیم کَردَنَم
+- Tischrede; سُخَنرانى ِ سَر ِ میز ِ غَذا
+redegewandt; زَبان فَصیح، فَصیح اُلکَلام، دَر سُخَن گُفتَن فَصیح و بَلیغ بودَن
+Redegewandtheit; فَصیحى
 Redekunst; فَن ِ بَلاغَت
 reden; صُحبَت کَردَن، سُخَن گفتن
 - reden von; دَم زَدَن از
 - viel reden; شاخ و بَرگ حَرف زَدَن
-- ununterbrochen reden; يِک ريز حَرف زَدَن، وِروِر حَرف زَدَن
-- rede nicht von Dingen, von denen du nichts weisst; تو به اوج ِ فَلَک چه دانى چيست، چون نَدانى که در سَراى ِ تو کيست
+- ununterbrochen reden; يِک ریز حَرف زَدَن، وِروِر حَرف زَدَن
+- rede nicht von Dingen, von denen du nichts weisst; تو به اوج ِ فَلَک چه دانى چیست، چون نَدانى که در سَراى ِ تو کیست
 - nicht viel reden; بدون شاخ و بَرگ حَرف زَدَن
 - unfähig zu reden; صامِت
 - einer, der langsam redet; آدَم ِ بَطى اُلکَلام
-- drauf los reden;  .دَهَن لَق کَردَن، آسمان ريسمان ک
+- drauf los reden;  .دَهَن لَق کَردَن، آسمان ریسمان ک
 - von jem. reden; حَرف از کِسی شُدَن
 - dazwischen reden; حَرف توی ِ حَرف آمَدَن
 - freundlich reden; خوش زَبان
-- so reden wir nicht miteinander!; ! ما با هَم از اين حَرفها نَداريم
-- gegen die Wand reden; به ديوار حَرف زَدَن
-- aus dem hohlen Bauch heraus reden; از روي ِ بُخار ِ مِعده حَرف زَدَن
-- in sich nicht schlüssiges Zeug reden; بَلبَلي خواندَن
-- gespreizt reden; مَجيز گوئى کَردَن
+- so reden wir nicht miteinander!; ! ما با هَم از این حَرفها نَداریم
+- gegen die Wand reden; به دیوار حَرف زَدَن
+- aus dem hohlen Bauch heraus reden; از روی ِ بُخار ِ مِعده حَرف زَدَن
+- in sich nicht schlüssiges Zeug reden; بَلبَلی خواندَن
+- gespreizt reden; مَجیز گوئى کَردَن
 - redendes Wesen (Mensch); وُجود ِ مَقولاتى
 - falsche Reden führen; بِکَذب تَنَطُق کَردَن
-- Reden und Tun sind zweierlei; دو صَد گُفته چون نيم کِردار نيست
+- Reden und Tun sind zweierlei; دو صَد گُفته چون نیم کِردار نیست
 - Reden ist Silber, Schweigen ist Gold; سُخَن اَگَر زِر است سُکوت گوهَر است
-- jem. zum Reden bringen;  .از کِسى حَرف کِشيدَن، از زير ِ زَبان ِ کِسى حَرف ک
+- jem. zum Reden bringen;  .از کِسى حَرف کِشیدَن، از زیر ِ زَبان ِ کِسى حَرف ک
 - geschickter sein im Reden als ...; سَر ِ زَباندارتَر از ... بودَن
-Redeordnung; تَرتيب ِ تَقَدُم ِ سُخَنرانى
-Redewendung; عِبارَت ِ عاميانه، اِصطِلاح ِ ـ
+Redeordnung; تَرتیب ِ تَقَدُم ِ سُخَنرانى
+Redewendung; عِبارَت ِ عامیانه، اِصطِلاح ِ ـ
 Redlichkeit; بَرائَت، آبرومَندى، اِستِقامَت
-Redner; خَطيب، خاطِب، سُخَنران، ناطِق
+Redner; خَطیب، خاطِب، سُخَنران، ناطِق
 - Lobredner (auch iron.); ثَناگو
-Rednergabe; قُوة ناطِقه
+Rednergabe; قُوهٔ ناطِقه
 Rednerliste; فِهرِست ِ سُخَنرانان
-Rednerpult; ميز ِ خِطابه، ـ سُخَنرانى
+Rednerpult; میز ِ خِطابه، ـ سُخَنرانى
 redselig; پُرگو
 - redseliger Mensch; آدَم ِ پُرگو
 reduzieren; کاهِش دادَن، کاستَن
 - den Stress reduzieren; اِسترِس ِ خودرا کاهِش دادَن
-reduziert; کاهِش يافته، کاسته
+reduziert; کاهِش یافته، کاسته
 Reduzierung; گاهِش
-- Preisreduzierung; کاهِش ِ قِيمَت
-- Truppenreduzierung; تَقليل ِ قُواى ِ نِظامى
+- Preisreduzierung; کاهِش ِ قِیمَت
+- Truppenreduzierung; تَقلیل ِ قُواى ِ نِظامى
 reell; مُنصِفانه، صادِق
 Reep; نَردِبان ِ طَنابى
 - Fallreep; نَردِبان ِ طَنابى ِ کِشتى
 Referat; سُخَنرانى
-Referendariat; دورة آموزِشى ِ دولَتى
-Referent; خَطيب، خاطِب، سُخَنران، ناطِق
+Referendariat; دورهٔ آموزِشى ِ دولَتى
+Referent; خَطیب، خاطِب، سُخَنران، ناطِق
 - Pressereferent; سُخَنگوى ِ مَطبوعاتى، مُشاوِر ِ مَطبوعاتى
 - persönlicher Referent; مُشاوِر ِ شَخصى
 Referenz; مُعَرِف، توصيِه
@@ -504,32 +509,32 @@ reflektieren; اِنعِکاس کَردَن
 - reflektierende Farbe; رَنگ ِ شَب تاب، ـ شَب نَما
 reflektiert; مُنعَکِس
 Reflex; اِنعِکاس، واکُنِش
-- Reflex: primär u. bedingt; واکُنِش يا اِنعِکاس ِ عادى و شَرطى
+- Reflex: primär u. bedingt; واکُنِش یا اِنعِکاس ِ عادى و شَرطى
 Reflexion; بازتاب، اِنعِکاس
-Reflexionstheorie (philos.); نَظَرية اِنِعکاس
-Reflexivpronomen; ضَمير ِ نَفس
+Reflexionstheorie (philos.); نَظَریهٔ اِنِعکاس
+Reflexivpronomen; ضَمیر ِ نَفس
 Reform; رِفورم، اِصلاح
-- durch Reformen umsetzen; چيزي با جَرح و تَعديل به اِجرا دَر آمَدَن
-Reformation; اِصلاح ِ تَعليم ِ کِليسا
+- durch Reformen umsetzen; چیزی با جَرح و تَعدیل به اِجرا دَر آمَدَن
+Reformation; اِصلاح ِ تَعلیم ِ کِلیسا
 Reformer; مُصلِح، اِصلاح کُنَنده
 Refrain; رِفرِن، بَندِگَردان
 Regal; قَفَسه، رَف
-Regatta; مُسابِقة کِشتى
-- Segelregatta; مُسابِقة کِشتى ِ باد بانى رانى
+Regatta; مُسابِقهٔ کِشتى
+- Segelregatta; مُسابِقهٔ کِشتى ِ باد بانى رانى
 Regel; ضابِطه، قانون، قاعِده
 - ohne Regel; بى تار و پود
 - Frau, die ihre Regel hat; زَنى که دَر دوران ِ قاعِدِگى اش است
-regelbar; قابِل ِ تَنظيم
-regellos; بى نَظم، بى تار و پود، بى تَرتيب
-regelmässig; مُنَظَم، مُرَتَب، به تَرتيب
+regelbar; قابِل ِ تَنظیم
+regellos; بى نَظم، بى تار و پود، بى تَرتیب
+regelmässig; مُنَظَم، مُرَتَب، به تَرتیب
 Regelmässigkeit; اِنتِظام، نَظم، قاعِده
-regeln; چيزى را سَر و صورَت دادَن
-- Streitigkeiten regeln; اِختِلاف را فِيصَله دادَن
-- kannst du das für mich regeln?; مى تَوانى اين را بَراى ِ مَن تَرتيب بِدَهى؟
-- dass er die Angelegenheit regelt; که بَراى ِ چيزى پا دَر ميان کُنَد
+regeln; چیزى را سَر و صورَت دادَن
+- Streitigkeiten regeln; اِختِلاف را فِیصَله دادَن
+- kannst du das für mich regeln?; مى تَوانى این را بَراى ِ مَن تَرتیب بِدَهى؟
+- dass er die Angelegenheit regelt; که بَراى ِ چیزى پا دَر میان کُنَد
 regelrecht; حِسابى
 Regelung;
-- bundeseinheitliche Regelung; تَرتيب ِ قانونى دَر سَر تا سَر ِ کِشوَر
+- bundeseinheitliche Regelung; تَرتیب ِ قانونى دَر سَر تا سَر ِ کِشوَر
 - Friedensregelung; قَرار ِ صُلح
 Regelventil; سوپاپ ِ کُنترُل
 regen; حَرَکَت کَردَن
@@ -538,24 +543,24 @@ regen; حَرَکَت کَردَن
 Regen (m); بارِش، باران
 - in den Regen geraten; باران خوردَن
 - vom Regen in die Traufe; از چاله به چاه اُفتادَن
-- nach Regen kommt Sonnenschein; پايان ِ شَب ِ سيَه سِپيد است
-- Platzregen; باران ِ سِيل آسا
-- Sprühregen; نَم نَم باران مى بارَد، ريز باران
-Regenbogen; رَنگين کَمان، قوس ِ قَزَح
-Regenbogenhaut; عِنَبيهِ
-Regeneration; تَجديد ِ قُوىٰ، تَرميم
+- nach Regen kommt Sonnenschein; پایان ِ شَب ِ سيَه سِپید است
+- Platzregen; باران ِ سِیل آسا
+- Sprühregen; نَم نَم باران مى بارَد، ریز باران
+Regenbogen; رَنگین کَمان، قوس ِ قَزَح
+Regenbogenhaut; عِنَبیهِ
+Regeneration; تَجدید ِ قُوىٰ، تَرمیم
 Regenmantel; پالتوى ِ بارانى
 Regenrinne; ناودان
 Regenschirm; چَتر
-Regent; (pl.)  (زِمامدار، وَلي اُلاَمر (اولياء ِ اُمور
+Regent; (pl.)  (زِمامدار، وَلی اُلاَمر (اولیاء ِ اُمور
 Regentschaft; زِمامدارى
-Regenwurm; خَراطين
-Regie; کارگَرداني
+Regenwurm; خَراطین
+Regie; کارگَردانی
 - Regie führen; کار گَردانى کَردَن
 - jem. Regieanweisungen geben; بَراى ِ کِسى کارگَردانى کَردَن
 regieren; حُکومَت کَردَن
 - mit knapper Mehrheit regieren; با اَکثَريَت ِ کَمى حُکومَت کَردَن
-- wenn zwei regieren wollen, geht das nicht gut; دو پادِشاه دَر اِقليمى نَگُنجَد
+- wenn zwei regieren wollen, geht das nicht gut; دو پادِشاه دَر اِقلیمى نَگُنجَد
 - regierende Partei; حِزب ِ حاکِم
 Regierung; دولَت، حُکومَت
 - an der Regierung sein; بَر سَر ِ قُدرَت بودَن
@@ -563,22 +568,22 @@ regierungsfähig; قادِر به حُکومَت
 - regierungsfähige Mehrheit; اَکثَريَت ِ قادِر به حُکومَت
 Regiment; فوج، هَنگ
 - ein Regiment von ..; فوج  ِ..، هَنگ ِ
-Region; (pl.) مَنطَقه، ناحيه (نَواحى
+Region; (pl.) مَنطَقه، ناحیه (نَواحى
 - nördl. Polarregion; آفاق ِ قُطبى ِ شُمالى
 regional; مَنطَقه اى
 Regisseur; کار گَردان
-- Regisseur bei Mysterienspiel; شَبيه گَردان
+- Regisseur bei Mysterienspiel; شَبیه گَردان
 Register; فِهرِست
 - Register- und Geschäftsbuch; دَفتَر و دَستَک
-registrieren (- s.); ثَبت ِ نام کَردَن، اِسم نِويسى ک
-Registrierung; ثبَت، قِيد
-- Namensregistrierung; ثَبت ِ نام، اِسم نِويسى
+registrieren (s. -); ثَبت ِ نام کَردَن، اِسم نِویسى ک
+Registrierung; ثبَت، قِید
+- Namensregistrierung; ثَبت ِ نام، اِسم نِویسى
 - Personenstandsregistrierung; ثَبت ِ اَحوال
 Regler; کُنترُلِر، ناظِم
 - Drehregler; رِگولاتُر ِ اِلقائى
 reglos; بى حَرَکَت
-regnen; باران آمَدَن، باريدَن
-- unaufhörlich regnen; يِک ريز مى بارَد
+regnen; باران آمَدَن، باریدَن
+- unaufhörlich regnen; يِک ریز مى بارَد
 - es hat angefangen, zu regnen; بارانى گِرِفت
 - es hörte auf, zu regnen; باران بَند آمَد
 regnerisch; بارانى
@@ -586,184 +591,184 @@ Regress; رُجوع
 Regression; بَرگَشت، تَنَزُل، پَس رَوى
 regressiv; پَس رو، پَس رَوَنده
 regulär; مُنَظَم، ثابِت
-Regulation; تَنظيم
-regulieren; تَنظيم کَردَن
-- regulierender Faktor; عُنصُر ِ تَعديل
-- Regulierung des Marktes; تَعديل ِ اِقتِصادى
+Regulation; تَنظیم
+regulieren; تَنظیم کَردَن
+- regulierender Faktor; عُنصُر ِ تَعدیل
+- Regulierung des Marktes; تَعدیل ِ اِقتِصادى
 Regung; تَحَرُک، حَرَکَت، جُنبِش
 regungslos; تَکان نَخوردَن
 - regungslos bleiben; چَهار شاخ ماندَن
 Reh; آهو
-Rehabilitation (jurist.); اِعادة حِيثيَت
-- Rehabilitierung von Suchtkranken; باز پَروَرى ِ مُعتادين
-rehabilitieren (- jem.); از کِسي اِعادة حِيثيَت شُدَن
-- er hat s. rehabilitiert; او از خود اِعادة حِيثيَت کَرد
-- sie sind rehabilitiert worden; بَهانة خوبي به دَستِشان اُفتاد
+Rehabilitation (jurist.); اِعادهٔ حِیثيَت
+- Rehabilitierung von Suchtkranken; باز پَروَرى ِ مُعتادین
+rehabilitieren (- jem.); از کِسی اِعادهٔ حِیثيَت شُدَن
+- er hat s. rehabilitiert; او از خود اِعادهٔ حِیثيَت کَرد
+- sie sind rehabilitiert worden; بَهانهٔ خوبی به دَستِشان اُفتاد
 Reibbelag; روکِش ِ مالِشى
 Reibe; رِنده
-reiben; ماليدَن، رِنده کَردَن، سائيدَن
+reiben; مالیدَن، رِنده کَردَن، سائیدَن
 Reiben (n); مالِش
 Reibung; اِصطِکاک، اِحتِکاک، مالِش
 reibungslos;
 - die Sache ging reibungslos vor sich; کار بِدون ِ خَرخَشه اَنجام گِرِفت، ـ بِدونِ دَرد ِ سَر ـ، ـ بِدون ِ مُشکِلات ـ
 Reibungsverlust; اِصطِکاک تَلَف
-reich; مُتَمَوِل، مايه دار، پولدار
+reich; مُتَمَوِل، مایه دار، پولدار
 - reich sein (auch in Bezug auf Werte);  .غَنى بودَن، مُستَغنى ب
 - aus reicher Erfahrung; از فَرط ِ تَجرُبه
 - reich sein wie Krösus; گَنج ِ قارون، اُتُرخان
-- er hält mich für den Sohn von irgendso einem Reichen; خيال می کُنَد که مَن پِسَر ِ اُتُرخان اَعظمم
-- reiche Witwe; بيوِزَن ِ مُتَنَعِم
-- er war nicht reich genug, um ..; دَستِش هَم نِمى رِسيد که
-- Reich zu reich; آب دانَد که آباداني کُجاست
+- er hält mich für den Sohn von irgendso einem Reichen; خیال می کُنَد که مَن پِسَر ِ اُتُرخان اَعظمم
+- reiche Witwe; بیوِزَن ِ مُتَنَعِم
+- er war nicht reich genug, um ..; دَستِش هَم نِمى رِسید که
+- Reich zu reich; آب دانَد که آبادانی کُجاست
 - reich sein, übertreffen; اَفزون آمَدَن
-- Reicher; (pl.)  (ثِروَتمَند، پولدار، مُتَمَوِل (مُتَمَوِلين
+- Reicher; (pl.)  (ثِروَتمَند، پولدار، مُتَمَوِل (مُتَمَوِلین
 Reich (n); قَلَمرو، مَملَکَت
-- sein Reich ging bis ...; قَلَمروى ِ او تا ... رِسيد
+- sein Reich ging bis ...; قَلَمروى ِ او تا ... رِسید
 reichen;
-- reichen von .. bis; از .. تا .. اِمتِداد داشتن، ـ رِسيدَن
+- reichen von .. bis; از .. تا .. اِمتِداد داشتن، ـ رِسیدَن
 - das Essen reicht bis ...; غَذا تا ... کافى است
 - jem. ein Stück Brot reichen; تِکه اى ِ نان به طَرَف ِ کِسى دِراز کَردَن، ـ دادَن
 - uns reicht es, ist genug; بَسِمان است، بَراى ِ ما کافى است، بَراى ِ ما کِفايَت مى کُنَد، ـ بَس است
-- ihr reichte es, sie hat die Nase voll; حوصِله اش سَر آمَده بود، بِاَندازة کافى کَلافه هَست، تا خِرخِره اش بالا رَفته است
+- ihr reichte es, sie hat die Nase voll; حوصِله اش سَر آمَده بود، بِاَندازهٔ کافى کَلافه هَست، تا خِرخِره اش بالا رَفته است
 reichlich; اَفزون، فَراوان
-- reichlich Erfolg haben; نَتيجة وافِر داشتَن
-- reichliches Vergnügen haben; لِذَت ِ فَرَواني داشتَن
-- reichlich sprudelnd (-e Quelle); سَرچشمة قَياض
+- reichlich Erfolg haben; نَتیجهٔ وافِر داشتَن
+- reichliches Vergnügen haben; لِذَت ِ فَرَوانی داشتَن
+- reichlich sprudelnd (-e Quelle); سَرچشمهٔ قَیاض
 Reichtum; اَموال، غَنا، ثِروَت، ثَروَتمَندى، تَمَوُل
 - Reichtum, Macht; مِکنَت
-- ohne viel Reichtum lebt es s. leichter; آسوده کِسى که خَر نَدارَد، از قِيمَت ِ آن خَبَر نَدارَد
-- Reichtum kommt nicht von allein; دارائى ِ جوهَررا از مَردُم مى گيرَد
-- in Reichweite sein; دَر دَسترَس بودَن، دَسترَسى به چيزى داشتَن
-- in Reichweite von .. kommen; دَسترَسى به چيزى پِيدا کَردَن
+- ohne viel Reichtum lebt es s. leichter; آسوده کِسى که خَر نَدارَد، از قِیمَت ِ آن خَبَر نَدارَد
+- Reichtum kommt nicht von allein; دارائى ِ جوهَررا از مَردُم مى گیرَد
+- in Reichweite sein; دَر دَسترَس بودَن، دَسترَسى به چیزى داشتَن
+- in Reichweite von .. kommen; دَسترَسى به چیزى پِیدا کَردَن
 - die Reichweite von .. beträgt; بُرد .. است
 - grosse Reichweite; بُرد ِ دِراز
 - die Reichweite der Kanone ist gering; بُرد ِ توپ کَم است
 - Raketenreichweite; بُرد ِ موشَک
-reif; رِسيده
-- reife Frucht; ميوة رِسيده
+reif; رِسیده
+- reife Frucht; میوهٔ رِسیده
 - geschlechtsreif; بالِغ
-Reif (m); ژاله، بَرف ريزه
+Reif (m); ژاله، بَرف ریزه
 - Reif, Armreif; اَلَنگو
-Reife; رِسيدِگى، نَضج
+Reife; رِسیدِگى، نَضج
 reifen; بالِغ شُدَن
-- Früchte reifen; ميوه ها مى رِسَند
-- eine Sache reift heran; اين چيز جا مى اُفتَد
-- Früchte zum Reifen bringen; ميوه ها را رِسانيدَن
-Reifen (m); لاستيک ، طايِر
+- Früchte reifen; میوه ها مى رِسَند
+- eine Sache reift heran; این چیز جا مى اُفتَد
+- Früchte zum Reifen bringen; میوه ها را رِسانیدَن
+Reifen (m); لاستیک ، طايِر
 - Ersatzreifen; طايِر ِ يَدَکى
-- Winterreifen; لاستيکهاي ِ يَخ شِکَن
-- Winterreifen aufziehen;  لاستيك ِ يَخ شِكَن زيرِ ماشين انداختَن
-- Zwillingsreifen; لاستيکهاى ِ جُفتى
-Reifenprofil; لاستيک نِمونه
-Reihe; رَسته، دَسته، نوبَت، رَديف، سِرى
+- Winterreifen; لاستیکهای ِ يَخ شِکَن
+- Winterreifen aufziehen;  لاستیك ِ يَخ شِكَن زیرِ ماشین انداختَن
+- Zwillingsreifen; لاستیکهاى ِ جُفتى
+Reifenprofil; لاستیک نِمونه
+Reihe; رَسته، دَسته، نوبَت، رَدیف، سِرى
 - Reihe der Dichter; دَر سِلک ِ شُعَرا
 - ich bin an der Reihe; نوبَت ِ مَن است
-- eine Reihe strahlender Zähne; يِک رَج ِ دَندانهاى ِ سِفيد
+- eine Reihe strahlender Zähne; يِک رَج ِ دَندانهاى ِ سِفید
 - arithmetische Reihe; تَصاعُد ِ حِسابى
 - ob er das auf die Reihe bekommt?; او هَم عَقلِش مى رِسَد که
 - außer der Reihe; خارِج از نوبَت
 - etwas nicht auf die Reihe kriegen; تَوانائى ِ فَهمَش را نَداشتَن
-- auf eine Reihe bringen; چيزى را هَموار کَردَن
+- auf eine Reihe bringen; چیزى را هَموار کَردَن
 - in einer Reihe von Fällen; دَر مَوارِدى ِ چَند
 - aus der Reihe tanzen; راه ِ خود را دُنبال کَردَن
-- eine ganze Reihe von Kneipen waren in Betrieb; مِيخانه هاى ِ مُتَعدِدى دايِر بودَند
-- nichts ist schwerer zu ertragen, als eine Reihe von guten Tagen; هَر چه دَر اين دُنيا است قابِل ِ تَحَمُل است جُز روزهاى ِ خوش ِ پِى دَر پِى
+- eine ganze Reihe von Kneipen waren in Betrieb; مِیخانه هاى ِ مُتَعدِدى دايِر بودَند
+- nichts ist schwerer zu ertragen, als eine Reihe von guten Tagen; هَر چه دَر این دُنیا است قابِل ِ تَحَمُل است جُز روزهاى ِ خوش ِ پِى دَر پِى
 reihen;
 - ein Unglück reiht s. an das andere; بَلا به بَلا مُلحَق مى شَوَد
-- etwas ist aufgereiht; چيزى رَديف چيده شُده
+- etwas ist aufgereiht; چیزى رَدیف چیده شُده
 - s. einreihen; نوبَت گِرِفتَن
-Reihenfolge; نوبَت، تَرتيب
-- ohne spezielle Reihenfolge genau aufzeichnen; بِدون ِ تَرتيب ِ مَخصوصى بِدِقَت ثَبت کَردَن
+Reihenfolge; نوبَت، تَرتیب
+- ohne spezielle Reihenfolge genau aufzeichnen; بِدون ِ تَرتیب ِ مَخصوصى بِدِقَت ثَبت کَردَن
 Reihenschaltung; اِتِصال ِ سِرى
-Reihenuntersuchung; مُعاينة سِريال
+Reihenuntersuchung; مُعاینهٔ سِریال
 reihenweise;
-- reihenweise aufstellen; تَصفيف کَردَن
-- reihenweise fallen sie um; آنها پُشت ِ سَر ِ يِکديگَر زَمين مى خورَند
-Reiher; پَرَندة ماهيخوار
-Reim; قافيه
-reimen (-s.); هَم قافيه شُدَن
-rein; تَميز
+- reihenweise aufstellen; تَصفیف کَردَن
+- reihenweise fallen sie um; آنها پُشت ِ سَر ِ يِکدیگَر زَمین مى خورَند
+Reiher; پَرَندهٔ ماهیخوار
+Reim; قافیه
+reimen (-s.); هَم قافیه شُدَن
+rein; تَمیز
 - rein, ohne Schuld; زَکى، طاهِر، پاک
 - reines Gold; طَلاى ِ ناب، ـ خالِص
-- reine Tiere (relig.); حِيوانات ِ حَلال گوشت
-- das ist die reine Wahrheit; اين حَقيقَت ِ مَحض است
+- reine Tiere (relig.); حِیوانات ِ حَلال گوشت
+- das ist die reine Wahrheit; این حَقیقَت ِ مَحض است
 - aus reinem Dünkel; از باد ِ نِخوَت
-- wir hatten die Gewissheit, dass die Luft rein war; چون از اَمن بودَن ِ اَطراف ِ خود اِطمينان حاصِل کَرديم
+- wir hatten die Gewissheit, dass die Luft rein war; چون از اَمن بودَن ِ اَطراف ِ خود اِطمینان حاصِل کَردیم
 Reinemacher; نِظافَتچى
 - Grossreinemachen; خانه تِکانى
-Reinfall (finanz.); سامان نَيافتَن
+Reinfall (finanz.); سامان نَیافتَن
 reinhauen;
-- jem. eine reinhauen; کِسي را کُتَک زَدَن
+- jem. eine reinhauen; کِسی را کُتَک زَدَن
 - das Essen reinhauen (vulg.); شِکَنبارِگى کَردَن
-Reinheitsgrad; دَرَجة خُلوص
+Reinheitsgrad; دَرَجهٔ خُلوص
 reinigen; (präs.)  (زِدودَن (مى زِدايَد
 - das Wort Gottes reinigt; کَلام ِ خُدا مُصَفى است
-- gründlich reinigen; با آب و جاروب زَمين را تََميز کَردَن
+- gründlich reinigen; با آب و جاروب زَمین را تََمیز کَردَن
 - gereinigt; مُطَهِر، پاک شُده
-- gereinigt werden; غُسل يافتَن، طاهِر شُدَن، پاک ش
-- damit unsere Existenz von Bosheit und Verderbtheit gereinigt wird; تا غِل و غِيش ِ وُجودِمان زِدوده شَوَد
+- gereinigt werden; غُسل یافتَن، طاهِر شُدَن، پاک ش
+- damit unsere Existenz von Bosheit und Verderbtheit gereinigt wird; تا غِل و غِیش ِ وُجودِمان زِدوده شَوَد
 Reinigung;
 - Geräte für die Reinigung; اَسباب ِ طَهارَت
 - Gebäudereinigung; شِرکَت ِ نِظافَت ِ ساختِمان
 - Stadtreinigung; رُفت و روب و پاکسازى ِ شَهر
-Reinigungsmittel; مادة نِظافَت، وَسيلة ـ
+Reinigungsmittel; مادهٔ نِظافَت، وَسیلهٔ ـ
 Reinigungsschwamm; پاک فوم
-reinlegen (- jem.); کِسي را سَر کاري کَردَن
+reinlegen (- jem.); کِسی را سَر کاری کَردَن
 reinlich;
-- reinlicher Mensch; آدَم ِ تَميز و پاکيزه
+- reinlicher Mensch; آدَم ِ تَمیز و پاکیزه
 reinrassig; پاکنِژاد
 reinwürgen;
-- jem. etwas reinwürgen (popul.); آش پُختَن بَراي ِ کِسی؛ نَقشه کِشيدَن بَر ضِد ِ کِسی
+- jem. etwas reinwürgen (popul.); آش پُختَن بَرای ِ کِسی؛ نَقشه کِشیدَن بَر ضِد ِ کِسی
 Reis; برِنج
 - Kochreis; کَته
-- Reispflanze; شالي
+- Reispflanze; شالی
 Reisanbau; شَلتوک کارى
-Reisbrei; فِرنيه
+Reisbrei; فِرنیه
 Reise; سَفَر، مُسافِرَت
 - nach einer 3-Tage Reise; بَعد از سه روز راه
-- wenn einer eine Reise macht, so kann er viel erzählen; جَهان ديده بِسيار گويَد سُخَن
+- wenn einer eine Reise macht, so kann er viel erzählen; جَهان دیده بِسیار گويَد سُخَن
 - er hat die Absicht, eine Reise zu machen; او عَزم ِ سَفَر دارَد
 - das Beste, was man von der Reise mitbringt, ist die Gesundheit; سوغات ِ سَفَر سَلامَتی است
 - Dienstreise; مُسافِرَت ِ اِدارى
 Reisebett; تَختخواب ِ سَفَرى
 reisefertig; پا به رِکاب
 Reisegefährte; هَم سَفَر
-Reisegepäck; توشة سَفَر، بار ِ ـ، اَسباب ِ ـ
-- sein Reisegepäck fertigmachen; بار ِ سَفَر بَستَن، تَدارُک ِ سَفَر ديدَن
+Reisegepäck; توشهٔ سَفَر، بار ِ ـ، اَسباب ِ ـ
+- sein Reisegepäck fertigmachen; بار ِ سَفَر بَستَن، تَدارُک ِ سَفَر دیدَن
 Reisegeschenk; اَرمَغان
 Reisegesellschaft; قافِله
-Reisekosten; مَخارِج ِ اَياب و ذَهاب
-- Erstattung der Reisekosten;  اِستِرداد ِ هَزينة سَفَر
+Reisekosten; مَخارِج ِ اَیاب و ذَهاب
+- Erstattung der Reisekosten;  اِستِرداد ِ هَزینهٔ سَفَر
 reisen; مُسافِرَت کَردَن
-- Erfahrung kommt durch Reisen; بِسيار سَفَر بايَد تا پُخته شَوَد خامى
+- Erfahrung kommt durch Reisen; بِسیار سَفَر بايَد تا پُخته شَوَد خامى
 - auf Reisen und daheim; دَر سَفَر و حَضَر
 Reiselust;
 - die Reiselust überkommt ihn; هَواى ِ سَفَر به سَرِ او مى زَنَد، هَوَس ِ سَفَر مى کُنَد
-Reisender; مُسافِر، سَياح، سَيار
+Reisender; مُسافِر، سَیاح، سَیار
 - Reisender (geistig); سالِک
 Reiseproviant; توشه
 Reisescheck; چِک ِ مُسافِر
-Reisfeld; شاليزار
+Reisfeld; شالیزار
 Reiskocher; پُلوپَز
-Reispflanze; شالي
+Reispflanze; شالی
 Reissaus; فَرار
 - Reissaus nehmen; زه زَدَن
-Reissbrett; تَختة رَسم
-reissen; دَريدَن، پاره کَردَن
-- s. die Seele aus dem Leib reissen; روح را بيخ و بُن گُسيختَن
-- in Stücke reissen; چيزى را تِکه تِکه کَردَن
+Reissbrett; تَختهٔ رَسم
+reissen; دَریدَن، پاره کَردَن
+- s. die Seele aus dem Leib reissen; روح را بیخ و بُن گُسیختَن
+- in Stücke reissen; چیزى را تِکه تِکه کَردَن
 - jem. die Kleider vom Leib reissen; لِباس ِ کِسى را از تَنَش جِر زَدَن
-- jem. aus dem Schlaf reissen; از خواب پَرانيدَن
-- bis der Lebensfaden reisst; تا رَگ ِ جان گُسيخت
+- jem. aus dem Schlaf reissen; از خواب پَرانیدَن
+- bis der Lebensfaden reisst; تا رَگ ِ جان گُسیخت
 - Herrschaft an s. reissen; سُلطَنَت را غَصب کَردَن
-- auseinanderreissen; (präs.)  (از هَم گُسيختَن (مى گُسِلَد
+- auseinanderreissen; (präs.)  (از هَم گُسیختَن (مى گُسِلَد
 reissend;
-- reissende Quelle; چِشمة جوشان
-- reissendes Tier; حِيوان ِ دَرَنده
-- reissender Fluss; رودخانه با جَريان ِ شَديد
-Reissfestigkeit; تَنِش گُسيختِگى
+- reissende Quelle; چِشمهٔ جوشان
+- reissendes Tier; حِیوان ِ دَرَنده
+- reissender Fluss; رودخانه با جَریان ِ شَدید
+Reissfestigkeit; تَنِش گُسیختِگى
 Reissnagel; پونِز
-Reissverschluss; زيپ
+Reissverschluss; زیپ
 reiten; اَسب سَوارى کَردَن
 - zureiten (Pferd); سوغان گِرِفتَن
 Reiten (n); اَسب سَوارى
@@ -772,91 +777,91 @@ Reithose; شَلوار ِ سَوارى
 Reiz; کِشِش، جاذِبه
 - Reiz: primär u. sekundär; مُحَرِک ِ اَصلى و شَرطى
 reizbar;
-- leicht reizbarer Mensch; آدَم ِ زودرَنج، ـ خِيلى تَحريک پَذير
-Reizempfänger; گيرندة تَحريک
-reizen; به جوش دَر آوَردَن، تَحريک کَردَن
-- diese Aussage reizte sie zum Wahnsinn; اين سُخَنان آنهارا از فَرط ِ غَضَب بِمَرحَلة جُنون نَزديک کرد
+- leicht reizbarer Mensch; آدَم ِ زودرَنج، ـ خِیلى تَحریک پَذیر
+Reizempfänger; گیرندهٔ تَحریک
+reizen; به جوش دَر آوَردَن، تَحریک کَردَن
+- diese Aussage reizte sie zum Wahnsinn; این سُخَنان آنهارا از فَرط ِ غَضَب بِمَرحَلهٔ جُنون نَزدیک کرد
 reizend;
-- Ihr seid wirklich reizend; شُما خوش خَط و خال هَستيد
+- Ihr seid wirklich reizend; شُما خوش خَط و خال هَستید
 - reizender Mensch; آدَم ِ جَذاب، ـ دِلکِش، ـ دِلرُبا
-Reizintensität; شِدَت ِ تَحريک
-Reizleitungssystem; دَستگاه ِ اِنتِقال ِ تَحريک ِ عَصَبى
+Reizintensität; شِدَت ِ تَحریک
+Reizleitungssystem; دَستگاه ِ اِنتِقال ِ تَحریک ِ عَصَبى
 reizvoll; جُذاب، کِشَنده
-rekeln (- s.); لَم دادَن، لَميدَن
-Reklamation; اِستِرداد، ايراد
-Reklame; تَبليغات
-- für eine Sache Reklame machen; بَراى ِ يِک چيز بازارگَرمى کَردَن
-Rekombination (biolog.); باز تَرکيب ِ ژِنِتيک
-Rekonstruktion; تَجديد، دوباره سازى
+rekeln (s. -); لَم دادَن، لَمیدَن
+Reklamation; اِستِرداد، ایراد
+Reklame; تَبلیغات
+- für eine Sache Reklame machen; بَراى ِ يِک چیز بازارگَرمى کَردَن
+Rekombination (biolog.); باز تَرکیب ِ ژِنِتیک
+Rekonstruktion; تَجدید، دوباره سازى
 Rekord; رِکورد
-- die neue Rekordmarke (z.B. beim Sport); حَد ِ نِصاب ِ جَديد، رکورد ِ جَديد
+- die neue Rekordmarke (z.B. beim Sport); حَد ِ نِصاب ِ جَدید، رکورد ِ جَدید
 Rekrut; سَرباز
-rekrutieren; سَرباز گيرى کَردَن، اِستِخدام بَراى ِ خِدمَت ِ نِظامى
-Rektaltemperaturmessung; اَندازه گيرى ِ دَرَجۀ حَرارَت از راه مُخرِج
-Rektor; رَئيس
-Rektorat; رياسَت، مُديريَت
+rekrutieren; سَرباز گیرى کَردَن، اِستِخدام بَراى ِ خِدمَت ِ نِظامى
+Rektaltemperaturmessung; اَندازه گیرى ِ دَرَجۀ حَرارَت از راه مُخرِج
+Rektor; رَئیس
+Rektorat; ریاسَت، مُدیريَت
 Relais; رِله
 Relation; نِسبَت، اِرتِباط
-- in Relation stehen zu ...; با چيزى مُطابِقَت داشتن
+- in Relation stehen zu ...; با چیزى مُطابِقَت داشتن
 relativ; نِسبى
 - relative Mehrheit; اَکثَريَت ِ نِسبى
-- es geht ihm relativ gut; حالَش چَندان بَد نيست، حالَش نِسبَتاً خوب است
+- es geht ihm relativ gut; حالَش چَندان بَد نیست، حالَش نِسبَتاً خوب است
 Relativität; نِسبيَت
 - Relativität der Werte; نِسبيَت ِ اَرزِشها
-Relativitätstheorie (phys.); نَظَرية نِسبى
-Relativpronomen; ضَمير ِ موصول
+Relativitätstheorie (phys.); نَظَریهٔ نِسبى
+Relativpronomen; ضَمیر ِ موصول
 relevant; قابِل ِ مُلاحِظه
 Relevanz; اَهميَت
 Relief; حَجارى ِ بَرجَسته
-Religion; کيش، دين، مَذهَب
-religiös; مُتَدَيِن، مُتَقى، مُؤمِن، مَذهَبى، دينى
-- religiös oder weltlich (jurist.); شَرعى يا عُرفى
-- religiöser Mensch; اِنسان ِ دين وَرز، ـ مُتَدَيِن
+Religion; کیش، دین، مَذهَب
+religiös; مُتَدَيِن، مُتَقى، مُؤمِن، مَذهَبى، دینى
+- religiös oder weltlich (jurist.); شَرعى یا عُرفى
+- religiöser Mensch; اِنسان ِ دین وَرز، ـ مُتَدَيِن
 - nichtreligiös; لامَصَبا، لامَذحَب
-Religiosität; تَعَبُد، تَدَيُن، ديندارى
-Relikt; بازمانده، بَقايا
-remis; مُساوي بودَن، بَرابَر ب
+Religiosität; تَعَبُد، تَدَيُن، دیندارى
+Relikt; بازمانده، بَقایا
+remis; مُساوی بودَن، بَرابَر ب
 rempeln; به کِسى تَنه زَدَن
-Renaissance; نوزائى، دورة رِنِسانس
-Rennauto; اُتومُبيل ِ مُسابِقه رانى
+Renaissance; نوزائى، دورهٔ رِنِسانس
+Rennauto; اُتومُبیل ِ مُسابِقه رانى
 rennen; دُو زَدَن
 - losrennen; پا به دو گُذاشتَن
 Rennen (n); مُسابِقه
 Rennstrecke; کورس ِ مُسابِقه
 renommiert; مَشهور، خوش نام
-renovieren; تَجديد ِ بَنا کَردَن
-Renovierung; تَجديد ِ بَنا
-Rentabilität; سودآوَرى، اَصل ِ بازَرگانى، ضَريب ِ اِنتِفاع، مَنفَعَت، سود، بازدَهى
+renovieren; تَجدید ِ بَنا کَردَن
+Renovierung; تَجدید ِ بَنا
+Rentabilität; سودآوَرى، اَصل ِ بازَرگانى، ضَریب ِ اِنتِفاع، مَنفَعَت، سود، بازدَهى
 Rente; مُستَمِرى، بازنِشَستِگى
-rentieren (- s.); اَرزِش داشتَن، سود آوَردَن
-Rentner; بازنِشَسته، مُتَقاعد، مُستَمِرى بِگير
+rentieren (s. -); اَرزِش داشتَن، سود آوَردَن
+Rentner; بازنِشَسته، مُتَقاعد، مُستَمِرى بِگیر
 Reparationszahlung; پَرداخت ِ غَرامَت
-Reparatur; تَعمير
-reparieren; تَعمير کَردَن
-Repatriierung; اعادة تابِعيَت
+Reparatur; تَعمیر
+reparieren; تَعمیر کَردَن
+Repatriierung; اعادهٔ تابِعيَت
 Report; گُزارِش
 Reporter; خَبَرنِگار، مُخَبِر
 - Gerichtsreporter; خَبَرنِگار ِ قَضائى
 Repräsentant; نَمايَنده
 Repräsentantenhaus; مَجلِس ِ نَمايَندِگان
 repräsentativ;
-- repräsentative Auswahl; گُزينِش ِ اِتِفاقى
-- repräsentative Funktion; وَظايِف ِ تَشريفاتى
+- repräsentative Auswahl; گُزینِش ِ اِتِفاقى
+- repräsentative Funktion; وَظايِف ِ تَشریفاتى
 repräsentieren; نَمايَندِگى کَردَن، نِمونه بودَن
 Repressalien; تَحَکُم، فِشار، زَجر
-- Repressalien erleiden; زَجر کِشيدَن
+- Repressalien erleiden; زَجر کِشیدَن
 - jem. einer Repressalie aussetzen; کِسى را تَحت ِ فِشار قَرار دادَن
-Reproduktion; چاپ ِ مُجَدَد، توليد ِ ـ
+Reproduktion; چاپ ِ مُجَدَد، تولید ِ ـ
 Reptil; (pl.)  (خَزَنده (خَزَندِگان
 Republik; جُمهورى
-Republikaner; جُمهوريخواه
-Reputation; وِجهه، آبرو، حِيثيَت
-Requisit; شِى يا لِباس بَراى ِ نَمايِش
-Reserve; رِزِرو، ذَخيره، يَدَکى، زاپاس
+Republikaner; جُمهوریخواه
+Reputation; وِجهه، آبرو، حِیثيَت
+Requisit; شِى یا لِباس بَراى ِ نَمايِش
+Reserve; رِزِرو، ذَخیره، يَدَکى، زاپاس
 - die letzten Reserven aufbrauchen; جان کََندَن
 - Mindestreserve; حَدِاَقَل ِ ذَخايِر، ذَخايِر ِ اِجبارى
 Reserverad; چَرخ ِ يَدَکى، ـ زاپاس
-Reservestärke; نِشاستة ذَخيره اى
+Reservestärke; نِشاستهٔ ذَخیره اى
 reservieren; رِزِرو کَردَن
 - Kirchbank reservieren (alt); جامُهر ِ نَماز گُذاشتَن
 reserviert; به خود گِرِفته
@@ -864,7 +869,7 @@ reserviert; به خود گِرِفته
 Reservierung; رِزِرو ِ جا
 Reservoir; (pl.)  (مَخزَن (مَخازِن
 Residenz; قَرارگاه، مُقَر ِ سُلطَنَت
-Resignation; دِلخوري، سَرخوردِگي
+Resignation; دِلخوری، سَرخوردِگی
 Resistenz; مُقاوَمَت
 resolut;
 - resolute Antwort; جَواب ِ شافى، ـ قَطعى
@@ -874,7 +879,7 @@ Resonanz; عَکس اُلعَمَل، واکُنِش
 Resonanzkörper (Musikinstrument); بَدَن ِ اِنعِکاس ِ صِدا
 resorbieren; جَذب کَردَن
 Resorption; جَذب
-Resozialisierung; تَجديد ِ عُضويَت دَر اِجتِماع
+Resozialisierung; تَجدید ِ عُضويَت دَر اِجتِماع
 Respekt; اِحتِرام، حُرمَت
 - sie begrüssten ihn mit Respekt; با اِحتِرام سَلامَش کَردَند
 respektabel; مُحتَشَم
@@ -883,34 +888,34 @@ respektieren; اِحتِرام کَردَن، ـ گُذَراندَن
 Respirationsapparat; دَستگاه ِ تَنَفُسى
 Ressortkollege; هَمتاى ِ وِزارَتى
 Ressourcen; ذَخايِر، مَنابِع
-Rest; مابَقى، باقى، باقىمانده، بَقيه، پَس مانده
-- Essensreste; تَه ِ سُفره، باقيماندة غَذا
+Rest; مابَقى، باقى، باقىمانده، بَقیه، پَس مانده
+- Essensreste; تَه ِ سُفره، باقیماندهٔ غَذا
 Restaurant; رِستوران
-Restauration; اِعادة وَضع ِ گُذَشته، بَر گَردانى به وَضع ِ ـ
+Restauration; اِعادهٔ وَضع ِ گُذَشته، بَر گَردانى به وَضع ِ ـ
 restaurieren; مَرَمَت کَردَن
 - restauriertes Schloß; قَصر ِ مَرَمَت شُده
 Restaurierung; مَرَمَت
-Restbetrag; مَبلَغ ِ باقيمانده
+Restbetrag; مَبلَغ ِ باقیمانده
 Restladung (phys.); بار ِ پَسمانده
-restlich; باقي مانده
-- die restliche Zeit schlaft noch; مابَقى را بِخوابيد
+restlich; باقی مانده
+- die restliche Zeit schlaft noch; مابَقى را بِخوابید
 Restriktion; مَحدوديَت
-- gegen jem. Restriktionen verhängen; مَحدوديَتهائى قائِل شُدَن عَليه
+- gegen jem. Restriktionen verhängen; مَحدوديَتهائى قائِل شُدَن عَلیه
 restriktiv;
-- Lockerung der restriktiven Politik; شُل کَردَن ِ سياسَت ِ تَضييقى
-Resultat; فَرايَند، بَرآيَند، دَست آوَرد، نَتيجه، کارآئى، بازدِه، ماحَصَل، حاصِل
+- Lockerung der restriktiven Politik; شُل کَردَن ِ سیاسَت ِ تَضییقى
+Resultat; فَرايَند، بَرآيَند، دَست آوَرد، نَتیجه، کارآئى، بازدِه، ماحَصَل، حاصِل
 - das Resultat der Arbeit; فَرجام ِ کار
 resultieren;
 - resultieren in; مُنجِر شُدَن به
 - das resultiert in; که مُنتَج  ِ.. است
-Resumé; ماحَصَل، خُلاصه، تَلخيص
+Resumé; ماحَصَل، خُلاصه، تَلخیص
 Retina; شَبَکه چِشم
 Retortenbaby; طِفل که از لِقاح ِ مَصنوعى دَر آمَد
-Retortengefäss; قَرع و اَنبيق
-Retortenofen; کورة قَرعى
+Retortengefäss; قَرع و اَنبیق
+Retortenofen; کورهٔ قَرعى
 Retourkutsche; رَد ِ جَواب
 retten; نِجات دادَن
-- die Situation retten; قَضيه را ماست مالى کَردَن
+- die Situation retten; قَضیه را ماست مالى کَردَن
 - die nackte Haut retten; جان سالِم به دَر بُردَن
 - er konnte s. gerade noch retten; او از حَمله جان بدَر بُرد
 - bist du noch zu retten?; تو عَقلَت سَر ِ جايَش است؟
@@ -918,157 +923,157 @@ Retter; ناجِر، نِجات دَهَنده
 Rettich; تُرُب
 Rettung; نِجات، رَهائى
 retuschieren; رتوش کَردَن
-Reue; نِدامَت، پَشيمانى
+Reue; نِدامَت، پَشیمانى
 reumütig;
-- reumütig sein;  .مُتَنَدِم بودَن، نادِم ب.، پَشيمان ب
+- reumütig sein;  .مُتَنَدِم بودَن، نادِم ب.، پَشیمان ب
 Revanche; اِنتِقام
 revanchieren;
 - s. gegenüber jem. revanchieren (im positiven Sinn); به کِسى نَمَک شِناس بودَن، ـ مِنَت شِناس ـ
-- um s. für etwas zu revanchieren (im positiven Sinn); بِشُکرانة اينکه
+- um s. für etwas zu revanchieren (im positiven Sinn); بِشُکرانهٔ اینکه
 - s. gegenüber jem. revanchieren (allg.); به کِسى عَوَض دادَن
 Revanchismus; اِنتِقام طَلَبى، ـ جوئى
 Reverenz; اِحتِرام
-- jem. Reverenz erweisen (*: Ehre); کِسي را تَکريم کَردَن
+- jem. Reverenz erweisen (*: Ehre); کِسی را تَکریم کَردَن
 reversibel; بَرگَشتى، قابِل ِ بَرگَشت
 revidieren;
-- seine Ansichten revidieren; تَجديد ِ نَظَر کَردَن
+- seine Ansichten revidieren; تَجدید ِ نَظَر کَردَن
 Revier; حوضه
 - zum eigenen Revier erklären (*: Bereich); قُرُق کَردَن
-Revirement; تَرميم
-- Regierungsrevirement; تَرميم ِ کابينة دولَت
-Revision; باز نِگَرى، بازديد، تَجديد ِ نَظَر
-- Revision eines Vertrages; تَجديد ِ نَظَر دَر قَرارداد، تَمييز ِ ـ، باز نِگَرى ِ ـ
-Revisionsgericht; مُحکَمِة اِستيناف، دادگاه ِ تَجديد نَظَر
+Revirement; تَرمیم
+- Regierungsrevirement; تَرمیم ِ کابینهٔ دولَت
+Revision; باز نِگَرى، بازدید، تَجدید ِ نَظَر
+- Revision eines Vertrages; تَجدید ِ نَظَر دَر قَرارداد، تَمییز ِ ـ، باز نِگَرى ِ ـ
+Revisionsgericht; مُحکَمِهٔ اِستیناف، دادگاه ِ تَجدید نَظَر
 Revisor; مُفَتِش
-Revolte; عُصيان، شورِش، ياغي گَري
+Revolte; عُصیان، شورِش، یاغی گَری
 Revolution; اِنقِلاب
 revolutionär; اِنقِلابى
 Revolutionär (m); اِنقِلابى
 Revolutionsrat; شوراى ِ اِنقِلاب
-Revolver; هَفت تير، طَپانچه
-Revolverdrehmaschine; رِوُلوِر ِ ماشين تَراش
-Revolverduell; هَفت تير کُشى
-Rezension; تَقريض، نَقد ِ اَدَبي
+Revolver; هَفت تیر، طَپانچه
+Revolverdrehmaschine; رِوُلوِر ِ ماشین تَراش
+Revolverduell; هَفت تیر کُشى
+Rezension; تَقریض، نَقد ِ اَدَبی
 Rezept;
-- Arztrezept; تَجويز
+- Arztrezept; تَجویز
 - Kochrezept; راهنَمائى ِ آش پَزى، نُسخه
-Rezeption; مَحَل ِ پَذيرِش
-rezeptiv; آگاه و ديده وَر شُدَن، اِلتِقاطي
+Rezeption; مَحَل ِ پَذیرِش
+rezeptiv; آگاه و دیده وَر شُدَن، اِلتِقاطی
 - sie haben ein rezeptives Denkvermögen; تَفَکُر ِ آنها اِلتِقاطى است
-Rezeptor; گيرَنده
-Rezeptur; تَرکيب ِ دارو
+Rezeptor; گیرَنده
+Rezeptur; تَرکیب ِ دارو
 Rezession; رُکود، کَساد
 - wirtschaftliche Rezession; رُکود ِ اِقتِصادى، کَسادى ـ
 rezessiv;عَقَب رَفته
-- Beziehung der dominanten und rezessiven Gene; رابِطة غالِب و مَغلوبى ژِنها
+- Beziehung der dominanten und rezessiven Gene; رابِطهٔ غالِب و مَغلوبى ژِنها
 Rezitation; اِنشاد، دِکلَمه
-Rhabarber; ريواس، ريباس، رِوَند
+Rhabarber; ریواس، ریباس، رِوَند
 Rhesusfaktor; عامِل ِ اِرهاش ِ خون
-Rhetorik; عِلم ِ بَديع
-Rheumatismus; رماتيسم
+Rhetorik; عِلم ِ بَدیع
+Rheumatismus; رماتیسم
 Rhododendron; خَر زَهره
 Rhomboid; شِبه ِ لوزى
 rhythmisch; موزون
-Rhythmus; ريتم، آهَنگ
+Rhythmus; ریتم، آهَنگ
 - schwungvollen Rhythmus anschlagen; رِنگ گِرِفتَن
 - Trommelrhythmus; ضَرباهَنگ ِ طَبل
 Richtantenne; آنتِن ِ جَهَت دار
 richten; مُراجِعه کَردَن
-- richten, urteilen; داوَري کَردَن
-- richten, reparieren; تَعمير کَردَن
+- richten, urteilen; داوَری کَردَن
+- richten, reparieren; تَعمیر کَردَن
 - die Bestellung an .. richten; سِفارِش به کِسى مُراجِعه کَردَن
 - sie richten ihre Wut auf uns; خَشمِشان را مُتَوَجۀ ما مى کُنَند
-- s. nach den Wünschen richten; بَر طِبق ِ مِيل  عَمَل کَردَن
+- s. nach den Wünschen richten; بَر طِبق ِ مِیل  عَمَل کَردَن
 - jem. Aufmerksamkeit richten auf; تَوَجُه ِ کِسى را مَعطوف دارَد به
-- s. gegen etwas richten; به ضِد ِ چيزى جازِم شُدَن
+- s. gegen etwas richten; به ضِد ِ چیزى جازِم شُدَن
 - ich richte dich nach deinen Taten; تورا به سَزاى ِ اَعمالَت مى رِسانَم
 - der Blick ist gerichtet auf; نِگَرِش مَعطوف است بَر
 Richter; (pl.) قاضى (قَضات)، داوَر، دادرَس، دادگَر
 Richteramt; داد و سِتَد
-richtig; دُرُست، صَحيح
-- nicht richtig, irrig; ضَليل، نادُرُست
-- für richtig erachten;  .مَصلَحَت دانِستَن، ـ ديدَن، بِهتَر ديدَن، صَلاح د
-- es ist völlig richtig, dass ..; بِسيار بِجا است که
-- was du sagst, ist richtig; آنچه که گُفتى دُرُست است، ـ صَحيح است، بَر حَق است
-- ob es vor Gott richtig ist, dass ...; آيا نَزد ِ خُدا صَواب است که
+richtig; دُرُست، صَحیح
+- nicht richtig, irrig; ضَلیل، نادُرُست
+- für richtig erachten;  .مَصلَحَت دانِستَن، ـ دیدَن، بِهتَر دیدَن، صَلاح د
+- es ist völlig richtig, dass ..; بِسیار بِجا است که
+- was du sagst, ist richtig; آنچه که گُفتى دُرُست است، ـ صَحیح است، بَر حَق است
+- ob es vor Gott richtig ist, dass ...; آیا نَزد ِ خُدا صَواب است که
 - richtige überlegungen; تأمُلات ِ سُقام
-- an einer Sache richtig Spass haben; از چيزى حِسابى کِيف کَردَن
+- an einer Sache richtig Spass haben; از چیزى حِسابى کِیف کَردَن
 - Richtig!; گُل گُفتى، بِجاست، دُرُست است
 Richtlinie; خَط ِ مَشى
-- Richtlinien der Politik; خَط ِ مَشى ِ سياسى، مُوازين ِ ـ
-Richtlinienkompetenz; صَلاحيَت ِ تَعيين ِ خَط ِ مَشى ِ سياسى
-Richtschnur; مِعيار، مِقياس
-Richtung; (pl.)  (مَسير، سَمت، جَهَت (جَهات
-- eine andere Richtung einschlagen; خود را به راه ِ ديگَر زَدَن
-- in Richtung von .. schwimmen; رو به چيزى شِنا کَردَن
+- Richtlinien der Politik; خَط ِ مَشى ِ سیاسى، مُوازین ِ ـ
+Richtlinienkompetenz; صَلاحيَت ِ تَعیین ِ خَط ِ مَشى ِ سیاسى
+Richtschnur; مِعیار، مِقیاس
+Richtung; (pl.)  (مَسیر، سَمت، جَهَت (جَهات
+- eine andere Richtung einschlagen; خود را به راه ِ دیگَر زَدَن
+- in Richtung von .. schwimmen; رو به چیزى شِنا کَردَن
 - sein Denken geht in eine Richtung mit ...; فِکر ِ او با ... يِک راستا است
-Richtungskampf; مُبارزة ايدئِولژيک ِ داخِلى
-Richtwert; مِقدار ِ تَقريبى
+Richtungskampf; مُبارزهٔ ایدئِولژیک ِ داخِلى
+Richtwert; مِقدار ِ تَقریبى
 riechen;  .اِستِشمام کَردَن، بو ک
-- scharf riechen (Essen); غَذاي ِ بودار، داراي ِ بوي ِ تُند
-- er kann ihn nicht riechen; او چِشم ديدَنِش را نَدارَد
+- scharf riechen (Essen); غَذای ِ بودار، دارای ِ بوی ِ تُند
+- er kann ihn nicht riechen; او چِشم دیدَنِش را نَدارَد
 - es riecht nach ...; بوى ِ ... مى دَهَد
 - er hat den Braten gerochen; شَستَش خَبَردار شُد، شَستَش خَبَر شُد
-Riechorgane; اَندامهاى ِ بويائى
-Riefe; بُريدِگى ِ فِلِز
+Riechorgane; اَندامهاى ِ بویائى
+Riefe; بُریدِگى ِ فِلِز
 Riegel;
-- der Riegel ist vor die Tür geschoben; پُشتدَرى کِشيده شُده
+- der Riegel ist vor die Tür geschoben; پُشتدَرى کِشیده شُده
 - Schloss & Riegel; قُفل و پُشت بَند
 - Türriegel; چِفت ِ دَر، کُلون، پُشتدَرى
 - Schokoriegel; تِکه شُکُلاد
 Riemen;
 - er muss s. am Riemen reissen; او بايَد پا پَس کُنَد
-- Antriebsriemen; تَسمة مُحَرِکه
-- Keilriemen; تَسمة پَروانه
-- Schulterriemen der Tasche; تَسمة کيف
+- Antriebsriemen; تَسمهٔ مُحَرِکه
+- Keilriemen; تَسمهٔ پَروانه
+- Schulterriemen der Tasche; تَسمهٔ کیف
 - Schwanzriemen (beim Pferd); پاردُم
 Riese; غول
 - sie sitzen auf den Schultern von Riesen; آنها راهى را طِى مى کُنَند که بُزرگتَرها و گُذَشتِگان تَلاش ِ خودرا صَرف ِ آن کَرده اند
 Riesenrad; چَرخ و فَلَک
-Riesensäuger; پِستانداران ِ عَظيم اُلجُثه
-riesig; پيل تَن، عَظيم اُلجُثه، غول پِيکَر
-- riesige Wellen; اَمواج ِ غول هِيکَلى
-Riff; جَزايِر ِ مَرجانى زير ِ آب
-- Felsriff; صَخرة کِنار ِ دَريا
+Riesensäuger; پِستانداران ِ عَظیم اُلجُثه
+riesig; پیل تَن، عَظیم اُلجُثه، غول پِیکَر
+- riesige Wellen; اَمواج ِ غول هِیکَلى
+Riff; جَزايِر ِ مَرجانى زیر ِ آب
+- Felsriff; صَخرهٔ کِنار ِ دَریا
 riffeln; دَندانه دار کَردَن
-Rille; زِه وار، شيار
+Rille; زِه وار، شیار
 Rind; گاو
 Rinde; پوست ِ دِرَخت
-Ring; حَلقه، رينگ
-- Ring bilden; دوره ايستادَن
-- Boxring; گود ِ بوکس، مِيدان ِ ـ
+Ring; حَلقه، رینگ
+- Ring bilden; دوره ایستادَن
+- Boxring; گود ِ بوکس، مِیدان ِ ـ
 - Fingerring; اَنگُشتَرى
-- Kolbenring; رينگ ِ پيستون
+- Kolbenring; رینگ ِ پیستون
 - Ohrring; گوشواره
-- Spionagering; شَبَکة جاسوسى
+- Spionagering; شَبَکهٔ جاسوسى
 ringen; کُشتى گِرِفتَن
-- ringen um (z.B. um Wahrheit); مِحنَت کِشيدَن، مُجاهِده کَردَن
+- ringen um (z.B. um Wahrheit); مِحنَت کِشیدَن، مُجاهِده کَردَن
 - mit jem. ringen um; با کِسى مُغابِله کَردَن،  ـ کَلَنجار رَفتَن
 - mit s. ringen; با خود کَلَنجار رَفتَن
-- Ringen; کُشتى گيرى
+- Ringen; کُشتى گیرى
 - Freistilringen; کُشتى ِ آزاد
-Ringer; کُشتى گير
+Ringer; کُشتى گیر
 ringförmig; حَلقه اى، حَلقه حَلقه
 Ringgefäss; آوَند ِ حَلقَوى
-Ringstrasse; چادة کَمَربَندى
+Ringstrasse; چادهٔ کَمَربَندى
 ringsum; دورادور، دور و بَر
-Rinne; شيار، مَجرا، چاهَک
+Rinne; شیار، مَجرا، چاهَک
 rinnen; جارى شُدَن
-Rinnsal; جويبار
-- ich verlange nach dir, so wie das Rinnsal seine Quelle sucht; تورا بِدانسان مى طَلَبَم که جويبارى سَرچِشمه اَش را
+Rinnsal; جویبار
+- ich verlange nach dir, so wie das Rinnsal seine Quelle sucht; تورا بِدانسان مى طَلَبَم که جویبارى سَرچِشمه اَش را
 Rippe; دَنده
-Rippenfell; پَردة شُش
-Rippenfellentzündung; سينه پَهلو
-Risiko; مُخاطِره، ريسک
+Rippenfell; پَردهٔ شُش
+Rippenfellentzündung; سینه پَهلو
+Risiko; مُخاطِره، ریسک
 - einem Risiko ausgeliefert sein; در مُخاطِره قَرار گِرِفتَن
-risikofreudig; دِل بِدَريا زَن
-riskant; هَمراه با ريسک، خَطَرناک
+risikofreudig; دِل بِدَریا زَن
+riskant; هَمراه با ریسک، خَطَرناک
 - dass, was er sagte, war riskant; کَله اش بوى ِ قُرمه سَبزى مى داد
-riskieren; دِل به دَريا زَدَن، ريسک کَردَن
+riskieren; دِل به دَریا زَدَن، ریسک کَردَن
 Riss; گُسِل، تَرَک، شِکاف
 - Riss (in Kleidung); دَرز و دوز
 - Riss flicken; دَرز و دوز وَصله کَردَن
-- Riss, Zeichnung; طَرح، رَسم کِشي
+- Riss, Zeichnung; طَرح، رَسم کِشی
 - einen Riss bekommen; تَرَک خوردَن
 - verlängerter Riss; گُسِل ِ اِمتِدادى
 - Wunder stellen ein Riss in der natürlichen Ordnung dar; مُعجِزات خَرق ِ عادَت است
@@ -1078,22 +1083,22 @@ Ritus; رَسم، مَراسِم
 Ritze; خَراش، دَرز
 - durch die Ritzen; از لاى ِ دَرزها
 Ritzel; دَندانه
-- Anlasserritzel; چَرخ ِ دَندانة اِستارت
-ritzen; شَخانيدَن، پَنجول زَدَن، خَراش دادَن
-- etwas einritzen (z.B. mit Fingernagel); چيزى را حَک کَردَن
-Rivale;  رَقيب، حَريف
+- Anlasserritzel; چَرخ ِ دَندانهٔ اِستارت
+ritzen; شَخانیدَن، پَنجول زَدَن، خَراش دادَن
+- etwas einritzen (z.B. mit Fingernagel); چیزى را حَک کَردَن
+Rivale;  رَقیب، حَریف
 Rizinus; کَرچَک
 Robbe; خوک ِ آبى
-robben;  .بَر شِکَم رَفتَن، رو زَمين کُشاله ر
-- von Stelle zu Stelle robben; سينه خيز از مَحَل به مَحَل خَزيدَن
-röcheln; خُر خُر کَردَن، خِس خِس ک.، خَرناس کِشيدَن، رَخيدَن ، سينة کِسی به خِس خِس اُفتاده
+robben;  .بَر شِکَم رَفتَن، رو زَمین کُشاله ر
+- von Stelle zu Stelle robben; سینه خیز از مَحَل به مَحَل خَزیدَن
+röcheln; خُر خُر کَردَن، خِس خِس ک.، خَرناس کِشیدَن، رَخیدَن ، سینهٔ کِسی به خِس خِس اُفتاده
 Röcheln (n); خَرناس، بِطور ِ خُرخُر، نَفَس ِ اِحتِضار
-Rock; دامَن، شَليته
-- er rennt hinter jedem Rock her; او دُنبال ِ هَر شَليته پوشى مى دُوَد
+Rock; دامَن، شَلیته
+- er rennt hinter jedem Rock her; او دُنبال ِ هَر شَلیته پوشى مى دُوَد
 Rockefeller;
-- er hält s. für den Sohn von Rockefeller; اِدِعا مي کُنَد پِسَر ِ اُتُر خان ِ رَشتي است
+- er hält s. für den Sohn von Rockefeller; اِدِعا می کُنَد پِسَر ِ اُتُر خان ِ رَشتی است
 Rogen; تُخم ِ ماهى
-Roggen; چاو دار، ديوَک، گَندُم ِ سياه
+Roggen; چاو دار، دیوَک، گَندُم ِ سیاه
 roh;
 - roh (z.B. Essen); خام، نَپُخته
 - roh (z.B. Verhalten); خَشِن، نامُؤَدَب
@@ -1102,75 +1107,75 @@ Rohgewicht; وَزن ِ ناخالِص
 Rohleder; آش نَکرده، پوست ِ خام
 Rohling; آدَم ِ بى رَحم، ـ خَشِن
 - Rohling (Metall); کار نَشُده
-Rohmaterial; مادة خام
+Rohmaterial; مادهٔ خام
 Rohr; لوله
 Rohrbruch; لوله شِکَست
-Rohrzucker; قَند ِ نِيشکَر
+Rohrzucker; قَند ِ نِیشکَر
 Rohstoffe; مَواد ِ خام
-Rohstoffknappheit; کَميابى ِ مَواد ِ خام
+Rohstoffknappheit; کَمیابى ِ مَواد ِ خام
 Rolle;
 - eine Rolle spielen; رُل بازى کَردَن
-- Rolle spielen (bei Mysterienspiel); شَبيه دَر آوَردَن
-- Widerstand spielt keine Rolle; مُقاوَمَت ناچيز است
+- Rolle spielen (bei Mysterienspiel); شَبیه دَر آوَردَن
+- Widerstand spielt keine Rolle; مُقاوَمَت ناچیز است
 - ich bin aus der Rolle gefallen; مَن از خَط خارِج شُدَم
-- er ist von der Rolle; فيوزِش پَرت است
+- er ist von der Rolle; فیوزِش پَرت است
 - Farbrolle; غَلتَک ِ رَنگ
-- Papierrolle; اُستُوانة کاغَذ
+- Papierrolle; اُستُوانهٔ کاغَذ
 - Qumranrollen; مَخطوطات ِ کومران
-- Tuchrolle; يِک پارچة چَنبَره
+- Tuchrolle; يِک پارچهٔ چَنبَره
 rollen; غَلتاندن، غِل دادَن
 - seine Augen rollen; چِشمهايَش غِل مى خورَند
-- der Reifen rollt auf mich zu; لاستيک به طَرَف ِ مَن قِل مى خورَد
+- der Reifen rollt auf mich zu; لاستیک به طَرَف ِ مَن قِل مى خورَد
 Roller (Spielzeug); رو رؤک، رورورَک
 Rollstuhl; صَندَلى ِ چَرخ دار
 Rolltreppe; پِله هاى ِ مُتَحَرک
 Roman; رُمان
-Romanze; رابِطة عاشِقانه
-Rondell; فَلَکه، خيابان ِ دائِره مانَند
+Romanze; رابِطهٔ عاشِقانه
+Rondell; فَلَکه، خیابان ِ دائِره مانَند
 - beim Rondell; سَر ِ فَلَکه
 röntgen; عَکس بَردارى کَردَن
-Röntgenstrahl; اَشِعة ايکس، پَرتوپ ِ ـ
+Röntgenstrahl; اَشِعهٔ ایکس، پَرتوپ ِ ـ
 rosa; رَنگ ِ صورَتى
 Rose; گُل ِ سُرخ
 - keine Rose ohne Dornen; هَر که را طاوس بايَد جور ِ هِندوستان را بِکِشَد
 - Geruch wilder Rosen; بوى ِ نَستَرَن
-Rosenkranz; تَسبيح، صَد دانه
-- Rosenkranz beten; تَسبيح اَنداختَن، - گَرداندَن
+Rosenkranz; تَسبیح، صَد دانه
+- Rosenkranz beten; تَسبیح اَنداختَن، - گَرداندَن
 Rosenwasser; گُلاب
-Rosette; گُلميخ
+Rosette; گُلمیخ
 rosig;
-- rosiges Gesicht; چهرة گُلگون
-- die Lage ist nicht rosig; اوضاع خوشايَند نيست
+- rosiges Gesicht; چهرهٔ گُلگون
+- die Lage ist nicht rosig; اوضاع خوشايَند نیست
 Rosine; کِشمِش
-Rosmarin; اَکليل ِ کوهى
+Rosmarin; اَکلیل ِ کوهى
 Ross; اَسب
 Rost; زَنگ ِ آهن
 rosten; زَنگ زَدَن
-rösten; بُريان کَردَن، ـ شُدَن، بِرِشته ک.، بِرِشتَن، تَفت دادَن
+rösten; بُریان کَردَن، ـ شُدَن، بِرِشته ک.، بِرِشتَن، تَفت دادَن
 - geröstet (Kaffee); بوداده
 Rostfrass; خوردِگى، فَرسايِش
 rostfrei; زَنگ نَزَن
 - rostfreier Stahl; فولاد ِ زَنگ نَزَن
-Rostschutzmittel; حِفاظت ِ خوردِگى، مُمانَعَت از ـ، مادة ضِد ِ زَنگ
+Rostschutzmittel; حِفاظت ِ خوردِگى، مُمانَعَت از ـ، مادهٔ ضِد ِ زَنگ
 rot; سُرخ، قِرمِز
 - rot werden (vor Scham); اِنفِعال بُردَن، گُل اَنداختَن، گُلگون شُدَن
-- rote Backen; چِهرة گُلگون
-- rotgeweinte Augen; چِشمهايَش از شِدَت ِ گِريه سياه شُده بود
-- weinrot; عُنابي
+- rote Backen; چِهرهٔ گُلگون
+- rotgeweinte Augen; چِشمهايَش از شِدَت ِ گِریه سیاه شُده بود
+- weinrot; عُنابی
 - Roter Halbmond; هِلال ِ اَحمَر
-- Rotes Kreuz; صَليب ِ سُرخ
+- Rotes Kreuz; صَلیب ِ سُرخ
 Rotation; دَوار، گَردان، چَرخِگى، چَرخِش
-Rotationswalze; اُستُوانة دَوار
-Röteln; بيمارى ِ سُرخچه
-rotieren; چَرخيدَن، بِدور ِ مِحوَر چ
+Rotationswalze; اُستُوانهٔ دَوار
+Röteln; بیمارى ِ سُرخچه
+rotieren; چَرخیدَن، بِدور ِ مِحوَر چ
 rotierend; دَوار، گَردان، چَرخِگى
-Rotkehlchen; سينه سُرخ
+Rotkehlchen; سینه سُرخ
 Rotkohl; کَلَم سُرخ
 Rotte; دَسته، رَسته
-Rouladen; دُلمةگوشت، رولِت
-- Kohlrouladen; دُلمة کَلَم
+Rouladen; دُلمهٔگوشت، رولِت
+- Kohlrouladen; دُلمهٔ کَلَم
 Roulette; رولِت
-Route; خَط ِ مَسير
+Route; خَط ِ مَسیر
 - Karawanenroute; راه ِ کاروانان
 Routine; تَجرُبه
 Rowdy; شَخص ِ جَنجال، هَنگامه جو
@@ -1179,13 +1184,13 @@ Rübe; جُغُندُر
 - Rote Rübe; لَبو
 - Steckrübe; شَلغَم
 - Zuckerrübe; جُغُندُر قَند
-Rubin; ياقوت ِ سُرخ
+Rubin; یاقوت ِ سُرخ
 Rubrik; مَقوله
-- unter die Rubrik von ... stellen; به حِساب ِ چيزی گُذاشتَن
+- unter die Rubrik von ... stellen; به حِساب ِ چیزی گُذاشتَن
 Rückbesinnung; باز شِناسى
 Rückblick; نَظَر به گُذَشته
 rücken;
-- einander auf den Leib rücken; به جان يِکديگَر اُفتادَن
+- einander auf den Leib rücken; به جان يِکدیگَر اُفتادَن
 - er rückte s. auf seinem Platz zurecht; او سَرِ جايَش وول مى خورَد
 Rücken (m); پُشت
 - auf dem Rücken; روى ِ کول
@@ -1194,7 +1199,7 @@ Rücken (m); پُشت
 - jem. auf den Rücken nehmen; کِسى را کول کَردَن، ـ گِرِفتَن
 - ich schlafe auf dem Rücken; تاق باز مى خوابَم
 - hinter dem Rücken von jem reden (*: Nachrede); پُشت ِ سَر ِ کِسى حَرف زَدَن
-- auf den Rücken des Pferdes einschlagen; شَلاق بَر کَفَل و گُردة اَسب زَدَن
+- auf den Rücken des Pferdes einschlagen; شَلاق بَر کَفَل و گُردهٔ اَسب زَدَن
 Rückendeckung;
 - jem. Rückendeckung geben; پُشت ِ کِسى را گِرِفتَن
 Rückenlehne; پُشت صَندَلى
@@ -1203,27 +1208,27 @@ Rückenwind; باد ِ شُرطه، ـ مُوافِق، ـ از پُشت ِ سَ
 Rückerstattung; اِعاده، اِستِرداد
 Rückfall;
 - Rückfall (kriminell); تِکرار ِ جُرم
-- Rückfall (Krankheit); رَجعَت ِ بيمارى
+- Rückfall (Krankheit); رَجعَت ِ بیمارى
 - er hat einen Rückfall in seiner Krankheit; مَرَض ِ او عود کَرده است
 rückfällig;
 - rückfällig werden (Krankheit); عود کَردَن
 - rückfällig werden (́kriminell); جُرم ِ گُذَشته را از سَر گِرِفتَن
-Rückfenster; پَنجَرة عَقَب
-Rückfluss; جَريان ِ بَرگَشتى، بَرگَشت ِ سيلان
+Rückfenster; پَنجَرهٔ عَقَب
+Rückfluss; جَریان ِ بَرگَشتى، بَرگَشت ِ سیلان
 Rückforderung; اِستِرداد
 Rückfrage; سُئوال ِ مُنعَکِس کُنَنده
 Rückgabe; اِعاده، اِستِرداد
 Rückgang; اُفت، کاهِش، تَنَزُل
 rückgängig;
 - eine Annexion rückgängig machen; رَفع اُلحاق
-Rückgewinnung; بازيابى
+Rückgewinnung; بازیابى
 Rückgrat; سُتون ِ فُقَرات
-- Rückgrat zeigen;  .مَتين بودَن، پابَرجا ب
+- Rückgrat zeigen;  .مَتین بودَن، پابَرجا ب
 - kein Rückgrat haben; پَر و پا نَداشتَن
-Rückhalt; پُشتيباني، حِمايَت
+Rückhalt; پُشتیبانی، حِمايَت
 - ohne Rückhalt sein; پُشت ِ کِسی خالی است
-- Parteirückhalt; پُشتيبانى ِ حِزبى، حِمايَت ِ ـ
-Rückkauf; باز خَريد
+- Parteirückhalt; پُشتیبانى ِ حِزبى، حِمايَت ِ ـ
+Rückkauf; باز خَرید
 Rückkehr; بازگَشت
 - Rückkehr zur Demokratie; بازگَشت به دِموکراسى
 - Rückkehr in die Heimat; عودَت بِوَطَن، مُراجِعَت به وَطَن
@@ -1237,7 +1242,7 @@ Rücklicht; چِراغ ِ عَقَب
 rücklings;
 - ich bin rücklings hingefallen; تاق باز اُفتاده بودَم
 - jem. rücklings zu Boden werfen; پُشت ِ کِسی را به خاک رِساندَن
-Rücknahme; پَس گيرى
+Rücknahme; پَس گیرى
 Rucksack; کوله پُشتى، کوله بار
 Rückschlag;
 - wirtschaftlicher Rückschlag; وَخامَت ِ وَضع ِ اِقتِصادى، عُدول ِ وَضع ِ ـ
@@ -1246,8 +1251,8 @@ Rückschritt; تَنَزُل، پَس رَوى
 rückschrittlich; مُرتَجِع
 Rücksendung; اِرجاع
 Rücksicht; رَعايَت، مُحابا، مُراعات
-- Rücksicht nehmen auf (*: schonen); کِسي را دَريغ کَردَن
-- indem was er sagt, nimmt er Rücksicht auf ihn; او حَرفهايَش را يِک دَستى مى گيرَد
+- Rücksicht nehmen auf (*: schonen); کِسی را دَریغ کَردَن
+- indem was er sagt, nimmt er Rücksicht auf ihn; او حَرفهايَش را يِک دَستى مى گیرَد
 - das Feuer nimmt keine Rücksicht; آتَش چو بَراَفروخت بِسوزَد تَر و خُشک، آتَش دوست و دُشمَن نَدانَد
 rücksichtslos;
 - s. gegenüber jem. rücksichtslos verhalten; به کِسى بَد سُلوک کَردَن، بى مُلاحِظه به کِسى رَفتار کَردَن، بى اِلتِفات ـ، بِدون ِ رَعايَت ـ
@@ -1255,35 +1260,36 @@ Rücksichtslosigkeit; خَلع ِ عِذار
 rücksichtsvoll;
 - s. gegenüber jem. rücksichtsvoll verhalten; به کِسى حُسن ِ سُلوک کَردَن، با مُلاحِظه به کِسى رَفتار کَردَن
 Rücksitz; صَندَلى ِ عَقَب
-Rückstand; باقى مانده، مادة زائِد، عَقَب ماندِگى
+Rückstand; باقى مانده، مادهٔ زائِد، عَقَب ماندِگى
 - Rückstand, Sediment; رُسوب، تَه نِشَست، اَفکَنه
 - Rückstand (finanz.); پَس اُفت
 - Rückstand (bei ölpflanzen); کُنجاله
 - in (Zahlungs-) Rückstand kommen; پَس اُفتادَن
 rückständig; عَقَب مانده
-- rückständige Nation; مِلَت ِ غِير ِ راقيه، ـ عَقَب مانده
+- rückständige Nation; مِلَت ِ غِیر ِ راقیه، ـ عَقَب مانده
 Rückstoss; ضَربه دَر جَهَت ِ عَقَب، پَس زَدَن، لَگَد
-Rücktritt; کِناره گيري اِستِعفا
+Rücktritt; کِناره گیری اِستِعفا
 - seinen Rücktritt anbieten; اِستِعفاى ِ خودرا عَرضه کَردَن
 Rücktrittbremse; تُرمُز ِ سايِشى، ـ پائى
 Rücktrittsklausel; شَرط ِ فَسخ
-Rückwand; ديوار ِ  پُشتى
+Rückwand; دیوار ِ  پُشتى
 rückwärts; به طَرَف ِ عَقَب، بَر عَکس
-- rückwärts gerichtete Politik; سياسَت ِ واپَس گِرايانه
-rückwärtsbewegen (- s.); به قَهقَرا رَفتَن
+- rückwärts gerichtete Politik; سیاسَت ِ واپَس گِرایانه
+rückwärtsbewegen (s. -); به قَهقَرا رَفتَن
 Rückwärtsbewegung; تَرَقى ِ مَعَکوس
-Rückwärtsgang; دَندة عَقَب، ـ مَعکوس
+Rückwärtsgang; دَندهٔ عَقَب، ـ مَعکوس
 rückwirkend;
-- rückwirkend in Kraft treten; با عَطف بِماسَبَق اِعتِبار ِ قانونى يافتَن
+- rückwirkend in Kraft treten; با عَطف بِماسَبَق اِعتِبار ِ قانونى یافتَن
 - rückwirkende Erleichterung;  سُهولَت ِ پَس گُستَر
 Rückwirkungen; عَواقِب، عَطف بِماسَبَق
 Rückzahlung; اِعاده، اِستِرداد
 Rückzieher;
 - Rückzieher machen; از دادَن .. سَر باز زَدَن، ـ پا پَس گُذاشتَن، ـ فَرار کَردَن
-Rückzug; عَقَب نِشينى، عَقَب گَرد، رَجعَت
-- beim Rückzug; دَر عَقَب نِشينى
+Rückzug; عَقَب نِشینى، عَقَب گَرد، رَجعَت
+- beim Rückzug; دَر عَقَب نِشینى
 - Attacke & Rückzug; کَر و فَر
-- s. auf den Rückzug machen; پا پَس کِشيدَن
+- s. auf den Rückzug machen; پا پَس کِشیدَن
+Rucola; مَنداب
 rüde; خَشِن، نامُؤَدَب
 Rudel; گَله
 Ruder;
@@ -1295,21 +1301,21 @@ Ruderer; پارو زَن
 rudern; پارو زَدَن
 Rudern (n); پارو زَنى
 rudimentär;
-- rudimentäre Organe; اَعضاى ِ جابِجا، رَدپاى ِ اَعضاء، بَقاياى ِ ـ
-Ruf; وِجهه، آبرو، حِيثيَت
-- guter Ruf; نيک نام، رايحه، حِيثيَت
+- rudimentäre Organe; اَعضاى ِ جابِجا، رَدپاى ِ اَعضاء، بَقایاى ِ ـ
+Ruf; وِجهه، آبرو، حِیثيَت
+- guter Ruf; نیک نام، رایحه، حِیثيَت
 - schlechten Ruf haben; بَدنام بودَن
-- sein Ruf geht vor ihm her; آوازة او پيشِش مى رَوَد
-- sein Ruf verbreitete sich; صِيت ِ شُهرَتَش به هَمه جا رِسيد
-- den Ruf von ... kaputtmachen;  آبِروی ِ کِسی را ريختَن، حِشتَک ِ کِسی را سَرِش کِشيدَن
-. den guten Ruf von ... wieder herstellen; آبِروی ِ کِسی را خَريدَن
-rufen; هَوار زَدَن، ـ کِشيدَن، صِيحه زَدَن، صِدا کَردَن
-- zu rufen beginnen; بَناى ِ فَرياد زَدَن را گُذاشتَن
+- sein Ruf geht vor ihm her; آوازهٔ او پیشِش مى رَوَد
+- sein Ruf verbreitete sich; صِیت ِ شُهرَتَش به هَمه جا رِسید
+- den Ruf von ... kaputtmachen;  آبِروی ِ کِسی را ریختَن، حِشتَک ِ کِسی را سَرِش کِشیدَن
+. den guten Ruf von ... wieder herstellen; آبِروی ِ کِسی را خَریدَن
+rufen; هَوار زَدَن، ـ کِشیدَن، صِیحه زَدَن، صِدا کَردَن
+- zu rufen beginnen; بَناى ِ فَریاد زَدَن را گُذاشتَن
 - zur Ordnung rufen; به نَظم فَرا خواندَن
-- er ruft ihn zu s. an den Tisch; اورا به سَر ِ ميز ِ خود دَعوَت مى نَمايَد
+- er ruft ihn zu s. an den Tisch; اورا به سَر ِ میز ِ خود دَعوَت مى نَمايَد
 Rüge; سَرزَنِش، نِکوهِش
-- jem. eine Rüge erteilen (*: Tadel);  .به کِسى بيدارباش دادَن، ـ گوشمال د.، ـ مُؤخَذه کَردَن، ـ نِکوهِش ک
-rügen; مَذَمَت کَردَن، سَر زَنِش ک.، مَلامَت ک.، نِکوهيدَن
+- jem. eine Rüge erteilen (*: Tadel);  .به کِسى بیدارباش دادَن، ـ گوشمال د.، ـ مُؤخَذه کَردَن، ـ نِکوهِش ک
+rügen; مَذَمَت کَردَن، سَر زَنِش ک.، مَلامَت ک.، نِکوهیدَن
 Ruhe; آرامِش
 - Lass mich in Ruhe!; تَنهايَم بِگُذار، دَست از سَرَم بَردار
 - in Ruhe lassen, aufhören; کوتاه آمَدَن
@@ -1317,115 +1323,115 @@ Ruhe; آرامِش
 - zur Ruhe kommen; از جُنب و جوش اُفتادَن، از جوش و جَلا اُفتادَن، اِحساسات ِ راحَتی کَردَن
 - für mich die Ruhe suchen; با خودَم خِلوَت كُنَم
 - Ruhe bewahren; خاطِر جَمع بودَن، دَست پاچه نَشُدَن
-- etwas zur Ruhe bringen; چيزى را خواباندَن
-- Furcht vor ... ließ ihn nicht gerade zur Ruhe kommen; تَرس از ... راحَتَش نِمي گُذاشت
-- sie sind dort zur letzten Ruhe gebettet; آنها دَر آنجا آراميده اند
-- nun kann ich in Ruhe sterben, weil ...; حال ِ مَرا غَم مُردن نيست زيرا
+- etwas zur Ruhe bringen; چیزى را خواباندَن
+- Furcht vor ... ließ ihn nicht gerade zur Ruhe kommen; تَرس از ... راحَتَش نِمی گُذاشت
+- sie sind dort zur letzten Ruhe gebettet; آنها دَر آنجا آرامیده اند
+- nun kann ich in Ruhe sterben, weil ...; حال ِ مَرا غَم مُردن نیست زیرا
 - öffentliche Ruhe und Ordnung; آرامش و نَظم ِ عُمومى
-- jedesmal wenn .., verlor er die Ruhe; هَر وَقت ..  آرام و قَرارَش مى بُريد
+- jedesmal wenn .., verlor er die Ruhe; هَر وَقت ..  آرام و قَرارَش مى بُرید
 - sie machten ihre Arbeit in aller Seelenruhe; آنها به راحَتى ِ آب خوردن کارِشان را اَنجام دادَند
 ruhelos;
-- ruhelos sein;  .بيقَرار بودَن، ناآرام ب
-ruhen; آراميدن، غُنودَن، اِستِراحَت کَردَن
-- er wird nicht eher ruhen, bis es erledigt ist; او تا اين کاررا تَمام نَکُنَد آرام نَخواهَد گِرِفت
-Ruhestadium; دورة آرامِش
+- ruhelos sein;  .بیقَرار بودَن، ناآرام ب
+ruhen; آرامیدن، غُنودَن، اِستِراحَت کَردَن
+- er wird nicht eher ruhen, bis es erledigt ist; او تا این کاررا تَمام نَکُنَد آرام نَخواهَد گِرِفت
+Ruhestadium; دورهٔ آرامِش
 Ruhestand; باز نِشَستِگى
 - in den Ruhestand gehen; بازنِشَسته شُدَن
 Ruhestellung; وَضع ِ ساکِن
 Ruhestörer; مُخَل ِ آسايِش
 Ruhestörung; سَلب ِ آسايِش
-Ruhetag; روز ِ تَعَطيل
-- heute ist Ruhetag; اِمروز تَعَطيل است
-ruhig; مُستَريح، آرام، ساکِت
+Ruhetag; روز ِ تَعَطیل
+- heute ist Ruhetag; اِمروز تَعَطیل است
+ruhig; مُستَریح، آرام، ساکِت
 - ruhig vor s. hin arbeiten; با فَراغ ِ خاطِر کار کَردَن
 - alles ist ruhig; آب از آب تَکان نِمى خورَد، آب از آب نِمی جُنبَد‚ آرامِش و سُکونَت ِکامِل بَرقَرار است
-- das einzige, wodurch er ruhig wurde; از تَنها چيزى که دِلِش قُرص بود، ـ خاطِر جَمع بود
+- das einzige, wodurch er ruhig wurde; از تَنها چیزى که دِلِش قُرص بود، ـ خاطِر جَمع بود
 - ruhig werden; آرام گِرِفتَن
 - ruhiger werden; از هَيَجان اُفتادَن
-- er schläft ruhig; با خيال ِ راحَت مى خوابَد
+- er schläft ruhig; با خیال ِ راحَت مى خوابَد
 - bleib ruhig!; جوش نَزَن
 - seinen Arm ruhig stellen; بازويَش را کِرَخت کَردَن
 Ruhm; آوازه، شُهرَت
 rühmen;
-- jem. rühmen (*: ehren); کِسي را اِحتِرام کَردَن
-- s. rühmen;  .نازيدَن، باليدَن بَر خود، به خود اِفتِخار کَردَن، ـ فَخر ک
-- er rühmt die Stadt für ..; او مَطالبِى دَر مَدح شَهر مى نِويسَد
-rumhängen (auf der Suche nache Arbeit); کِسی خيابانها را گَز می کُنَد
+- jem. rühmen (*: ehren); کِسی را اِحتِرام کَردَن
+- s. rühmen;  .نازیدَن، بالیدَن بَر خود، به خود اِفتِخار کَردَن، ـ فَخر ک
+- er rühmt die Stadt für ..; او مَطالبِى دَر مَدح شَهر مى نِویسَد
+rumhängen (auf der Suche nache Arbeit); کِسی خیابانها را گَز می کُنَد
 ruhmreich; ناموَر
 rühren; بِهَم زَدَن
-- ich rühre mich nicht von der Stelle; مَن از اينجا تَکان نِمى خورَم
+- ich rühre mich nicht von der Stelle; مَن از اینجا تَکان نِمى خورَم
 - Rühr dich nicht!; تَکان نَخور
 - Rührt euch! (milit.); آزاد
 - nichts rührt sich; آب از آب تَکان نِمى خورَد
 - ihn rührt der Donner; دَرجا خُشکَش مى زَنَد
-- das rührt mich nicht; اين دَر مَن اَثَرى نمى کُنَد
+- das rührt mich nicht; این دَر مَن اَثَرى نمى کُنَد
 rührend; مُحَرِک ِ اِحساسات
-rührselig; اِحساساتي
+rührselig; اِحساساتی
 - er wird rührselig; او حالى بِحالى مى شَوَد
 Rührung; اِحساس
-- ohne Rührung; بى هيچ نَرمِشى، اَصلاً بى هيچ تَفاوُت
+- ohne Rührung; بى هیچ نَرمِشى، اَصلاً بى هیچ تَفاوُت
 Rührwerk; تَکان دَهَنده، دَستگاه ِ هَم زَن
 Ruin; حال ِ شِکَستِگى
 Ruine; آوار، خَرابه، مَخروب
 ruinieren; خَراب کَردَن
 ruiniert (psychol.); حال ِ شِکَسته
-rülpsen; آروغ زَدَن، شيشَکى کِشيدَن
+rülpsen; آروغ زَدَن، شیشَکى کِشیدَن
 Rülpsen (n); آروغ، آجَل
 Rumpf; تَنه
-rumwirbeln; بى قَرار بودَن، اين وَر آن وَر چَرخيدَن
+rumwirbeln; بى قَرار بودَن، این وَر آن وَر چَرخیدَن
 - rumgewirbelt werden; مُعَلَق شُدَن
-rund; مُدَوَر، گِرد، مُستَدير
+rund; مُدَوَر، گِرد، مُستَدیر
 - rund & dick; مُدَوِر و قُطور
-- jetzt geht´s rund; شَمشيرهارا از رو مي بَندَند
-Rundbrief; عِلاميه، پَخشنامه
-Runde; جَمع، گِرد، گِردِهَمايى
+- jetzt geht´s rund; شَمشیرهارا از رو می بَندَند
+Rundbrief; عِلامیه، پَخشنامه
+Runde; جَمع، گِرد، گِردِهَمایى
 - die Runde machen; بازارگَرم داشتَن
 - Diskussion, die damals die Runde machte; بَحثها که دَر آن زَمان بازارگَرم داشت
-- die letzte Runde einläuten; ضَربة نَهائى را زَدَن
+- die letzte Runde einläuten; ضَربهٔ نَهائى را زَدَن
 - er dreht seine Runden; او جولان مى دَهَد
 - über die Runden kommen; به زور مُشکِلات را حَل کَردَن
 Rundfahrt; مُسافِرَت ِ گَردِشى
-Rundfunk; راديو
-Rundfunkübertragung; اِنتِقال ِ راديواى
+Rundfunk; رادیو
+Rundfunkübertragung; اِنتِقال ِ رادیواى
 Rundgang (nachts); شَبگردى
 rundherum; دور و بَر
 - mir geht es rundherum gut; حالَم کامِلاً خوب است
 Rundlauf; جَرخِش ِ موزون
 - Rundlauf um die Kaaba; طَواف
 Rundlaufabweichung; از گَردِش ِ شُعاعى خارِج شُدَن
-rundlaufen (z.B.: Reifen); ميزان چَرخيدَن
+rundlaufen (z.B.: Reifen); میزان چَرخیدَن
 Rundschreiben; پَخشنامه
-Rundstab; ميله گِرد
+Rundstab; میله گِرد
 runterschlucken; قورَت دادَن
 Runzel; شِکَن
 runzeln;
 - stirnrunzeln; اَخم را دَر هَم کَردَن
-runzlig; پُرچين، چين و چُروک
-- runzlige Haut (durch Wasser);  پوست ِ دَست و پا) پيروک )
+runzlig; پُرچین، چین و چُروک
+- runzlige Haut (durch Wasser);  پوست ِ دَست و پا) پیروک )
 Rüpel; آدَم ِ بى تَربيَت
-rupfen (Federn beim Huhn nach dem Kochen); آبريت
-Rüssel (bei Elefanten);  (خُرطوم (ـ ِ فيل
+rupfen (Federn beim Huhn nach dem Kochen); آبریت
+Rüssel (bei Elefanten);  (خُرطوم (ـ ِ فیل
 Russ; دوده
 russig; دود آلود، دوده اى
-rüsten;  .تَسليح کَردَن، مُسَلَح ک
-- s. zum Krieg gegen ... rüsten; تَدارُک ِ حَمله به ... را ديدَن
+rüsten;  .تَسلیح کَردَن، مُسَلَح ک
+- s. zum Krieg gegen ... rüsten; تَدارُک ِ حَمله به ... را دیدَن
 rüstig; سَر زِنده، سَر ِ حال
-Rüsttag; روز ِ تَهيه، ـ تَدارُک
-Rüstung; تَجهيز، سَلاح
-Rüstungsbeschränkung; تَحديد ِ تَجهيزات
+Rüsttag; روز ِ تَهیه، ـ تَدارُک
+Rüstung; تَجهیز، سَلاح
+Rüstungsbeschränkung; تَحدید ِ تَجهیزات
 Rute; تَرکه
 Rutsch;
 - das Buch in einem Rutsch durchlesen; کِتاب را دَر يِک نِشسَت خواندَن
 Rutschbahn; سُر سُره
-rutschen; ليز خوردن، سُر خ.، لَغزيدَن
-- können Sie bitte ein wenig rutschen?; لُطفاً يِک کَمى آنروتَر بِرَويد
+rutschen; لیز خوردن، سُر خ.، لَغزیدَن
+- können Sie bitte ein wenig rutschen?; لُطفاً يِک کَمى آنروتَر بِرَوید
 - hin- und herrutschen; جا بِجا شُدَن
-- auf den Knien rutschen; از روی ِ زَمين سُر خوردَن
-- auf dem Sitz wegrutschen (aktiv); رو صَندَلي سُر دادَن
-- vom Sitz rutschen (passiv); از رو صَندَلي سُر خوردَن
+- auf den Knien rutschen; از روی ِ زَمین سُر خوردَن
+- auf dem Sitz wegrutschen (aktiv); رو صَندَلی سُر دادَن
+- vom Sitz rutschen (passiv); از رو صَندَلی سُر خوردَن
 Rutschgefahr; خَطر ِ لَغزِش
 rutschig;
-- es ist rutschig; ليز است، سُر ـ، لَغزَنده ـ
+- es ist rutschig; لیز است، سُر ـ، لَغزَنده ـ
 rütteln; لَرزاندَن، مُتَزَلزِل کَردَن، تَکان دادَن
-Rüttelverfahren; رَوِش ِ کوبيدِگى
-Rüttler; ويبراتور، مُرتَعِش کُنَنده
+Rüttelverfahren; رَوِش ِ کوبیدِگى
+Rüttler; ویبراتور، مُرتَعِش کُنَنده
