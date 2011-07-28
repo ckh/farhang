@@ -331,17 +331,17 @@ Rebellion; شورِش، عُصیان، یاغی گَری، طُغیان، ناف
 rebellisch; شَراَنگیز
 - rebellischer Mensch; شَخص ِ خاطى و عاصى، آدَم ِ مُتَمَرِد
 Rebhuhn; کَبک، تیهو
-Reblaus; شَتۀ مو
+Reblaus; شَتهٔ مو
 Rechen; عَلَف کِش
 Rechenbrett; چُتکه
 - mit Rechenbrett rechnen; جُتکه اَنداختَن
 Rechenschaft;
-- jem. Rechenschaft ablegen;  ِ به کِسى حِساب پَس دادَن، - جَواب پَس دادَن، پاسُخگوئی دَر مُقابِل
+- jem. Rechenschaft ablegen; به کِسى حِساب پَس دادَن، - جَواب پَس دادَن، پاسُخگوئی دَر مُقابِل
 - Rechenschaft fordern; حِساب ِ کِسى را باز خواستَن، باز خواست کَردَن
 - ich ziehe dich wegen deiner Taten zur Rechenschaft; تورا به سَزاى ِ اَعمالَت مى رِسانَم، حَق ِ تو را کَف ِ دَستَِت مى گُذارَم
 Rechenschaftsbericht (- geben);  (حِساب (پَس دادَن
 Rechenschieber; خَط کِش ِ حِساب
-Rechentafel; جَدوَل ِ محاسِباتى
+Rechentafel; جَدوَل ِ مُحاسِباتى
 Recherche; پِی گَردی، تَفَحُص
 recherchieren; تَفَحُص کَردَن
 rechnen; حِساب کَردَن
@@ -353,14 +353,15 @@ Rechner; ماشین ِ حِساب
 Rechnung; صورَت ِ حِساب، قَبض
 - auf meine Rechnung (*: Kappe); پاى ِ مَن، به حِساب ِ مَن است
 - gegen Rechnung; عَلىَ الحِساب
-- jem., der auf seine Rechnung kommt; قَند توى ِ کِسى آب مى شَوَد
+- jem., der auf seine Rechnung kommt; قَند توى ِ دِل ِ کِسى آب مى شَوَد
+- jem. auf seine Rechnung kommen lassen; قَند توی ِ دِل ِ کِسی آب کَردَن
 - Rechnung verlangen; حِساب پَس گِرِفتَن
 - Rechnung von ... begleichen; حِساب ِ چیزی را داشتَن
 - seine Rechnung ist beglichen; حِسابِش پاک است
 - eine alte Rechnung mit jem. begleichen (alleg.); حِساب ِ قَلتاق ِ کُهنه با کِسى داشتن، حِساب ِ کُهنه را پاک کَردَن
 - Phantasierechnung; حِساب سازی
 Rechnungsbücher; حِساب و کِتاب
-Rechnungshof; دیوان محاسبات
+Rechnungshof; دیوان مُحاسِبات
 Rechnungsprüfer; حِسابرَس
 Rechnungsprüfung; حِسابرَسى
 recht;
@@ -374,18 +375,18 @@ recht;
 - das geht nicht mit rechten Dingen zu; هیله گَرى دَر کار است
 - nach dem Rechten sehen;  .سَر کِشى کَردَن، وارِسى ک.، رِسیدِگى ک
 Recht (n); حَق
-- (relig.) Recht; (feqh) قانون، شَریعَت، فقه
+- (relig.) Recht; (feqh) قانون، شَریعَت، فِقه
 - mit Recht; به حَق
 - Zivilrecht; عُرف، حُکم ِ قَضائى
 - Recht auf Religionsfreiheit; حَق ِ آزادى ِ مَذهَب
-- er wird zu Recht bestraft; او به حَق مُجُزات مى شَوَد
+- er wird zu Recht bestraft; او به حَق مُجَزات مى شَوَد
 - er wird von dir sein Recht abverlangen; او حَقِت را به دَست ِ کَفِت مى گُذارَد
 - Recht einfordern; دادخواهى کَردَن
 - Recht verdrehen; کُلاه ِ شَرعى گُذاشتَن
 - das Recht aufheben; حَق را ناحَق کَردَن
 - jem. das Recht absprechen; حَق ِ کِسی را خوردَن
 - jem. Recht verschaffen; کِسى را دادرَسى فَرمودَن
-- gleiches Recht für alle; گَر حُکم کُنَند که مَست گیرَند، دَر شَهر هَر آنچه هَست گیرَند
+- gleiches Recht für alle; گَر حُکم کُنَند که مَست گیرَند دَر شَهر هَر آنچه هَست گیرَند
 - können ihre Rechte nicht anerkannt bekommen; نِمى تَوانَند اِحقاق ِ حَق کُنَند
 - mit Gesichtsausdruck, wo man s. im Recht weiß; با قیافهٔ حَق به جانِب
 Rechteck; مُرَبَع ِ مُستَطیل، راست گوشه
@@ -408,7 +409,7 @@ rechtmässig; به حَق، قانونی
 - es ist sein rechtmässiges Eigentum; مِلک ِ طِلق ِ اوست
 rechts; سَمت ِ راست
 - Augen rechts!; نَظَر به راست
-Rechtsanspruch; حَق ِ طَلَبى، اِدعِاى ِ حَق
+Rechtsanspruch; حَق طَلَبى، اِدعِاى ِ حَق
 Rechtsanwalt; وَکیل ِ دَعاوى، مُدافِع
 Rechtsauffassung; نَظَریهٔ حُقوقى
 Rechtsbeistand; مُشاوِر ِ حُقوقى، وَکیل ِ دادگُستَرى
@@ -444,25 +445,25 @@ rechtswidrig; نامَشروع، غِیر ِ قانونى، مُغايِر ِ ق
 rechtzeitig; سَر ِ وَقت، به موقِع
 recken (s. -); دِراز کَردَن
 Reckstange; بار فیکس
-Redakteur; دَبیر ِ روزنامه، گِرد آوَرَنده
-Redaktion; هیأت تَحریریه، ـ تَحریر، سَر دَبیرى
+Redakteur; دَبیر ِ روزنامه
+Redaktion; هیأت تَحریریه، ویرایِش، سَر دَبیرى
 Rede; صُحبَت، مُخاطِبه، سُخَنرانى
-- die Rede ist von ..; سُخَن از .. است
+- die Rede ist von ...; سُخَن از ... است
 - wovon gestern die Rede war; که دیروز حَرفَش بود
 - Rede halten; نُطق کَردَن
 - indirekte Rede; نَقل ِ قول ِ غِیر ِ مُستَقیم
 - jem. zur Rede stellen; کِسى را با چیزى رو بِرو کَردَن
-- kaum war ich zu Hause, stellte mich meine Mutter zur Rede; هَمینکه آمَدَم خانه، مادَرَم شُروع کَرد به سین جیم کَردَنَم
+- kaum war ich zu Hause, stellte mich meine Mutter zur Rede; هَمینکه آمَدَم خانه مادَرَم شُروع کَرد به سین جیم کَردَنَم
 - Tischrede; سُخَنرانى ِ سَر ِ میز ِ غَذا
 redegewandt; زَبان فَصیح، فَصیح اُلکَلام، دَر سُخَن گُفتَن فَصیح و بَلیغ بودَن
 Redegewandtheit; فَصیحى
 Redekunst; فَن ِ بَلاغَت
-reden; صُحبَت کَردَن، سُخَن گفتن
+reden; صُحبَت کَردَن، سُخَن گُفتَن
 - reden von; دَم زَدَن از
 - viel reden; شاخ و بَرگ حَرف زَدَن
-- ununterbrochen reden; يِک ریز حَرف زَدَن، وِروِر حَرف زَدَن
-- rede nicht von Dingen, von denen du nichts weisst; تو به اوج ِ فَلَک چه دانى چیست، چون نَدانى که در سَراى ِ تو کیست
 - nicht viel reden; بدون شاخ و بَرگ حَرف زَدَن
+- ununterbrochen reden; يِک ریز حَرف زَدَن، وِروِر حَرف زَدَن
+- rede nicht von Dingen, von denen du nichts weißt; تو به اوج ِ فَلَک چه دانى چیست چون نَدانى که در سَراى ِ تو کیست
 - unfähig zu reden; صامِت
 - einer, der langsam redet; آدَم ِ بَطى اُلکَلام
 - drauf los reden;  .دَهَن لَق کَردَن، آسمان ریسمان ک
@@ -482,6 +483,7 @@ reden; صُحبَت کَردَن، سُخَن گفتن
 - geschickter sein im Reden als ...; سَر ِ زَباندارتَر از ... بودَن
 Redeordnung; تَرتیب ِ تَقَدُم ِ سُخَنرانى
 Redewendung; عِبارَت ِ عامیانه، اِصطِلاح ِ ـ
+redigieren; ویرایِش کَردَن
 Redlichkeit; بَرائَت، آبرومَندى، اِستِقامَت
 Redner; خَطیب، خاطِب، سُخَنران، ناطِق
 - Lobredner (auch iron.); ثَناگو

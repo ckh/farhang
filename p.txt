@@ -635,6 +635,7 @@ plagen;
 - jem. plagen; رَنجانیدَن، رَنج دادَن، آزار د.، اَذيَت کَردَن
 - s. plagen; سَگ دو زَدَن
 Plagiat; جَعَل، اِنتِحال
+- Plagiatsnachweis-Software; راهکارهای ِ کَشف دَستبُرد ِ عِلمی
 Plakat; پلاکات
 Plakette; نِشان
 plan (eben); صاف، هَموار، مُسَطَح

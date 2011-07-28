@@ -1120,11 +1120,13 @@ verpflichten;
 - jem. verpflichten; کِسى را مُلزَم کَردَن، اِلتِزام گِرِفتَن از کِسي
 - s. zu etwas verpflichten; خودرا اِلزام ِ .. کَردَن، خودرا وَقف ِ .. کَردَن
 - das letzte aufrechte Häuflein, die s. der .. verpflichten; تَنها بازماندِگان ِ مُلتَزِمين به
-- .. ist verpflichtend; اِلزام است
+- ... ist verpflichtend; اِلزام است
+verpflichtet; مُوَظِف، مُلزَم
 - s. verpflichtet fühlen zu etwas; دَر بَند ِ چيزى بودَن
-- s. jem. gegenüber verpflichtet fühlen; (Gegenteil)  (از کِسی خورده بُرده داشتَن (نَداشتَن
-- verpflichtet sein zu; مَرهون بودَن، مَديون ِ چيزى ب.، مُکَلَف ب.، مُلتَزِم ب.، مُوَظِف شُدَن به، مِنَت کِشيدَن
-- die Teilnahme an .. verpflichtet zur Zahlung dieses Betrages; شِرکَت دَر .. واجِد ِ شَرايِط ِ پَرداخت ِ اين مَبلَغ است
+- s. jem. gegenüber verpflichtet fühlen; (Gegenteil)  از کِسی خورده بُرده داشتَن (نَداشتَن
+- verpflichtet sein zu; مَرهون بودَن، مَديون ِ چيزى ب.، مُکَلَف ب.، مُلتَزِم ب.، مُوَظِف بودَن به، مِنَت کِشيدَن
+- die Teilnahme an ... verpflichtet zur Zahlung dieses Betrages; شِرکَت دَر ... واجِد ِ شَرايِط ِ پَرداخت ِ اين مَبلَغ است
+- diese Aufgabe verpflichtet ihn, zu ...; این وَظیفه اورا مُلزَم می کُنَد که، - اورا مُوَظِف می کُنَد که
 Verpflichtung; تَعَهُد، اِلتِزام
 - Verpflichtung (im relig. Sinn); ميثاق
 - als Verpflichtung übernehmen; بَر ذِمه گِرِفتَن، زير ِ دِين رَفتَن
