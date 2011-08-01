@@ -875,6 +875,7 @@ Reservierung; رِزِرو ِ جا
 Reservoir; (pl.)  (مَخزَن (مَخازِن
 Residenz; قَرارگاه، مُقَر ِ سُلطَنَت
 Resignation; دِلخوری، سَرخوردِگی
+resignieren; دِلخورده شُدَن
 Resistenz; مُقاوَمَت
 resolut;
 - resolute Antwort; جَواب ِ شافى، ـ قَطعى
@@ -891,12 +892,13 @@ respektabel; مُحتَشَم
 - respektabler Bau; ساختِمان ِ مُحتَشَم
 respektieren; اِحتِرام کَردَن، ـ گُذَراندَن
 Respirationsapparat; دَستگاه ِ تَنَفُسى
+Ressort; (بَخش (دَر اِداره
 Ressortkollege; هَمتاى ِ وِزارَتى
 Ressourcen; ذَخايِر، مَنابِع
 Rest; مابَقى، باقى، باقىمانده، بَقیه، پَس مانده
 - Essensreste; تَه ِ سُفره، باقیماندهٔ غَذا
 Restaurant; رِستوران
-Restauration; اِعادهٔ وَضع ِ گُذَشته، بَر گَردانى به وَضع ِ ـ
+Restauration; اِعادهٔ وَضع ِ گُذَشتهٔ یِک کِشوَر، بَر گَردانى به وَضع ِ ـ
 restaurieren; مَرَمَت کَردَن
 - restauriertes Schloß; قَصر ِ مَرَمَت شُده
 Restaurierung; مَرَمَت
@@ -904,27 +906,28 @@ Restbetrag; مَبلَغ ِ باقیمانده
 Restladung (phys.); بار ِ پَسمانده
 restlich; باقی مانده
 - die restliche Zeit schlaft noch; مابَقى را بِخوابید
-Restriktion; مَحدوديَت
-- gegen jem. Restriktionen verhängen; مَحدوديَتهائى قائِل شُدَن عَلیه
-restriktiv;
+Restriktion; مَحدوديَت، تَضییق
+- gegen jem. Restriktionen verhängen; مَحدوديَتهائى قائِل شُدَن عَلیه کِسی
+restriktiv; تَضییقی
 - Lockerung der restriktiven Politik; شُل کَردَن ِ سیاسَت ِ تَضییقى
 Resultat; فَرايَند، بَرآيَند، دَست آوَرد، نَتیجه، کارآئى، بازدِه، ماحَصَل، حاصِل
 - das Resultat der Arbeit; فَرجام ِ کار
 resultieren;
 - resultieren in; مُنجِر شُدَن به
-- das resultiert in; که مُنتَج  ِ.. است
+- das resultiert in; که مُنتَج  ِ... است
 Resumé; ماحَصَل، خُلاصه، تَلخیص
 Retina; شَبَکه چِشم
 Retortenbaby; طِفل که از لِقاح ِ مَصنوعى دَر آمَد
 Retortengefäss; قَرع و اَنبیق
 Retortenofen; کورهٔ قَرعى
+Retour; بَرگَشت
 Retourkutsche; رَد ِ جَواب
 retten; نِجات دادَن
 - die Situation retten; قَضیه را ماست مالى کَردَن
-- die nackte Haut retten; جان سالِم به دَر بُردَن
+- die nackte Haut retten; جان ِ سالِم به دَر بُردَن
 - er konnte s. gerade noch retten; او از حَمله جان بدَر بُرد
 - bist du noch zu retten?; تو عَقلَت سَر ِ جايَش است؟
-Retter; ناجِر، نِجات دَهَنده
+Retter; ناجی، نِجات دَهَنده
 Rettich; تُرُب
 Rettung; نِجات، رَهائى
 retuschieren; رتوش کَردَن
@@ -960,8 +963,8 @@ Revolverdrehmaschine; رِوُلوِر ِ ماشین تَراش
 Revolverduell; هَفت تیر کُشى
 Rezension; تَقریض، نَقد ِ اَدَبی
 Rezept;
-- Arztrezept; تَجویز
-- Kochrezept; راهنَمائى ِ آش پَزى، نُسخه
+- Arztrezept; نُسخه
+- Kochrezept; راهنَمائى ِ آش پَزى
 Rezeption; مَحَل ِ پَذیرِش
 rezeptiv; آگاه و دیده وَر شُدَن، اِلتِقاطی
 - sie haben ein rezeptives Denkvermögen; تَفَکُر ِ آنها اِلتِقاطى است
@@ -969,14 +972,16 @@ Rezeptor; گیرَنده
 Rezeptur; تَرکیب ِ دارو
 Rezession; رُکود، کَساد
 - wirtschaftliche Rezession; رُکود ِ اِقتِصادى، کَسادى ـ
-rezessiv;عَقَب رَفته
+rezessiv; عَقَب رَفته
 - Beziehung der dominanten und rezessiven Gene; رابِطهٔ غالِب و مَغلوبى ژِنها
 Rezitation; اِنشاد، دِکلَمه
 Rhabarber; ریواس، ریباس، رِوَند
 Rhesusfaktor; عامِل ِ اِرهاش ِ خون
-Rhetorik; عِلم ِ بَدیع
-Rheumatismus; رماتیسم
-Rhododendron; خَر زَهره
+Rhetorik; عِلم ِ بَلاغَت
+rhetorisch;
+- rhetorische Frage; پُرسش بِدون ِ اِنتِظار به جَواب
+Rheumatismus; روماتیسم
+Rhododendron; گُل صَد تومانی
 Rhomboid; شِبه ِ لوزى
 rhythmisch; موزون
 Rhythmus; ریتم، آهَنگ
@@ -986,8 +991,8 @@ Richtantenne; آنتِن ِ جَهَت دار
 richten; مُراجِعه کَردَن
 - richten, urteilen; داوَری کَردَن
 - richten, reparieren; تَعمیر کَردَن
-- die Bestellung an .. richten; سِفارِش به کِسى مُراجِعه کَردَن
-- sie richten ihre Wut auf uns; خَشمِشان را مُتَوَجۀ ما مى کُنَند
+- die Bestellung an ... richten; سِفارِش به کِسى مُراجِعه کَردَن
+- sie richten ihre Wut auf uns; خَشمِشان را مُتَوَجهٔ ما مى کُنَند
 - s. nach den Wünschen richten; بَر طِبق ِ مِیل  عَمَل کَردَن
 - jem. Aufmerksamkeit richten auf; تَوَجُه ِ کِسى را مَعطوف دارَد به
 - s. gegen etwas richten; به ضِد ِ چیزى جازِم شُدَن
@@ -998,7 +1003,7 @@ Richteramt; داد و سِتَد
 richtig; دُرُست، صَحیح
 - nicht richtig, irrig; ضَلیل، نادُرُست
 - für richtig erachten;  .مَصلَحَت دانِستَن، ـ دیدَن، بِهتَر دیدَن، صَلاح د
-- es ist völlig richtig, dass ..; بِسیار بِجا است که
+- es ist völlig richtig, dass ...; بِسیار بِجا است که
 - was du sagst, ist richtig; آنچه که گُفتى دُرُست است، ـ صَحیح است، بَر حَق است
 - ob es vor Gott richtig ist, dass ...; آیا نَزد ِ خُدا صَواب است که
 - richtige überlegungen; تأمُلات ِ سُقام
@@ -1008,9 +1013,10 @@ Richtlinie; خَط ِ مَشى
 - Richtlinien der Politik; خَط ِ مَشى ِ سیاسى، مُوازین ِ ـ
 Richtlinienkompetenz; صَلاحيَت ِ تَعیین ِ خَط ِ مَشى ِ سیاسى
 Richtschnur; مِعیار، مِقیاس
+- das Wort Gottes ist die Richtschnur; کَلام ِ خُدا فُرقان است، - مَلاک است
 Richtung; (pl.)  (مَسیر، سَمت، جَهَت (جَهات
 - eine andere Richtung einschlagen; خود را به راه ِ دیگَر زَدَن
-- in Richtung von .. schwimmen; رو به چیزى شِنا کَردَن
+- in Richtung von ... schwimmen; رو به چیزى شِنا کَردَن
 - sein Denken geht in eine Richtung mit ...; فِکر ِ او با ... يِک راستا است
 Richtungskampf; مُبارزهٔ ایدئِولژیک ِ داخِلى
 Richtwert; مِقدار ِ تَقریبى
@@ -1061,14 +1067,14 @@ Ringer; کُشتى گیر
 ringförmig; حَلقه اى، حَلقه حَلقه
 Ringgefäss; آوَند ِ حَلقَوى
 Ringstrasse; چادهٔ کَمَربَندى
-ringsum; دورادور، دور و بَر
+ringsum; دُورادُور، دور و بَر
 Rinne; شیار، مَجرا، چاهَک
 rinnen; جارى شُدَن
 Rinnsal; جویبار
 - ich verlange nach dir, so wie das Rinnsal seine Quelle sucht; تورا بِدانسان مى طَلَبَم که جویبارى سَرچِشمه اَش را
 Rippe; دَنده
 Rippenfell; پَردهٔ شُش
-Rippenfellentzündung; سینه پَهلو
+Rippenfellentzündung; سینه پَهلو، اِلتِهاب ِ پَردهٔ شُش
 Risiko; مُخاطِره، ریسک
 - einem Risiko ausgeliefert sein; در مُخاطِره قَرار گِرِفتَن
 risikofreudig; دِل بِدَریا زَن
@@ -1093,7 +1099,7 @@ ritzen; شَخانیدَن، پَنجول زَدَن، خَراش دادَن
 - etwas einritzen (z.B. mit Fingernagel); چیزى را حَک کَردَن
 Rivale;  رَقیب، حَریف
 Rizinus; کَرچَک
-Robbe; خوک ِ آبى
+Robbe; خوک ِ دَریایى
 robben;  .بَر شِکَم رَفتَن، رو زَمین کُشاله ر
 - von Stelle zu Stelle robben; سینه خیز از مَحَل به مَحَل خَزیدَن
 röcheln; خُر خُر کَردَن، خِس خِس ک.، خَرناس کِشیدَن، رَخیدَن ، سینهٔ کِسی به خِس خِس اُفتاده
