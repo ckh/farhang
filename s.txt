@@ -128,6 +128,7 @@ Salve (f); شَلیک ِ توپ
 - Feuersalve; رَگبار ِ گُلوله
 Salz (n); نَمَک
 - mineralische Salze; اَملاح ِ کانى
+- wehe wenn das Salz faul wird; هَر چه بِگَندَد نَمَکَش ميزَنَند وای به روزی که بِگَندَد نَمَک
 salzen; نَمَک زَدَن
 Salzen (n); تَملیح
 Salzgurke (f); خیار ِ شور
@@ -3946,7 +3947,7 @@ stufenlos;
 stufenweise; تَدریجى، قَدَم بِقَدَم، بِصورَت ِ پله اى
 - stufenweise Entlassung; اِخراج ِ پِیاپِى
 Stuhl; صَندَلى
-- zwischen 2 Stühlen sitzen; با يِک دَست نِمى تَوان دو هِندِوانه گِرِفت
+- zwischen 2 Stühlen sitzen; با يِک دَست نِمى تَوان دو هِندِوانه گِرِفت، هَم از شوربای ِ قُم اُفتاديم هَم از حَليم ِ کاشان
 - Richterstuhl; مَسنَد ِ قِصاوَت
 Stuhlbein; پایهٔ صَندَلى
 Stuhlgang; تَغَوُط، مَدفوع

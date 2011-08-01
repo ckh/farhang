@@ -588,6 +588,7 @@ regnen; باران آمَدَن، باریدَن
 - unaufhörlich regnen; يِک ریز مى بارَد
 - es hat angefangen, zu regnen; بارانى گِرِفت
 - es hörte auf, zu regnen; باران بَند آمَد
+- nicht jede Wolke regnet; هَمهٔ اَبری باران نَدارَد
 regnerisch; بارانى
 Regress; رُجوع
 Regression; بَرگَشت، تَنَزُل، پَس رَوى
@@ -1103,19 +1104,19 @@ Robbe; خوک ِ دَریایى
 robben;  .بَر شِکَم رَفتَن، رو زَمین کُشاله ر
 - von Stelle zu Stelle robben; سینه خیز از مَحَل به مَحَل خَزیدَن
 röcheln; خُر خُر کَردَن، خِس خِس ک.، خَرناس کِشیدَن، رَخیدَن ، سینهٔ کِسی به خِس خِس اُفتاده
-Röcheln (n); خَرناس، بِطور ِ خُرخُر، نَفَس ِ اِحتِضار
+Röcheln (n); خَرناس، نَفَس ِ اِحتِضار
 Rock; دامَن، شَلیته
 - er rennt hinter jedem Rock her; او دُنبال ِ هَر شَلیته پوشى مى دُوَد
 Rockefeller;
 - er hält s. für den Sohn von Rockefeller; اِدِعا می کُنَد پِسَر ِ اُتُر خان ِ رَشتی است
 Rogen; تُخم ِ ماهى
-Roggen; چاو دار، دیوَک، گَندُم ِ سیاه
+Roggen; چاو دار
 roh;
 - roh (z.B. Essen); خام، نَپُخته
 - roh (z.B. Verhalten); خَشِن، نامُؤَدَب
 Rohblock; شِمشه، شِمشال
 Rohgewicht; وَزن ِ ناخالِص
-Rohleder; آش نَکرده، پوست ِ خام
+Rohleder; پوست ِ خام
 Rohling; آدَم ِ بى رَحم، ـ خَشِن
 - Rohling (Metall); کار نَشُده
 Rohmaterial; مادهٔ خام
@@ -1126,6 +1127,7 @@ Rohstoffe; مَواد ِ خام
 Rohstoffknappheit; کَمیابى ِ مَواد ِ خام
 Rolle;
 - eine Rolle spielen; رُل بازى کَردَن
+- er spielt eine wichtige Rolle im Leben von ...; او دَر زِندِگی ِ ... نَقش ِ مُهِمی ایفاء می کُنَد
 - Rolle spielen (bei Mysterienspiel); شَبیه دَر آوَردَن
 - Widerstand spielt keine Rolle; مُقاوَمَت ناچیز است
 - ich bin aus der Rolle gefallen; مَن از خَط خارِج شُدَم
@@ -1134,7 +1136,7 @@ Rolle;
 - Papierrolle; اُستُوانهٔ کاغَذ
 - Qumranrollen; مَخطوطات ِ کومران
 - Tuchrolle; يِک پارچهٔ چَنبَره
-rollen; غَلتاندن، غِل دادَن
+rollen; غَلتاندَن، غِل دادَن
 - seine Augen rollen; چِشمهايَش غِل مى خورَند
 - der Reifen rollt auf mich zu; لاستیک به طَرَف ِ مَن قِل مى خورَد
 Roller (Spielzeug); رو رؤک، رورورَک
@@ -1148,8 +1150,8 @@ röntgen; عَکس بَردارى کَردَن
 Röntgenstrahl; اَشِعهٔ ایکس، پَرتوپ ِ ـ
 rosa; رَنگ ِ صورَتى
 Rose; گُل ِ سُرخ
-- keine Rose ohne Dornen; هَر که را طاوس بايَد جور ِ هِندوستان را بِکِشَد
 - Geruch wilder Rosen; بوى ِ نَستَرَن
+- keine Rose ohne Dornen; هَر که را طاوس خواهَد جُور ِ هِندوستان کِشَد
 Rosenkranz; تَسبیح، صَد دانه
 - Rosenkranz beten; تَسبیح اَنداختَن، - گَرداندَن
 Rosenwasser; گُلاب
@@ -1158,7 +1160,7 @@ rosig;
 - rosiges Gesicht; چهرهٔ گُلگون
 - die Lage ist nicht rosig; اوضاع خوشايَند نیست
 Rosine; کِشمِش
-Rosmarin; اَکلیل ِ کوهى
+Rosmarin; اِکلیل ِ کوهى، رومارِن
 Ross; اَسب
 Rost; زَنگ ِ آهن
 rosten; زَنگ زَدَن
@@ -1178,12 +1180,12 @@ rot; سُرخ، قِرمِز
 Rotation; دَوار، گَردان، چَرخِگى، چَرخِش
 Rotationswalze; اُستُوانهٔ دَوار
 Röteln; بیمارى ِ سُرخچه
-rotieren; چَرخیدَن، بِدور ِ مِحوَر چ
+rotieren; چَرخیدَن، بِدور ِ مِحوَر چَرخیدَن
 rotierend; دَوار، گَردان، چَرخِگى
 Rotkehlchen; سینه سُرخ
-Rotkohl; کَلَم سُرخ
+Rotkohl; کَلَم ِ سُرخ
 Rotte; دَسته، رَسته
-Rouladen; دُلمهٔگوشت، رولِت
+Rouladen; دُلمهٔ گوشت، رولِت
 - Kohlrouladen; دُلمهٔ کَلَم
 Roulette; رولِت
 Route; خَط ِ مَسیر
@@ -1194,7 +1196,7 @@ Rowdy; شَخص ِ جَنجال، هَنگامه جو
 Rübe; جُغُندُر
 - Rote Rübe; لَبو
 - Steckrübe; شَلغَم
-- Zuckerrübe; جُغُندُر قَند
+- Zuckerrübe; جُغُندُر ِ قَند
 Rubin; یاقوت ِ سُرخ
 Rubrik; مَقوله
 - unter die Rubrik von ... stellen; به حِساب ِ چیزی گُذاشتَن
@@ -1248,7 +1250,7 @@ Rücklage; پَس نَهاد، پَس اَنداز
 Rücklauf; حَرَکَت بَرگشت، ـ بازگَشت
 rückläufig;
 - rückläufige Konjunktur; اِقتِصاد ِ پَس گِرا
-- das Geschäft ist rückläufig; بازار کَساد شده است، کَسب و کار از رونَق اُفتاده
+- das Geschäft ist rückläufig; بازار کَساد شُده است، کَسب و کار از رونَق اُفتاده
 Rücklicht; چِراغ ِ عَقَب
 rücklings;
 - ich bin rücklings hingefallen; تاق باز اُفتاده بودَم
@@ -1274,12 +1276,12 @@ Rücksitz; صَندَلى ِ عَقَب
 Rückstand; باقى مانده، مادهٔ زائِد، عَقَب ماندِگى
 - Rückstand, Sediment; رُسوب، تَه نِشَست، اَفکَنه
 - Rückstand (finanz.); پَس اُفت
-- Rückstand (bei ölpflanzen); کُنجاله
+- Rückstand (bei Ölpflanzen); کُنجاله
 - in (Zahlungs-) Rückstand kommen; پَس اُفتادَن
 rückständig; عَقَب مانده
 - rückständige Nation; مِلَت ِ غِیر ِ راقیه، ـ عَقَب مانده
 Rückstoss; ضَربه دَر جَهَت ِ عَقَب، پَس زَدَن، لَگَد
-Rücktritt; کِناره گیری اِستِعفا
+Rücktritt; کِناره گیری، اِستِعفا
 - seinen Rücktritt anbieten; اِستِعفاى ِ خودرا عَرضه کَردَن
 Rücktrittbremse; تُرمُز ِ سايِشى، ـ پائى
 Rücktrittsklausel; شَرط ِ فَسخ
@@ -1295,7 +1297,7 @@ rückwirkend;
 Rückwirkungen; عَواقِب، عَطف بِماسَبَق
 Rückzahlung; اِعاده، اِستِرداد
 Rückzieher;
-- Rückzieher machen; از دادَن .. سَر باز زَدَن، ـ پا پَس گُذاشتَن، ـ فَرار کَردَن
+- Rückzieher machen; از دادَن ِ ... سَر باز زَدَن، ـ پا پَس گُذاشتَن، ـ فَرار کَردَن
 Rückzug; عَقَب نِشینى، عَقَب گَرد، رَجعَت
 - beim Rückzug; دَر عَقَب نِشینى
 - Attacke & Rückzug; کَر و فَر
@@ -1325,11 +1327,11 @@ rufen; هَوار زَدَن، ـ کِشیدَن، صِیحه زَدَن، صِ�
 - zur Ordnung rufen; به نَظم فَرا خواندَن
 - er ruft ihn zu s. an den Tisch; اورا به سَر ِ میز ِ خود دَعوَت مى نَمايَد
 Rüge; سَرزَنِش، نِکوهِش
-- jem. eine Rüge erteilen (*: Tadel);  .به کِسى بیدارباش دادَن، ـ گوشمال د.، ـ مُؤخَذه کَردَن، ـ نِکوهِش ک
+- jem. eine Rüge erteilen (*: Tadel);  به کِسى بیدارباش دادَن، ـ گوشمال د.، ـ مُؤخَذه کَردَن، ـ نِکوهِش کَردَن
 rügen; مَذَمَت کَردَن، سَر زَنِش ک.، مَلامَت ک.، نِکوهیدَن
 Ruhe; آرامِش
 - Lass mich in Ruhe!; تَنهايَم بِگُذار، دَست از سَرَم بَردار
-- in Ruhe lassen, aufhören; کوتاه آمَدَن
+- in Ruhe lassen, aufhören; دَست بَردار بودَن
 - Immer mit der Ruhe!; عاجِل دو بار کار مى کُنَد
 - zur Ruhe kommen; از جُنب و جوش اُفتادَن، از جوش و جَلا اُفتادَن، اِحساسات ِ راحَتی کَردَن
 - für mich die Ruhe suchen; با خودَم خِلوَت كُنَم
@@ -1337,13 +1339,13 @@ Ruhe; آرامِش
 - etwas zur Ruhe bringen; چیزى را خواباندَن
 - Furcht vor ... ließ ihn nicht gerade zur Ruhe kommen; تَرس از ... راحَتَش نِمی گُذاشت
 - sie sind dort zur letzten Ruhe gebettet; آنها دَر آنجا آرامیده اند
-- nun kann ich in Ruhe sterben, weil ...; حال ِ مَرا غَم مُردن نیست زیرا
+- nun kann ich in Ruhe sterben, weil ...; حال ِ مَرا غَم ِ مُردن نیست زیرا
 - öffentliche Ruhe und Ordnung; آرامش و نَظم ِ عُمومى
-- jedesmal wenn .., verlor er die Ruhe; هَر وَقت ..  آرام و قَرارَش مى بُرید
-- sie machten ihre Arbeit in aller Seelenruhe; آنها به راحَتى ِ آب خوردن کارِشان را اَنجام دادَند
+- jedesmal wenn ..., verlor er die Ruhe; هَر وَقت ... آرام و قَرارَش مى بُرید
+- sie machten ihre Arbeit in aller Seelenruhe; آنها به راحَتى ِ آب خوردَن کارِشان را اَنجام دادَند
 ruhelos;
 - ruhelos sein;  .بیقَرار بودَن، ناآرام ب
-ruhen; آرامیدن، غُنودَن، اِستِراحَت کَردَن
+ruhen; آرامیدَن، غُنودَن، اِستِراحَت کَردَن
 - er wird nicht eher ruhen, bis es erledigt ist; او تا این کاررا تَمام نَکُنَد آرام نَخواهَد گِرِفت
 Ruhestadium; دورهٔ آرامِش
 Ruhestand; باز نِشَستِگى
@@ -1355,7 +1357,7 @@ Ruhetag; روز ِ تَعَطیل
 - heute ist Ruhetag; اِمروز تَعَطیل است
 ruhig; مُستَریح، آرام، ساکِت
 - ruhig vor s. hin arbeiten; با فَراغ ِ خاطِر کار کَردَن
-- alles ist ruhig; آب از آب تَکان نِمى خورَد، آب از آب نِمی جُنبَد‚ آرامِش و سُکونَت ِکامِل بَرقَرار است
+- alles ist ruhig; آب از آب تَکان نِمى خورَد، آب از آب نِمی جُنبَد‚ آرامِش و سُکونَت ِ کامِل بَرقَرار است
 - das einzige, wodurch er ruhig wurde; از تَنها چیزى که دِلِش قُرص بود، ـ خاطِر جَمع بود
 - ruhig werden; آرام گِرِفتَن
 - ruhiger werden; از هَيَجان اُفتادَن
@@ -1366,8 +1368,8 @@ Ruhm; آوازه، شُهرَت
 rühmen;
 - jem. rühmen (*: ehren); کِسی را اِحتِرام کَردَن
 - s. rühmen;  .نازیدَن، بالیدَن بَر خود، به خود اِفتِخار کَردَن، ـ فَخر ک
-- er rühmt die Stadt für ..; او مَطالبِى دَر مَدح شَهر مى نِویسَد
-rumhängen (auf der Suche nache Arbeit); کِسی خیابانها را گَز می کُنَد
+- er rühmt die Stadt für ...; او مَطالبِى دَر مَدح شَهر مى نِویسَد
+rumhängen (auf der Suche nach Arbeit); کِسی خیابانها را گَز می کُنَد
 ruhmreich; ناموَر
 rühren; بِهَم زَدَن
 - ich rühre mich nicht von der Stelle; مَن از اینجا تَکان نِمى خورَم
@@ -1381,7 +1383,7 @@ rührselig; اِحساساتی
 - er wird rührselig; او حالى بِحالى مى شَوَد
 Rührung; اِحساس
 - ohne Rührung; بى هیچ نَرمِشى، اَصلاً بى هیچ تَفاوُت
-Rührwerk; تَکان دَهَنده، دَستگاه ِ هَم زَن
+Rührwerk; تَکان دَهَنده، دَستگاه ِ هَم زَن، مَخلوط کُن
 Ruin; حال ِ شِکَستِگى
 Ruine; آوار، خَرابه، مَخروب
 ruinieren; خَراب کَردَن
@@ -1403,9 +1405,9 @@ Runde; جَمع، گِرد، گِردِهَمایى
 - über die Runden kommen; به زور مُشکِلات را حَل کَردَن
 Rundfahrt; مُسافِرَت ِ گَردِشى
 Rundfunk; رادیو
-Rundfunkübertragung; اِنتِقال ِ رادیواى
+Rundfunkübertragung; اِنتِقال ِ رادیویى
 Rundgang (nachts); شَبگردى
-rundherum; دور و بَر
+rundherum; دُور و بَر
 - mir geht es rundherum gut; حالَم کامِلاً خوب است
 Rundlauf; جَرخِش ِ موزون
 - Rundlauf um die Kaaba; طَواف
@@ -1418,12 +1420,12 @@ Runzel; شِکَن
 runzeln;
 - stirnrunzeln; اَخم را دَر هَم کَردَن
 runzlig; پُرچین، چین و چُروک
-- runzlige Haut (durch Wasser);  پوست ِ دَست و پا) پیروک )
+- runzlige Haut (durch Wasser);  پوست ِ دَست و پا) پیروک)
 Rüpel; آدَم ِ بى تَربيَت
 rupfen (Federn beim Huhn nach dem Kochen); آبریت
 Rüssel (bei Elefanten);  (خُرطوم (ـ ِ فیل
-Russ; دوده
-russig; دود آلود، دوده اى
+Ruß; دوده
+rußig; دود آلود، دوده اى
 rüsten;  .تَسلیح کَردَن، مُسَلَح ک
 - s. zum Krieg gegen ... rüsten; تَدارُک ِ حَمله به ... را دیدَن
 rüstig; سَر زِنده، سَر ِ حال
@@ -1434,7 +1436,7 @@ Rute; تَرکه
 Rutsch;
 - das Buch in einem Rutsch durchlesen; کِتاب را دَر يِک نِشسَت خواندَن
 Rutschbahn; سُر سُره
-rutschen; لیز خوردن، سُر خ.، لَغزیدَن
+rutschen; لیز خوردَن، سُر خ.، لَغزیدَن
 - können Sie bitte ein wenig rutschen?; لُطفاً يِک کَمى آنروتَر بِرَوید
 - hin- und herrutschen; جا بِجا شُدَن
 - auf den Knien rutschen; از روی ِ زَمین سُر خوردَن

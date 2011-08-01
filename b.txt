@@ -8,6 +8,7 @@ Backbord; سَمت ِ چَپ ِ کِشتى
 Backe; (pl.) وَجنه (وَجَنات)، گونه
 - jem. auf die Backe schlagen; به کِسى سيلى زَدَن
 - mit vollen Backen essen; - لُپ لُپ خوردَن، دو لُپی
+- noch nicht bis 3 zählen können, aber schon dicke Backen machen; هَنوز غوره نَشُده مَويز شُده
 - Bremsbacke; کَفشَک ِ تُرمُز
 backen; پُختَن
 Bäcker; نانوا ، نانپَز، خَباز
@@ -2291,6 +2292,7 @@ bezwingen;
 - Feinde bezwingen; دُشمَنهارا شِکَست دادَن
 - seinen Zorn bezwingen; غِيظ ِ خودرا کَظم کَردَن، - فُرو خوردَن
 Bezwinger; کاظِم، فاتِح
+- jeder hat seinen Bezwinger; هَر سَگ دَر خانه صاحِبِش شير است
 Bezwingung;
 - Bezwingung des Berges; صُعود ِ مِيسور از کوه، فَتح  ِکوه 
 Bibel; کِتاب ِ مُقَدَس

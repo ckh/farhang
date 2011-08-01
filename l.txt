@@ -800,6 +800,7 @@ letzte; دیرین، آخَرین، آخَر
 - auf der letzten Reise; دَر واپَسین سَفَر
 - in den letzten Zügen liegend; مَذبوحانه
 - bis zum letzten Pfennig die Strafe bezahlen; تا ریال ِ آخَر جَریمه را بِپَردازَد
+- die letzen werden die ersten sein; هَر چيز که خوار آيَد يِک روز به کار آيَد
 letztgültig;
 - letztgültiges Resultat; نَتیجهٔ غائی
 letztlich; اَخیراً، عاقِبَتاً

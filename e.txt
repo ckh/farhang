@@ -3280,6 +3280,7 @@ erste;
 - erster Wahlgang; دور ِ اَوَل ِ رأى گیرى
 - als erstes der .. zuwenden; نَخُست به ... روى آوَردَن
 - er ist der Erste von allen; او سَرآمَد ِ هَمِگان است
+- die letzen werden die ersten sein; هَر چيز که خوار آيَد يِک روز به کار آيَد
 erstehen;
 - eine Sache billig erstehen; چیزى را اَرزان اَرزان گِرِفتَن
 - eine Sache teuer erstehen; چیزى را بِزَحمَت گیر آوَردَن
