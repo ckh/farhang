@@ -29,17 +29,17 @@ sachgemäss;
 Sachkenner (m); خِبره، کارشِناس، مُتَخصِص
 sachkundig; ماهِر، مُتَخَصِص
 sachlich;
-- ruhig und sachlich sagte er ..; به آرامى و مَتانَت گفت
+- ruhig und sachlich sagte er ...; به آرامى و مَتانَت گُفت
 - sachliche Kritik; اِنتِقاد ِ عِینى
 - sachlicher Mensch; آدَم ِ کاربُر
 - sachlicher Zusammenhang; اِرتِباط ِ موضوعى
-sächlich; خُنثی
+sächlich;‌ ‌‌‌ ٰخُنثی
 Sachliteratur (f); کُتُب ِ مَرجَع
 Sachschaden (m); خِسارَت ِ مادى
 sachte;
 - sachte sachte; جَسته جَسته، آهِسته آهِسته، يَواش يَواش
 Sachverhalt (m); واقِع اَمر
-- zu diesem Sachverhalt sagt er, ..; او دَر این زَمینه مى گويَد
+- zu diesem Sachverhalt sagt er, ...; او دَر این زَمینه مى گويَد
 Sachverstand (m); خِبره، تَبَحُر، تَخَصُص، خِبرِگى، خِبرَت، کارشِناسى، کاردانى
 - jem. mit Sachverstand; کاربَر
 Sachverständiger (m); کارشِناس، اَهل ِ فَن، مُتَخصِص، خِبره
@@ -64,7 +64,7 @@ Sage (f); اَفسانه
 Säge (f); اَره
 - Laubsäge; اَره موئى
 Sägemehl (n); خاک ِ اَره
-- frisches Sägemehl; خاک ِ اَره تازه
+- frisches Sägemehl; خاک ِ اَرهٔ تازه
 sägen; اَره کَردَن
 sagen; (präs.)  (عَرض کَردَن، گُفتَن (مى گويَد
 - nichts sagen; سُکوت کَردَن
@@ -83,7 +83,7 @@ sagen; (präs.)  (عَرض کَردَن، گُفتَن (مى گويَد
 - ich habs doch gesagt!; مَن که گُفتَم
 - sagen, was auf dem Herzen liegt; حَرف ِ دِل ِ خودرا زَدَن
 - mal dies sagen, mal das; يِک دِل چیزی گُفتَن يِک دِل چیز ِ دیگَر گُفتَن
-- paß auf, was du sagst; مُواظِب ِ حَرفِ دَهَنَت باش
+- paß auf, was du sagst; مُواظِب ِ حَرف ِ دَهَنَت باش
 - du sagst ja was!; ! حَرفی می زَنی
 - ich habe ihm das einige Male gesagt; چَند بار باهاش حَرفَم شُد
 - wer was sagen will, behält es für sich; اَگَر دیگَر خَرف زَدیم بِزَن توی ِ دَهَنِمان
@@ -99,15 +99,15 @@ sagenhaft;
 - sagenhaft schöner Teppich; قالى ِ عَبقَرى
 sagenumwoben;
 - sagenumwobener Ort; مَحَل ِ اَفسانه اى
-Sägespäne (f); تَراشه چوب، خاک ـ
-Sägewerk (n); کارخانه تَخته بُرى
+Sägespäne (f); تَراشهٔ چوب، خاک ِ چوب
+Sägewerk (n); کارخانهٔ تَخته بُرى
 Sahara (f); صَحرا
 Sahne (f); خامه، سَر شیر
 - das ist allererste Sahne; این نُمره يِک است
 sahnig; خامه دار، خامه اى
 Saison (f); (pl.)  (فَصل (فُصول)، موسِم (مَواسِم
 - saisonale Nachfrage; تَقاضاى ِ فَصلى
-Saisonarbeiter (m); کارگَر ِ مُوَقَت، ـ موسِمى، ـ فَصلى
+Saisonarbeiter (m); کارگَر ِ مُوَقَت، کارگَر ِ موسِمى، کارگَر ِ فَصلى
 Saite (f); (pl.)  (زِه، تار، وَتَر (اوتار
 säkular; عِلمانى، ناسوتى، دُنیائى، دُنیاوَرز
 Säkularismus (m); عِلمانيَت، دُنیاوَرزى، اِصالَت ِ اُمور ِ دُنیائى
@@ -143,10 +143,10 @@ Samenerguss (m); اِحتِلام، اِنزال
 Samenflüssigkeit (f); مایع ِ مَنى
 Sammelband (m); مَجموعه
 Sammelbegriff (m); اِسم ِ جَمع
-sammeln; گِرد آوَردَن، جَمع کَردَن، جَمع آوَرى ک
+sammeln; .گِرد آوَردَن، جَمع کَردَن، جَمع آوَرى ک
 - die Menschen sammeln, um ...; اِنسانهارا گِرد آوَردَن تا
 - Geld sammeln; پول جَمع کَردَن
-Sammelnummer (f) (Telefon); شُماره جامِع
+Sammelnummer (f) (Telefon); شُمارهٔ جامِع
 Sammelsurium (n);
 - seine Ideen sind ein Sammelsurium von ...; عَقايِدِش تَرکیب دَر هَم و بَرهَمى است از
 Sammler (m); مَجموعه دار
@@ -155,7 +155,7 @@ Sammlung (f);
 - Gesetzessammlung; شَريَعت مَُدَوِّن، مَجموعه قَوانین
 Samowar (m); سَماوَر
 Samstag (m); شَنبه
-samt; با، به اِتِفاق ِ
+samt; ِ با، به اِتِفاق
 - samt dem Volk; با تَمامى ِ قوم
 Samt (m); مَخمَل
 samtig; مَخمَل نَما
@@ -199,7 +199,7 @@ Sarg; (pl.)  (تابوت (تَوابیت
 Sarkasmus; بَذله گوئى، طَعنه
 sarkastisch; طَعنه آمیز
 - sarkastisch sein; شَماتَت کَردَن
-- sarkastische Antwort; پاسُخ ِ هَجوآمیزى، ـ طَعنه آمیز
+- sarkastische Antwort; پاسُخ ِ هَجوآمیزى، جَواب ِ طَعنه آمیز
 - sarkastische Bemerkungen; لُغَز خواندَن
 Sassaniden; ساسانیان
 Satellit; سَفینهٔ فَضاء، ماهواره
@@ -210,7 +210,7 @@ Satire; هَجو
 satt; سیر
 - sie essen s. satt; آنها سیر مى خورَند
 - das habe ich satt; مَن از این چیز بیزار شُدَم
-- s. am Anblick von .. satt sehen; از دیدَن ِ چیزى سیر شُدَن
+- s. am Anblick von ... satt sehen; از دیدَن ِ چیزى سیر شُدَن
 Sattel; زین
 - Sattel & Zaumzeug ; زین و بَرگ
 - Fahrradsattel; زین ِ دو چَرخه
@@ -242,8 +242,8 @@ Sauce; سُس، آب ِ گوشت
 Saudiarabien; عَرَبِستان ِ سُعودى
 sauer; تُرش
 - er war echt sauer; حِسابى عَصَبانى بود، او دَمَغ شُد
-- er war auf jem. sauer; او از کِسى دِلگیر بود، - قَهرِش گِرِفت، ـ لَجِش گِرِفت، اوقاتَش بابَت ِ .. تَلخ شُد
-- eine saure Miene machen; رو تُرش کَردَن، چِهره عَبوس ک
+- er war auf jem. sauer; او از کِسى دِلگیر بود، - قَهرِش گِرِفت، ـ لَجِش گِرِفت، اوقاتَش بابَت ِ ... تَلخ شُد
+- eine saure Miene machen; .رو تُرش کَردَن، چِهره عَبوس ک
 - mit saurer Miene; مِثل ِ بُرج ِ زَهر ِ مار
 - jem. saures geben; اگَر ... با مُشت حال ِ کِسی را جا آوَردَن
 Sauerampfer; تُرشَک، حُماض
@@ -282,9 +282,9 @@ Saus;
 sausen;
 - von hier nach da sausen; از اینجا به آنجا شِتافتَن
 - etwas sausen lassen; از چیزى صَرف ِ نَظَر کَردَن
-- lass die Sache sausen; دور ِ آن کاررا خَط بِکِش
+- lass die Sache sausen; دُور ِ آن کاررا خَط بِکِش
 Saxophon; ساکسیفون
-Scanner;  (اِسکِنِر، پوِیشگَر (وَسیله‌ای بَرای ِ تَصویربَرداری
+Scanner;  (اِسکِنِر، پویِشگَر (وَسیله‌ای بَرای ِ تَصویربَرداری
 - Ganzkörperscanner; اسکنر ِ بَدَن نَما
 schaben; تَراشیدَن
 Schabernack; شوخی
