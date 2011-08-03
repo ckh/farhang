@@ -294,66 +294,67 @@ Schablone; شابلون، اُلگو
 Schach; شَطرَنج
 - Schach dem König; کیش دادَن
 - eine Partie Schach; يِک دَست ِ بازى ِ شَطرَنج
+- eine Partie Schach spielen; یِک دَست ِ شَطرَنج بازی کَردَن
 schachern; چیزى را با چَک و چانه از کِسى گِرِفتَن
 Schachfigur; مُهرهٔ شَطرَنج
-- Bauer; پیاده
+- Bauer; پیاده، سَرباز
 - Turm; رُخ
 - Springer; اَسب
 - Läufer; فیل
-- Dame; وِزیر
+- Dame; وَِزیر
 - König; شاه
 schachmatt; کیش و مات
 - jem. schachmatt setzen; کِسى را از پاى دَر آوَردَن
 Schachtel; جَعبه
-Schachtelhalm; دُم ِ اَسبیان
+Schachtelhalm; دُم ِ اَسبی
 schade; دَریغا، حِیف، اَفسوس
 - das ist echt schade; حِیف ِ حِیف است
 - schade, dass ...; حِیف که
 - wo du es schade findest, dass ...; که حِیفَت مى آيَد که
 Schädel; جَمجَمه، کاسهٔ سَر، آهیانه
-- jem. den Schädel einschlagen; دَک و دَندۀ کِسی را خُرد کَردَن
+- jem. den Schädel einschlagen; دَک و دَندهٔ کِسی را خُرد کَردَن
 - Dickschädel; کَله شَق
 schaden;
 - jem. schaden; ضَرَر رِسانیدَن به
-- blinder Eifer kann nur schaden; کوشِش ِ حَریصانه زیان بَخش است
-- es schadet nicht; زیان نَدارَد، ضَرَر ـ
+- blinder Eifer kann nur schaden; کوشِش  ِ حَریصانه زیان بَخش است
+- es schadet nicht; زیان نَدارَد، ضَرَر نَدارَد
 Schaden (m); ضَرَر، خِسارَت
-- Schaden erleiden; ضَرَر کِشیدَن، آسیب دیدَن، صَدَمه د
-- Schaden an Menschen & Material zufügen; ضَرَر ِ جانى و مالى رِساندَن، زَیانى به .. رِسیدَن، لَطمه زَدَن
+- Schaden erleiden; .ضَرَر کِشیدَن، آسیب دیدَن، صَدَمه د
+- Schaden an Menschen & Material zufügen; ضَرَر ِ جانى و مالى رِساندَن، زیانى به ... رِسیدَن، لَطمه زَدَن
 - aus Schaden wird man klug; بَعد از مُردَن ِ سُهراب نوش ِ دارو
-- Schäden, die den Menschen die Freiheit vorenthalten; مَضّار که آزادى از مَردُم دَریغ مى دارَند
+- Schäden, die den Menschen die Freiheit vorenthalten; مَضار که آزادى از مَردُم دَریغ مى دارَند
 - körperliche Schäden; ضايِعات ِ جِسمى، گَزَند ِ جِسمى
-Schadenersatz; غَرامَت، تاوان، تَلافى، جُبران ِ خِسارَت، رَفع ِ ـ
+Schadenersatz; غَرامَت، تاوان، تَلافى، جُبران ِ خِسارَت، رَفع ِ خِسارَت
 - jem. muss Schadenersatz leisten; کِسى بايَد جُبران ِ خِسارَت کَردَن، غَرامَت پَرداختَن
 Schadenfreude; شَماتَت، زَهرخَند
 schadenfroh;
 - schadenfroh sein; بَغَلَک زَدَن، حَقود بودَن
-chadensdeckung; جُبران ِ خِسارَت
+Schadensdeckung; جُبران ِ خِسارَت
 Schadenversicherung; بیمهٔ ضايِعات
 schadhaft; ناقِص
 schädigen; به کِسى ضَرَر زَدَن
 Schädigung; آسیب، ضَرَر
 schädlich; ضَرَر دار، مُضِر
-- schädliche Auswirkungen; اَثَرات ِ زیان بار، ـ زیان بَخش
+- schädliche Auswirkungen; اَثَرات ِ زیان بار، اَثَرات ِ زیان بَخش
 - schädlicher Dunst; بُخار ِ رَدیه
 Schädling; آفَت
 Schädlingsbefall; آفَت زَدِگی
 Schädlingsbekämpfung; دَفع ِ آفات
-Schadstoff; مادهٔ مُضِر، ـ صَمى
+Schadstoff; مادهٔ مُضِر، مادهٔ صَمى
 Schaf; گوسفَند، میش
 - er ist das schwarze Schaf in der Familie; او گاو ِ پیشانى ِ سِفید دَر فامیلِش است
 - Schäfchen zählen (beim Einschlafen); اَختَر شُمُردَن
 Schäfer; چوپان، شَبان
 Schäferhund; سَگ ِ گُرگى
 schaffen; ایجاد کَردَن، خَلق ک.، آفَریدَن
-- was hat er mit .. zu schaffen?; او چه حِساب خورده اى با .. دارَد؟
+- was hat er mit ... zu schaffen?; او چه حِساب خورده اى با ... دارَد؟
 - mit dir habe ich nichts zu schaffen; اَگَر پُشت ِ گوشَت را دیدى مَرا هم مى بینى
 - das macht ihm zu schaffen; چیزى را کَلافه اش مى کُنَد
 - diese Idee machte mir zu schaffen; این ایده مَرا رَنج مى داد
 - was ihm am meisten zu schaffen machte, war ...; آنچه بیشتَر از هَمه قَند تو دِلَش آب مى کَرد این بود که
 - er schafft es nicht; از او ساخته نیست، مُوَفَق نِمى شَوَد
 - ich habe meine Arbeit nicht geschafft; مَن ماندَم
-- aus dem Nichts etwas schaffen; چیزى را از عَدَم بِوُجود آوَردَن، ـ از نیستى به هَستى آوَردَن
+- aus dem Nichts etwas schaffen; چیزى را از عَدَم بِوُجود آوَردَن، چیزى را از نیستى به هَستى آوَردَن
 - wir schafften es nicht, alle Bestellungen auszuführen; از عُهدهٔ اَنجام ِ آنهَمهٔ سِفارِش بَر نِمى آمَدیم
 - geschaffen sein; آفرین بوده، خِلقَت شُده
 Schaffner; مُباشِر ِ قَطار
@@ -374,18 +375,20 @@ Schall; صِدا، صوت، طَنین
 - sein Vermögen in Schall & Rauch aufgehen lassen; دارائى ِ خودرا آتَش زَدَن
 Schalldämpfer; صِدا خَفِه کُن
 schalldicht; ضِد ِ صوت
+Schallgeschwindigkeit; سُرعَت ِ صوت
 Schallmauer; دیوار ِ صوتى
+- die Schallmauer durchbrechen; دیوار ِ صوتی را شِکَستَن
 Schallplatte; صَفحهٔ گرامافون
 Schallquelle; مولِد ِ صوت
 schallschluckend; میرائى صوت
 Schalmei; سُرنا
 Schaltbild; نَقشهٔ سیم کِشى
 schalten;
-- schalten & walten bei ..; دَر يِک جائى کیا بیائى کَردَن
+- schalten & walten bei ...; دَر يِک جائى کیا بیائى کَردَن
 - Schalten & Walten; اَمر و نَهى کَردَن
-- in den 3. Gang schalten; به دَنده سه زَدَن
+- in den 3. Gang schalten; به دَندهٔ سه زَدَن
 Schalter;
-- Fahrkartenschalter; باجهٔ فُروش ِ بِلیط، ـ گیشهٔ فُروش ِ ـ
+- Fahrkartenschalter; باجهٔ فُروش ِ بِلیط، گیشهٔ فُروش ِ بِلیط
 - Lichtschalter; کِلید ِ بَرق
 Schalthebel; دَستهٔ دَنده
 Schaltjahr; سال ِ کَبیسه
@@ -396,11 +399,11 @@ Scham; شَرم، خِجالَت
 schämen (s. -); عار داشتَن، شَرمسار شُدَن، خِجالَت کِشیدَن، مُنفَعِل بودَن
 - er schämt s.; اورا عار آيَد، او خِجالَت مى کِشَد
 - ich schäme mich; مَن رو سیاه هَستَم
-- der schämt s. überhaupt nicht mehr; شَرم و حَیا که نَدارَد، حِیا از چِشمهايَش رَفته
-- schäme dich nicht ihm gegenüber, weil ...;  ! چیزی نَداری؟ خِجالَت ِ اورا نَبین
-- s. wegen etwas schämen; از چیزى شَرمَنده و مَنفَعَل بودَن
+- der schämt s. überhaupt nicht mehr; شَرم و حَیا که نَدارَد، حَیا از چِشمهايَش رَفته
+- schäme dich nicht ihm gegenüber, weil ...;   چیزی نَداری؟ خِجالَت ِ اورا نَبین
+- s. wegen etwas schämen; از چیزى شَرمَنده و مَنفَعِل بودَن
 Schamgefühl; حِس ِ شَرمزَدِگى
-- ohne Schamgefühl sein; آب دَر دیده یا چِشم نَداشتَن،  بی شَرم  بودَن
+- ohne Schamgefühl sein; بی شَرم  بودَن
 Schamgegend; جاى ِ عانى، شَرمگاه
 schamhaft; شَرمَنده، خَجول
 Schamhaftigkeit; چِشم و رو، شَرمَندِگی
@@ -416,7 +419,7 @@ Schänder; هَتاک، مُتَخلِف
 schändlich; قَبیح، فَجیع، مَذموم
 - schändliches Verbrechen; جِنايَت ِ ناجَوانمَردانه
 Schandtat; شَرارَت، رجاسَت، قَباحَت
-- Schandtat begehen; شَرارَت بِعَمَل آوَردَن، رجاسَت ـ، قَباحَت ـ
+- Schandtat begehen; .شَرارَت بِعَمَل آوَردَن، رجاسَت بِعَمَل آ.، قَباحَت بِعَمَل آ
 Schändung; هَتک
 Schanze; سَکوی ِ پَرِش
 - Skischanze; سَکوى ِ پَرِش ِ اِسکى بازى
@@ -430,7 +433,7 @@ scharf;
 - er hat eine scharfe Zunge; زَبانَش تُند و تیز است
 - er ist scharf auf diese Arbeit; او وَسواس ِ کاررا دارَد
 - er ist ganz scharf auf Geld; او عاشِق ِ پول است
-- er war scharf auf ... (z.B.: auf ein Mädchen);  که او بَرايَش دَندان تیز کَرده بود ...
+- er war scharf auf ... (z.B.: auf ein Mädchen);  که او بَرايَش دَندان تیز کَرده بود
 - warum bist du so scharf darauf?; چِرا دَر این باره این هَمه اِصرار مى وَرزى؟
 - haarscharf entging ich dem Unfall; حِس می کُنَم تَصادُف از بیخ ِ گوشَم گُذَشت
 Scharfblick; ژَرف بینى، تیزبینى، بَصیرَت، فَطانَت
@@ -452,7 +455,7 @@ Schärpe; شال ِ گردن ِ نِظامى، حَمايِل
 Scharte; کَنگَره، تورَفتِگى
 schartig; دَنده دَنده
 scharwenzeln; پُشت ِ کِسی کَردَن
-- sie scharwenzeln hinter ... her; او  بَرای ِ ... پَس ِ کون تِلو می دَهَد
+- sie scharwenzelt hinter ... her; او  بَرای ِ ... پَس ِ کون تِلو می دَهَد
 Schaschlik; کَباب ِ سیخى، سیخ کَباب
 Schatten; سایه
 - in den Schatten gestellt von ...; تَحت اُلشُعاع شُده از
@@ -466,10 +469,12 @@ Schatz; گَنج
 schätzen;
 - etwas zu schätzen wissen; بَر چیزى اَرج نَهادَن، بَراى ِ چیزى اَرزش قائِل بودَن
 - das Gute lernt man erst zu schätzen, wenn man es nicht hat; آب ِ خوش بی تِشنِگی ناخوش است
-- um die Bücher zu schätzen (Preis); تا کِتابهارا مَظَنه بِزَنَد
+- die Bücher schätzen (Preis); کِتابهارا مَظَنه بِزَنَد، کِتابهارا قِیمَت گُذاری کَردَن
 - ich schätze ihn sehr; از او حِساب مى بَرَم، اورا اَرج مى گُذارَم
 - einschätzen; تَخمین زَدَن
 - etwas wertschätzen; چیزى را قَدردانى کَردَن، قَدر ِ چیزى را دانِستَن
+Schätzer; اَرزیاب
+- Schätzer bei Schadensfällen; اَرزیاب ِ خِسارَت
 Schatzkammer; خَزانه، بِیت اُلمال
 Schatzmeister; خَزانه دار، صَندوق دار
 Schätzung; تَخمین
@@ -491,25 +496,28 @@ schaudern;
 schauen; (präs.) نِگَرِستَن (مى نِگرَد)، نِگاه کَردَن
 - nach etwas schauen; هَواى ِ چیزى را داشتَن، دُنبال ِ چیزى نِگاه کَردَن، سُراغ ِ چیزى را گِرِفتَن، مُراقِب ِ چیزى بودَن
 - Warum schaust du mich so von der Seite an?; چِرا چَپ چَپ به مَن نِگاه مى کُنى؟
-- kurz bei dir reinschauen; يِک تِک ِ پا هَم مى آيَم به مَنزِلِت، يِک سَری به کِسی زَدَن
+- kurz bei dir reinschauen; يِک تِک ِ پا هَم مى آيَم به مَنزِلِت، يِک سَری به تو می زَنَم
 - bei jem. vorbeischauen; سَر از کِسى دَر آوَردَن
 Schauen (n); نِگاه
 Schauer; اِرتِعاش
 - ein Schauer läuft mir über den Rücken; لَرزه اى به پُشتَم دَوید، پُشتَم لَرزید
+- Regenschauer; رَگبار
 Schaufel; شِن کِش، خاک اَنداز
 Schaufenster; ویترین
 Schaukel; تاب، بانوج
 - Schiffschaukel; چَرخ و فَلَک
 Schaukelbewegung; تَکانهاى ِ گَهواره مانَند
-schaukeln; جُنباندَن
+schaukeln;
+- sie schaukeln auf der Schaukel; آنها تاب بازی می کُنَند
+- jem. auf der Schaukel schaukeln;  جُنباندَن، تاب دادَن
 - Wiege schaukeln; گَهواره را جُنباندَن
 - zwischen 2 Extremen hin- u. herschaukeln; بِین ِ دو حالَت ِ اِفراط و تَفریط نَوَسان کَردَن
 - ins Schaukeln kommen (z.B. im Bus); تاب خوردَن
-Schaukelpolitik; سیاسَت ِ نَوَسانى، ـ اَلله کُلَنگى
+Schaukelpolitik; سیاسَت ِ نَوَسانى، سیاسَت ِ اَلاکُلَنگى
 Schaukelstuhl; صَندَلى ِ راحَتى ِ تَکان خور
 Schaum; کَف
 - der Strand ist voller Schaum; ساحِل کَف آلود است
-- dem Pferd steht der Schaum auf dem Maul; لیزابۀ کَف ِ سِفید از دَهَن ِ اَسب جارى است
+- dem Pferd steht der Schaum auf dem Maul; لیزابهٔ کَف ِ سِفید از دَهَن ِ اَسب جارى است
 schäumen; کَف کَردَن، کَفیدَن
 schäumend; کَف دار
 Schaumgummi; اَبر
@@ -536,8 +544,8 @@ Scheide;
 - Scheide, Vagina; فَرج، مَهبَل
 - Scheide, Hülle; غِلاف
 - das Schwert in die Scheide stecken; شَمشیر غِلاف کَردَن
-scheiden (- s.); طَلاق دادَن
-- geschieden; مُطَلَق، طَلاق گرفته
+scheiden (s. -); طَلاق دادَن
+- geschieden; مُطَلَق، طَلاق گِرِفته
 - geschiedene Frau; زَن ِ مُطَلِقه
 - geschieden werden; طَلاق گِرِفتَن
 Scheidewand; جِداری
@@ -549,15 +557,15 @@ Scheidungsprozess; مُحاکِمهٔ طَلاق
 Schein;
 - Schein, Glanz; تابِش
 - den Schein wahren; تَظاهُر کَردَن
-Scheinangriff; حَملهٔ کاذِبه، ـ ظاهِرى، ـ مَغلَطه
+Scheinangriff; حَملهٔ کاذِبه، حَملهٔ ظاهِرى، حَملهٔ مَغلَطه
 scheinbar; اِحتِمالاً
-- zum scheinbaren Allgemeinwohl; به لَطايِف اُلحيَل
+- zum scheinbaren Allgemeinwohl; بِلِطافَط اُلحيل
 scheinen; دِرَخشیدَن، تابیدَن
 - Gruben, in die kein Licht scheint; مَغاکى که نورى بَر آنها نِمى تابَد
 - es scheint so, als ob; مِثل ِ این است که، که اِنگار ِ، به نَظَر مى رِسَد که
-- mir schien so, als ..; اَنگاشتَم که
+- mir schien so, als ...; اَنگاشتَم که
 - schien mir wichtig, dass ...; به نَظَرَم لازِم و بِجا آمَد که
-- mir scheint es, als wäre es gestern gewesen, dass ..; اِنگارى هَمین دیروز بود که
+- mir scheint es, als wäre es gestern gewesen, dass ...; اِنگارى هَمین دیروز بود که
 - mehr scheinen als sein; پُز ِ عالی جیب ِ خالی
 Scheingefechte; جَنگ ِ مَغلوطى
 scheinheilig; پارسا نَما، مُقَدَس نَما
@@ -572,11 +580,11 @@ Scheitel;
 - Haarscheitel; فَرق  ِ سَر
 - eine Scheitel ziehen; فَرق باز کَردَن
 - ich ziehe dir gleich einen Scheitel; خِشتَک را بِکِشَم سَرِت
-scheitern;  .مُوَفَق نَشُدَن، شِکَست خوردَن، لَطمه خوردَن، پُشت ِ پا خ
+scheitern;  .مُوَفَق نَشُدَن، شِکَست خوردَن، لَطمه خ.، پُشت ِ پا خ
 - gescheiterte Existenzen; آس و پاسها
 Scheitern (n); شِکَست، عَدَم ِ توفیق، عَدَم ِ مُوَفَقيَت
 - zum Scheitern verurteilt; مَحکوم به شِکَست بودَن
-Scheiterhaufen; تودهٔ هیزُم، اَنبار ِ ـ
+Scheiterhaufen; تودهٔ هیزُم، اَنبار ِ هیزُم
 Schelf;
 - Festlandschelf; پایهٔ خُشکى دَر دَریا، قارهٔ کَم عُمق دَر اُقیانوس
 Schelle;
@@ -590,7 +598,7 @@ schematisch; تَرسیمى، طَرحى
 Schemel; پاى اَنداز، چَهار پایه
 Schenke; مِی خانه، لُقانطه
 Schenkel;
-- Schenkel (bei Winkel); (pl.)  (ضِلع ِ زاویه (اَضلاع ِ
+- Schenkel (bei Winkel); (pl.)  (ضِلع ِ زاویه (اَضلاع
 - Oberschenkel; ران
 - Unterschenkel; ساق
 - schenkelhohe Stiefel; چَکمهٔ ساقه بُلَند
@@ -605,7 +613,7 @@ Schere; قِیچى
 scheren; قِیچى کَردَن
 - scheren (Schafschur); پَشم چینى کَردَن
 Schererei;
-- Scherereien verursachen; جَنگولَک بازى دَر آوَردَن، پِدَر ِ کِسی را دَر آوُردَن
+- Scherereien verursachen; جَنگولَک بازى دَر آوَردَن، پِدَر ِ کِسی را دَر آوَردَن
 - s. aus Scherereien rausziehen; خود را از مَخمَصه بیرون کِشیدَن
 Scherz; شوخى
 - schlechter Scherz; هَزل گوئى
@@ -623,35 +631,35 @@ scheu; سَربِزیر، کَمرو، کِناره گیر
 Scheu; حُجب
 scheuen;
 - scheuen (Pferd); رَم کَردَن
-- er scheut s. vor keiner Arbeit; او از هیچ کارى روگَردان نِمى شَوَد، ـ هیچ کاری نمى تَرسَد
+- er scheut s. vor keiner Arbeit; او از هیچ کارى روگَردان نِمى شَوَد، از هیچ کاری نمى تَرسَد
 - gebrannter Mensch scheut das Feuer; آدَم ِ مار گَزیده از ریسمان ِ سیاه و سِفید مى تَرسَد
 scheuern; سابیدَن
 - Topf mit Sand scheuern; دیگ را شِن مالى کَردَن
-- jem. eine scheuern; يِکی تو سَر کِسی زَدَن
-Scheune; اَنبار ِغله، کاهدان
+- jem. eine scheuern; يِکی تو سَر ِ کِسی زَدَن
+Scheune; اَنبار ِغَله، کاهدان
 Scheusal; هِیولا
 Schicht;
 - Schicht (gesellschaftl.); طَبَقه
 - Schicht (geolog.); لایه
 - Schicht (Früh-, Spät-);  (شیفت ( ـ ِ صُبح، ـ ِ شَب
 - in 2 Schichten arbeiten; دو شیفته کار کَردَن
-- einer herrschenden (polit.) Schicht von .. angehören; به نیابَت از ... مُتَعلِق بودَن
+- einer herrschenden (polit.) Schicht von ... angehören; به نیابَت از ... مُتَعلِق بودَن
 - ärmere Schichten; اَقشار ِ فَقیر
 - wohlhabende Schicht; قِشر ِ مُرَفَه
 - Berufsschicht; قِشر ِ شُغلى
-Schichtaufnahme (vom Knochen); تِکه بَردارى (از اُستُخوان
+Schichtaufnahme (vom Knochen); (تِکه بَردارى (از اُستُخوان
 schichtenspezifisch;
 - schichtenspezifisches Verhalten; رَفتار ِ طَبَقاتى
-Schichtung;
+Schichtung; قِشربَندى
 - berufliche Schichtung; قِشربَندى ِ شُغلى
 Schichtwechsel; تَعویض ِ شیفت
 schicken;
 - jem. auf den Weg schicken; کِسى را رَوانه کَردَن، ـ راهسِپَر کَردَن
-- jem. in die .. schicken, - jagen; کِسى را به ... واصِل کَردَن
+- jem. in die ... schicken, - jagen; کِسى را به ... واصِل کَردَن
 - jem. etwas schicken; چیزی را حَوالهٔ کِسی کَردَن
 - nach jem. schicken; دُنبال ِ کِسی فِرِستادَن
 - er schickte ihn an die Arbeit; او را به سَر کارِش فِرِستاد
-- er hatte das Recht, ihn nach Hause zu schicken (als Strafe); او حَق داشت گورَش را گَم کُنَد
+- er hatte das Recht, ihn nach Hause zu schicken (als Strafe); او حَق داشت گورَش را گُم کُنَد
 - schick, wen du willst; بِفِرِستى بِدَست ِ هَر که مى فِرِستى
 - jem. hin - und herschicken (z.B. bei der Behörde); کِسی را پاس دادَن
 Schicksal; مُقَدَرات، تَقدیر، سَرنِوِشت
@@ -659,13 +667,13 @@ Schicksal; مُقَدَرات، تَقدیر، سَرنِوِشت
 - s. in sein Schicksal ergeben; خودرا تَسلیم ِ سَرنِوِشت کَردَن، خودرا به دَست ِ سَرنِوِشت سِپُردَن
 Schicksalsgemeinschaft; هَم دوشى
 schicksalshaft; سَرنِوِشت ساز
-Schicksalsschläge; صَدَمات ِ مُقَرَرات
+Schicksalsschläge; صَدَمات ِ مُقَدَرات
 Schiebebühne; صَحنهٔ اِنتِقالى
 Schiebedach; سَقف ِ کِشوئى
 schieben; هُل دادَن
 - etwas zur Seite schieben; چیزى را کِنار زَدَن
 - auf die lange Bank schieben; دَر طاق ِ نِسیان گُذاشتَن، به دَست ِ فَراموشى سِپُردَن
-- alles, was passiert ist, schiebst du Gott in die Schuhe; هَر اِتِفاقى که اَُفتاده به حِساب ِ خُدا مى گُذارى، ـ به گَردَن ِ خُدا ـ
+- alles, was passiert ist, schiebst du Gott in die Schuhe; هَر اِتِفاقى که اَُفتاده به حِساب ِ (یا: گَردَن) خُدا مى گُذارى
 Schieber; مُحتَکِر، دَریچه
 - Schieber, Betrüger; قاچاقچی
 Schiebetür; دَر ِ کِشوئى
@@ -705,7 +713,7 @@ Schiesserei; تیراَندازى
 Schiessplatz; مِیدان ِ تیر اَندازى
 Schiff; کِشتى، جَهاز
 - 5 Schiffe; پَنج فَروَند ِ کِشتى
-- Segelschiff; کِشتى ِ بادى، جَهاز ِ ـ
+- Segelschiff; کِشتى ِ بادى، جَهاز ِ بادى
 Schifffahrt; کِشتیرانى
 Schiffbruch; کِشتى شِکَستِگى
 - Schiffbruch erleiden (alleg.); شِکَست خوردَن
@@ -2515,7 +2523,7 @@ Sonne; آفتاب، خُورشید
 - die Sonne scheint; هَوا آفتابى است، آفتاب است، آفتاب مى تابَد
 - beim ersten Strahl der Sonne; هَمینکه آفتاب تیغ زَد
 - der Sonne zugewandt (z.B. ein Zimmer); اُتاق آفتاب رو است، - آفتاب گیر
-sonnen (- s.); آفتاب خوردَن
+sonnen (s. -); آفتاب خوردَن
 Sonnenaufgang; اَذان ِ صُبح، طُلوع ِ خُرشید
 - bei Sonnenaufgang; با سَر زَدَن ِ خُرشید
 sonnenbestrahlt; آفتابرو
@@ -2789,7 +2797,7 @@ Spiegel; آئینه
 - Wasserspiegel; سَطح ِ آب
 - als wenn ich in einen Zerrspiegel schauen würde; مِثل ِ اینکه عَکس ِ مَن توی ِ آئینهٔ دِق اُفتاده باشَد
 Spiegelbild; تَصویر ِ آئینه اى با طَرَفِین ِ مَعکوس، تَصویر ِ قَرینه
-spiegeln (- s.); مُنَعکِس شُدَن
+spiegeln (s. -); مُنَعکِس شُدَن
 Spiegelung; اِنعِکاس
 spiegelverkehrt; قَرینهٔ مَعکوس شُده
 Spiel; بازى
@@ -3772,7 +3780,7 @@ Strategie; اِستراتِژى، راهبُرد، نیروبُرد، سوق ا�
 strategisch; از دید ِ اِستراتِژی
 - die strategische Lage eines Landes; موقِعيَت ِ سوق اُلجِیشى ِ مَنطَقه
 Stratosphäre; اِستراتوسفِر، گُلخانه
-sträuben (- s.); سیخ شُدَن، مُقاوِمَت کَردَن
+sträuben (s. -); سیخ شُدَن، مُقاوِمَت کَردَن
 Strauch; بوته
 - (trockener) Strauch (z.B. Wüstengewächs); دِرَخت ِ عَرعَر
 straucheln;  .پیل پیلى رَفتَن، پا لیز خوردَن، سِکَندَرى خ
