@@ -754,7 +754,7 @@ schimpfen;
 Schimpfwort; دُشنام، کَلَمات ِ ناهَنجار، فُحش
 - kräftige Schimpfworte; فُحش ِ آبدارى
 - jem. mit Schimpfworten belegen; کِسى را مورِد ِ عِتاب و خِطاب قَرار دادَن
-Schindel; توفال، تَخته پوش شُده
+Schindel; توفال، تَختهٔ پوش شُده
 - mit Schindel bedecken; توفال کوبى کَردَن
 schinden; کِسى را زَجر کَردَن، شِکَنجه ک.، ـ آزار رِساندَن، آش بَراى ِ کِسى پُختَن
 Schinder; جَفا کار
@@ -768,14 +768,14 @@ Schirm; چَتر
 Schirmherrschaft; تَوَجُهات، حِمايَت
 - unter der Schirmherrschaft; دَر ظِل ِ تَوَجُهات، تَحت ِ حِمايَت
 Schirmspitze; نوک ِ چَتر
-Schizophrenie; تَفرِقۀ شُعور، ـ هُويَت، بیمارى ِ رَوانى ِ چَند شَخصيَتى
-Schlacht; مُقاتِله، نَبَرد، غَزوه، مُعَرکه
+Schizophrenie; تَفرِقهٔ شُعور، تَفرِقهٔ هُويَت، بیمارى ِ رَوانى ِ چَند شَخصيَتى
+Schlacht; مُقاتِله، نَبَرد، غَزوه
 Schlachtbank;
 - jem. zur Schlachtbank führen; کِسى را به جَلاد تَسلیم کَردَن
 schlachten;  .سَلاخى کَردَن، ذِبح ک
 - jem. wird geschlachtet; کِسى سَلاخى میشَوَد
 Schlachter; سَلاخ
-Schlachtfeld; مِیدان ِ جَنگ، عَرصهٔ ـ
+Schlachtfeld; مِیدان ِ جَنگ، عَرصهٔ جَنگ
 - auf dem Schlachtfeld erscheinen; قَدَم به عَرصهٔ جَنگ گُذاشتَن
 Schlachthof; مَسلَخ
 Schlachtopfer; (pl.) ذَبیحه (ذبايِح)، قُربان
@@ -783,7 +783,7 @@ Schlachtreihe; صَف آرائی
 - Schlachtreihe aufstellen; بَرای ِ جَنگ صَف آرائی کَردَن
 Schlacke; سَرباره، جِرم
 schlackern (vor Kälte); بیدبید لَرزیدَن
-Schlaf; غُنَو، خُفت، خواب، نَوم
+Schlaf; (qonaw) خُفت، خواب، نَوم، غُنَو 
 - Schlaf übermannte ihn;  .چُرتِش گِرِفت، خوابِش گ
 - jem. aus dem Schlaf reißen; از خواب پَراندَن، چُرت ِ کِسی را پاره کَردَن
 - jem. am Schlaf hindern; خواب ِ کِسی را گِرِفتَن
@@ -810,7 +810,7 @@ Schlaflosigkeit; بیخوابى
 - an Schlaflosigkeit leiden; بی خوابی کِشیدَن
 Schlafmütze; اَلدَنگ، چُرتی
 schläfrig; خواب آلود
-- ich wurde schläfrig; خَسته ام بود
+- ich wurde schläfrig; خَسته ام شُد، خوابَم گِرِفت
 Schlafsack; کیسهٔ خواب
 Schlafstörung; بَدخواب
 - unter Schlafstörung leiden; بَدخواب شُدَن، بیدار خوابی کِشیدَن
@@ -819,16 +819,16 @@ Schlaftablette; قُرص ِ خواب آوَر
 Schlafwandeln; (noumi) ماه زَدِگى، اِنتِقال ِ نومى
 Schlafwandler; خوابگَرد
 Schlag;
-- jem. einen Schlag versetzen; کِسى را سُقُلُمه زَدَن، ضَربه به .. زَدَن، لَطمه زَدَن، لَت کَردَن، توى ِ سَر ِ کِسى زَدَن، از پا دَر آوَردَن
+- jem. einen Schlag versetzen; کِسى را سُقُلُمه زَدَن، ضَربه به ... زَدَن، لَطمه زَدَن، لَت کَردَن، توى ِ سَر ِ کِسى زَدَن، از پا دَر آوَردَن
 - Schlag versetzt bekommen; لَطمه خوردَن، هول خوردَن
 - Leute vom gleichen Schlag; هَمطَراز ِ اَشخاص
 - Zwei Fliegen mit einem Schlag; با يِک تیر دو نِشان زَدَن
-- ein schwerer Schlag ereilte sie; بَد اِقبالی سَر رِسید
+- ein schwerer Schlag ereilte sie; بَد اِقبالی سَر  رِسید
 - Schläge einstecken;  .لَت خوردَن، ضَربه خ
 - Nackenschlag; قَفا، پَس گَردَنی
 - Stockschläge; ضَربه هاى ِ چوب
-- jem. Stockschläge auf die Hand geben;  (کَف ِ دَست ِ کِسى را تَرکه زَدَن، پُشت دَستِی زَدَن (با چوب
-- Stockschläge (bes. auf Füße); چب و فَلَک
+- jem. Stockschläge auf die Hand geben;  کَف ِ دَست ِ کِسى را تَرکه زَدَن، پُشت دَستِی زَدَن با چوب
+- Stockschläge (bes. auf Füße); چوب و فَلَک
 Schlagader; سُرخرَگ، شَریان، شاهرَگ
 Schlaganfall; سِکته
 schlagartig;
@@ -843,7 +843,7 @@ schlagen;  .زَدَن، ضَربه زَدَن، کُتَک ز
 - jem. mit Krankheit schlagen; کِسى را به مَرَض مُبتَلا کَردَن
 - schlag dir die Sache aus dem Kopf; این چیزهارا از کَله اَت به دَر زَن
 - einen Halbkreis schlagen; نیمدایِِره زَدَن
-- die Uhr schlägt 12; ساعَت، زَنگ ِ دوازده را مى زَنَد، ـ مى نَوازَد، ساعَت دَوازدَه ضَربه مى نَوازَد
+- die Uhr schlägt 12; ساعَت زَنگ ِ دوازده را مى زَنَد، ـ مى نَوازَد، ساعَت دَوازدَه ضَربه مى نَوازَد
 - geschlagen; مَصدوم، مَضروب
 - Stelle, auf die geschlagen wurde; جاى ِ ضَرب دیده
 Schlager; تَصنیف
@@ -856,16 +856,17 @@ schlagfertig; زِبَر و زِرَنگ، تیز هوش، حاضِر جَواب
 Schlagfestigkeit; اِستِحکام ِ ضَربه خورى
 Schlagkraft; نیروى ِ ضَربَتى
 Schlagloch; دَست اَنداز، چاله چوله دَر خیابان
-Schlagring; پَنجه بوکس
+Schlagring; پَنجهٔ بوکس
 Schlagzeile; رأس ِ مَطلَب، تیتر ِ دُرُشت
 - aus den Schlagzeilen herauskommen; از کانون ِ تَوَجُه بیرون آمَدَن
+schlaksig; لَندوک، دِراز و باریک
 Schlamm; لَجَن، سیاه آب، آب مُرده، گِل
-Schlampe; زَن ِ شِلَخته، ـ زانیه، عَجوزه، پَتیاره
+Schlampe; زَن ِ شِلَخته، زَن ِ زانیه، عَجوزه، پَتیاره
 Schlamper; شِلَخته
 Schlamperei; مُسامِحه، سُنبُل کارى، سَهل اِنگارى، شِلَختِگی
 schlampig; لااُبالى، بى مُبالاتى، شِلَخته، ریغو، جُلُنبُر
 - schlampige (i.S. fehlerhafte) Antwort geben; جَواب ِ سَر بالا دادَن
-- dessen äusseres schlampig aussah; او که حِیکَلِش به جاهِلان مى رَفت
+- dessen Äusseres schlampig aussah; او که حِیکَلِش به جاهِلان مى رَفت
 Schlange; مار
 - Schlange stehen; دَر صَف ایستادَن
 schlängeln;
@@ -878,14 +879,14 @@ schlapp; سُست، ضَعیف
 Schlappschwanz; آدَم ِ کون ِ گُشاد
 schlau; مُحیل، زیرَک، با هوش، زِرَنگ
 - daraus wird keiner schlau; هیچکَس از این موضوع مَسبوق نِمى شَوَد
-- aus deinem Reden werde ich nicht schlau; مَن از حَرفَت سَر دَر نِمى آوَرَم، سَر از سَر و سوتَت ـ
-Schlauberger; آدَم ِ گَنده مَغز
+- aus deinem Reden werde ich nicht schlau; مَن از حَرفَت سَر دَر نِمى آوَرَم، سَر از سَر و سوتَت دَر نِمى آوَرَم
+Schlauberger; آدَم ِ گُنده مَغز
 Schlauch;
 - Schlauch (von Reifen); تیوب، تیوپ، توئى
 - Gartenschlauch; شِلَنگ
 - Trinkschlauch; مَشک، میله، لوله
 - Weinschlauch; خیک
-Schlauchboot; قايِق ِ بادى
+Schlauchboot; قايِق ِ لاستیکى
 schlauchlos;
 - schlauchloser Reifen; لاستیک بِدون ِ تیوب
 Schläue;
@@ -899,15 +900,15 @@ schlecht;
 - den Menschen wird schlecht; آدَم سَر گیج مى اُفتَد
 - das Essen ist schlecht; غَذا خَراب است
 - wenn ich das sehe, wird mir schlecht; از دیدَن ِ آن عُقَم مى گیرَد
-- die Luft ist schlecht; هَوا بَد است، ـ آلوده است
+- die Luft ist schlecht; هَوا بَد است، هَوا آلوده است
 - schlechte Erfahrung; تَجرُبهٔ تَلخى
-- es war ein schlechter Morgen; يِک روز صُبح بَد جوری
+- es war ein schlechter Morgen; يِک روز ِ صُبح ِ بَد جوری
 - schlechte Zeiten; وَقت ِ اَسَف بار
 - unsere materielle Lage war schlecht; وَضع ِ مالى ِ خودِمان هَم چَنگى به دِل نِمى زَد
 schlecken; لیس زَدَن
 schleichen; دُزدَکى راه رَفتَن، نوک ِ پا رَفتَن
 - müde schleichen; به کُندى پیش رَفتَن
-- schleichende Inflation; تَوَرُم ِ خَزَنده، ـ تَدریجى
+- schleichende Inflation; تَوَرُم ِ خَزَنده، تَوَرُم ِ تَدریجى
 - herumschleichen; پا سَبُک بودَن
 Schleichvorschub; تَغذیهٔ خَزِشى
 Schleichweg; راه ِ مَخفى
@@ -957,7 +958,7 @@ schleudern;
 - Schuhe von den Füssen schleudern; کَفشها با تُک ِ پا اَنداختَن
 - das Auto schleudert; ماشین چَرخ مى خورَد
 - geschleudert werden; مُعَلَق شُدَن
-- jem. ins Schleudern bringen (allegor.); پوست ِ خَربُزه زیر پای ِ کِسی گُذاشتَن
+- jem. ins Schleudern bringen (allegor.); پوست ِ خَربُزه زیر ِ پای ِ کِسی گُذاشتَن
 Schleuderpreis;
 - die Sachen zum Schleuderpreis verkaufen; قِیمَت ِ قالى را مى کََرد يِِک سِکهٔ سیاه
 Schleuse; آب بَند
@@ -970,7 +971,7 @@ schlichten;
 - Streik schlichten; بَراى ِ فِیصَلهٔ اِعتِصابى داوَرى کَردَن
 - einen Streitfall schlichten; دَر يِک دَعَوا داورَى کَردَن، ـ وَساطَت کَردَن
 Schlichter; داوَر، واسِطه، مُصالِحِه
-Schlichtheit; بى پیرایگى، سادِگى، بى رَنگ و جِلوه
+Schlichtheit; بى پیرایِگى، سادِگى، بى رَنگ و جِلوه
 Schlichtungsstelle; هَیئَت ِ حَل ِ اِختِلاف، هَیئَت ِ داوَرى
 Schlichtungsurkunde; رِضايَت نامه
 Schlick; گِل، گِل آب
@@ -995,13 +996,13 @@ schlimm; بَد، ناجور
 - das macht die Sache nur noch schlimmer; قوز بالاى ِ قوز کَردَن
 - jährlich wird es schlimmer; سال به سال دَریغ از پارسال
 Schlinge; کَمَند
-- die Schlinge um .. werfen; کَمَند بَر کِسى اَفکَندَن
+- die Schlinge um ... werfen; کَمَند بَر کِسى اَفکَندَن
 Schlingel; شوخ ِ عَیار، شوخ ِ شوخان ِ شوخ، حُقه باز
 schlingen;
 - beim Essen schlingen; لُقمه زَدَن، غورت دادَن
 Schlips; کراوات
 Schlitten; سورتِمه
-Schlittschuh; کَفش ِ پاتیناژ، ـ يَخبازى
+Schlittschuh; کَفش ِ پاتیناژ، کَفش ِ يَخبازى
 Schlittschuhlaufen; یخ بازى کَردَن
 Schlitz; شِکاف، دَرز
 - Briefkastenschlitz; شِکاف ِ صَندوق ِ پُستى
@@ -1056,10 +1057,10 @@ Schlüssel; کِلید
 - Hauptschlüssel; شاه کِلید
 Schlüsselbein; آخُرَک، اُستُخوان ِ تَرقُوه
 Schlüsselbund; دَستهٔ کِلید، دَر و بَند ِ کِلید
-Schlüsselfrage; مَسئَلهٔ اَصلى، ـ مِحوَرى
+Schlüsselfrage; مَسئَلهٔ اَصلى، مَسئَلهٔ مِحوَرى
 Schlüsselfunktion; وَظیفهٔ اَساسى
 Schlüsselposition; مَقام ِ کِلیدى
-Schlüsselrolle; نَقش ِ اَساسى، ـ کِلیدى
+Schlüsselrolle; نَقش ِ اَساسى، نَقش ِ کِلیدى
 schlussendlich; سَر اَنجام، لِذا، خُلاصه، آخَر ِ سَر
 - schlussendlich starben sie; و عاقِبَت مُردَند
 schlussfolgern; از قِصه حِصه گِرِفتَن، اِستِنباط کَردَن
@@ -1567,6 +1568,7 @@ Schussweite; تیر رَس، بُرد ِ تیر
 - auf Schussweite sein; دَر تیر رَس بودَن
 - auf Schussweite herangehen; تیر رَس شُدَن
 Schuster; کَفاش
+- Schuster bleib bei deinem leisten; کَلاغ خواست راه رَفتَن ِ کَبک را ياد بِگيره راه رَفتَن ِ خودِش هَم يادِش رَفت
 - Flickschuster; کَفش دوزَک، پینه دوز
 Schutt; آشغال
 - alles liegt in Schutt & Asche; هَمه چیز خَراب است، ـ ویران شُد
@@ -4045,6 +4047,7 @@ suchen;
 - suche nicht nach einem Grund; دَر پِى ِ دَلیل نَباش
 - sie suchen eine Gelegenheit; آنها مُتَرَصِد هَستَند، آنها دَر صَدَد ِ فُرصَت مى شَوَند
 - ich fand, was ich suchte; آنچه دَر طَلَبِش بودَم به کَف آوَردَم
+- jeder sucht sich seinesgleichen; کور کور را می جويَد آب گودال را، آب آب را پِیدا می کُنَد آدَم آدَم را، آب آب را می ‌جویَد كور عَصا را، آب آب را می‌ جویَد گودال هَر دو را
 - jem. aufsuchen; به سُراغ ِ کِسى رَفتَن
 - suchend ging ich durch die Menge; کورمال از لاى ِ مَردُم گُذَشتَم
 Suchmaschine (comp.); جُستِجوگَر

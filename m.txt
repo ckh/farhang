@@ -306,8 +306,9 @@ Masern; سُرخَک
 - an Masern erkranken; سُرخَک دَر آوَردَن
 Maske; نِقاب، ماسک
 - Gasmaske; ماسک ِ مُحافِظَتى
-Mass; اَندازه، میزان
-- mit einem Mass an ... weitermachen; با ضَریب ِ ... اِدامه یافتن
+Maß; اَندازه، میزان
+- mit einem Maß an ... weitermachen; با ضَریب ِ ... اِدامه یافتن
+- alles mit Maßen; کَم بُخور هَميشه بُخور
 Massage; ماساژ، مُشت و مال
 Massaker; سَلاخى، قَتل ِ عام، کُشت و کُشتار
 Masse; اَنبوه، خِیلى زیاد، توده
