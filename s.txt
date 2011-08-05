@@ -1085,7 +1085,7 @@ Schmähung; سَب، فُحش، توهین
 schmal; تَنگ، باریک
 - schmales Bett; تَختِخواب ِ کَم عَرض
 Schmalz; پیه
-- Gänseschmalz; پیه غاز
+- Gänseschmalz; پیه ِ غاز
 Schmarotzer; سورچَران، نیزه باز، مُفت خور، اَنگَل
 - sie leben als Schmarotzer; آنها به طُفِیل ِ دیگَران زِندِگى مى کُنَند، آنها اَنگَل ِ دیگَران هَستَند
 Schmarotzertum; طُفِیلى پَروَرى
@@ -1100,16 +1100,16 @@ schmecken;
 - die Kirschen aus Nachbars Garten schmecken am besten; مَنع چو بینَد حَریص تَر شَوَد اِنسان
 - der Wurm muss dem Fisch schmecken, nicht dem Angler; عَلَف بايَد به دَهَن ِ بُزی سیری بیايَد
 Schmeichelei; تَمَلُق، چاپلوسى، هِندِوانه، زَبان بازى
-schmeicheln (- jem.); به کِسى مُداهَنه کَردَن، کِسى را خایه مالى ک.، ـ چاپلوسى ک.، تَمَلُق ک.، هِندِوانه زیر ِ بَغَل ِ کِسی گُذاشتَن، بادِنجان دور ِ قاب ِ کِسی چیدَن
+schmeicheln (jem. -); به کِسى مُداهَنه کَردَن، کِسى را خایه مالى ک.، ـ چاپلوسى ک.، تَمَلُق ک.، هِندِوانه زیر ِ بَغَل ِ کِسی گُذاشتَن، بادِنجان دور ِ قاب ِ کِسی چیدَن
 - mit schmeichelnden Blicken; با چِشمهاى ِ تَحسین آمیز
 schmeichlerisch; خوش زَبان، چاپلوسانه
 - schmeichlerisch & kokett; ناز و غَمزه اى
 schmeissen; پَرتاب کَردَن
 - er schmeisst s. auf den Boden; او روى ِ زَمین وِلو کَرد
 Schmelz; لُعاب
-- Zahnschmelz; میناى ِ دَندان، لُعاب ِ ـ
+- Zahnschmelz; میناى ِ دَندان، لُعاب ِ دَندان
 Schmelzbereich; حوضهٔ مُذاب
-schmelzen; قال گُذاشتَن، گُداختن، آب شُدَن، ذوب کَردَن
+schmelzen; قال گُذاشتَن، گُداختَن، آب شُدَن، ذوب کَردَن
 - geschmolzenes Material; مَواد ِ مُذاب
 - er schmilzt dahin; دِلِش آب می شَوَد
 - ich schmolz dahin, während er redete; طَرز ِ گُفتَنِش قَند تو دِلَم آب کَرد
@@ -1126,6 +1126,7 @@ schmerzen; تیر کِشیدَن، دَرد گِرِفتَن، دَرد آمَد
 Schmerzensgeld; غَرامَت ِ آسیب دیدِگى
 schmerzlich; دَرد اَنگیز، رَنج آوَر
 schmerzlindernd; دَردچین
+schmerzstillend; مُسَکِن، تَسکین کُنَنده
 - schmerzstillende Tablette; قُرص ِ مُسَکِن
 Schmetterling; پَروانه
 Schmied; آهَنگَر
@@ -1141,7 +1142,7 @@ Schmierfette; دُهُنیات
 Schmierfilm; قِشر ِ جَربى
 Schmiergeld; رِشوه، آجیل، حَقانه
 - Schmiergeld zahlen;  .مایه گُذاشتَن، رِشوه دادَن، آجیل د
-- hier musst du Schmiergeld zahlen; اینجا بايَد چیزى سُرفید
+- hier musst du Schmiergeld zahlen; (infin.) (اینجا بايَد چیزى سُرفید (سُرفیدَن
 Schmierheft; مُسَوَده
 schmierig; چَرب و چیلی، روغَنی
 - schmieriger Typ; آدَم ِ جُلُنبُر
@@ -1169,9 +1170,9 @@ Schmuggel; قاچاق
 schmuggeln; قاچاق کَردَن
 Schmuggelware; اَجناس ِ قاچَاق
 Schmuggler; قاچاقچى
-schmusen;  .ناز کَردَن، - و نَوازِش ک
+schmusen;  .ناز کَردَن، ناز و نَوازِش ک
 Schmutz; رِجاسَت، کِثافَت
-schmutzabweisend; چِرک تاب
+schmutzabweisend (Farbe); رَنگ ِ چرک تاب
 Schmutzfink; پِسَرَک ِ جُلُنبُر
 schmutzig; کَثیف، آلوده
 - schmutzige Bilder; عَکسهاى ِ مُفتَضَح، - رَکیک
@@ -1204,7 +1205,7 @@ Schneeball; گُلولهٔ بَرفى
 schneebedeckt; بَرفپوش
 - schneebedeckte Erde; زَمین ِ بَرفپوش
 Schneebesen; تُخم ِ مُرغ بِهَم زَن
-Schneeflocken; دانه هاى ِ پُفى بَرف
+Schneeflocken; دانه هاى ِ پُفى ِ بَرف
 Schneegestöber; سوزبَرف
 - Schneegestöber (als Störung beim Bildschirm); بَرفَک
 Schneemann; آدَمَک ِ بَرفى
@@ -1231,18 +1232,18 @@ schnell;
 - ganz schnell, überstürzt; هول هولَکی، تُند تُند، با دَستپاچِگی
 - er macht schnell; خِیلى هُل مى زَنَد
 - schnelles Eingreifen; دِخالَت ِ فى الفور
-- schneller laufen; تُندتَر کَردَن
 - schnelle Eingreifstruppe; نیروى ِ مُداخِلهٔ سَریع
+- schneller laufen; تُندتَر کَردَن
 - schneller Entschluss; تَصمیم ِ آنى
 - schneller sein, zuvorkommen; پیشدَستى کَردَن
 - seine Bewegungen werden schneller; حَرَکاتَش فِرزتَر مى شَوَد
 - schnelles Pferd; اَسب ِ راهوار
 - auf die Schnelle; به سُرعَت، فى الفور
-schnellfüssig; تیزرُو، تیزپا
+schnellfüßig; تیزرُو، تیزپا
 Schnelligkeit; سُرعَت
 Schnellkochtopf; دیگ ِ بَرقى ِ زود پَز
 Schnellkraft; قُوهٔ فَنَر، فَنَريَت
-Schnellverfahren; دادرِسى اِختِصارى
+Schnellverfahren; دادرِسى ِ اِختِصارى
 Schnellzug; قَطار ِ سَریع اُلسِیر
 schneuzen; بینى را فین کَردَن، ـ خالى ک.، دَماغ گِرِفتَن
 schneuzend; فین فین کَنان
@@ -1260,19 +1261,19 @@ Schnittlauch; تَره
 Schnittmuster; اُلگوى ِ خَیاطى
 Schnittpunkt; نُقطهٔ تَقاطُع، ـ بُرِش
 Schnittstelle; مُقاطِع
-- sie sassen an den Schnittstellen der ..; مَسئولین دَر مَقاطِعى از
+- sie sassen an den Schnittstellen der ...; مَسئولین دَر مَقاطِعى از
 Schnittwunden; زَخمهاى ِ چَپ اَندَر راست
 schnitzen; تَراش دادَن
 Schnitzer; اِشتِباه
 - Schnitzer, Holzbearbeiter; کَنده کار
 - ein dicker Schnitzer; اِشتِباه ِ گُنده، ـ لُپى
 Schnitzerei; کَنده کارى
-schnorcheln; غوطه کَردَن با لوله هَوا
+schnorcheln; غوطه کَردَن با لولهٔ هَوا
 Schnorrer; مُفت خور
 schnüffeln; اِستِشمام کَردَن
 Schnuller; پِستانَک
 Schnupfen; نَزله، زُکام
-- ich habe Schnupfen; نَزله کردم، زُکام ک
+- ich habe Schnupfen; .نَزله کَردَم، زُکام ک
 - er bekommt Schnupfen; زُکام مى شَوَد
 Schnupftabak; اَنفیه
 Schnur; سیم، نَخ، بَند
@@ -1294,10 +1295,10 @@ schon;
 - wenn schon, denn schon; یا رو میرَم یا زَنگى ِ زَنگ
 - was ist schon dabei?; مَگه چى شُده؟
 schön; زیبا، قَشَنگ
-- s. schön machen; زیوَر دادَن، زینَت ـ
+- s. schön machen; .زیوَر دادَن، زینَت د
 - hier ist es schön warm; اینجا خوب گَرم است
 - jedes Mal, wenn ich dich sehe, bist du schöner als das Mal vorher (Sadi);   هَر نوبَتَم که دَر نَظَر اى ماه بُگذَرى بار ِ دُوُم ز ِ بار ِ نَخُستین نیکوتَرى
-- Schöne Künste; صَنايِع ِ مُستَظرِفه، ـ ظَریف
+- Schöne Künste; صَنايِع ِ مُستَظرِفه، صَنايِع ِ ظَریف
 Schonbezug; روکِش، سَرپوشیده، کاپوت
 schonen; بَر کِسى تَرَحُم کَردَن، کِسى را دَریغ کَردَن، بَر کِسى شَفَقَت داشتَن
 - schone meiner!; بَر مَن شَفَقَت فَرما
@@ -1351,6 +1352,7 @@ Schrägrampe; سَطح ِ مايِل، ـ مُوَرِب
 Schrägschnitt; بُرِش ِ مايِل
 Schrägung; پَخ
 Schramme; شَخا، خَراش، زَخم
+Schrank;
 - Küchenschrank; کابینِت
 - Nachtschrank; پاتَختی
 - Wohnzimmerschrank; کُمُد ِ دِکُر، ـ تَزیین
@@ -1372,8 +1374,7 @@ Schraubstock; گیره، مَنکَنه
 Schraubzwinge; پیچ دَستى
 Schrecken; وَحشَت، تَرس، شَم
 - lieber ein Ende mit Schrecken, als ein Schrecken ohne Ende; جَنگ ِ اول به از صُلح ِ آخَر
-Schreckfänger;
-- Schreckfänger (als Feldzeichen); شَمگیر
+Schreckfänger (Unheilsabwender als Feldzeichen); شَمگیر
 Schreckgespenst;
 - Schreckgespenst, "Schwarzer Mann"; لولو، بَختَک
 schrecklich; مَخوف، تَرس آوَر، سَهمناک
@@ -1385,7 +1386,7 @@ Schrei; فَریاد
 - entsetzlicher Schrei; فَریاد ِ هَراس آوَر
 - Schrei ausstossen; نَعره کِشیدَن، صَحیه زَدَن
 schreiben; کِتابَت کَردَن، نِوِشتَن، مَرقوم فَرمودَن، لَفظ را به قَلَم آوَردَن
-- ich kann seitenweise darüber schreiben; مَن می تَوانَم يِک عالِمه را از این چیزها بِنّویسَم
+- ich kann seitenweise darüber schreiben; مَن می تَوانَم يِک عالِمه را از این چیزها بِنِویسَم
 - abschreiben; رونِویسى کَردَن
 - von irgendwo herausschreiben; بیرون نِویسى کَردَن
 Schreiben (n); کِتابَت، نامه، نِوِشت
@@ -1394,7 +1395,7 @@ Schreiber; کاتِب، مُنشى، نِویسَنده
 Schreiberling; قَلَم فَرسا
 Schreibfeder; قَلَم
 Schreibmaschine; ماشین ِ تَحریرى
-Schreibtafel; (pl.) لوحه، لوح (اَلواح)، لوحه
+Schreibtafel; (pl.) لوح (اَلواح)، لوحه
 Schreibtisch; میز ِ تَحریر
 Schreibtischmensch; آدَم ِ پُشت ِ میز نِشین
 Schreibwaren; لَوازِم اُلتَحریر
@@ -1412,12 +1413,11 @@ Schrieb (popul.); کاغَذ، نِوِشت
 Schrift; خَط، دَستخَط
 - seine Schrift ist schön; دَستخَطِش قَشنگ است
 Schriftführer; مُنشى
-schriftkundig;
-- schriftkundig sein; سَواد بودَن
+schriftkundig (sein); (سَواد (بودَن
 schriftlich; کُتبى، به رِشتهٔ تَحریر
 - schriftlich etwas festhalten; قِید کَردَن،  قَلَمداد ک.، دَرج گَرداندَن، چیزى را به رِشتهٔ تَحریر دَر آوَردَن
 Schriftsetzerei; حُروف چینى
-Schriftsteller; (pl.) نِویسَنده، اَهل ِ قَلَم، اَدیب (اُدَباء)، نِویسَنده
+Schriftsteller; (pl.) اَهل ِ قَلَم، اَدیب (اُدَباء)، نِویسَنده
 Schriftstücke; اَسناد و مَدارِک، نُسخه هاى ِ خَطى
 Schrifttum;
 - persisches Schrifttum; اَدَبیات ِ فارسى
@@ -1425,7 +1425,7 @@ Schriftwechsel; مُکاتِبه
 schrill;
 - schrille Farben; رَنگهاى ِ زَنَنده، ـ زَرق و بَرق
 - schrilles (undefiniertes) Lachen; خَندهٔ نَکِره
-Schrippe; کَلوچه
+Schrippe (Gebäck mit Honig & Mandeln); کَلوچه
 Schritt;
 - mit jem. Schritt halten; با کِسى هَمگام بودَن، پا بِپاى ِ دیگَران قَدَم بَر داشتَن
 - der erste Schritt; دَر وَهلهٔ اَوَل، اَوَلین قَدَم
@@ -1441,7 +1441,10 @@ schröpfen (med.); حِجامَت کَردَن
 Schröpfkopf; باد کِش
 - Schröpfkopf ansetzen; باد کِش اَنداختَن
 Schrot;
-- Gerstenschrot; جو کوب، آرد ِ سَبوس دار
+- Gerstenschrot; جو کوب
+- Getreideschrot; آرد ِ سَبوس دار
+- Schrot (Kugel); ساچِمه
+schroten; نیمکوب کَردَن
 Schrotflinte; تُفَنگ ِ ساچِمه اى
 Schrotkugel; چارپاره
 Schrott; قُراضه، آهَن پاره
@@ -1449,15 +1452,15 @@ Schrottplatz; مَحَل ِ اوراقى، ـ قُراضه
 schrottreif;
 - schrottreifer Bus; اُتوبوس ِ قُراضه
 schrubben;
-- Boden schrubben; کَف ِ اُتاق را کونى کِشیدَن
+- Boden schrubben; کَف ِ اُتاق را کونى کِشیدَن، ساباندَن
 Schrubber; جاروب ِ زِبر، زَمین شور
 schrullig; عَجیب و غَریب
-schrumpelig; آبگَز، چُروکیده و پُر چین شده بَر اَثَر ِ تَماس ِ طولانی با آب ِ گَرم
+schrumpelig; آبگَز، چُروکیده و پُر چین شُده بَر اَثَر ِ تَماس ِ طولانی با آب
 schrumpfen; مُنقَبِض شُدَن، آب رَفتَن
 - mein Geld schrumpfte; کیسه ام داشت تَه کِشید
 - sie schrumpfen auf die halbe Grösse; آنها به نیمچه مى رِسَند
 Schrumpfung; اِنقِباض
-Schubkarre; چرخ  ِدَستى، گارى ِ ـ
+Schubkarre; چَرخ  ِدَستى، گارى ِ ـ
 Schubkraft; نیروى ِ حَرَکَت
 Schublade; کِشو
 Schublehre; کولیس ِ وَزنیه
@@ -2385,7 +2388,7 @@ sitzen; نِشَستَن
 - auf etwas sitzen bleiben; چیزی باد کَرده
 - jemandem zu Füßen sitzen (um zuzuhören); پای ِ حَبف ِ کِسی نِشَستَن
 - im Sitzen singen; نِشَسته سُرود خواندَن
-sitzenlassen (- jem.); سَر کاری گُذاشتَن، کِسى را بیچاره کَردَن
+sitzenlassen (jem. -); سَر کاری گُذاشتَن، کِسى را بیچاره کَردَن
 Sitzneuverteilung; تَقسیم بَندى ِ کُرسیها
 Sitzordnung; تَرتیب ِ نِشَستَن
 Sitzstreik; اِعتِصاب ِ نِشَسته
