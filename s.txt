@@ -712,8 +712,17 @@ Schiessbude; چادُر ِ نِشانه گیرى
 Schiesserei; تیراَندازى
 Schiessplatz; مِیدان ِ تیر اَندازى
 Schiff; کِشتى، جَهاز
-- 5 Schiffe; پَنج فَروَند ِ کِشتى
-- Segelschiff; کِشتى ِ بادى، جَهاز ِ بادى
+- Barkasse; لِنج
+- Containerschiff; کِشتی ِ کانتِینِری
+- Dhau; سَنبوق
+- Felucke; فَلوکه
+- Floß; کَلَک
+- Gondel; گوندولا
+- Schilfboot (Iran-Irak); قایِق ِ زَنبیلی
+- Schute; دوبه، بارج
+- Segelschiff; کِشتى ِ بادبانی، جَهاز ِ بادبانی
+- Stocherkahn (kleine Lasten transportieren); کَرَجی
+- Tragflächenboot; قایِق ِ باله‌دار
 Schifffahrt; کِشتیرانى
 Schiffbruch; کِشتى شِکَستِگى
 - Schiffbruch erleiden (alleg.); شِکَست خوردَن
@@ -886,7 +895,7 @@ Schlauch;
 - Gartenschlauch; شِلَنگ
 - Trinkschlauch; مَشک، میله، لوله
 - Weinschlauch; خیک
-Schlauchboot; قايِق ِ لاستیکى
+Schlauchboot; قايِق ِ لاستیکى، قایِق ِ بادی
 schlauchlos;
 - schlauchloser Reifen; لاستیک بِدون ِ تیوب
 Schläue;
@@ -1464,6 +1473,7 @@ Schubkarre; چَرخ  ِدَستى، گارى ِ ـ
 Schubkraft; نیروى ِ حَرَکَت
 Schublade; کِشو
 Schublehre; کولیس ِ وَزنیه
+- Schublehre mit Digitalanzeige; کولیس ِ دیجیتال
 Schubs; ضَربه
 - einen Schubs bekommen;  .تَنه خوردَن، ضَربه خ
 schubsen; هُل دادَن
@@ -1486,15 +1496,15 @@ Schuh; کَفش، چارُق
 - den Kinderschuhen entwachsen sein (aktiv); از آب و گِل دَر آمَدَن (آوَردَن
 Schuhanzieher; پاشنه کِش
 Schuheisen; نَعلهاى ِ اِسبى
-Schukostecker; دوشاخۀ بَرق با کُنتاکت ِ مُحافِظ
+Schukostecker; دوشاخهٔ بَرق با کُنتاکت ِ مُحافِظ
 Schulamt; اِدارهٔ آموزِش و پَروَرِش
 Schuld; تَقصیر، جُرم، قُصور
 - anderer Leute Schuld tragen müssen; به آتَش ِ کِسی سوختَن
-schulden;
+schulden; مَدیون بودَن
 - jem. etwas schulden; به کِسى بِدِهکار بودَن، مَقروض ِ کِسى بودَن
 - was schulde ich Ihnen?; چِقَدر بايَد بِپَردازَم؟
-- er schuldet die Miete von 1 Monat; کرایۀ ۱ ماه را بِدِهکار است
-- ich schulde Herrn .. Dank;  اِداى ِ دِین مى کُنَم به آقاى ِ فِلان
+- er schuldet die Miete von 1 Monat; کرایهٔ ۱ ماه را بِدِهکار است
+- ich schulde Herrn ... Dank;  اِداى ِ دِین مى کُنَم به آقاى ِ فِلان
 Schulden (f); بِدِهى، قَرضه، دِین
 - Staatsschulden; دَیون ِ دولَتى
 Schuldenabtragung; وام فَرسائى
@@ -1503,15 +1513,15 @@ Schuldenlast; بار ِ بِدِهیها
 Schuldenpolitik; سیاسَت ِ اِستِقراض، ـ وامگیرى
 Schuldgefühl; اِحساس ِ قُصور
 Schuldhaftigkeit; قُصور
-schuldig; مُجرِم، مُقصِر
-- jem. etwas schuldig sein; به کِسى بِدِهکار بودَن
+schuldig; مُجرِم، مُقَصِر
+- jem. etwas schuldig sein; به کِسى بِدِهکار بودَن، مَدیون بودَن نِسبَت به کِسی
 - s. schuldig machen; مُرتَکِب شُدَن
-- sie sprachen ihn schuldig; هَمه اورا مُستوجِب ِ اِعدام دانِستُند
+- sie sprachen ihn schuldig; هَمه اورا مُستوجِب ِ اِعدام دانِستَند
 - er bekannte s. nicht schuldig; او اِقرار به جُرم نَکَرد
 Schuldiger; مُجرِم، مَدیون، شَخص ِ مُقَصِر
 Schuldkomplex; عُقدهٔ گُناه
 Schuldner; بِدِهکار، مَدیون
-Schuldschein; فَنهٔ طَلَب، وام نامه
+Schuldschein; وام نامه
 Schuldspruch; رأى ِ دادگاه، حُکم ِ مُحَکِمه
 Schule; مَدرِسه، مَکتَب
 - Schule der Sprachanalytiker; نَحلهٔ زَبان کاوان
@@ -1529,8 +1539,7 @@ Schulterriemen; تِسمه
 - Schulterriemen der Tasche; تِسمهٔ کیف
 Schulterschluss;
 - sie marschieren im Schulterschluss; آنها شانه شانه پیش مى رَوَند
-Schulterzucken;
-- mit Schulterzucken; با بالا اَنداختَن ِ شانه ها
+Schulterzucken (mit -); با بالا اَنداختَن ِ شانه ها
 Schulung; دَرس، تَعلیم، آموزِش
 Schulzeit;
 - während der Schulzeit; دَر دوران ِ مَدرِسه
@@ -1554,13 +1563,13 @@ Schurz; پیش دامَن، پیش لُنگ، پیش بَند
 Schürzenjäger; بَند ِ شَلوار ِ کِسی شُل است
 Schuss; تیر
 - Schuss (beim Fussball); شوت
-- ein Schuss Milch; يِک مِقدار ِ کَم از شیر
+- ein Schuss Milch; يِک مِقدار ِ کَم از شیر، یِک کَمی شیر
 - ich goss ihm einen Schuss Alkohol ins Glas; تو لیوان يِک پِیک ِ مَشروب بَرای ِ او ریختَم
 - weit ab vom Schuss; دور از بِگیر و بِبَند و جار و جَنجال
 - das Auto ist gut in Schuss; ماشین مُرَتَب است
 - die Wohnung in Schuss bringen; مَسکَن را سَر و سامان دادَن
 schussbereit; آمادهٔ آتَش
-- hinter dem Gewehr, das jederzeit schussbereit ist, ..; پُشت ِ تُفَنگ ِ هَمیشه آماده
+- hinter dem Gewehr, das jederzeit schussbereit ist, ...; پُشت ِ تُفَنگ ِ هَمیشه آماده
 Schüssel; بادیه، کاسه
 - Schüssel (mit Inhalt, z.B. Suppe); بادیه
 - Waschschüssel; تَشت، لَگَن
@@ -1575,6 +1584,7 @@ Schuster; کَفاش
 - Flickschuster; کَفش دوزَک، پینه دوز
 Schutt; آشغال
 - alles liegt in Schutt & Asche; هَمه چیز خَراب است، ـ ویران شُد
+- Bauschutt; زُباله
 Schüttelfrost; تَب و لَرز
 schütteln; تَکان دادَن
 - sie schütteln mich kräftig; مُحکم تَکانَم مى دَهَند
@@ -1596,17 +1606,17 @@ Schutzanzug; روکِش ِ مُحافِظ
 Schutzblech; گِلگیر
 Schütze; تُفَنگدار، تیراَنداز
 schützen; کِسى را حِفاظت کَردَن، ـ مَحفوظ داشتَن
-- geschützte Druckrechte; حُقوق ِ چاپ مَحفوظ
+- geschützte Druckrechte; حُقوق ِ چاپ ِ مَحفوظ
 - geschützter Ort; قُرُق، پَناه
 Schützengraben; سَنگَر
-Schutzgitter; شبکهٔ مُحافِظ
+Schutzgitter; شَبَکهٔ مُحافِظ
 Schutzhaft; توقیف ِ حِفاظى
 Schutzhelm; کُلاه ِ ایمَنى
 Schützling; دَست نِشانده
 Schutzmarke; عَلامَت ِ تِجارَتى، ـ مَحفوظ
-Schutzmassnahme; تَدبیر ِ ایمَنى
+Schutzmaßnahme; تَدبیر ِ ایمَنى
 Schutzring;
-- ein Schutzring um ..; ... ِ يِک حَلقهٔ مُحافِظ دور
+- ein Schutzring um ...; ... ِ يِک حَلقهٔ مُحافِظ دور
 Schutzzoll; گُمرُکى ِ حِمايَتى
 schwach; ضَعیف، عَلیل، زَمین گیر، بى حال
 - schwach werden; بال اَفکَندَن، عاجِز شُدَن
@@ -1620,7 +1630,7 @@ schwach; ضَعیف، عَلیل، زَمین گیر، بى حال
 - schwaches Feuer; آتَش ِ کَم سو
 Schwäche; رِخوَت، ضَعف
 - jem. Schwäche wird offenbar (und man redet darüber); تَق ِ کِسی دَر می آيَد
-- nicht die Schwäche anderer ausnutzen; آدم  حسابش  را پیش  خودش  میکند : از شرمگنی  و حجب  دیگران  استفاده  سوء نباید کردن
+- nicht die Schwäche anderer ausnutzen; آدَم حِسابَش را پیش ِ خودِش میکُنَد (یَعنی: از شَرمِگی و حُجب ِ دیگَران اِستِفادهٔ سوء نَبایَد کَرد
 - Atemschwäche; عُسر ِ نَفَس
 Schwächeanfall;
 - unterwegs einen Schwächeanfall haben; دَر راه ضَعف کَردَن
@@ -1632,13 +1642,13 @@ schwächlich;
 - schwächlicher Jüngling; جَوان ِ تَکیده، ـ زَبون
 Schwachsinn; قِلَت ِ عَقل
 schwachsinnig; خَرَفت
-- schwachsinniger Mensch; آدَم ِ کودَن، ضَعیف اُلعَقل، سَخیف ـ
+- schwachsinniger Mensch; آدَم ِ کودَن، ضَعیف اُلعَقل، سَخیف اُلعَقل
 Schwächung; تَضعیف
-- wirtschaftliche Schwächung; تَضعیف ِ اِقتِضادى
+- wirtschaftliche Schwächung; تَضعیف ِ اِقتِصادى
 Schwager;  (باجِناق (شوهَر ِ خواهَر ِ زَنَم)، آیزِنه (شوهَر ِ خواهَر
 Schwägerin;   (هَمگیس، خازِنه، زَن ِ بَرادَر، جاری (زَن ِ بَرادَر ِ شوهَر
 Schwalbe; پَرَستوک، چِلچِله
-- eine Schwalbe macht noch keinen Sommer; با يِک گُل بَهار نِمى آَيَد
+- eine Schwalbe macht noch keinen Sommer; با يِک گُل بَهار نِمى آيَد
 - einer Schwalbe das Fliegen beibringen wollen; آزموده را آزمودَن خَطاست
 Schwamm; اِسفَنج، اَبر
 - Schwamm, Schimmel; کَپَک
@@ -1673,19 +1683,21 @@ schwarz; اَسوَد، مِشکى، سیاه
 - ich sehe schwarz; چَشمَم آب نِمى خورَد
 - schwarz vor Augen werden; چِشمها سیاهى رَفتَن
 - sie machen ihn zum Schwarzen Peter; کاسهٔ کوزه را سَرَش مى شِکَنَند
+- Schwarzes Meer; بَهر ِ اَسوَد
+Schwarzarbeit; کار سیاه، - غِیر ِ قانونی
 schwärzlich; سیاه فام
 Schwarzmalerei; تَصویر ِ بَدبینانه
 Schwarzmarkt; بورس ِ سیاه، بازار ِ ـ
 Schwarzsender; فِرِستَندهٔ غِیر ِ مُجاز
-Schwärzung; اِسوِداد
+Schwärzung; اِسوِِداد
 Schwarzweissmalerei; سایه روشَن، فِکرهاى ِ سیاه سِفید
 schwatzen;
 - mit jem. schwatzen; با کِسى وِر زَدَن، ـ گَپَ زَدَن
 - er schwatzt mit ihnen; او با آنها خوش و بِش می کُنَد
-- drauflos schwatzen;  .بى رَبط گُفتَن، چَرَند گ
+- drauflos schwatzen;  .بى رَبط گُفتَن، چِِرَند گ
 - über alles mögliche schwatzen; از هَر دَری حَرف زَدَن
-- schwätz nicht rum; پُر چانِگی نَکُن
-- mach das und schwätze nicht lange herum (popul.); اینرا بُکَن توى ِ نَخ این حُرَفا نَرو
+- schwatz nicht rum; پُر چانِگی نَکُن
+- mach das und schwatze nicht lange herum (popul.); اینرا بُکَن توى ِ نَخ ِ این حُرَفا نَرو
 Schwätzer; مُهمَل باف، پُرچانه، دَهَن لَق، یاوه سَرا، وَراج، مُغلَق گو، حَراف
 - als Dummschwätzer gelten; کِسی را حَرف ِ حَسَن پَشم ِ کَسَن به حِساب می آيَند
 Schwebebahn; سیم ِ نَقاله، تِلِکابین
@@ -1698,7 +1710,7 @@ Schwefelsäure; جوهَر ِ گوگِرد، اَسید ِ سولفوریک
 Schweigegeld; حَق ِ سُکوت
 - Schweigegeld bezahlen; حَق السُکوت پَرداختَن
 schweigen; سُکوت کَردَن
-- schweigen zu ..; رِسانه دَر مورِد ِ .. سُکوت کَردَن
+- schweigen zu ...; رِسانه دَر مورِد ِ ... سُکوت کَردَن
 - schweigen wie ein Grab; چِفت و بَست ِ دَهان را مُحکَم کَردَن
 - er schweigt vor Angst; از تَرس زَبانَش بَند مى آيَد
 - er schwieg; او لَب از لَب بَر نَداشت
@@ -1706,7 +1718,7 @@ schweigen; سُکوت کَردَن
 Schweigen (n); سُکوت، صَموت، صُمات
 - durch Argumente zum Schweigen bringen; اِفحام
 - als er mein Schweigen bemerkte; وَقتى تو لَب رَفتَن ِ مرا مى بینَد
-- jetzt ist Schweigen angesagt (genug geredet); اُلُب اُلُب سَنگِ سُرُب
+- jetzt ist Schweigen angesagt (genug geredet); اُلُب اُلُب سَنگ ِ سُرُب
 - jem. gewaltsam zum Schweigen bringen; دَهَن ِ کِسی را سِرویس کَردَن
 Schweigepflicht; واجِب الکِتمان، تَعَهُد ِ راز دارى
 Schweigeturm (bei Zoroastern); دَخمه
@@ -1716,26 +1728,25 @@ Schwein; خوک، خِنزیر
 Schweinehund;
 - den inneren Schweinehund überwinden; پای ِ کِسی روی ِ بیل رَفتَن
 Schweinestall; خوکدان
-Schweiss; عَرَق
-- im Schweisse deines Angesichtes; به عَرَق ِ پیشانى ات
-- der Schweiss steht auf der Stirn (wegen Verlegenheit); از خِجالَت آب شُدَن
-- das habe ich mir im Schweisse meines Angesichts erarbeitet; این را از کَد ِ يَمین و عَرَق جَبین  ِخود دَر آوَردَم
-Schweissband; عَرَق چین
-Schweissbrenner; تُرج ِ جوش
-schweissen; جوش دادَن، جوشکارى کَردَن
-- zusammengeschweisst werden; جوش خوردَن
-Schweissen (n); جوشکارى
-Schweissgeruch; پِلِشتى ِ عَرَق
-Schweissindustrie; صَنعَت ِ جوش
-Schweissnaht; خَط ِ جوش
-Schweisssekretion; تَرَشُح ِ عَرَق
-Schweisstechnik; صَنايِع ِ جوش
+Schweiß; عَرَق
+- im Schweiße deines Angesichtes; به عَرَق ِ پیشانى ات
+- der Schweiß steht auf der Stirn (wegen Verlegenheit); از خِجالَت آب شُدَن
+- das habe ich mir im Schweiße meines Angesichts erarbeitet; این را از کَد ِ يَمین و عَرَق جَبین  ِخود دَر آوَردَم
+Schweißband; عَرَق چین
+Schweißbrenner; تُرج ِ جوش
+schweißen; جوش دادَن، جوشکارى کَردَن
+- zusammengeschweißt werden; جوش خوردَن
+Schweißen (n); جوشکارى
+Schweißgeruch; پِلِشتى ِ عَرَق
+Schweißindustrie; صَنعَت ِ جوش
+Schweißnaht; خَط ِ جوش
+Schweißsekretion; تَرَشُح ِ عَرَق
+Schweißtechnik; صَنايِع ِ جوش
 Schwelle; آستانه
 - Türschwelle; دَرگاه ِ مَنزِل، آستانهٔ مَنزِل
 - Eisenbahnschwelle; تراوِرس ِ راه ِ آهَن
-- an der Schwelle des ..; دَر آستانهٔ
+- an der Schwelle des ...; دَر آستانهٔ
 schwellen;  .وَرَم کَردَن، آماسیدَن، نَفخ کَردَن، باد ک
-- vor Freude schwillt ihm der Kamm; کَپک ِ خُروسَش بانگ می زَنَد
 Schwellenreiz; کَمتَرین شِدَت ِ تَحریک
 Schwellenwert; حَدِاَقَل ِ شِدَت ِ تَحریک
 Schwellung; وَرَم، آماس
@@ -1745,7 +1756,7 @@ schwenken; نَوَسان کَردَن
 Schwenkkran; جَر ِ ثَقیل ِ گَردان
 schwer; سَنگین، صَعَب
 - schwer, kompakt; ثَقیل
-- er ist schwer verletzt worden; او بَد جورى مَجروح شُد، او سَخت مَجروح ـ
+- er ist schwer verletzt worden; او بَد جورى مَجروح شُد، او سَخت مَجروح شُد
 - schwer passierbar; صَعَب اُلعُبور
 - schwer zugänglich; صَعَب اُلوُرود
 - schwer im Magen liegen; غَذا دَر مِعده سَنگینى مى کُنَد
@@ -1756,7 +1767,7 @@ Schwere; سَنگینى
 Schwerelosigkeit; حالَت ِ بى وَزنى
 schwerfallen; زور آمَدَن
 - es fällt mir schwer, zu grüssen; زورم مى آيَد سَلام کُنَم
-- es fällt mir schwer, .. zu finden; دَر یافتن ِ.. به مُشکِل بَر مى خورَم
+- es fällt mir schwer, ... zu finden; دَر یافتن ِ... به مُشکِل بَر مى خورَم
 schwerfällig; کُند
 - er ist schwerfällig; او کُند فَهم است
 - schwerfällig im Reden; آدَم ِ بَطى اُلکَلام
@@ -1764,13 +1775,12 @@ Schwerhörigkeit; ثِقَل سامِعه، گوش سَنگینى
 Schwerkraft; نیروى ِ ثِقَل، نیروى ِ جاذِبه
 - Gesetz der Schwerkraft; قانون ِ گِرانِش
 schwerlich; به زور
-- man lernt ihn schwerlich kennen durch ..; اورا از طَریق ِ ... مُشکِل مى شَوَد شِناخت
-schwermachen;
-- s. die Arbeit gewaltig schwermachen; کار ِ خودرا کوه کَردَن
-- jem. das Leben schwermachen; به جان ِ کِسى اُفتادَن
-- mit spitzen Bemerkungen jem. das Leben schwer machen; مَتَلَک بار ِ کِسی کَردَن
+- man lernt ihn schwerlich kennen durch ...; اورا از طَریق ِ ... مُشکِل مى شَوَد شِناخت
+schwer machen;
+- s. die Arbeit gewaltig schwer machen; کار ِ خودرا کوه کَردَن
+- jem. das Leben schwer machen; به جان ِ کِسى اُفتادَن
 - du machst es mir schwer; تو به مَن سَخت مى گیرى
-- um ihm mit .. das Leben schwer zu machen; تا اورا با .. ذَلیل سازَد، تا اورا از پاى دَر بیاوَرَد
+- um ihm mit ... das Leben schwer zu machen; تا اورا با ... ذَلیل سازَد، تا اورا از پاى دَر بیاوَرَد
 Schwermetall; فِلِز ِ سَخت
 Schwermut; مالیخولیا، اَفسُردِگى
 schwermütig; مالیخولیائى، اَفسُرده
@@ -1783,9 +1793,13 @@ Schwert; شَمشیر، قَمِچیل
 - steck dein Schwert weg; شَمشیرَت را غَلاف کُن
 Schwertfisch; اَره ماهى
 Schwertschaft; مُؤَخَر ِ نِیزه
-Schwester; (pl.) اُخت (اَخوات)، خواهَر، آبجی
+Schwester; (pl.) اُخت (اَخوات)، خواهَر
+- Schwester (familiär, in der Anrede); آبجی
+Schwiegereltern; والِدِین ِ هَمسَر
+Schwiegermutter; مادَر زَن، - شوهَر
 Schwiegersohn; داماد
 Schwiegertochter; عَروس
+Schwiegervater; پِدَر زَن، - شوهَر
 Schwielen; ناصور، پینه دار، شَوا، طاوُل
 - schwielige Hand; دَست ِ پینه زَده
 schwierig;
@@ -1793,9 +1807,9 @@ schwierig;
 - schwierige Aufgabe; تَکلیف ِ شاق، ـ دُشوار
 - die Geschichte ist schwieriger, als man denkt; این قَضیه بیخ دارَد
 Schwierigkeit; (pl.) گیر، مَسئَله، مَنع (مَوانِع)، مُشکِل (مُشکِلات)، مَضیقه (مَضايِق)، تَعسُر، مُعضِل (مُعضِلات)، دَغمَسه، عُسرَت
-- in Schwierigkeiten sein;  .دَر حِیص و بِیص بودَن، ـ مَخمَصه ب
+- in Schwierigkeiten sein;  .دَر حِیص و بِیص بودَن، دَر مَخمَصه ب
 - in Schwierigkeiten kommen; به مَخمَصه اُفتادَن، به خِنِس و فِنِس اُفتادَن، به سُتوه آمَدَن
-- jem. in Schwierigkeiten bringen; کِسى را به دَغمَسه اَنداختَن، ـ به هَچَل ـ، ـ گیر انداختَن
+- jem. in Schwierigkeiten bringen; کِسى را به دَغمَسه اَنداختَن، ـ به هَچَل ا.، ـ گیر انداختَن
 - Schwierigkeiten machen; دَرد ِ سَر کَردَن
 - eine Schwierigkeit nach der anderen; قوز بالاى ِ قوز
 - die Dimensionen dieser Schwierigkeit; اَبعاد ِ این مُعضِل
@@ -1842,10 +1856,10 @@ Schwingungszahl; فرِکانس
 Schwips; سَرمَستى
 schwitzen; عَرَق کَردَن
 schwören; قَسَم خوردَن
-- darauf schwören  (*: Eid); به چیزى سوگَند خوردَن، ـ قَسَم خ
+- darauf schwören (*: Eid); .به چیزى سوگَند خوردَن، ـ قَسَم خ
 schwül; هَواى ِ حار، شَرجى
-schwulstig;
-- schwulstige Ausdrücke; لُغات ِ قُلُنبه، ـ قُلُمبه سُلُمبه
+schwülstig;
+- schwülstige Ausdrücke; لُغات ِ قُلُنبه، ـ قُلُمبه سُلُمبه
 Schwund;
 - Schwund (med.); اِستِحالهٔ رَدیه، هُزال
 - Popularitätsschwund; زُوال ِ مَحبوبيَت
