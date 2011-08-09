@@ -2234,14 +2234,12 @@ sicher; مُطمَئِن، حَتمى
 - sicher & geborgen; اَمن و اَمان، ایمَن و مَحفوظ
 - sicherer Tod; مَرگ ِ حَتمى
 - an einen sicheren Ort bringen; به مَکان ِ اَمن بُردَن
-- ... zu sein war für ihn eine sichere Sache; شُدَن ِ او دیگَر حَتمى شُده بود
 - ganz sicher haben sie s. auf den Weg gemacht; آنها با طُمأنینه به راه اُفتادَند، حَتماً ـ
-- das sicherste Zeichen von .. ist, dass ...; بارِزتَرین مُشَخَصهٔ .. این است که
+- das sicherste Zeichen von ... ist, dass ...; بارِزتَرین مُشَخَصهٔ ... این است که
 Sicherheit;
 - Sicherheit, Gewissheit; اِطمینان
-- Sicherheit über; - اَمان بَر، ایمَنى -، اِتِکال
+- Sicherheit über; اَمان بَر، ایمَنى بَر، اِتِکال بَر
 - s. in Sicherheit bringen; رو به هَزیمَت نِهادَن
-- in Sicherheit sein; آب توی ِ دِل ِ کِسی تَکان نَخوردَن
 - Recht auf Sicherheit der Person; حَق ِ اَمنيَت ِ فَردى
 - Recht auf soziale Sicherheit; حَق ِ تأمین ِ اِجتِماعى
 - kollektive Sicherheit; اَمنيَت ِ جَمعى
@@ -2288,19 +2286,20 @@ Siebensachen;
 - seine Siebensachen packen; بار و بُنهٔ خودرا بَستَن
 Siebplatte;
 - Siebplatte (im pflanzlichen Zellsystem); صَفحهٔ غَربالى دَر آوَند ِ آبکِش
-Siebröhre; آوَند ِ آبکِش
+Siebröhre (bei Pflanzen); آوَند ِ آبکِش
 Siebtrommel; غَربال ِ گَردان
 siech; عَلیل
+Siechtum; عَلیلی
 sieden; جوش زَدَن، ـ آمَدَن
 - zum Sieden bringen; بِجوش آوَردَن
-- zu Sieden Aufhören; از جوش اُفتادَن
+- zu Sieden aufhören; از جوش اُفتادَن
 Siedepunkt; نُقطهٔ جوش
 Siedler; مُهاجِر، مُقیم، ساکِن
 Siedlung; قَصَبه، آبادانى
 - sie ist aus der Siedlung; او مال ِ آبادى است
 Siedlungspolitik; سیاسَت ِ اَساکِن، سیاسَت ِ شَهرَک سازى
 Sieg; (pl.) فَتح (فَتوحات)، پیروزى، ظَفَر، غَلَبه، چیرِگى
-- Sieg über ..; غَلَبه بَر، ظَفَر بَر
+- Sieg über ...; غَلَبه بَر، ظَفَر بَر
 - unser ist der Sieg; بُرد با ماست
 - über Sieg und Niederlage nicht nachdenken; دَر مورِد ِ بُرد و باخت فِکر نَکردَن
 - Erdrutschsieg (polit.); پیروزى ِ فَُراگیر، ـ گُستَرده
@@ -2315,7 +2314,7 @@ Siegesmeldung; فَتح نامه
 siegreich; مُظَفَر، چیره
 - siegreich sein; بَر چیزى فائِق آمَدَن
 - siegreiche Partei; حِزب ِ پیروز
-Siesta; خواب ِ قیلوله
+Siesta; خواب ِ قیلوله، اِستِراحَت
 Signal; عَلامَت
 signalisieren;  .به کِسى خَبَر دادَن، ـ عَلامَت د
 signieren; اِمضاء کَردَن
@@ -2326,7 +2325,7 @@ Silbe; هِجا، سیلاب
 Silber; نُقره
 Silberschmiedearbeit; نُقره کارى
 Silo; اَنبار ِغَلات، ـ عَلَف
-simplifizieren;  .خَرفَهم کَردَن، ساده ک.
+simplifizieren;  .خَرفَهم کَردَن، ساده ک
 Sims; رَف جِلوى ِ پَنجَره
 Simulant; مُتَمارِض
 Simulation; وانِمود، تَمارُض
@@ -2342,7 +2341,7 @@ singen; تَرَنُم نِمودَن، سُرود خواندَن
 Singular; فَرد
 sinken;
 - das Barometer sinkt; هَواسَنج دارَد نُزول مى کُنَد
-- sein Mut sinkt; جُرأتَش رو به کاستى مى افتَد
+- sein Mut sinkt; جُرأتَش رو به کاستى مى اُفتَد
 - das Schiff sinkt; کِشتى سوراخ دار شُد، ، ـ زیر آب مى آيَد
 - die Sonne sinkt; آفتاب غُروب مى کُنَد
 Sinn; مَضمون، مَفهوم، مُفاد، مَقصود، مَعنى
@@ -2355,14 +2354,14 @@ Sinn; مَضمون، مَفهوم، مُفاد، مَقصود، مَعنى
 - dem Sinn nach; طِبق ِ مَضمون، به فَحوا
 - in diesem Sinne; دَر این مورِد
 - 5 Sinne (fühlen, schmecken, riechen, hören, sehen); پَنج حَواس، حَواس ِ خَمسه، حَواس ِ پَنجگانه (حِس ِ لامِسه، ـ ذايِقه، ـ شامه، ـ شِنَوائى، ـ بَصَرى
-- in dem Punkt macht das Sinn; دَر مورِد ِ .. مِصداق دارَد، ـ مَعنى مى دَهَد
+- in dem Punkt macht das Sinn; دَر مورِد ِ ... مِصداق دارَد، ـ مَعنى مى دَهَد
 - lange Rede, kurzer Sinn; خُلاصهٔ کَلام
 - ohne Sinn & Verstand; بِدون ِ عَقل و شُعور
 - wenn keiner reagiert, welchen Sinn hat dann das Ganze? (Hafez); کِشِش جو نَبُوَد از آن سو چه سود کوشیدَن
-- wenn er nicht auf etwas grosses Appettit hat, dann steht ihm der Sinn auf etwas kleines; اَگَر چیزى بُزُرگى نَبود که حَسرَتِش را بِخورَد، حَسرَت ِ چیزهاى ِ کوچِک را مى خورَد
+- wenn er nicht auf etwas grosses Appettit hat, dann steht ihm der Sinn auf etwas kleines; اَگَر چیزى بُزُرگى نَبود که حَسرَتِش را بِخورَد حَسرَت ِ چیزهاى ِ کوچِک را مى خورَد
 - von Sinnen sein; بیخود بودَن، عَقل ِ خودرا از دَست دادَن
 Sinnesorgan; دَستگاه ِ حِسى، اَندام ِ ـ
-sinngemäss; طِبق ِ مَضمون، به فَحوا ِ
+sinngemäss;  ِطِبق ِ مَضمون، به فَحوا
 sinnlich; هَوَس باز، ـ ران، ـ نَفسانى
 sinnlos; اَلَکى
 - es war sinnlos, weiterzumachen; اِدامهٔ این وَضع دیگََر فایده نَداشت
@@ -2406,13 +2405,11 @@ sitzen; نِشَستَن
 - im Boot sitzen; دَر قايِق سَوار بودَن
 - die Hose sitzt mir gut; شَلوار دُرُست اَندازهٔ مَن است
 - auf etwas sitzen bleiben; چیزی باد کَرده
-- jemandem zu Füßen sitzen (um zuzuhören); پای ِ حَبف ِ کِسی نِشَستَن
 - im Sitzen singen; نِشَسته سُرود خواندَن
 sitzenlassen (jem. -); سَر کاری گُذاشتَن، کِسى را بیچاره کَردَن
 Sitzneuverteilung; تَقسیم بَندى ِ کُرسیها
 Sitzordnung; تَرتیب ِ نِشَستَن
 Sitzstreik; اِعتِصاب ِ نِشَسته
-- einen Sitzstreik durchführen; بَس نِشَستَن
 Sitzung; نِشَست، جَلَسه
 - ordentliche Sitzung; کُنفِرانس ِ عادى
 - Plenarsitzung; جَلَسهٔ عُمومى
@@ -2459,19 +2456,18 @@ so;
 - so, wie; چِنانچه، چِنانکه، کَما اینکه، هَمانگونه
 - so ist es auch; به هَمین قیاس
 - so ist es nun mal; هَمین است دیگه
-- so dass keiner den Mut hätte, zu ...; آنچِنانکه از تَرس ِ چیزى جُرأت نَکُنَد از
 - so, so; که اینطور
 - ach so; پَس اینطور
-- das beunruhigte ihn so sehr, ...; چِنان اورا مُضطَرِب کرد
+- das beunruhigte ihn so sehr, dass ...; چِنان اورا مُضطَرِب کرد که
 - so wie er es tat, so mach es auch; چِنانکه او کَرد تو نیز چِنین کُن
 - wie du mir, so ich dir; چیزى که عَوَض داره گِله نَداره
-- bei ihm ist es so, ..; وَضع ِ او بِدین مِنوال است
+- bei ihm ist es so, ...; وَضع ِ او بِدین مِنوال است
 - das waren so seine Erfahrungen; از جُملهٔ تَجرُبیات ِ او بود
-- so finden wir sie damit beschäftigt, ...; از سَر ِ این کار است که آنها سَر گَرم ِ
+- sie sind so damit beschäftigt, ...;  از سَر ِ این کار است که آنها سَر گَرم
 - obgleich, .., so; هَرچَند .. وَلى
 - sie reden mal so, mal so; حَرفِشان جوراجور است
 - so verzweifelt sehen sie nun auch wieder nicht aus; چِهره هايِشان چَندان هَم از سَرپَریشانى نیست
-sobald; به مُجَرَد ِ..، به مُجَرَد ِ اینکه
+sobald; به مَحض ِ اینکه، به مُجَرَد ِ اینکه
 - sobald er sich auswies, ...; به مَحض ِ اِرائه
 - sobald, als; به مَحض  ِاینکه
 - sobald sie die Tür passiert haben; آنان به مَحض ِ گُذَشتَن از دَر
@@ -2486,17 +2482,18 @@ Sofa; مُبل ِ راحَتى، کاناپه
 Sofakissen; مُتَکا، بالِش ِ کاناپه
 sofort; فى الفور، هَمین دَم، ضَرب اُلعَجَل، يِکراست، عاجِل، بِدون ِ تأخیر
 - sofortiges Eingreifen; دِخالَت ِ فى الفور
-Software; اَبزار ِ نَرم، نَرم اَبزار
+Software (*: Computerbegriffe); اَبزار ِ نَرم، نَرم اَبزار
 Sog; مَکش، جَذب
 sogar; حَتىٰ
 Sohle;
-- Schuhsohle; تَختهٔ کَفش
 - du musst auf leisen Sohlen gehen; آسه بیا آسه بُرو که گُربه شاخَت نَزَنه
+- Schuhsohle; تَختهٔ کَفش
+- Talsohle; تَه ِ دَره
 Sohn; (pl.) اِبن (اَبناء)، پِسَر
 Sojabohne; لوبیاى ِ چیتى، ـ سویا
 solange;
 - solange wie; مادامیکه، تا زَمانیکه
-- solange ich leben werde, ..; تا عُمر دارَم از آن ِ
+- solange ich leben werde; تا عُمر دارَم از آن
 - solange Leben in mir ist, ...; ... مادامیکه جانَم دَر مَن است، تا ما باشیم
 - solange die Welt besteht; تا دِنیا دِنیاست
 solar; خورشیدى
@@ -2516,17 +2513,18 @@ solide; مُحکَم، با دَوام
 Solist; تَک خوان، ـ نَواز
 Soll;
 - das Soll erfüllen; بِحَد ِ نِصاب رِسانیدَن
+- Soll & Haben; بِدِهکار و بِستانکار
 sollen; بايِستَن
 - sollte Gott nicht Segnungen für uns bereit halten?; خُدا چه بَرَکَتهاى ِ عالى مى بايِست بَراى ِ ما حاضِر کَرده باشَد؟
-- was solls?;ؤ مُهِم نیست چه توفیر مى کُنَد؟، توفیر نَدارَد!، چیزی می خواهَد چه کُنَد؟
-- was soll das (z.B. eine Reise)?; آبَش نَبود نانَش نَبود، ... اش چه بود؟؛ بِطور ِ مِثال: آبَت نَبود نانَت نَبودتوط ِ این بَرف سَفَر کَردَنَت چه بود؟
+- was solls?; مُهِم نیست چه توفیر مى کُنَد؟، توفیر نَدارَد!، چیزی می خواهَد چه کُنَد؟
+- was soll das (z.B. eine Reise)?; آبَش نَبود نانَش نَبود سَفَراَش چه بود؟، بِطور ِ مِثال: آبَت نَبود نانَت نَبودتوی ِ این بَرف سَفَر کَردَنَت چه بود؟
 Soll-Leistung; قُدرَت ِ خُروجى
 Sollvorschrift; دَستور ِ اِجبارى
 Soll-Zeit; زَمان ِ اِختِصاص یافته
 Solo; تَک نَوازى
-Solquelle; چِشمه آب ِ مَعدَنى
+Solquelle; چِشمهٔ آب ِ مَعدَنى
 Sommer; تابِستان
-- Sommer -; ـ تابِستانى
+- Sommerferien; تَعطیلات ِ تابِستانى
 Sommersitz; اِقامَتگاه ِ تابِستانى، يِیلاق
 Sommersprossen; جوش ِ غُرور، کَکمَک
 Sonde; میل
@@ -2556,7 +2554,7 @@ Sonnenblume; گُل ِ آفتاب گَردان
 Sonnenbrand; آفتاب سوختِگی
 Sonnenbrille; عِینَک ِ آفتابى، - دودی
 Sonnenfinsternis; (total, teilweise)  کُسوف (کُلى، جُزئى)، خورشید گِرِفتِگى
-sonnengebräunt; آفتاب خورده
+sonnengebräunt; آفتاب سوخته
 sonnengebleicht; آفتاب خورده
 - sonnengebleichte Knochen; اُستُخوانهای ِ آفتاب خورده
 Sonnenscheibe; قُرص ِ خورشید
@@ -2567,7 +2565,7 @@ Sonnensystem; مَنظومهٔ شَمسى
 Sonnenuhr; ساعَت ِ آفتابى
 Sonntag; يِکشَنبه
 sonst;
-- .. und sonst nichts; و نَه بَر چیزى سَواى ِ آن یا وَراى ِ آن، دیگه هیچى
+- ... und sonst nichts; و نَه بَر چیزى سَواى ِ آن یا وَراى ِ آن، دیگه هیچى
 - sonst ist er ...; او دَر موقع ِ عادى
 - im Gegensatz zu sonst; بَر خَلاف ِ هَمیشه
 - sonst käme ihnen der Gedanke nicht;  اَگَر نَه فِکر ِ ... به سَرِشان نِمى زَد
@@ -2582,9 +2580,9 @@ Sorge;
 - nun mache ich mir keine Sorgen ums Sterben, weil ...; حال مَرا غَم ِ مُردن نیست زیرا
 - Sorge tragen für jem.; به کِسى نیک مُتَوَجه شُدَن، به کِسى رِسیدِگى کَردَن
 sorgen;
-- dafür sorgen, dass .. (*: s. kümmern); حَواس به کِسی بودَن
+- dafür sorgen, dass ... (*: s. kümmern); حَواس به کِسی بودَن
 - für ausreichend Platz sorgen; جاى ِ کافى تَعبیه کَردَن
-- sorge für ihn!; بِهِش بِرِس!
+- sorge für ihn!; بِهِش بِرِس
 sorgenlos; بى نِگَران
 sorgenvoll; حالَت ِ گِرِفته
 Sorgfalt; تَوَجُه، دِقَت، اِهتِمام، مُواظِبَت
@@ -2618,7 +2616,7 @@ sowas;
 soweit;
 - es ist sogar soweit gekommen, dass; کار به هَمین چیز کِشیده بود که
 - warum hast du es soweit kommen lassen?; چِرا گُذاشتى کار به اینجا بِکِشَد؟
-- bis es soweit kam, dass sie verstand, dass ich sie anschaute ..; تا مى آمَد بِفَهمَد مَن دارَم نِگاهِش کُنَم
+- bis es soweit kam, dass sie verstand, dass ich sie anschaute; تا مى آمَد بِفَهمَد مَن دارَم نِگاهِش کُنَم
 sowie; هَمچِنین
 sowieso; دَر هَر حال، خواه ناخواه، دَر هَر صورَت
 sowohl;
@@ -2645,16 +2643,20 @@ Spaghetti; اِسپاگِتى
 Späher; طَلایه دار
 Spähtrupp; طَلایه
 Spalier; داربَست
+- in Spalier aufstellen (z.B. bei Hochzeit); صَف بَستَن
+- Spalier stehen (militär.); مَشک کَردَن
 Spalt; شِکاف، دَرز
 spaltbar;
 - spaltbares Material; مادهٔ تَجزیه پَذیر
 spalten; مُتَفَرِق کَردَن، شِکاف دادَن
 - s. spalten; مُنشَعِب شُدَن
-- in der Mitte spalten; دو قاچ کَردَن
+- in der Mitte spalten; دو قاچ کَردَن، نِصف کَردَن
 Spaltöffnung; روزَنه دَر گیاهان
 Spaltprozess; پروسهٔ شِکافَت
 Spaltung; تَفرِقه، تَجزیه، جُدائى، شِکافت، نِفاق، شَقاق
 - Parteispaltung; اِنشِعاب ِ حِزبى، اِنشِقاق ِ ـ
+Span; تَراشه
+- Holzspan; تَراشهٔ چوب
 Späne; خَش و خاش، کِرِشته
 - Eisenfeilspäne; بُرادهٔ آهَن، تَراشهٔ ـ
 Spange; سَگَگ
@@ -2684,7 +2686,7 @@ Spannvorrichtung; تَجهیزات ِ نِگَهدارى
 Spannweite;
 - Spannweite (einer Brücke); چِشمهٔ پُل
 - Spannweite (Flugzeug); پازه
-Spanungsgrösse; فِلِزبُرى
+Spanungsgröße; فِلِزبُرى
 Sparbuch; دَفتَرچهٔ پَس اَنداز
 sparen; پَس اَنداز کَردَن
 - ich möchte Ihnen die Mühe sparen; دِلَم میخواهَد زَحمَت ِ شُمارا کَم کُنَم، ـ زَحمَت را از دوش ِ شُما بَر دارَم
@@ -2695,24 +2697,27 @@ Spargel; مارچوبه
 Sparkasse; صَندوق ِ پَس اَنداز، بانک
 spärlich; کَم مایه
 - spärlich (z.B. Haarwuchs); تُنُک
-Sparmassnahmen; اِقدامات بَراى ِ صَرفه جوئى
+Sparmaßnahmen; اِقدامات بَراى ِ صَرفه جوئى
 Sparren; شاه تیر) زیر شیروانى)
 sparsam; قِیمَتَش مُناسِب است
+- sparsam sein (Mensch); صَرفه جو بودَن
+- sparsam sein (Mittel); با صَرفه بودَن، مَصرَف کَم است
 Spass;
-- Spass haben an ..; از چیزى حِسابى کِیف کَردَن
-- hat nichts mit Spass zu tun; با شوخ سَر ِ کار نَدارَد
-- Spass machen;  .شوخى کَردَن، مِزاح ک
-- es macht mir Spass; خوش مى گُذارَم
+- Spaß haben an ...; از چیزى حِسابى کِیف کَردَن
+- hat nichts mit Spaß zu tun; با شوخ سَر ِ کار نَدارَد
+- Spaß machen;  .شوخى کَردَن، مِزاح ک
+- es macht mir Spaß; خوش مى گُذارَم
 - ich dachte, er macht Spaß mit mir; خیال می کَردَم سَر به سَرَم می گُذارَد
 - das machte keinen Spaß mehr; این جوری دیگه حَلاوَتی نَدارَد
-- ihm macht die Arbeit Spass; او کارى را خوش داشت
-- Spass beiseite; از شوخى گُذَشته
-- er versteht keinen Spass; شوخى سَرَش نِمى شَوَد
-- Spass und gute Laune; عَیاشى و خوش گُذَرانى
-- als ob es mit ihm spassen würde; اِنگار که با او شوخى مى کُنَد
-spassig; مُتَفَنُن، شوخى
-- er machte eine spassige Bemerkung; او حَرف با مَزه اى زد
-Spassmacher; این آدَم ِ خوش مَزه است، مازِح، دَلقَک، آدَم ِ شوخ
+- ihm macht die Arbeit Spaß; او کارى را خوش داشت
+- Spaß beiseite; از شوخى گُذَشته
+- er versteht keinen Spaß; شوخى سَرَش نِمى شَوَد
+- Spaß und gute Laune; عَیاشى و خوش گُذَرانى
+spaßen; شوخی کَردَن
+- als ob es mit ihm spaßen würde; اِنگار که با او شوخى مى کُنَد
+spaßig; مُتَفَنُن، شوخى
+- er machte eine spaßige Bemerkung; او حَرف با مَزه اى زَد
+Spaßmacher; این آدَم ِ خوش مَزه است، مازِح، دَلقَک، آدَم ِ شوخ
 spät;
 - spät in der Nacht; شَب ِ دیر وَقت
 - wie spät ist es?; ساعَت چَند است؟
@@ -3842,6 +3847,7 @@ Streifenwagen; ماشین ِ گَشت
 streifig; خَطخَطى
 Streifzug (durch die Literatur); گُذَرى بَر اَدَبیات
 Streik; اِعتِصاب
+- einen Streik durchführen; نِشَستَن بَس است
 Streikausbruch; آغاز ِ اِعتِصاب
 streiken; اِعتِصاب کَردَن
 Streit; مُرافِعِه، دَعوا، اِختِلاف، مُشاجِره، جَر و بَحث، مُناقِشه، مُنازِعه، نِزاع

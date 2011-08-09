@@ -672,6 +672,7 @@ Reihe; رَسته، دَسته، نوبَت، رَدیف، سِرى
 - ob er das auf die Reihe bekommt?; او هَم عَقلِش مى رِسَد که
 - etwas nicht auf die Reihe kriegen; تَوانائى ِ فَهمَش را نَداشتَن
 - außer der Reihe; خارِج از نوبَت
+- in Reihe aufstellen (z.B. bei Hochzeit); صَف بَستَن
 - auf eine Reihe bringen; چیزى را هَموار کَردَن
 - in einer Reihe von Fällen; دَر مَوارِدى ِ چَند
 - aus der Reihe tanzen; راه ِ خود را دُنبال کَردَن
@@ -1342,6 +1343,7 @@ Ruhe; آرامِش
 - nun kann ich in Ruhe sterben, weil ...; حال ِ مَرا غَم ِ مُردن نیست زیرا
 - öffentliche Ruhe und Ordnung; آرامش و نَظم ِ عُمومى
 - jedesmal wenn ..., verlor er die Ruhe; هَر وَقت ... آرام و قَرارَش مى بُرید
+- nicht aus der Ruhe zu bringen; آب توی ِ دِل ِ کِسی تَکان نَخوردَن
 - sie machten ihre Arbeit in aller Seelenruhe; آنها به راحَتى ِ آب خوردَن کارِشان را اَنجام دادَند
 ruhelos;
 - ruhelos sein;  .بیقَرار بودَن، ناآرام ب
