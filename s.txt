@@ -1147,6 +1147,7 @@ schmieren;
 - Brot schmieren (z.B.: mit Käse); پَنیر روی نان مالیدَن
 - Kugellager schmieren; بُلبرینگ روغَن زَدَن
 - das läuft wie geschmiert; هَمه اش خوب اَنجام می شَوَد
+- das geht wie geschmiert über unsere Lippen; مِثل ِ نَقل و نَبات بَر زَبان ِ ما جارى است
 Schmierfette; دُهُنیات
 Schmierfilm; قِشر ِ جَربى
 Schmiergeld; رِشوه، آجیل، حَقانه
@@ -2363,7 +2364,7 @@ Sinn; مَضمون، مَفهوم، مُفاد، مَقصود، مَعنى
 Sinnesorgan; دَستگاه ِ حِسى، اَندام ِ ـ
 sinngemäss;  ِطِبق ِ مَضمون، به فَحوا
 sinnlich; هَوَس باز، ـ ران، ـ نَفسانى
-sinnlos; اَلَکى
+sinnlos; اَلَکى، مِثل نَقش بَر آب، ناپايدار دَر خاطِر و ذِهن، بيهوده و عَبَث
 - es war sinnlos, weiterzumachen; اِدامهٔ این وَضع دیگََر فایده نَداشت
 - sinnloses Leben; زِندِگى ِعَبَث، ـ بیخود
 - etwas sinnloses machen; آب به ریسمان بَستَن، کار ِ عَِبَث و بیهوده کَردَن، آب به (با) غَربال پِیمودَن، آب به هاوِن کوفتَن
@@ -2746,7 +2747,7 @@ Speerwerfen; نِیزه زَنى، پَرتاب ِ نِیزه
 Speiche; پَره
 - Radspeiche; پَرهٔ چَرخ
 Speichel; ریق، تُف، بُزاق
-- Speichel tropft von seinen Lefzen; آب ِ دَهانَش می اُفتَد، آب راندَن آن از خوردَن چیزی تُرش و جُز آن و مَجازا سَخت شیفتهٔ  چیزی شُدَن
+- Speichel tropft von seinen Lefzen; آب ِ دَهانَش می اُفتَد 
 Speichelfluss; سَيَلان ِ بُزاق
 Speichellecker; تَمَلُق گو
 Speicher; اَنبار، کُروج، مَخزَن
@@ -2794,12 +2795,12 @@ Sperma; مَنى، آب ِ کَمَر
 Spermatophyta; گیاهان ِ گُلدار، پِیدازادان
 Sperre; سَد، راه بَند
 - der Spieler hat eine Sperre für das nächste Spiel; بازى کُن مَمنوعيَت از شِرکَت دَر بازى بَعدى دارَد
-- den Weg versperren; راه را سَد کَردَن
+- den Weg versperren; راه را سَد کَردَن، - بَستَن
 Sperrgebiet; مَنع ِ عُبور و مُرور، قُرُق
 sperrig; جاگیر
 - sperriges Gut; بادبار، بَدبار، کُلاه ِ جاگیر
 Sperrklausel; مادهٔ مانِع بَراى ِ وُرود به مَجمَع یا قَرار دادى
-- Sperrklausel (bei Wahl); مُقَرَرات ِ پَنج دَر صَد
+- 5 % Sperrklausel (bei Wahl); مُقَرَرات ِ پَنج دَر صَد
 Spesen; عَوارِض
 Spezerei; حُنوط
 - Verkauf von Spezerei; سَقَط فُروشی
@@ -2808,14 +2809,14 @@ Spezialisierung; تَخَصُص، تَخصیص، خُصوصى سازى
 Spezialist; ذى فَن، مُتَخَصِص
 - für so etwas braucht man einen Spezialisten; کار ِ هَر بُز نیست خَرمَن کوفتَن، گاو ِ نَر مى خواهَد و مَرد ِ کُهَن
 speziell; بالاِختِصاص، به ویژه، بِالاَخَص
-- ... hat spezielle Eigenschaften; داراى ِ صِفات ِ اِختِصاصى دارَد، ـ صِفات ِ ویژه اى دارَد
+- ... hat spezielle Eigenschaften; داراى ِ صِفات ِ اِختِصاصى بودَن، ـ صِفات ِ ویژه اى بودَن
 - speziell im Ausland; بالاَخَص دَر خارِج از کِشوَر
 - das eine Besonderheit dieser speziellen Gegend ist; که فَقَط خاص ِ این مَنطَقهٔ خاص است
 - ..., die speziell für diesen Zweck errichtet wurde; که مَخصوص ِ این کار ساخته بود
 - vom Allgemeinen zum Speziellen; از عام به خاص
 spezifisch; ویژه، مَخصوص
 - spezifisches Gewicht; وَزن ِ مَخصوص
-spezifizieren; مُشَخَص کَردَن، مُعَيِن ک
+spezifizieren; .مُشَخَص کَردَن، مُعَيِن ک
 sphärisch; کُرَوى، مُدَوَر
 Sphinx; اَبوالهول
 Spiegel; آئینه
@@ -2831,6 +2832,7 @@ spiegeln (s. -); مُنَعکِس شُدَن
 Spiegelung; اِنعِکاس
 spiegelverkehrt; قَرینهٔ مَعکوس شُده
 Spiel; بازى
+- er ging nicht auf das Spiel ein; او بَراى ِ نَتيجه بازى آسمان و ريسمان نَبافت
 - (Rad-) Spiel; لَقى ِ شُعاعى
 - Ausscheidungsspiel; بازى ِ جام ِ حَذفى
 - Hin- & Rückspiel; بازى ِ رَفت و آمَد
@@ -2844,15 +2846,15 @@ spielen; بازى کَردَن
 - am Strand spielen; ماسه بازی کَردَن
 Spieler; قُمار باز
 - Spieler (Sport); بازیکُن، بَزیگَر، وَرزِشکار
-Spielkarte; وَرَق ِ گَنجَفه، ـ بازى
+Spielkarte; وَرَق ِ گَنجَفه، وَرَق بازى
 Spielplatz; زَمین ِ بازى ِ بَچه ها، مِیدان ِ بازى
 Spielraum;
 - Verhandlungsspielraum; حُدود ِ مُذاکِره، مِیدان ِ عَمَل دَر مُذاکِره
 Spielzeug; اَسباب بازى، خَطوه
-Spiess; حَربه، نِیزه، زوبین
-- Spiess (zum Braten); سیخ
-- den Spiess umdrehen; خَنجَررا بَر گَرداندَن، نِیزه را گ.، وَرَق را گ.، نَعَل وارونه زَدَن
-Spiessbürger; آدَم ِ کوتاه نَظَر
+Spieß; حَربه، نِیزه، زوبین
+- Spieß (zum Braten); سیخ
+- den Spieß umdrehen; خَنجَررا بَر گَرداندَن، نِیزه را گ.، وَرَق را گ.، نَعَل وارونه زَدَن
+Spießbürger; آدَم ِ کوتاه نَظَر
 Spin; اسپین
 Spinat; اِسفِناج
 Spindel; دوک
@@ -2863,12 +2865,12 @@ Spinnennetz; تار ِ عَنکَبوت
 Spinnerei; ریسَندِگى
 Spinnrad; نَخ ریس، چَرخ ِ ریسَندِگى، چَرخ ِ دوک ریسی
 Spion; جاسوس
-- er wird als Spion von .. angesehen; او چِشم و گوش ِ فِلان به حِساب مى آيَد
+- er wird als Spion von ... angesehen; او چِشم و گوش ِ فِلان به حِساب مى آيَد
 Spionage; جاسوسى
 Spionagering; شَبَکهٔ جاسوسى
 Spionagesatellit; ماهوارهٔ اِکتِشافى
 spionieren; جاسوسى کَردَن
-- er spioniert mir dauernd nach; او خِیلی زاغ ِ سیاه مَرا چوب می زَنَد، او ذاغَم را ـ
+- er spioniert mir dauernd nach; او خِیلی زاغ ِ سیاه مَرا چوب می زَنَد
 - ausspionieren; سَر و گوشی ِ آب دادَن
 Spirale; حَلزونى، مارپیچى
 - Spirale (beim Polster); چَنبَره، فَنَر
@@ -2884,7 +2886,7 @@ Spitzbüberei; عَیار، شوخى، شِیطانى
 spitzbübisch; رَذیل
 Spitze;
 - der Politiker kam an die Spitze; سیاسَت مَدار بَر سَر ِ کار آمَد
-- an der Spitze von ..; دَر رأس ِ..، دَر مُصَدَر ِ
+- an der Spitze von ...; ِدَر رأس ِ...، دَر مُصَدَر
 - er ist Spitze; او عالى است، او دَرَجهٔ اَوَل است
 - einer Sache die Spitze nehmen; تَنِش ِ دَرگیرى را رَفع کَردَن
 - er reiste an der Spitze eines Komittees; او دَر رأس ِ يِک هَیأت سَفَر کَرد
@@ -2951,7 +2953,7 @@ Sprache; زَبان
 - gehobene Sprache; زَبان ِ رَسمى ِ اَدَبى
 - gesprochene Sprache; زَبانِ مُحاوِره
 - geschriebene Sprache; زَبانِ نِوِشتاری
-- er hat seine Sprache wiedergefunden;  .زَبانِش دِراز شُد، زَبانَش را باز کَرد، تَوانائى حَرف زَدَن را پِیدا ک
+- er hat seine Sprache wiedergefunden;  زَبانِش دِراز شُد، زَبانَش را باز کَرد، تَوانائى حَرف زَدَن را پِیدا کَرد
 - Alltagssprache; زَبان ِ عُرف، ـ عامیانه
 - künstliche Modellsprache; زَبان ِ آرمانى ِ ساختِگى
 - Umgangssprache; زَبان ِ عامیانه، - مُتَداوِل ِ مَردُم
@@ -3007,7 +3009,7 @@ Spross;
 - Spross (bei Pflanze); جَوانه
 - Spross, Nachkomme; (pl.)  (خَلَف (اَخلاف)، عَقیب (اَعقاب
 Sprosse; پِله
-Sprotte; خُمسی
+Sprotte; از نوع شَگ‌ ماهیان
 Spruch; شُعار، مَثَل
 - Spruch aufsagen; وِِرد خوندَن
 - Sprüche klopfen; حَرف را سَر ِ زَبان اَنداختَن
@@ -3021,9 +3023,9 @@ Sprühregen; ریز باران، نَم نَم باران مى بارَد
 Sprung; جَست، جَهِش، خیز، پَرِش
 - mit einem Sprung; با يِک خیز
 - einen Sprung bekommen (z.B. Glas); تَرَک خوردَن
+- er kam für einen Sprung bei ... vorbei; او يِک تُک ِ پا به ... سَر زَنَد
 - Kopfsprung ins Wasser machen; شیرجه رَفتَن
 - ich mache vor Freude einen Luftsprung, weil ...; دِلَم بَرای ِ ... پَر می زَنَد، به هَوا پَریدَم
-- er kam für einen Sprung bei ... vorbei; او يِک تُک ِ پا به ... سَر زَنَد
 Sprungbein (z.B. bei Heuschrecke); پاى ِ جَهَنده
 Sprungbrett (für die Karriere); نَردِبان ِ تَرَقى، جَستگاه
 Sprungkraft; قُوهٔ پَرِش
@@ -3031,15 +3033,15 @@ Sprungmatratze; دوشَک ِ فَنَرى
 Spucke; آب ِ دَهَن
 - dem läuft die Spucke aus Gier; آب از لَب و لوچه اَش راه مى اُفتَد
 spucken;  .سینه صاف کَردَن، تُف ک
-Spülbagger; ماشين  ِ شِن کِش
+Spülbagger; ماشين ِ شِن کِش
 Spülbecken; لَگَن ِ ظَرفشوئى
 Spule; ماسوره، قِرقِره
 spülen; ظَرف را شُستَن
-Spur; پِژواک، رَد  ِ پا، اَثَر ـ
+Spur; پِژواک، رَد ِ پا، اَثَر ـ
 - die Spur aufnehmen; رَد ِ کِسى را گِرِفتَن
 - ohne eine Spur zu hinterlassen; بى هیچ پِژواک ِ نِشانى از گُذَر
 - eine Spur hervorbringen, - ziehen; رَدى پَدید آوَردَن
-- keine Spur von .. zu sehen; از .. اَثَرى بِدَست نَیامَد
+- keine Spur von ... zu sehen; از ... اَثَرى بِدَست نَیامَد
 - keine Spur von ihm haben; از او هیچ خَبَر و اَثَری نَداشتَن
 - jem. auf der Spur sein; رَد ِ کِسى را پِیدا کَردَن
 - Spuren der Wunden, Narben; جاى ِ زَخم
