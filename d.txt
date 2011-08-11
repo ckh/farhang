@@ -1104,7 +1104,7 @@ drehen; چَرخیدَن
 - gedreht; مَفتول
 Dreher; تَراش کار، خَراط
 Drehgeschwindigkeit; سُرعَت ِ چَرخِش
-Drehmoment; گَشتاوَر
+Drehmoment; گَشتاوَر، مُمان
 Drehorgel; اُرگ ِ دَندانه ای
 Drehpunkt; مَدار، نُقطهٔ دَوَران، ـ گَردان
 Drehregler; رِگولاتُر ِ اِلقائى

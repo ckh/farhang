@@ -3061,11 +3061,13 @@ sputen; شِگِفتَن، عَجَله کَردَن
 - spute dich!; عَجَله کُن
 Staat; (pl.) دولَت (دُوَل)، مَملَکَت
 Staatenbund; اِتِحاد ِ دُوَل
-Staatenloser; شَخص ِ فاقِد ِ تابِعيَت
+Staatenloser; شَخص ِ فاقِد ِ تابِعيَت، بی مِلیَت
+Staatsangehöriger; (pl.) (تَبَعِه (اَتباع
 Staatsangehörigkeit; تابِعيَت، مِليَت
 Staatsanwalt; دادسِتان، مُدَعى اُلعُموم
 - Hilfsstaatsanwalt; دادیار
 Staatsanwaltschaft; داد سِتائى
+Staatsbürger; شَهروَند
 Staatsbürgerkunde; تَعلیمات ِ مَدَنى
 staatsbürgerlich; مَدَنی
 - staatsbürgerliche Erziehung; تَعلیمات ِ مَدَنى
@@ -3078,7 +3080,7 @@ Staatsschulden; دَیون ِ دولَتى
 Staatssicherheitsdienst; سازِمان ِ اَمنيَت ِ کِشوَر
 Stab; عَصا، چوبدَستى
 - militärischer Stab; سِتاد ِ نِظامى
-Stabhochsprung; پَرِش با نیزه
+Stabhochsprung; پَرِش با نِیزه
 stabil; پایدار، ثابِت، اُستُوار
 stabilisieren;  .تَعدیل کَردَن، ثابِت ک
 - stabilisierender Faktor; عُنصُر ِ تَعدیل
@@ -3098,35 +3100,38 @@ Stadion; اِستادیوم
 Stadium; مَرحَله، دوره
 Stadt; شَهر
 - Kleinstadt; شَهرَک
-Stadtbevölkerung; جَمعيَت ِ شَهر
+Stadtbevölkerung; جَمعيَت ِ شَهر، مَردُم ِ شَهر نِشین
 Städtebau; شَهر سازى، شَهرَک سازى
 Städter; شَهرى، شَهر نِشین، اَهل ِ شَهر
 Stadtgespräch; اَسباب ِ حَرف
-- damit er nicht zum Stadtgespräch wird; که اَسباب ِ حَرفی واسه اَم توی ِ مَحَل نَباشَم
+- damit er nicht zum Stadtgespräch wird; که اَسباب ِ حَرفی توی ِ مَحَل نَباشَد
 städtisch; شَهرى
-Stadtmauer; شَهر بَند
-Stadtratsmitglied; عُضو ِ اَنجُمَن شَهر
+Stadtmauer; شَهر بَند، دیوار ِ شَهر
+Stadtrat; اَنجُمَن ِ شَهر
+Stadtratsmitglied; عُضو ِ اَنجُمَن ِ شَهر
 Stadtregion; شَهرِستان
 Stadtreinigung; رُفت و روب ِ و پاکسازى ِ شَهر
 Stadtsanierung; نوسازى ِ شَهرى
-Stadtstaat (z.B. Bremen); ایالَت ِ شَهرى (بِطور ِ مِثال برِمِن
+Stadtstaat (z.B.: Bremen); (ایالَت ِ شَهرى (بِطور ِ مِثال: برِمِن
 Stadtstreicher; آدَم ِ آش و لاش، گِداگُشنه
-Stadtverwaltung; اِدارۀ اُمور ِ شَهر، مَأمورین ِ بَلَدیه
+Stadtverwaltung; اِدارهٔ اُمور ِ شَهر، مَأمورین ِ بَلَدیه
 Stadtviertel (kuj); بَخش، ناحیه، کوى
 Staffelei; سه پایهٔ نَقاشى
 Staffellauf; دُو ِ اِمدادى
-Stagnation; کَس رُکود
+Stagnation; کَساد، رُکود
 - Stagnation des Marktes; کَساد ِ اِقتِصادى، رُکود ِ ـ
 stagnieren; به وُقوف رِسیدَن، به کَسادى اُفتادَن
 stagnierend; کاسد، راکِد
 Stahl; فولاد
-- gehärteter (ungehärteter) Stahl;  (فولاد ِ آبدیده (نَدیده
+- gehärteter (ungehärteter) Stahl;  (فولاد ِ آبدیده (- آبنَدیده
 Stahlbeton; بِتُن ِ مُسَلَح، ـ فولادى
 Stahlwolle; پَشم ِ فولادى
 staksen; تاتی تاتی کَردَن
 Stalagnit; اِستالاگمیت، گُلفَهشَنگ ِ مَعکوس
 Stalaktit; اِستالاکتیت، گُلفَهشَنگ
 Stall; اِسطَبل، طَویله
+- Pferdestall; آخور
+Stallmeister; آخور سالار
 Stamm;
 - Stamm (des Volkes Israels); سِبط
 - Baumstamm; تَنهٔ دِرَخت
@@ -3138,9 +3143,9 @@ Stammbuch; نَسَب نامه، تَبارنامه، شَجَره نامه
 stammeln;
 - anfangen zu stammeln; به لُکنَت اُفتادَن
 stammen;
-- aus Berlin stammen; مال ِ بِرلین بودَن، اَهل ِ
-- die Geschichte stammt von ..; حِکايَت ناشى از
-- das älteste ... stammt aus der Zeit um ..; قَدیم تَرین .. از حَوالى ِ سَنهٔ .. مى باشَد
+- aus Berlin stammen; ِ مال ِ بِرلین بودَن، اَهل
+- die Geschichte stammt von ...; حِکايَت ناشى از
+- das älteste ... stammt aus der Zeit um ...; قَدیم تَرین ... از حَوالى ِ سَنهٔ ... مى باشَد
 - das stammt alles von mir; هَمه را از خودَم جور کَرده بودَم
 Stammesgeschichte; تاریخ ِ ایلاتى
 stämmig; تَنومَند، قَوى
@@ -3153,10 +3158,10 @@ Stammwähler; اِنتِخاب کُنَندِگان ِ سُنَتى
 Stand;
 - Stand, bestimmte Anzahl; نِصاب
 - der neue Stand (z.B. bei einer Aktion); حَد ِ نِصاب ِ جَدید
-- Kenntnis des neuesten technischen Standes von ...; شِناخت ِ آخَرین فَراوَرى ها دَر اَمر ِ ...
+- Kenntnis des neuesten technischen Standes von ...; شِناخت ِ آخَرین فَراوَرى ها دَر اَمر
 - einen Stand aufmachen;  .دَکه بَر پا کَردَن، ـ دايِر ک
 - im Stand marschieren; رِژه بَر جا
-- Berufsstand; (pl.) صِنف (اَصناف
+- Berufsstand; (pl.) (صِنف (اَصناف
 - zum Berufsstand gehörend; صِنفى
 - Fischstand; بَساط ِ ماهى فُروشى
 - Standverkäufer; بَساطی
@@ -3208,21 +3213,20 @@ Star;
 - Star (Vogel); سار
 - grauer Star (med.); آب ِ مَروارید
 - grüner Star (med.); آب ِ سَبز
-- schwarzer Star; آب ِ سیاه
+- schwarzer Star (med.); آب ِ سیاه
 stark; قَوى، نیرومَند
 - starke Arme; بازوى ِ سُتُرگ
-- starke äste; شاخه هاى ِ قُطور ِ دِرَخت
+- starke Äste; شاخه هاى ِ قُطور ِ دِرَخت
 - starke Persönlichkeit; مَتین
 - starker Kaffee; قَهوهٔ غَلیظ، ـ پُر رَنگ
 - starkes Verb; فِعل ِ بى قاِعده
 - das ist ein starkes Stück; هَضمَش نِمى شَوَد کَرد
-- wer ist stärker als Gott?; چه کِسى قُدرَت ِ بَرتَر از خُدا است؟
 Stärke;
 - Stärke, Macht; قُدرَت، تَنومَندى، نیرو
 - Wäschestärke; نِشاسته، آهار
 - Reservestärke; نِشاستهٔ ذَخیره اى
 stärken;
-- stärken (Wäsche); نِشاسته زَدَن، آهار ز
+- stärken (Wäsche); .نِشاسته زَدَن، آهار ز
 - stärken, kräftigen;  .قُرص کَردَن، مُقَوى ک
 - s. stärken durch Nahrung;  .خودرا تَهبَندى کَردَن، ـ مُقَوى ک
 stark machen;
@@ -3238,10 +3242,12 @@ starren;
 - vor Dreck starren;  .دَر کِثافت غوطه وَر شُدَن، از کِثافَت پوشیده ش
 - die Bettwäsche starrte vor Schmutz; مَلافه از کِثافَت به سیاهى مى زَد
 - in die Ferne starren; چِشم به دورترها دوختَن
-- geistesabwesend zu .. starren; با بَلاهَت به .. خِیره شُدَن، ـ خِیره خِیره نِگاه کَردَن، بِر و بِر نگاه کَردَن
-starrköpfig; سَرسَخت
-Starrkrampf; کُزاز
+- geistesabwesend zu .. starren; با بَلاهَت به .. خِیره شُدَن، ـ خِیره خِیره نِگاه کَردَن، بِر و بِر نِگاه کَردَن
+starrköpfig; سَرسَخت، یِکدَنده، لَجباز
+Starrköpfigkeit; یِکدَندِگی، سَرسَختی، لَجوجَت
+Starrkrampf (Wund-); کُزاز
 Start; آغاز، شُروع
+- an den Start; آماده باشید بَرای ِ مُسابِقه
 starten;  .شُروع کَردَن، آغاز ک
 - das Auto starten; ماشین را اِستارت زَدَن
 - das Flugzeug startet; هُواپِیما به پَرواز دَر مى آيَد
@@ -3258,9 +3264,9 @@ stationär; بَستَری
 - stationäre Behandlung; دَرمان توأم با بَستَرى
 stationieren;  .مُستَقِر کَردَن، نَصب ک
 - die Soldaten sind in ... stationiert; سَربازان دَر ... مُستَقِرَند
+Stationierung; اِستِقرار
 - Stationierung von UN-Truppen; اِستِقرار ِ نیروهاى ِ سَازِمان ِ مِلَل ِ مُتَحِد
 statisch; ایستا، ساکِن
-- statisches Moment; گُشتاوَر
 Statist; سیاهى لَشکَر
 Statistik; آمار، آمار گیرى
 - Statistik erheben; آمار گِرِفتَن
@@ -3271,7 +3277,7 @@ stattfinden; صورَت گِرِفتَن، ـ پَذیرُفتَن، بَر گُ
 - es findet keine Prüfung statt; اِمتِحانات اَنجام نِمى گیرَند
 - Versuch hat stattgefunden; آزمايِش صورَت گِرِفته
 stattgeben;
-- seiner .. stattgeben; با .. مُوافِقَت کَردَن
+- seiner ... stattgeben; با ... مُوافِقَت کَردَن
 Statthalter; نايِب ِ مَناب
 stattlich;
 - eine stattliche Zeitschrift; مَجَلهٔ پَر و پا قُرص
@@ -3338,7 +3344,7 @@ Steckschlüssel; آچار ِ بوکس
 Steg; راه رو
 - Steg (bei Gitarre, Geige, u.ä.); زِه گیر، خَرَک
 Stegreif; اِرتِجال، بَداهَت، بَداهه نَوازى
-- aus dem Stegreif; اِرتِجالى، با لبَداهه
+- aus dem Stegreif; اِرتِجالى، بالبَداهه
 stehen; ایستادَن
 - bleib stehen; (woissā) وایستا
 - Steh auf!; پا شو
@@ -3350,7 +3356,7 @@ stehen; ایستادَن
 - seine Sache steht gut; کَبکَش خوب مى دانَد
 - wie stehts? (z.B. beim Fussball); چَند چَند هستید؟
 - er kann vor Freude nicht stillstehen; او از خوشحالی روی ِ پا بَند نیست
-stehen bleiben;
+stehenbleiben;
 - wie vom Blitz getroffen blieb er stehen; مانَند ِ بَرق گِرِفته دَر جايَش مى خُشکَد
 - meine Uhr ist stehengeblieben; ساعَتَم مى خوابَد
 stehend; سَر ِ پا
@@ -3365,8 +3371,8 @@ Steigbügel; رِکاب
 - Steigbügelhalter (auch im übertragenen Sinn); رِکاب دار
 steigen;
 - auf den Berg steigen; بالاى ِ کوه رَفتَن
-- der Geruch von .. steigt ihm in die Nase; بوى ِ .. به مَشامَش مى خورَد
-- steigender Druck; فِشار ِ مُتَزاید
+- der Geruch von ... steigt ihm in die Nase; بوى ِ ... به مَشامَش مى خورَد
+- steigender Druck; فِشار ِ مُتَزایِد
 steigern;
 - die Produktion steigern; تولیدرا اَفزايِش دادَن
 - manchmal steigerte s. das Herzklopfen; تَپِش ِ قَلب گاهى شِدَت مى گِرِفت
@@ -3382,7 +3388,8 @@ Stein; سَنگ
 - wer einen Stein ins Rollen bringt, auf den fällt er zurück; هَر که سَنگى بِغِلطانَد بَر او خواهَد بَرگَشت
 - Feldstein; قُلبه سَنگ
 Steinbock; بُز ِ کوهى
-- grosser Steinbrocken; پاره سَنگ، سَنگ ِ پارهٔ بُزُرگ
+Steinbrocken; پارهٔ سَنگ، سَنگ ِ پاره
+- grosser Steinbrocken; سَنگ ِ پارهٔ بُزُرگ
 Steinbruch; مَعدَن ِ سَنگ
 Steingut; ظُروف ِ سُفالى
 steinig; سَنگدار، سَنگى
@@ -3399,14 +3406,14 @@ Steissbein; دُم ِ غازه، خار ِ عانه، اُستُحوان ِ دُ
 Stelle; جا، گاه، مَکان
 - auf der Stelle, sofort; فى الفور، هَمین دَم، دَر جا
 - er starb auf der Stelle; او جابِجا مُرد
-- s. an die Stelle von .. versetzen; با قَرار گِرِفتَن دَر جاى ِ فِلان، جاى ِ فِلان را گِرِفتَن
+- s. an die Stelle von ... versetzen; با قَرار گِرِفتَن دَر جاى ِ فِلان، جاى ِ فِلان را گِرِفتَن
 - eine Zahl mit drei Stellen; يِک عَدَد ِ سه رَقمى
 stellen;
 - die Uhr stellen; ساعَت را میزان کَردَن
 - Wecker stellen; ساعَت ِ شُماطه را تَنظیم کَردَن
 - zur Diskussion stellen; به بَحث گُذاشتَن
 - jem. auf die Beine stellen; کِسى را روى ِ پا ایستاندَن، ـ ایستانیدَن
-- jem. ein Bein stellen; کَله پائىن مى کُنَد
+- jem. ein Bein stellen; کَله پائىن کَردَن
 - jem. vor vollendete Tatsachen stellen; دَر بَرابَر ِ اَمر ِ واقِع قَرار دادَن
 - ihr wurdet an ihren Platz gestellt; شُما سَر ِ جاى ِ آنها قَرار گِرِفتید
 - etwas an seinen Platz stellen; چیزى را سَر ِ جايَش گُذاشتَن
@@ -3422,7 +3429,7 @@ stellig;
 Stellmacher; چَرخه ساز
 Stellung; موضِع
 - Stellung, Ansehen; مَنزَلَت
-- (klare) Stellung beziehen; موضِع  اِتِخاذ کَردَن ،  مُحکَمى ـ ، موضِع را گِرِفتَن
+- (klare) Stellung beziehen; موضِع  اِتِخاذ کَردَن، موضِع را گِرِفتَن
 - Stellung des Feindes (*: Lager); موضِع ِ اُردوى ِ دُشمَن
 - die Armee begibt s. in Stellung; لَشکَر صَف ِ آرائى مى کُنَد
 - für jem. Stellung beziehen; جانِب ِ کِسى را گِرِفتَن
@@ -3448,7 +3455,7 @@ Stenograph; تُندنِویس
 Stenographie; تُندنِویسی
 Steppe; اِستِپ
 steppen; بَخیه زَدَن، دوختَن
-Sterbebett;
+Sterbebett; بَستَر ِ مَرگ
 - auf dem Sterbebett liegen; دَر بَستَر ِ مَرگ خوابیدَن
 Sterbehilfe; مَرگ بَراى ِ رَفع ِ رَنج، کُشتَن ـ
 sterben; فوت کَردَن، رِحلَت ک.، مُردن، جان سِپُردن
@@ -3464,7 +3471,7 @@ sterben; فوت کَردَن، رِحلَت ک.، مُردن، جان سِپُر
 - das Sterben erleben; جان دادَن ِ مُحتَضِررا دیدَن
 sterblich; مُردَنى، فانى
 Sterbliche; زَمانیان
-Sterblichkeit; مَرگ و میر، مُتَوَفیات^
+Sterblichkeit; مَرگ و میر، مُتَوَفیات
 stereotyp; يِکنَواخت
 - Berufsstereotyp; رَفتار ِ قالِبى ِ شُغلى
 steril; عَقیم، سَتَروَن
@@ -3477,7 +3484,7 @@ Sternwarte; رَصَد خانه
 Stethoskop; گوشى ِ طَبى
 stetig; داِئم، مُدام، پِى در پِى
 stets; هَمیشه، هَمواره
-Steuer; رُل، فَرمان، غَربیل ِ فَرمان، سُکان
+Steuer (Lenkrad); رُل، فَرمان، غَربیل ِ فَرمان، سُکان
 - Steuer (finanz.); مالیات
 - Steuern einziehen; تَحصیل ِ مالیات
 - Erbschaftssteuer; مالیات بَر اِرث

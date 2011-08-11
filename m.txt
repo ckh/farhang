@@ -1047,12 +1047,12 @@ mollig; گوشتالو، چاق و چِله
 - hier ist es mollig warm; اینجا گَرم و نَرم است
 Moment;
 - Moment, Augenblick; طَرفه، دَم، لَحظه
-- statisches Moment; گَشتاور
 - in jedem Moment; دَم بِدَم، هَر لَحظه
 - ein flüchtiger Moment; لَمحِه
 - für einen Moment reinschauen; يِک تَک پا هَم میايَم به مَنزِلِت
 - aus einem Moment werden 2 Wochen; تَک پا میشَوَد ۲ هَفته
 - im letzten Moment das Geld auftreiben; با هِزار جان کَندَن پول را تأمین کَردَن
+- Drehmoment; گَشتاوَر، مُمان
 momentan;
 - momentan, im Augenblich; فِعلاً
 - momentan, kurzlebig; آنى، لَحظه اى، زودگُذَر
