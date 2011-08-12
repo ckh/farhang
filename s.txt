@@ -3553,14 +3553,14 @@ still; آرام، ساکِت
 - stiller Ort; جای ِ دِنجی
 - stille Wasser sind tief; فِلفِل نَبین چه ریزه!، آب زیر ِ کاه
 - je stiller, desto besser; هرچه بى سَر و صِداتَر بِهتَر
+- im stillen; دَر نَهان
+- im stillen vor s. hin lachen; هِق هِق خَنده
 Stille; سُکوت، خاموشى، آرامِش
-- im Stillen; دَر نَهان
-- im Stillen vor s. hin lachen; هِق هِق خَنده
 - für mich die Stille suchen; با خودَم خِلوَت كُنَم
 stilllegen; خواباندَن
 - das Auto stilllegen; ماشین را خواباندَن
-- die Fabrik ist stilllgelegt; کارگاه بِحال ِ تَعطیل اُفتاده
-Stilllegung (Arbeit); تَعطیل شُدَن، بَسته ش
+- die Fabrik ist stillgelegt; کارگاه بِحال ِ تَعطیل اُفتاده
+Stilllegung (Arbeit); .تَعطیل شُدَن، بَسته ش
 stillen; شیر دادَن
 - das Blut stillen; خون را بَند آوَردَن
 - das Bedürfnis von jem. stillen; نیاز ِ کِسى را بَر آوَرده کَردَن
@@ -3617,7 +3617,7 @@ Stimmungen; اِحساسات
 - die Stadt zeigt s. in bester Feststimmung; شَهر حال و هَوای ِ روزهای ِ عِید را دارَد
 Stimmungsmache; نُفوذ، تَبلیغات، تأثیر
 - stimmungsmachende Propaganda; تَبلیغات ِ خو سازى
-Stimmzettel; وَرَقه رأى
+Stimmzettel; وَرَقهٔ رأى
 Stimulans; مُحَرِک، اَنگیزه، مُهَيِج
 stimulieren; تَحریک کَردَن
 - sexuell stimuliert werden; بود بود می شَوَد
@@ -3645,7 +3645,7 @@ Stock;
 - Stock; عَصا
 - Holzstock; عًصای ِ چوبی
 - Zeigestock; چوب ِ اَلِف
-Stöckelschuhe; پاشنه نَخواب، کَفش ِ پاشنه دار
+Stöckelschuhe; پاشنهٔ نَخواب، کَفش ِ پاشنه دار
 stocken; مَکس کَردَن
 - stockend sprechen; بُریده بُریده حَرف زَدَن
 stockfinster;
@@ -3670,7 +3670,7 @@ stoisch; رَواقى
 Stollen; تونِل
 - Gebirgsstollen; نَقب ِ کوه
 stolpern;  .پیل پیلى رَفتَن، پا لیز خوردَن، سِکَندَرى خ
-- Stolperschnur für jem. legen; زِه کِسى را کِشیدَن
+- Stolperschnur für jem. legen; زِه ِ کِسى را کِشیدَن
 Stolperstein;
 - Stolpersteine für das weitere Vorgehen; چالِشهای ِ پیش رَوی
 stolz; بَر اَفراشته، مَغرور
@@ -3689,6 +3689,8 @@ Stop; تَوَقُف
 stopfen; چَپاندَن
 - in die Tasche stopfen; توى ِ کیف چَپاندَن
 - stopfen, flicken; رُفوگَری کَردَن
+- Pfeife stopfen; پیپ را پُر کَردَن
+- Gans stopfen; غاز چاق کَردَن
 - gestopfte Kleidung; لباس مُرَقَع
 Stopfen (m); دَر
 - Stopfen, Flicken; رُفوگَری
@@ -3700,7 +3702,7 @@ stoppen; تَوَقُف کَردَن، موقوف ک.، نِگَه داشتَن
 - er stoppte; او تَوَقُف کَرد، او به عَقَب لَنگَر داد
 Stoppschild; تابلوى ِ ایست
 Stoppuhr; ساعَت ِ اِستُپ
-Stör; سَگ ماهى
+Stör; ماهی ِ خاویار، تاس ‌ماهی
 Storch; لَک لَک
 Stores; پَرده
 - blumiger Store; پَردهٔ تور ِ گُلدار
@@ -3713,7 +3715,7 @@ stören; کِسى را ایذاء کَردَن، ـ مُخَل ک.، ـ زَحم
 störend; مُخِل
 - hindern & störend; مانِع و رادِع
 - dass, was s. störend zwischen uns stellte; چیزى که بِین ِ ما حائِل شُده است
-- die störenden Tonnen liessen es nicht zu; تُنهاى ِ حائِل نِمى گُذاشت
+- die störenden Tonnen liessen es nicht zu; تُنهاى ِ حائِل نِمى گُذاشت که
 Störenfried; تَحریک کُنَنده
 - Störenfriede der Klasse; شُلوغهاى ِ کلاس
 Störquelle; مَنبَع ِ اِغتِشاشات ِ صوتى
@@ -3730,39 +3732,39 @@ Störung; اِختِلال
 - Geistesstörung; خَبط ِ دَماغ، اِختِلال ِ روحى
 - die Zeit war nicht frei von Störungen; این وَقت خالى از مُزاحِمَت نِمى شُد
 störungsfrei; بِدون ِ پارازیت، ـ اِغتِشاشات
-Stoss; ضَربه
-- Genickstoss versetzen; قَفا زَدَن
-Stossdämpfer; ضَربه گیر
-Stössel; کوبه، دَستهٔ هاوَن
-stossen;
-- jem. stossen;  .به کِسى پُشت ِ پا زَدَن، ضَربه ز
-- s. stossen; تَصادُم کَردَن، به چیزى خوردَن
-- auf etwas stossen; به چیزى بَرخوردَن، چیزى را پِیدا کَردَن
-- stossende Kuh; گاو ِ شاخ زَن
-Stossseufzer; تِلِنگ دَر رَفتَن
-Stossstange; سِپَر ِ ماشین
-stossweise; موج دار
-Stosszahn; يَشک، دَندان ِ ناب
+Stoß; ضَربه
+- Genickstoß versetzen; قَفا زَدَن
+Stoßdämpfer; ضَربه گیر
+Stößel; کوبه، دَستهٔ هاوَن
+stoßen;
+- jem. stoßen;  .به کِسى پُشت ِ پا زَدَن، ضَربه ز
+- s. stoßen; تَصادُم کَردَن، به چیزى خوردَن
+- auf etwas stoßen; به چیزى بَرخوردَن، چیزى را پِیدا کَردَن
+- stoßende Kuh; گاو ِ شاخ زَن
+Stoßseufzer; تِلِنگ دَر رَفتَن
+Stoßstange; سِپَر ِ ماشین
+stoßweise; موج دار
+Stoßzahn; يَشک، دَندان ِ ناب
 stottern; لُکنَت خوردَن، با لُکنَت حَرف زَدَن، کُند زَبان، گِرِفتَن ِ زَبان
 - er stottert; زَبانَش گِرِفته است
-- er stotterte s. was zurecht;  ِ از این زَبان بَسته هارا لوله کرد توى
-Stottern; تِته پِته، لِکنَت ِ زَبان
+- er stotterte s. was zurecht;  ِ از این زَبان بَسته هارا لوله کَرد توى
+Stottern; تِته پِته، لُکنَت ِ زَبان
 - ins Stottern kommen;  به تِته پِته اُفتادَن
 stotternd; تِته تِپه کُنان
 - stotternd sagte ich ...; تِته تِپه کَردَم و گُفتَم
-- Strafantrag; تَقاضای ِ مُجازات
+Strafantrag; تَقاضای ِ مُجازات
 - Strafantrag stellen; تَقاضای ِ مُجازات کَردَن
 Strafaussetzung; تَعطیل ِ مُجازات
 - bedingte Strafaussetzung; کِیفَر ِ تَعلیقى
-strafbar; مُجرِم، سَزاوار ِ مُجازات
-- er macht s. strafbar; او مُرتَکِب جُرم میشود
+strafbar; مُجرِم، سِزاوار ِ مُجازات
+- er macht s. strafbar; او مُرتَکِب ِ جُرم میشَوَد
 Strafbefehl; حُکم ِ مُجازات
-Strafe; سَزا، نَسَق، تأدیب، مُجازات، کِیفَر، جَزا، تَنبیه، تَعزیر
+Strafe; سِزا، نَسَق، تأدیب، مُجازات، کِیفَر، جَزا، تَنبیه، تَعزیر
 - bis zum letzten Pfennig die Strafe bezahlen; تا ریال ِ آخَر جَریمه را پَرداختَن
 - Strafe für andere erleiden; چوب ِ کِسی را خوردَن
 - das ist die gerechte Strafe für seine Tat; حَق ِ کاررا کَف ِ دَستِش گُذاشته است
-- einer (exemplarischen) Strafe zugeführt worden sein; چیزی مُثله شُده
-strafen;  .نَسَق کَردَن تَنبیه ک
+- jem. einer exemplarischen Strafe zuführen (als Abschreckung); کِسی را مُثله کَردَن
+strafen;  .نَسَق کَردَن، تَنبیه ک
 straff; مُحکَم
 - straffe Organisation; سازِمان ِ مُنجِم
 - straffes Gewebe; بافت ِ مُتَراکِم
@@ -3778,7 +3780,7 @@ Strafprozessordnung; قانون ِ مُحاکِمه
 strafrechtlich;
 - strafrechtliche Verfolgung; تَعقیب ِ کِیفَرى
 Strafregister; سابِقهٔ کِیفَرى، سوء ِ سابِقه، سوء ِ پیشینه، فِهرِست ِ مُجرِمین
-Strafstoss; پِنالتى ِ گُلى ِ حَوالهٔ دَروازه،  پِنالتى
+Strafstoß; پِنالتى ِ گُلى ِ حَوالهٔ دَروازه، پِنالتی
 Strafverfahren; دادرِسى ِ کِیفَرى
 Strafversetzung; اِنتِقال ِ تأدیبى
 Strafvollzug; اِجراى ِ کِیفَر
@@ -3789,11 +3791,11 @@ Strahler; نور اَفکَن
 Strahlung; تَشَعشُع، تابِش
 - radioaktive Strahlung; تابِش ِ رادیوئى
 strahlungsarm;
-- strahlungsarmer Bildschirm; مُنیتور با تَشعَشُعات ِ زیان آوَر ِ کَم
-Strahlungsdosis; اَندازهٔ تَشَعُشعى
+- strahlungsarmer Bildschirm; مُنیتور با تَشَعشُعات ِ زیان آوَر ِ کَم
+Strahlungsdosis; اَندازهٔ تَشَعشُعى
 strammstehen; شَق ایستادَن
 strampeln; دَست و پا زَدَن
-Strand; (pl.)  (کِنار ِ دَریا، لَب ـ، ساحِل (سَواحِل
+Strand; (pl.)  (کِنار ِ دَریا، لَب ِ دَریا، ساحِل (سَواحِل
 - am Strand spielen; ماسه بازی کَردَن
 Strandhütte; پِلاژ
 Strapaze; زَحمَت
@@ -3832,7 +3834,8 @@ streben;
 Strecke; مَسافَت، فاصِله، مَسیر
 strecken; کِش آمَدَن، کِشیدَن، طَویل شُدَن
 - den Arm strecken; بازو را دِراز کَردَن
-- sie strecken s. und ..; بَدَنِشان را کِش و قوسى مى دَهَند و
+- sie strecken s. und ...; بَدَنِشان را کِش و قوسى مى دَهَند و
+streckterlängs;
 - streckterlängs daliegen; دِراز به دِراز اُفتاده
 - sie ist streckterlängs hingefallen; او قَد تا قَد دِراز کِشیده بود
 streckziehen (z.B. Eisen); دِراز کَردَن
@@ -3849,21 +3852,22 @@ Streichholz; کِبریت
 Streichung; حَذف
 Streife; کَشیکچى
 - Polizeistreife; پُلیس گَشت
-streifen; به چیزى زُل زَدَن
+streifen; لَمس کَردَن
+- mit einem Blick streifen; به چیزى زُل زَدَن
 - er streift mich mit seinem Auto; با ماشینَش به مَن می خورَد
 Streifen (m); خَط
 Streifenwagen; ماشین ِ گَشت
 streifig; خَطخَطى
 Streifzug (durch die Literatur); گُذَرى بَر اَدَبیات
 Streik; اِعتِصاب
-- einen Streik durchführen; نِشَستَن بَس است
+- einen Streik ausrufen; اِعتِصاب به راه اَنداختَن، - اِعلام کَردَن
 Streikausbruch; آغاز ِ اِعتِصاب
 streiken; اِعتِصاب کَردَن
 Streit; مُرافِعِه، دَعوا، اِختِلاف، مُشاجِره، جَر و بَحث، مُناقِشه، مُنازِعه، نِزاع
 - Streit verursachen; جَنگولَک بازى دَر آوَردَن
 - wir hatten einen Streit; مَن و او حَرفِمان شُد
 - der Streit geht hin und her; حَرفهای ِ ایشان به بِگو مَگو کِشید
-- suchst du Streit?; کَل کَل می کُنی
+- suchst du Streit?; کَل کَل می کُنی؟
 streitbar; با پَرخاش، مُناقَشه اَنگیز
 streiten;
 - wegen etwas streiten; دَر مورِد ِ چیزى قیل و قال کَردَن
@@ -3885,7 +3889,7 @@ streitsüchtig; پَرخاش جو، جَنگجو
 - streitsüchtige Frau; سَلیطه
 - streitsüchtige Gesinnung; روح ِ پَرخاشگَر
 streng;
-- sie sind .. gegenüber streng; آنها نِسبَت به .. سَخت گیر هَستَند
+- sie sind ... gegenüber streng; آنها نِسبَت به ... سَخت گیر هَستَند
 Strenge; تَشَدُد
 - Strenge walten lassen; سَخت گیرى کَردَن
 strengstens;
@@ -3903,7 +3907,7 @@ Strich; خَط
 - wie ein Strich in der Landschaft; يِک آدَم مِثل ِ چوب ِ کِبریتى
 - jem. nach Strich & Faden beschimpfen; کِسى را حِسابى دَم ِ فُحش گِرِفتَن
 stricheln; خط چین کَردَن، نُقطه گُذارى ک.، خَط خَط کِشیدَن
-Strichmarke; خَط نِشانه، ـ اَندازه
+Strichmarke; خَط ِ نِشانه، خَط ِ اَندازه
 Strichraster; تَرام ِ خَطى
 Strick; طَناب
 - jem. einen Strick drehen; زِه ِ کِسى را کِشیدَن
@@ -3915,7 +3919,7 @@ Striegel; قَشو
 striegeln; خَر خَره کَردَن، قَشو کِشیدَن
 srikt;
 - strikte Anweisung; دَستور ِ مُؤَکَد
-- strikte Neutralität; بىطَرَف ِ کامِل
+- strikte Neutralität; بیطَرَف ِ کامِل
 - strikter Befehl; دَستور ِ اَکید
 strittig; مُتَنازِع
 - strittige Frage; مَسئلهٔ مورِد ِ اِختِلاف
@@ -3926,9 +3930,9 @@ Stroh; کاه
 - Mischung aus Lehm und Stroh; کاه ِ گِل
 Strohfeuer; پُفَکی، سُست نَهاد، کَم مُقاوَمَت، پوشالی
 - Strohfeuer der Liebe; عِشق های ِ پوشالی
-strohgedeckt (Dach); بام) پوشالی است )
+strohgedeckt (Dach); بام) پوشالی است)
 Strohhalm; پَر ِ کاه
-- Strohhalm (zum Trinken); نِى نوش
+- Strohhalm (zum Trinken); نِى ِ نوش
 Strohhut; کُلاه ِ حَصیرى
 Strolch; وِلگَرد
 Strom; بَرق
@@ -3939,7 +3943,7 @@ Strom; بَرق
 - Segensstrom (relig.); بارِش ِ بَرَکَت
 Stromausfall; قُدرَت شِکَست
 strömen; رَوان شُدَن، جاری بودَن
-- die Menschen strömen; مَردُم هُجوم م بى آوَرَند
+- die Menschen strömen; مَردُم هُجوم مى آوَرَند
 stromern; پَرسه زَدَن
 Stromfluss;
 - elektrischer Stromfluss; سَیالهٔ بَرقیه، جَریان ِ بَرق
@@ -3953,8 +3957,7 @@ Stromzähler; کُنتور ِ بَرق
 Strophe; بَند ِ شِعِر، بِیت
 Strudel; گِرد آب
 Struktur; ساختار
-- im Aufbau industrieller Strukturen; تولید دَر راستاى ِ صَنعَتى شُدَن ِ
-- Struktur - und Funktionsforschung; بَررِسى ساختِمان و عَمَل ِ هَسته
+- im Aufbau industrieller Strukturen; ِ تولید دَر راستاى ِ صَنعَتى شُدَن
 - Ministerialstruktur; ساختار ِ وِزارَتى
 - Netzstruktur langer und feiner Fasern; شَبَکهٔ رِشته هاى ِ طَویل و باریک
 strukturell; ساختارى
