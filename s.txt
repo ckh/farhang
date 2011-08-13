@@ -3625,7 +3625,7 @@ Stimulierung; اَنگیزِش، تَحریک
 stinken; مُتَعَفِن بودَن، بوى ِ بَد دادَن
 - es stinkt wie im Schweinestall; بوی ِ سَگدونی می دَهَد
 stinkend; بویناک
-Stipendium; شَهریه، مَدَد ِ مالى
+Stipendium; مَدَد ِ مالى، بورس
 Stirn; پیشانه، جَبین
 - Stirn runzeln;  .سِه گِره دَرهَم کِشیدَن، اَخمهارا تو هَم کَردَن، روى ِ خودرا تُرش ک
 - du brauchst nicht die Stirn zu runzeln; اَخم نَکُن
@@ -3971,8 +3971,9 @@ Stück; تا
 - Stück für Stück; دانه دانه
 - in Stücke gehen; تِکه تِکه شُدَن
 - Stückchen Papier; تِکهٔ کاغَذ
-- ein Stückchen Land; تِکه زَمین
+- ein Stückchen Land; یِک تِکهٔ زَمین
 Stuckarbeit; گَچبُرى، گَچ کارى
+Stuckateur; گَچ بُر
 Stuckdecke; سَقف ِ گَچ بُرى
 stückweise; تِکه تِکه
 - stückweise kaufen; کُتره اى خَریدَن
@@ -3993,7 +3994,7 @@ Studium; تَحصیل
 Stufe; پِله
 - 2 Stufen auf einmal; دو پِله يِکى کَردَن، پِله هارا دو تا يِکى کَردَن
 - s. mit jem. auf die gleiche Stufe stellen; خودرا به پای ِ کِسی رِساندَن
-stufenlos;
+stufenlos; بى پِله
 - stufenloses Getriebe; گیر بُکس ِ بى پِله
 stufenweise; تَدریجى، قَدَم بِقَدَم، بِصورَت ِ پله اى
 - stufenweise Entlassung; اِخراج ِ پِیاپِى
@@ -4002,7 +4003,6 @@ Stuhl; صَندَلى
 - Richterstuhl; مَسنَد ِ قِصاوَت
 Stuhlbein; پایهٔ صَندَلى
 Stuhlgang; تَغَوُط، مَدفوع
-Stukkateur; گَچ بُر
 stumm; صامِت، کَف بَر لَب، گُنگ، لال
 - stumm wie ein Fisch; لام تا کام چیزى نَگُفتَن
 - taubstumm; گُنگ و کَر
@@ -4016,14 +4016,16 @@ stumpfsinnig; کُند ذِهن
 stumpfwinkelig; مُنفَرِج اُلزاویه
 Stunde; ساعَت
 - seine Stunde hat geschlagen; آجَل اش سَر رِسیده است
-- vierstündig; چَهار ساعَته
 stunden; مُهلَت دادَن
-- gestundet; مُهلَت داده؛ مُؤجَل
+- gestundet; مُهلَت داده، مُؤجَل
 Stundenleistung; خُروجى دَر ساعَت
 Stundenplan; جَدوَل ِ ساعات
+stündig; هَر ساعَت
+- vierstündig; چَهار ساعَته
+stündlich; هَر ساعَت، ساعَتی یِک بار
 Stundung; مُهلَت، آجَل
-stur; کَله شَق، خود سَر، لَجاز، بَد قِلِق، بَدپیله، سَمِج
-Sturheit; بَد قِلِقی، ِکدَندِگی
+stur; کَله شَق، خود سَر، لَجباز، بَد قِلِق، بَدپیله، سَمِج
+Sturheit; بَد قِلِقی، ِکدَندِگی، لَجاج
 Sturm; طوفان
 - Sturm (auf See); کولاک
 - im Sturm & Drang der Jugend; دَر جوش و خُروش ِ جَوانى
@@ -4052,13 +4054,13 @@ stutzen;
 - jem. zurechtstutzen; کِسى را تا حَد ِ شِش دَر چَهار کوچِک کَردَن
 stützen;
 - s. auf etwas stützen; به چیزى مُتَمَسِک شُدَن، ـ اِتِکاء کَردَن، ـ تِکیه دادَن
-- die s. stützen auf ..; که مُتَمَسِک به .. هَستَند
-Stützholz; چوب ِ حاىِل گوشه
+- die s. stützen auf ...; که مُتَمَسِک به ... هَستَند
+Stützholz; چوب ِ حایِل گوشه
 Stützpfeiler; سُتون ِ نِگَهدارَنده
 Stützpunkt; پایگاه
 - Marinestützpunkt; پایگاه ِ دَریائى
 stylen; آرايِش کَردَن
-- deine Haare sind gestylt; موهات مُدِل دار شُده
+- deine Haare sind gestylt; موهات مُدِل دار شُدَند
 Subjekt; (mosnad-on-elejh) فاعِل، مُسنَد الیه
 subjektiv; ذِهنى، شَخصى، فاعِلى
 - subjektive Erfahrungen; تَجارُب ِ خودبُنیاد
@@ -4072,7 +4074,7 @@ substituieren;  .جُبران کَردَن، جانِشین ک
 subtil; لَطیف، رَقیق، ظَریف
 subtrahieren; دَر کَردَن، تَفریق ک.، کاستَن
 Substraktion; تَفریق، کاهِش
-Subvention; کُمَک ِ بِلاعَوَض، کُمَک ِ کالى، سوبسید، یارانه
+Subvention; کُمَک ِ بِلاعَوَض، کُمَک ِ مالى، سوبسید، یارانه
 subventionieren; سوبسید دادَن
 - staatlich subventioniert; با سوبسید ِ دولَتى
 Subventionierung; اَعطاى ِ کُمَک ِ بِلاعَوَض، اَعطاى ِ سوبسید
@@ -4116,7 +4118,7 @@ Summe; مَجموع، مِقدار
 summen; زَمزَمه کَردَن
 - Melodie summen; آواز زَمزَمه کَردَن
 - Summen der Bienen; وِز وِز ِ زَنبور
-- das Summen von .. hören; وِز وِز ِ کِسى را شِنیدَن
+- das Summen von ... hören; وِز وِز ِ کِسى را شِنیدَن
 Summer; زَنگ
 Sumpf; خَلاب، لَجَن، مُردآب
 Sumpfdotterblume; خَرغوس
@@ -4132,22 +4134,22 @@ super; عالی
 - das ist super; عالی است
 Superlativ; تَفضیل ِ مُطَلق
 Supermacht; اَبر ِ قُدرَت
-Supermarkt; سوپِرمارکت
+Supermarkt; سوپِرمارکِت
 Suppe; آب گوشت
 - Suppe pusten; آش فوت کَردَن
-- die Suppe wird nicht so heiss gegessen, wie sie gekocht wird; کاسه هاى ِ داغتَر از آش
-- welche Suppe sie (z.B. die Journalisten) wohl für uns brauen; چه آش ِ شُله )قَلَمکارى( بَراى ِ کِسى پُختَن
+- die Suppe wird nicht so heiss gegessen, wie sie gekocht wird; کاسه از آش داغتَر است
+- welche Suppe sie (z.B. die Journalisten) wohl für uns brauen; چه آش ِ شُله (قَلَمکارى) بَراى ِ کِسى پُختَن
 - die Suppe, die man s. eingebrockt hat, muss man auslöffeln; خود کَرده را تَدبیر نیست
 Suppenkaspar; عَلى ِ بَهانِگى
 Supplement; مُکَمَل، مُتَمَم
 supranational; فَرا مِلى
 suspekt; مَشکوک، مَظنون
 suspendieren; بتَعَلیق دَر آوَردَن، مُعَلَق کَردَن
-süss; شیرین
-Süssholzraspler; سَبزى پاک کُن
-Süssigkeit; شیرینی، نُقل
-süsssauer; مَلَس
-Süsswasserkrebs; خَر جَنگ ِ آب ِ شیرین
+süß; شیرین
+Süßholzraspler; سَبزى پاک کُن
+Süßigkeit; شیرینی، نُقل
+süßsauer; مَلَس
+Süßwasserkrebs; خَر جَنگ ِ آب ِ شیرین
 Symbiose; هَمزیستى
 Symbol; صورَت ِ مِثالیه، نَما، نَمایان گَر، سَمبُل، نَماد، رَمز، نِشانه، مَثَله
 symbolisch; سَمبُلیک، نَمادى، رَمزى، نِشانه اى، نِمونه اى، نِمونه دار
@@ -4158,7 +4160,7 @@ symetrisch; موزون، مُتَقارِن، قَرین، مُتَناسِب
 - etwas unsymetrisch schneiden; چیزی را تا به تا زَدَن
 Sympathie; رأفَت، عاطِفه، هَمدِلى، اِنجِذاب، اُنس، اُلفَت
 - Erweisung von Sympathie; تَعطُف
-- Sympathie für seine Freunde haben; هَوا‍‍ی ِ دوستهايَش را داشتَن
+- Sympathie für seine Freunde haben; هَوای ِ دوستهايَش را داشتَن
 Sympathisant; هَواخواه، هَمدِل
 sympathisieren;  .هَواخواه بودَن، هَمدِل ب
 sympathisierend; مُتَمايِل
@@ -4198,7 +4200,7 @@ Systematik; رَده بَندى
 - Homo sapiens; اِنسان ِ بِخِرَد
 systematisch; با نَظم و تَرتیب
 - systematisch oder un-; اِنضِباتى یا اِختیارى
-- systematische Theologie; اِلهیات ِ اُسلوبى
+- systematische Theologie; اِلَهیات ِ اُسلوبى
 - systematische Verfolgung; تَعقیب ِ حِساب شُده
 systematisieren; رَده بَندى کَردَن
 systemimmanent; دُرون ِ نِظام
