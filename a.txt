@@ -2161,6 +2161,7 @@ Anrufbeantworter; دَستگاه ِ ضَبط ِ تِلِفُن، پِیغامگ�
 anrufen;
 - ich werde dich anrufen; مَن به تو زَنگ خواهَم زَد
 - ruf mich an!; به مَن زَنگ بِزَن
+- ruf bei der Pizzeria an; تِلِفُنی ِ پیتزا فُروشی را بِگیر
 anrühren;
 - du sollst keinen Tropfen Alkohol anrühren; نَبایَد لَب به مَشروب بِزَنى
 - rühr das nicht an!;  !دَست نَزَن

@@ -1,37 +1,38 @@
 Tabak; توتون
-- Tabak kauen; تَنباکو جويدَن
-Tabakwaren; دُخانيات
-Tabelle; رَسته، جَدوَل، ليست، چارت
+- Tabak kauen; تَنباکو جویدَن
+Tabakwaren; دُخانیات
+Tabelle; رَسته، جَدوَل، لیست، چارت
 - tabellarische Darstellung; جَدوَل بَندى
-Tablett; سينى
+Tablett; سینى
 Tablette; قُرص
 tabu; قَدِغَن
-tabuisieren;  .مَنع کردن، مَمنوع ک.، تَحريم ک.، قَدِغَن ک
+tabuisieren;  .مَنع کردن، مَمنوع ک.، تَحریم ک.، قَدِغَن ک
 Tabulator; جَدوَل بَند
+Tabulatortaste; کِلید ِ جَهِِش
 Tachometer; سُرعَت سَنج
-Tadel; تَقبيح، مَذَمَت، مَلامَت، عِتاب، نِکوهِش، مؤاخَذه، سَر زَنِش
-tadeln; مَذَمَت کَردَن، سَر زَنِش ک.، مَلامَت ک.، نِکوهيدَن
+Tadel; تَقبیح، مَذَمَت، مَلامَت، عِتاب، نِکوهِش، مؤاخَذه، سَر زَنِش
+tadeln; مَذَمَت کَردَن، سَر زَنِش ک.، مَلامَت ک.، نِکوهیدَن
 Tafel;
 - Anzeigetafel; تابلو
 - Schiefertafel; (pl.) لوحه، لوح (اَلواح)، تَخته
-- Leuchttafel mit Schrift; نَوار با لامپهاى ِ نُقطه چين
+- Leuchttafel mit Schrift; نَوار با لامپهاى ِ نُقطه چین
 Täfelung; روکوب، روکِش
 - Wandtäfelung; روکوب ِ اُطاق
 Tag; روز
-- Guten Tag (als Gruss); روز بِخِير، سَلام
+- Guten Tag (als Gruss); روز بِخِیر، سَلام
 - an den Tag kommen; بُروز کَردَن
-- etwas an den Tag legen; چيزى به خَرج دادَن
+- etwas an den Tag legen; چیزى به خَرج دادَن
 - zu Tage treten; مَکشوف شُدَن
 - den nächsten Tag; روز ِ بَعد
-- übernächster Tag;  - پَس آن فَردا، پَسان
-- "Schwarzer Tag"; سيَه روز، بَخت بَر گَشته، تيره روز، سياه بَخت
+- übernächster Tag;  - ِ پَس ِ آن فَردا، پَسان
+- "Schwarzer Tag"; سيَه روز، بَخت بَر گَشته، تیره روز، سیاه بَخت
 - seit einigen Tagen; چَند روز است که، چَند صَباحى ـ
 - er ging den ganzen Tag; او تَمام ِ روز راه رَفت
-- seine Kleidung aus längst vergangenen Tagen; لِباسي که يادگِار ِ روزهاي ِ دَريانَوَردي اَش بود
+- seine Kleidung aus längst vergangenen Tagen; لِباسی که یادگِار ِ روزهای ِ دَریانَوَردی اَش بود
 - 3 Tage & 3 Nächte; سه شَبانه روز
 - 3-tägige Reise; سَفَر ِ سه روزه
-Tagebau; اِستِخراج ِ مُعادِن دَر سَطح ِ زَمين
-Tagebuch; دَفتَرچة خاطِرات ِ روزانه
+Tagebau; اِستِخراج ِ مُعادِن دَر سَطح ِ زَمین، مُعادِن ِ سَطحی
+Tagebuch; دَفتَرچهٔ خاطِرات ِ روزانه
 Tagedieb; روز خُسب
 Tagelohn; روزمُزد، مُزد ِ روزانه
 Tagesanbruch; سَحَرگاهان، بامداد
@@ -39,35 +40,35 @@ Tagesgespräch;
 - zum Tagesgespräch werden; نَقل ِ مَجالِس شُدَن
 Tagesordnung (bei Sitzung); دَستور ِ کار، ـ جَلَسه، طَرح ِ بَرنامه
 - in die Tagesordnung aufnehmen; دَر دَستور ِ جَلَسه آوَردَن
-Tagespreis; نِرخ ِ روز، مَظَنة روز
+Tagespreis; نِرخ ِ روز، مَظَنهٔ روز
 Tagesration; خَرج ِ يِک روز
 Tagessatz; مَبلَغ ِ پَرداختى دَر ازاء ِ يِک روز
-Tagesschicht; شيفت ِ روز
+Tagesschicht; شیفت ِ روز
 täglich; روزانه، هَر روز
 tagsüber; دَر طِى ِ روز
-Tagträumerei; سوداهاي ِ خام
+Tagträumerei; سوداهای ِ خام
 - Tagträumereien nachgehen; سوداهاى ِ خام پُختَن
-Tagundnachtgleiche; تَساوى ِ لِيل و نَهار
+Tagundnachtgleiche; تَساوى ِ لِیل و نَهار
 Tagung; کُنفِرانس
 Taille; کَمَر
 Takelage; وَسائِل بَراى ِ اَفراشتَن ِ باد بان
 Takt;
-- Takt (bei Musik); ريتم، ميزان
-- Takt, Feingefühl; نِزاکَت، تَحسيس
-takten; وَقت گيرى کَردَن
+- Takt (bei Musik); ریتم، میزان
+- Takt, Feingefühl; نِزاکَت، تَحسیس
+takten; وَقت گیرى کَردَن
 Taktgeber; ضَرب زَن
 Taktgefühl;
 - ich werde das nötige Taktgefühl aufbringen; مَن نِزاکَت را رَعايَت کُنَم
 - Mensch mit Taktgefühl (- ohne -); آدَم با گُذَشت (ـ بى گُذَشت)، آدَم ِ سائِسانه، آدَم با حِس ِ نِزاکَت
 Taktiererei; گُمانه زَنى
 Tal; دَره
-Talfahrt (finanz.); سِير ِ نُزولى ِ اِقتِصادى
-Talent; فَضائِل، قَريحه، اِستِعداد، اَهليَت، قابِليَت
+Talfahrt (finanz.); سِیر ِ نُزولى ِ اِقتِصادى
+Talent; فَضائِل، قَریحه، اِستِعداد، اَهليَت، قابِليَت
 - Talente (biblischer Begriff); قِنطار
-talentiert; قَريحه، مُستَعِد
+talentiert; قَریحه، مُستَعِد
 talentlos; بى هُنَر، بى عُرضه
 Talg; شَحم، چَربى
-Talgdrüse; غدة چَربى
+Talgdrüse; غدهٔ چَربى
 Talisman; طِلِسم، حِرز
 Talkum; طَلق
 Talsohle; تَه ِ دَره
@@ -75,95 +76,94 @@ Talsohle; تَه ِ دَره
 Talweg; خَط اُلقَعر، ژَرفاب
 Tamtam; طُمطُراق
 Tändeln (mit anderem Geschlecht); عِشوه، عِشق بازى
-Tandem; دو چَرخة پُشت ِ سَر ِ هَم، چَرخة دو تَرکه
+Tandem; دو چَرخهٔ پُشت ِ سَر ِ هَم، چَرخهٔ دو تَرکه
 - Tandem fahren; دو تَرکه سَوارى کَردَن
 Tangente; خَط ِ مُماس
-Tangentialkraft; نيروى ِ مُماس
+Tangentialkraft; نیروى ِ مُماس
 tangierend; مُماسى
 Tank;
-- Benzintank; باک ِ بِنزين، تانک ِ ـ
+- Benzintank; باک ِ بِنزین، تانک ِ ـ
 - öltank; تانک ِ نَفت، مَخزَن ِ ـ
 - Wassertank; مَخزَن ِ آب
 Tankdeckel; دَر ِ باک
 tanken;
-- Kraftstoff tanken; سوخت گيرى کَردَن، بِنزين زَدَن
+- Kraftstoff tanken; سوخت گیرى کَردَن، بِنزین زَدَن
 Tanker; کِشتى ِ نَفت کِش
-Tankstelle; پُمپ ِ بِنزين، جايگاه ِ سوخت گيرى
+Tankstelle; پُمپ ِ بِنزین، جایگاه ِ سوخت گیرى
 Tanne; دِرَخت ِ کاج
 Tannenzapfen; جوز ِ صَنوبَر
 Tante;
 - Tante (mütterlicherseits); خاله
 - Tante (väterlicherseits); عَمه
 - Klatschtante; خاله زَنَک
-Tantieme; حَق اُلاِمتياز، حَق اُلتَأاليف
+Tantieme; حَق اُلاِمتیاز، بَهرهٔ مالِکانه، رویالتی
 Tanz; رَقص
-- jem. zum Tanz auffordern; بِشکَن و بالا بِنداز
+- jem. zum Tanz auffordern; بِشکَن و بالا بَِنداز
 tänzeln; قِر ِ کَمَر دادَن، غِر ِ ـ
 tanzen; رَقص کَردَن
 - tanzen (in Trance); سَماع کَردَن
-- nach jem. Pfeife tanzen; به ساز ِ کِسى رَقصيدَن
+- nach jem. Pfeife tanzen; به ساز ِ کِسى رَقصیدَن
 - tanzt auf allen Hochzeiten; هَم خُرمارا مى خواهَد هَم خُدارا
 Tänzer; راقِص
-Tapete; کاغَذ ِ ديوارى
-Tapetenwechsel; آب به آب شُدَن، سَفَري ِکوتاه يا دِراز کَردَن ِ تَغيير ِ آب و هَوا را، بِهبود يا بيماري بِواسِطة سَفَر پَديد می آيَد، بِهتَر است تا هَوا گَرم نَشُده آب به آب بِشَوی، سَفَر کَردَن به آب و هَوای ِ ديگَر
-tapezieren; کاغَذ ِ ديوارى زَدَن
-tapfer; جَسور، شُجاع، رَشيد
+Tapete; کاغَذ ِ دیوارى
+Tapetenwechsel; آب به آب شُدَن، سَفَری ِکوتاه یا دِراز کَردَن ِ تَغییر ِ آب و هَوا را، بِهبود یا بیماری بِواسِطهٔ سَفَر پَدید می آيَد، بِهتَر است تا هَوا گَرم نَشُده آب به آب بِشَوی، سَفَر کَردَن به آب و هَوای ِ دیگَر
+tapezieren; کاغَذ ِ دیوارى زَدَن
+tapfer; جَسور، شُجاع، رَشید
 Tapferkeit; شُجاعَت
 tapsen; کورانه راه رَفتَن، کورمال ـ
-- tapsend zum Tisch gehen; کورمال کورمال به طَرَف ِ ميز رَفتَن
-Tarantel; رَطيل
+- tapsend zum Tisch gehen; کورمال کورمال به طَرَف ِ میز رَفتَن
+Tarantel; رَطیل
 Tarif; تَعرِفه
 Tarifautonomie; آزادى ِ تَعرِفه
-Tarifvertragsparteien; طَرَفِين ِ قَرار داد ِ دَستمُزد
+Tarifvertragsparteien; طَرَفِین ِ قَرار داد ِ دَستمُزد
 tarnen; مُستَتِر شُدَن، اِستِتار کَردَن
 - getarnte Stellung; موضِع ِ مَستور
 Tarnung; اِستِتار، کاموفلاژ
 Tasche;
-- Tasche (Hose, Mantel, u.ä.); جيب
-- er griff in die Tasche und holte ...; دَست کَرد از جيب دَر آوَرَد
-- etwas gewaltsam in seine Tasche stecken; چيزى را قَبضه کَردَن
-- Schulterriemen der Tasche; تَسمة کيف
-- Aktentasche; کيف
+- Tasche (Hose, Mantel, u.ä.); جیب
+- er griff in die Tasche und holte ...; دَست کَرد تو جیب تا یِه چیزی دَر بیاره
+- Schulterriemen der Tasche; تَسمهٔ کیف
+- Aktentasche; کیف
 - Provianttasche; توبره
-- Tragtasche; خورجين
-Taschenbuch; کِتاب ِ جيبى
-Taschendieb; جيب بُر
+- Tragtasche; خورجین
+Taschenbuch; کِتاب ِ جیبى
+Taschendieb; جیب بُر
 Taschenspieler; شُعبَده باز
-Taschentuch; دَستمال ِ بينى
-- Stofftaschentuch; دَستمال ِ نَخي
+Taschentuch; دَستمال ِ بینى
+- Stofftaschentuch; دَستمال ِ نَخی
 Tasse; فِنجان
 - er hat nicht alle Tassen im Schrank; عَقلِش پارسَنگ مى بَرَد
 Tastatur;
 - Tastatur (Klavier); جا اَنگُشتى
-- Tastatur (bei Schreibmaschine); صَفحة حُروف، رَديف ِ کِليدها
-Taste; تُکمه، کِليد
+- Tastatur (bei Schreibmaschine); صَفحهٔ حُروف، رَدیف ِ کِلیدها، کیبورد
+Taste; تُکمه، کِلید
 tasten; لَمس کَردَن
-- nach etwas tasten; کورمالى دُنبال ِ چيزى گَشتَن
+- nach etwas tasten; کورمالى دُنبال ِ چیزى گَشتَن
 - ich tastete mich durch die Menge; کورمال از لاى ِ مَردُم گُذَشتَم
 Tastsinn; حِس ِ لامِسه
 Tat; (pl.)  (عَمَل (اَعمال
 - in der Tat; (be-l-fel) بِالقُوه، هَمانا، بِالفِعِل
-- es ist in der Tat deine Arbeit, .. zu tun; شُغل ِ تو هَمانه بِجا آوَردَن ... است
+- es ist in der Tat deine Arbeit, ... zu tun; شُغل ِ تو هَمانه بِجا آوَردَن ِ ... است
 - gute Tat (relig.); کار ِ ثَواب
-- zum Schutz von ... gewaltige Taten tun; دَر مُراقِبَت از ... يَد طولائى داشتَن
+- zum Schutz von ... gewaltige Taten tun; دَر مُراقِبَت از ... يَد ِ طولائى داشتَنِ
 Tatbestand; موضوع ِ جُرم
-tatenlos; غير فَعال
+tatenlos; غیر فَعال
 - tatenlos herumsitzen; عَلاف نِشَستَن
 Täter; مُجرِم، مُرتَکِب، مُقصِر
 tätig; فَعال
-- wir müssen tätig sein; ما بايَد دَست بِکار شَويم
+- wir müssen tätig sein; ما بايَد دَست بِکار شَویم
 Tätigkeit; فَعاليَت، کار آئى
 Tätigkeitsbeschreibung; شَرح ِ وَظايِف
 Tätlichkeit; تَجاوُز و ضَرب
 Tatort; مَحَل ِ وُقوع ِ جُرم
 tätowieren; خالکوبى کَردَن
 Tätowierung; خالکوبى
-Tatsache; حَقيقَت، واقِعيَت
-- vollendete Tatsache; اَمر ِ واقِع، عَمَل ِ اَنجام يافته
+Tatsache; حَقیقَت، واقِعيَت
+- vollendete Tatsache; اَمر ِ واقِع، عَمَل ِ اَنجام یافته
 - den Tatsachen entsprechend; فى نَفسه
 - oben erwähnte Tatsachen; مَراتِب ِ فوق
-tatsächlich; فى اُلحَقيقه، واقِعاً، واقِع اينکه، بِراستى
-- er ist tatsächlich ...; او به راستى
+tatsächlich; فى اُلحَقیقه، واقِعاً، واقِع اینکه، بِراستى
+- er ist tatsächlich ...; ... او به راستى
 tätscheln; نَوازِش کَردَن
 tätschelnd; نَوازِشگِرانه
 tattrig; تاتی تاتی
@@ -175,59 +175,61 @@ Tau;
 taub; کَر، صُم
 - taub werden (Körperteile);  .خواب رَفتَن، کِرِخ شُدَن، بی حِس ش
 - taube Nuss; گِردوی ِ پوک
-- s. taub stellen; خودرا به نَشِنيدَن زَدَن
+- s. taub stellen; خودرا به نَشِنیدَن زَدَن
 - der Lärm macht taub; صِدا گوش را کَر مى کُنَد
 Taube; کَبوتَر، کَفتَر، فاخته
 Taubenschlag; کَبوتَر خانه، چَخ
 taubstumm; (sommon-bokm) گُنگ و کَر، کَر و لال، صُم بُکم
-tauchen; غوطه خوردن، ـ زَدَن، غوطه وَر شُدَن
-- abtauchen;  .شيرجه رَفتَن، با کَله زير ِ آب ر
+tauchen; غوطه خوردَن، ـ زَدَن، غوطه وَر شُدَن
+- abtauchen;  .شیرجه رَفتَن، با کَله زیر ِ آب ر
+- abtauchen, fliehen; دَر رَفتَن
 Tauchen (n); غوطه، غوص، غَواصى
 Taucher; غوطه وَر، غَواص
 Taucheranzug; لِباس ِ غَواصى
 Tauchlack; لاک ِ غوطه اى
-Tauchsieder; گَرمکُن ِ غوطه اى
-tauen; آب شُدَن، تابيدَن
-Taufe; غُسل ِ تَعميد
-taufen; کِسى را غُسل ِ تَعميد دادَن
-Täufling; شَخص ِ غُسل ِ تَعميد داده شُده
-Taufpate (- in);  (پِدَر ِ تَعميدى (مادَر ِ ـ
+Tauchsieder; گَرمکُن ِ غوطه اى، هیتِر
+tauen; آب شُدَن، تابیدَن
+Taufe; غُسل ِ تَعمید
+taufen; کِسى را غُسل ِ تَعمید دادَن
+Täufling; شَخص ِ غُسل ِ تَعمید داده شُده
+Taufpate (- in);  (پِدَر ِ تَعمیدى (مادَر ِ ـ
 taugen;
-- als Leiter taugen; ساخت ِ يک رَهبَررا داشتَن، بدَرد ِ رَهبَر خوردَن
-- das taugt nicht für den Film; که به کار ِ سينِما نِمى آيَد
-- nichts taugen (Tätigkeit, u.ä.); نابِجا بودَن، تعَريفى نَداشتَن
-- die Worte taugen nichts; کَلَمات جُفت و جور نِمي شَوَند
-- wozu taugt das?; اين به چه کار مى آيَد؟
-Taugenichts; لَش، وارَفته، مَگَس پَران، آدَم ِ کَسِل، شَخص ِ عُرضه، نُخاله، آدَم ِ ريغو
-- du Taugenichts; تَنه لِش
+- als Leiter taugen; ساخت ِ یک رَهبَررا داشتَن، بدَرد ِ رَهبَر خوردَن
+- das taugt nicht für den Film; که به کار ِ سینِما نِمى آيَد
+- nichts taugen (Tätigkeit, u.ä.); نابِجا بودَن، تعَریفى نَداشتَن
+- die Worte taugen nichts; کَلَمات جُفت و جور نِمی شَوَند
+- wozu taugt das?; این به چه کار مى آيَد؟
+Taugenichts; لَش، وارَفته، مَگَس پَران، آدَم ِ کَسِل، شَخص ِ بی عُرضه، نُخاله، آدَم ِ ریغو
+- du Taugenichts; تَنه لَش
 Tauglichkeit; ارزَش، کارآمَد، قابِليَت
-- wie ist die Tauglichkeit des Gerätes?; کارآمَد ِ اين دَستگاه چيه؟
-taumeln; نَوان شُدَن، جُنبيدَن، گيج خوردُن
-Taupunkt; نُقطة شَبنَم
+- wie ist die Tauglichkeit des Gerätes?; کارآمَد ِ این دَستگاه چیه؟
+taumeln; نَوان شُدَن، جُنبیدَن، گیج خوردُن
+Taupunkt; نُقطهٔ شَبنَم
 Tausch; مُبادِله، مُعاوِضه
 tauschen;
-- austauschen; مُبادِله کَردَن، عَوَض ک.، تاخت زَدَن
 - Geld gegen Ware tauschen; پول دَر مُقابِل ِ جِنس دادَن
 - die Kleidung mit jem. tauschen; لِباس را با کِسى مُعاوِضه کَردَن
+- austauschen;  .مُبادِله کَردَن، عَوَض ک
 täuschen; مُشتَبه کَردَن، گُمراه ک.، مُنحَرِف ک.، گول زَدَن
 Täuschung; مَکر، گُمراهى
-- Täuschung (*: Liebe); شِيد
+- Täuschung (*: Liebe); شِید
 Täuschungsmanöver; مانوِر ِ اِنحِرافى
 tausend; هِزار
 Tausendfüssler; هِزارپا
-Tausendsassa; آدَم مِثل ِ ديزی ِ هَر کاره هِزاز کار از او می آيَد
-Tauwetter (polit.); جَوّ ِ مُناسِب ِ سياسى
+Tausendsassa; آدَم مِثل ِ دیزی ِ هَر کاره هِزاز کار از او می آيَد
+Tauwetter (polit.); جَوّ ِ مُناسِب ِ سیاسى
 Tauziehen; کِشمَکِش
-taxieren; قِيمَت گُذارى شُدَن
-- etwas finanziell taxieren, einschätzen; چيزى را قِيمَت گُذارى کَردَن
+taxieren; قِیمَت گُذارى شُدَن
+- etwas finanziell taxieren, einschätzen; چیزى را قِیمَت گُذارى کَردَن
+- jem. taxieren; کِسی را زُل زَدَن
 Teach yourselve; خود آموز
-Team; تيم، گُروه
-Technik; تِکنيک، طَرز ِ مُهَندِسي، - فَني
+Team; تیم، گُروه
+Technik; تِکنیک، طَرز ِ مُهَندِسی، - فَنی
 - Bautechnik; مُهَندِسى ِ ساختِمان
-Techniker; تِکنيسيِن، فَنمَند
-technisch; فَني، مُهَندِسي
-- technische Messung; اَندازه گيرى ِ مُهَندِسى
-- Technischer Überwachungsverein; مؤَسِسة مُعايِنة فَنى
+Techniker; تِکنیسيِن، فَنمَند
+technisch; فَنی، مُهَندِسی
+- technische Messung; اَندازه گیرى ِ مُهَندِسى
+- Technischer Überwachungsverein; مؤَسِسهٔ مُعايِنهٔ فَنى
 - technisches Verfahren; فَن آوَری
 - technischer Aufbau (z.B.: eines Gerätes); فَن آوَری ِ ساخت
 Technologie; تِکنولوژى، فَن آوَری
@@ -236,44 +238,44 @@ Technologie; تِکنولوژى، فَن آوَری
 Technologietransfer;  انتقال فن‌آوری
 Techtelmechtel; عِشقبازى
 Tee; چاى
-- Tee mit Würfelzucker; چای ِ ديشلِمه
-- Beuteltee; خاکة چاى، ليپتون
-Teegeschirr; اَسباب ِ چاي
+- Tee mit Würfelzucker; چای ِ دیشلِمه
+- Beuteltee; خاکهٔ چاى، لیپتون
+Teegeschirr; اَسباب ِ چای
 Teekanne; قورى
 Teenager; جَوان
 Teenageralter; صَباوَت
-Teer; قِير
-teeren; قِير اَنداختَن
+Teer; قِیر
+teeren; قِیر اَنداختَن
 - geteert; مُقَيَر
 Teich; بِرکه
-Teig; خَمير
-- Teig einrühren; خَمير گِرِفتَن
-- der Teig geht auf; خَمير وَر مى آيَد
-- Sauerteig; خَمير ِ تُرش
-teigig; خَمير شده
-- teigiges Brot; نان ِ خَمير شُده
+Teig; خَمیر
+- Teig einrühren; خَمیر گِرِفتَن
+- der Teig geht auf; خَمیر وَر مى آيَد
+- Sauerteig; خَمیر ِ تُرش
+teigig; خَمیر شُده
+- teigiges Brot; نان ِ خَمیر شُده
 Teigroller; چوبه، وَردَنه
 Teil; بَخش، جُزء، قِسمَت
-- Teil, Anteil; نَصيب، سَهيم
+- Teil, Anteil; نَصیب، سَهیم
 - ein Teil der Nacht war vorbei; پاسى از شَب گُذَشت
 - einen Teil bekommen; سَهم بُردَن
 - Teil des Marktplatzes; راسته بازار، قِسمَت ِ ـ
 - zum Teil; تا يِک اَندازه
-teilbar; تَقسيم پَذير، قابِل ِ قِسمَت
-Teildrehung; چَرخِش ِ جُزء بِجَزء
-teilen;  .مُنقَسِم کَردَن، تَقسيم ک.، مُتَفَرِق ک
-- teilen durch ..; چيزى را بَر .. تَقسيم کَردَن
-- in Stücke teilen; دونيم کَردَن
+teilbar; تَقسیم پَذیر، قابِل ِ قِسمَت
+Teildrehung; چَرخِش ِ جُزء بِجُزء
+teilen;  .مُنقَسِم کَردَن، تَقسیم ک.، مُتَفَرِق ک
+- teilen durch ...; چیزى را بَر ... تَقسیم کَردَن
+- in Stücke teilen; دونیم کَردَن
 - das Schwein in zwei Hälften teilen; خوک را شَقه کَردَن
-- teile 20 durch 4; بَر ۴ بيست را تَقسيم کُن، بيست را به ۴ تَقسيم کُن
-- s. die Kosten teilen; دَر مَخارِج سَهيم شُدَن
-- die Meinung von jem. teilen; با کِسى هَم عَقيده بودَن
-- geteilt werden;  .مُنقَسِم شُدَن، تَقسيم ش
-- Teile & herrsche; تَفريق اَنداز و حُکومَت کُن
-Teiler; مُقَسِم، مَقسوم عَلِيه
+- teile 20 durch 4; بَر ۴ بیست را تَقسیم کُن، بیست را به ۴ تَقسیم کُن
+- s. die Kosten teilen; دَر مَخارِج سَهیم شُدَن
+- die Meinung von jem. teilen; با کِسى هَم عَقیده بودَن
+- geteilt werden;  .مُنقَسِم شُدَن، تَقسیم ش
+- Teile & herrsche; تَفریق اَنداز و حُکومَت کُن
+Teiler; مُقَسِم، مَقسوم عَلِیه
 teilhaben;
 - am Leben der Leute teilhaben; با مردَم دَمساز شُدَن
-Teilhaber; شَريک، سَهيم
+Teilhaber; شَریک، سَهیم
 Teilhaberschaft; تَشارُک، بَهره بَرى
 teilhaftig;
 - des guten Lebens teilhaftig werden; از زِندِگى ِ خوبى بَرخوردار شُدَن
@@ -282,30 +284,32 @@ teilnahmslos; بى عَلاقه، بى طَمَع، بى هَوا، پَخمه �
 teilnahmsvoll; دِلجو
 teilnehmen; شِرکَت کَردَن
 - Interessierte werden eingeladen, teilzunehmen; از عَلاقِمَندان به شِرکَت دَعوَت مى شَوَد
-Teilnehmer; شِرکَت کُنَنده، شَريک، سَهيم، هَمدَست
+Teilnehmer; شِرکَت کُنَنده، شَریک، سَهیم، هَمدَست
 - Teilnehmer (bei Trauerzug); مُشايِع
 teils;
-- teils, teils; بَخشى از اين و بَخشى از آن
+- teils, teils; بَخشى از این و بَخشى از آن
 Teilstreik; اِعتِصاب ِ جُزئى
-Teilung; اِنقِسام، تَقسيم
-- Teilung der Macht; تَفکيک ِ قُدرَت، مُشارِکَت دَر قُدرَت
+Teilung; اِنقِسام، تَقسیم
+- Teilung der Macht; تَفکیک ِ قُدرَت، مُشارِکَت دَر قُدرَت
 teilweise; تا حُدودى
 Teilzahlung; پَرداخت ِ قِسطى، قِسطبَندى
-Tektonik; ساختِمان شِناسى ِ طَبَقات ِ زَمين
+Tektonik; ساختِمان شِناسى ِ طَبَقات ِ زَمین
 Telefax; نَمابَر، فَکس
 Telefon; تِلِفُن
 - bleiben Sie am Telefon; گوشى خِدمَتِتان
-- Mobiltelefon; تِلِفُن ِ سَيار، مُبايل
-Telefonbuch; دَفتَرچة اَسامى ِ مُشتَرِکين ِ تِلِفُن، دَفتَرچة تِلِفُن
+- Mobiltelefon; تِلِفُن ِ سَیار، مُبایل
+Telefonbuch; دَفتَرچهٔ اَسامى ِ مُشتَرِکین ِ تِلِفُن، دَفتَرچهٔ تِلِفُن
 Telefonhörer; گوشى ِ تِلِفُن
 telefonieren; تِلِفُن کَردَن، زَنگ زَدَن
-- beim Telefonieren; دَر حال ِ مُکالِمة تِلِفُنى
-Telefonüberwachung; شُنود ِ مُکالِمات ِ تِلِفُني
-Telefonzelle; اُتاق ِ تِلِفُن، باجة ـ
+- beim Telefonieren; دَر حال ِ مُکالِمهٔ تِلِفُنى
+telefonisch; تِلِفُنی
+- telefonisch eine Pizza bestellen; تِلِفُنی یِک پیتزا سِفارِش دادَن
+Telefonüberwachung; شُنود ِ مُکالِمات ِ تِلِفُنی
+Telefonzelle; اُتاق ِ تِلِفُن، باجهٔ ـ
 Telegramm; تِلِگرام
-Telegraphenmast; دَکَل ِ تِلِگراف، تير ِ ـ
-Telekom; اِدارة مُخابِرات
-Telex; دور نِويس
+Telegraphenmast; دَکَل ِ تِلِگراف، تیر ِ ـ
+Telekom; اِدارهٔ مُخابِرات
+Telex; دور نِویس
 Teller; بُشقاب
 - Teller, flach; بُشقاب ِ لَب ِ تَخت
 - Teller, tief; بُشقاب ِ تو گود
@@ -315,7 +319,7 @@ Temperament; مِزاج
 - sanguinisch; دَمَوى
 - melancholisch; سوداوى
 - cholerisch; صَفرائى
-Temperatur; دَرَجة حَرارَت
+Temperatur; دَرَجهٔ حَرارَت
 tempern (Metallurgie); نَرم کَردَن
 Tempo; سُرعَت
 - Tempo, Tempo; پوى پوى، عَجَله کُن، زود باش
@@ -324,49 +328,49 @@ tendenziell; گِرايِش گِرا
 - ein tendenzielles Denken; فِکر ِ گِرايِش گِرا
 tendenziös; مُغرِض
 - ein tendenziöser Bericht; يِک گُزارِش ِ مُغرِضانه، ـ آراسته، گُزارِش گِرايِش بو دارَد
-Tendenzwende; تَغيير ِ جَهَت ِ گِرايِش
-tendieren; (präs.) گِرائيدَن (مى گِرايَد)، گِرايِش داشتَن
+Tendenzwende; تَغییر ِ جَهَت ِ گِرايِش
+tendieren; (präs.) گِرائیدَن (مى گِرايَد)، گِرايِش داشتَن
 Tenne; جاى ِ خَرمَن، خَرمَنگاه
-Tennis; تِنيس
-Tennisspieler; تِنيسوَر
+Tennis; تِنیس
+Tennisspieler; تِنیسوَر
 Tenor;
-- Tenor (Gesangsstimme); صِداى ِ زير
+- Tenor (Gesangsstimme); صِداى ِ زیر
 - der Tenor einer Sache; فَحوا، جوهَر، مَدلول، مَضمون
-- der allgemeine Tenor; گِرايِش ِ عام اين است
+- der allgemeine Tenor; گِرايِش ِ عام این است
 Teppich; فَرش، قالى
 - handgeknüpfter Teppich; فَرش ِ دَستباف
-- mit Teppichen ausgelegt; مَفروش با قاليها
+- mit Teppichen ausgelegt; مَفروش با قالیها
 - Roter Teppich; پاى اَنداز
-- Wollteppich; زيلو، گِليم
+- Wollteppich; زیلو، گِلیم
 Teppichboden; موکِت
 Teppichknüpferei; قالى گِره زَنى
-Teppichläufer; پادَرى، زير اَنداز
+Teppichläufer; پادَرى، زیر اَنداز
 Termin; مُهلَت
-- Termine der Mietzahlung; موعِد ِ پَرداخت ِ کِرايه
-Terminal; تِرميال، پايانه اُتوبوس
+- Termine der Mietzahlung; موعِد ِ پَرداخت ِ کِرایه
+Terminal; تِرمیال، پایانهٔ اُتوبوس
 termingemäss; حَسب اُلموعِد، طِبق ِ قَرار
-Termite; موريانه
-Terpentin; تِربانتين
+Termite; موریانه
+Terpentin; تِربانتین
 Terrain; جا، مَحَل
-Terrasse; اِيوان، ماهتابى، مَهتابى، تِراس
+Terrasse; اِیوان، ماهتابى، مَهتابى، تِراس
 territorial; اَرضى، قَلَمروى
 Territorialgewässer; آبهاى ِ ساحِلى
 Territorium; مَملَکَت، قَلَمرو
-Terror; تِرور، وَحشت، اَرعاب
+Terror; تِرور، وَحشت، اِرعاب
 terrorisieren; تِرور کَردَن
-Test; آزمايِش، آزمون، اِمتِحان، اَروين
+Test; آزمايِش، آزمون، اِمتِحان، اَروین
 - Selbsttest; خود آزمائى
-Testament; (pl.) وَصيَت نامه (وَصايا -)، ميراث
+Testament; (pl.)  (وَصيَت نامه (وَصایا
 testamentarisch; وَصيَتى
 Testamentvollstrecker; وَصى، وَصيَت کُنَنده
 testen; (präs.)  (اِمتِحان کَردَن، آزمايِش ک.، آزمودَن (مى آزمايَد
-- testen, was .. weiss; جَهَت ِ آزمون ِ دانِش ِ فِلان
+- testen, was ... weiss; جَهَت ِ آزمون ِ دانِش ِ فِلان
 Testperson;
-- ich war für ... die Testperson (umg.); مَن موش ِ آزمايِشگاهي ... بودَم
+- ich war für ... die Testperson (umg.); مَن موش ِ آزمايِشگاهی ِ ... بودَم
 Tetanus; کُزاز
 teuer; گِران
-- sehr teuer; گِران قِيمَت
-- wie teuer ist das?; قِيمَتَش چَند است
+- sehr teuer; گِران قِیمَت، گِران بَها
+- wie teuer ist das?; قِیمَتَش چَند است
 - alles, was uns teuer (i.S. lieb, wertvoll) ist; تَمامى ِ نَفايِس ِ ما
 Teuerung; گِرانى
 - Teuerung, Dürre; قَحطى
@@ -376,143 +380,143 @@ Text; مَتن
 Textil-; ـ نَساجى
 Textilindustrie; صَنعَت ِ نَساجى
 Textilwaren; مَنسوجات
-Textbearbeitung; ويرايِش
+Textbearbeitung; ویرايِش
 Textverarbeitung; مَتن پَرداز
-Textverarbeitungsprogramm; بَرنامة واژه گارى، بَرنامة مَتن پَرداز
+Textverarbeitungsprogramm; بَرنامهٔ واژه گارى، بَرنامهٔ مَتن پَرداز
 Theater; تِأتر، نَمايِش ِ ـ
-- Theater machen; جَنگولَک بازى دَر آوَردَن، قيل و قال راه اَنداختَن
-- so ein Theater; اين هَمه دَنگ و فَنگ
+- Theater machen; جَنگولَک بازى دَر آوَردَن، قیل و قال راه اَنداختَن
+- so ein Theater; این هَمه دَنگ و فَنگ
 - frommes Theater; لال بازى ِ مُقَدَس
-- mach kein Theater und komm!; لِفت و غَليظَش نَکُن و بيا!، طولِش نَده
-theatralisch; تياترال
+- mach kein Theater und komm!; لِفت و غَلیظَش نَکُن و بیا!، طولِش نَده
+theatralisch; تیاترال
 Theismus; اِعتِقاد به خُدا
-Theke; پيش خوان
+Theke; پیش خوان
 Thema; (pl.)  (موضوع (موضوعات)، مَطلَب (مَطالِب
 - war in seinem Leben noch kein Thema; دَر زِندِگى ِ او رِخنه نَکَرده بود
-- das Thema wechseln; حَرف توي ِ حَرف آمَدَن، حَرف را کِشيدَن به
-Theologe; اُستاد ِ اُلَهيات
-Theologie; رِشتة اِلَهيَت
-theologisch; اِلَهي
-- theologische Hochschule; دانِشکَدة اِلَهيات
-Theoretiker; تِئوريسيِن
-- Theoretiker (i.S. wirklichkeitsfremd); آدَم ِ نِگَره پَرداز، ـ باف، نَظَريه پَرداز
-theoretisch; نَظَرى، تئوريک
-- theoretische Erkenntnis; دَريافت ِ نَظرى
-Theorie; نَظَريه، تِئورى
-- Theorie & Praxis; نَظَريه و عَمَل
+- das Thema wechseln; حَرف توی ِ حَرف آمَدَن، حَرف را کِشیدَن به
+Theologe; اُستاد ِ اُلَهیات
+Theologie; رِشتهٔ اِلَهيَت
+theologisch; اِلَهی
+- theologische Hochschule; دانِشکَدهٔ اِلَهیات
+Theoretiker; تِئوریسيِن
+- Theoretiker (i.S. wirklichkeitsfremd); آدَم ِ نِگَره پَرداز، ـ باف، نَظَریه پَرداز
+theoretisch; نَظَرى، تئوریک
+- theoretische Erkenntnis; دَریافت ِ نَظرى
+Theorie; نَظَریه، تِئورى
+- Theorie & Praxis; نَظَریه و عَمَل
 Therapeut; دَرمان شِناس
 therapeutisch; دَرمانى
-Thermalquelle; سَرچِشمة آب ِ مَعدَنى
+Thermalquelle; سَرچِشمهٔ آب ِ مَعدَنى
 thermisch; حَرارَتى، گَرمائى
-Thermometer; گَرماسَنج، دَرَجة حَرارَت
+Thermometer; گَرماسَنج، دَرَجهٔ حَرارَت
 thermonuklear;
 - thermonukleare Waffen; سَلاحهاى ِ هَسته اى ِ حَرارَتى
 Thermosflasche; تِرموس، فلاکس، دَمابان
 Thermostat; تِرموستات، ناظِم ِ دَرَجۀ حَرارَت
-These; تِز، نَظَريه، فَرضيه
-Thorax; تَختة سينه
+These; تِز، نَظَریه، فَرضیه
+Thorax; تَختهٔ سینه
 Thrombose; اِنعِقاد ِ خون در رَگ
 Thrombozyt; گِرده هاى ِ خون
-Thron; تَخت ِ سُلطَنَت، اَريکه
+Thron; تَخت ِ سُلطَنَت، اَریکه
 - auf den Thron bringen; بَر تَحت نِشاندَن
 Thronanwärter; وَليَعهد، شاهزاده
 Thronbesteigung; جُلوس، تاجگُذارى
 thronen; بَر صَندَلى ِ سُلطَنَتى نِشَستَن
 - entthront; شاه ِ مَخلوع
-Thronfolger; وارِث ِ تاج و تَخت، وَليعَهد
-Thukydides; تاسيديدِس
+Thronfolger; وارِث ِ تاج و تَخت، وَلیعَهد
+Thukydides; تاسیدیدِس
 Thunfisch; تون ماهى
-Thymian; آويشِن
+Thymian; آویشِن
 Tick; ضَعَف، خُل
 - einen Tick haben; خُل بودَن
-- das ist ein nervöser unheilbarer Tick; اين يِك تيك ِ عَصَبي است كه هيچ وَقت دُرُست بِشو نيست
+- das ist ein nervöser unheilbarer Tick; این يِك تیك ِ عَصَبی است كه هیچ وَقت دُرُست بِشو نیست
 ticken;
-- entweder du tickst nicht richtig oder ...; يا به سَرِت زَده يا
-tief; عَميق، ژَرف، گود
+- entweder du tickst nicht richtig oder ...; یا به سَرِت زَده یا
+tief; عَمیق، ژَرف، گود
 - tiefe Trauer ergriff alle; اَندوهى ِ ژَرف هَمه را گِرِفت
 - im tiefsten Winter; دَر قَعر ِ زِمِستان
 - tiefliegende Augen; چِشمهاى ِ به گودى نِشَسته
 - tiefsitzende Traurigkeit; اَندوه ِ خُفته
-Tiefbau; بَناهاى ِ زيرزَمينى
+Tiefbau; بَناهاى ِ زیرزَمینى
 Tiefdruck; فِشار ِ جَوى کَم
 Tiefe; عُمق، اَعماق، گودى، ژَرفا
 - in der Tiefe des Geistes; دَر ژَرفاى ِ روح
 - Tiefe des Seins; (kohn-e-..) کنه ذات
 Tiefenmessung; عُمق سَنجى
-Tiefgang; آب نِشين
-Tieflader; تريلِر بَراى ِ بار سَنگين
+Tiefgang; آب نِشین
+Tieflader; تریلِر بَراى ِ بار سَنگین
 Tiefziehstahl; فولاد ِ فُروکِشى
 Tiegel; بوته
-Tiegelschmelzofen; کورة ذوب ِ بوته اى
-Tier; (pl.)  (جانِوَر، بَهيمه (بَهايِم)، حِيوان (حِيوانات
+Tiegelschmelzofen; کورهٔ ذوب ِ بوته اى
+Tier; (pl.)  (جانِوَر، بَهیمه (بَهايِم)، حِیوان (حِیوانات
 - ungezähmtes Tier; (pl.)  (وَحش (وُحوش
 - Nutztiere; دَد و دام
 Tierarzt; دام پِزِشک
 tierisch;
-- tierisch, bestialisch; دَد مَنِشانه، وَحشيانه
+- tierisch, bestialisch; دَد مَنِشانه، وَحشیانه
 - tierischer Typ; اِنسان ِ جانِوَرى
-- tierisch s. über etwas hermachen; با سَبُعيَت چيزى را کَردَن
-Tierzucht; پَروَرِش ِ بَهيمه، دامدارى
+- tierisch s. über etwas hermachen; با سَبُعيَت چیزى را کَردَن
+Tierzucht; پَروَرِش ِ بَهیمه، دامدارى
 Tiger; بَبر
 Tigris; دِجله
-- Wirf dein Brot in den Tigris, und Gott wird es dir in Zeiten der Not wiedergeben (i.S.: Hilf dem Armen, Gott wird es dir vergelten); تو نيکى مى کُن و دَر دِجله اَنداز، که ايزَد دَر بيابانَت دَهَد باز
-tilgen; تَصفيه کَردَن، اِدا کَردَن
-- den Betrag von 1 Euro tilgen; اِداى ِ ۱ يورو کَردَن
+- Wirf dein Brot in den Tigris, und Gott wird es dir in Zeiten der Not wiedergeben (i.S.: Hilf dem Armen, Gott wird es dir vergelten); تو نیکى مى کُن و دَر دِجله اَنداز، که ایزَد دَر بیابانَت دَهَد باز
+tilgen; تَصفیه کَردَن، اِدا کَردَن
+- den Betrag von 1 Euro tilgen; اِداى ِ ۱ یورو کَردَن
 - getilgt; مَحزوف
-Tilgung; اِستِهلاک، تَصفيه، اِداء
+Tilgung; اِستِهلاک، تَصفیه، اِداء
 Tinte; جوهَر، مُرَکَب
 Tintenfass; دَوات، مُرَکَب دان
 Tintenfisch; ماهى ِ مُرَکَب
 Tintensack (bei Tintenfisch); غَشاء ِ مُرَکَب
-Tip; پيشنَهاد، پِند
+Tip; پیشنَهاد، پِند
 - jem. einen Tip geben; پِند دادَن، راهنَمائى کَردَن
 tippen;
 - tippen, vermuten; حَدس زَدَن
-- tippen (auf Schreibmaschine); تايپ کَردَن
+- tippen (auf Schreibmaschine); تایپ کَردَن
 - tippen (z.B. Lotto); قُمار بازى کَردَن
-Tisch; ميز
+Tisch; میز
 - gedeckter Tisch; خوان، مائِده، صُفره
-- am runden Tisch diskutieren; دور ِ ميز ِ گِرد بَحث کَردَن
-- jem. über den Tisch ziehen; کِسي را سَر و کيسه کَردَن
+- am runden Tisch diskutieren; دور ِ میز ِ گِرد بَحث کَردَن
+- jem. über den Tisch ziehen; کِسی را سَر و کیسه کَردَن
 - die Sache ist vom Tisch; موضوع حَل شُده
-- Beistelltisch; پيشدَستى
+- Beistelltisch; پیشدَستى
 - Freitisch; خوان ِ يَغما
 Tischler; نَجار
-Tischrede; سُخَنرانى ِ سَر ِ ميز ِ غَذا
-Tischtennis; پينک پُنک
-Tischtuch; روميزى
+Tischrede; سُخَنرانى ِ سَر ِ میز ِ غَذا
+Tischtennis; پینک پُنک
+Tischtuch; رومیزى
 Titel; (pl.)  (مَنصَب (مَناصِب)، لَقَب (اَلقاب
-- Titel (bei Zeitung, u.ä.); تيتر، عُنوان
-- Verleihung eines Titels; تَلقيب
+- Titel (bei Zeitung, u.ä.); تیتر، عُنوان
+- Verleihung eines Titels; تَلقیب
 - betitelt; مُعَنوَن
 Titelblatt; سَر صَفحه
-Titelverteidiger; حِفظ کُنَندة مَقام ِ قَهرَمانى
+Titelverteidiger; حِفظ کُنَندهٔ مَقام ِ قَهرَمانى
 toasten; بِرِشته کَردَن، بِرِشتَن
 Toaster; توستِر
 Tobak;
 - das ist starker Tobak; هَضمَش نِمى شَوَد کَرد
-toben; نوفيدَن، داد و قال کَردَن
+toben; نوفیدَن، داد و قال کَردَن
 - er tobt vor Wut; او سَگهار مى شَوَد
-tobend; ژيان
+tobend; ژیان
 Tochter; (pl.) بِنت (بَنات)، دُختَر
 Tod; مَرگ، فوت، دَر گُذَشت
 - plötzlicher Tod; آجَل ِ مُعَلَق، مَرگ ِ ناگِهانى
-- es geht um Leben & Tod; پاى ِ مَرگ و زِندِگى دَر ميان است
+- es geht um Leben & Tod; پاى ِ مَرگ و زِندِگى دَر میان است
 - jem., der mit dem Tode ringt; مُحتَضِر
-- er war am Rande des Todes; چيزى نَمانده بود که از پاى دَر آيَد
+- er war am Rande des Todes; چیزى نَمانده بود که از پاى دَر آيَد
 - er ist dem Tod von der Schippe gesprungen; خَرِش از پُل گُذَشت
-- dem Tod geweiht; آفتاب ِ کِسی به لَب ِ بام رِسيدَن
+- dem Tod geweiht; آفتاب ِ کِسی به لَب ِ بام رِسیدَن
 - meine Seele ist dem Tode nahe; نَفس ِ مَن مُشرِف به موت است
-- der Tod kommt aus seinem Versteck und greift nach mir; آجَل از کَمين دَر آيَد که مَنَم
-- er starb den Tod eines Märtyrers; به مَرگ ِ يِک شَهيد مُرد
+- der Tod kommt aus seinem Versteck und greift nach mir; آجَل از کَمین دَر آيَد که مَنَم
+- er starb den Tod eines Märtyrers; به مَرگ ِ يِک شَهید مُرد
 - jem. zum Tode verurteilen; کِسى را به مَرگ مَحکوم کَردَن
 - s. zu Tode grämen; دِق ِ مَرگ شُدَن
 Todesanzeige; آگَهى ِ دَرگُذَشت
 Todeserklärung; اِعلان ِ مَرگ ِ مَفقود
 Todeskampf; دوران ِ اِحتِضار
 Todesstoss;
-- dem Tier den Todesstoss geben; به حِيوان ضَربة خَلاص زَدَن
-Todesstrafe; عُقوبَت ِ اِعدام، کِيفَر ِ مَرگ
+- dem Tier den Todesstoss geben; به حِیوان ضَربهٔ خَلاص زَدَن
+Todesstrafe; عُقوبَت ِ اِعدام، کِیفَر ِ مَرگ
 Todestag; روز ِ مَمات، روز ِ وَفات
 Todesurteil; حُکم ِ اِعدام
 Todgeweihter; آجَل بَرگشته
@@ -521,46 +525,46 @@ tödlich; مَرگبار، کُشَنده
 - jem. ist tödlich verunglückt; کِسى دَر حادِثه دَر گُذَشت
 Toilette; (dari) مُستَراح، (تِشناب)، توالِت
 - Toilette machen; آرايِش کَردَن
-- jedesmal, wenn er zur Toilette muss, soll er es sagen; هَر وَفت که جيش دارَد بايَد بِگويَد
+- jedesmal, wenn er zur Toilette muss, soll er es sagen; هَر وَفت که جیش دارَد بايَد بِگويَد
 tolerant; با مُدارا، با گُذَشت، بُردبار
 Toleranz; مُدارا، بُردبارى
 tolerieren; تَحَمُل کَردَن
-toll; بَديع، عالى
-- toller Erfolg; توفيق ِ چِشم گير، ـ مُعجِزه آسا
+toll; بَدیع، عالى
+- toller Erfolg; توفیق ِ چِشم گیر، ـ مُعجِزه آسا
 - toller Garten; باغ ِ مُحتَشَم
 - tolles Kleid; لِباس ِ جِلف و قَشَنگ
 Tollwut; هارى
 tollwütig; هار
 Tölpel; اَحمَق
-- du benimmst dich wie ein Tölpel; هَمة کاسة کوزه هارا بِهَم زَدى
+- du benimmst dich wie ein Tölpel; هَمهٔ کاسهٔ کوزه هارا بِهَم زَدى
 Tomate; گوجه فَرهَنگى، ـ فَرَنگى
 Tomatenmark; رُب ِ فَرَنگ، ـ گوجه فَرَنگى
 Ton;
 - Ton (Laut); (pl.) صوت (اَصوات)، صِدا
 - Ton (- erde); خاک ِ رُسى، گِل ِ رُس
 - gebrannter Ton; خاک ِ نَسوز
-- halber Ton (in Musik); نيم پَرده
-- er spuckt grosse Töne; لاف ِ زياد مى زَنَد، قُمپُز دَر مى کُنَد
+- halber Ton (in Musik); نیم پَرده
+- er spuckt grosse Töne; لاف ِ زیاد مى زَنَد، قُمپُز دَر مى کُنَد
 tonangebend; غالِبانه
 Tonband; نَوار ِ ضَبط ِ صوت
 Tonleiter; گام، دَستگاه هاى ِ اَصلى
 Tonne;
 - Tonne (Gefäss); بُشکه
-- Tonne (Gewichteinheit); تُن، ۱۰۰۰ کيلوگرام
-Tonspur (beim Filmband); حاشية صوتى
-Tonus; اِنقِباض ِ دائِم ِ ماهيچة صاف
-Topas; ياقوت ِ زَرد
-Topf; ديگ، کوزه، باديه
+- Tonne (Gewichteinheit); تُن، ۱۰۰۰ کیلوگرام
+Tonspur (beim Filmband); حاشیهٔ صوتى
+Tonus; اِنقِباض ِ دائِم ِ ماهیچهٔ صاف
+Topas; یاقوت ِ زَرد
+Topf; دیگ، کوزه، بادیه
 - zu jedem Topf passt ein Deckel; دَر و تَخته به هَم جور مى آيَد
 - sie in einen Topf werfen; آنهارا به يِک کاسه کَردَن
 - Schmortopf; کُماجدان
-- mit Töpfeschrubben beschäftigt sein; با ديگ سابى مَشغول بودَن
+- mit Töpfeschrubben beschäftigt sein; با دیگ سابى مَشغول بودَن
 Töpfer; کوزه گَر
 Topographie; موضِع شِناسى
 Tor;
 - ein Tor schiessen; گُل زَدَن
 - 5 Tore erzielen; پَنج گُل زَدَن
-- mit 1 Tor vorne liegen; با يِک گُل از سَر ِ حَريف ِ خود گُذَشت
+- mit 1 Tor vorne liegen; با يِک گُل از سَر ِ حَریف ِ خود گُذَشت
 - es ist besser, einen Klugen zum Gegner zu haben, als einen Tor zum Freund; مُخالِف ِ دانا بِه از نادان دوست
 - Einfahrtstor; دَرب ِ وُرودى
 - Torkasten (beim Ballsport); باجه، دَروازه
@@ -571,17 +575,17 @@ Tornister; دوش تُبره
 Torpedo; اَژدَر
 Torpedoboot; ناو ِ اَژدَر ِ اَنداز
 Torschütze; گُلزَن
-Torsionskraft; نيروى ِ پيچِش
-Torso; مُجَسَمة ناقِص، تَنديس
+Torsionskraft; نیروى ِ پیچِش
+Torso; مُجَسَمهٔ ناقِص، تَندیس
 Torwart; دَروازه بان
 tot; مَيِت، بى جان، مُرده
 total; تَماماً، کامِلاً
 - total hilflos; مَذبوحانه، کامِلاً بى چاره، تَماماً بى چاره
-- alles geht total bergab; هَمه چيز به تَمامى به قَهقَهرا مى رَوَد
+- alles geht total bergab; هَمه چیز به تَمامى به قَهقَهرا مى رَوَد
 Totalausverkauf; اَجناس ِ کُتره اى فُروخته مى شَوَد
 totalitär; مُستَبِد
-- totalitäre Regierung; دولَت ِ هَمه گير، دولَت ِ مُستَبِد
-Totalitarismus; اِستِبداد ِ هَمه گير، تام رَوائى، يِکه تازى
+- totalitäre Regierung; دولَت ِ هَمه گیر، دولَت ِ مُستَبِد
+Totalitarismus; اِستِبداد ِ هَمه گیر، تام رَوائى، يِکه تازى
 Totalreflexion; اِنعِکاس ِ کُلى
 töten; کِسى را مَقتول ساختَن، ـ کُشتَن
 Totenandacht; خَتم
@@ -592,24 +596,24 @@ Totenmesse;
 Totenschein; گُواهى ِ فوت
 Totenstarre; جُمود ِ نَعشى
 Toter; مُرده، مَيِت
-totgebrannt; سوختة خاموش
-Totschlag; قَتل ِ غِير ِ عَمد
+totgebrannt; سوختهٔ خاموش
+Totschlag; قَتل ِ غِیر ِ عَمد
 - die Zeit totschlagen; وَقت کُشى کَردَن
 Totschläger; قاتِل
-Tour; مُسافِرَت ِ تَفريحى
-Tourismus; وريسم، جَهانگَرى
-Tourist; توريست، جَهانگَر
+Tour; مُسافِرَت ِ تَفریحى
+Tourismus; وریسم، جَهانگَرى
+Tourist; توریست، جَهانگَر
 Toxikologe; سَم شِناس
 toxisch; مَسموم
 Toxin; زَهرابه
-Trab; يورتِمه
-traben; يورتِمه رَفتَن
+Trab; یورتِمه
+traben; یورتِمه رَفتَن
 - trabendes Pferd; اَسب ِ رَهوار
 Trachee; مُجراى ِ تَنَفُسى دَر حَشَرات
 trachten;
 - nach dem Leben von .. trachten; قَصد ِ جان ِ کِسى داشتَن
-- trachten nach; راغِب بودَن به، دَر بارة .. اَنديشيدَن
-- das ganze Denken & Trachten ist ..; تَقَلاى ِ تو تَقَلاى ِ چيزى بودَن، اَسباب چينى سَر ِ اين است
+- trachten nach; راغِب بودَن به، دَر بارهٔ .. اَندیشیدَن
+- das ganze Denken & Trachten ist ..; تَقَلاى ِ تو تَقَلاى ِ چیزى بودَن، اَسباب چینى سَر ِ این است
 Trachtenkleidung; لِباس ِ ماهوت، ـ مَحَلى
 trächtig; باردار
 Trächtigkeit; باردارى
@@ -619,179 +623,179 @@ Tradition; (pl.)  (آداب و رُسوم، سُنَت (سُنَن
 traditionell; سُنَتى
 tragbar;
 - tragbar (als Gewicht); دَستى، قابِل ِ حَمل
-- tragbar (z.B. Kleidung); قابِل ِ پوشيدَن
+- tragbar (z.B. Kleidung); قابِل ِ پوشیدَن
 Trage; زَنبه، تَخت ِ رَوان
-träge; تَنبَل، بيحال
-- sie sind sehr träge; آنها خِيلى خُمود هَستَند
+träge; تَنبَل، بیحال
+- sie sind sehr träge; آنها خِیلى خُمود هَستَند
 - ein träger Typ;  آدَم  ِ ناکار
 tragen; حَمل کَردَن، بُردَن
 - bequem zu tragen; خوش بار
 Träger; حامِل
-- Eisenträger; تير آهَن، تير ِ حَمال ِ آهَنى
+- Eisenträger; تیر آهَن، تیر ِ حَمال ِ آهَنى
 - Lastenträger; باربَر
 trägerlos (- es Kleid); لِباس بِدون ِ رِکاب
-Tragetuch; چَپَرپيچ
-- in ein Tragetuch einwickeln (z.B. Baby); چَپَرپيچ کَردَن
+Tragetuch; چَپَرپیچ
+- in ein Tragetuch einwickeln (z.B. Baby); چَپَرپیچ کَردَن
 Trägheit; فَرويِش، بى حالى، خُمود، تَکَسُل
 Trägheitsmoment; گَشتاوَر مانَد
-Tragik; نُحوسَت، بَديُمنى، مُصيبَت
-tragisch; فاجِعه اَنگيز، غَم اَنگيز، حُزن آوَر
-- tragischer Vorfall; اِتِفاق ِ جانسوز، ـ جانگُداذ، ـ فَجيع
+Tragik; نُحوسَت، بَديُمنى، مُصیبَت
+tragisch; فاجِعه اَنگیز، غَم اَنگیز، حُزن آوَر
+- tragischer Vorfall; اِتِفاق ِ جانسوز، ـ جانگُداذ، ـ فَجیع
 Tragödie; فاجِعه
 - Tragödie (Theater); تراژِدى
 Tragweite (polit.); عَواقِب
 Trainer; مُدَرِب، مُرَبى
-trainieren; تَمرين کَردَن
-Training; تَمرين
+trainieren; تَمرین کَردَن
+Training; تَمرین
 Trainingsanzug; لِباس ِ وَرزِشى
-Trainingsstunden; دورة کلاس ِ مُرَبيگَرى
+Trainingsstunden; دورهٔ کلاس ِ مُرَبیگَرى
 Traktat; رِساله
 Traktor; تراکتور
 trampen; با اُتو اِستاپ مُسافِرَت کَردَن
 Träne; سِرِشک، اَشک
 - unechte Tränen vergießen; آب ِ غوره گِرِفتَن
-- jem. zu Tränen rühren (v.a. bei Trauerveranstaltung); کِسي را به گريه اَنداختَن، اَشک گِرِفتَن
-- Freudentränen; اَشک ِ شوق، گِريه شادى
+- jem. zu Tränen rühren (v.a. bei Trauerveranstaltung); کِسی را به گریه اَنداختَن، اَشک گِرِفتَن
+- Freudentränen; اَشک ِ شوق، گِریه شادى
 - Krokodilstränen; اَشک ِ تَمسَح
-Tränendrüse; غُدة اَشکى
+Tränendrüse; غُدهٔ اَشکى
 Tränengas; گاز ِ اَشک آور
 Tränke; آبِشخور
-tränken; کِسى را سيرآب کَردَن، ـ نوشانيدَن، ـ آب دادَن
+tränken; کِسى را سیرآب کَردَن، ـ نوشانیدَن، ـ آب دادَن
 Transaktion; مُعامِله
 Transfer; اِنتِقال
 - Geldtransfer; حَواله
 Transformator; مُبَدَل، ترانسفورماتور
-transformieren;  .تَبديل کَردَن، دِگَرگون ک
-Transfusion; تَزريق، اِنتِقال
-Transistor; ترانزيستور
+transformieren;  .تَبدیل کَردَن، دِگَرگون ک
+Transfusion; تَزریق، اِنتِقال
+Transistor; ترانزیستور
 transparent; شَفاف
-Transparenz; پالايه، شَفافى، شَفافيَت
-Transplant; عُضو ِ پِيوَندى
-Transplantation; پِيوَند ِ اَعضاء
-- Herztransplantation; پِيوَند ِ قَلب
-transplantieren; پِيوَند زَدَن ِ بافتها، جابِجا زَدَن ِ ـ
+Transparenz; پالایه، شَفافى، شَفافيَت
+Transplant; عُضو ِ پِیوَندى
+Transplantation; پِیوَند ِ اَعضاء
+- Herztransplantation; پِیوَند ِ قَلب
+transplantieren; پِیوَند زَدَن ِ بافتها، جابِجا زَدَن ِ ـ
 Transport; بارکِشى، حَمل و نَقل
-- einen Transport unternehmen; يِک حِرفة نَقل و اِنتِقال پَرداختَن
-Transportband; تَسمة نَقاله
-Transportgefährdung; مُخاطِرة حَمل و نَقل
+- einen Transport unternehmen; يِک حِرفهٔ نَقل و اِنتِقال پَرداختَن
+Transportband; تَسمهٔ نَقاله
+Transportgefährdung; مُخاطِرهٔ حَمل و نَقل
 transportierbar; قابِل ِ حَمل و نَقل
-Transportmittel; وَسيلة نَقليه
-- allgemeine Transportmittel; وَسيلة نَقلية هَمِگانى
+Transportmittel; وَسیلهٔ نَقلیه
+- allgemeine Transportmittel; وَسیلهٔ نَقلیهٔ هَمِگانى
 Transportunternehmen; شِرکَت ِ حَمل و نَقل
 transzendent; اِدراک ِ مُتَعال
 - transzendente Welten; (olwi) عَوالِم ِ عُلوى، ماوَراى ِ عالَم
 - Transzendenz Gottes; ماوَراء ِ خِلقَت، تَعالى ِ خُدا
 Trapez (mathemat., Sport); ذو زَنَقه
 Trapezkünstler; بَند باز
-Trassierung; اِنتِخاب ِ مَسير
-Tratsch; بَد زَباني، جُغُلي، سِخَن چيني
-tratschen;  .دو بَر هَم زَنى کَردَن، سُخَن چينى ک
+Trassierung; اِنتِخاب ِ مَسیر
+Tratsch; بَد زَبانی، جُغُلی، سِخَن چینی
+tratschen;  .دو بَر هَم زَنى کَردَن، سُخَن چینى ک
 Traube; اَنگور
 - unreife Traube; غوره
 - Saft aus unreifen Trauben; آب ِ غوره
-Traubenlese; اَنگور چينى
+Traubenlese; اَنگور چینى
 Traubensaft; آب ِ اَنگور
 Traubenzucker; گلوکُز
 trauen;
 - trauen, vertrauen; اِعتِماد داشتَن
 - jem. trauen (verheiraten); عَقد کَردَن
-Trauer; ماتِم، نوحه، سوکوارى، نوحه گَرى، تَرَح، عَزا داري
+Trauer; ماتِم، نوحه، سوکوارى، نوحه گَرى، تَرَح، عَزا داری
 - wegen Trauer; به عِلَت ِ تألُمات
 - voll Trauer; با قَلبى ِ آکَنده از غَم و اَندوه
-- jem. in Trauer stürzen; کِسى را دَر سوگ ِ وُجود ِ خويش نِشاندَن
+- jem. in Trauer stürzen; کِسى را دَر سوگ ِ وُجود ِ خویش نِشاندَن
 - Nationaltrauer; عَزاى ِ مِلى
 - Trauerphase (eine geschiedene Frau oder Witwe darf innerhalb 100 Tagen nicht heiraten); عِده
-- 40. Tag nach dem Tod; اَربَعِين
-Trauerfeier; عَزادارى، مَجِلس ِ تَرحيم، ـ عَزا
-Trauerklage; شيوَن، مَرثيه
-Trauerkleidung; لِباس ِ عَزا، ـ سوکيانه
+- 40. Tag nach dem Tod; اَربَعِین
+Trauerfeier; عَزادارى، مَجِلس ِ تَرحیم، ـ عَزا
+Trauerklage; شیوَن، مَرثیه
+Trauerkleidung; لِباس ِ عَزا، ـ سوکیانه
 Trauermarsch; مارش ِ عَزا
-Trauermelodie; قَصيده
+Trauermelodie; قَصیده
 trauern; ماتِم گِرِفتَن، ـ داشتَن، عَزادار بودَن
 - er trauerte 3 Wochen; او سه هَفته ماتِم گِرِفت، ـ عَزا گِرِفت
 - jem. betrauern; به سوگ ِ کِسى نِشَستَن، بَراى ِ کِسى عَزا گِرِفتَن
 Trauernder; نوحه گَر، عَزادار
-Trauerzug; دَستة عَزادارى، مُشايِعَت، تَشييع ِ جِنازه
+Trauerzug; دَستهٔ عَزادارى، مُشايِعَت، تَشییع ِ جِنازه
 Traufe; راه آب، ناودانى
 - vom Regen in die Traufe; از چاله به چاه اُفتادَن
-träufeln; چِکانيدَن
+träufeln; چِکانیدَن
 - etwas ins Ohr träufeln; قَطور دَر گوش چِکاندَن
 Traum; خواب
-- und im Traum sah er Brot; و خواب نان مى ديد
-- ich hatte einen Traum; خوابى ديده ام
+- und im Traum sah er Brot; و خواب نان مى دید
+- ich hatte einen Traum; خوابى دیده ام
 - schlechter Traum; بَختَک
-- ... mir nicht mal im Traum einfallen; هَرگِز به خواب هَم نَديده باشَم، هَرگِز فِکرِش را فِکر نِمى کَردَم
+- ... mir nicht mal im Traum einfallen; هَرگِز به خواب هَم نَدیده باشَم، هَرگِز فِکرِش را فِکر نِمى کَردَم
 - Träume sind Schäume; خَربُز آب است، فِکر ِ نان باش
-Traumata; جَراحَت، آسيب
+Traumata; جَراحَت، آسیب
 Traumbild; آرمان
-Traumdeutung; تَعبير ِ خواب
-träumen; خواب ديدَن
-- träumen, phantasieren; رؤياها ديدَن
-- träum mal; خوابَش را بِبين
-- von etwas träumen; اُميد ِ چيزى را داشتَن، سوداهاى ِ خام پُختَن، دَر خيال خواستَن
-- von jem. träumen; خواب ِ کِسی را ديدَن
-- von .. zu träumen anfangen; دَر مورد ِ .. به رويا پَروَرى پَرداختَن
-- ich träumte; خوابى ديده ام، مَن خواب ديدَم
-- ihm träumte, dass ...; او خوابى ديد
-- erleben & erträumen; مُشاهِدات و تَخَيُلات، چِشيده ها و خواسته ها
-Träumer; خواب بين، آدَم ِ خيالى
-Träumerei; خيال پَردازي، خيال بافي
-Traumtänzer; يِک شاهی بِده آش به هَمين خيال باش
-Traumwelt; عالَم ِ خيال، دُنياى ِ فاضِله
+Traumdeutung; تَعبیر ِ خواب
+träumen; خواب دیدَن
+- träumen, phantasieren; رؤیاها دیدَن
+- träum mal; خوابَش را بِبین
+- von etwas träumen; اُمید ِ چیزى را داشتَن، سوداهاى ِ خام پُختَن، دَر خیال خواستَن
+- von jem. träumen; خواب ِ کِسی را دیدَن
+- von .. zu träumen anfangen; دَر مورد ِ .. به رویا پَروَرى پَرداختَن
+- ich träumte; خوابى دیده ام، مَن خواب دیدَم
+- ihm träumte, dass ...; او خوابى دید
+- erleben & erträumen; مُشاهِدات و تَخَيُلات، چِشیده ها و خواسته ها
+Träumer; خواب بین، آدَم ِ خیالى
+Träumerei; خیال پَردازی، خیال بافی
+Traumtänzer; يِک شاهی بِده آش به هَمین خیال باش
+Traumwelt; عالَم ِ خیال، دُنیاى ِ فاضِله
 traurig; مَحزون، مَغموم، سوکوار
-- das machte mich traurig; دِلَم را ريش کَرده
-- eine traurige Angelegenheit; واقِعة مولِمه، اِتِفاق ِ اَسَفناک، ـ دِل آزار
+- das machte mich traurig; دِلَم را ریش کَرده
+- eine traurige Angelegenheit; واقِعهٔ مولِمه، اِتِفاق ِ اَسَفناک، ـ دِل آزار
 - traurige Augen; چِشمهاى ِ غَم گِرِفته
 Traurigkeit; اَندوه، غَم
 Trauschein; سَنَد ِ اِزدِواج
 Traute; جُرأت، شُجاعَت
-- ich hatte keine Traute; دِل توي ِ دِلَم نَبود
+- ich hatte keine Traute; دِل توی ِ دِلَم نَبود
 Trauung; عَهد ِ نِکاح، اِزدِواج، عَقد، اِنکاح
-Traverse; تير ِ مُتَقاطِع، تراوِرس
+Traverse; تیر ِ مُتَقاطِع، تراوِرس
 treffen;
-- jem. treffen; کِسى را مُلاقات کَردَن، ـ بَرخورد ک.، با کِسى ديدار ک.، به ديدَن ِ کِسى رَفتَن
-- nicht treffen (z.B. ein Ziel); تيرَش به سَنگ مى خورد
-- das Bedürfnis, Menschen zu treffen; نياز به هَم رِساندَن با مَردُم
-- entschloss mich, ... zu treffen; تَصميم گِرِفتَم با ... ديدار کُنَم
+- jem. treffen; کِسى را مُلاقات کَردَن، ـ بَرخورد ک.، با کِسى دیدار ک.، به دیدَن ِ کِسى رَفتَن
+- nicht treffen (z.B. ein Ziel); تیرَش به سَنگ مى خورد
+- das Bedürfnis, Menschen zu treffen; نیاز به هَم رِساندَن با مَردُم
+- entschloss mich, ... zu treffen; تَصمیم گِرِفتَم با ... دیدار کُنَم
 - ein Schlag hat ihn getroffen; ضَربه اورا اِصابَت کَرد
-- gestern hat uns ein Unglück getroffen; ديروز بَلائى سَر ِ ما آوَرده
-- was für ein Unglück ihn trifft!; چه بَدبَختي سَرَش مي آيَد
+- gestern hat uns ein Unglück getroffen; دیروز بَلائى سَر ِ ما آوَرده
+- was für ein Unglück ihn trifft!; چه بَدبَختی سَرَش می آيَد
 - du hast nicht getroffen; جا خالى زَدى، نِشانه نَزَدى
 - das trifft ihn, das sitzt; بَر او کارگَر مى افتَد
 - für einen Augenblick trafen s. unsere Blicke; نِگاهِمان يِک لَحظه به هَم اُفتاد
 Treffen (n); بَرخورد، مُلاقات
 - ein gemütliches Treffen; گِردِهَمائى ِ خودِمانى
 treffend;
-- er machte folgende treffende Bemerkung über ihn; او کَلَمات ِ قِصار ِ زيررا بَر زَبان آوَرد
+- er machte folgende treffende Bemerkung über ihn; او کَلَمات ِ قِصار ِ زیررا بَر زَبان آوَرد
 - treffendes Urteil; رأى ِ صائِب
 Treffer;
-- Fehltreffer; تير ِ غِيبى
-trefflich; حَکيمانه، عالى
-Treffpunkt; مَحَل ِ تَلاقى، ـ مُلاقات، ميعاد گاه، پاتُق
-Treibeis; تودة يَخ ِ شِنَوا
-treiben; راندَن، پيش بُردَن
+- Fehltreffer; تیر ِ غِیبى
+trefflich; حَکیمانه، عالى
+Treffpunkt; مَحَل ِ تَلاقى، ـ مُلاقات، میعاد گاه، پاتُق
+Treibeis; تودهٔ يَخ ِ شِنَوا
+treiben; راندَن، پیش بُردَن
 - er treibt uns hierhin und dorthin; او مارا به جِلو و عَقَب مى رانَد
 Treiber (bei Jagd); آهو گَردان
 Treibhaus; گُلخانه
-Treibmine; مين ِ شِناوَر
+Treibmine; مین ِ شِناوَر
 Treibsand; شِنهاى ِ رَوان
 Treibstoff; مَواد ِ سوختَنى، سوخت
 Trend; گِرايِش
-Trendanalyse; تَحليل ِ گِرايِش
+Trendanalyse; تَحلیل ِ گِرايِش
 trennen;  .مُفَرِق شُدَن، ـ بودَن، جُدا کَردَن، قَطع ک
 - s. von jem. trennen; از کِسى اِستِعفا کَردَن
-- trennt sie voneinander; از هَم دىگَر سِوايِشان کُنيد
-- gibt es getrennt von Gott ..?;  آيا جُدا از خُدا ...؟، بِجُدائى از خُدا ...؟
+- trennt sie voneinander; از هَم دىگَر سِوايِشان کُنید
+- gibt es getrennt von Gott ..?;  آیا جُدا از خُدا ...؟، بِجُدائى از خُدا ...؟
 - getrennte Kasse; مَخارِجِشان سَواست
-- in getrennten Buchstaben; به تَفکيک ِ حُروف
-trennend; مُمَيِز، ويرگول
+- in getrennten Buchstaben; به تَفکیک ِ حُروف
+trennend; مُمَيِز، ویرگول
 Trennscheibe; قُرس ِ جُدا کُنَنده
 Trennung;
-- Trennung von jem.; فَراق، حاشيه رَفتَن از کِسى، جُدائى ـ
-- Trennung von Kirche & Staat; تَفکيک ِ دين از دولَت، جُداسازى ِ ـ
+- Trennung von jem.; فَراق، حاشیه رَفتَن از کِسى، جُدائى ـ
+- Trennung von Kirche & Staat; تَفکیک ِ دین از دولَت، جُداسازى ِ ـ
 Trennungsentschädigung; جُبران ِ خِسارَت ِ جُدائى
-Trennungszulage; اِضافة حُقوق ِ جُدائى
-Trennwand; ديوار ِ تيغه
+Trennungszulage; اِضافهٔ حُقوق ِ جُدائى
+Trennwand; دیوار ِ تیغه
 Treppe; نَرده بان، پِله کان، پِلکان
 treppenförmig; به شِکل ِ نَردِبانى
 Treppengeländer; نَرده
@@ -800,257 +804,257 @@ Tretanlasser; اِستارت ِ پائى
 treten;
 - in Verbindung treten mit; اِرتِباط با کِسى بَر قَرار کَردَن
 - jem. gegen das Bein treten; به کِسى پُشت ِ پا زَدَن
-- nach unten treten, nach oben buckeln; از خُردان لَخشيدَن، از بُزُرگان بَخشيدَن
-- er tritt durch die Glastür ins Innere; از دَر ِ شيشه به دَرون پا مى نَهايَد
-- ich bin in einen Nagel getreten; دَر ميخ پا گُذاشتَم
+- nach unten treten, nach oben buckeln; از خُردان لَخشیدَن، از بُزُرگان بَخشیدَن
+- er tritt durch die Glastür ins Innere; از دَر ِ شیشه به دَرون پا مى نَهايَد
+- ich bin in einen Nagel getreten; دَر میخ پا گُذاشتَم
 Tretmühle;
 - das ist eine Tretmühle; عِین ِ اَسب ِ اَسیره چَرخیدَن
-treu; اِخلاصمَند، اَمين، وَفادار
+treu; اِخلاصمَند، اَمین، وَفادار
 - ich bin mir treu geblieben; مَن رو حَرفَم موندَم
 Treue; وَفادارى، صِداقَت
 - jem. wird seine Treue aufgeben; کِسى نَمَک به حَرامى خواهَد بود
 Treueeid;
-- Treueeid leisten;  .سوگَند ِ ياد کَردَن، سوگَند ِ وَفادارى ک
-Treuhand; توليَت، قِيمومَت، مُديريَت ِ اَمانى
+- Treueeid leisten;  .سوگَند ِ یاد کَردَن، سوگَند ِ وَفادارى ک
+Treuhand; توليَت، قِیمومَت، مُدیريَت ِ اَمانى
 Treuhänderschaft; تَوَلا
-treuherzig; بى ريا، بى عِيب
+treuherzig; بى ریا، بى عِیب
 treulos; غَدار، خائِن
-Tribunal; ديوان ِ حَرب، دادگاه، ديوان ِ مُحاکِمات
-Tribüne; جايگاه ِ تَماشاچيان
+Tribunal; دیوان ِ حَرب، دادگاه، دیوان ِ مُحاکِمات
+Tribüne; جایگاه ِ تَماشاچیان
 Tribut; باج
 tributpflichtig; مُستَلزِم ِ عَوارِض
 Tributpflichtiger; باجگُذار
-Trichter; قيف
+Trichter; قیف
 - Erdtrichter; قَمع
-trichterförmig; قيفى
+trichterförmig; قیفى
 Trick; تَرفَند
 - mit faulen Tricks; با دوز و کَلَک
-- das sind keine faulen Tricks; مَن شيله پيله توي ِ کارَم نيست، راستي حُسِيني هَستَم
-- kleine Tricks; لَطايف اُلحيَل
-- zur Vermeidung dieser Tricks; بَراى ِ اِجتِناب از اين تَرفَندها
+- das sind keine faulen Tricks; مَن شیله پیله توی ِ کارَم نیست، راستی حُسِینی هَستَم
+- kleine Tricks; لَطایف اُلحيَل
+- zur Vermeidung dieser Tricks; بَراى ِ اِجتِناب از این تَرفَندها
 tricksen;  .بامبول زَدَن، فَن ز
-Trickserei; حُقه بازى، شيله پيله
+Trickserei; حُقه بازى، شیله پیله
 Trieb;
-- Trieb, Ableger; پِيجوش، نَهال، نورَسته
+- Trieb, Ableger; پِیجوش، نَهال، نورَسته
 - Trieb (sexuell); سائِقه، سايِقه، سايِق
-- Selbsterhaltungstrieb; اَنگيزة اِحتِفاظ، سائِقة ـ
+- Selbsterhaltungstrieb; اَنگیزهٔ اِحتِفاظ، سائِقهٔ ـ
 triebhaft;
-- triebhafter Mensch; آدَم ِ هيز
-Triebkraft; قُوة مُحَرِکه
-- Raketentriebwerk; نيروى ِ مُحَرِکة موشَک
-triefen; چِکيدَن
-- triefende Frucht; ميوة آبلَنبو
+- triebhafter Mensch; آدَم ِ هیز
+Triebkraft; قُوهٔ مُحَرِکه
+- Raketentriebwerk; نیروى ِ مُحَرِکهٔ موشَک
+triefen; چِکیدَن
+- triefende Frucht; میوهٔ آبلَنبو
 Triefnase; (mofu) مُفو
 triftig; مُوَجَه، قانِع کُنَنده
-- triftiger Grund; عُذر ِ مُوَجَه، دَليل ِ ـ
+- triftiger Grund; عُذر ِ مُوَجَه، دَلیل ِ ـ
 Trigonometrie; مُثَلَثات
 Trikotwäsche; لِباس ِ کِش باف
 Trikotage; کِش بافى
-Trinität; تَثليَث، ثالوث، تَثليس
-trinkbar; آشاميدَنى
-trinken; نوشيدَن
-- mit. jem. ein Gläschen trinken; با کِسى دو گيلاس زَدَن
-Trinkerei; مِيگُسَرى
+Trinität; تَثليَث، ثالوث، تَثلیس
+trinkbar; آشامیدَنى
+trinken; نوشیدَن
+- mit. jem. ein Gläschen trinken; با کِسى دو گیلاس زَدَن
+Trinkerei; مِیگُسَرى
 Trinkgeld; اِنعام
 Trinkhalm; نِى ِ نوش
-Trinkwasser; آب ِ آشاميدَنى
+Trinkwasser; آب ِ آشامیدَنى
 Triplexverfahren; رَوِش ِ سه بوته اى
 Tripper; سوزاک
 trist;
 - trist sein;  .مَلول بودَن، خَسته کُنَنده ب
 - tristes Leben; زِندِگى ِ کَسِل کُنَنده، ـ مَلال آوَر
-- triste Farben; رَنگهاي تيره
+- triste Farben; رَنگهای تیره
 Tritt; لَگَد
 - jem. einen Tritt (in den Hintern) geben;  .شَلَخته زَدَن، لَگَد ز
 Trittbrett; رِکاب
-Trittbrettfahrer; نِيزه باز، راکِب
-Triumph; پيروزى
-Triumphbogen; طاق ِ پيروزى
+Trittbrettfahrer; نِیزه باز، راکِب
+Triumph; پیروزى
+Triumphbogen; طاق ِ پیروزى
 triumphieren;
-- triumphieren über; بَر کِسى پيروز شُدَن
+- triumphieren über; بَر کِسى پیروز شُدَن
 trocken; خُشک
 - trocken, dürr (Wüste); بَرَهوت
 - auf dem Trockenen sitzen; دَر تَنگدَستى بودَن
 Trockenheit; خُشکى
-trockenlegen (eines Gewässers); زير آب زَدَن
-Trockenlegung; تَجفيف کَردَن
+trockenlegen (eines Gewässers); زیر آب زَدَن
+Trockenlegung; تَجفیف کَردَن
 trocknen; خُشک کَردَن
 Trockner; خُشک کُن گَردان
 Trödel; خِرت و پِرت
 trödeln; فِسفِس کَردَن
-Trödler; پيله وَر، سِمسار
+Trödler; پیله وَر، سِمسار
 Trog; تَغار
-- Backtrog; تَغار ِ خَمير، لاوَک
+- Backtrog; تَغار ِ خَمیر، لاوَک
 Trommel; طَبل، دُگِل، دُهُل، دَمام
 - kleine Trommel; طَبله
-Trommelfell; پَردة سِماخ، ـ صِماخ
-Trommelmischer; مَخلوط کُنَندة تَغارى ِ گَردان
+Trommelfell; پَردهٔ سِماخ، ـ صِماخ
+Trommelmischer; مَخلوط کُنَندهٔ تَغارى ِ گَردان
 trommeln; طَبل زَدَن
 Trommelwirbel; ضَرباهَنگ ِ طَبل
 Trommler; ضَرب زَن، طَبال
 Trompete; ترُمپِت
-Tropen; نَواحى ِ گَرمسير
+Tropen; نَواحى ِ گَرمسیر
 Tropf (med.); سُرُم
 - ein armer Tropf; آدَم ِ کَم عَقل
-tropfen; چِکيدَن، تَراويدَن
-- abgetropfter Quark; ماست ِ چِکيده
+tropfen; چِکیدَن، تَراویدَن
+- abgetropfter Quark; ماست ِ چِکیده
 Tropfen (m); قَطره، چِکه
 - bis zum letzten Tropfen; لاجُرعِه
 tropfenweise; قَطره قَطره، چِکه چِکه
-Trophäe; (pl.)  (غَنيمَت (غَنائِم
+Trophäe; (pl.)  (غَنیمَت (غَنائِم
 - Kriegstrophäe; غَنايِم ِ جَنگ
 Trost; تَسَليَت، تَسَلى، آسايِش، آسودِگى، دِلدارى، آرامِش خاطِر
-trösten (- jem.); تَسَلى دادَن، آسايِش بَخشيدَن، آسودِگى ب.، دِلدارى دادَن، آب ِ شادي بَر آَتش ِ غَم ريختَن
+trösten (- jem.); تَسَلى دادَن، آسايِش بَخشیدَن، آسودِگى ب.، دِلدارى دادَن، آب ِ شادی بَر آَتش ِ غَم ریختَن
 Tröster; مُعَزى، تَسَليَت دَهَنده
-trostlos; مأيوس، بِدون ِ چِشم داشت
-- trostlose Stimme; صِداى ِ حَزين
+trostlos; مأیوس، بِدون ِ چِشم داشت
+- trostlose Stimme; صِداى ِ حَزین
 Trottel; خُل و چِل، اَلدَنگ
 trottelig; خِنگ
-Trottoir; پياده رو
-trotz; با آنهَمه، با اينکه، با وُجود ِ
-- trotz allem ...; به هَر کَلَکي بود
-Trotz (m); خودسَري، لَجاجَت
+Trottoir; پیاده رو
+trotz; با آنهَمه، با اینکه، با وُجود ِ
+- trotz allem ...; به هَر کَلَکی بود
+Trotz (m); خودسَری، لَجاجَت
 - zum Trotz; اِلى رَغم
-trotzdem; با اينحال، با وُجود ِ اين که
+trotzdem; با اینحال، با وُجود ِ این که
 trotzen;
-- einer Sache gegenüber trotzen; بَر چيزى پا نَهادَن، دَر مُقابِل ِ چيزى مُقاوِمَت کَردَن
-trübe; تار و تيره، بي رَنگ
-- trübe Farbe; رَنگ ِ تاسيده، ـ تيره، ـ کَدِر
-- trübe Scheiben, Milchglas; شيشة تاره
+- einer Sache gegenüber trotzen; بَر چیزى پا نَهادَن، دَر مُقابِل ِ چیزى مُقاوِمَت کَردَن
+trübe; تار و تیره، بی رَنگ
+- trübe Farbe; رَنگ ِ تاسیده، ـ تیره، ـ کَدِر
+- trübe Scheiben, Milchglas; شیشهٔ تاره
 - eine Sache trüben; گِل آلود کَردَن ِ آبها دَر مورد ِ
 - in trüber Stimmung sein; دَر حال ِ ضَجور بودَن
 Trubel; شُلوغ
 - Arbeitstrubel; کِشاکِش ِ کار
-- Feiertagstrubel; دَنگ و فَنگ ِ عِيد
-Trübsal; سَختى، زَحمَت، مِحنَت، پَريشانى
+- Feiertagstrubel; دَنگ و فَنگ ِ عِید
+Trübsal; سَختى، زَحمَت، مِحنَت، پَریشانى
 trübsinnig; اَفسُرده، دِلتَنگ، دِلخورده
 Trübung;
-- Trübung (des Blickes); زِيغ اُلبَصر
-- Trübung (des Wassers); تيرِگى
-Trug; فَريب، گول
-trügerisch; فَريبَنده
-Trugschluss; قياس ِ کاذِب
+- Trübung (des Blickes); زِیغ اُلبَصر
+- Trübung (des Wassers); تیرِگى
+Trug; فَریب، گول
+trügerisch; فَریبَنده
+Trugschluss; قیاس ِ کاذِب
 Truhe; صَندوق
 Trümmerhaufen; مَزبَله، خَرابه، آوار
 Trumpf; بَرگ ِ بَرَنده
-- Pik ist Trumpf; حُکم پيک است
+- Pik ist Trumpf; حُکم پیک است
 trumpfen (Kartenspiel); حُکم کَردَن
 Trunkenbold; بَدمَست، اَلکُلى
 Trunkenheit; مَستى، سَکره
-Truppe (milit.); نيروى ِ نِظامى، لَشکَر
+Truppe (milit.); نیروى ِ نِظامى، لَشکَر
 - sie setzten ihre Truppen in Bewegung; آنها صُفوف ِ سَربازان ِ خودرا به حَرَکَت دَر آوَردَند
 - Kampftruppen; عِدِه هاى ِ رَزمى
-- schnelle Eingreifstruppe; نيروهاى ِ واکُنِش ِ سَريع
+- schnelle Eingreifstruppe; نیروهاى ِ واکُنِش ِ سَریع
 Truppenabzug; عَقَب کِشى ِ واحِد ِ نِظامى
-Truppenreduzierung; تَقليل ِ قُواى نِظامى
+Truppenreduzierung; تَقلیل ِ قُواى نِظامى
 Truthahn; بوقلَمون
 Tschüss; تا بَعد، خُدا نِگَهدارِتان باشد
 Tube; لوله
 Tuberkulose; سِل
 - tuberkulöses Mädchen; دُختَر ِ مَسلول
 Tuch; ماهوت، پارچه
-- mit dem Tuch über .. wischen; با کُهنه روى ِ چيزى کِشيدَن
+- mit dem Tuch über .. wischen; با کُهنه روى ِ چیزى کِشیدَن
 - Halstuch; لَچَک
 - Kopftuch; چارقَد، رو سَرى
 - Tragetuch (zum Transportieren von Wäsche, etc.); بُقچه
 tüchtig; کارى، زِرَنگ
-- tüchtig sein für ..; لياقَت ِ اين چيزرا داشتَن، قابِليَت ِ ـ ، اَهَليَت ِ ـ
-tuckern (z.B. Motor); ريپ زَدَن
+- tüchtig sein für ..; لیاقَت ِ این چیزرا داشتَن، قابِليَت ِ ـ ، اَهَليَت ِ ـ
+tuckern (z.B. Motor); ریپ زَدَن
 tückisch; بَد جِنس
 - tückische Krankheit; مَرَض ِ موذى، ـ خَطَرناک
 Tugend; ماهيَت، تَقوا
 tugendhaft; صالحِانه
-- eine tugendhafte Frau; زَن ِ عَفيفه
-Tugendhaftigkeit; فَضيلَت
+- eine tugendhafte Frau; زَن ِ عَفیفه
+Tugendhaftigkeit; فَضیلَت
 Tulpe; گُل ِ لاله
-Tümpel; آبگير، بِرکه
+Tümpel; آبگیر، بِرکه
 Tumult; کِشمَکِش
-- wegen Tumult; از داد و بيداد، ـ کِشمَکِش
-- nächtlicher Tumult; آشوب ِ شبانگاهى، گير و دار ِ ـ
+- wegen Tumult; از داد و بیداد، ـ کِشمَکِش
+- nächtlicher Tumult; آشوب ِ شبانگاهى، گیر و دار ِ ـ
 - er fängt den grossen Tumult an; هَنگامه را به راه مى اَندازَد
 tun; کَردَن، اِجرا کَردَن، اَنجام دادَن، عَمَل نِمودَن، دَست اَندر کار بودَن
 - ich tu dir nichts (popul.); کارَت نَدارَم
-- sonst habt Ihr nichts zu tun? (iron.); ديگه سوژه گير نَياوَرديد؟
-- was du nicht willst, dass man dir tu, das füg auch keinem anderen zu; با ديگَران هَمانطور رَفتار کُن که مى خواهى آنها با تو رَفتار کُنَند
+- sonst habt Ihr nichts zu tun? (iron.); دیگه سوژه گیر نَیاوَردید؟
+- was du nicht willst, dass man dir tu, das füg auch keinem anderen zu; با دیگَران هَمانطور رَفتار کُن که مى خواهى آنها با تو رَفتار کُنَند
 - etwas gutes tun (relig.); ثَواب کَردَن
 - er konnte nichts mehr tun; او نِمى تَوانِست کارى کُنَد
 - was muss ich tun; مَن چه بايَد بِکُنَم
 - ich werde alles, wozu ich in der Lage bin, für dich tun; هَر کارى که از دَستَم بَر مى آيَد بَرايَت مى کُنَم
-- so tun, als ob; توريه کَردَن
+- so tun, als ob; توریه کَردَن
 - tu, was richtig ist; آنچه راست است بِجا آوَر
 - 2 Dinge auf einmal tun; دو مَنزِل يِکى رَفتَن
 - mit jem. was zu tun haben; با کِسى نِشَست و خاست کَردَن، با کِسى سَر و کار داشتَن
-- was hast du damit zu tun?; تورا به اين کارها چه کار؟، به تو چه رَبطى دارَد؟
+- was hast du damit zu tun?; تورا به این کارها چه کار؟، به تو چه رَبطى دارَد؟
 - ich hatte mit ihm zu tun; کارَم با او بود
-- sie hatten damit nichts zu tun; کارى به اين کار نَداشتَند
-- sie wollen damit nichts zu tun haben; آنها از پَذيرُفتَن ِ آن سَر باز مى زَنَند
-- mit dir habe ich nichts zu tun; اَگَر پُشت ِ گوشت را ديدى مَرا هَم مى بينى
+- sie hatten damit nichts zu tun; کارى به این کار نَداشتَند
+- sie wollen damit nichts zu tun haben; آنها از پَذیرُفتَن ِ آن سَر باز مى زَنَند
+- mit dir habe ich nichts zu tun; اَگَر پُشت ِ گوشت را دیدى مَرا هَم مى بینى
 - wir haben noch miteinander zu tun; کارِت دارَم
 - pass auf, dass du es nicht mit ihm zu tun bekommst; مُواظِب باش مَبادا با او دَر اُفتاده باشى
-- das eie hat mit dem anderen nichts zu tun; تَلافی ِ غوره را سَر ِ کوره دَر نِيآوَردَن
-- so tun, als ob man nicht Bescheid wüsste; خودرا به کوچة على چَپ زَدَن
-- ohne Erlaubnis darf er nichts tun; بِدون ِ اِجازه دَست به سياه و سِفيد نِمى زَنَد
+- das eie hat mit dem anderen nichts zu tun; تَلافی ِ غوره را سَر ِ کوره دَر نِیآوَردَن
+- so tun, als ob man nicht Bescheid wüsste; خودرا به کوچهٔ على چَپ زَدَن
+- ohne Erlaubnis darf er nichts tun; بِدون ِ اِجازه دَست به سیاه و سِفید نِمى زَنَد
 - jeder, der mit Armen zu tun hat; هَر کِسى که با مَحرومان مَحشور شُده باشد
 - es tut s. was; اِتِفاقى دَر شُرُف ِ وُقوع است
 - es tat s. nichts; خَبَرى نَشُد
 - die Arbeit muss getan werden; بايَد کار اَنجام شَوَد
 - ohne seinen Rat tat er nichts; بِدون ِ مَشوَرَتَش آب نِمی خورد
-- er fand den Mut, das zu tun; او جَسارَت ِ اين کاررا پِيدا کَرد
-- er kann tun & lassen, was er will; او مى تَوانَد اَنجام و ايجاب کُنَد هَرچه را که اِراده مى کُنَد
-- Tun & Lassen; حَرَکَت و سَکَنات، اَنجام و ايجاب
+- er fand den Mut, das zu tun; او جَسارَت ِ این کاررا پِیدا کَرد
+- er kann tun & lassen, was er will; او مى تَوانَد اَنجام و ایجاب کُنَد هَرچه را که اِراده مى کُنَد
+- Tun & Lassen; حَرَکَت و سَکَنات، اَنجام و ایجاب
 Tünche; اَندود، دوغاب ِ گَچ
-tünchen; اَندودَن، سِفيد کَردَن ِ ديوار
+tünchen; اَندودَن، سِفید کَردَن ِ دیوار
 Tunnel; تونِل
-- Licht am Ende des Tunnels; دَر نوميدی بَسی اُميد است پايان ِ شَب سيه سِفيد است
-Tunte; اُبنه اي
+- Licht am Ende des Tunnels; دَر نومیدی بَسی اُمید است پایان ِ شَب سیه سِفید است
+Tunte; اُبنه ای
 tuntig; اُبنه
 Tür; دَر
 - an der Tür klopfen; دَر زَدَن
 - zweiflügelige Tür; دَر ِ دو لِنگه
 - jemandem die Tür zeigen; کَفش ِ کِسى را جُفت کَردَن
-- das Fest steht vor der Tür; عِيد نَزديک است
+- das Fest steht vor der Tür; عِید نَزدیک است
 - Hintertür; دَر ِ پُشتى
-Türabsatz; پاشنة دَر
+Türabsatz; پاشنهٔ دَر
 Türangel; لولاى ِ دَر
 Turban; عِصابه، عَمامه
 turbantragend; مُعَمَم
-Turbine; تُربين
-Turbolader; شارژکُنَندة توربور
+Turbine; تُربین
+Turbolader; شارژکُنَندهٔ توربور
 Turbulenz; آشُفتِگى
-Türflügel; لِنگة دَر
-Türfüllung; تَختة دَرب
-Türgriff; دَستگيرة دَر
+Türflügel; لِنگهٔ دَر
+Türfüllung; تَختهٔ دَرب
+Türgriff; دَستگیرهٔ دَر
 Türke; تُرک
-Türkei; تُرکيه
-Türkis; فيروزه
+Türkei; تُرکیه
+Türkis; فیروزه
 türkisch; تُرکى
 Türklopfer; دَرکوب
 Turm; بُرج
-turnen; ژيمناستيک کَردَن
-Turnen (n); ژيمناستيک
+turnen; ژیمناستیک کَردَن
+Turnen (n); ژیمناستیک
 Turner; زور وَرز، وَرزِش کار
-Turnier; مُسابِقة قَهرَمانى
+Turnier; مُسابِقهٔ قَهرَمانى
 Turnus;
-- im monatlichen Turnus; از طَريق ِ ماهواره
+- im monatlichen Turnus; از طَریق ِ ماهواره
 turnusmässig; بِنوبَت
-Türpfosten; تير ِ عُمودى، قائمة دَر
-Türschwelle; کِرياس ِ دَر، کَف ِ دَرگاه، آستان ِ ـ
-turteln; لاس زَدَن، لاسيدَن
+Türpfosten; تیر ِ عُمودى، قائمهٔ دَر
+Türschwelle; کِریاس ِ دَر، کَف ِ دَرگاه، آستان ِ ـ
+turteln; لاس زَدَن، لاسیدَن
 Türvorleger; پادَرى
-Tusche; مُرَکَب ِ چين
+Tusche; مُرَکَب ِ چین
 tuscheln; پِچ پِچ کَردَن
 Tüte; ساک، پاکَت
-- Plastiktüte; نايلون
+- Plastiktüte; نایلون
 Typ;
 - Typ, Art; نَحو
-- Typ (negativer Sinn); مَتيکه، مَرديکه
+- Typ (negativer Sinn); مَتیکه، مَردیکه
 - Leute vom gleichen Typ; هَمطِراز ِ اَشخاص
-- idealer Typ; نِمونة عالى
-Typhus; تيفوس، حَصبه
+- idealer Typ; نِمونهٔ عالى
+Typhus; تیفوس، حَصبه
 typisch;
 - das ist typisch; مُختَص به .. است
-- das ist typisch für Dich; لايِق ِ ريشِت است
-- er ist ein typischer Iraner; او از جَنَم ِ ايرانى است، او ايرانى ِ اَصلى است
+- das ist typisch für Dich; لايِق ِ ریشِت است
+- er ist ein typischer Iraner; او از جَنَم ِ ایرانى است، او ایرانى ِ اَصلى است
 Typologie; سَنخ شِناسى
 Tyrann; مُستَبِد، جَبار، زورگو، ظالِم
 Tyrannei; ظُلم، اِستِبداد
