@@ -408,20 +408,20 @@ Therapeut; دَرمان شِناس
 therapeutisch; دَرمانى
 Thermalquelle; سَرچِشمهٔ آب ِ مَعدَنى
 thermisch; حَرارَتى، گَرمائى
-Thermometer; گَرماسَنج، دَرَجهٔ حَرارَت
+Thermometer; گَرماسَنج، دَماسَنج
 thermonuklear;
 - thermonukleare Waffen; سَلاحهاى ِ هَسته اى ِ حَرارَتى
 Thermosflasche; تِرموس، فلاکس، دَمابان
-Thermostat; تِرموستات، ناظِم ِ دَرَجۀ حَرارَت
+Thermostat; تِرموستات، ناظِم ِ دَرَجهٔ حَرارَت
 These; تِز، نَظَریه، فَرضیه
 Thorax; تَختهٔ سینه
 Thrombose; اِنعِقاد ِ خون در رَگ
 Thrombozyt; گِرده هاى ِ خون
-Thron; تَخت ِ سُلطَنَت، اَریکه
+Thron; تَخت ِ سَلطَنَت، اَریکه
 - auf den Thron bringen; بَر تَحت نِشاندَن
 Thronanwärter; وَليَعهد، شاهزاده
 Thronbesteigung; جُلوس، تاجگُذارى
-thronen; بَر صَندَلى ِ سُلطَنَتى نِشَستَن
+thronen; بَر صَندَلى ِ سَلطَنَتى نِشَستَن
 - entthront; شاه ِ مَخلوع
 Thronfolger; وارِث ِ تاج و تَخت، وَلیعَهد
 Thukydides; تاسیدیدِس
@@ -430,18 +430,18 @@ Thymian; آویشِن
 Tick; ضَعَف، خُل
 - einen Tick haben; خُل بودَن
 - das ist ein nervöser unheilbarer Tick; این يِك تیك ِ عَصَبی است كه هیچ وَقت دُرُست بِشو نیست
-ticken;
+ticken; تیک تاک کَردَن
 - entweder du tickst nicht richtig oder ...; یا به سَرِت زَده یا
 tief; عَمیق، ژَرف، گود
 - tiefe Trauer ergriff alle; اَندوهى ِ ژَرف هَمه را گِرِفت
 - im tiefsten Winter; دَر قَعر ِ زِمِستان
-- tiefliegende Augen; چِشمهاى ِ به گودى نِشَسته
-- tiefsitzende Traurigkeit; اَندوه ِ خُفته
+- tief liegende Augen; چِشمهاى ِ به گودى نِشَسته
+- tief sitzende Traurigkeit; اَندوه ِ خُفته
 Tiefbau; بَناهاى ِ زیرزَمینى
-Tiefdruck; فِشار ِ جَوى کَم
+Tiefdruck; فِشار ِ جَوى ِ کَم
 Tiefe; عُمق، اَعماق، گودى، ژَرفا
 - in der Tiefe des Geistes; دَر ژَرفاى ِ روح
-- Tiefe des Seins; (kohn-e-..) کنه ذات
+- Tiefe des Seins; (kohn-e-...) کنه ذات
 Tiefenmessung; عُمق سَنجى
 Tiefgang; آب نِشین
 Tieflader; تریلِر بَراى ِ بار سَنگین
@@ -459,11 +459,11 @@ tierisch;
 Tierzucht; پَروَرِش ِ بَهیمه، دامدارى
 Tiger; بَبر
 Tigris; دِجله
-- Wirf dein Brot in den Tigris, und Gott wird es dir in Zeiten der Not wiedergeben (i.S.: Hilf dem Armen, Gott wird es dir vergelten); تو نیکى مى کُن و دَر دِجله اَنداز، که ایزَد دَر بیابانَت دَهَد باز
-tilgen; تَصفیه کَردَن، اِدا کَردَن
-- den Betrag von 1 Euro tilgen; اِداى ِ ۱ یورو کَردَن
+- Wirf dein Brot in den Tigris, und Gott wird es dir in Zeiten der Not wiedergeben (i.S.: Hilf dem Armen, Gott wird es dir vergelten); تو نیکى مى کُن و دَر دِجله اَنداز که ایزَد دَر بیابانَت دَهَد باز
+tilgen; تَصفیه کَردَن، اَدا کَردَن
+- den Betrag von 1 Euro tilgen; اَداى ِ ۱ یورو کَردَن
 - getilgt; مَحزوف
-Tilgung; اِستِهلاک، تَصفیه، اِداء
+Tilgung; اِستِهلاک، تَصفیه، اَداء
 Tinte; جوهَر، مُرَکَب
 Tintenfass; دَوات، مُرَکَب دان
 Tintenfisch; ماهى ِ مُرَکَب
@@ -488,7 +488,7 @@ Tischtuch; رومیزى
 Titel; (pl.)  (مَنصَب (مَناصِب)، لَقَب (اَلقاب
 - Titel (bei Zeitung, u.ä.); تیتر، عُنوان
 - Verleihung eines Titels; تَلقیب
-- betitelt; مُعَنوَن
+- betitelt; مُعَنوَن، عُنوان شُده
 Titelblatt; سَر صَفحه
 Titelverteidiger; حِفظ کُنَندهٔ مَقام ِ قَهرَمانى
 toasten; بِرِشته کَردَن، بِرِشتَن
@@ -496,8 +496,8 @@ Toaster; توستِر
 Tobak;
 - das ist starker Tobak; هَضمَش نِمى شَوَد کَرد
 toben; نوفیدَن، داد و قال کَردَن
-- er tobt vor Wut; او سَگهار مى شَوَد
-tobend; ژیان
+- er tobt vor Wut; او سَگهار مى شَوَد، از خود بیخود کَردَن
+- herumtoben; بِپَر بِپَر کَردَن
 Tochter; (pl.) بِنت (بَنات)، دُختَر
 Tod; مَرگ، فوت، دَر گُذَشت
 - plötzlicher Tod; آجَل ِ مُعَلَق، مَرگ ِ ناگِهانى
@@ -519,13 +519,13 @@ Todesstoss;
 Todesstrafe; عُقوبَت ِ اِعدام، کِیفَر ِ مَرگ
 Todestag; روز ِ مَمات، روز ِ وَفات
 Todesurteil; حُکم ِ اِعدام
-Todgeweihter; آجَل بَرگشته
+Todgeweihter; آجَل بَرگَشته
 tödlich; مَرگبار، کُشَنده
 - tödliche Dosis; مِقدار ِ داروئى ِ کُشَنده
 - jem. ist tödlich verunglückt; کِسى دَر حادِثه دَر گُذَشت
 Toilette; (dari) مُستَراح، (تِشناب)، توالِت
 - Toilette machen; آرايِش کَردَن
-- jedesmal, wenn er zur Toilette muss, soll er es sagen; هَر وَفت که جیش دارَد بايَد بِگويَد
+- jedesmal, wenn er zur Toilette muss, soll er es sagen (bei Kindern); هَر وَفت که جیش دارَد بايَد بِگويَد
 tolerant; با مُدارا، با گُذَشت، بُردبار
 Toleranz; مُدارا، بُردبارى
 tolerieren; تَحَمُل کَردَن
@@ -537,8 +537,8 @@ Tollwut; هارى
 tollwütig; هار
 Tölpel; اَحمَق
 - du benimmst dich wie ein Tölpel; هَمهٔ کاسهٔ کوزه هارا بِهَم زَدى
-Tomate; گوجه فَرهَنگى، ـ فَرَنگى
-Tomatenmark; رُب ِ فَرَنگ، ـ گوجه فَرَنگى
+Tomate; (dari) بادِمجان ِ رومی) گوجه فَرهَنگى، ـ فَرَنگى)
+Tomatenmark; رُب ِ گوجه فَرَنگى
 Ton;
 - Ton (Laut); (pl.) صوت (اَصوات)، صِدا
 - Ton (- erde); خاک ِ رُسى، گِل ِ رُس
@@ -573,7 +573,7 @@ Torheit; حِماقَت، جَهالَت، بى عَقلى، بى فَهمى
 torkeln; تِلو تِلو خوردَن، نَوان شُدَن
 Tornister; دوش تُبره
 Torpedo; اَژدَر
-Torpedoboot; ناو ِ اَژدَر ِ اَنداز
+Torpedoboot; ناو ِ اَژدَر اَنداز
 Torschütze; گُلزَن
 Torsionskraft; نیروى ِ پیچِش
 Torso; مُجَسَمهٔ ناقِص، تَندیس
@@ -591,7 +591,7 @@ töten; کِسى را مَقتول ساختَن، ـ کُشتَن
 Totenandacht; خَتم
 Totengräber; گور کَن
 Totenkleid; خَلعَت، کَفن
-Totenmesse;
+Totenmesse; فاتِحه
 - Totenmesse lesen; فاتِحه خواندَن
 Totenschein; گُواهى ِ فوت
 Totenstarre; جُمود ِ نَعشى
@@ -601,7 +601,8 @@ Totschlag; قَتل ِ غِیر ِ عَمد
 - die Zeit totschlagen; وَقت کُشى کَردَن
 Totschläger; قاتِل
 Tour; مُسافِرَت ِ تَفریحى
-Tourismus; وریسم، جَهانگَرى
+- Tour de France; تور دو فرانس
+Tourismus; توریسم، جَهانگَرى
 Tourist; توریست، جَهانگَر
 Toxikologe; سَم شِناس
 toxisch; مَسموم
