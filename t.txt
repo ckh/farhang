@@ -488,6 +488,7 @@ Tischtuch; رومیزى
 Titel; (pl.)  (مَنصَب (مَناصِب)، لَقَب (اَلقاب
 - Titel (bei Zeitung, u.ä.); تیتر، عُنوان
 - Verleihung eines Titels; تَلقیب
+- Titel ohne Mittel; شام و نَهار هيچى، غَذا نَدارَد بُخورَد پياز مى خورَد اِشتِهايَش باز شُد
 - betitelt; مُعَنوَن، عُنوان شُده
 Titelblatt; سَر صَفحه
 Titelverteidiger; حِفظ کُنَندهٔ مَقام ِ قَهرَمانى
@@ -959,12 +960,12 @@ Tube; لوله
 Tuberkulose; سِل
 - tuberkulöses Mädchen; دُختَر ِ مَسلول
 Tuch; ماهوت، پارچه
-- mit dem Tuch über .. wischen; با کُهنه روى ِ چیزى کِشیدَن
+- mit dem Tuch über ... wischen; با کُهنه روى ِ چیزى کِشیدَن
 - Halstuch; لَچَک
 - Kopftuch; چارقَد، رو سَرى
 - Tragetuch (zum Transportieren von Wäsche, etc.); بُقچه
 tüchtig; کارى، زِرَنگ
-- tüchtig sein für ..; لیاقَت ِ این چیزرا داشتَن، قابِليَت ِ ـ ، اَهَليَت ِ ـ
+- tüchtig sein für ...; لیاقَت ِ این چیزرا داشتَن، قابِليَت ِ ـ ، اَهَليَت ِ ـ
 tuckern (z.B. Motor); ریپ زَدَن
 tückisch; بَد جِنس
 - tückische Krankheit; مَرَض ِ موذى، ـ خَطَرناک
@@ -975,7 +976,7 @@ Tugendhaftigkeit; فَضیلَت
 Tulpe; گُل ِ لاله
 Tümpel; آبگیر، بِرکه
 Tumult; کِشمَکِش
-- wegen Tumult; از داد و بیداد، ـ کِشمَکِش
+- wegen Tumult; از داد و بیداد، از کِشمَکِش
 - nächtlicher Tumult; آشوب ِ شبانگاهى، گیر و دار ِ ـ
 - er fängt den grossen Tumult an; هَنگامه را به راه مى اَندازَد
 tun; کَردَن، اِجرا کَردَن، اَنجام دادَن، عَمَل نِمودَن، دَست اَندر کار بودَن
@@ -1004,7 +1005,7 @@ tun; کَردَن، اِجرا کَردَن، اَنجام دادَن، عَمَ
 - es tut s. was; اِتِفاقى دَر شُرُف ِ وُقوع است
 - es tat s. nichts; خَبَرى نَشُد
 - die Arbeit muss getan werden; بايَد کار اَنجام شَوَد
-- ohne seinen Rat tat er nichts; بِدون ِ مَشوَرَتَش آب نِمی خورد
+- ohne seinen Rat tat er nichts; بِدون ِ مَشوَرَتَش آب نِمی خورَد
 - er fand den Mut, das zu tun; او جَسارَت ِ این کاررا پِیدا کَرد
 - er kann tun & lassen, was er will; او مى تَوانَد اَنجام و ایجاب کُنَد هَرچه را که اِراده مى کُنَد
 - Tun & Lassen; حَرَکَت و سَکَنات، اَنجام و ایجاب
@@ -1044,7 +1045,7 @@ Turnus;
 - im monatlichen Turnus; از طَریق ِ ماهواره
 turnusmässig; بِنوبَت
 Türpfosten; تیر ِ عُمودى، قائمهٔ دَر
-Türschwelle; کِریاس ِ دَر، کَف ِ دَرگاه، آستان ِ ـ
+Türschwelle; کِریاس ِ دَر، کَف ِ دَرگاه، آستان ِ دَر
 turteln; لاس زَدَن، لاسیدَن
 Türvorleger; پادَرى
 Tusche; مُرَکَب ِ چین
@@ -1058,11 +1059,12 @@ Typ;
 - idealer Typ; نِمونهٔ عالى
 Typhus; تیفوس، حَصبه
 typisch;
-- das ist typisch; مُختَص به .. است
+- das ist typisch; مُختَص به ... است
 - das ist typisch für Dich; لايِق ِ ریشِت است
 - er ist ein typischer Iraner; او از جَنَم ِ ایرانى است، او ایرانى ِ اَصلى است
-Typologie; سَنخ شِناسى
+Typologie; سِنخ شِناسى
 Tyrann; مُستَبِد، جَبار، زورگو، ظالِم
 Tyrannei; ظُلم، اِستِبداد
 tyrannisch; ظالِمانه
 tyrannisieren;  .ظُلم کَردَن، سِتَم ک
+tyrannisiert; سِتَم دیده
