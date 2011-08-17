@@ -1703,6 +1703,7 @@ glanzvoll;
 - mit einer glanzvollen Verbeugung; با تَعظیم ِ غُرا
 Glas; شیشه
 - Glas einsetzen; .جام اَنداختَن، شیشه ا
+- Glastür; دَر ِ شیشه ای
 - Fensterglas; شیشه، گینه
 - Marmeladenglas; بَنکه
 - Panzerglas; شیشه هاى ِ ضِد ِ گُلوله

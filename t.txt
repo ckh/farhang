@@ -483,7 +483,7 @@ Tisch; میز
 - Freitisch; خوان ِ يَغما
 Tischler; نَجار
 Tischrede; سُخَنرانى ِ سَر ِ میز ِ غَذا
-Tischtennis; پینک پُنک
+Tischtennis; پینگ پُنگ
 Tischtuch; رومیزى
 Titel; (pl.)  (مَنصَب (مَناصِب)، لَقَب (اَلقاب
 - Titel (bei Zeitung, u.ä.); تیتر، عُنوان
@@ -511,6 +511,7 @@ Tod; مَرگ، فوت، دَر گُذَشت
 - er starb den Tod eines Märtyrers; به مَرگ ِ يِک شَهید مُرد
 - jem. zum Tode verurteilen; کِسى را به مَرگ مَحکوم کَردَن
 - s. zu Tode grämen; دِق ِ مَرگ شُدَن
+- 40. Tag nach dem Tod; اَربَعِین
 Todesanzeige; آگَهى ِ دَرگُذَشت
 Todeserklärung; اِعلان ِ مَرگ ِ مَفقود
 Todeskampf; دوران ِ اِحتِضار
@@ -612,9 +613,9 @@ traben; یورتِمه رَفتَن
 - trabendes Pferd; اَسب ِ رَهوار
 Trachee; مُجراى ِ تَنَفُسى دَر حَشَرات
 trachten;
-- nach dem Leben von .. trachten; قَصد ِ جان ِ کِسى داشتَن
-- trachten nach; راغِب بودَن به، دَر بارهٔ .. اَندیشیدَن
-- das ganze Denken & Trachten ist ..; تَقَلاى ِ تو تَقَلاى ِ چیزى بودَن، اَسباب چینى سَر ِ این است
+- nach dem Leben von ... trachten; قَصد ِ جان ِ کِسى داشتَن
+- trachten nach; راغِب بودَن به، دَر بارهٔ ... اَندیشیدَن
+- das ganze Denken & Trachten ist ...; تَقَلاى ِ تو تَقَلاى ِ چیزى بودَن، اَسباب چینى سَر ِ این است
 Trachtenkleidung; لِباس ِ ماهوت، ـ مَحَلى
 trächtig; باردار
 Trächtigkeit; باردارى
@@ -638,7 +639,7 @@ trägerlos (- es Kleid); لِباس بِدون ِ رِکاب
 Tragetuch; چَپَرپیچ
 - in ein Tragetuch einwickeln (z.B. Baby); چَپَرپیچ کَردَن
 Trägheit; فَرويِش، بى حالى، خُمود، تَکَسُل
-Trägheitsmoment; گَشتاوَر مانَد
+Trägheitsmoment; گَشتاوَر مانَد، مُمان ِ اینَرسی
 Tragik; نُحوسَت، بَديُمنى، مُصیبَت
 tragisch; فاجِعه اَنگیز، غَم اَنگیز، حُزن آوَر
 - tragischer Vorfall; اِتِفاق ِ جانسوز، ـ جانگُداذ، ـ فَجیع
@@ -689,7 +690,7 @@ transzendent; اِدراک ِ مُتَعال
 Trapez (mathemat., Sport); ذو زَنَقه
 Trapezkünstler; بَند باز
 Trassierung; اِنتِخاب ِ مَسیر
-Tratsch; بَد زَبانی، جُغُلی، سِخَن چینی
+Tratsch; بَد زَبانی، جُغُلی، سُخَن چینی
 tratschen;  .دو بَر هَم زَنى کَردَن، سُخَن چینى ک
 Traube; اَنگور
 - unreife Traube; غوره
@@ -706,7 +707,6 @@ Trauer; ماتِم، نوحه، سوکوارى، نوحه گَرى، تَرَح�
 - jem. in Trauer stürzen; کِسى را دَر سوگ ِ وُجود ِ خویش نِشاندَن
 - Nationaltrauer; عَزاى ِ مِلى
 - Trauerphase (eine geschiedene Frau oder Witwe darf innerhalb 100 Tagen nicht heiraten); عِده
-- 40. Tag nach dem Tod; اَربَعِین
 Trauerfeier; عَزادارى، مَجِلس ِ تَرحیم، ـ عَزا
 Trauerklage; شیوَن، مَرثیه
 Trauerkleidung; لِباس ِ عَزا، ـ سوکیانه
@@ -725,8 +725,9 @@ Traum; خواب
 - und im Traum sah er Brot; و خواب نان مى دید
 - ich hatte einen Traum; خوابى دیده ام
 - schlechter Traum; بَختَک
+- ein Traum von Haus; خانهٔ مَعَرِکه ای است
 - ... mir nicht mal im Traum einfallen; هَرگِز به خواب هَم نَدیده باشَم، هَرگِز فِکرِش را فِکر نِمى کَردَم
-- Träume sind Schäume; خَربُز آب است، فِکر ِ نان باش
+- Träume sind Schäume; خَربُز آب است فِکر ِ نان باش
 Traumata; جَراحَت، آسیب
 Traumbild; آرمان
 Traumdeutung; تَعبیر ِ خواب
@@ -735,7 +736,7 @@ träumen; خواب دیدَن
 - träum mal; خوابَش را بِبین
 - von etwas träumen; اُمید ِ چیزى را داشتَن، سوداهاى ِ خام پُختَن، دَر خیال خواستَن
 - von jem. träumen; خواب ِ کِسی را دیدَن
-- von .. zu träumen anfangen; دَر مورد ِ .. به رویا پَروَرى پَرداختَن
+- von ... zu träumen anfangen; دَر مورد ِ ... به رویا پَروَرى پَرداختَن
 - ich träumte; خوابى دیده ام، مَن خواب دیدَم
 - ihm träumte, dass ...; او خوابى دید
 - erleben & erträumen; مُشاهِدات و تَخَيُلات، چِشیده ها و خواسته ها
@@ -775,7 +776,9 @@ trefflich; حَکیمانه، عالى
 Treffpunkt; مَحَل ِ تَلاقى، ـ مُلاقات، میعاد گاه، پاتُق
 Treibeis; تودهٔ يَخ ِ شِنَوا
 treiben; راندَن، پیش بُردَن
+- Sport treiben; وَرزِش کَردَن
 - er treibt uns hierhin und dorthin; او مارا به جِلو و عَقَب مى رانَد
+- was treibst du gerade?; چه کار می کُنی؟
 Treiber (bei Jagd); آهو گَردان
 Treibhaus; گُلخانه
 Treibmine; مین ِ شِناوَر
@@ -786,7 +789,7 @@ Trendanalyse; تَحلیل ِ گِرايِش
 trennen;  .مُفَرِق شُدَن، ـ بودَن، جُدا کَردَن، قَطع ک
 - s. von jem. trennen; از کِسى اِستِعفا کَردَن
 - trennt sie voneinander; از هَم دىگَر سِوايِشان کُنید
-- gibt es getrennt von Gott ..?;  آیا جُدا از خُدا ...؟، بِجُدائى از خُدا ...؟
+- gibt es getrennt von Gott ...?;  آیا جُدا از خُدا ...؟، بِجُدائى از خُدا ...؟
 - getrennte Kasse; مَخارِجِشان سَواست
 - in getrennten Buchstaben; به تَفکیک ِ حُروف
 trennend; مُمَيِز، ویرگول
@@ -805,8 +808,8 @@ Tretanlasser; اِستارت ِ پائى
 treten;
 - in Verbindung treten mit; اِرتِباط با کِسى بَر قَرار کَردَن
 - jem. gegen das Bein treten; به کِسى پُشت ِ پا زَدَن
-- nach unten treten, nach oben buckeln; از خُردان لَخشیدَن، از بُزُرگان بَخشیدَن
-- er tritt durch die Glastür ins Innere; از دَر ِ شیشه به دَرون پا مى نَهايَد
+- nach unten treten, nach oben buckeln; از خُردان لَخشیدَن از بُزُرگان بَخشیدَن
+- er tritt durch die Glastür ins Innere; از دَر ِ شیشه ای به دَرون پا مى نَهايَد
 - ich bin in einen Nagel getreten; دَر میخ پا گُذاشتَم
 Tretmühle;
 - das ist eine Tretmühle; عِین ِ اَسب ِ اَسیره چَرخیدَن
@@ -816,7 +819,7 @@ Treue; وَفادارى، صِداقَت
 - jem. wird seine Treue aufgeben; کِسى نَمَک به حَرامى خواهَد بود
 Treueeid;
 - Treueeid leisten;  .سوگَند ِ یاد کَردَن، سوگَند ِ وَفادارى ک
-Treuhand; توليَت، قِیمومَت، مُدیريَت ِ اَمانى
+Treuhand; توليَت، قِیمومَت، مُدیريَت ِ اَمانى، تراست
 Treuhänderschaft; تَوَلا
 treuherzig; بى ریا، بى عِیب
 treulos; غَدار، خائِن
@@ -842,7 +845,7 @@ Trieb;
 triebhaft;
 - triebhafter Mensch; آدَم ِ هیز
 Triebkraft; قُوهٔ مُحَرِکه
-- Raketentriebwerk; نیروى ِ مُحَرِکهٔ موشَک
+Triebwerk (bei Rakete); نیروى ِ مُحَرِکهٔ موشَک
 triefen; چِکیدَن
 - triefende Frucht; میوهٔ آبلَنبو
 Triefnase; (mofu) مُفو
@@ -905,14 +908,14 @@ tropfenweise; قَطره قَطره، چِکه چِکه
 Trophäe; (pl.)  (غَنیمَت (غَنائِم
 - Kriegstrophäe; غَنايِم ِ جَنگ
 Trost; تَسَليَت، تَسَلى، آسايِش، آسودِگى، دِلدارى، آرامِش خاطِر
-trösten (- jem.); تَسَلى دادَن، آسايِش بَخشیدَن، آسودِگى ب.، دِلدارى دادَن، آب ِ شادی بَر آَتش ِ غَم ریختَن
+trösten (jem. -); تَسَلى دادَن، آسايِش بَخشیدَن، آسودِگى ب.، دِلدارى دادَن، آب ِ شادی بَر آَتش ِ غَم ریختَن
 Tröster; مُعَزى، تَسَليَت دَهَنده
 trostlos; مأیوس، بِدون ِ چِشم داشت
 - trostlose Stimme; صِداى ِ حَزین
 Trottel; خُل و چِل، اَلدَنگ
 trottelig; خِنگ
 Trottoir; پیاده رو
-trotz; با آنهَمه، با اینکه، با وُجود ِ
+trotz; ِ با آنهَمه، با اینکه، با وُجود
 - trotz allem ...; به هَر کَلَکی بود
 Trotz (m); خودسَری، لَجاجَت
 - zum Trotz; اِلى رَغم
@@ -922,7 +925,7 @@ trotzen;
 trübe; تار و تیره، بی رَنگ
 - trübe Farbe; رَنگ ِ تاسیده، ـ تیره، ـ کَدِر
 - trübe Scheiben, Milchglas; شیشهٔ تاره
-- eine Sache trüben; گِل آلود کَردَن ِ آبها دَر مورد ِ
+- eine Sache trüben; ِ گِل آلود کَردَن ِ آبها دَر مورد
 - in trüber Stimmung sein; دَر حال ِ ضَجور بودَن
 Trubel; شُلوغ
 - Arbeitstrubel; کِشاکِش ِ کار
@@ -947,7 +950,9 @@ Truppe (milit.); نیروى ِ نِظامى، لَشکَر
 - Kampftruppen; عِدِه هاى ِ رَزمى
 - schnelle Eingreifstruppe; نیروهاى ِ واکُنِش ِ سَریع
 Truppenabzug; عَقَب کِشى ِ واحِد ِ نِظامى
+Truppenaufstellung; صَف آرايی
 Truppenreduzierung; تَقلیل ِ قُواى نِظامى
+Trust; تراست
 Truthahn; بوقلَمون
 Tschüss; تا بَعد، خُدا نِگَهدارِتان باشد
 Tube; لوله
