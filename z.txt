@@ -1154,6 +1154,7 @@ zustimmen; گوشة کِسى را گِرِفتَن، با کِسى هَمرأى 
 Zustimmung; تَوَفُق
 - ohne meine Zustimmung; بِدون ِ جَلب ِ رِضايَت ِ مَن
 - sprachlose Zustimmung; تَباني
+- schweigende Zustimmung; اِجماع ِ سُکوت
 - Gegenstand allgemeiner Zustimmung; (-on-alejh) مُتَفِق عَليه
 - jem. zur Zustimmung veranlassen; کِسى را مُجاب کَردَن، ـ به اِستِصواب وادار کَردَن
 zustossen; اِتِفاق اُفتادَن

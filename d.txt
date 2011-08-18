@@ -467,6 +467,7 @@ denken;
 - denken wir uns, dass ...; گیریم، فَرض کنیم، اَنگار کنیم
 - könnte man s. nicht denken; آیا چِنین نِمى تَوان اَنگاشت، ـ خیال کرد
 - Zwei Köpfe denken mehr als einer; عَقل قُوَت گیرَد از عَقل دیگر
+- erst denken, dann reden; اگر دیر گُفتى گُل گُفتى
 - denk nur an ihn; اورا بِنِگَر، ـ به خاطِر داشته باش
 - denke daran!; فَراموش نَکُن
 - ich denke nicht daran!; اَصلاً فِکرِش را هَم نِمى کُنَم
