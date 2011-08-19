@@ -321,8 +321,8 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 überspannt; تُندرو، غِیر ِ مَعقول، مُبالِغه آمیز
 überspringen;
 - eine Klasse überspringen; دو کلاس يِکى کَردَن
-- das Feuer springt auf .. über; آتَش به .. سَرايَت مى کُنَد
-- er hat beim Lesen einen Satz übersprungen; حِین ِ قَرائت از يِک جُمله رَد شُد، يِک جُمله جا اَندخت
+- das Feuer springt auf ... über; آتَش به ... سَرايَت مى کُنَد
+- er hat beim Lesen einen Satz übersprungen; حِین ِ قَرائت از يِک جُمله رَد شُد، يِک جُمله جا اَنداخت
 überstehen;
 - eine Sache überstehen; بَر چیزى فاِئق شُدَن
 - er hat das Unheil gut überstanden; خَرِش از پُل گُذَشت
@@ -336,11 +336,11 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 überstülpen;
 - jem. etwas überstülpen; چیزى را بَر کِسى تَحمیل کَردَن
 Überstunden; کار اِضافى، اِضافه کارى
-überstürzen; هُل زَدَن
-- überstürze nichts; هول نَکُن، جوجه را آخَر ِ پائیز می شُمارَند، نَبايَد سَر سَرى گِرِفت
-überstürzt; با دَستپاچِگى، هول هولَکی، تُند تُند، شِتابزَده
+überstürzen;
+- überstürze nichts; جوجه را آخَر ِ پائیز می شُمارَند، نَبايَد سَر سَرى گِرِفت
+überstürzt; با دَستپاچِگى، تُند تُند، شِتابزَده
 übertölpeln;  .کِسى را مَکر کَردَن، اِغفال ک.، فَریفتَن، خَر ک
-Übertölpelung; (pl.)  (مَکید (مَکائِد
+Übertölpelung; (pl.)  مَکید (مَکائِد)، مَکر
 übertönen; پوشاندَن
 - seine Stimme übertönt die der anderen; صِدای ِ او بَقیهٔ صِداهارا می پوشانَد
 Übertopf; جا گُلدانى
@@ -354,7 +354,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - die Krankheit auf jem. übertragen; مَرَض را به کِسى سَرايَت دادَن
 - übertragene Vollmacht; اِختیارات ِ تَفویضى
 - im übertragenen Sinne gebraucht; مُستَعار، اِستِعارى
-- er muss anstelle der Erledigung übertragener Aufgaben ..; او دَر اَزاى ِ اَنجام ِ وَظايِف ِ مُحَوَله بايَد
+- er muss anstelle der Erledigung übertragener Aufgaben ...; او دَر اَزاى ِ اَنجام ِ وَظايِف ِ مُحَوَله بايَد
 Übertragung; اِنتِقال
 - Übertragung von Rechten; واگُذارى ِ حَق، تَفویض ِ ـ، اِنتِقال ِ ـ
 - Besitzübertragung; تَملیک
@@ -377,10 +377,10 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 überwältigen;
 - jem. überwältigen; بَر کِسى غَلَبه کَردَن
 - etwas, was jem. überwältigt; چیزى کِسى را دَر خود مى گیرَد
-- die Erinnerung an .. hat ihn überwältigt; خاطِرات به .. اِختیاررا از کَف ِ او رُبوده بود
+- die Erinnerung an ... hat ihn überwältigt; خاطِرات به ... اِختیاررا از کَف ِ او رُبوده بود
 - überwältigende Mehrheit; اَکثَريَت ِ ساحِق
 überwechseln;
-- überwechseln in ein ..; به .. تَغییر ِ مَحَل دادَن
+- überwechseln in ein ...; به ... تَغییر ِ مَحَل دادَن
 überweisen; حَواله دادَن، واریختَن، واریز کَردَن
 - ich überweise 10,- Euro; مَن ۱۰ یورو واریز مى کُنَم، ـ وا مى ریزَم
 Überweisung;
@@ -407,7 +407,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 überzeugen;  .کِسى را مُجاب کَردَن، قَبولانیدَن، قانِع ک.، مُعتَقِد ک.، مُتَيَقِن ک
 überzeugend; بِاليَقین
 überzeugt; مُطمَئِن، مُتَقاعِد، مُعتَقِد
-- das einzige, wovon er überzeugt wurde ..; از تَنها چیزى که دِلِش قُرص بود
+- das einzige, wovon er überzeugt wurde ...; از تَنها چیزى که دِلِش قُرص بود
 - das überzeugt nicht; چَندان چَنگى به دِل نِمى زَنَد
 - Von ... überzeugt sein; پای ِ حَرف ِ خود بودَن
 - er ist von einer Sache zutiefst überzeugt; او آدَم ِ دو آتِشه است، کَف به دَهَنَش مى آوَرَد
@@ -421,7 +421,6 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 Überzeugungskraft; قُوهٔ اِقناع، قُوهٔ تَرغیب
 überziehen; پوشاندَن
 - etwas mit Metall überziehen; چیزى را فِلِز اَندود کَردَن
-überzogen;
 - überzogene Neugier; کُنجکاوى ِ اِفراطى
 - überzogener Preis; قِیمَت ِ گُزاف
 Überzug; روکِش، لایه
@@ -430,7 +429,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 üblich; مَرسوم، مُتَداوِل، مُتَعارِف، عادى، رَواج
 - wie üblich; طِبق ِ مَعمول
 - übliche Währung; سِعر ِ رايِج اُلمُعامِله
-- er war so der übliche mittelharte Typ; او از هَمان نیمچۀ خَشِنهای ِ مَعمولی بود
+- er war so der übliche mittelharte Typ; او از هَمان نیمچهٔ خَشِنهای ِ مَعمولی بود
 übrig;
 - die übrigen Menschen; سایِر ِ مَردُم
 - das übrige Essen; غَذای ِ باقی مانده، باقی ِ غَذا
@@ -444,8 +443,8 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - übrig gebliebenes; مانده گار
 übriges; مابَقى
 übrigens; راستى، وانَگاهی، بِعِلاوه
-übrig haben;
-- nichts für jem. übrig haben; بَراى ِ کِسى چیزى قائِل نِمى شَوَد
+übrighaben;
+- nichts für jem. übrighaben; بَراى ِ کِسى چیزى قائِل نِمى شَوَد
 - ich habe für Musik nichts übrig; مَن از موسیقی خوشَم نِمی آيَد
 - hast du etwas Geld übrig?; دیگََر کَمی پول بَرای ... باقی مانده بود؟
 übrig sein; باقی بودَن
@@ -457,11 +456,12 @@ Uhr; ساعَت
 - 9.30 Uhr; ساعَت ِ ۳۰، ۹
 - Sanduhr; ساَعت ِ رَملی، - شِنی، - ماسه ای
 - Sonnenuhr; ساَعت ِ شَمسی، - آفتابی
+Uhrzeiger; عَقرَبهٔ ساعَت
 Uhrzeigersinn; جَهَت ِ حَرَکَت ِ عَقرَبهٔ ساعَت
 - wir spielen im Gegenuhrzeigersinn; ما دَر جَهَت ِ مُخالِف ِ حَرَکَت ِ عَقرَبهٔ ساعَت بازى مى کُنیم
 Uhu; جُغد
 Ulk; شوخى، مِزاح
-Ulme; دِرَخت ِ ناروان
+Ulme; دِرَخت ِ ناروَن
 Ultimatum; اولتیماتوم، اِتمام ِ حُجَت
 Ultrakurzwelle; موج ِ خِیلى کوتاه
 Ultrarevoluzzer; فَرا اِنقِلابى
@@ -474,16 +474,16 @@ um;
 - um euretwillen; دَر حَق ِ شُما
 - ich wette um einen Ball; مَن شَرط مى بَندَم سَر ِ توپ
 - Kampf um die Führung; مُبارِزه بَراى ِ رَهبَرى
-- um .. herum;  ... ِ حول
+- um ... herum;  ... ِ حول
 - um die Achse; حول ِ مِحوَر
-- sie sprangen um .. herum; بَر سَر ِ ... خَم و راست شُدَند
-- um nicht ..; تا مَبادا
+- sie sprangen um ... herum; بَر سَر ِ ... خَم و راست شُدَند
+- um nicht ...; تا مَبادا
 - um nicht müde zu werden; تا مَبادا خَسته شَوَند
-- um .. herumstreichen; به دور ِ چیزى کِشیدَن
+- um ... herumstreichen; به دور ِ چیزى کِشیدَن
 - um das Wohl des anderen willen; به خِیريَت با دیگَران
-- um .. zu; تا اینکه
+- um ... zu; تا اینکه
 - um s. auszuruhen; به قَصد ِ اِستِراحت
-- so um die ...; حول و حوش ِ
+- so um die ...; ... ِ حول و حوش
 umarmen (jem. -); دَست به گَردَن ِ کِسی اندختَن، بَغَل گِرِفتَن
 - eng umarmen;  .تَنگ دَر آغوش گِرِفتَن، ـ بَغَل گ
 Umarmung; مُعانِقه، دَر آغوش گیرى
@@ -507,7 +507,7 @@ Umdrehung; چَرخِش، دوران، گَردِش
 - Umdrehung (der Werte); تَقلیب
 Umdrehungszahl; ضَریب ِ اِنتِقالى، عَدَد ِ چَرخِش، تِعداد ِ دوران
 Umerziehung; بازآموزى، بازپَروَرى
-umfallen; سُقوط کَردَن، اُفتادن
+umfallen; سُقوط کَردَن، اُفتادَن
 Umfang;
 - Umfang, Fassung; حَجم
 - Umfang (i.S. dick); شَحامَت
@@ -516,7 +516,7 @@ umfangreich; ضَخیم، قُطور، حَجیم
 - eine nicht umfangreiche Schrift; کِتابی ِ کَم حَجم
 umfassen; چیزى را دَر بَر گِرِفتَن، اِحاطه کَردَن، مَشمول ک.، دَربَر داشتَن
 umfassend; جامِع، شامِل، فَراگیر، گُستَرده، مایه دار، دامَنه دار
-- alle Bedingungen umfassend; تَمام ِ شَرايِط را جامِع است، شامل ِ.. است
+- alle Bedingungen umfassend; تَمام ِ شَرايِط را جامِع است، شامل ِشَرایِط است
 - eine umfassende Abhandlung; رِسالهٔ هَمه جانِبه
 - eine umfassende Darstellung; مَقالهٔ رِسا و پُر مایه
 - ein umfassendes Kapitel; فَصل ِ مُشبَع
@@ -533,7 +533,7 @@ Umgangston;
 umgeben; مُنحَصِر
 Umgebung; مُحیط
 - in meiner Umgebung; دَر حول و حوش ِ مَن
-- in der neuen Umgebung; دَر يَنگه دُنیا
+- in der neuen Umgebung; دَر يَنگهٔ دُنیا
 - die Umgebung von jem. aufsuchen; دور و بَر ِ کِسى را گَشتَن
 - in der näheren & weiteren Umgebung; دَر اَطراف و اَکناف
 umgehen;
@@ -545,11 +545,12 @@ umgraben; کَندَن، خاک را زیر و رو کَردَن
 Umhang; رَدا، شولا، کَپَنَک، حِشنِل، طِیلَسان
 Umhängetasche; توبره
 umhauen;
+- den Baum umhauen; دِرَخت را ریشه کَن کَردَن
 - das hat mich umgehauen; يَکه خوردَم
-umhergehen; خُرامیدَن، پَرسه زَدَن
+umhergehen; خُرامیدَن
 Umherirren; دَر بِدَرى
 umherirrend; سَر گَشته، سَر گَردان
-umherstreifen;
+umherstreifen; پَرسه زَدَن
 - umherstreifende Leute; آدَمهاى ِ دوره گَرد
 umhüllen; لِفاف کَردَن، پوشاندَن
 Umkehr; باز گَشت
@@ -562,15 +563,15 @@ umkippen (aktiv); چَپه کَردَن
 - umkippen (passiv); يَله شُدَن، ـ رَفتَن، چَپه شُدَن، پَکَر شُدَن
 - umgekippt; وارانه اَنداخت، واژگون
 Umklammerung;
-- er befreite s.  aus der Umklammerung, die ..; از توى ِ قِشرى که ... بِدور ِ او بَسته بود بیرون آمَد
+- er befreite s.  aus der Umklammerung, die ...; از توى ِ قِشرى که ... بِدور ِ او بَسته بود بیرون آمَد
 Umkleidekabine; کابین ِ اِستِحمام، رَفتکَن، جامه کَن
 umkommen; (präs.)  (هَلاک شُدَن، فوت ش.، مُردن (مى میرَد
 - umkommen vor Durst; از تِشنِگى جِگَر ِ کِسى آتَش مى گیرَد
 - elendiglich umkommen; سَگ کُش شُدَن، شیشهٔ عُمر ِ کِسى به سَنگ خورد
 Umkreis;
-- im Umkreis von 100 Metern; به شُعاع ِ ۱۰۰ مِتر، ـ دَر حَوالى ِ ـ
-umkreisen; به دور ِ چیزى چَرخیدَن، ـ گَشتَن
-- die Erde umkreist die Sonne; (infin.)  (کُرهٔ زَمین به دور ِ خورشید مى گَردَد (گَشتَن
+- im Umkreis von 100 Metern; به شُعاع ِ ۱۰۰ مِتر، دَر حَوالى ِ ـ
+umkreisen; (präs.) به دور ِ چیزى گَشتَن (می گَردَد)، ـ چَرخیدَن
+- die Erde umkreist die Sonne; کُرهٔ زَمین به دور ِ خورشید مى گَردَد
 Umlauf (von Meinungen); تَرویج
 - etwas in Umlauf bringen; چیزى را رَاوج دادَن، ـ شُیوع دادَن، ـ گِرد آوَردَن
 - im Umlauf sein; مُتَداوِل بودَن، باب شُدَن
@@ -581,11 +582,12 @@ umlegen; کِسى را از سَر ِ راه بَرداشتَن
 umleiten; پَس و پیش کَردَن، کِنار زَدَن
 Umleitung; تَغییر ِ مَسیر ِ اَصلى
 ummauert;
-- ummauerter Hof; حَیاط ِ دور پوشیده
+- ummauerter Hof; حَیاط ِ دُور پوشیده
 umnähen; دوخت گِرِفتَن
 Umrandung; حاشیه دار
 - Umrandung vom Wasserbecken; کُنگِرهٔ لَبهٔ طَشت
 Umrechnungsfähigkeit (der Währung); تَسعیر ِ پَذیر ِ اَرز
+Umrechnungskurs; بَرابَری ِ نِرخ، - یِکای ِ پول
 umringen (jem. -); دور ِ کِسى را گِرِفتَن، کِسى را اِحاطه کَردَن
 Umriss;
 - Umriss einer Stadt; سَواد ِ شهر، طَرح ِ ـ
