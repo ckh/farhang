@@ -3846,8 +3846,9 @@ streicheln; نَوازِش کَردَن، دَست به سَر و روى ِ کِ
 streichen;
 - streichen, ausstreichen; نام ِ کِسی را حَذف کَردَن، ـ خَط زَدَن
 - streichen (mit Farbe); رَنگ زَدَن
-- frisch gestrichen; تازه رَنگ زَده
 - streichen (mit der Hand); دَستمالى کَردَن
+- frisch gestrichen; تازه رَنگ زَده
+- ungestrichene Tür; دَر ِ رَنگ نَخورده
 Streichholz; کِبریت
 Streichung; حَذف
 Streife; کَشیکچى

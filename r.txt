@@ -142,6 +142,7 @@ Rasierapparat;  (خود تَراش(ـ  ِ بَرقى
 Rasiercreme; خَمیر ِ ریش تَراشى
 rasieren; صورَت را اِصلاح کَردَن، ریش تَراشیدَن
 - gegen den Strich rasieren; چَپَه تَراش کَردَن
+- unrasierter Typ; آدَم با صورَت ِ اِصلاح نَکَرده
 Rasierklinge; تیغ ِ ریش تَراش
 Rasiermesser; اُستُره
 Rasierpinsel; فُرچه

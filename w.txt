@@ -311,6 +311,7 @@ waschen; شُستَن
 - s. (rituell) waschen; وُضو گِرِفتَن
 - sie waschen s. vor dem Essen die Hände; آنها قَبل از خوردَن ِ غَذا دَستهايِشان را آب مى کِشَند
 - eine Hand wäscht die andere; آب به آب مي خورَد زور بَرميدارَد، دَستياري با يِکديگَر مَزيد ِ قُوَت ِ هَمِگان است
+- er war ungewaschen; او آب نَکِشیده بود
 Waschen (n); شُست و شو
 - Stelle für das Waschen der Füsse; پاشويه حوض
 Wäscherei; گازُرى، رَختشوئى
