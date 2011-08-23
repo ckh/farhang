@@ -712,6 +712,7 @@ Begriffsapparat; دَستگاه ِ مَفاهيمى
 Begriffsbestimmung; تَعريف، تَشريح
 Begriffsdefinition; تَعريف ِ مَفهومى
 Begriffsexplosion; انفِجار ِ اَصطِلاحات
+Begriffsklärung; اِبهام زِدایی
 begriffsstutzig; کودَن، کُند فَهم، کَم عَقل، آدَم ِ خَرخَوان و کودَن
 - er ist begriffsstutzig; دو زاريَش دير می اُفتَد
 Begriffssymbolik; واژه نَما
@@ -760,7 +761,7 @@ beharren; پايدارى کَردَن
 Beharrlichkeit; مُداوَمَت، پايدارى، پُشتِکار، اِصرار
 Beharrungstyp; نوع ِ پايَنده
 behaupten; اِدِعا کَردَن
-- sie behaupten, dass es .. nicht gibt; آنها مُنَکِر ِ.. هَستَند
+- sie behaupten, dass es ... nicht gibt; آنها مُنَکِر ِ... هَستَند
 - seine Stellung behaupten; مَقامَش را اِبقاء کَردَن
 Behauptung; اِدِعا، مُدَعا
 - Behauptungen aufstellen über; اِسم روى ِ چيزى گُذاشتَن
@@ -934,7 +935,7 @@ bejahen; بَلى گفتن، تَصديق کَردَن
 Bejahung; اِثبات، ايجاب
 bekämpfen;  .مُقاوِمَت کَردَن، مُبارزه ک
 Bekämpfung; مُبارِزه
-- Bekämpfungsmethoden gegenüber ..; رَوِشهاى ِ مُبارِزه با
+- Bekämpfungsmethoden gegenüber ...; رَوِشهاى ِ مُبارِزه با
 bekannt;
 - bekannt werden; شُهرَت گِرِفتَن
 - er war bekannt für ...; او شُهرَت به ... گِرِفت
@@ -2321,6 +2322,7 @@ bieten;
 - das bietet s. an; شانس آورَديم، شانسِمان آمَد، فُرصَت پيِدا کَرديم
 - jem. die Stirn bieten; دَر مُقابِل ِ کِسى پُر روئى کَردَن
 - 100 Euro sind geboten; صَد يورو پيشنَهاد شُده
+Big Bang-Theorie; نَظََریهٔ اِنفِجار ِ بُزُرگ، - مِهبانگ
 Bigamie; دو زَن دارى، دوهَمسَرى
 Bilanz;
 - wir müssen eine Bilanz ziehen; ما بايَد اَز اين وَضع بيلانسى بِبَنديم، ـ نَتيجه بِگيريم

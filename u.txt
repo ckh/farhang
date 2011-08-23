@@ -1274,18 +1274,18 @@ unten; پائین
 - er liegt mit dem Gesicht nach unten; او دَمَرو روى ... مى اُفتَد
 - das Oben & Unten; فَراز و فُرود
 unter;
-- unter dem Befehl von ...; به فَرماندَهى ِ
-- unter dem Einfluss von ...; بَر اَثَر ِ
+- unter dem Befehl von ...; ... ِ به فَرماندَهى
+- unter dem Einfluss von ...; ... ِ بَر اَثَر
 - unter dem Mikroskop; دَر زیر ِ میکروسکوپ
 - unter der Würde; دون ِ شأن
-- unter Missachtung der ..; با عَدَم ِ رَعايَت
+- unter Missachtung der ...; ... ِ با عَدَم ِ رَعايَت
 - einer unter ihnen; يِکى از این جُمله
-- unter anderem ist eine davon ..; از جُملهٔ
+- unter anderem ist eine davon ...; از جُملهٔ
 - unter s. sein; دَر لاک خود بودَن
 Unterausschuss; زیر کُمیسیون
 Unterbau (bei Strassen, u.ä.); زیر سازى، زیربَنا
 Unterbewusstsein; حالَت ِ ضَمیر ِ ناخود آگاه
-unterbinden; جِلو ... چیزی را گِرِفتَن
+unterbinden; جِلو ِ ... چیزی را گِرِفتَن
 unterbleiben; نَبودَن، فاقِد بودَن، اُفتادَن
 unterbrechen;
 - jem. unterbrechen; حَرف ِ کِسی را بُریدَن
@@ -1297,9 +1297,9 @@ unterbrechen;
 Unterbrechung; اِنقِطاع، قَطع
 - ohne Unterbrechung; بِلا اِنقِطاع، اِستِمرار
 - ohne Unterbrechung regnen; یِک بَند باریدَن
-- Betriebsunterbrechung; تَعطیلى ِ مُوَقَت ِ کار
+- Arbeitsunterbrechung; تَعطیلى ِ مُوَقَت ِ کار
 unterbreiten; تَقدیم کَردَن، اِرائه دادَن
-unterbringen;  .جا دادَن، مَنزِل د.، مَسکَن د.
+unterbringen;  .جا دادَن، مَنزِل د.، مَسکَن د
 Unterdruck; خَلاء، فِشار ِ مَنفى
 unterdrücken; مَظلوم کَردَن، ظُلم ک.، تَحت ِ فِشار قَرار دادَن
 - er unterdrückte seinen Wutausbruch; او خون ِ خونَش را مى خورد، ـ فُرو نِشاند
@@ -1307,16 +1307,16 @@ unterdrücken; مَظلوم کَردَن، ظُلم ک.، تَحت ِ فِشار
 - unterdrückte Komplexe; عُقده‌ها‌ی ِ فُروخُفته‌
 - mit unterdrückter Stimme; مِن مِن کَنان
 unterdrückend; مُتَعَدى
-Unterdrücker; (pl.) مُستَبد (مستَبدین)، مُتَعَدیون، مُفسِد فى اُلاَرض
-Unterdrückter; (pl.) زور دیده، مُستَضَعف (مُستَضَعفین)، مَظلوم (مَظلومان
+Unterdrücker; (pl.) مُستَبِد (مستَبدین)، مُتَعَدیون، مُفسِد فى اُلاَرض
+Unterdrückter; (pl.) (زور دیده، مُستَضَعف (مُستَضَعفین)، مَظلوم (مَظلومان
 Unterdrückung; اِستِبداد، ظُلم
 - Unterdrückung des Marktes; تَفشیر ِ اِقتِصادى
 - Unterdrückung der Opposition; سَرکوب ِ اَقَليَت
-unterentwickelt; توسعه نَیافته
+unterentwickelt; توسِعه نَیافته
 Unterführung; راه رو ِ زیرزَمینى، زیر گُذَر
 Untergang; زَوال، اُفول
 - Untergang der Sonne; غُروب
-- Untergang der Logik; اُفول ِ تعَقُل
+- Untergang der Logik; اُفول ِ تَعَقُل
 Untergebener; زیردَست
 untergehen;
 - untergehen (z.B. Dynastie); زائِل شُدَن، اُفول کَردَن
@@ -1325,25 +1325,25 @@ untergehen;
 untergeordnet (im Rang); مَرئوس، زیر دَست، مادون
 Untergeschoss; طَبَقهٔ زیر زَمین
 Untergliederung; تَقسیم به جُزء
-unterhalb; زیر ِ
+unterhalb; ِ زیر
 - unterhalb des Fundaments; زَمین ِ زیر پى، ـ زیر بَنا
 Unterhalt; اَعاشه، مَعاش، نَفَقه، مَعیشَت
 unterhalten;
 - s. unterhalten;  .مُکالِمه کَردَن، صُحبَت ک
 - ich unterhalte mich gut; خوش مى گُذارَم، صَفا می کُنَم با کِسی
-- sie unterhalten s. angeregt; آنها سَرگَرم ِ گُفت و گو هستند
+- sie unterhalten s. angeregt; آنها سَرگَرم ِ گُفت و گو هَستَند
 - Beziehungen unterhalten; رَوابِط داشتَن
 unterhaltsam; مُتَفَنُن، سَرگَرم کُنَنده
 Unterhaltsanspruch; اِدِعاى ِ نَفَقه، مُطالِبهٔ ـ، دَرخواست ِ نَفَقه
 unterhaltsberechtigt; مُحَق ِ نَفَقه
 Unterhaltspflicht; واجِب اُلنَفَقه
-- da gibt es auch noch die Unterhaltspflicht für ..; حالا مُتَکَفِل ِ مَخارِج ِ فِلان هَم هَست
+- da gibt es auch noch die Unterhaltspflicht für ...; حالا مُتَکَفِل ِ مَخارِج ِ فِلان هَم هَست
 Unterhaltung; گُفت و گو، صُحبَت، مُکالِمات
 - private Unterhaltung führen mit jem.; با کِسى خِلوَت کَردَن
 - gute Unterhaltung!; خوش بِگُذَرَد
 - eine angeregte Unterhaltung begann; صُحبَت ِ تازه کُرک اَنداخت
 Unterhändler; طَرَف ِ مُذاکِره، میانجى ِ صُلح، واسِطه
-- militärischer Unterhändler; مُذاکِره کُنَنده نِظامى
+- militärischer Unterhändler; مُذاکِره کُنَندهٔ نِظامى
 Unterhaus; مَجلِس ِ نِمايَندِگان
 Unterhemd; زیر پیراهَنى
 unterhöhlen; نَقب زَدَن
@@ -1369,7 +1369,7 @@ unterlegen;
 Unterlegscheibe; واشِر ِ تَحتانى
 Unterleib; کَفل، اَندام ِ تَحتانى، پائین تَنه
 unterliegen;
-- bei ... unterliegen (*: verlieren); دَر .. شِکَست خوردَن
+- bei ... unterliegen (*: verlieren); دَر ... شِکَست خوردَن
 - der Ausführung unterliegend; مَرعى اُلاِجراء
 Untermiete; اِجاره دَر اِجاره
 Untermieter; مُستأجِر ِ مُستأجِر
@@ -1381,22 +1381,22 @@ Unternehmen (n); شِرکَت
 Unternehmer; کارفَرما، صاحِب ِ شِرکَت
 unternehmerisch; کارجوى
 Unteroffizier; گُروهبان، اُستُوار
-unterordnen (s. -); مُتابِعَت کَردَن، تابِع ِ کِسى شُدَن، مُطیع کسى را کَردَن
-Unterordnung; از .. تَبَعيَت کَردَن
+unterordnen (s. -); مُتابِعَت کَردَن، تابِع ِ کِسى شُدَن، مُطیع ِ کِسى را کَردَن
+Unterordnung; از ... تَبَعيَت کَردَن
 Unterredung; گُفتُگو، مُذاکِره
 Unterricht; دَرس، تَدریس
 - Unterricht besuchen; دوره دیدَن
 unterrichten; دَرس دادَن، تَدریس کَردَن
-- entsprechend gut unterrichteter Kreise; به گُفته مَنابع ِ مُطَلَع
+- entsprechend gut unterrichteter Kreise; به گُفتهٔ مَنابع ِ مُطَلَع
 untersagen;  .مَنع کَردَن، تَحریم ک.، قَدِغَن ک
 - untersagend; زاجِر
 - Das Betreten ist strengstens untersagt; وُرود اَکیداً مَمنوع است
 Untersagung; (pl.)  (زاجِرَت (زَواجِر
-unterschätzen; دَست کَم گِرِفتَن، ناچیز شُمُردَن، کَم بَها دادَن
+unterschätzen; دَست ِ کَم گِرِفتَن، ناچیز شُمُردَن، کَم بَها دادَن
 unterscheiden; مُمَيِزه کَردَن، تَمايُز داشتَن، تَمییز دادَن
-- s. unterscheiden von ..; مُتَمايِز از .. بودَن
+- s. unterscheiden von ...; مُتَمايِز از ... بودَن
 - er unterscheidet s. völlig von anderen; مِثقالى ِ خِفَت ِ صَنار با دیگََران فَرق دارَد، او با دیگَران توفیر دارَد
-- das unterscheidet Sie von ..; این موضوع شُمارا مُتَمايِز مى سازَد از
+- das unterscheidet Sie von ...; این موضوع شُمارا مُتَمايِز مى سازَد از
 - links und rechts nicht unterscheiden können; دَست ِ چَپ و راست ِ خودرا نَشِناختَن
 unterscheidend; مُمَيِز، فارق
 Unterscheidung; تَمیز
@@ -1411,13 +1411,13 @@ unterschiedlich; مُتَفاوِت، جور بِجور
 - ein weiterer unterschiedlicher Aspekt von ihm; وَجه ِ تَمايُز ِ دیگَر ِ او
 - unterschiedliche Gedanken; فِکرهاى ِ جور به جور
 Unterschlagung; اِختِلاس، خَلسه
-Unterschlupf; مَفَر
+Unterschlupf (*: Zufluchtsort); مَفَر
 unterschreiben; اِمضاء کَردَن
 - unterschreiben lassen; به اِمضا رِساندَن
 Unterschrift; اِمضا
 - Unterschrift verlangen; اِمضا گِرِفتَن
 - zur Unterschrift vorlegen; به اِمضا رِساندَن
-- durch Unterschrift bekräftigen, dass ...;  .بَر چیزى صَحه گُذاشتَن که، از راه ِ اِمضاء صَحه گ
+- durch Unterschrift bekräftigen, dass ...;  بَر چیزى صَحه گُذاشتَن که، از راه ِ اِمضاء صَحه گُذاشتَن که
 unterschwellig; زیرجُلى
 Untersetzer;
 - Topfuntersetzer; زیر قابلِمه
@@ -1445,8 +1445,8 @@ untersuchbar; قابِل ِ رؤيَت
 untersuchen;  .بَررِسى کَردَن، تَحقیق ک.، پَژوهِش ک.، تَدقیق ک
 - untersuchen (beim Arzt); مُعايِنه کَردَن
 - eingehend untersuchen; مُداقه کَردَن
-- .. wurde eingehendst untersucht; مورِد ِ مُداقه واقِع شُده است
-- etwas wird in direkter Verbindung mit .. untersucht; چیزى دَر راستا با .. بَررِسى مى شَوَد
+- ... wurde eingehendst untersucht; مورِد ِ مُداقه واقِع شُده است
+- etwas wird in direkter Verbindung mit ... untersucht; چیزى دَر راستا با ... بَررِسى مى شَوَد
 Untersuchung; تَحقیق، تَدقیق، بَررِسى، پَژوهِش، رِسیدِگى
 - ärztliche Untersuchung; مُعايِنه
 - gerichtliche Untersuchung; دادرِسى
@@ -1472,7 +1472,7 @@ unterwerfen; مَشمول کَردَن، مَقهور ک.، تَسخیر ک.، �
 - das Volk unterwerfen; مِلَت را تَحت ِ اِنقیاد دَر آوَردَن
 - jem. seinem Befehl unterwerfen; کِسى را مُسَخِر ِ فَرمان ِ خود کَردَن
 - s. ihren eigenen Lüsten unterwerfen; لَگَد کوب ِ هَوَس های ِ خود کَردَند
-- gesundes Essen wird der Pünktlichkeit unterworfen; غَذاى ِ سالِم فَداى ِ وَقت شِناسى مى شَوَد
+- gesundes Essen wird der ... unterworfen; غَذاى ِ سالِم فَداى ِ ... مى شَوَد
 - unterworfen sein; مُتابِع شُدَن
 Unterwerfer; تَسخیر کُنَنده
 - Selbstunterwerfung; مُستَخِر ِ خویش
@@ -1480,19 +1480,18 @@ unterwürfig; مُتَذَلِل، اِطاعَت مُآب، مُطیعانه
 - unterwürfig sein; حِساب بُردَن، از کِسى با تَرس آمیخته به اِحتِرام اِطاعَت کَردَن
 Unterwürfigkeit; تَذَلُل، اِنقیاد
 Unterzeichnung; اِمضا، اِنعِقاد
-- mit der abschliessenden Unterzeichnung des Vertrages ...; با اِنعِقاد ِ قَرار داد
+- mit der abschliessenden Unterzeichnung des Vertrages; با اِنعِقاد ِ قَرار داد
 Unterzeichnungsurkunde; سَنَد ِ اِمضاء
 unterziehen;
 - s. einer Sache unterziehen; خودرا مورِد ِ ... قَرار دادَن
 Untiefe; تُنُکاب
 untrennbar; لايَنفَک، لايَتَجَزا
 - untrennbar verbunden; مُلتَصِق بودَن
-untreu;
-- untreu sein; بى وَفا بودَن، بى وَفائى کَردَن
+untreu (- sein); بى وَفا بودَن، بى وَفائى کَردَن
 Untreue; بى وَفائى
 untröstlich; تَسَليَت ناپَذیر
 untrüglich; خَطا ناپَذیر
-- das untrüglichste Zeichen von .. ist, dass ...; بارِزتَرین مُشَخَصهٔ .. این است که
+- das untrüglichste Zeichen von ... ist, dass ...; بارِزتَرین مُشَخَصهٔ ... این است که
 Untugend;
 - eine Untugend haben;  .خَروَر داشتَن، بَدى ِ اَخلاق د
 unüberlegt; بِدون ِ تأمُل
@@ -1500,6 +1499,7 @@ unüberlegt; بِدون ِ تأمُل
 - handle nicht unüberlegt (i.S. denk dran!); بی گُدار به آب نَزَن
 - unüberlegt reden; از رو ِ مِعده حَرف زَدَن
 ununterbrochen; بِلااِنقِطاع، مُتَوالى، مُمتَد، مُتَصِل، دَمادَم، مُستَمِر
+- ununterbrochene Linie (z.B. Straßenmarkierung); خَط ِ مُمتَد
 unverändert; تَغییر نَکَرده
 unveräusserlich;
 - unveräusserliches Haus; خانهٔ بیمَصرَف
@@ -1525,7 +1525,7 @@ unvergesslich; فَراموش نَشُدَنی
 unvergleichlich; فَرید، بى نَظیر، بى هَمتا
 - unsere ... ist unvergleichlich; ما میان ِ همهٔ آنها لِنگه نَداشت...
 unverheiratet; مُجَرَد
-unverhofft; ناگاه، غِیر ِ مُنتَظِره، غِر ِ مُنتَرَقِب
+unverhofft; ناگاه، غِیر ِ مُنتَظِره، غِیر ِ مُنتَرَقِب
 unverhohlen; روراست، صَریح
 unverletzt; زَخمی نَشُده
 - Unverletzbarkeit, Immunität; مَصونيَت، حُرمَت
@@ -1571,7 +1571,7 @@ unwiederbringlich; بازگَشت ناپَذیر، قَطعاً به اِنتِ�
 Unwille; کُدورَت
 unwillentlich; بى اِختیار
 unwillig; بی مِیل
-- unwillig werden; ناراحَت شُدَن، دِلسَرد ش.، اوقات ِ کُسى تَلخ مى شَوَد
+- unwillig werden; ناراحَت شُدَن، اوقات ِ کُسى تَلخ مى شَوَد
 unwillkürlich; بى اِختیار، بِفَهمى نَفَهمى، ناخواسته
 unwirksam; بى اَثَر، بى اِعتِبار، بى تأثیر
 - Vertragsunwirksamkeit; عَدَم ِ اِعتِبار ِ قَرار داد، بُطلان ِ مُعاهِده
@@ -1631,6 +1631,7 @@ Urheber; بانى، عامِل
 Urheberrecht; حَق ِ چاپ، حَق ِ مؤلِف، حَق ِ اِنحِصارى ِ مؤلِف
 Urin; شاش، پیشاب ِ اِدرار
 urinieren; شاشیدَن، اِدرار کَردَن
+Urknall-Theorie; نَظََریهٔ اِنفِجار ِ بُزُرگ، - مِهبانگ
 Urkunde; قبِاله، سَنَد، مَدرَک
 - Austausch der Ratifikationsurkunden; مُبادِلهٔ تَصویبنامه ها
 Urkundenfälschung; جَعل ِ سَنَد

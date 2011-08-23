@@ -3650,7 +3650,9 @@ Evangelium; (pl.) (اِنجیل (اَناجیل
 Eventualität; اِتِفاق، تَصادُف
 eventuell; اِحتِمالاً، اِحیاناً
 Evolution; تَحَوُل، تَکامُل، تَطَوُر، دِگَرگونى
-Evolutionstheorie; نَظَریهٔ تَکامُل ِ داروینى
+evolutionär; تَکامُلی
+- evolutionäre Entwicklung vom einfachen zum komplexen; فَرگَشت ِ فُرونَکاستَنی
+Evolutionstheorie; نَظَریهٔ تَکامُل ِ داروینى، فَرگَشت
 ewig; لایَزال، جاوِدان، جاوید، صَمَد، سَرمَد، اَبَدى
 - der ewige Gott; خداى سَرمَدى، ـ قَیوم، لابُداً و لایَزال
 - der ewige Jude (Buchtitel); یَهودى ِ سَرگَردان
