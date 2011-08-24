@@ -1076,10 +1076,11 @@ Ungleichheit; نابَرابَرى، عَدَم ِ مُساوات
 ungleichmässig; ناهَماهَنگ، جوربِجور، نامُنَظَم
 Unglück; (pl.) فَلاکَت، مُصیبَت (مَصائِب)، شَقاوَت، بَلا، شوربَختى، بَدبَختى، بَدشانسى
 - ein Unglück sein; بَد بیاری بودَن
+- Unglück hervorrufen; دَسته گُل به آب دادَن
 - jem., der Unglück bringt; آدَم ِ مَضَرات
 - willst du, dass dir ein Unglück geschieht?; مى خواهى بَلائى سَرِت بیاد؟
 - im Glück und Unglück; دَر خِیر و شَر
-- vom Unglück verfolgt; فَلاکَت زَده، آب ِ خوش از گَلوی ِ کِسی پایین نَرَفتَن، دَسته گُل به آب دادَن
+- vom Unglück verfolgt; فَلاکَت زَده، آب ِ خوش از گَلوی ِ کِسی پایین نَرَفتَن
 - da sind Sie, und das Unglück, das Sie gebracht haben; حال این شُما و این خانه خَرابى
 unglücklich; بَخت بَر گَشته، شَقى
 - unglücklicher Mensch; (pl.) آدَم ِ بَد بَخت، شَقى (اَشقیاء)، آدَم ِ سیاه بَخت، ـ ناکَم، ـ تَلخکام، ـ بَد يُمن
@@ -1272,6 +1273,7 @@ unten; پائین
 - weiter unten; پائین تَر
 - unten erwähnt; مَذکور دَر زیر
 - er liegt mit dem Gesicht nach unten; او دَمَرو روى ... مى اُفتَد
+- nach unten treten, nach oben buckeln; از خُردان لَخشيدَن، از بُزُرگان بَخشيدَن
 - das Oben & Unten; فَراز و فُرود
 unter;
 - unter dem Befehl von ...; ... ِ به فَرماندَهى
@@ -1638,23 +1640,24 @@ Urkundenfälschung; جَعل ِ سَنَد
 urkundlich; مُستَنَد
 Urlaub; تَعطیلات، مُرَخَصى
 - Urlaub nehmen;  .رُخصَت گِرِفتَن، مُرَخَصى گ
+- in Urlaub fahren; به مُرَخَصی رَفتَن، مُسافِرَت کَردَن
 Urne; صَندوق
 - Wahlurne; صَندوق ِ رأى
 Ursache; سَبَب، عِلَت
-- das ist die Ursache für ..; این باعِث مى شَوَد که
+- das ist die Ursache für ...; این باعِث مى شَوَد که
 - Ursache für den Durst; مایهٔ تِشنِگى
 - Ursache & Wirkung; عِلَت و مَعلول، لازِم و مَلزوم
 - kleine Ursache, grosse Wirkung; قَطره قَطره جَمع شَوَد وانِگَهى دَریا شَوَد
-- die Ursache, dass es mir kalt ist, liegt nicht am Wetter, sondern in mir; این سَرما از هَوا نیست؛ از جای ِ دیگَر آب می خورَد: توی ِ خودَم است
+- die Ursache, dass es mir kalt ist, liegt nicht am Wetter, sondern in mir; این سَرما از هَوا نیست از جای ِ دیگَر آب می خورَد: توی ِ خودَم است
 ursächlich; سَبَبى
 Ursprung; مَبدَأ، مَنشأ، جُرثومه
 - Ursprung der Persönlichkeit; جُرثومهٔ شَخصيَت
-- seinen Ursprung nehmen in ...; از .. مَنشاء مى گیرَد
+- seinen Ursprung nehmen in ...; از ... مَنشاء مى گیرَد
 - die Gegnerschaft hat da seinen Ursprung; مُخالِفَت نیز از آنجا آب مى خورَد
 ursprünglich; اِبتِدائى، دَر اَصل، اَساسى
 Urteil; قِضاوَت
 - was ist euer Urteil?; رأى ِ شُما چیست؟
-- Urteil aussprechend bezüglich; مُتَحَکِم ِ
+- Urteil aussprechend bezüglich; ِ مُتَحَکِم
 - Urteil eines islamischen Geistlichen; اِجتِهاد، مُجتَهَد
 - Todesurteil; حُکم ِ اِعدام
 urteilen;  .قِصاوَت کَردَن، حُکم ک
@@ -1666,7 +1669,7 @@ Urwald; جَنگَل
 Usurpator; غاصِب
 u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)، و اِلىٰ آخَر، و غِیره
 Utensilien; اَفزار، ظُروف، وَسائِل
-Uterus; زِه دان، رَحَم
+Uterus; زِه دان، رَحِم
 Utilitarismus; اُصول ِ مُفیديَت، سودآئینى، سودگَرى
 Utopie; خیالپَروَرى، دُنیاى ِ خیالى
 utopisch; هَوائى، تَخَيُلى، رؤیائى، خیالى
