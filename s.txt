@@ -3154,6 +3154,7 @@ Stammplatz; جای ِ هَمیشِگی، - ثابِت
 Stammtischpolitiker; سیاسَت ِ مُدار ِ قَهوه خانه
 Stammvater; اَبوالقوم، بُنیان گُذار ِ مِلَت، پَتریارخ
 - Adam, Stammvater der Menschheit; اَبوالبَشَر، آدَم
+- Abraham ist der Stammvater Israels; اِبراهیم از آباى ِ قوم ِ اِسرائیل است
 Stammwähler; اِنتِخاب کُنَندِگان ِ سُنَتى
 Stand;
 - Stand, bestimmte Anzahl; نِصاب
