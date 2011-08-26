@@ -21,7 +21,7 @@ Vase; گُلدان
 Vaseline; وازِلین
 vaskulös; آوَندى
 Vater; (pl.)  (پِدَر، والِد، اَب (آباء
-Vaterland; (pl.) میهَن، وَطَن، مُوَطَن (مَواطِن)، سَرزَمین ِ اَجدادى
+Vaterland; (pl.) میهَن، وَطَن، مُوَطَن (مَواطِن)، سَرزَمین ِ اَجدادى، زاد و بوم
 väterlich; پِدَرانه
 - väterliche Liebe; مُحَبَت ِ پِدَرانه
 väterlicherseits; از طَرَف ِ پِدَر
@@ -160,6 +160,7 @@ verbergen;  .مَستور کَردَن، قاِئم ک.، پِنهان ک.، غ�
 - seine verborgenen Gedanken; مَکنون ِ خاطِر ِ او، فِکرهاى ِ مُضَمِر ِ او
 - im Buch sind auch Lügen verborgen; دَر کِتاب هَم دُروغ مُستَتِر هَستَند
 - das, was verborgen ist; نَهانیها
+- aus dem Verborgenen Botschaften empfangen; از عالَم ِ غِیب پِیغامى گِرِفتَن
 verbessern; اِصلاح کَردَن، بِهتَر ک.، بِهبود بَخشیدَن، دَستکاری کَردَن
 - s. verbessern; بِهبود یافتن، بِهتَر شُدَن
 - verbessert werden;  .دَستکاری شُدَن، اِصلاح ش
@@ -171,14 +172,14 @@ Verbesserung;
 - das braucht noch eine kleine Verbesserung (i.S.: Korrektur); دَستکاری می خواهَد
 verbeugen;  .کُرنِش کَردَن، تَعظیم ک
 Verbeugung; تَعظیم
-- eine Verbeugung machen; تَعظیم کَردَن
 verbeult;
-- verbeulte Hose; شَلوار ِ کِسى شُده، ـ زانو کَرده
+- verbeulte Hose; شَلوار ِ زانو کَرده
 - verbeulter Kessel; کِترى ِ غُر شُده
 - verbeulte Mütze; کُلاه از ریخت اُفتاده
 verbiegen (s. -); خَم شُدَن، خَمیدَن
+- verbogen; دَر هَم پیچیده، کَژ و مَژ
 verbieten;  .مَنع کَردَن، مَمنوع ک.، تَحریم ک.، قَدِغَن ک
-verbietend; زاجِر
+verbietend, abratend; زاجِر
 Verbilligung; اَرزانى
 verbinden; مُتَصِل کَردَن، وَصل ک.، پِیوَستَن، پِیوَند دادَن، مُلحَق شُدَن
 - sie verbinden seine Wunden; زَخمهاى ِ اورا پاسِمان مى کُنَند
@@ -187,7 +188,7 @@ verbinden; مُتَصِل کَردَن، وَصل ک.، پِیوَستَن، پ�
 - untrennbar verbunden; مُلتَصِق بودَن
 verbindend; مُلصِق
 verbindlich;
-- .. ist verbindlich; اِلزامى است
+- ... ist verbindlich; اِلزامى است، مُلزِم است
 - verbindliche Schiedsgerichtsbarkeit; داوَرى ِ اِلزام آوَر
 Verbindlichkeit;
 - er hat eine hohe Verbindlichkeit; آدَم ِ با وَفا، - با تَعَهُد
@@ -195,11 +196,11 @@ Verbindlichkeit;
 Verbindung; رابِطه، اِرتِباط، اِتِصال
 - Verbindung, Vereinigung; اِلصاق، اِلحاق
 - chemische Verbindung; تَرکیب ِ شیمیائى
-- in Verbindung sein mit ..; با .. مُلحَق شُدَن
-- etwas in Verbindung bringen mit; مُرتَبِط نِمودَن چیزى به
+- in Verbindung sein mit ...; با ... مُلحَق شُدَن
+- etwas in Verbindung bringen mit; مُرتَبِط نِمودَن ِ چیزى به
 - jem. mit jem. in Verbindung bringen; کِسى را به کِسى ِ دیگَر مَربوط کَردَن
 - jem. ist mit dieser Vereinigung in Verbindung; کِسى به این مَجمَع پِیوَسته است، ـ با ... دَر تَماس است
-- etwas wird in direkter Verbindung mit .. untersucht; چیزى دَر راستا با .. بَررِسى مى شَوَد
+- etwas wird in direkter Verbindung mit ... untersucht; چیزى دَر راستا با ... بَررِسى مى شَوَد
 Verbindungsleute; پِیوَستِگان
 Verbindungslinien; خُطوط ِ اِرتِباطیه
 Verbindungsstelle; پِیوَندگاه
@@ -213,8 +214,8 @@ Verbitterung; عَدَم ِ رِضايَت، تَلخى، کینه توزى
 - voll Verbitterung kämpfen; از روى خَشم مُبارِزه کَردَن، ـ کینه ـ
 verblassen; (infin.) رَنگ مى پَرَد (پَریدَن)، بى رَنگ شُدَن
 - ein verblasstes Bild; تَصویر ِ رَنگ و رو رَفته
-- sein Stern ist verblaßt; باد ِ او خالی شُده
-Verbleib; اِبقاء دَر ..، باز ماندَه
+- sein Stern ist verblasst; باد ِ او خالی شُده
+Verbleib; اِبقاء دَر ...، باز ماندَه
 verblenden (z.B. Gebäude); روکِش کَردَن، پوشانیدَن
 verblüffen; تَعَجُب کَردَن
 - verblüfft sein; واچُرتیدَن، هاج و واج بودَن، خِیره شُدَن
@@ -224,19 +225,12 @@ Verblüffung;
 - vor Verblüffung blieb ihnen der Mund offen; اَنگُشت به دَهَن ماندَن
 verblühen; پَژمُرده شُدَن
 verbluten; از شِدَت ِ خونریزى مُردن
-verbogen; دَر هَم پیچیده، کَژ و مَژ
 verborgen;
 - verborgen sein (*: verbergen);  .نِهُفته بودَن، قائم ب.، نهان ب.، پنهان ب.، مَکنون ب.، مُتَوارى ب
-- nichts ist mir verborgen; هیچ سِرى از مَن مَخفى نیست
-- diese Sache ist uns noch verborgen; این چیز هَنوز دَر پَرده اى از اِبهام مانده است
-- seine verborgenen Gedanken; مَکنون ِ خاطِر ِ اورا، فِکرهاى ِ مُضَمِر ِ او
-- im Buch sind auch Lügen verborgen; دَر کِتاب هَم دُروغ مُستَتِر هَستَند
-- das, was verborgen ist; نَهانیها
-- aus dem Verborgenen Botschaften empfangen; از عالَم ِ غِیب پِیغامى گِرِفتَن
 Verbot; نَهى، ناهیه، مَنع، مُمانَعَت، مَمنوعيَت
 - Verbot einer Partei; مَنع ِ حِزبى
 - Arbeitsverbot; مَنع ِ کار
-- Ausreiseverbot (Einreise-); مَمنوع اُلخُروج  (ـ اُلوُرود
+- Ausreiseverbot (Einreise-); (مَمنوع اُلخُروج  (ـ اُلوُرود
 verboten; نَهى، ناهى، مَمنوع
 - verbotene Taten; مَنهیات
 - er hat es ihm verboten; او این را به او مَنع کرد
@@ -291,8 +285,8 @@ Verbündeter; هَم پِیمان
 Verbundstahl; فولاد ِ مُرَکَب
 verbürgen;
 - s. verbürgen für ...; ضَمانَت ِ کِسى را کَردَن
-verchromen; آب ِ کُرُم دادَن، آب ِ کرُم کارى کَردَن
-Verchromung; آب ِ کرُم کارى
+verchromen; آب ِ کروم دادَن، آب ِ کروم کارى کَردَن
+Verchromung; آب ِ کروم کارى
 Verdacht; مَظنونيَت، اِتِهام، سوء ِ ظَن
 - ich habe ihn im Verdacht; مَن به او مَظنون هَستَم
 - die Stille ruft in ihm Verdacht hervor; سُکوت اورا مَشکوک مى کُنَد
@@ -346,12 +340,11 @@ verdienen; دَرآمَد داشتَن
 - du verdienst, dass man dich für ... bestraft; مُستَحَقى که تورا بِخاطِر ِ ... به مُجازات بِرِسانَند
 - jem., der den Himmel verdient hat; جَنَت ِ مَکان
 Verdienst; حُقوق، دَرآمَد
-- es ist sein Verdienst, dass ..; لیاقَت ِ اوست که
+- es ist sein Verdienst, dass ...; لیاقَت ِ اوست که
 verdoppeln; دو بَرابَر کَردَن
 - seinen Reichtum verdoppeln; ثِروَت را دو بَرابَر ِ ثِروَت ِ قَبلى اَش رِساندَن
 verdoppelt; دو چَندان، دو بَرابَر شُده، مُتَضاعِف، مُثنىٰ شُده
-- sein Reichtum verdoppelte s. gegenüber vorher; ثِروَتش به ثِروَت ِ قَبلى اش دوبَرابَر شُد
-Verdoppelung; تَضاعُف
+Verdoppelung; تَضاعُف، دوبَرابَری
 verdorben; فاسِد، ضايِع، خَراب
 Verdorbenheit; فِساد
 verdrahten; سیم کِشى کَردَن
@@ -359,7 +352,7 @@ verdrallen; پیچ دادَن، تابیدَن
 verdrängen; کِسى را پَس زَدَن، ـ بیرون راندَن
 - andere verdrängen; دوررا از دَست ِ هَمه گِرِفتَن، يِکه تازى کَردَن
 - etwas aus dem Gedächtnis verdrängen; چیزى را از یاد بُردَن، ـ از ذِهن بِدَر کَردَن
-- der Glaube an .. verdrängte andere Gesichtspunkte; اِعتِقاد به .. دیده هاى ِ دیگَررا تَحت اُلشُعا قَرار مى دَهَد
+- der Glaube an ... verdrängte andere Gesichtspunkte; اِعتِقاد به ... دیده هاى ِ دیگَررا تَحت اُلشُعا قَرار مى دَهَد
 verdrehen; پیچ دادَن، تابیدَن
 - verdrehen (Knoten); گِرِه خوردَن
 - verdrehen (z.B. statt 28: 82); وارونه کَردَن
@@ -370,7 +363,7 @@ verdreht; مُلتَوى، مارپیچى
 - verdreht werden; مَقلوب از چیزى بودَن
 Verdrehung; پیچِش
 - Verdrehung der Ereignisse; قَلب ِ حَوادث
-- Verdrehung des Textes (diakritische Punkte falsch setzen); تَصحیف (خُدا : جُدا
+- Verdrehung des Textes (diakritische Punkte falsch setzen); (تَصحیف (خُدا : جُدا
 - Verdrehung des Textes durch Umstellung von Buchstaben; تَحریف (رَشک : شُکر
 verdreschen; کُتَک زَدَن، مالِش دادَن
 verdrossen; کَدِر
@@ -484,10 +477,10 @@ verfassungsgebend;
 verfassungsgemäss; مُبتَنى بَر قانون ِ اَساسى
 Verfassungsgericht; دادگاه اَساسى
 Verfassungsklage; شِکايَت بُردَن به دیوانِعالى ِ قانون ِ اَساسى
-verfassungsmässig; بَر قانون ِ اَساسى
-- verfassungsmässige Ordnung; نِظام مُبتَنى بَر قانون ِ اَساسى
-- verfassungsmässiges Recht; حُقوق ناشى از قانون ِ اَساسى
-- Verfassungsmässigkeit einer Organisation; مُطابِقَت ِ سازِمان با قانون ِ اَساسى
+verfassungsmäßig; بَر قانون ِ اَساسى
+- verfassungsmäßige Ordnung; نِظام مُبتَنى بَر قانون ِ اَساسى
+- verfassungsmäßiges Recht; حُقوق ناشى از قانون ِ اَساسى
+- Verfassungsmäßigkeit einer Organisation; مُطابِقَت ِ سازِمان با قانون ِ اَساسى
 verfassungsrechtlich;
 - verfassungsrechtlicher Rahmen; مَحدودهٔ قانون ِ اَساسى
 Verfassungsschutz; حِفظ ِ قانون ِ اَساسى، حَراسَت ِ قانون ِ اَساسى
@@ -495,7 +488,7 @@ verfassungswidrig; غِیر ِ قانون ِ اَساسى، مُغايِر ِ ـ
 - für verfassungswidrig erklären; خَلاف ِ قانون ِ اَساسى تَشخیص دادَن
 - Verfassungswidrigkeit einer Organisation; ضِديَت ِ سازِمان با قانون ِ اَساسى
 verfaulen; پوسیدَن
-- verfault; پوسیده، گَندیده، لَق، عَفِن، مُتَعَفِن
+- verfault; پوسیده، گَندیده، عَفِن، مُتَعَفِن
 verfehlen; عَوَضی گِرِفتَن
 - Gebote verfehlen; از دَستور تَخطى کَردَن، دَر شَرائِط لَغزیدَن
 - Ziel verfehlen; نِشانه نَزَدَن
@@ -503,11 +496,11 @@ Verfehlung; خَطا
 verfilzen (s. -);  .کُرک شُدَن، دَر هَم بافته ش
 verflochten (Zaun, u.ä.); مُتَشَبِک
 verfluchen; لَعَنَت کَردَن
-- verflucht; مَلعون، لَعَنَت شده
+- verflucht; مَلعون، لَعَنَت شُده
 verflüssigen; مايِع کَردَن
 verfolgen; تَعَقیب کَردَن
-- wegen dir konnte ich die Sache nicht verfolgen; مَحض ِ خاطِر ِ تو بود که پاپى ِ قَضیه نَشُدَم
-- er verfolgt mich dauernd heimlich; او خِیلی زاغ ِ سیاه مَرا چوب می زَنَد، او ذاغَم را ـ
+- wegen dir konnte ich die Sache nicht verfolgen; مَحض ِ خاطِر ِ تو بود که پاپِى ِ قَضیه نَشُدَم
+- er verfolgt mich dauernd heimlich; او خِیلی زاغ ِ سیاه مَرا چوب می زَنَد، او ذاغَم را چوب می زَنَ
 Verfolger; تَعاقُب کُنَنده، تَعَقیب کُنَنده
 Verfolgung; تَعاقُب، پِیگیرى، تَعَقیب
 - strafrechtliche Verfolgung; تَعقیب ِ کِیفَرى
@@ -521,7 +514,7 @@ Verfügung; اِختیار
 - etwas jem. zur Verfügung stellen; چیزى را دَر اِختیار ِ کِسى گُذاشتَن
 - jem. sein Vermögen zur Verfügung stellen; ثِروَت ِ خود را به پاى ِ کِسى ریختَن، ـ خَرج ِ دیگَرى کَردَن
 - zur Verfügung sein; دَر دَسترِس بودَن
-- die übersetzung steht zur Verfügung; تَرجُمه دَر دَسترِس است
+- die Übersetzung steht zur Verfügung; تَرجُمه دَر دَسترِس است
 - ich stehe Ihnen zur Verfügung; دَر خِدمَت ِ شُما هَستَم
 - zur allgemeinen Verfügung stehen; دَر مَعرَض ِ اِستفادهٔ عُمومى قَرار مى گیرَد
 - das Zimmer war zu ihrer Verfügung; اُطاق دَر اِختیار ِ آنها بود
@@ -546,11 +539,11 @@ Vergangenes; سابِقه، پیشینه
 Vergangenheit; گُذَشته، سابِقه
 - Vergangenheit (Grammatik); ماضى، زَمان ِ گُذَشته
 vergänglich; ناسوتى، يِک دَمه، فَناپَذیر، گُذَرا، دَر حال ِ مَحو شُدَن
-Vergaser; سوخت آما، کاربُراتُر
+Vergaser; سوخت آما، کاربُراتور
 Vergaserklappe; ساسات
 vergeben; آمُرزیدَن، بَخشیدَن
 - Gott vergibt; خُدا از سَر ِ تَقصیر ِ کِسى مى گُذَرَد، خُدا مى بَخشَد
-- Irren ist menschlich, vergeben können ist von Gott; از کوچکها خَطا، از بُزُرگان عَطا
+- Irren ist menschlich, vergeben können ist von Gott; از کوچکها خَطا از بُزُرگان عَطا
 - vergib uns (zwischen Menschen); مارا حَلال کُن، مارا بِبَخش
 vergebens; اَلَکى
 vergeblich; ضايِع، بیخود، عَبَث
