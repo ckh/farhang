@@ -543,7 +543,7 @@ Vergaser; سوخت آما، کاربُراتور
 Vergaserklappe; ساسات
 vergeben; آمُرزیدَن، بَخشیدَن
 - Gott vergibt; خُدا از سَر ِ تَقصیر ِ کِسى مى گُذَرَد، خُدا مى بَخشَد
-- Irren ist menschlich, vergeben können ist von Gott; از کوچکها خَطا از بُزُرگان عَطا
+- Fehlen ist menschlich, vergeben können ist von Gott; از کوچکها خَطا از بُزُرگان عَطا
 - vergib uns (zwischen Menschen); مارا حَلال کُن، مارا بِبَخش
 vergebens; اَلَکى
 vergeblich; ضايِع، بیخود، عَبَث
@@ -572,7 +572,7 @@ Vergeltungsaktion; عَمَل ِ اِنتِقامى
 vergessen; فَراموش کَردَن
 - abtun & vergessen; دَر نَوَردیدَن و دَر نِوِشتَن
 - ich habe das vergessen; یادَم رَفته، از یادَم اُفتاد، اینرا فَراموش کَردَم
-- ich hab´s vergessen; مَن خواب ماندَم
+- ich hab´s vergessen (i.S.: verschlafen); مَن خواب ماندَم
 - ich habe alles vergessen (was ich gelernt habe); پُشتَم باد خورد
 - Sie haben es vergessen; شُما فَراموش فَرمودید
 - das eine können sie noch nicht, das andere haben sie vergessen; راه رَفتَن ِ کَبک را یاد نَگِرِفته خودرا هَم از باد بُرده اند
@@ -604,7 +604,7 @@ vergittert; مُشَبَک
 - vergitterte Fenster; پَنجَره هاى ِ نَرده کِشیده
 verglasen; جام اَنداختَن، شیشه ـ، ـ زَدَن
 Vergleich; تَشبیه، مُقايِسه
-- im Vergleich zu ...; دَر مُقابِل ِ، دَر قیاس ِ
+- im Vergleich zu ...; ِ دَر مُقابِل ِ، دَر قیاس
 vergleichen; مُقايِسه کَردَن
 - er ist mit nichts zu vergleichen; مِثقالى ِ خُفت ِ صَنار با دیگَران فَرق دارَد
 - Äpfel mit Birnen vergleichen (und ersetzen); تَلافی ِ غوره را سَر ِ کوره دَر آوَردَن
@@ -619,7 +619,7 @@ Vergnügen;
 - Vergnügen, Spass; عِیش و نوش، لَعَب، تَفریح، سَرگَرمى
 - mit Vergnügen; با مَسَرَت
 - viel Vergnügen!; خوش بِگذَرَد!، خوش باش
-- ich habe das Vergnügen, ..; مَسرورَم که
+- ich habe das Vergnügen, ...; مَسرورَم که
 - es war mir ein Vergnügen, Sie zu sehen; از دیدَن ِ شُما مَحظوظ شُدَم، ـ لِذت بُردَم
 - wir hatten das Vergnügen, sie zu sehen; سَعادَت ِ دیدَن ِ آنهارا داشتیم
 vergnügungssüchtig; عِشرَت پَرَست
@@ -634,7 +634,7 @@ vergreifen;
 - s. vergreifen an; به چیزى دَستبُرد زَدَن
 - vergreife dich nicht an seinem Eigentum; به مال ِ او دَست نَزَن
 - sie beabsichtigten, s. an ihnen zu vergreifen; دَر صَدَد ِ دَست دِرازى به آنها بَر مى آيَند
-- damit .. sich nicht vergreift; بَراى ِ اینکه .. خَلاف نَکُنَد
+- damit ... sich nicht vergreift; بَراى ِ اینکه ... خَلاف نَکُنَد
 vergriffen;
 - das Buch ist vergriffen; کِتاب نایاب است، تیراج ِ کِتاب تَمام شُد
 vergrössern; بُزُرگ کَردَن
@@ -653,7 +653,7 @@ verhallen; فُرو نِشَستَن
 verhalten;
 - verhalten, zurückhaltend; خوددار، پَرهیزکار
 - s. verhalten; رَفتار کَردَن
-- die Art und Weise, wie sie s. gegenüber .. verhalten; مَنظَرهٔ بَرخورد ِ آنها با
+- die Art und Weise, wie sie s. gegenüber ... verhalten; مَنظَرهٔ بَرخورد ِ آنها با
 - verhalte dich so, wie du es von anderen erwartest; با دیگَران هَمانطور رَفتار کُن که مى خواهى آنها با تو رَفتار کُنَند
 Verhalten (n); حالَت، رَفتار
 - ein schräges Verhalten an den Tag legen; اَطوار ریختَن، - دَر آوَردَن
@@ -662,10 +662,10 @@ Verhaltensmuster; اُلگوى ِ رَفتار
 Verhaltensnorm; ضابِطهٔ رَفتار
 Verhaltensregel; قاعِدهٔ رَفتار
 Verhältnis;
-- im Verhältnis zu; بِفَرا خور ِ ..، به نِسبَت ِ
+- im Verhältnis zu; ِ بِفَرا خور ِ ..، به نِسبَت
 - Kräfteverhältnis; تَناسُب ِ قُوا
 - Produktionsverhältnisse; مُناسِبات ِ تولید
-- das Verhältnis von X zu .. ist so; اِنتِساب ِ آن به فِلان این است، رابِطهٔ آن ـ
+- das Verhältnis von X zu ... ist so; اِنتِساب ِ آن به فِلان این است، رابِطهٔ آن ـ
 - angespanntes Verhältnis; تیرِگی ِ رَوابِط
 - angespanntes Verhältnis zwischen den Ländern; تیرِگی دَر رَوابِط ِ کِشوَرها
 - das Verhältnis zwischen Mann und Frau ist im Verhältnis 3 zu 4; نِسبَت ِ مَرد بَر زَن به نِسبَت ِ سه بَر چَهار است
@@ -680,7 +680,7 @@ Verhandlungsfortgang; رَوَند ِ مُذاکِره
 verhangen; حاجَب ِ ماوَراء
 verhängen;
 - Sanktion verhängen; تَحریم بَر قَرار کَردَن
-- gegen jem. Restriktionen verhängen; مَحدوديَتهائى قائِل شُدَن عَلَیه
+- gegen jem. Restriktionen verhängen; مَحدوديَتهائى قائِل شُدَن عَلَیِه
 Verhängnis; پاگیر
 - zum Verhängnis werden; چیزی پاگیر می شَوَد
 verhängnisvoll;
@@ -695,12 +695,12 @@ verharzen; صَمغ زَدَن
 verhasst; مَبغوض
 verhätschelt; ناز پَروَرده
 verhauen; کُتَک زَدَن
-- verhauen werden; کُتَک خوردَن
+- verhaut werden; کُتَک خوردَن
 verheerend;
 - verheerende Wirkung; اَثَر ِ شوم ، ـ خانِمانسوز
-verhehlen;
+verhehlen; پِنهان کَردَن
 - jem. etwas verhehlen; از کِسى مَخفى داشتَن
-verheilen (z.B. Haut); زَخم ) پوسته بَسته )
+verheilen; جوش خوردَن، اِلتِهام یافتَن
 verheilt; مُلتَحِم
 verheimlichen;  .پِنهان کَردَن، مَخفى ک.، روپوشى ک
 - es läßt s. vor euch nicht verheimlichen; و از شُما چه پِنهان
@@ -708,7 +708,7 @@ Verheimlichung; کِتمان، روپوشى
 verheiraten; شوهَر کَردَن، زَن گِرِفتَن
 - seine Tochter an ... verheiraten; دُختَرَش را به عَقد ِ کِسى دَر آوَردَن، شوهَر کَردَن
 verheiratet; مُتأهِل
-- sie sollte verheiratet werden mit ..; او بايَد عَقد به فِلان کِس بِشَوَد
+- sie sollte verheiratet werden mit ...; او بايَد عَقد به فِلان کَس بِشَوَد
 - Mann, mit 1 Frau verheiratet; مَرد ِ يِک زَنه
 - sie war seine verheiratete Tochter; او دُختَر شوى کَردهٔ او بود
 - verheirateter Mensch; شَخص ِ تَزویج کَرده
@@ -740,7 +740,7 @@ verhüllen; پوشاندَن، پِنهان کَردَن
 verhungern; از گُرُسنِگى مُردَن
 - die letzten Tage war er nahe am Verhungern; او روزهاى ِ اَخیر با گُرُسنِگى دَست به گَریبان بود
 verhüten; پیش گیرى کَردَن
-verhütten; غال گُذاشتَن ِ ذوبى
+Verhüttung; مِتالورژی
 Verhütung; جِلوگیری
 - Empfängnisverhütung; وَسیلهٔ ضِد ِ حامِلِگى، جِلوگیرى از آبِستَنى
 Verifizierung; تَحَقُق
@@ -776,7 +776,7 @@ Verkehr; عُبور و مُرور، آمَد و شُد، رَفت و آمَد
 - Fernverkehr; اَیاب و ذَهاب ِ بَعید المُسافه، عُبور و مُرور ِ راه ِ دور
 - Ortsverkehr; عُبور و مُرور ِ مَحَلى
 - Luftverkehr; ترافیک ِ هَوائى
-- diplomatischer Verkehr; مُراوِدۀ دیپلماسى
+- diplomatischer Verkehr; مُراوِدهٔ دیپلماسى
 verkehren;
 - er verkehrt mit Studenten; او با دانِشجویان مَحشور است
 Verkehrsabkommen; موافِقَتنامهٔ راه و تَرابَرى، ـ حَمل و نَقل
@@ -811,7 +811,7 @@ verknoten; گِره زَدَن
 verkohlen; زُغال کَردَن، زُغال و نیمسوز شُدَن
 verkommen;
 - verkommener Mensch; آدَم ِ فاسِد
-- verkommene Strassen; کوچهٔ حَقَّرى
+- verkommene Strassen; کوچهٔ حَقیرى
 verkörpern; مُجَسَم کَردَن
 - s. auch in anderen Menschen verkörpern; خودرا دَر اَفراد ِ دیگَرى نیز حُلول کَردَن
 - verkörperte Offenbarung; وَحى ِ مُجَسَم
@@ -819,9 +819,10 @@ Verkörperung; تَجَسُم، مَظهَر، حُلول
 verköstigen; خوراک دادَن
 - jem., der verköstigt wird; نانخور
 verkraften; تَحَمُل کَردَن
-- etwas nicht verkraften; او نِمى تَوانَد از غَم ِ.. تَسکین بیابَد
-verkriechen; شِیخى را دیدَن
+- etwas nicht verkraften; او نِمى تَوانَد از غَم ِ... تَسکین بیابَد
+verkriechen;
 - du verkriechst dich; تو دَر لاک ِ خودَت هَستى
+verkrümmen (s. -); خَم شُدَن
 verkrümmt; کَج، اَعوَج، خَمیده
 Verkrümmung; اِعوِجاج، شِکَستِگى، پیچِش، تابیدِگى
 verkrusten; قِشر اَنداختَن
@@ -838,6 +839,7 @@ Verkürzung;
 - Verkürzung (bei einem Verfahren); عَدَم ِ اِطاله
 - Verkürzung eines Wortes (durch Auslassen); حَذف
 Verladebühne; راهروى ِ شیب دار ِ بارگیرى
+Verladen; بارگیرى
 Verlag; بُنگاه ِ نَشر، اِنتِشارات، نَشریه
 verlagern; تَغییر ِ مَحَل دادَن، اِنتِقال د
 verlangen; طَلَبیدَن
