@@ -2095,6 +2095,7 @@ Selbstmord; اِنتِحار، خودکُشى
 - Selbstmord begehen;  .خود کُشى کَردَن، خودِش را سَر به نیست ک
 - das ist politischer Selbstmord; این اِنتِحار ِ سیاسى است
 Selbstoffenbarung; اَفشاء از خود
+Selbstorganisation; خودسازِمان دَهی
 selbstredend; گونهٔ خود گُفته
 Selbststarter; آب بايَد از خود ِ چِشمه بِجوشَد
 Selbstsucht; خود غَرَضى، خود خواهى
@@ -3626,7 +3627,7 @@ Stimulierung; اَنگیزِش، تَحریک
 stinken; مُتَعَفِن بودَن، بوى ِ بَد دادَن
 - es stinkt wie im Schweinestall; بوی ِ سَگدونی می دَهَد
 stinkend; بویناک
-Stipendium; مَدَد ِ مالى، بورس
+Stipendium; (مَدَد ِ مالى، بورس ( ِ تَحصیلی
 Stirn; پیشانه، جَبین
 - Stirn runzeln;  .سِه گِره دَرهَم کِشیدَن، اَخمهارا تو هَم کَردَن، روى ِ خودرا تُرش ک
 - du brauchst nicht die Stirn zu runzeln; اَخم نَکُن

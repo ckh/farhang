@@ -141,6 +141,8 @@ Computerbegriffe;
 - bearbeiten (z.B. kopieren, verschieben); ویرایِش کردن
 - Betriebssystem (z.B. Linux); سیستِم ِ عامِل
 - Bit (Masseinheit bei Datenverarbeitung); بیت، اَرقام ِ دوتائى
+- Blog; بلاگ
+- Browser; مُرورگَر
 - Buchstabenattribute:; خُصوصیات ِ حُروف: fett حُروف ِ ضَخیم, gedehnt حُروف ِ پَهن, hochgestellt حُروف ِ بالا نِویس, kursiv حُروف ِ کَج, normal حُروف ِ مَعَمولى, Outline حُروف ِ تو خالى, schattiert حُروف ِ سایه دار, tiefgestellt حُروف ِ زیر نِویس, unterstrichen حُروف ِ زیر خَطى
 - Chat; چَت
 - Cursor; مَکان نَما
@@ -155,6 +157,7 @@ Computerbegriffe;
 - e-Mail-Adresse; رایانِشانی، نِشانی ِ پُست ِ اِلِکترونیکی
 - einloggen; وُرود به سایت
 - Einstellungen (z.B. Uhr, Farbe, etc.); تَنظیمات
+- Forum; تالار
 - Grafikprogramm; بَرنامهٔ طَراحى
 - Hardware; اَبزار ِ سَخت؛ سِفت اَبزار
 - Implementierung von Software; پیاده سازی ِ نَرم اَفزار
