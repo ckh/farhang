@@ -1618,9 +1618,10 @@ Verteidigung; مُدافِعه، دِفاع، تَدافُعی
 - Verteidigungshaltung einnehmen; حالَت ِ دِفاعى به خود گِرِفتَن
 Verteidigungskampf; جَنگ ِ تَدافُعی
 Verteidigungsminister; وَزیر ِ دِفاع
+Verteidigungsministerium; وِزارَت ِ دِفاع
 Verteidigungsstellung; موضِعى ِ مُقاوَمَت
 verteilen;  .پَخش کَردَن، تَقسیم ک
-- verteilend; قَسام
+- verteilend; قَسام، پَخش کُنَنده
 Verteiler;
 - Verteiler (Name für Gott); قَسام
 - Verteiler (z.B. Zeitung); (pl.)  (توزیع کُنَنده (توزیع کُنَندِگان)، مُوَزِع (مُوَزعِین)، مُقَسِم (مُقَسِمین
@@ -1641,7 +1642,7 @@ vertilgen; به اِتلاف رِساندَن، مَحو کَردَن
 Vertilgung; مَحو
 vertonen; آهَنگ ساختن
 vertrackt;
-- ihre Reaktion in dieser vertrackten Sache ...; واکُنِش ِ او به این توداری ... بود
+- ihre Reaktion in dieser vertrackten Sache war; واکُنِش ِ او به این توداری ... بود
 Vertrag; مُقاوِله، قَرارداد
 - Revision eines Vertrages; تَجدید ِ نَظَر دَر قَرارداد
 - Vertrag schliessen; مُنعَقِد کَردَن، قَرار دادرا بَستَن
@@ -1653,10 +1654,10 @@ vertragen;
 - schwer zu vertragen, unverdaulich; ناگُوار
 - s. vertragen mit (*: auskommen); با کِسى سُلوک کَردَن، ـ سازِش کَردَن
 vertraglich;
-- vertraglich gebunden; مُکَلَف ِ طِبق ِ قَرار داد
+- vertraglich gebunden; مُکَلَف طِبق ِ قَرار داد
 verträglich;
 - das ist gut verträglich; این سازگار است، خوش گُوار است
-Vertragsabschluss; اِنعِقاد ِ قَرارداد،
+Vertragsabschluss; اِنعِقاد ِ قَرارداد
 Vertragsbruch; پِیمانشِکَنى، نَقض ِ قَرار داد
 vertragsbrüchig; پِیمانشِکَن، ناقِض ِ قَرار داد
 - werde nicht vertragsbrüchig; زِنهار نَخور
@@ -1672,8 +1673,8 @@ Vertrauen (n); اِطمینان، يَقین، اِعتِماد، اِعتِقا
 - diejenigen, die Vertrauen haben; مُتَوَکِلان
 - er wurde von uns ins Vertrauen gezogen; او مورِد ِ وُثوق ِ ما بوده است
 vertrauensbildend;
-- vertrauensbildende Massnahmen; اِقدامات ِ اِعتِماد اَنگیز
-Vertrauensfrage;
+- vertrauensbildende Maßnahmen; اِقدامات ِ اِعتِماد اَنگیز
+Vertrauensfrage; رأى ِ اِعتِماد
 - Vertrauensfrage stellen; دَرخواست ِ رأى ِ اِعتِماد کَردَن
 Vertrauensmann; (pl.)  (ثِقِه (ثِقات)، نَدیم (نُدَما
 vertrauensselig; سَلیم ِ دِل، مَحرَمانه، صَدیق
@@ -1691,10 +1692,10 @@ vertraut; مؤانِس، مأنوس
 - mit jem. vertraut sein; با کِسی اُخت شُدَن
 - das ist uns vertraut; بَراى ِ ما مأنوس است
 - damit bin ich vertraut; به آن چیز مَسنون شُدَم
-- um damit vertraut zu werden, ..; بَراى ِ سُهولَت ِ عَمَل
+- um damit vertraut zu werden, ...; بَراى ِ سُهولَت ِ عَمَل
 - damit habe ich mich vertraut gemacht; مَن خودَم را به آن چیز مَسنون کَردَم
-- wir werden mit dem Thema vertraut gemacht; از این موضوع شِناخت ِ حاصِل کُنیم، ما را به این ... شِناسائى مى کُنَند
-- er war der Vertraute von ...; او مونِس ِ .. بود
+- wir werden mit dem Thema vertraut gemacht; از این موضوع شِناخت حاصِل کُنیم، ما را به این ... شِناسائى مى کُنَند
+- er war der Vertraute von ...; او مونِس ِ ... بود
 vertreiben;
 - die Menge vertreiben; جَمعيَت را تاراندَن، ـ پَس راندَن
 - von Haus & Hof vertreiben; از سَر ِ آب و مِلک بیرون کَردَن، از مُلک طَرد کَردَن
@@ -1704,13 +1705,13 @@ vertreiben;
 Vertreibung; تَبعید، طَرد، اِبعاد
 vertretbar (eine Sache); قابِل ِ توجیه
 vertreten;  .جانِشین بودَن، نِمايَنده ب
-- Belange vertreten; عُهده دار ِ مُصالح  ِ.. بودَن
+- Belange vertreten; عُهده دار ِ مُصالح  ِ... بودَن
 - s. die Beine vertreten; هَوا خوردَن
 Vertreter;
 - Vertreter (polit., jurist.); (pl.) وَکیل (وُکَلا
-- Arzneimittelvertreter; نَمايَندۀ دارو
-- in Vertretung; به نَمايَندِگى
+- Arzneimittelvertreter; نَمايَندهٔ دارو
 Vertretung; نَمايَندِگی
+- in Vertretung; به نَمايَندِگى
 - diplomatische Vertretung; نَمايَندِگى ِ دیپلُماتیک
 Vertrieb (in Firma); بَخش ِ فُروش
 vertrieben; مُبعِد
@@ -1727,7 +1728,7 @@ verunehren (jem. -); کِسى را بى حُرمَت کَردَن
 verunglimpfen; بَدنام کَردَن
 Verunglimpfung; بَدنامی
 verunreinigen; کَثیف کَردَن
-Verunreinigung; آلايِش، نِجاسَت، ناخالِصى
+Verunreinigung; آلايِش، نِجاسَت، ناخالِصى، کِثافَت
 verunstalten (jem. -); اَندام ِ کِسی را از ریخت اَنداختَن
 verunstaltet; از ریخت اُفتاده
 Veruntreuung; اِختِلاس، خَلسه
@@ -1738,10 +1739,10 @@ verursachen;
 - ein Chaos verursachen bei ...; کاسه کوزهٔ کِسی را به هَم زَدَن
 - das Auto fängt an, Kosten zu verursachen; ماشین دارَد بِخَرج ميُفتَد
 - sein Name verursacht Aufregung; نامَش مایهٔ تَحریک مى شَوَد
-- verursacht durch ..; به موجِب ِ..، ناشى از
+- verursacht durch ...; به موجِب ِ...، ناشى از
 verurteilen; کِسى را مَحکوم کَردَن
-- .. ihn zu verurteilen; اورا باد ِ تُهمَت گِرِفت
-- jem. zum Tode verurteilen;  .کِسى را به مَرگ مَحکوم کَردَن، کِسى را به اِعدام مَحکوم ک
+- ... ihn zu verurteilen; اورا باد ِ تُهمَت گِرِفت
+- jem. zum Tode verurteilen;  کِسى را به مَرگ مَحکوم کَردَن، کِسى را به اِعدام مَحکوم کَردَن
 - verurteilt werden; مَحکوم شُدَن
 - er verurteilt das; اینرا تَخطِئه مى کُنَد
 Verurteilter; مَحکوم
@@ -1756,7 +1757,7 @@ verwachsen;
 verwackeln; تار کَردَن
 - das Bild ist verwackelt; عَکس تار گِرِفته
 verwahrlost; به حال ِ خود واگُذاشته
-- dessen äusseres verwahrlost aussah; او که حِیکَلش به جاهِلان مى رَفت
+- dessen Äußeres verwahrlost aussah; او که حِیکَلش به جاهِلان مى رَفت
 Verwahrlosung; پوسیدِگی، خَرابی
 - Armut und Verwahrlosung; فَقر و اِدبار
 verwahren; به اَمانَت دادَن
@@ -1774,7 +1775,7 @@ verwandelt; مُبَدِل
 Verwandlung; تَبدیل، تَغییر
 verwandt; مُتَجانِس
 - mit jem. verwandt sein; با کِسى مَنسوب بودَن، ـ خویشاوَند ب.، به کِسى نِسبَت داشتَن
-- weil man mit dem Arzt nicht verwandt ist (i.S.: kann man nicht unverschleiert sein); به دَلايِل ِ نامَحرَم بودَن ِ  پِزِشک
+- weil man mit dem Arzt nicht verwandt ist (i.S.: kann man nicht unverschleiert sein); به دَلايِل ِ نامَحرَم بودَن ِ پِزِشک
 Verwandter; خویشاوَند
 - Verwandte & Bekannte; کِس و کار، اَقرَباء
 - entfernte Verwandte; خویشاوَند ِ غِیر ِ صُلبى، ـ دور
@@ -1792,7 +1793,7 @@ verweben;
 verwechseln; کِسى را عَوَضى گِرِفتَن
 - mit jem. verwechseln; با کِسى اِشتِباه گِرِفتَن
 - etwas verwechseln mit ...; چیزی را به چیز ِ دیگَر اِشتِباه کَردَن
-- ich habe sie mit .. verwechselt; آنهارا با شِکل و شَمايِل ِ فِلان تَشخیص نَدادَم، آنها با ... اِشتِباه کَردَم
+- ich habe sie mit ... verwechselt; آنهارا با شِکل و شَمايِل ِ فِلان تَشخیص نَدادَم، آنها با ... اِشتِباه کَردَم
 - ständig werden sie verwechselt; هِی با هَم اِشتِباه می شَوَند
 Verwechslung; عَوَضى
 - vielleicht liegt eine Verwechslung vor; شايَد عَوَضى دیده باشید
@@ -1803,7 +1804,7 @@ verwehren; بازداشتَن از
 - der Zugang zum Spezialisten war mir verwehrt; دَسترِسى به مُتَخَصِصان نَداشتَم
 verweichlicht; نَرم و لول
 verweigern; اِمتِناع کَردَن، سَرباز زَدَن
-- s. verweigern zu ..; چیزى را سَر باز کَردَن، از .. اِمتِناع ک.، از چیزى سَر باز زَدَن
+- s. verweigern zu ...; چیزى را سَر باز کَردَن، از ... اِمتِناع ک.، از چیزى سَر باز زَدَن
 - er verweigert den Befehl; سَر از فَرمان مى پیچَد
 - die Hälfte hast du verweigert; نِصفِش را دَریغ داشتى
 Verweigerung; رَد، اِمتِناع، خوددارى
@@ -1814,8 +1815,8 @@ Verweis;
 - Verweis, Tadel; مَلامَت
 - Verweise auf andere Verse; اِرجاعاتى به آیات ِ دیگَر
 verweisen;
-- verweisen an ..;  .به .. اِرجاع کَردَن، ـ اِشاره ک
-- verweisen aus ..; اِخراج از
+- verweisen an ...;  به ... اِرجاع کَردَن، ـ اِشاره ک، مُراجعِه کَردَن به
+- verweisen aus ...; اِخراج کَردَن از
 verwelken; پَژمُردَن، پَلاسیدَن
 - verwelkt; پَژمُرده، پَلاسیده
 verwenden; بِکار بُردَن، اِستِفاده کَردَن
@@ -1830,7 +1831,7 @@ verwickeln;
 - jem. in Widersprüche verwickeln; کِسى را به تَناقُض گوئى واداشتَن
 - sie verwickeln ihn in eine Diskussion; آنها اورا دَر بَحث گِرِفتار مى کُنَند
 - verwickelt in ...; پا دَر گِل، دامَن گیر ِ کِسى شُدَن
-- ich war so in die Dinge verwickelt, dass ..; آنقَدر گِرِفتار بودَم که
+- ich war so in die Dinge verwickelt, dass ...; آنقَدر گِرِفتار بودَم که
 - man wird in die Sache mit verwickelt; پا دَر این پَروَنده بِمیان کِشیده شَوَد
 - die Sache ist sehr verwickelt; موضوع بِسیار پیچیده است
 - in Krieg verwickelt sein; دَر گیر ِ جَنگ بودَن
@@ -1841,33 +1842,33 @@ verwirken; از دَست دادَن
 verwirklichen; تَحَقُق دادَن، به عَمَل رِساندَن، اِجرا کَردَن
 - s. verwirklichen; تَحَقُق یافتن، مُجرا و مَعمول داشتَن
 Verwirklichung; تَعمیل، تَحَقُق
-- Verwirklichung des ..; تَحَقَق بَخشیدَن ِ
-verwirren;  .سَردَر گُم شُدَن، دَستپاچه ش، گیچ ش
+- Verwirklichung des ...; ِ تَحَقَق بَخشیدَن
+verwirren;  .سَردَر گُم شُدَن، دَستپاچه ش.، گیچ ش
 - im verwirrenden Knäuel s. verfangen; دَر کَلاف ِ سَر دَر گُم گِرِفتار آمَدَن
 verwirrt; سَر گَشته، سَراسیمه
 - geistig verwirrt; مُختَل اُلشُعور
 - verwirrt werden, den Kopf verlieren; دَستپاچه شُدَن
 - verwirrt sein; گیج شُدَن
-- sei nicht verwirrt wegen ..; از این کار مُشَوَش نَباش
+- sei nicht verwirrt wegen ...; از این کار مُشَوَش نَباش
 - wir sind völlig verwirrt; ما کامِلاً مَغشوش هَستیم، ـ گیچ شُدیم
 - das hat mich sehr verwirrt; این موضوع خِیلی قُلقُلَم میداد
 - verwirrter Mensch; آدَم ِ سَر دَر گُم، آدَم ِ مُخَبَط
 Verwirrung; ضَلالَت، تَشَوُش، دَست پاچِگى، اِغتِشاش
 - Verwirrung stiften; موش دَوانى کَردَن
 - jem. in Verwirrung bringen; کِسى را به حِیرَت فُرو بُردَن، ـ بَر اَنداختَن
-- Verwirrung stiften und ausnutzen; آب را گِِل آلود کَردَن، آشُفتَن ِ کاری ِ سود خویش را : آب را گِل آلود می کُنَد ماهی  بِگیرَد
+- Verwirrung stiften und ausnutzen; آب را گِل آلود می کُنَد ماهی  بِگیرَد
 verwittert; هَوازَده
 Verwitterung; هَوازَدِگى
 verwitwet; بیوه شُده
-- sie ist verwitwet; او پاى ِ تو بیوه نِشَسته
+- sie ist verwitwet; او پاى تو بیوه نِشَسته
 verwöhnen; نُنُر کَردَن
 verwöhnt; ناز پَروَرده، نُنُر
 Verwöhnung; نُنُرى
 verwunden;  .زَخمی کَردَن، مَجروح ک
-- verwundet; جَراحى، مَجروح، ریش، زَخمی
+- verwundet; جَراحى، مَجروح، زَخمی
 verwundern (s. -); تَعجُب کَردَن
 - es verwundert mich; تَعجُب مى کُنَم، شاخَم دَر مى آيَد
-verwurzeln; ریشه دُواندَن، ـ گِرِفتَن، ـ زَدَن
+verwurzeln; ریشه دَواندَن، ـ گِرِفتَن، ـ زَدَن
 - das ist tief in ihm verwurzelt; این دَر او عَریق است، ـ ریشه دَوانیده است
 - er ist verwurzelt in seiner Kultur; او پایبَند ِ فَرهَنگَش است
 Verwüstung; تَخریب، ویرانى
@@ -1879,8 +1880,9 @@ verzagen; مأیوس شُدَن
 verzahnen; دَندانه دار کَردَن
 Verzahnung; وابَستِگى ِ مُتَقابِل
 Verzehr; مَصرَف، صَرف
+verzehren;
 - verzehrendes Feuer; آتَش ِ سوزنده
-- er verzehrt s. vor Lust; دِلِش بَراى ِ .. غُنج مى زَنَد
+- er verzehrt s. vor Lust; دِلِش بَراى ِ ... غُنج مى زَنَد
 verzeichnen;
 - 100 % Erfolg verzeichnen; صَد دَر صَد مُوَفَقيَت را به ثَبت رِساندَن
 Verzeichnis; فِهرِست
@@ -1901,8 +1903,9 @@ verziehen;
 - verziehen, entschuldigt; مَعَذور
 - s. verziehen, krümmen; خَم شُدَن
 - das Kind verziehen; بَچه را بَد تَربيَت کَردَن
-- die Miene verziehen; قیافه گِرِفتَن
 - verzogenes Kind; بچهٔ نُنُر، ـ ناز پَروَر
+- die Miene verziehen; قیافه گِرِفتَن
+- falls verzogen, bitte an Absender zurück; دَر صورَت ِ نَقل ِ مَکان لُطفاً به آدرِس فِرِستَنده پَس بِفِرِستید
 verzieren; تَزئین کَردَن، زینَت دادَن
 - verzierter Gürtel; کَمَربَند ِ طَراز، ـ مُنَقَش
 - mit Edelstein verzierter Kopf der Wasserpfeife; سَر ِ قَلیان ِ مُرَصَح
@@ -1911,8 +1914,6 @@ Verzinkerei; کارگاه ِ آبکارى
 verzinsen;  .تَنزیل دادَن، بَهره د
 - verzinsliches Darlehen; قَرض ِ فَرعى، ـ با نُزول
 Verzinsung; تَنزیل، بَهرهٔ بانکى
-verzogen;
-- falls verzogen, bitte an Absender zurück; دَر صورَت ِ نَقل ِ مَکان لُطفاً به آدرِس فِرِستَنده پَس بِفِرِستید
 verzögern;  .به تَعویق اَنداختَن، مُعَطَل کَردَن، مُماطِله ک.، دِرَنگ ک
 - eine Entscheidung verzögern; تَصمیم را تَعویق اَنداختَن
 - die Sache verzögert s.; این چیز به تَعویق مى اُفتَد
@@ -1921,7 +1922,7 @@ Verzögerung; تَعویق، مُعَطَلى، مماطِله، تَسویف، 
 - Verzögerung in der Arbeit; تَعَلُل دَر کار
 Verzögerungsrelais; رِلهٔ تأخیرى
 Verzögerungstaktik; تاکتیک ِ مُماطِله
-verzollen; عَوارِض ِ گُمرِکی پَرداختَن
+verzollen; عَوارِض ِ گُمرُکی پَرداختَن
 - haben Sie etwas zu verzollen?; چیزى که مَشمول ِ گُمرُک شَوَد دارید؟
 Verzug; تأخیر
 - er ist mit der Arbeit in Verzug; کارِش به تأخیر مى اُفتَد

@@ -4435,17 +4435,17 @@ ausschlagen;
 - ausschlagen (Knospen); جَوانه زَدَن
 - ausschlagen (mit Fuss);  .جُفتَک زَدَن، لَگَد ز
 ausschlaggebend; قاطِع
-ausschliessen;
-- ausschliessen (Gegensatz bilden); با هَم مُنافات داشتَن
-- jem. ausschliessen;  .کِسى را اِخراج کَردَن، ـ طَرد ک
-- andere ausschliessen; دوررا از دَست ِ هَمه گِرِفتَن، یِکه تازى کَردَن
-- einander ausschliessend (*: Ausschließung); مُتَنافى
+ausschließen;
+- ausschließen (Gegensatz bilden); با هَم مُنافات داشتَن
+- jem. ausschließen;  .کِسى را اِخراج کَردَن، ـ طَرد ک
+- andere ausschließen; دوررا از دَست ِ هَمه گِرِفتَن، یِکه تازى کَردَن
+- einander ausschließend (*: Ausschließung); مُتَنافى
 - ausgeschlossen!; غِیر ِ مُمکِن، اَبَداً
-ausschliesslich; مَحدود به، مُنحَصِر به، بِطور اِنحِصار
-Ausschliessung (Logik); تَنافى
+ausschließlich; مَحدود به، مُنحَصِر به، بِطور اِنحِصار
+Ausschließung (Logik); تَنافى
 ausschlürfen; هورت کِشیدَن
-Ausschluss; طَرد، وازَدِگى، اِنفِصال، اِخراج، طَردشُدِگى
-- mit dem Ausschluss von ..; با اِنفِصال ِ..، به ـ
+Ausschluß; طَرد، وازَدِگى، اِنفِصال، اِخراج، طَردشُدِگى
+- mit dem Ausschluß von ...; با اِنفِصال ِ...، به ـ
 ausschmücken; زینَت دادَن، آرایِش د.، آذین بَستَن
 - mit Worten ausschmücken; این قَضیه را آب و تاب دادَن
 Ausschmückung; تَزیین
@@ -4454,7 +4454,7 @@ Ausschnitt;
 - Kreisauschnitt; قَطاع دایِره
 - Zeitungsausschnitt; قِسمَت ِ بُریده روزنامه
 ausschöpfen;
-- alle Möglichkeiten ausschöpfen; .از کُل ِ اِمکانات اِستِفاده کَردَن، ـ بَهره بَردارى ک
+- alle Möglichkeiten ausschöpfen; از کُل ِ اِمکانات اِستِفاده کَردَن، ـ بَهره بَردارى کَردَن
 Ausschreibung; مُناقَسه
 - auf dem Weg der Ausschreibung; دَر راه ِ مُناقَسه
 - Stellenausschreibung; آگَهى ِ اِستِخدام
@@ -4491,75 +4491,75 @@ Aussehen; سَر و پُز، ظاهِرى، نَمایِش
 - sein Aussehen überprüfen; نِگاهى به سَر و وَضع ِ خود اَنداختَن
 - furchterregendes Aussehen; هِیبَت ِ تَرسانَنده
 - äusserlich gut aussehend; خوش ظاهِر
-aussen; خارِج، بیرون
-- aussen hui, innen pfui; دَرونَش گُل ِ لاله، بیرونَش میناله
-Aussenantenne; آنتن ِ بیرونى
-Aussenarbeit; کار دَر فَضاى ِ باز
-Aussenbordmotor; مُتُر ِ خارِج از قایِق
-Aussenfläche, Aussenschicht (ruje); لایه، رویه
-Aussenhandel; بازَرگانى ِ خارِجى
-Aussenminister; وَزیر ِ اُمور ِ خارِجى
-aussenpolitisch;
-- aussenpolitischer Sprecher; سُخَنگوى ِ خارِجه
-Aussenseite; رویه، نَما
-- Aussenseite des Gebäudes; نَماى ِ عِمارَت، بیرون ِ ساختِمان
-Aussenseiter; تَکرو
-- Wirkung des Aussenseitertums; عَمَلکِرد ِ بیرون گُذارى
-Aussenstände; دُیون، مُطالِبات
-- Aussenstände eintreiben; دُیون را بَرگَردانیدَن، مُطالِبات را ـ
-Aussenstelle; (plur.)  (شُعبه (شُعَبات
-Aussenwelt; عالَم ِ ظاهِر
+außen; خارِج، بیرون
+- außen hui, innen pfui; دَرونَش گُل ِ لاله، بیرونَش میناله
+Außenantenne; آنتن ِ بیرونى
+Außenarbeit; کار دَر فَضاى ِ باز
+Außenbordmotor; مُتُر ِ خارِج از قایِق
+Außenfläche, Außenschicht (ruje); لایه، رویه
+Außenhandel; بازَرگانى ِ خارِجى
+Außenminister; وَزیر ِ اُمور ِ خارِجى
+außenpolitisch;
+- außenpolitischer Sprecher; سُخَنگوى ِ خارِجه
+Außenseite; رویه، نَما
+- Außenseite des Gebäudes; نَماى ِ عِمارَت، بیرون ِ ساختِمان
+Außenseiter; تَکرو
+- Wirkung des Außenseitertums; عَمَلکِرد ِ بیرون گُذارى
+Außenstände; دُیون، مُطالِبات
+- Außenstände eintreiben; دُیون را بَرگَردانیدَن، مُطالِبات را ـ
+Außenstelle; (plur.)  (شُعبه (شُعَبات
+Außenwelt; عالَم ِ ظاهِر
 aussenden; فِرِستادَن، اِعزام کَردَن، بِراه اَنداختَن
 - Aussenden nach; اِعزام به
 Aussendung (eines Mitarbeiters); گُسیل
-ausser;
-- ausser, es sei denn; مَگر اینکه، بِجُز اینکه
-- etwas anderes, ausser; چیزى سِواى ِ آنچه
-- jem. ausser Atem bringen; کِسى را از نَفَس اَنداختَن
-- ausser Atem kommen; از نَفَس اُفتادَن
-- alle, ausser uns; هَمه بِجُز ما
-- er ist ausser Gefahr; خَطَر از سَرَش گُذَشت
-- ausser der Reihe; خارِج از نوبَت
-- er ist ausser s. geraten; از کوره دَر رَفت، به جوش آمَد، اورا کارد مى زَدى خونَش دَر نِمى آمَد
-- sie bringt alle ausser sich; او هَمه را از کوره بِدَر مى آوَرَد
-- als ich .. sah, geriet ich ausser mich; از دیدَن ِ.. از خود بیخود شُدَم
-äusser;
-- äusserer Einfluss; اَثَر ِ بیرونى
+außer;
+- außer, es sei denn; مَگر اینکه، بِجُز اینکه
+- etwas anderes, außer; چیزى سِواى ِ آنچه
+- jem. außer Atem bringen; کِسى را از نَفَس اَنداختَن
+- außer Atem kommen; از نَفَس اُفتادَن
+- alle, außer uns; هَمه بِجُز ما
+- er ist außer Gefahr; خَطَر از سَرَش گُذَشت
+- außer der Reihe; خارِج از نوبَت
+- er ist außer s. geraten; از کوره دَر رَفت، به جوش آمَد، اورا کارد مى زَدى خونَش دَر نِمى آمَد
+- sie bringt alle außer sich; او هَمه را از کوره بِدَر مى آوَرَد
+- als ich ... sah, geriet ich außer mich; از دیدَن ِ... از خود بیخود شُدَم
+äußer;
+- äußerer Einfluss; اَثَر ِ بیرونى
 ausserdem; وَنِگَهى
-Äusseres;
-- respekteinflössendes Äusseres; هِیبَت
-- ich warf einen Blick auf mein Äusseres; نِگاهی به ریخت ِ خودَم اَنداختَم
+Äußeres;
+- respekteinflössendes Äußeres; هِیبَت
+- ich warf einen Blick auf mein Äußeres; نِگاهی به ریخت ِ خودَم اَنداختَم
 - das Äußere von jem.; پَک و پُز کِسی
-aussergewöhnlich; بَر جَسته، غِیر ِ عادى، فوق اُلعاده
-- aussergewöhnliche Ausgaben; مَخارِج ِ هَنگُفت
-ausserhalb;
-- ausserhalb meines Bereiches; از حوزه مَن خارِج اَست
-Ausserkraftsetzung;
-- Ausserkraftsetzung der Veranstaltung; لَغو ِ مَعرَض ِ نَمایِش
-äusserlich;
-- äusserlich gut aussehend; خوش ظاهِر
-- sie beten Gott nur äusserlich an; آنها فَقَط به زَبان، خُدارا مى پَرَستَند
-- innerlich & äusserlich; دَر ظاهِر و باطِن
-- Äusserliches; رَنگ و رو، ظاهِر، نَما
-äussern;
-- s. äussern, dass; اِظهار دارَد که
-- seinen Wunsch öffentlich äussern; آرزوى ِ خودرا به مَنَصهٔ ظُهور رِسانیدَن
-ausserordentlich; بَر جَسته، خارِق اُلعاده، فوق اُلعاده، خارِج از قاعِده، زائِد اُلوَصف
-- ausserordentlicher Professor; اُستاد ِ بى کُرسى
-- ausserordentliches Mittel; وَسیلهٔ شِدَد ِ بى ذات
-ausserparlamentarisch; بُرون ِ پارلِمانى
-- ausserparlamentarische Opposition; اُپوزیسیون ِ بُرون ِ پارلِمانى
-aussersinnlich; فَراحِسى
-äusserst; زیاده از حَد
-- äusserste Sorgfalt; مُنتَهاى ِ دِقَت
-- mit äusserster Geschwindigkeit; با حَد ِ اَعلاى ِ سُرعَت
-- ... veranlasste ihn zur äussersten Unruhe; اورا تا سَر حَد ِ بى قَرارى کِشاند
-- aufs Äusserste; به غایَت
-- das ist das Äusserste; مُنتَهى ِ چیزى که
-- ich habe mein Äusserstes getan; مُنتَهى ِ جِدیَت ِ خودرا اَنجام دادَم
-ausserstande;
-- er ist ausserstande, ..; او رَمَق نَدارَد که، عاجِز از .. است، قادِر به .. نیست
-Äusserung; اِظهار ِ نَظَر، گُفتار، بَیان
+außergewöhnlich; بَر جَسته، غِیر ِ عادى، فوق اُلعاده
+- außergewöhnliche Ausgaben; مَخارِج ِ هَنگُفت
+außerhalb;
+- außerhalb meines Bereiches; از حوزه مَن خارِج اَست
+Außerkraftsetzung;
+- Außerkraftsetzung der Veranstaltung; لَغو ِ مَعرَض ِ نَمایِش
+äußerlich;
+- äußerlich gut aussehend; خوش ظاهِر
+- sie beten Gott nur äußerlich an; آنها فَقَط به زَبان، خُدارا مى پَرَستَند
+- innerlich & äußerlich; دَر ظاهِر و باطِن
+- Äußerliches; رَنگ و رو، ظاهِر، نَما
+äußern;
+- s. äußern, dass; اِظهار دارَد که
+- seinen Wunsch öffentlich äußern; آرزوى ِ خودرا به مَنَصهٔ ظُهور رِسانیدَن
+außerordentlich; بَر جَسته، خارِق اُلعاده، فوق اُلعاده، خارِج از قاعِده، زائِد اُلوَصف
+- außerordentlicher Professor; اُستاد ِ بى کُرسى
+- außerordentliches Mittel; وَسیلهٔ شِدَد ِ بى ذات
+außerparlamentarisch; بُرون ِ پارلِمانى
+- außerparlamentarische Opposition; اُپوزیسیون ِ بُرون ِ پارلِمانى
+außersinnlich; فَراحِسى
+äußerst; زیاده از حَد
+- äußerste Sorgfalt; مُنتَهاى ِ دِقَت
+- mit äußerster Geschwindigkeit; با حَد ِ اَعلاى ِ سُرعَت
+- ... veranlasste ihn zur äußersten Unruhe; اورا تا سَر حَد ِ بى قَرارى کِشاند
+- aufs Äußerste; به غایَت
+- das ist das Äußerste; مُنتَهى ِ چیزى که
+- ich habe mein Äußerstes getan; مُنتَهى ِ جِدیَت ِ خودرا اَنجام دادَم
+außerstande;
+- er ist außerstande, ...; او رَمَق نَدارَد که، عاجِز از ... است، قادِر به ... نیست
+Äußerung; اِظهار ِ نَظَر، گُفتار، بَیان
 aussetzen;
 - das Kind aussetzen; بَچه را سَر ِ راه گُذاشتَن، ـ به حال ِ خود گ.، ـ بیرون اَنداختَن
 - Belohnung aussetzen;  .اِنعام را مُقَرَر کَردَن، جایِزه را تَعیین ک
