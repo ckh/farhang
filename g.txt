@@ -1731,6 +1731,7 @@ glattgehen;
 - wenn alles glatt ginge, ginge es mir gut; مادامیکه اوضاع بَر وَفق ِ مُرادَم بودَند خوش بودَم، اَگَر هَمه چیز به خِیر بِگذَرَد ـ
 Glatze; طاسى، تاسی، کَچَلى
 - Glatze bekommen; کَچَل شُدَن
+- Vollglatze; کَچَل
 - der mit der Vollglatze; آن آقا تا بَنا گوش کَچَل
 Glaube; ایمان، اِعتِقاد
 glauben;

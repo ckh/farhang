@@ -1955,13 +1955,13 @@ Video; ویدِئو
 Videofilm; فیلم ِ ویدِئوئى
 Videokassette; کاسِت ِ ویدِئو
 Vieh; (pl.)  (حِیوان، ماشیه (مَواش)، بَهیمه (بَهائِم
-Viehhändler; نَخاس
+Viehhändler; نَخاس، بَهائِم فُروش
 Viehseuche; آفات ِ حِیوانى
 Viehtrieb; راه ِ گَله رو
 Viehzucht; دامپَروَرى
 viel; خِیلى، بِسیار، مُتَعَدِد، زیاد، کَثیر
 - sehr viele; مور شُمار
-- es waren sehr viele; تِعدادِشان زیاد بود، عِدهٔ زیاد بودَند
+- es waren sehr viele; تِعدادِشان زیاد بود، عِدهٔ زیادی بودَند
 - der Arbeiter ist viel zu beschäftigt. als dass ...; کارگَر پُر مَشغَله تَر از این است که
 - wir haben uns viel zu erzählen; کُلى ِ حَرف بَراى ِ گُفتَن داریم
 vieladrig; چَند رِشته اى
@@ -1971,7 +1971,7 @@ vielfach; مُتَعَدِد، چَندلا، چَندین بار
 - das Verständnis ist um ein Vielfaches leichter; دَرک ِ آن بمَراتِب آسانتَر است
 Vielfalt; تَنَوُع، خِیل
 vielfältig; مُتَنَوِع
-vielfarbig; کَثیر اُلالوان
+vielfarbig; کَثیر اُلاَلوان
 Vielfrass; پُر خور، شِکَمو
 Vielgötterei; کَثیر اُلبُتها
 Vielkant; چَندلَبه
@@ -1979,7 +1979,7 @@ vielleicht; لابُد، شايَد، اِحتِمالاً
 - ich habe das vielleicht schon mal gehört; اینرا شِنیده باشَم
 - im "Vielleicht" steckengeblieben; دَر بوتهٔ اِجمال ماندَن
 vielsagend; پُر از کِنایه
-vielstimmig; کَثیرالاصَوات
+vielstimmig; کَثیراُلاَصوات
 vier; چَهار
 - auf allen Vieren kriechen; روى ِ کَف ِ اُطاق چَهار دَست و پا راه رَفتَن
 Viereck; جزیرهٔ چهار ضِلعى، چارزاویه
@@ -1988,7 +1988,7 @@ Vierradantrieb; مُحَرَکهٔ چَهار چَرخ
 vierschrötig; چارشانه
 Viertaktmotor; موتور ِ چَهار زَمانه
 Viertel;
-- ein Viertel nach ..; يِک رُبع بَعد از
+- ein Viertel nach 5; يِک رُبع بَعد از پَنج
 - Stadtviertel; مَحَله، بَخش
 - Studentenviertel; کوی ِ دانِشجوئی
 - das ganze (Stadt-) Viertel schaute zu; دَر و هَمسایه تَماشا کَرد
@@ -2013,8 +2013,9 @@ Visier;
 - Visier (beim Gewehr); نِشانه گیر
 - etwas ins Visier nehmen; چیزى را نِشانه گِرِفتَن
 Visierkreuz; تَقاطُع ِ سیمها
-Vision; مَنظور رؤیا، رؤیا، اِلهام، وَحى
+Vision; رؤیا، اِلهام، وَحى
 - mitreissende Vision der Brüderlichkeit; رویائى ِ چِنان اِلهام اَنگیز دَربارهٔ بَرادَرى
+Visitation; بازرِسى، مُعايِنه
 Visitationsrecht; حَق ِ بازرِسى، ـ مُعايِنه
 Visite; عَیادَت، مُعايِنه
 Viskosität; اِصطِحکاک ِ داخِلى ِ مايِعات، دَرَجهٔ غَلظَت
@@ -2063,12 +2064,12 @@ Volkswirtschaft; اِقتِصاد ِ مِلى، ـ کَلان
 Volkszählung; سَرشُمارى ِ مِلى
 voll; پُر
 - restlos voll; مالامال
-- ein Koffer voll mit ..; يِک جَمِدان مَملُو از
+- ein Koffer voll mit ...; يِک جَمِدان مَملُو از
 - meine volle Konzentration; حَواس ِ خود را شِش دانگ ِ مَعطوف ِ این موضوع کَردَم
 - der Wunsch war voll da; آرِزو دَر کَمال ِ قُوَت بود
 - das muss doch nicht bis zum Rand voll sein!; این قَدر تو لَب نَباش
 - mit vollem, ganzen Verstand; با عَقل ِ تام، ـ تَمام
-- mit vollen Backen kauen; خوراک را لُپ لُپ خوردن
+- mit vollen Backen kauen; خوراک را لُپ لُپ خوردَن
 - nach einem vollen Jahr; بَعد از يِک سال تَمام
 - voller Zorn; سَرشار از خَشم
 - voll Trauer; با قَلبى ِ آکَنده از غَم و اَندوه
@@ -2079,7 +2080,7 @@ vollbesetzt;
 - in einem vollbesetzten Haus; دَر يِک خانهٔ شُلوغ
 vollbringen; اَنجام دادَن، به وُجود آوَردَن
 vollendet; خَتم شُده، مَختوم
-- .. ist vollendet; چیزى بِسَر آمَده
+- ... ist vollendet; چیزى بِسَر آمَده
 - vollendete Tatsache; اَمر ِ واقِع، عَمَل ِ اَنجام یافته
 - jem. vor vollendete Tatsachen stellen; دَر بَرابَر ِ اَمر ِ واقِع قَرار دادَن
 Völlerei; شِکَمبارِگى
@@ -2088,8 +2089,6 @@ vollführen; به سَر اَنجام رِساندَن
 Vollgas; با حَد ِ اَکثَر ِ سُرعَت
 - mehr Vollgas geben; بَر سُرعَت اَفروختَن
 vollgestopft; تو گِرِفته
-Vollglatze; کَچَل
-- der Mann da, mit der Vollglatze; آن آقا تا بَنا گوش ِ کَچَل
 Vollgummireifen; لاستیک ِ يِک تِکه
 völlig; (be-l-kol) سَر تا پا، بالکل
 volljährig; بُزُرگسال، به سِن ِ قانونى رِسیده
