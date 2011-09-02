@@ -943,6 +943,8 @@ widerspruchslos; بِدون ِ تَناقُض
 - s. widerspruchslos fügen; خودرا به خواست ِ کِسى گَردَن نِهادَن
 widerspruchsvoll; مُتَناقِض
 Widerstand; مُقاوِمَت
+- Widerstand (elektr.); مُقاوِمَت ِ اِلِکتریکی
+- Vorwiderstand; مُقاوِمَت ِ سِرى ِ پیش بَند
 widerstandsfähig;
 - widerstandsfähige Naturen; طَبايِع ِ سَرکِش، ـ مُقاوِم
 Widerstandskämpfer; مُبارِز

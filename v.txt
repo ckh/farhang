@@ -2033,6 +2033,7 @@ Vizekönig; نايِب اُلسَلطَنه
 Vizemeisterschaft; نايِب ِ قَهرَمانى
 Vogel; پَرَنده
 - Vögel vertreiben; کیش کَردَن
+- er hat den Vogel abgeschossen; او بَرَنده شُده
 - Zugvogel; پَرَندهٔ مُهاجِر
 Vogelfutter; چینه، خوراک ِ طُیور
 Vogelscheuche; داهُل، مَتَرسَک، ـ خَرمَند، تَرسانَک
@@ -2126,7 +2127,7 @@ Volumen; حَجم
 voluminös; حَجیم
 von; از
 - Millionen von Menschen; میلیونها نَفَر
-- er stammt von ..; او از نَسل ِ .. است
+- er stammt von ...; او از نَسل ِ ... است
 - er kommt von Tehran; او از تِهران مى آيَد
 - ein Brief von 5 Seiten; نامه اى دَر ۵ صَفحه
 - von da an; از آن ِ بَس
@@ -2136,10 +2137,10 @@ vor;
 - vor Christus; قِبل از میلاد
 - vor dir ging ...; پیش ِ پاى ِ تو ... رَفت
 - vor den Augen der Menschen ging er raus; از پیش ِ چِشمان ِ مَردُم خارِج شُد
-- sie haben vor .. keine Achtung; بَراى ِ .. اِحتِرامى قائِل نیستَند
+- sie haben vor ... keine Achtung; بَراى ِ ... اِحتِرامى قائِل نیستَند
 - vor den erstaunten Augen aller; دَر بَرابر ِ چِشمان ِ بُهت زَدهٔ هَمه
-- die sich vor uns ..; که رویا روى ِ ما
-- jem. vor .. bringen; کِسى را به حُضور ِ فِلان آوَردَن
+- die sich vor uns ...; که رویاروى ِ ما
+- jem. vor ... bringen; کِسى را به حُضور ِ فِلان آوَردَن
 - vor Gott sein Herz ausschütten; با خُدا راز و نیاز کَردَن
 - was geht hier vor?; اینجا چه خَبَره؟
 - vor lauter Arbeit; از فَرط ِ کار
@@ -2157,8 +2158,6 @@ Voranschlag;
 - Kostenvoranschlag; تَخمین ِ مَخارج، بَرآوَرد
 vorantreiben;
 - eine Sache vorantreiben; کارى را پیش بُردَن
-Vorarbeit;
-- Vorarbeit (i.S.: Vorbereitung); کارناصاف، آمادِگى
 Vorarbeiter; پیش کار، سَر کارگَر
 voraus; از پیش
 - im voraus bezahlen; از پیش پَرداختَن
@@ -2166,7 +2165,7 @@ voraus; از پیش
 - was Gott im voraus sagte; آنچه که خُدا مُقَدَر فَرمود، ـ از پیش گُفت
 - jem. voraus gehen; پیشاپیش ِ کِسى رَفتَن
 - im voraus benötigte Note; نُمرهٔ دَرسهاى ِ پیش نیاز
-Vorausbezahlung; تَنخواه
+Vorausbezahlung; تَنخواه، پیشپَرداخت
 vorausgehen;
 - vorausgehende Menschen; اِنسانهاى ِ پیشتاز
 - ein Streit ging voraus; قَبل از ... دَعوا بود
@@ -2183,7 +2182,7 @@ Voraussetzung; فَرض، شَرط
 - unter dieser Voraussetzung; با این فَرض، به شَرط ِ اینکه
 - Voraussetzung & Schlussfolgerung; مُقَدَم و تالى
 vorauszahlen; پیش پَرداخت کَردَن
-- vorauszahlen der Miete; پیشکِرایه کَردَن
+- Vorauszahlen der Miete; پیشکِرایه کَردَن
 Vorauszahlung; پیش پَرداخت
 Vorbau; ایوان، هَشتى
 vorbauen; اِقدامات ِ اِحتیاطی کَردَن
@@ -2203,7 +2202,7 @@ vorbeifahren; رَد شُدَن، گُذَشتَن
 - vorbeifahrende Autos; ماشینهاى ِ رَهگُذَر
 vorbeikommen;
 - jem., an dem man nicht vorbeikommt; مَرد ِ بى گُذَشتى
-- hin und wieder bei .. vorbeikommen; گاهى سَرى به .. زَدَن
+- hin und wieder bei ... vorbeikommen; گاهى سَرى به ... زَدَن
 - jeder, der vorbeikam; هَر عابِر
 vorbeilassen;
 - können Sie mich bitte vorbeilassen?; اِجازه بِدَهید رَد بِشَوَم؟
@@ -2216,23 +2215,24 @@ vorbeischauen;
 vorbeiziehen;
 - an jem. vorbeiziehen (*: überholen); از کِسى پیش دَستى کَردَن
 Vorbeiziehender; رَهگُذَر
-Vorbemerkung;
+Vorbemerkung; مُقَدَمه، پیش گُفتار
 - eine kurze Vorbemerkung; يِک مُقَدَمهٔ کوتاه
 vorbereiten;  .تَدارُک دیدَن، آمادِگى کَردَن، تَهیه ک. مُهَیا ک
 - s. vorbereiten (für bestimmte Aufgabe);  .خودرا مُستَعِد کَردَن، ـ آماده ک
 - ich brauche 2 Tage, um alles vorzubereiten; دو روز بايَد مَشغول ِ تَرتیب دادَن ِ کارها باشَم
-- vorbereitende Funktion bei .. haben; تَمهید دَر چیزى داشتَن
+- vorbereitende Funktion bei ... haben; تَمهید دَر چیزى داشتَن
 Vorbereitung; تَدارُک، آمادِگى
 - ... stecken in den Vorbereitungen; دَر دَست ِ تَهیه است
 Vorbereitungsstadium; مَرحَلهٔ آمادِگى
 Vorbesprechung; جَلَسهٔ مُقَدَماتى
 vorbestellen; از قَبل سِفارِش دادَن، رِزِرو کَردَن
 vorbestraft; داراى ِ سوء پیشینه
-vorbeugen;
+vorbeugen; پیش گیری کَردَن
 - vorbeugende Massnahmen; اِقدامات ِ پیش گیرَنده
 Vorbeugungsmassnahme; پیش گیرى، جِلوگیرى
 Vorbild; خَط ِ مَشق، سَرمَشق، نِمونه
-Vorbote;
+- Jeder ist ein Vorbild, auch wenn er ein schlechtes ist; از  کِسی پُرسيدَم اَدَب از کی آموختی: از بی اَدَبان
+Vorbote; پیش دَر آمَد
 - das sind Vorboten; آنها پیش دَر آمَدَند
 vorbringen;
 - Anklagen vorbringen; اِتِهامات را وارِد کَردَن
@@ -2261,21 +2261,21 @@ voreilig; تُندرأى
 voreingenommen; روگیر، سوگیر، جانِبدار
 Voreingenommenheit; جانِبدارى، پیش داوَرى
 vorenthalten;
-- jem. etwas vorenthalten; چیزى را از کِسى دَریغ داشتَن، ـ مَحروم کَردَن، ـ مُضايِقه ک.، از دادَن چیزی به کِسی خودداری کَردَن
+- jem. etwas vorenthalten; چیزى را از کِسى دَریغ داشتَن، ـ مَحروم کَردَن، ـ مُضايِقه ک.، از دادَن ِ چیزی به کِسی خودداری کَردَن
 - jem. den Lohn vorenthalten; نان ِ کِسی را آجُر کَردَن
 - jem. nichts vorenthalten; چیزى را از کِسى مُضايِقه نَکَردَن
 - Freiheit den Menschen vorenthalten; آزادى ِ اَفرادرا دَریغ داشتَن، ـ کَردَن
 vorerst; (fi-l-hāl) فى الحال
 - vorerst nicht; فِعلاً که نَه
 vorfabriziert; پیش ساخته
-Vorfahren; آبا و اَجداد، سَلَف، اَسَلاف، پیشینیان
+Vorfahren; (pl.) آبا و اَجداد، سَلَف (اَسَلاف)، پیشینیان
 Vorfahrt; حَق ِ تَقَدُم
 Vorfall; حادِثه، اِتِفاق
 - es gab weniger Vorfälle (Unfälle) als bei ...; کَمتَر از ... سانِحه هَوائی داشت
 vorfallen; واقِع شُدَن، وُقوع یافتَن، اِتِفاق اُفتادَن
 vorfühlen; اِستِمزاج کَردَن
 vorführen;
-- einen Film vorführen; فیلم را نَمايِش دادَن، ـ نِشان د.، ـ به مَعَرَض ِ نَمايِش قَرار دادَن
+- einen Film vorführen; فیلم را نَمايِش دادَن، ـ نِشان د.، ـ به مَعَرَض ِ نَمايِش قَرار دادَن، - گُذاشتَن
 Vorführung; نَمايِش
 - der Film kommt zur Vorführung; فیلم به نَمايِش دَر مى آيَد، ـ به مَعرَض ِ نَمايِش مى گُذارَد
 Vorgabe; از قَبل تَعَیین شُده
@@ -2292,7 +2292,7 @@ vorgehen;
 - exakt vorgehen; دِقَت بِجا آوَردَن، دِقَت گِرِفتَن
 - gerichtlich gegen jem. vorgehen; به حُکم ِ مَحکَمه دَر کار ِ کِسى مُداخِله کَردَن
 - die Uhr geht vor; ساعَت جِلو مى رَوَد
-- dass, was da vor s. geht, ist wie ...; آنچه دَر چیزى روى مى دَهَد مِثل ِ
+- dass, was da vor s. geht, ist wie ...; ِ آنچه دَر چیزى روى مى دَهَد مِثل
 Vorgehen (n); اِقدام، پیشقَدَمى
 vorgeschichtlich; مَربوط به ماقَبل ِ تاریخ
 Vorgesetzter; مافوق، رَئیس
@@ -2305,6 +2305,8 @@ vorhaben; دَر صَدَد بودَن، قَصد داشتَن
 - er hat vor, ihn umzubringen; او در صَدَد ِ کُشتَنَش است، او قَصد دارَد اورا بِکُشَد
 - Forschungsvorhaben; طَرح ِ تَحقیقاتى
 Vorhalle; پیشخانه، دالان، سَرسَرا
+vorhalten;
+- jem. etwas vorhalten; به کِسی ایراد گِرِفتَن که
 Vorhalter; پُشت گیر، دَستَک
 vorhanden; موجود
 - die vorhandene Hitze; گَرماى ِ حاصِله
@@ -2313,7 +2315,7 @@ Vorhandensein; موجود، نَقد
 Vorhang; سِتار، پَرده
 - Vorhang aufziehen; پَرده را کِنار زَدَن
 - Vorhang zuziehen; پَرده را کِشیدَن
-- der Vorhang fällt; (auch allegor.) پَرده می اُفتَد
+- der Vorhang fällt (auch allegor.); پَرده می اُفتَد
 Vorhaut; غُلفه
 vorheizen; داغ کَردَن ِ قَبل، از قَبل گَرم کَردَن
 vorher; مُدَتى پیش، قَبل
@@ -2327,23 +2329,24 @@ vorherrschen; مُستولى، مُسَلَط بودَن، تَسَلُط یاف
 - die vorherrschende Theorie; تئورى ِ مُسَلَط
 - zwei vorherrschende Lehrmeinungen; دو مَکتَب ِ عُمدهٔ رايِج
 Vorherwissen; پیش دانى
-Vorhof (vom Herz); دِهلیز (ـ  ِ قَلب
-Vorhut; طَلایه، طَلیعه
+Vorhof (vom Herz); (دِهلیز (ـ  ِ قَلب
+Vorhut; طََلایه، طَلیعه
 vorig; پیشین
 - vorige Woche; هَفتهٔ قَبل
 Vorjahr; پارسال
 Vorkämpfer; پیشتاز
-Vorkasse; تَنخواه
+Vorkasse; تَنخواه، وَدیعِه
 Vorkauf;  (پیش خَرید (کَردَن
+Vorkaufsrecht; حَق ِ پیش خَرید
 Vorkehrung; اِقدام
 - notwendige Vorkehrungen treffen; تَمهیدات ِ لازِم را اَنجام دادَن، اِقدامات ِ ـ
 vorkommen; رُخ دادَن، اِتِفاق اُفتادَن، پیش آمَدَن
-- sollte es vorkommen, dass ..; اَگَر اِحیاناً ِ.. شَوَد
+- sollte es vorkommen, dass ...; اَگَر اِحیاناً ِ... شَوَد
 - es kommt oft vor, dass ...; بَسا مى شَوَد که
-- wie oft kommt es vor, dass ..; چه بَسا
+- wie oft kommt es vor, dass ...; چه بَسا
 - bei ihm kommt manchmal ein Fehler vor; گاهى از او خَطائى سَر مى زَنَد
 - das kommt in der besten Familie vor; این هَم دامَنگیر ِ خانِوادهٔ نَجیب هَم مى شَوَد
-- mir kommt es vor, als wäre es gestern gewesen, dass ..; اِنگَرى هَمین دیروز بود که
+- mir kommt es vor, als wäre es gestern gewesen, dass ...; اِنگَرى هَمین دیروز بود که
 - der Mensch kommt mir bekannt vor; این اِنسان به نَظَرَم آشِنا مى آيَد
 - sein Reden kommt ihnen komisch vor; حَرفَش به نَظَر ِ آنها مَسخَره مى آيَد
 - Trennung kommt vor; تَفرِقه می اُفتَد
@@ -2362,7 +2365,6 @@ vorlegen;
 - dem Plenum vorlegen;  .به جَلَسهٔ عُمومى اِرائه کَردَن، ـ تَقدیم ک
 - etwas einer hohen Persönlichkeit vorlegen; چیزى را دَر جَریان ِ آمال ِ شَخصیتى ِ والا نِهادَن
 - die Frage, die wir ihnen vorlegen; پُرسِشهارا که ما دَر بَرابَرِشان مى نَهائیم
-Vorleger; پارى
 Vorlegescheibe; واشِر
 vorlesen; قَرائَت کَردَن، خواندَن
 Vorleser; قارى
@@ -2414,7 +2416,7 @@ Vorschein; ظُهور
 vorschieben;
 - eine Sache vorschieben (als Ausrede); يِک چیزی را بَهانه آوَردَن
 Vorschlag; پیشنَهاد
-- die eingegangenen Vorschläge gelten ab ..; پیشنَهادات ِ رِسیده دَر تاریخ ِ .. مَفتوح است
+- die eingegangenen Vorschläge gelten ab ...; پیشنَهادات ِ رِسیده دَر تاریخ ِ ... مَفتوح است
 vorschlagen; پیشنَهاد کَردَن
 - ich habe seinen Namen vorgeschlagen; مَن اِسم ِ اورا پیشنَهاد کَردَم
 - vorgeschlagener Preis; مَبلَغ ِ پیشنَهادى
@@ -2423,7 +2425,7 @@ vorschreiben; دَستور دادَن، مُقَرَر داشتَن
 - vorgeschriebener Besuch; دیدار ِ مَحتوم
 Vorschrift; دَستور، مُقَرَرات
 - (relig.) Vorschrift; (pl.)  (فَریضه (فَرائِض
-- Dienst nach Vorschrift; خِدمَت طِبق ِ مُقَرَرات (حَد ِ اَقَل ِ لازِم
+- Dienst nach Vorschrift; (خِدمَت طِبق ِ مُقَرَرات (حَد ِ اَقَل ِ لازِم
 vorschriftsgemäss; بَر طِبق ِ قانون، ـ مُقَرَرات
 Vorschub (Technik); تَغذیه
 Vorschule; مَدرِسهٔ اِبتِدائى
@@ -2433,7 +2435,7 @@ Vorschuss; مُساعِده، پیش پَرداخت، بیعانه
 vorsehen;
 - eine Ausgabe im Etat vorsehen;  .خَرج دَر بودجه پیش بینى کَردَن، ـ تأمین ک
 - länger dauern, als vorgesehen; بیش از حَد ِ اِنتِظار به دِرازا کِشیدَن
-- die vorgesehene Zeit für die Arbeit war der ..; وَقت ِ تَعیین شُده بَرای ِ کار ... بود
+- die vorgesehene Zeit für die Arbeit war der ...; وَقت ِ تَعیین شُده بَرای ِ کار ... بود
 Vorsicht; اِحتیاط
 - aus Vorsicht; بِمَنظور ِ اِحتیاط
 - Vorsicht ist die Mutter der Porzellankiste; اِحتیاط شَرط ِ عَقل است، بَد گُمان باش دَر اَمان باش
@@ -2452,33 +2454,33 @@ Vorsitzender; رَئیس
 Vorsorge; پیش گیرى
 Vorsorgeuntersuchung (med.); مُعايِنهٔ پیشگیرانه
 Vorspeise; پیش غَذا
-Vorspiel; پیش دَر آمَد
+Vorspiel (im kulturellen Bereich); پیش دَر آمَد، پیش پَرده
 Vorsprung; آوانس، سِبقَت، جلو اَنداختَن
 - 8 Punkte Vorsprung (in Tabelle); صاحِب ِ ۸ اِمتیاز
-- jem. einen Vorsprung geben (beim Sport, u.ä.);  .به کِسى آوانس دادَن، ـ اِمتیاز د
+- jem. einen Vorsprung geben (beim Sport, u.ä.);  به کِسى آوانس دادَن، ـ اِمتیاز دادَن
 - Vorsprung (vom Berg, u.ä.); دَماغه
 - Mauervorsprung (als Ablage); رَف
-Vorstand; هِیئَت ِ اِجرائى  ِ..، هِیئَت ِ مُدیره
+Vorstand; هِیئَت ِ اِجرائى، هِیئَت ِ مُدیره
 Vorstandsvorsitzender; رَئیس ِ هِیئَت ِ مُدیره
 vorstellbar;
 - vorstellbar sein;  .مُتَصَوِر بودَن، قابِل ِ تَصَوُر ب
+- das war kaum vorstellbar; نِمى شُد فِکرِش را کَرد، حَتی فِکرِش را فِکر نِمی کَرد
 - unvorstellbar; فوق اُلتَصَوُر
-- das war kaum vorstellbar; نِمى شُد فِکرِش را کَرد
 vorstellen;
 - s. vorstellen (gegenüber jem.); خودرا مُعَرِفى کَردَن
-- sie gingen zum ... und stellten s. vor als jem., der ...; ... آنها به ... رَفتَند و آشنایی دادَند که
+- sie gingen zum ... und stellten s. vor als jem., der ...;  آنها به ... رَفتَند و آشنایی دادَند که
 - s. vorstellen, denken; اَنگاشتَن، نَقش بَندى کَردَن، تَصَوُر ک.، مُتَصَوَر بودَن
-- welches Programm stellst du dir vor?; چه برنامه ای مُتَصَوَر هَستی؟
+- welches Programm stellst du dir vor?; چه برنامه ای مُتَصَوَر هَستی؟، کُدام بَرنامه دَر نَظَر داری
 - man kann s. nicht vorstellen; تَصَوُر نِمى رَوَد
 - soll das Thema vorstellen; بايَستى مُعَرِف ِ مَطلَب باشَد
 - seinen Wunsch öffentlich vorstellen; آرِزوى ِ خودرا به مَنَصهٔ ظُهور رِسانیدَن
 - man stellt s. jem. als Leiter vor; کِسى بِعُنوان ِ رَهبَر گُمان مى رَوَد
 - stell dir vor!; به خود تَصَوُر کُن
 Vorstellung;
-- (Theater-) Vorstellung; اَجر، اَکران، صَحنه، نَمايِش
+- (Theater-) Vorstellung; اَجر، اِکران، صَحنه، نَمايِش
 - gute Vorstellung geben; مَعَرِکه کَردَن
-- hast du eine Vorstellung, wer das gemacht hat?; خیال مى کُنى کار ِ کى است؟
-- nach meiner Vorstellung hat das .. gemacht; به خیالَم کار ِ فِلان بود
+- hast du eine Vorstellung, wer das gemacht hat?; خیال مى کُنى کار ِ کى بود؟
+- nach meiner Vorstellung hat das ... gemacht; به خیالَم کار ِ فِلان بود
 Vorstoss; پیشقَدَمى
 vorstossen; راه یافتَن، پیش رَفتَن، راه ِ خودرا گُشودَن
 Vorstrafe; سوء ِ پیشینه، ـ سابِقه
@@ -2492,7 +2494,7 @@ Vorteil; مَزيَت، اِنتِفاع، مَنفعَت، سود
 Vortrag; نُطق، سُخَنرانى
 - Vortrag halten;  .نُطق کَردَن، سُخَنرانى ک
 vortragen;
-- die Meinung gegenüber .. vortragen; اَفکاررا به کِسى مَعروض داشتَن، ـ دَر میان گُذاشتَن
+- die Meinung gegenüber ... vortragen; اَفکاررا به کِسى مَعروض داشتَن، ـ دَر میان گُذاشتَن
 vortrefflich; جَمیل، عالى
 - vortrefflich aufzeigen; سامى نِشان دادَن
 - eine vortreffliche Rede halten; نُطق ِ غَرائى کَردَن
@@ -2501,8 +2503,8 @@ vorüber; گُذَشته
 vorüberfliessen; رَوان شُدَن
 vorübergehen; گُذَشتن، سِپَرى شُدَن
 vorübergehend; يِک دَمه، زود گُذَر، کوتاه مُدَت
-- das ist nur eine vorübergehende Erscheinung; این از پَدیده زود گُذَر بیش نیست
-Voruntersuchung; تَحقیق ِ مُقَدَماتى، رِسیدِگى ِ ـ، بازجوئى ِ ـ
+- das ist nur eine vorübergehende Erscheinung; این از پَدیدهٔ زود گُذَر بیش نیست
+Voruntersuchung; تَحقیق ِ مُقَدَماتى، رِسیدِگى ِ ـ، بازجوئى ِ ـ، مُعایِنهٔ اَوَلیه
 Vorurteil; پیشداوَرى، پیش فَرض
 - voller Vorurteile; پُر از سوء ِ ظَن
 - Rassenvorurteile; پیشداوَرى هاى ِ نِژادى
@@ -2521,7 +2523,6 @@ vorwärtsbringen; به پیش بُردَن
 Vorwärtsgang; دَندهٔ جِلو
 Vorwärtsschreiten; گَردِش و خِرامِش
 vorwerfen;  .نِکوهیدَن، مَلامَت کَردَن، سَرزَنِش ک، گِلایه ک
-Vorwiderstand; مُقاوِمَت ِ سِرى ِ پیش بَند
 Vorwort; پیشگُفتار، مُقَدَمه، دیباچه
 Vorwurf; تَغَيُر، مَلامَت، نِکوهِش، سَرزَنِش، گِلایه
 - Vorwurf machen; گِلِگى کَردَن
@@ -2535,7 +2536,7 @@ vorziehen;
 - vorgezogene Wahlen; اِنتِخابات ِ پیش رَس، اِنتخابات ِ قَبل از موعِد، ـ زودرَس
 Vorzug; اَرجَحيَت، تَرجیح
 - Vorzug, gute Eigenschaft; (pl.)  (مَحسَن (مَحاسِن
-- der Grund, dass Männer den Vorzug vor Frauen erhalten ist, ..; سَبَب ِ اَرجَحيَت ِ مَردها به زَنها این است که
+- der Grund, dass Männer den Vorzug vor Frauen erhalten ist, ...; سَبَب ِ اَرجَحيَت ِ مَردها به زَنها این است که
 - Vorzüge einer Ehe; مُحاسِن ِ اِزدِواج
 - Mängel & Vorzüge; مَعايِب و مُحاسِن
 vorzüglich; عالی
