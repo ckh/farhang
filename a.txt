@@ -3712,6 +3712,7 @@ aufwarten;
 aufwärts; رو به بالا
 - es geht aufwärts; به فَراز راه است، رو به تَرَقى است
 aufwecken; کِسى را بیدار کَردَن
+- aufgeweckter Mensch; آدَم از خواب ِ غِفلَت بیدار شُده، آدَمی با بَصیرَت شُده، هوشیار
 aufweichen; نَرم کَردَن، مُلایِم ساختَن
 - (mit Wasser) aufweichen; خیسانیدَن
 - aufgeweicht; خیس خورده
