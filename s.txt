@@ -3169,6 +3169,8 @@ Stand;
 - Standverkäufer; بَساطی
 Standard; مِعیار، اِستاندارد
 Standardklausel; مادهٔ مُتَحِد اُلشِکل، قید ـ
+Standarte; دِرَفش
+- Königsstandarte (zur Zeit der Sassaniden); دِرَفش ِ کاویانی
 Ständer; پایه
 - Eisenständer; آهَن پایه
 - Fahrradständer; جَک
