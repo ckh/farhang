@@ -139,7 +139,7 @@ währenddessen; دَر این بِین، دَر این فاصِله
 Wahrhaftigkeit; صِداقَت، راستى
 Wahrheit; حَقیقَت، واقِعيَت، راستى
 - nur die Hälfte der Wahrheit; کاسه زیر ِ نیم کاسه است
-- Wahrheit ist bitter; اُلحَق مُر
+- Wahrheit ist bitter; اُلحَق مُر است
 - Sag die Wahrheit; راستا حُسيِنى بِگو، راستى اش را بِگو، راست بِگو
 - Konsistenz als Wahrheitskriterium (philos.); اِثبات پذیرى
 wahrheitsgemäss; اِنصافاً، حَقیقَتاً
@@ -196,6 +196,7 @@ Wand; دیوار
 - einlagige Wand (entspricht 1 Stein); تیغه، دیوار ِ يِک لایه
 - spanische Wand; پَردهٔ مُتَحَرِک
 - er redet gegen die Wand; حَرفِش تأثیر نَدارَد
+- Wände haben Ohren; پيش ِ ديوار آنچه گويی هوش دار تا نَباشَد دَر پَس ِ ديوار موش
 - Trennwand; جِدار
 - Zylinderwand; آستَر ِ سیلَندر
 Wandel;
@@ -289,6 +290,7 @@ warten; مُعَطَل کَردَن، پاییدَن
 - er wartete auf eine günstige Gelegenheit; او گوش خواباند
 - auf etwas vergeblich warten; چِشم ِ کِسی به دَر خُشک شُدَن
 - da darf man nicht lange warten; اینجا جاى ِ مُعَطَلى و تَردید نیست
+- man muß nur lange genug warten; پَس از قَرنی شّنبه به نوروز می اُفتَد
 - wir haben ihn lange warten lassen; ما خِیلى مُنتَظِرش گُذاشتیم، ما اورا خِیلى مُنتَظِر نِگاه کَردیم
 - wartende Menge; جَمعيَت ِ مُنتَظِر
 Wärter; نِگَهبان، مُراقِب
@@ -745,6 +747,7 @@ wenden;
 - s. gegen etwas wenden; به ضِد ِ چیزى رو تافتَن، ـ کَردَن
 - den Hemdkragen wenden; يَقه را پُشت و رو کَردَن
 - seine Schwierigkeiten haben sich zum Guten gewendet; خَرِش از پُل گُذَشت
+- an wen soll man s. wenden wenn sogar der Freund zum Feind wird; چون دوست دُشمَن است شِکايَت کُجا بِرَم
 - s. hinwenden an; رو بُردَن به
 wenig; قَلیل اُلعَدَد، کَم
 - ein wenig; اَندَک، تا حُدودى
@@ -819,6 +822,7 @@ Wert (m); اَرزِش
 - an Wert verlieren; کاهِش ِ اَرزِش داشتَن
 - Wert legen auf; اَرزِش قائِل شُدَن به
 - Ausverkauf der Werte; آب سَربالا می رَوَد قورباغه شِعر می خوانَد، بِمِزاح: نادانی فُرصَتی یافته و فَضیلَت فُروشی آغاز کَرده است
+- alles hat seinen Wert man muß ihn nur erkennen; هَر شَب شَب ِ قَدر است اَگَر قَدر بِدانی
 - Relativität der Werte; نِسبيَت ِ اَرزِشها
 - der Wert dieser Kultur; بِضاعَت ِ این فَرهَنگ
 - seinen Wert verlieren; از اِعتِبار اُفتادَن
@@ -1083,7 +1087,7 @@ wimmeln; (wul) وول زَدَن
 wimmern;  .ناله کَردَن، فِغان ک
 - vor Schmerzen wimmern; از دَرد زوزه کِشیدَن
 Wimpel; دِرَفش، پَرچَم ِ سه گانه
-Wimpern; (pl.)  (مُژه، مُژگه (مُژگان
+Wimper; (pl.)  (مُژه، مُژگه (مُژگان
 - er zuckt nicht mit der Wimper; خَم به آبروى ِ او نِمى آيَد
 - ohne mit der Wimper zu zucken; کِیکَم هَم نِمى گَزَد
 Wimperntier; مُژَکدار
@@ -1160,7 +1164,7 @@ wirken;
 - er wirkt gequält; آزُرده مى نَمايَد
 Wirkleistung; قُدرَت ِ حَقیقى، ـ مؤَثِر
 wirklich;
-- ohne wirklich ..; بى هیچ
+- ohne wirklich ...; بى هیچ
 - er ist wirklich ...; او به راستى، او واقِعاً
 - wirklich!; اِنگار نَه اِنگار
 Wirklichkeit; حَقیقَت، واقِعيَت
@@ -1179,7 +1183,7 @@ Wirkung; عَمَلکَرد، تأثیر، مَعلول
 - die Waffe zeigt keine Wirkung; اَسلَحه بَر او کارگَر نیست
 - aufeinander Wirkung haben; بَر هَم کُنِش دارَند
 - seine Wirkung testen; شَم ِ عَمَلَش را مى آزمايَد
-- unter der Wirkung von ...; بَر اَثَر ِ
+- unter der Wirkung von ...; ِ بَر اَثَر
 Wirkungsbereich; حوزهٔ اِعتِبار، مِیدان ِ فَعاليَت
 Wirkungsgrad; راندِمان، بازدِه، کارائى
 wirkungslos; کَم اَثَر، بى اَثَر
@@ -1189,7 +1193,7 @@ wirr;
 - er ist wirr im Kopf; آدَم ِ جَفَنگ است، ـ سَر دَر هَوا، ـ دَر هَم بَر هَم
 Wirren (polit.); بَلوا، آشُفتِگى
 Wirrwarr; آش دَر هَم جوش، دَر هَم بَر هَمى، بِلبِشو
-Wirsing; کَلَم ِ بروکسِل، ـ فُندُقى، ـ پیچ
+Wirsing; کَلَم ِ پیچ
 Wirt; صاحِب ِ مِیخانه
 Wirtschaft; اِقتِصاد
 - Betriebswirtschaft; اِقتِصاد ِ صَنَعتی
@@ -1203,7 +1207,7 @@ Wirtschaftshilfe; کُمَک ِ اِقتِصادى
 Wirtschaftsministerium; وِزارَت ِ اِقتِصاد
 Wirtspflanze; گیاه ِ میزبان
 wischen; لَته کِشیدَن، ـ زَدَن، پاک کَردَن
-- mit dem Tuch über .. wischen; با کُهنه روى ِ چیزى کِشیدَن
+- mit dem Tuch über ... wischen; با کُهنه روى ِ چیزى کِشیدَن
 Wischi Waschi; دَرى وَرى
 Wischlappen; لَته، کُهنه، دَستمال ِ نِظافَت
 wispern; پِچ پِچ کَردَن
@@ -1215,15 +1219,15 @@ wissen; دانِستَن
 - ohne zu wissen, warum; بى آنکه چِرايَش را بِدانَد
 - nicht mehr ein noch aus wissen; دَر کار ِ خود گیر کَردَن
 - wenn du wissen möchtest, wie es mir geht; اَگَر از حالَم چویا باشى
-- ich weiss; حَتم دارَم
+- ich weiß; حَتم دارَم
 - wie Sie wissen; از شُما چه پِنهان
-- was weiss man schon?; آدَم چِه مى دانَد؟
+- was weiß man schon?; آدَم چِه مى دانَد؟
 - was weiß ich!; چه می دانَم؟
-- wer viel weiss, von dem wird viel gefordert; هَر که بامَش بیش بَرفَش بیشتَر
-- was du nicht weisst, macht dich nicht heiss; وَقتى دیگ بَراى ِ تو نِمى جوشَد بِگُذار کلهٔ سَگ تويَش بِجوشد
-- sie sind von einer Stadt, aber ich weiss nicht welcher; آنها اَهل ِ شَهر نِمى دانَم چى هَستَند
+- wer viel weiß, von dem wird viel gefordert; هَر که بامَش بیش بَرفَش بیشتَر
+- was du nicht weißt, macht dich nicht heiß; وَقتى دیگ بَراى ِ تو نِمى جوشَد بِگُذار کلهٔ سَگ تويَش بِجوشَد
+- sie sind von einer Stadt, aber ich weiß nicht welcher; آنها اَهل ِ شَهر نِمى دانَم چى هَستَند
 Wissen (n); فَضائِل، وُقوف، عِلم، دانِش، مَعرِفَت
-- mit Wissen von ...; با وُقوف ِ
+- mit Wissen von ...; ِ با وُقوف
 - das Wissen erweitert s.; دانِش با حُدود و حَواشى پیش مى رَوَد
 - Wissen ist Macht; تَوانا بُوَد هَر که دانا بُوَد
 - Wissen verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر، دِرَخت بارَش هَرچه بیشتَر میشَوَد سَرَش پائینتَر میشَوَد
@@ -1241,10 +1245,9 @@ Witwenstand; بیوِگى
 Witwer; بیوه مَرد، مَرد ِ زَن مُرده
 Witz; مُطايِبه، فُکاهيَت، شوخى، جُک
 - sein Witz ging daneben; شوخیش نَگِرِفت
-- Witze reissen; پوز خَند زَدَن
+- Witze reißen; پوز خَند زَدَن
 Witzbold; هَزال
 witzig; فَکاهى، خَنده دار
-- witzige Bemerkung; تیکه وَرانى، ـ وَرونى
 wo; کُجا
 - wo doch ...; چِرا که
 - wo ist sie? (popul.); کوشِش؟
@@ -1260,7 +1263,7 @@ Wöchnerin; زن ِ زائو، زائو
 - ängstliche Wöchnerin, "böser" Blick; زائو ِ تَرسان
 wodurch;
 - wodurch kommt das?; به چه وَسیله این چیزها دَر مى آيَد؟، چِرا اینطورى مى شَوَد؟
-- wodurch ich ...; که به موجِب ِ آن مَن
+- wodurch ich ...; ... که به موجِب ِ آن مَن
 Woge; موج
 - eine Woge der Freude durchströmte mich; موجى از شادى توى ِ دِلَم دَوید
 wogen (Wellen); دَر طَلاطمُ بودَن
@@ -1293,6 +1296,7 @@ Wohlfahrt; اَنجُمَن ِ خِیریه، رِفاه
 Wohlfahrtsstaat; دولَت ِ رِفاه
 wohlfühlen (s. -); کِیف کَردَن
 Wohlgefallen; خُشنودى
+- er hat Wohlgefallen an ...; او از ... خوشنود است
 wohlgenährt;
 - er sieht wohlgenährt aus; او خوب خورده به نَظَر مى آيَد
 Wohlgeruch; عَطریات، بوى ِ خوش
@@ -1308,13 +1312,13 @@ wohlriechend; خوشبو، مُعَطَر
 wohlschmecken;
 - wohlschmeckendes Essen; غَذاى ِ لَذیذ، ـ خوشمَزه
 Wohlstand; تَمَوُل، اِفلاح، سَعادَت، رِفاه، بِهزیستى، سامان
-- Wohlstand eines Landes; عُمران
+- Wohlstand (Kultivierung) eines Landes; عُمران، آبادانی، آبادی
 - im Wohlstand lebend; مُرَفَه
 Wohlstandsgleichgewicht; تَعادُل ِ رِفاه
 Wohltat;
 - Wohltat erweisen; اِحسان کَردَن
 Wohltäter; (pl.)  (مَرد ِ خَيِر، وِلى ِ نِعمَت، نیکوکار، شَخص ِ مَنان، مُنعِم (مُنعِمین
-- s. als Wohltäter hinstellen; قیافۀ ارباب و وِلى ِ نِعمَت بِخود گِرِفتَن
+- s. als Wohltäter hinstellen; قیافهٔ ارباب و وِلى ِ نِعمَت بِخود گِرِفتَن
 wohltätig; نیکوکار
 Wohltätigkeit; خِیريَت، خِیریه
 wohltun; سَر ِ حال آوَردَن، خوبى کَردَن
@@ -1325,7 +1329,7 @@ Wohnbezirk; مَنطَقهٔ مَسکونى
 wohnen; سُکَنىٰ داشتَن، سُکونَت د.، زِندِگى کَردَن
 Wohnfläche; مَساحَت ِ خانه
 Wohngebiet; مَنطَقهٔ مَسکونى
-Wohngeld; اِعانۀ کِرایۀ مَنزِل، کُمَک ِ هَزینهٔ مَسکَن
+Wohngeld; اِعانهٔ کِرایهٔ مَنزِل، کُمَک ِ هَزینهٔ مَسکَن
 Wohngemeinschaft; سُکونَت ِ اِشتِراکى
 wohnhaft;
 - wohnhaft in ...;  ِ ساکِن
@@ -1342,6 +1346,7 @@ wölben (s. -); خَمیدَن، خَم شُدَن، بَر آمَدَن، به 
 Wölbung; خَمیدِگى، بَرآمدِگى، گُنبَد
 Wolf; گُرگ
 - Wolf im Schafspelz; مار ِ خوش خَطا و خال، گُرگى دَر لِباس ِ میش
+- Wolf bleibt Wolf; گُرگ با تَعليم و تَربيَت گوسفَند نِمی شَوَد
 Wolke; (pl.)  (اَبر، سَحابه (سَحاب
 Wolkenbruch; رَگبار
 Wolkenkratzer; ساختِمان ِ آسِمان خَراش
@@ -1349,22 +1354,23 @@ Wolle; پَشم
 - Wolle spinnen; پَشم ریسى کَردَن
 - s. in die Wolle kriegen mit ...; کَلَنجار وَر رَفتَن، با کِسى کَلَنجار رَفتَن
 - aus Wolle; پَشمین، پَشمى
-wollen;  .اِختیار کَردَن، طالِب شُدَن، خواستن، اِراده ک
-- wen wollen Sie besuchen?; دِل ِ شُما هَواى ِ چه کِسى را کرده؟
+wollen;  .اِختیار کَردَن، طالِب شُدَن، خواستَن، اِراده ک
+- wen wollen Sie besuchen?; دِل ِ شُما هَواى ِ دیدَن ِ چه کِسى را کرده؟
 - ... die mir Böses wollen; آنانیکه در صَدَد ِ آزارَم هَستَند
 - er wollte nur nach draussen; هَواى ِ بیرون به کَله اش زَده بود
 - sie wollten nach Teheran; قَرارِشان تِهران بود
-- selbst wenn er jem. besuchen wollte, ..; حَتىٰ اَگَر دِلِش هَواى ِ دیدَن کِسى را مى کََرد
+- selbst wenn er jem. besuchen wollte, ...; حَتىٰ اَگَر دِلِش هَواى ِ دیدَن کِسى را مى کََرد
 - sie wollten nicht; دِلِشان نَیامَد
 - koste es, was es wolle; به هَر قِیمَتى که شُد
 - ich will gehen; مَن مى خواهَم بِرَوَم
 - jeder macht, was er will; هَر کَس آنچه دَر نَظَرَش پَسَند مى آيَد مى کُنَد
 - er tut nur, was er will; او خَر ِ خودَش را سَوار است
 - gibt er, wem er will; به هَر که اِراده کُنَد مى بَخشَد
-- solange du willst, geben sie dir ..; تا بِخواهى چیزى بِهِِت مى دَهَند
+- solange du willst, geben sie dir ...; تا بِخواهى چیزى بِهِِت مى دَهَند
 - ohne zu wollen; بی اِختیار
 - soviel Sie wollen; تا دِلِتان بِخواهَد
 - solange du willst; تا بِخواهی
+- was du nicht willst, dass man dir tu, das füg auch keinem anderen zu; با ديگَران هَمانطور رَفتار کُن که مى خواهى آنها با تو رَفتار کُنَند
 Wollgewebe; پَشمینه، باف ِ پَشمى
 Wollhärchen; پُرز
 Wollknäuel; کَلافه
@@ -1390,18 +1396,17 @@ Wort; کَلام
 - ich halte mein Wort; سَر ِ قولَم هَستَم، به قول ِ خود عَمَل مى کُنَم
 - ein Wort ergibt das andere; حَرف حَرف مى آوَرَد
 - er sagte kein Wort mehr; او لام تا کام سُخَن نِمى گُفت
+- er sagte kein einziges Wort; او لاکَلام حَرف نِمى زَد
 - das Wort ergreifen; رِشتهٔ کَلام را به دَست گِرِفتَن
 - das Wort haben; نوبَت ِ سُخَن داشتَن
 - das letzte Wort haben; بالاى ِ حَرف ِ کِسى حَرف زَدَن
 - sein Wort brechen; زیر ِ قول ِ خود زَدَن
 - zu seinem Wort stehen; پای ِ حَرف ِ خود ایستادَن
 - s. zu Wort melden; اِجازهٔ سُخَن خواستَن
-- er sagte kein einziges Wort; او لاکَلام حَرف نِمى زَد
 - mit einem Wort; حاصِل ِ کَلام، اَلقِصه
 - mit anderen Worten; به عِبارَت ِ دیگَر
 - Geflügeltes Wort; اِرسال اُلمَثَل، به قول ِ شُما
-- ein klares Wort schafft klare Verhältnisse; جَنگ ِ اَوَل به از صُلح ِ آخَر
-- ein Wort kann mehr verletzen, als ein Schwert; زَخم ِ زَبان از زَخم ِ شَمشیر بَدتَر است
+- ein Wort kann mehr verletzen als ein Schwert; زَخم ِ زَبان از زَخم ِ شَمشیر بَدتَر است
 - ein mildes Wort überwindet Mauern;  زَبان ِ خوش مار را از سوراخ بیرون میآوَرَد، به نَرمی بَر آيَد ز ِ سوراخ مار كه تیزی و تُندی نَیايَد بِكار، به شیرین زَبانی و لُطف و خوشی تَوانی كه پیلی به موئی كِشی، به گُفتار ِ شیرین ِ جَهان دیده مَرد كُنَد آن چه نَتَوان به شَمشیر كَرد، از دُرُشتی نَايَد این جا هیچ كار هَم به نَرمی سَركُنَد از غار ِ مار
 - gewichtiges Wort (mit Würde); کَلام ِ کِبر آمیز
 - in Wort & Tat; دَر قول و فِعل
@@ -1419,7 +1424,7 @@ Wortlaut (des Vertrages); نَص ِ قَرار داد، مَتن ِ ـ
 - folgender Wortlaut; با مَتن ِ زیر
 wörtlich;
 - wörtliche Bedeutung des Textes; بَر طِبق ِ نَص ِ صَریح ِ مَتن، مَعنى ِ لُغَوى
-- wörtliche übersetzung; تَرجُمهٔتَحت اُللَفظى، تَرجُمهٔ کَلَمه به کَلَمه
+- wörtliche übersetzung; تَرجُمهٔ تَحت اُللَفظى، تَرجُمهٔ کَلَمه به کَلَمه
 wortlos; گُنگ
 Wortschatz; مَجموعهٔ واژه ها
 Wortspiel;
@@ -1431,7 +1436,7 @@ worum;
 wovor;
 - wovor hast du Angst?; از چى مى تَرسى؟
 wozu;
-- wozu brauchen wir noch ..; دیگَر مارا حاجَت به چیزى است؟، بَراى ِ چى نیاز به ... داریم؟
+- wozu brauchen wir noch ...; دیگَر مارا حاجَت به چیزى است؟، بَراى ِ چى نیاز به ... داریم؟
 Wrack (Schiff); - شِکَستهٔ کِشتى، لاشهٔ
 Wrasen; بُخارآب
 wringen; چَلاندَن
@@ -1448,7 +1453,8 @@ wühlen; اَنگولَک زَدَن، لولیدَن، زیر و رو کَرد�
 - Wühlen (im Sand); خاک بازى
 wulstig;
 - wulstige Lippen; لَبهاى ِ کُلُفت، ـ بَر آمَده
-wund; ریشناک، ریش ریش
+wund;
+- wund, verwundet; ریشناک، ریش ریش
 - das ist wund; مَجروح شُده
 - wund gerieben; خَراشیده شُده
 Wundbehandlung; مُعالِجهٔ زَخم
@@ -1457,8 +1463,8 @@ Wunde; جَراحَت، زَخم
 - alte Wunden reißen bei ... auf; داغ ِ کِسی تازه می شَوَد
 - an eine Wunde rühren; زَخمى را ریش ریش کَردَن
 Wunder; مُعجِزه، عِجاز
-- die 7 Weltwunder; عَجائِب ِ سَبعِه، ـ هَفتِگانهٔ جَهان
 - Wunder schaffend; مُعجِزه نَما، اِعجاز گونه، - بَراَنگیز
+- die 7 Weltwunder; عَجائِب ِ سَبعِه، ـ هَفتِگانهٔ جَهان
 wunderbar; عَجیب، مُعجِزه نِشان، ـ آسا، اِعجاز گونه، - بَر اَنگیز، بِسیار عالى
 - wunderbare Werke Gottes; اَعمال ِ عَجیب ِ خُدا
 Wunderkerze; شَمِع ِ جَرَقه زَن
@@ -1466,20 +1472,20 @@ Wunderkind; بَچهٔ نابِغه
 wundern (s. -); تَعَجُب کَردَن، حِیرَت ک.، چَهار چَشم شُدَن
 Wundstarrkrampf; کُزاز
 Wunsch; مايِليَت، رِغبَت، آرِزو، خواست
-- einen Wunsch erfüllen; به کام رِسانیدَن، آرِزوئى از کِسى بَر آوُرده کَردَن
+- einen Wunsch erfüllen; به کام رِسانیدَن، آرِزوئى از کِسى بَر آوَرده کَردَن
 - Haben Sie noch einen Wunsch?; فَرمايِش ِ دیگَرى دارید؟
-- auf Wunsch von ...; به دَرخواست ِ
+- auf Wunsch von ...; ِ به دَرخواست
 - unerfüllbare Wünsche hegen; دَهَن ِ کِسى چائیدَن، داغ ِ چیزى به دِل ِ کِسى ماندَن، آرِزو به دِل
 - seinen Wunsch zu Grabe tragen; حَسرَت ِ چیزی را به گور بُردَن
 - jem. den Wunsch einer hohen Persönlichkeit vorlegen; کِسى را دَر جَریان ِ آمال ِ شَخصيَتى ِ والا نِهادَن
 - ... nach deinen Wünschen verläuft; بَر وَفق ِ مُراد ِ توست
 - Wunsch(traum) hegen; آرِزو پَروَراندَن
 wünschen;
-- jem. etwas wünschen; بَراى ِ کِسى آرِزوى ِ .. کَردَن، ـ خواهان بودَن
+- jem. etwas wünschen; بَراى ِ کِسى آرِزوى ِ ... کَردَن، ـ خواهان بودَن
 - Erfolg für jem. wünschen; مُوَفَقيَت بَراى ِ کِسى مَسئَلَت کَردَن
 - wir wünschen uns von ...; ما از ... خواستاریم که
 - wie Sie wünschen; اِختیار دارید
-- dass, falls sie es wünschen, mit ..; تا دَر صورَت ِ تَمايُل با
+- dass, falls sie es wünschen, mit ...; تا دَر صورَت ِ تَمايُل با
 - überall, wo Sie wünschen; دَر هَر جا که تَمايُل دارید
 - ich wünsche mir ein Kind; حَسرَت داشتَن ِ فَرزَندى را دارَم
 - gewünschte Richtung; مَسیر ِ دلخواه
@@ -1503,16 +1509,16 @@ Würdenträger; سَرِش به تَنِش می اَرزَد
 würdevoll;
 - würdevoll, gemessen; با آرام، مُوَقِر
 - er sprach würdevoll; مُوَقِرانه سُخَنى گُفت
-- die Feier war so würdevoll, dass ..; مَراسِم ِ چِنان اُبُهَت مى نِمود که
+- die Feier war so würdevoll, dass ...; مَراسِم چِنان اُبُهَت مى نِمود که
 - er kam würdevoll; او مُوَقَر آمَد
 - würdevoll, furchterregend; مُهیب
 würdig; مُشَرَف
 - für würdig erachten; مُفتَخِر کَردَن
 - er ist der Ehrerbietung würdig; او سِزاوار ِ حُرمَت است
-- etwas, was seiner Arbeit würdig ist; چیزى که بَرازَندۀ کار ِ او باشَد، ـ که شايِستتهٔ کار ِ ـ، ـ که لايِق کار ِ ـ
+- etwas, was seiner Arbeit würdig ist; چیزى که بَرازَندهٔ کار ِ او باشَد، ـ که شايِستهٔ کار ِ ـ، ـ که لايِق کار ِ ـ
 - wenn du dich deiner Sache würdig erweist; تو اَگَر مَردى ِ عُرضه داشته باشى، اَگَر صالِحانه به حِساب بیائى
 - dessen bin ich nicht würdig; این چیز از سَر ِ مَن زیاد(ی) است
-würdigen; اَرزِش ِ چیزى را دانستن، قَدر ِ -، قَدردانى کَردَن
+würdigen; اَرزِش ِ چیزى را دانستَن، قَدر ِ -، قَدردانى کَردَن
 - er würdigte ihn keines Blickes; زیر ِ نَظَرِش نِمی آمَد
 Wurf; پَرتاب
 - Wurf (Geburt bei Tieren); زايِمان ِ حِیوانات
@@ -1540,6 +1546,7 @@ Wurzel;
 - Menschen ohne Wurzel; اَشخاصى ِ بى ریشه
 - die Wurzel ist faul; آب از سَرچِشمه گِل است،  آب از بُنه تیره است، عِیب و خَلَل دَر اَصل و بُنیان ِ اَمر است
 - Das Übel an der Wurzel packen;آب را از سَرچِشمه بايَد بَست، دَر دَفع ِ فِتنه و شَر بايَد مَنشاء و مَنبَع ِ اَصلی ِ آن را مَعلوم و مَسدود ساخت
+- die Wurzel des Übels liegt in einem selbst; کِرم ِ دِرَخت از خود ِ دِرَخت است 
 Wurzelzeichen; عَلامَت ِ رادیکال
 würzen;  .چاشنى زَدَن، اَدویه ز
 - gewürzte Rede; حَرفَش مَلیح است
@@ -1556,13 +1563,13 @@ Wüstensand; ماسهٔ کَویر
 Wut; خَشم، غِیظ
 - voller Wut; لَجَش گِرِفت ...، با غِیظ
 - Wut haben auf jem.; دِل پُرى از کِسى داشتَن
-- jem. in Wut bringen; کِسى را به غِیط آوَردَن
+- jem. in Wut bringen; کِسى را به غِیظ آوَردَن
 Wutausbruch; اوقات ِ تَلخى، خَشم
 - er unterdrückt seinen Wutausbruch; او خون ِ خودَش را مى خورَد
 wüten;
-- wüten in ..; دَر بَعضى چیزها سَر ریز کَردَن
+- wüten in ...; دَر بَعضى چیزها سَر ریز کَردَن
 wütend; خَشمگین
 - wütend werden; از جا دَر رَفتَن، دَمَق شُدَن، به خَشم آمدن، اوقات ِ کِسى تَلخ مى شَوَد
 - wütendes Tier; حِیوان ِ ژیان
 wutentbrannt;
-- wutentbrannt sagte er ..; لَج دَرآمَده گُفت، لَجِشِش گِرِفت
+- wutentbrannt sagte er ...; لَج دَرآمَده گُفت، لَجِشِش گِرِفت
