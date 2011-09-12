@@ -459,7 +459,7 @@ ziehen;
 - ziehen (z.B. Schmerz);  .تیر کِشیدَن، زوق زوق ک
 - die Kleidung über den Kopf ziehen (i.S. den Kopf zudecken); لِباس ِ خودرا بالاى ِ سَر ِ خود کَپه کَردَن
 - nach s. ziehen; به دُنبال داشتَن
-- wird weiteres nach s. ziehen; پِیگیرى ِ بیشتَرى بَراى ِ .. اَنجام دَهَند
+- wird weiteres nach s. ziehen; پِیگیرى ِ بیشتَرى بَراى ِ ... اَنجام دَهَند
 - jem. an s. ziehen; کِسی را جِلو کِشیدَن
 - Fäden ziehen (z.B. Kleber); چَسب کِش مى آيَد
 - Tee ziehen lassen; چاى دَم کِشیدَن
@@ -467,9 +467,9 @@ ziehen;
 - es zieht; باد مى آيَد
 - ihr zieht die Schlüsse, die euch genehm sind; هَرچه مايِل باشَد از خودِتان دَر مى آوَرید
 - mich zieht da nichts hin; مَن کِشِش بَراى ِ ... نَدارَم
-Ziehung (beim Lotto); قُرعه کِشى
+Ziehung (beim Lotto); قُرعِه کِشى
 Ziel;
-- Ziel, Absicht; (pl.) مَقصود، قَصد، هَدَف (اَهداف
+- Ziel, Absicht; (pl.) (مَقصود، قَصد، هَدَف (اَهداف
 - (höchstes) Ziel; غايَت
 - ein Ziel stecken;  .نَصب اُلعِین کَردَن، هَدَف گیرى ک.، هَدَف یابى ک
 - Ziel treffen; بِهَدَف زَدَن، نِشانه زَدَن
@@ -477,11 +477,10 @@ Ziel;
 - er verliess Iran mit dem Ziel Deutschland; به قَصد ِ آلمان ایران را تَرک گُفت
 - zu welchem Ziel er uns auch hinführt; او با سوق به سوى ِ چه هَدَفى مارا راهنَمائی می کُنَد
 - auf verschlungenen Wegen zum Ziel kommen; رَه بُرو بیرَه مَرو هَر چَند رَه پیچان شَوَد
-- welche finsteren Ziele sie wohl verfolgen; چه آش ِ شُله  بَراى ِ کِسى پُختَن
-- Zielort; مَقصَد
+- welche finsteren Ziele sie wohl verfolgen; چه آش ِ شُله بَراى ِ کِسى پُختَن
 zielen; نِشانه گِرِفتَن، به طَرَف ِ کِسى قَراوُل رَفتَن
 - auf etwas zielen; نِشانهٔ چیزى را گِرِفتَن
-- gezielte Indiskretion; اَفشايِ عَمدی
+- gezielte Indiskretion; اَفشای ِ عَمدی
 zielgenau; هَدَف دوز
 Zielgerade (Am Ende des Lebens); آخَر ِ خَط
 Ziellinie;
@@ -493,9 +492,9 @@ Zielort; مَقصَد
 Zielscheibe; تیر نِشانه، آماج ِ نِظامى، تیماج، آماجگاه
 - Zielscheibe der Kritik; آماج ِ اِنتِقاد
 - sie machten ihn zur Zielscheibe ihres Spottes; اورا دَر مَعرَض ِ تَمَسخُر قَرار دادَند
-ziemen (- s.); شايِسته بودَن
+ziemen (s. -); شايِسته بودَن
 - wie es s. ziemt; چِنانکه شايَد و بايَد
-- das Verhalten ziemt s. nicht für ..; رَفتار ِ زیبَندهٔ .. نیست
+- das Verhalten ziemt s. nicht für ...; رَفتار ِ زیبَندهٔ ... نیست
 - s. geziemen für jem.; (präs.) سازگار بودَن، شايِستَن (می شايَد)، شايِسته بودَن
 ziemlich; نِسبَتاً، تا اَندازه اى، تا حُدودى
 - ziemlich nützlich sein; مَقرون به صَرفه بودَن
@@ -509,7 +508,7 @@ zierlich; مَلوس، ظَریف
 Zierpalme; نَخل ِ زینَتى
 Zierrat; پیرایه، آرایه، زینَت، تَزئین
 Ziffer; (pl.)  (رَقَم (اَرقام
-Zifferblatt; صَفحهٔ ساعَتت
+Zifferblatt; صَفحهٔ ساعَت
 Zigarette; سیگار
 Zigarettenasche; خاکِستَر ِ سیگار
 Zigarettenkippe; تَه ِ سیگار
@@ -517,7 +516,7 @@ Zigeuner; کولى، غُربَتى
 Zimmer; اُطاق
 - Zimmer, wie eine Höhle; اُطاق ِ غار مانَندى
 - Zimmer aufräumen; اُطاق را جَمع و جور کَردَن
-Zimmerkollege; هَم مَنزِل
+Zimmerkollege; هَم مَنزِل، هَم اُطاق
 Zimmermann; نَجار، دَرودگَر، دَرگَر
 zimperlich; حَساس
 Zimperliese; قُبِید ِ بادام
@@ -530,8 +529,8 @@ Zinkoxyd; پَنبهٔ روى
 Zinn; قَلع
 Zinne; کُنگِره، لَبه، شُرفه
 - die Zinne des Tempels; کُنگِرهٔ مَعبَد، لَبهٔ ـ، شُرفهٔ ـ
-Zinober; دَنگ و فَنگ
-- Feiertagszinober; دَنگ و فَنگ ِ عِید
+Zinnober; دَنگ و فَنگ
+- Feiertagszinnober; دَنگ و فَنگ ِ عِید
 Zins; رِبح، تَنزیل، نُزول، سود، بَهره
 - 5% Zinsen; سود ِ ۵ دَر صَد
 - Festzins; بَهرهٔ ثابِت
@@ -543,7 +542,7 @@ Zirkel; دايِره کِش، پَرگار
 - literarischer Zirkel; مَحفَل ِ اَدَبیات
 zirkeln; مَحدود کَردَن
 Zirkulation; رَواج، جَریان
-zirkulieren;  .دَر جَریان بودَن، دَر گَردِش ب.
+zirkulieren;  .دَر جَریان بودَن، دَر گَردِش ب
 - etwas zirkulieren lassen; چیزى را دور گَرداندَن
 - zirkulierendes Kapital; سَرمایه دَر گَردِش
 Zirkus; سیرک
@@ -621,10 +620,10 @@ Zorn; خَشم، غَضَب
 - eine bittere Rede gebiert Zorn; سُخَن ِ تَلخ غِیظ را بِهَيَجان مى آوَرَد
 - einen Zorn haben; لَج کَردَن
 - der Zorn packte ihn; لَجِش گِرِفت، دامَن ِخَشمَش آتَش گِرِفت
-- im Zorn sagte er ..; لَج دَرآمَده گُفت
+- im Zorn sagte er ...; لَج دَرآمَده گُفت
 - ich konnte seinen Zornausbruch nicht fassen; مَن نِمى تَوانِستَم خُشونَتَش را باوَر کُنَم
 zornig; خَشمگین، بَر اَفروخته، مُغضَب
-- über jem. zornig sein;  .از کِسى خَشمگین شُدَن، دَر این مورِد با کِسى مُتَغَيِر بودَن، ـ قَهر ب
+- über jem. zornig sein;  از کِسى خَشمگین شُدَن، دَر این مورِد با کِسى مُتَغَيِر بودَن، ـ قَهر بودَن
 - sie wurden zornig; آنها به خَشم آمَدَند
 Zoten; پوچ دَهَن، ناسَزا، شوخى ِ لوس، هَزل، فَحاشى
 - Zoten reissen; ناسَزائى بَر زَبان آوَردَن
@@ -633,7 +632,7 @@ Zotte;
 zu (*: zur, zum);
 - 1 zu 0 (im Sport); يِک بَر صِفر
 - wir haben 2 zu 3 gespielt; عَوَض ِ دو تا گُل سه تا گُل خوردیم
-- zu Ehren der ..; به پاس ِ اِداى ِ اِحتِرام به
+- zu Ehren der ...; به پاس ِ اَداى ِ اِحتِرام به
 - zu zweit; دو نَفَره
 - 5 Eier zu 10 Cent; پَنج تا تُخم ِ مُرغ  ِ۱۰ سانتى
 - mit ihm nichts zu tun haben wollen; سَر به تَنَش نَباشَد، از او خوشِش نِمى آيَد
@@ -644,9 +643,9 @@ zu (*: zur, zum);
 - Gottes Wille war von Anfang an, den Menschen zu schaffen; خُدا از اَزَل اِراده اَش به آفَرینِش ِ بَشَر بود
 - der Laden ist zu; مَغازه تَعَطیل است، ـ بَسته است
 - der Topf ist fest zu; دیگ کیپ است
-Zubehör; لَوزِم ِ يَدَکى، مُتَعَلِقات
+Zubehör; لَوازِم ِ يَدَکى، مُتَعَلِقات
 Zuber; لاوَک، طَشت
-zubereiten; مُهَیا کَردَن، تَدارُک دیدن
+zubereiten; مُهَیا کَردَن، تَدارُک دیدَن
 Zubereitung; تَهیه ، تَدارُک
 - Zubereitung des Essens; تَهیهٔ غَذا
 zubilligen;
@@ -671,7 +670,7 @@ zucken; مُرتَعِش کَردَن
 - vor Schmerzen zucken; از دَرد تیر کِشیدَن
 zuckend; مُرتَعِش
 Zucker; شِکَر
-- Rohrzucker; قَند ِ نِیشکَر
+- Rohrzucker; قَند ِ نِیشِکَر
 - Zuckerbrot & Peitsche; شَلاق و عَلیق، چَماق و حَلوا
 Zuckerkrankheit; ذیابیطوس، بیماری ِ قَند
 Zuckerrohr; قَصَب اُلسُکر، نِیشِکَر
@@ -683,14 +682,14 @@ Zuckung; اِرتِعاش
 zudecken; پوشیدَن، پوشاندَن
 zudringlich; سَمِج، فُضول، جان فَرسا
 zuerst;
-- zuerst der .. zugewandt; نَخُست به ... روى آوَردَن، اول ـ
+- zuerst der ... zugewandt; نَخُست به ... روى آوَردَن، اول ـ
 Zufall; اِتِفاق
 zufallen;
 - Geld, das einem zufällt; پول باد آوَرده
-zufälligerweise; اِتِفاقاً، تَصادُفى، بَر حَسب ِ اِتِفاق
-- zufälligerweise kam er da vorbei; عُبورَش بِجایى اُفتاد
+zufällig; اِتِفاقاً، تَصادُفى، بَر حَسب ِ اِتِفاق
+- zufällig kam er da vorbei; عُبورَش بِجایى اُفتاد
 Zuflucht; اِلتِجاء
-- Zuflucht nehmen bei; تَمَسُک به .. کَردَن، تَوَسُل ک.، مُتَوَسِل شُدَن.، مُفَر ک.، دَست به دامَن ِ کِسى ش، با نَحَصُن به
+- Zuflucht nehmen bei; تَمَسُک به ... کَردَن، تَوَسُل ک.، مُتَوَسِل شُدَن.، مُفَر ک.، دَست به دامَن ِ کِسى شُدَن، با نَحَصُن به
 - Zuflucht suchen bei Verordnungen, s. hinter Paragraphen verstecken; تَوَسُل به مُقَرَرات بُردَن
 Zufluchtsort; تِکیه گاه، پِناگاه، مَلجاء، مأوا، مَلاذ، مَفَر
 zuflüstern; چیزى را بیخ ِ گوش ِ کِسى گُفتَن
@@ -701,7 +700,7 @@ zufrieden; راضى، قانِع، مُستَریح
 - zufrieden sein mit; مَحظوظ شُدَن از
 - nicht zufrieden sein; زیر ِ بار رَفتَن، قانِع نَشُدَن
 - zufriedenes Gesicht; چِهرهٔ بَشاش
-- bezüglich .. zufrieden sein; از .. خُرسَند بودَن
+- bezüglich ... zufrieden sein; از ... خُرسَند بودَن
 - s. mit etwas zufrieden geben; به چیزى قَناعَت کَردَن
 - wer s. mit wenigem zufrieden gibt, ist glücklich; از خوردَنى ها غِیر ِ خُنَک هیچ نَداریم، ما هیچ نَداریم و غَمى ِ هیچ نَداریم
 Zufriedenheit; اِکتِفاء، اِرضا، قَناعَت
@@ -734,19 +733,19 @@ Zug;
 - Bummelzug; قَطار ِ بَطى اُلسِیر
 - Schnellzug; قَطار ِ سَریع اُلسِیر
 - Sonderzug; قَطار ِ ویژه
-- in den letzten Zügen liegend; مَذبوحانه، دَر آستانه مَرگ بودَن
+- in den letzten Zügen liegend; مَذبوحانه، دَر آستانهٔ مَرگ بودَن
 Zugang;
 - freien Zugang haben; دَسترِسى ِ آزاد داشتَن
-- er hat Zugang zu ..; او به .. دَسترِسى حاصِل کَرد
+- er hat Zugang zu ...; او به ... دَسترِسى حاصِل کَرد
 - dass ich Zugang zum Willen Gottes finde; که به ارادهٔ خُدا دَسترِسى پِیدا کُنَم
 - ich hatte keinen Zugang zum Spezialisten; دَسترِسى به مُتَخَصِصان نَداشتَم
 - Zugang zum Meer finden; به گُذرگاه ِ دَریائى راه یافتَن
-zugänglich; در دَسترِس ِ
+zugänglich; ِ در دَسترِس
 Zugbelastung; تَنِش ِ کِشِشى
 Zugbrücke; پُل ِ کِشِشى
 zugeben;  .اِقرار کَردَن، اِعتِراف ک.، مُقِر شُدَن، اِذعان ک
 - nicht zugeben; بِروى ِ خود نِمى آوَرَد، زیر ِ بار نَرفتَن
-- wenn wir ehrlich zugeben, dass ..; اَگَر دَر واقِع مى پَذیریم که
+- wenn wir ehrlich zugeben, dass ...; اَگَر دَر واقِع مى پَذیریم که
 - seine Probleme nicht zugeben; خود را از تَک و تا نِمى اَندازَد
 zugegebenermassen; اِنصافاً
 Zugehörigkeit; تَعَلُق، اِختِصاص
@@ -773,25 +772,25 @@ zügig;
 Zugkraft; گیرائى، نیروى ِ کِشِش
 Zugmaschine; کَلهٔ ماشین، سَر ِ ـ، خودرو
 Zugochse; وَرزگاو
-Zugriff; دَسترِس
+Zugriff; دَسترِس، دَسترِسی
 zugrunde;
 - zugrunde gehen; به هَدَر رَفتَن، سَگ کُش شُدَن
 - einer Sache zugrunde liegen; زَمینهٔ چیزى بودَن
 - jem. zugrunde richten; کِسى را تَباه کَردَن، ـ ضايِع ک.، ـ بى سَر و سامان ساختَن
 Zugseil; سیم ِ بُگسِل
 zugunsten;
-- zugunsten von; به مَنفَعَت ِ..، به نَفع ِ..، بَر لَه ِ
-zugute;
-- s. zugute halten gegenüber ...; دَر بَرابَر ِ ... فَخر فُروشی کَردَن
+- zugunsten von; ... ِ به مَنفَعَت ِ...، به نَفع ِ...، بَر لَه
+zugutehalten;
+- s. zugutehalten gegenüber ...; دَر بَرابَر ِ ... فَخر فُروشی کَردَن
 Zugvogel; پَرَندهٔ مُهاجِر
 zuhalten;
-- etwas zuhalten (z.B. Telefonhörer); جِلوی ِ (دَهَنه تِلِفُن) را گِرِفتَن
+- etwas zuhalten (z.B. Telefonhörer); جِلوی ِ (دَهَنهٔ تِلِفُن) را گِرِفتَن
 Zuhälter; پا اَنداز، جاکِش
 Zuhause; وَطَن، میهَن
 - ein Zuhause gründen; سَر و سامان گِرِفتَن
 - du bist noch nicht richtig zuhause; تو کَم مَحَلی میکُنی
 zuhören; گوش (فَرا) دادَن، پاى ِ صُحبَت ِ کِسى نِشَستَن، سُخَن ِ کِسى را گوش گِرِفتَن
-- er hörte überhaupt nicht zu; گوشِش به .. بِدِهکار نَبود
+- er hörte überhaupt nicht zu; گوشِش به ... بِدِهکار نَبود
 - ich möchte, dass ihr mir gut zuhört; مى خواهَم خوب به عَرضَم تَوَجُه بِفَرمائید
 Zuhörer; (pl.)  (مُستَمِع (مُستَمِعین)، شِنَوَنده (شِنَوَندِگان
 Zuhörerschaft; مُستَمعِین
@@ -811,7 +810,7 @@ zulassen;
 - in Bezug auf jem. etwas zulassen; چیزى را نِسبَت به کِسى رَوا داشتَن
 - das Auto zulassen; جَواز ِ ماشین گِرِفتَن
 - er wird Diskriminierung nicht zulassen; تَبعیض قائِل نِمى شَوَد
-- jem. .. nicht mehr zulassen; کِسى را به حال ِ تَعلیق دَر آوَردَن
+- jem. ... nicht mehr zulassen; کِسى را به حال ِ تَعلیق دَر آوَردَن
 - das Fenster zulassen; پَنجَره را باز نَکَردَن
 zulässig; رَوا، جايِز، مُجاز
 Zulassung; پَذیرِش، اِجازه
@@ -828,13 +827,13 @@ zum;
 - zum billigen Preis; به قِیمَت ِ اَرزان
 - s. mit X zum Gespräch treffen; با فِلان به گُفتار نِشَستَن
 - Einladung zum Essen; دَعوَت به مِهمانى
-- er verkauft die .. zum doppelten Preis wie im Laden; به دو بَرابَر ِ قِیمَت ِ مَغازه ها مى فُروشَد
+- er verkauft die ... zum doppelten Preis wie im Laden; به دو بَرابَر ِ قِیمَت ِ مَغازه ها مى فُروشَد
 zumessen;
 - jem. etwas zumessen; چیزى بَراى ِ کِسى قائِل بودَن
 - Strafzumessung; تَعیین ِ مُجازات
 zumindest; حَد ِ اَقَل
 zumute;
-- wenn dir nach Spielen mit ... zumute ist; هَوَس بازی با ... به کَله ات اُفتاد
+- wenn dir nach Spielen mit ... zumute ist; هَوَس ِ بازی با ... به کَله ات اُفتاد
 zunächst; اَوَلاً، نَخُست، دَر اِبتِداء
 Zunahme; اَفزايِش
 Zündeinstellung; تَنظیم ِ سیستِم ِ جَرَقه زَنى
@@ -874,21 +873,21 @@ zuordnen; مُطابِقَت کَردَن، نِسبَت دادَن
 - zugeordnet; مُنتَسِب به
 Zuordnungsfragen; سئوالات ِ مَرجوعى
 zupfen;
-- jem. am ärmel zupfen; آستین ِ کِسى را کِشیدَن
+- jem. am Ärmel zupfen; آستین ِ کِسى را کِشیدَن
 Zupfinstrument; ساز ِ زِهى
-zuprosten;
+zuprosten; نوش ِ جان کَردَن
 - in Wirklichkeit s. zuprosten; دَر حَقیقَت نوش ِ جان ِ خود مى کُنَند
 zur;
 - jem. zur Frau nehmen; کِسى را به زَنى گِرِفتَن
 - zur Erhöhung des Nutzens; از باب ِ مَزید ِ فایده
 zurechnen;
-- ihn den .. zurechnen; اورا به .. حِساب آوَردَن
+- ihn den ... zurechnen; اورا به ... حِساب آوَردَن
 zurechtfinden;
 - s. mit etwas (jem.) zurechtfinden; با چیزی (کِسی) کِنار آمَدَن
 zurechtrücken;
-- er rückte s. auf seinem Platz zurecht; او سَر ِ جايَش وول مى خورَد
+- er rückte s. auf seinem Platz zurecht; او سَر ِ جايَش وول مى خورد
 zurechtstutzen;
-- eine überzeugung zurechtstutzen; عَقیده را اَبتَر کَردَن
+- eine Überzeugung zurechtstutzen; عَقیده را اَبتَر کَردَن
 zurechtweisen;  .مَلامَت کَردَن، سَرزَنِش ک
 Zureden; اِصرار، اِلتِماس ِ بِسیار
 zureiten (Pferd); سوغان گِرِفتَن
@@ -902,7 +901,7 @@ zurück;
 - in die Schweiz und zurück; به سؤیس و بِالعَکس
 - es gibt kein Zurück; بُرو بَرگَرد نَدارَد، بازگَشت نِمى شَوَد کََرد
 zurückbekommen; پَس گِرِفتَن
-zurückbleiben; جا ماندَن، عَقَب م
+zurückbleiben; .جا ماندَن، عَقَب م
 - diejenigen, die zurückbleiben (dableiben); آنهائى که از دیگَران جا مى مانَند
 - Sachen bleiben zurück; اَشیاء بِجا مى مانَد
 - von dem bisschen sind 3 Körbe zurückgeblieben; سه سَبَد از این تِکه پاره ها اِضافه آمَد، ـ باقى ماندَند
@@ -922,11 +921,11 @@ Zurückgehen (n); تَرَقى ِ مَعکوس
 zurückhalten;
 - jem. zurückhalten; کِسی را از چیزی دَریغ داشتَن
 - s. zurückhalten; اِمساک کَردَن، خوددارى ک.، پَرهیز ک.، خودرا نِگه داشتَن
-- s. vom Bösen zurückhalten; خودرا از بَدى باز داشتَن،  ... اِحتِراز کَردَن
+- s. vom Bösen zurückhalten; خودرا از بَدى باز داشتَن، - اِحتِراز کَردَن
 - er muss s. zurückhalten; او بايَد پا پَس کُنَد
-- Information gegenüber .. zurückhalten; رِسانه دَر مورِد ِ .. سُکوت کَردَن
+- Information gegenüber ... zurückhalten; رِسانه دَر مورِد ِ ... سُکوت کَردَن
 - die Hälfte hast du zurückgehalten; نِصفِش را دَریغ داشتى
-- eine der Strategien, die zurückgehalten wird für ..; ِ يِکى از اِستراتِژى هاى ِ باز دارَنده بَراى
+- eine der Strategien, die zurückgehalten wird für ...; ِ يِکى از اِستراتِژى هاى ِ باز دارَنده بَراى
 zurückhaltend; مَحجوب
 - zurückhaltend lachte er; مَحجوبانه خَندید
 - mit Worten zurückhaltend sein; دَر حَرف زَدَن مُلاحِظه کار بودَن
@@ -939,7 +938,7 @@ Zurückhaltung;
 zurückkaufen; باز خَرید کَردَن
 zurückkehren; مُعاوَدَت کَردَن، بازگَشت ک.، بَرگَردَن
 zurücklassen;
-- jem. in .. zurücklassen; کِسى را دَر ..  به جا گُذاشتَن
+- jem. in ... zurücklassen; کِسى را دَر ...  به جا گُذاشتَن
 - Altes zurücklassen; کُهنه هارا عَقَب گُذاشتَن، جِلو رَفتَن، - اُفتادَن
 zurücklegen;
 - zurücklegen (Wegstrecke); راه را پِیمودَن، ـ طِى کَردَن
@@ -958,29 +957,29 @@ zurückschlagen; وا زَدَن
 - zurückschrecken, zögern; دِل کَردَن
 - sie schrecken nicht zurück vor Manipulationen; آنها دِل نِمی کُنَند از دَست کاری کَردَن
 - er wüde vor einem Verbrechen nicht zurückschrecken; از اِرتِکاب به جُرم رو گَردان نَبود
-- jem., der vor nichts zurückschreckt; کِسى از سَر هیچ چیز نِمى گُذَرَد، او از هیچ کارى روگَردان نِمى شَوَد
+- jem., der vor nichts zurückschreckt; کِسى از سَر ِ هیچ چیز نِمى گُذَرَد، او از هیچ کارى روگَردان نِمى شَوَد
 zurücksenden;
 - eingegangene Manuskripte werden nicht zurückgesandt; مَقاله هاى ِ رِسیده مُستَرِد نِمى شَوَند، - بَرگَردانده نِمی شَوَند
 zurückstecken; کوتاه آمَدَن، کوتاهى کَردَن
-- er musste immer in Bezug auf .. zurückstecken; هَمواره مُقابِل ِ .. کوتاه آمَده بود
+- er musste immer in Bezug auf ... zurückstecken; هَمواره مُقابِل ِ ... کوتاه آمَده بود
 zurückstehen;
 - hinter keinem zurückstehen; از کِسى باکَمى نَداشتَن
 zurücktreten; کِناره گیرى کَردَن، اِستعِفا دادَن، عَقَب رَفتَن
 zurückverlangen; پَس گِرِفتَن
 zurückweichen; از پا نِشَستَن
 - weicht vor niemandem zurück; از هیچکُدام رو گَردان نیست
-zurückweisen;  .از چیزى اِباء کَردَن، چیزى را رَد ک.
+zurückweisen;  .از چیزى اِباء کَردَن، چیزى را رَد ک
 - einen Menschen wie ... nicht zurückweisen; بَر سینهٔ آدَمى چون ... دَست ِ رَد نَگُذاشتَن
 zurückzahlen; پَس دادَن
 - zurückzahlen, heimzahlen; حَق را به کَف دَست ِ کِسی گُذاشتَن
-zurückziehen (- s.);  .عُزلَت گِرِفتَن، مُنزَوى کَردَن، کِناره گیرى ک
+zurückziehen (s. -);  .عُزلَت گِرِفتَن، مُنزَوى کَردَن، کِناره گیرى ک
 - etwas zurückziehen; چیزى را پَس گِرِفتَن
 - er zieht s. zurück; دَست از فَعاليَت مى شويَد
 - s. zurückziehen (i.S.: s. verstecken); خودرا پَس و پَناهی قايِم کَردَن
 - er zieht s. ins Kloster zurück; دَر صومِعه مُعتَکِف مى شَوَد
 - die Frau, die s. keinen Augenblick von der Wascherei zurückziehen kann; زَنى که دَمى از رَختشوئى نِمى آسايَد
-- zurückgezogenes Plätzchen; جای ِ مَتروک
-zurüsten (- jem.); کِسى را مُجَهَز ساختن
+- zurückgezogenes Plätzchen; جای ِ مَتروک، - ِ دِنج
+zurüsten (jem. -); کِسى را مُجَهَز ساختَن
 Zusage; نَوید، جَواب ِ مُثبَت، قول
 zusammen;
 - zusammen mit; توأم با، آنها به هَمراهى ِ يِکدیگَر، به اِتِفاق ِ، هَمراه ِ، پایه پاىِ
@@ -1041,7 +1040,7 @@ zusammenlegen;
 - zusammenlegen (Geld);  .جَمع کَردَن، پَس اَنداز ک
 - zusammenlegen (Tuch); تا کَردَن، بَر چیدَن
 - er legt die Hände hinter seinem Rücken zusammen; او دَستهايَش را پُشتِش جُفت می کُنَد
-zusammennehmen (- s.); خودرا نِگَه داشتَن، خوددارى کَردَن
+zusammennehmen (s. -); خودرا نِگَه داشتَن، خوددارى کَردَن
 zusammenpacken; بَسته بَندى کَردَن
 zusammenpassen;
 - nur ein Teil würde damit zusammenpassen; فَقَط قِسمَتى از این به آن تَعریف مى خورَد
@@ -1055,7 +1054,7 @@ zusammenprallen; بِهَم خوردَن، - اُفتادَن
 zusammenpressen; چَپیدَن، به زور جا گِرِفتَن
 zusammenraufen;
 - wir müssen uns erst zusammenraufen; اَوَل بايَد به گُل و گَردَن هَم بپَریم تا راه ِ سازِش را پِیدا کُنیم
-zusammenreimen (- s.); اِفراط دَر تَفسیر کَردَن، حَرف اَندازى ک.، سوسه بَردارى ک
+zusammenreimen (s. -); اِفراط دَر تَفسیر کَردَن، حَرف اَندازى ک.، سوسه بَردارى ک
 - Gedanken zusammenreimen; خیالات را پُختَن
 zusammenreissen;
 - reiss dich zusammen; خودَت را جَمع و جور کُن
@@ -1066,7 +1065,7 @@ zusammenrufen;
 - zur Sitzung zusammenrufen; به جَلَسه مُنعَقِد کَردَن، ـ اِحَضار ک
 zusammensacken;
 - in s. zusammensacken; وارَفتَن
-zusammenschliessen (- s.); دَر هَم اِدِغام شُدَن، بِهَم مُلحَق ش.، مُتَحِد ش.، به هَم پِیوَستَن
+zusammenschliessen (s. -); دَر هَم اِدِغام شُدَن، بِهَم مُلحَق ش.، مُتَحِد ش.، به هَم پِیوَستَن
 Zusammenschluss; اِلحاق، اِتِحاد
 zusammenschreiben; پُشت ِ سَر ِ هَم نِوِشتن
 zusammensein (mit jem.); سَر ِ کله زَدَن با کِسى
@@ -1123,7 +1122,7 @@ zuschuld;
 Zuschuss; کُمَک ِ مالى
 zusenden; اِرسال کَردَن، به کِسى رِساندَن
 - zugesandter Text; مَتن ِ اِرسالى
-zusetzen (- jem.); کِسى را سَخت به سُتوه آوَردَن
+zusetzen (jem. -); کِسى را سَخت به سُتوه آوَردَن
 zuspielen;
 - sie spielen s. den Ball zu; آنها پاسکارى مى کُنَند
 Zuspitzung;
@@ -1178,7 +1177,7 @@ zutiefst;
 - eine Sache zutiefst ausloten; چیزى را غوررَسى کَردَن
 - er ist von einer Sache zutiefst überzeugt; او آدَم ِ دو آتِشه است، کَف به دَهَنَش مى آوَرَد
 - dass dies und jenes zutiefst (in keinster Weise) nicht zusammenpasst; که این و آن از بُن ِ دَندان با هَم ناسازگارَند
-zutragen (- s.); اِتِفاق اُفتادَن
+zutragen (s. -); اِتِفاق اُفتادَن
 zutrauen;
 - jem. etwas zutrauen; تَوانائى ِ اِجراى ِ این کار را دَر کِسى دیدَن
 zutreffen;
@@ -1200,7 +1199,7 @@ zuversichtlich; پُر اُمید، اُمیدوار بودَن
 zuvor;
 - zuvor muss ... gemacht werden; از اَوَل این را بايَد اَنجام داد، قَبلاً ـ
 - ein Nebel, wie selten zuvor; مِه کَم سابِقه
-zuvorkommen (- jem.); بَر کِسى پیشدَستى کَردَن، ـ پیش گِرِفتَن
+zuvorkommen (jem. -); بَر کِسى پیشدَستى کَردَن، ـ پیش گِرِفتَن
 zuvorkommend; مؤَدَب
 Zuwachs; نُمُو، رُشد
 - Zuwachs, Vermehrung; اَفزايِش
