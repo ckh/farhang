@@ -437,6 +437,8 @@ tief; عَمیق، ژَرف، گود
 - im tiefsten Winter; دَر قَعر ِ زِمِستان
 - tief liegende Augen; چِشمهاى ِ به گودى نِشَسته
 - tief sitzende Traurigkeit; اَندوه ِ خُفته
+Tief;
+- nach jedem Tief kommt ein Hoch; هَر سَرازيری يِک سَر بالايی داره 
 Tiefbau; بَناهاى ِ زیرزَمینى
 Tiefdruck; فِشار ِ جَوى ِ کَم
 Tiefe; عُمق، اَعماق، گودى، ژَرفا

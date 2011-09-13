@@ -774,6 +774,7 @@ Geld; پول
 - Er hat das dicke Geld; خَر پول است، او پول ِ کَلان دارَد
 - Geld, das einem in den Schoss fällt; گَنج است بِدون ِ رَنج، پول ِ باد آوَرده
 - leicht verdientes Geld; پول ِ کار نَکَرده
+- leicht erworbenes Geld sitzt locker; پول پِيدا کَردَن آسان است اَما نِگَهداری اَش مُشکِل است
 - Geld, das keinem gehört; پَشیز
 - wenig Geld haben; دَست و بال ِ کِسی تَنگ بودَن
 - ich muss Geld locker machen; مَن بایَد دَر ِ کیسه را شُل کُنَم
@@ -818,7 +819,7 @@ Gelegenheit; اُکازیون، فُرضَت
 - bei passender Gelegenheit; سَر ِ فُرصَت
 - als s. ihnen eine günstige Gelegenheit bot; و دو به دَستِشان اُفتاد
 - die Gelegenheit ist günstig, die Dinge liegen gut; کار و بارَش بَد نیست
-- und wenn s. die Gelegenheit bietet, sprechen wir über ..; و اَگَر دَست داد دَربارهٔ ... صُحبَت کُنیم
+- und wenn s. die Gelegenheit bietet, sprechen wir über ...; و اَگَر دَست داد دَربارهٔ ... صُحبَت کُنیم
 - die Gelegenheit ist vorbei; کار از کار گُذَشته
 gelegentlich; بنُدرَت، گاهى اوقات
 - seine gelegentliche schlechte Laune; با هَمهٔ بَد قِلِقی های ِ گاه گاهی ِ او
@@ -856,15 +857,15 @@ gellen;
 gelobt (in Bezug auf Gott); مُعَظَم
 gelten;
 - gelten lassen; پَذیرُفتَن، قَبول کَردَن، ـ شُدَن
-- das gilt auch für ..; این .. نیز صادِق است
+- das gilt auch für ...; این ... نیز صادِق است
 - das gilt für uns nicht; ما فَرق می کُنیم
 - meine Aufmerksamkeit gilt dem Echo ihrer Stimmen; چِشمَم به پَژواک ِ صِدایِشان هَست
 - das Recht, bis zum Beweis der Schuld als Unschuldiger zu gelten; حَق ِ بَرائت تا اِثبات ِ تَقصیر
 - dieser Freiheit gilt es zu begegnen; این آزادى بِجا است که با آن بَرخورد کُنیم
 - seine Liebe gilt seinem Kind; مُحَبَتَش به بَچه اش است
 - er gilt als einer von ihnen; او بِعُنوان ِ یِکى از آنها گُذَران میکُنَد، او به شُمار ِ آنها دَر میایَد
-- dieses Gesetz gilt auch bezüglich ..; این دَستور نیز دَر مورِد ِ .. صَدِق مى کُنَد
-- die eingegangenen Vorschläge gelten ab ..; پیشنَهادات ِ رِسیده دَر تاریخ ِ .. مَفتوح است
+- dieses Gesetz gilt auch bezüglich ...; این دَستور نیز دَر مورِد ِ ... صَدِق مى کُنَد
+- die eingegangenen Vorschläge gelten ab ...; پیشنَهادات ِ رِسیده دَر تاریخ ِ ... مَفتوح است
 - ein Recht geltend machen; حَقى را اِحقاق کَردَن
 - nichts geltend; مُحَقِر، تَحقیر شُدَن
 - geltendes Recht; قانون ِ مُجرى، ـ نافِذ، ـ جارى، ـ مُعتَبَر
@@ -900,7 +901,7 @@ gemeinnützig; غِیر ِ اِنتِفاعی
 - gemeinnützige Organisation; سازِمان ِ عام اُلمَنفَعِه، - غِیر ِ اِنتِفاعی
 Gemeinnützigkeit; اِنتِفاع ِ عامه
 gemeinsam; مُتَفِقاً، توأماً، هَمه با هَم، دَستِجَمیع
-- das .. gemeinsam mit ..; چیزى توأم با
+- das ... gemeinsam mit ...; چیزى توأم با
 - gemeinsam leben; هَمزیستى کَردَن
 - gemeinsam alt werden; به پای ِ هَم پیر شُدَن
 - nichts gemeinsam haben; مُغایر بودَن
@@ -1936,7 +1937,7 @@ Gold; زَر، طَلا
 - aus Gold; طَلائى، زَرین
 - Feingold; طَلاى ِ تیز آبى، ـ خالِص
 - Morgenstund hat Gold im Mund; سَحَر خیز باش تا کامرَوا گَردى
-- Es ist nicht alles Gold, was glänzt; گِردو گِرد است اما گِردى گِردو نیست، هر گِردى گِردو نیست
+- Es ist nicht alles Gold, was glänzt; گِردو گِرد است اما گِردى گِردو نیست، هر گِردى گِردو نیست، هَر دودی از کَباب نيست
 Goldfisch; ماهى ِ سُرخ
 goldig (z.B.: - Kind); بَچه شیرین است، ـ دِلرُبا است
 Goldschmied; زَرگَر

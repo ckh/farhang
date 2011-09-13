@@ -1129,6 +1129,7 @@ Schmerz; دَرد، اَلَم
 - bohrender Schmerz; دَرد ِ پیچان
 - Schmerzen erleiden; اَلَم کِشیدَن
 - vor Schmerzen zucken; از دَرد تیر کِشیدَن
+- heilsamer Schmerz; هَر دَردی را نيز دَرمان است
 schmerzen; تیر کِشیدَن، دَرد گِرِفتَن، دَرد آمَدَن، زوق زوق کِشیدَن
 - seine Füsse schmerzen; پاهايَش زوق زوق مى کِشَند
 - mit schmerzendem Fuss; با پاى ِ مُتألِم
@@ -1911,6 +1912,7 @@ Segeltuch; کَرباس
 Segeltuchschuhe; کَفشهاى ِ بَرزَنتى
 Segen; بَرَکَت
 - zum Segen von ...; به يَمن ِ کِسى
+- an Gottes Segen ist alles gelegen; هَر چه خدا خواست هَمان شُد هَر چه دِلَم خواست نَه آن شُد
 - mit Segenswünschen; با سَلام و صَلَوات
 Segment; بَخش، قَطِعه
 segmentieren; .قَطِعه قَطِعه کَردَن، بَند بَند ک
@@ -3135,6 +3137,7 @@ Stall; اِسطَبل، طَویله
 Stallmeister; آخور سالار
 Stamm;
 - Stamm (des Volkes Israels); سِبط
+- vom gleichen Stamm und trotzdem verschieden; پَنج اَنگُشت بَرادَرَند بَرابَر نيستَند
 - Baumstamm; تَنهٔ دِرَخت
 - Holzstamm; کُندهٔ دِرَخت
 - Nomadenstamm; (pl.) تیره، ایل (ایلات)، عَشیره
@@ -4190,19 +4193,19 @@ Systematik; رَده بَندى
 - lateinisch / deutsch / فارسى;
 - Beispiel; بِطور ِ مِثال
 - Regnum / Reich; فَرمانرو
-- Tierwelt; جانوَران
-- Phylum / Stamm; شاخه
-- Wirbeltiere; مُهره داران
+- Bsp: Tierwelt; جانوَران
+- Phylum / Stamm; شاخه، دَسته
+- Bsp: Wirbeltiere; مُهره داران
 - Classis / Klasse; رَده
-- Säuger; پِستانداران
+- Bsp: Säuger; پِستانداران
 - Ordo / Ordnung; راسته
-- Primaten; نَخُستیان
+- Bsp: Primaten; نَخُستیان
 - Familia / Familie; تیره، خانِواده
-- Menschenartige; اِنسان نَماها
+- Bsp: Menschenartige; اِنسان نَماها
 - Genus / Gattung; جِنس
-- Menschen; اِنسانها
-- Spezies / Art; گونه
-- Homo sapiens; اِنسان ِ بِخِرَد
+- Bsp: Menschen; اِنسانها
+- Spezies / Art; گونه، سَرده
+- Bsp: Homo sapiens; اِنسان ِ بِخِرَد
 systematisch; با نَظم و تَرتیب
 - systematisch oder un-; اِنضِباتى یا اِختیارى
 - systematische Theologie; اِلَهیات ِ اُسلوبى
