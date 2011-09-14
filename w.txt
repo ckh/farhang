@@ -1393,6 +1393,7 @@ worin;
 Workaholic; خَر ِ مَصالِح فُروشها
 Wort; کَلام
 - schöne Worte machen; لَب به گُلابه گُشودَن
+- viele Worte aber nichts dahinter; کَفشاش جُفت حَرفاش مُفت
 - ich halte mein Wort; سَر ِ قولَم هَستَم، به قول ِ خود عَمَل مى کُنَم
 - ein Wort ergibt das andere; حَرف حَرف مى آوَرَد
 - er sagte kein Wort mehr; او لام تا کام سُخَن نِمى گُفت

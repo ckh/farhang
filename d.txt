@@ -459,10 +459,10 @@ dengeln;
 - die Sense dengeln; داس ِ دَست ِ دِرازرا با چَکُش صاف و تیز کَردَن
 denkbar; قابِل ِ تَصَوُر
 denken;
-- sie denken über nichts anderes, ausser ..; فِکر و ذِکر نَدارَند مَگَر
+- sie denken über nichts anderes, ausser ...; فِکر و ذِکر نَدارَند مَگَر
 - ich mußte an das Geld denken; به صَرافَت ِ پول اُفتادَم
 - sie denken nicht bis morgen; مَغزِشان تو دَستِشان است
-- man denkt s., dass ..; چِنین مى اِنگارَد که  
+- man denkt s., dass ...; چِنین مى اِنگارَد که  
 - der Mensch denkt, Gott lenkt; از اِنسان حَرِکَت از خُدا بَرِکَت
 - denken wir uns, dass ...; گیریم، فَرض کنیم، اَنگار کنیم
 - könnte man s. nicht denken; آیا چِنین نِمى تَوان اَنگاشت، ـ خیال کرد
@@ -478,7 +478,8 @@ denken;
 - was denkst du nur?; چه خیالِت است؟
 - denk mal darüber nach (popul.); خوب فِکرِشو بِکُنى
 - wie er so dasitzt, sieht es aus, als ob er nicht an Schlaf denke; همچون راحَت مینِشینَد که اِنگار خیال ِ خواب نَدارَد
-- nach 20 Jahren denkst du wieder daran, dass du .. bist; تو بَعد از ۲۰ سال به صَرافَت اُفتادى که .. هَستى
+- jeder denkt an sich zuerst; گُربه بَرای ِ رِضای ِ صاحِبِش موش نِمی گیرَد
+- nach 20 Jahren denkst du wieder daran, dass du ... bist; تو بَعد از ۲۰ سال به صَرافَت اُفتادى که ... هَستى
 Denken (n); فِکر
 - Art & Weise des Denkens; ثَبت ِ فِکر
 - das ganze Denken & Trachten ist ..; تَقَلاى ِ تو تَقَلاى ِ چیزى بودَن
@@ -990,7 +991,7 @@ doppelt; مُثَنىٰ، مُضاعِف، دو بَرابَر
 - seinen Reichtum verdoppeln; ثِروَت را دو بَرابَر ثِروَت ِ قَبلى اش رِساندَن
 Doppelzüngler; سالوس، دورو
 Dorf; (tadj.) قِشلاق)، روستا، دِه، قَریه)
-- das sind böhmische Dörfer; هَمه اش هَم دَر بارهٔ اِسرار ِ عِلم ِ کيميا و ليميا است
+- das sind böhmische Dörfer; هَمه اش هَم دَر بارهٔ اِسرار ِ عِلم ِ کیمیا و لیمیا است
 Dorfchef; کَدخُدا، دِهبان، مُتَصَدى ِ اُمور ِدِه
 Dörfler; روستائى، اَهل ِ دِه، دِهنِشین
 Dorfregion; دِهِستان

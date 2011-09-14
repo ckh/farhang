@@ -86,7 +86,7 @@ Pappel; دِرَخت ِ تَبریزى، خَدَنگ
 - aufrecht stehen wie eine Pappel; خَدَنگ شُدَن
 pappig; لَزِج، جَسبناک
 Papst; پاپ
-- er ist päpstlicher als der Papst; او بیش از عُرف عابِد شُده است، آب را آب می کِشَد، سَخت پَرهیز و اِحتیاط دَر اُمور ِ صِِحی می کُنَد
+- er ist päpstlicher als der Papst; او بیش از عُرف عابِد شُده است، آب را آب می کِشَد، سَخت پَرهیز و اِحتیاط دَر اُمور ِ صِِحی می کُنَد، کاسهٔ داغ تَر از آش
 Papsttum; قَلَمرو ِ پاپ
 Papyrus; پاپیروس
 - Handschriften aus Papyrus; دَستخَطهاى ِ پاپیروسى
@@ -1101,6 +1101,7 @@ Probezeit; دورهٔ آزمايِشى
 probieren; آزمايِش کَردَن
 - probieren, kosten; چِشیدَن
 Problem; مَسئَله، مُشکِل
+- ein Problem am Hals haben; گاوِش زاييده
 - ich habe ein Problem; مَن گیر اُفتادَم، ـ گیر شُدَم
 - ich habe Probleme bekommen; پِدَرَم دَر آمَد
 - der Zirkus hatte Probleme; پِدَر ِ سیرک دَر آمَد

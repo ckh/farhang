@@ -2773,15 +2773,16 @@ Art;
 - Art, Stil; اُسلوب، سَبک
 - Art (nur in Zusammensetzungen gebraucht); (ma- ab) مآب
 - auf die europäische Art; فَرهَنگى مآب
-- diese Art von ..; ... ِ به این قَبیل
+- diese Art von ...; ... ِ به این قَبیل
 - von dieser Art; از این دَست، بِدین سان
 - in der Art & Weise; مِنوال، قِسم
 - er macht das nur auf eine Art & Weise; او فَقَط دَر یِک صورَت این کاررا می کُنَد
+- jedes nach seiner Art; کُنَد هَم جِنس با هَم جِنس پَرواز ِ کَبوتَر با کَبوتَر باز با باز 
 - auf jede Art & Weise; به نَحوى از اَنحاء
 - das ist keine Art für den Besitzer eines ..; رَفتار ِ زیبَندهٔ صاحِب ِ.. نیست
 - jede Art von Leckerbissen; هَر قِسم ِ طَعام
 - aus der Art schlagen; از اَصل اُفتادَن
-- die Art und Weise, wie sie s. .. gegenüber verhalten; مَنظَرهٔ بَرخورد آنها با
+- die Art und Weise, wie sie s. ... gegenüber verhalten; مَنظَرهٔ بَرخورد آنها با
 Artbewusstsein; هَمنوع آگاهى
 Artefakt; اَثَر ِ تَصَنُعى
 Arterhaltung; بَقاى ِ نَسل
@@ -3794,6 +3795,7 @@ Auge; چِشم
 - ihm wurde schwarz vor den Augen;  چِشمِش سیاهى مى رَفت
 - er verdrehte seine Augen; چِشمهایَش را کوچ کَرد
 - Auge um Auge, Zahn um Zahn; چِشم بِعَوَض ِ چِشم و دَندان بِعَوَض ِ دَندان
+- den Splitter im Auge des anderes sehen aber nicht den Balken im eigenen Auge; کاه را دَر چِشم ِ مَردُم می بينه کوه را دَر چِشم ِ خودِش نِمی بينه
 - sein Auge auf jem. werfen; گوشه چِشمى به کِسى دوختَن، دو تا چِشم داشتَن دو تای ِ دیگر هَم قُرض کَردَن
 - seine Augen sind grösser als der Magen; اَندازه شِکَم ِ خودرا نِمى دانَد
 - aus den Augen, aus dem Sinn; از دِل بِرَوَد هَر آنکه از دیده بِرَفت، هَر كه از چِشم دور از دِل دور 

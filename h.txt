@@ -636,6 +636,7 @@ helfen; مَدَد کَردَن، کُمَک ک.، یارى ک.، به نَفع 
 - ... uns helfen, dass Ziel zu erreichen; مارا در نِیل ِ به هَدَف یارى بِرِسانَند
 - ich helfe meiner Mutter; مَن به مادَرَم رِسیدِگى میکُنَم
 - keiner half ihnen; آنها فَریاد ِ رَسى نَداشتََند
+- dem ist nicht zu helfen; کِسی که از آفتاب ِ صُبح گَرم نَشُد از آفتاب ِ غُروب گَرم نِمی شَوَد
 - hilf mir!; به دادَم بِرِس، کُمَکَم کُن
 - Helfen & Geben; داد و دِهِش
 Helfer; حامى، پاکار، یار، باوَر، یاروَر
@@ -830,7 +831,7 @@ herumhängen; دور و بَر ِ خود لولیدَن
 herumkaspern; مَسخَرِگی کَردَن
 - kaspere nicht so herum; مَسخَرِگی نَکُن
 herumrätseln;
-- was kommt für .. heraus, wenn wir herumrätseln?; ولى از اَنگ ِ » مُعَما « زَدَن به .. چه حاصِل؟
+- was kommt für ... heraus, wenn wir herumrätseln?; ولى از اَنگ ِ » مُعَما « زَدَن به ... چه حاصِل؟
 herumreichen;
 - den Kelch herumreichen; جامى را دور گَردانیدَن
 herumschlagen;
@@ -866,7 +867,7 @@ hervorheben; به چیزی اَهَمیَت دادَن
 - s. hervorheben; مُتَمایِز بودَن
 - einen Punkt hervorheben; یِک نُکته را اِختِصاص دادَن
 hervorholen;
-- Hand hervorholen; .. دَست یازیدَن به 
+- Hand hervorholen; ... دَست یازیدَن به 
 - die Angelegenheit hervorholen; قَضیه را پیش کِشیدَن
 hervorkommen; بیرون آمَدَن، به ظُهور رِسیدَن
 - als er wieder hervorkam; وَقتى سَر و کَله اَش پِیدا شُد
@@ -1174,7 +1175,7 @@ hinweisen;
 - darauf hinweisen, dass ..; خاطِرنِشان کَردَن که
 - das weist darauf hin, dass ..; این دال بَر آن است که
 hinwenden;
-- s. hinwenden zu ..; رو بُردن به، مُتَمَسِک شُدَن به، رُجوع کَردَن به
+- s. hinwenden zu ...; رو بُردن به، مُتَمَسِک شُدَن به، رُجوع کَردَن به
 Hinwendung;
 - Hinwendung zu ...; تَمَسُک به
 hinziehen;
@@ -1309,8 +1310,8 @@ hoffentlich;
 - hoffentlich schneit es nicht; نَکُنَد بَرف بیایَد، اُمیدوارَم که بَرف نَیایَد
 Hoffnung; اُمید، نَوید، رِجاء
 - seine Hoffnung erblühte; اُمید ِ او گُل میکَرد
-- Hoffnung haben, dass ..; دَر تَرَصُد بودَن که، با چِشم داشتَن به
-- ich habe keine Hoffnung bezüglich der ...; مَن از ...چِشمَم آب نِمی خورَد
+- Hoffnung haben, dass ...; دَر تَرَصُد بودَن که، با چِشم داشتَن به
+- ich habe keine Hoffnung bezüglich der ...; مَن از ... چِشمَم آب نِمی خورَد
 - die Hoffnung zu Grabe tragen; آرِزوی ِ چیزی را به گور بُردَن
 - jem. seiner Hoffnung berauben; آب ِ پاکی بَر (روی ِ) دَست ِ کِسی ریختَن، یِکباره و از هَر جَهَت او را مٔأیوس کَردَن
 - falsche Hoffnungen hegen; .اُمید ِ واهى کَردَن، طَمَع ِ خام ک
@@ -1344,7 +1345,7 @@ Höhenstrahlen; اَشِعهٔ کِیهانى
 Höhenvorschub; تَغذیهٔ عُمودى
 Höhepunkt; اوج
 - die Spannung ist am Höhepunkt; هَیَجان دَر اوج است
-höher *: hoch;
+höher (*: hoch);
 Höherentwicklung; تَکامُل ِ عالیتَر
 hohl; پوک، توخالى، مُجَوَف
 Höhle; بیغوله، کُنام، غار
@@ -1358,6 +1359,7 @@ Hokuspokus; بوزینه بازى، شُعبَده بازى
 - Hokus Pokus Fidibus; اَجی مَجی لاتَرَجی
 holen; گِرِفتَن، آوَردَن
 - ich lasse den Doktor holen; میفِرِستَم پِى ِ دُکتُر
+- da ist nichts mehr zu holen; کَفگيرِش به تَه ِ ديگ خورده است
 Hölle; دَرَک، دوزَخ، جَهَنَم
 Holocaust; هولوکاست
 Hologramm; هولوگرام
