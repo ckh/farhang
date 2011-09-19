@@ -496,6 +496,7 @@ einfach; ساده، بَسیط
 - den Stoff einfach zusammenlegen; پارچه را یک لا تا کَردَن
 - aber er hat es einfach nicht genehmigt; وَلى نَداد که نَداد
 - der Film hat eine denkbar einfache Handlung; فیلم داستانى ِ پیش ِ پا اُفتاده دارَد
+- warum kompliziert, wenn's auch einfach geht; گِرِهی که با دَست باز شَوَد نَبايَد به دَندان گِرِفت
 Einfachheit; سُهولَت، بَساطَت، سادِگى
 Einfahrt; وُرود، راه ِ وُرودى
 - Einfahrt & Ausfahrt; وُرود و خُروج
@@ -539,7 +540,7 @@ einflössen;
 - Furcht einflössen; رَم دادَن، تَرسانیدَن
 - Gefühle einflössen; اِحساسات را اِلقاء کَردَن
 - jem. Nahrung einflössen;  .به کِسى غَذا دادَن، غَذارا به خورد ِ کِسى د
-- jem. Zuversicht einflössen; به کِسى اِعتِماد.. را رُسوخ دادَن
+- jem. Zuversicht  bezüglich ... einflössen; به کِسى اِعتِماد ِ... را رُسوخ دادَن
 - eingeflösst (in den Mund gelegt); مُلقی، اِلقاء شُده
 Einfluss; نُفوذ، تأثیر
 - äusserer Einfluss; اَثَر ِ بیرونى
@@ -590,7 +591,7 @@ Einführung; اِدخال، وُرود
 - zur Einführung von Herrn X bei ..; ... ِ بَراى ِ وُرود ِ آقاى ِ فِلان نَزد
 - Einführung des Wahlrechtes; اِحراز ِ حَق ِ اِنتِخابات
 Eingabe; دَرخواست، عَریضه، عَرضحال، شِکایَت نامه
-- eine Eingabe an .. machen; عَریضه اى را به .. مُعَرِفى داشتَن
+- eine Eingabe an ... machen; عَریضه اى را به ... مُعَرِفى داشتَن
 Eingang; دَر ِ وُرودى، وُرود
 - Bahnhofseingang; مَدخَل ِ ایستگاه
 eingänglich;
@@ -602,7 +603,7 @@ Eingangsstelle; مَدخَل
 Eingebung; اِلهام ِ اِلهى، وَهم
 - auf eine Eingebung warten; اُستِخاره کَردَن
 eingedenk;
-- eingedenk der Tatsache, dass ..; ... ِ با عِلم 
+- eingedenk der Tatsache, dass ...; ... ِ با عِلم 
 eingeengt; مُنقَبِض
 eingefleischt;
 - eingefleischte Gewohnheit; عادَت ِ دامَنگیر
@@ -723,7 +724,7 @@ einholen; دَر رِِسیدَن، بِکِسى رِِسیدَن، خودرا �
 einig; مُتَحِد، مُتَفِق، هَم عَقیده
 - einig sein in ...; دَر ... اِتِفاق ِ نَظَر داشتَن
 - einige Leute; تَنى ِچَند، بَرخى از مَردُم، بَعضیها
-- einige waren es, ..; عِده اى بود، اَندى بودَند
+- einige waren es, ...; عِده اى بود، اَندى بودَند
 - einige Zeit danach; چَندى ِ بَعد
 - tausend plus einige; هِزار و اَندى
 - in einigen Fällen; دَر مَوارِدى ِ چَند، دَر چَند مورِد
@@ -781,8 +782,8 @@ einladen; دَعَوَت کَردَن
 - Interessierte werden eingeladen, teilzunehmen; از عَلاقِمَندان به شِرکَت دَعوَت مى شَوَد
 - wenn sie eingeladen sind, dann ...; دَر مِهمانى، ایشان را
 Einladung;
-- auf Einladung von ..; ... ِ بِدَعوَت
-- morgen habe ich eine Einladung zum ..; فَردا به .. دَعوَت دارَم
+- auf Einladung von ...; ... ِ بِدَعوَت
+- morgen habe ich eine Einladung zum ...; فَردا به ... دَعوَت دارَم
 Einladungskarte; کارت ِ دَعوَت
 Einlage;
 - Einlage, Deposit; سِپُردهٔ بانکى، وَدیعه
@@ -825,7 +826,7 @@ einliefern;
 Einlieferung; تَحویل
 Einlieferungsschein; رِِسید ِ تَحویل
 einliegend;
-- einliegend im Brief sende ich ..; لَفاً اِرسال مى شَوَد
+- einliegend im Brief sende ich ...; لَفاً اِرسال مى شَوَد
 einlösen;
 . Scheck einlösen; چِک نَقد کَردَن
 - Versprechen einlösen; قول ِ خودرا ایفاء کَردَن، ـ به اَنجام رِسانیدَن
@@ -1102,7 +1103,7 @@ einsetzen;
 - jem. ins Amt einsetzen; کِسى را به سِمَت مَنصوب کَردَن، - سَر ِ کار گُذاشتَن
 - jem. in sein Amt wieder einsetzen; کِسى را بمَصَب ِ خود باز گُماشتَن، ـ باز آوَردَن
 - jem. als Testamentvollstrecker einsetzen; کِسى را ایصاء کَردَن
-- ich bin von .. eingesetzt worden; مَن دَست ِ نِشاندهٔ .. هَستَم
+- ich bin von .. eingesetzt worden; مَن دَست ِ نِشاندهٔ ... هَستَم
 - Gott ist es, der Könige absetzt und einsetzt; خُداست که پادِشاهان را عَذل و نَصب مى کُنَد
 - s. einsetzen für etwas; زَحمَت کِشیدَن، از خود مایه گُذاشتَن
 - s. für jem. einsetzen; سَنگ ِ کِسی را به سینه زَدَن
@@ -1320,7 +1321,7 @@ einwilligen; قَبول کَردَن، اِجازه دادَن، رِکاب د.�
 - er wird nicht in die Rassendiskriminierung einwilligen; او تَبعیض ِ نِژادى قائِل نمی شَوَد
 Einwilligung; مُوافِقت، رِضا، رِضامَندى، رِضایَت، اِجازه، اِستِصواب
 Einwohner; ساکِن
-- die Einwohner von ...; ... ِ اهالى ِ..، ساکِنان
+- die Einwohner von ...; ... ِ اهالى ِ...، ساکِنان
 Einwohnermeldeamt; اِدارهٔ ثَبت
 Einzahl; مُفرَد
 - Einzahl & Mehrzahl; مُفرَد و جَمع
@@ -3462,7 +3463,7 @@ Erz; سَنگ ِ مَعدَن
 erzählen; رِوایَت کَردَن، حِکایَت ک.، نَقل ک.، قِصه گُفتَن
 - wir haben uns viel zu erzählen; کُلى ِ حَرف بَراى ِ گُفتَن داریم
 - jem. gegenüber etwas wichtiges erzählen; پیش ِ کِسى لَب به سُخَن گُشودَن
-- erzählen Sie etwas über ..; را شَرح بِدَهید...
+- erzählen Sie etwas über ...; را شَرح بِدَهید...
 - Erzähl mal!; بِگو بِبینَم
 - Lass mich die ganze Geschichte erzählen; بِگُذار قال ِ قَضیه را بِکُنَم
 - die Geschichte erzählt, dass ..; داستان رَوایَت مى کُنَد که
@@ -3596,7 +3597,7 @@ Etui; نیام، قاب، جَعبه
 - Brillenetui; قاب ِ عِینَک، غِلاف ِ ـ
 - Schreibetui; قَلَمدان
 etwa;
-- oder etwa, ob ..; آیا، مَگَر
+- oder etwa, ob ...; آیا، مَگَر
 - gehen Sie etwa nach Hause?; مَگَر شُما به خانه میرَوید؟
 - in etwa, ungefähr; ِ قَریب ِ، دَر حُدود ِ، حول و خوش، نَزدیک
 - in etwa 3 Monaten; قَریب ِ ۳ ماه

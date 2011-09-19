@@ -2075,6 +2075,7 @@ Selbstentäußerung; خَلاء ِ ذِهنى
 Selbsterhaltung; صیانَت ِ نَفس، بَقاى ِ شَخص، اِحتِفاظ
 Selbsterhaltungstrieb; اَنگیزهٔ اِحتِفاظ
 Selbsterhöhung; خود اَفراز
+selbsterklärend; چِراغ را نَتَوان ديد جُز به نور ِ چِراغ
 selbsternannt; خود گُماشته
 - selbsternannter Minister; وَزیر ِ خود گُماشته
 Selbstexistenz (- Gottes); (bezzāt) خُدا از چیزى به وُجود نَیامَده و خود مَنشاء ِ وُجود است، زِندِگى ِ ذاتى ِ خُدا، خُدا قائِم ِ بِالذات است

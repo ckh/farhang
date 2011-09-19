@@ -153,7 +153,7 @@ nächste;
 - die nächsten Jahre wird es ... geben; تا چَند سال ... خواهَد بود
 - wer ist der nächste?; نوبَت ِ کیست؟
 - der Nächste, bitte; لُطفاً نَفَر ِ بَعدی
-- jeder ist s. selbst der Nächste; هَر کَس به فِکر ِ خویش است کوسه به فِکر ِ ریش است
+- jeder ist s. selbst der Nächste; هَر کَس به فِکر ِ خویش است کوسه به فِکر ِ ریش است، گوسفَند به فِکر ِ جانَش اَست قَصاب به فِکر ِ دُنبه
 - der Nächste ist manchmal der Nachbar und nicht der entfernte Bruder; هَمسايهٔ نَزديک بِهتَر از بَرادَر ِ دور است
 Nächstbester; هَرکَس و ناکَس
 nachstehen (jem. -); کَمتَر از کِسی بودَن، پائینتَر ـ
@@ -825,6 +825,7 @@ Nutzen (m); مَنفعَت، بَهره، فایده، اَرزِش، هوده،
 - Nutzen ziehen (allg.); مُستَفید شُدَن، بَهره بُردَن، بَهره گِرِفتَن، سود بُردَن، اِستِفاده کَردَن
 - geistlichen Nutzen ziehen aus ...; از .. مُستَفیض شُدَن
 - aus etwas Nutzen ziehen (betrügerisch); روی ِ ... کُلاه ِ شَرعی گُذاشتَن
+- aus allem den besten Nutzen ziehen; چه خوش است ميوه فُروشی گَر کَس نَخورَد خودِت بِنوشی
 - jem. sucht seinen eigenen Nutzen; کِسی خَر ِ خودَش را سَوار است
 - der Helfer hat den größten Nutzen; آتَش از آتَش گُل کُنَد، یاری بِيِکدیگَر مایهٔ سَعادَت ِ یاری دَهَندِگان است
 nützen; فایده داشتن

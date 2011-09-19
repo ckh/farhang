@@ -2763,6 +2763,7 @@ Arrangement; تَرتیب، تَنظیم
 arrangieren;
 - arrangieren, schmücken; آرایش کَردَن
 - s. arrangieren mit; با کِسى قَرار ِ مُقاطِعِه کَردَن، ـ سازِش ک. ، ـ مُوافِق شُدَن
+- man muß s. arrangieren; وَقتی مادَر نَباشه با زَن ِ بابا بايَد ساخت
 Arrest; بازداشت، توقیف، حَبس ِ خَفیف
 Arretierung; توقیف، دَستگیرى
 arrogant; مَغرور، با نَخوَت، مُتَکَبِر
@@ -2779,7 +2780,7 @@ Art;
 - er macht das nur auf eine Art & Weise; او فَقَط دَر یِک صورَت این کاررا می کُنَد
 - jedes nach seiner Art; کُنَد هَم جِنس با هَم جِنس پَرواز ِ کَبوتَر با کَبوتَر باز با باز 
 - auf jede Art & Weise; به نَحوى از اَنحاء
-- das ist keine Art für den Besitzer eines ..; رَفتار ِ زیبَندهٔ صاحِب ِ.. نیست
+- das ist keine Art für den Besitzer eines ...; رَفتار ِ زیبَندهٔ صاحِب ِ... نیست
 - jede Art von Leckerbissen; هَر قِسم ِ طَعام
 - aus der Art schlagen; از اَصل اُفتادَن
 - die Art und Weise, wie sie s. ... gegenüber verhalten; مَنظَرهٔ بَرخورد آنها با
@@ -3023,12 +3024,12 @@ aufbrausen; بَرآشُفتَن، جوش زَدَن
 aufbrechen;
 - aufbrechen (z.B. Paket); کَندَن
 - nach Berlin aufbrechen; به بِرلین به راه اُفتادَن، ـ عَزیمَت کَردَن
-- die Sehnsucht nach .. bricht auf; چِشم اِنتِظارى ِ.. سَر مى آیَد
+- die Sehnsucht nach ... bricht auf; چِشم اِنتِظارى ِ... سَر مى آیَد
 aufbringen;
 - Kraft aufbringen; تاب آوَردَن
 - jem. gegen jem. aufbringen; فِلان را به کِسى پَرخاش کَردَن، - به هَم اَنداختَن
 Aufbruch; حَرَکَت، عَزیمَت، رِحلَت
-- sie sind gerade im Aufbruch; آنها روبه راه هَستَند، آنها دارَند عازِم ِ ...ا مى شَوَند
+- sie sind gerade im Aufbruch; آنها روبه راه هَستَند، آنها دارَند عازِم ِ ... مى شَوَند
 aufbrühen;
 - Tee aufbrühen; چاى دُرُست کَردَن
 - aufgebrühter Tee; چای ِ دَم کِشیده
@@ -3057,7 +3058,7 @@ aufeinanderfolgend; بِطور ِ پِیا پِى، پُشت ِ سَر ِ هَم
 - aufeinanderfolgende Katastrophen kommen auf uns zu; بَلاها پِى دَر پِى بَر ما مى آیَند
 aufeinanderstossen;  .بَرخورد کَردَن، تَصادُف ک
 Aufeinandertreffen;
-- Aufeinandertreffen von etwas mit ..; چیزى مُصادِف مى شَوَد با چیزى دیگَر
+- Aufeinandertreffen von etwas mit ...; چیزى مُصادِف مى شَوَد با چیزى دیگَر
 Aufenthalt;
 - 1 Stunde Aufenthalt; یِک ساعَت تَوَقُف
 - ohne Aufenthalt fahren wir nach Berlin; بِدون ِ تَوَقُف بِرَویم به بِرلین
@@ -3105,7 +3106,7 @@ auffordern;
 - jem. zum Tanz auffordern; کِسى را به رَقص دَعوَت کَردَن
 - jem. auffordern, zu erscheinen; کِسى را به حُضور طَلَبیدَن
 - jem. zum Spiel auffordern; کِسی را به بازی گِرِفتَن
-- eine innere Stimme forderte mich auf, ..; نِداى ِ باطِنى مَرا اَمر به ...  مى کَرد
+- eine innere Stimme forderte mich auf, ...; نِداى ِ باطِنى مَرا اَمر به ...  مى کَرد
 - ich fragte nach dem Grund dieser Aufforderung; عِلَت ِ این دَستوررا پُرسیدم 
 aufforsten;  .مُشَجِر کَردَن، دِرَختهارا کِشت ک
 auffressen; بِدون ِ رُعایَت به دیگَران بُشقاب خالی کَردَن
@@ -3157,7 +3158,7 @@ aufgehen; باز شُدَن
 - die Sonne geht auf; آفتاب طُلوع مى کُنَد، آفتاب مى زَنَد
 - der Teig geht auf; خَمیر وَر مى آیَد
 - deine Rechnung geht nicht auf; حِسابَت پاک نِمى شَوَد
-- aufgehen in der Rolle des ..; بِعُنوان ِ یِک .. از تَمام ِ وُجود مایه مى گُذارَد
+- aufgehen in der Rolle des ...; بِعُنوان ِ یِک ... از تَمام ِ وُجود مایه مى گُذارَد
 - um in einer Sache aufzugehen (verändert werden); تا دَر آن مُستَحیل شُدَن
 aufgelegt;
 - er ist heute gut aufgelegt; او اِمروز سَر ِ حال اَست
@@ -3233,11 +3234,11 @@ Aufhebens;
 - ohne viel Aufhebens; با سوختَن و ساختَن
 Aufhebung;
 - Aufhebung (jurist.); تَعلیق، اِلقاء، فَسخ
-- Entscheidung der Aufhebung von ..; رأى ِ تَعلیقى از
+- Entscheidung der Aufhebung von ...; رأى ِ تَعلیقى از
 aufheitern;
 - jem. aufheitern;  .کِسى را خوشى دادَن، ـ خوشحال کَردَن، ـ فَرَحبَخش کَردَن، ـ مَسرور ک
 - der Himmel heitert auf; آسمان باز مى شَوَد
-- damit meine Stimmung etwas aufgeheitert wird ..; تا اَندَکى گُشاده رو شَوَم
+- damit meine Stimmung etwas aufgeheitert wird; تا اَندَکى گُشاده رو شَوَم
 Aufheiterung;
 - das Ganze dient der Aufheiterung; این هَمه اش باعِث ِ نِشاط مى شَوَد، ـ تَفریح ـ
 aufhelfen (jem. -); کِسى را روى ِ پا ایستاندَن
@@ -3805,6 +3806,7 @@ Auge; چِشم
 - ins Auge fallen; به چِشم اُفتادَن
 - die Augen weit aufreissen; چِشمها چَهار تا شُدَن
 - ein Auge zudrücken (*: Nachsicht); چِشم پوشیدَن
+- die Augen sieht man, das Herz liest man; چِشمِش را بِبين دِلِش را بِخوان
 - Die Menschen werden gesund, wenn sie mit den Augen des Herzens sehen, nicht mit Augen aus Glas und Stahl; عِلاج ِ بَشَر دیدهٔ باطِن اَست، نَه چِشمى که از شیشه و آهَن اَست
 - Glotzauge; چِشم وَر قُلُنبیده
 äugeln;  .نَظَربازى کَردَن، عِشوه گَرى ک
@@ -4046,7 +4048,7 @@ ausführen; ایفاء کَردَن، بِجا آوَردَن، به مَرَح�
 - wird durch den Scharfrichter ausgeführt (*: vollstrecken); دَست ِ جَلاد اَنجام خواهَد گِرِفت
 - der Plan ist von jem. ausgeführt worden; بَرنامه تَوَسُط ِ فِلان اَنجام گِرِفت
 ausführlich; طول و تَفصیل، مُفَصَل، بَر وَجه ِ تَفصیل
-- ausführliche Beschreibung ist in ..; شَرح ِ مَبسوط دَر .. اَست، ـ مُفَصَل ـ
+- ausführliche Beschreibung ist in ...; شَرح ِ مَبسوط دَر ... اَست، ـ مُفَصَل ـ
 - eine ausführliche Antwort gebend, sagte er ...; به تَفصیل جَواب داده گُفت
 - ausführlicher Bericht; نامه مَشروحى، گُزارِش ِ مُفَصَل
 - ausführliche Rede; سُخَنرانى ِ مَبسوطى
@@ -4064,6 +4066,7 @@ Ausgabe;
 - (finanzielle) Ausgabe; (plur.)  (خَرج (مَخارج)، مَصرَف (مَصارف
 - Ausgaben machen; خَرج دادَن
 - Ausgaben verursachen; به خَرج اُفتادَن
+- die Ausgaben richten s. nach den Einnahmen; چو دَخلِت نيست خَرج آهِسته تَر کُن
 - die Ausgaben einer Tagesration wendet man für die Frisur auf; مُعادِل ِ خَرج ِ یِک روز ِ خوراک را صَرف ِ اِصلاح ِ مو مى کُنَد
 - soviele Ausgaben haben s. ergeben; مَبلَغ ِ .. ریال هَزینه شُده اَست
 - Einnahmen & Ausgaben; دَخل و خَرج، مَداخِل و مَخارِج، دَریافت و دَررَفت

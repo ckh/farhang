@@ -425,6 +425,7 @@ leben; زِندِگی کَردَن
 - Wo leben wir eigentlich?; کُجا داریم زِندِگی میکُنیم؟
 - leben und leben lassen; زِندِگی کُن و بِگُذار که زِندِگی کُنَند
 - in den Tag hineinleben; لِک و لِک کَردَن
+- man muß mit dem leben, was man hat; وَقتی مادَر نَباشه با زَن ِ بابا بايَد ساخت
 - Man lebt nur einmal; آدَم دو بار به این دُنیا نِمی آيَد، بايَد از لِذات ِ حَیات هَرچه بیشتَر تَمَتُع بُرد
 - und wenn sie nicht gestorben sind, dann leben sie noch heute; قِصهٔ ما بِسَر رِسيد کَلاغه به خانه اش نَرِسيد
 Leben (n); رَوان، حَیات، زِندِگی
@@ -648,6 +649,7 @@ leid;
 Leid (n); نِکبَت، دَرد، رَنج
 - jem. kein Leid zufügen; به کِسی صَدَمه ای نَزَدَن
 - Leid tragen; غُصه خوردَن
+- Leid gehört zum Leben; گَنج بی مار و گُل بی خار نيست شادی بی غَم دَر اين بازار نيست
 leiden;
 - an ... leiden; به بیماری ِ ... مُبتَلا بودَن
 - um der Gerechtigkeit willen leiden; دَر راه ِ عِدالَت جَفاء دیدَن
@@ -842,6 +844,7 @@ Licht; چِراغ، نور، روشَنائی
 - jem. hinters Licht führen; آب به زیر ِ کِسی می شَوَد، کِسی را فَریفتَن
 - jemanden ins schlechte Licht stellen; بَراى ِ کِسى پاپوش دوختَن
 - Licht am Ende des Tunnels; دَر نومیدی بَسی اُمید است پایان ِ شَب سیه سِفید است
+- Licht erkennt man nur durch Licht; چِراغ را نَتَوان ديد جُز به نور ِ چِراغ
 - Windlicht; چِراغ ِ بادی
 Lichtbogen; قوس ِ نور
 lichtdurchlässig; نیمه شَفاف

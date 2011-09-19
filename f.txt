@@ -307,6 +307,7 @@ Farbdruck; چاپ ِ رَنگى، باسمهٔ ـ
 Farbdrucker; دَستگاه ِ چاپ ِ رَنگى
 Farbe; (loun) (plur.) (رَنگ، خِضاب، لون (اَلوان
 - die Farbe war aus seinem Gesicht verschwunden; رَنگی به صورَتِش نَبود
+- der Himmel hat überall die gleiche Farbe; بِهَر كُجا كه رَوي آسِمان هَمين رَنگِه
 - rötlichfarben; سُرخ فام، سُرخ گون
 farbecht; ثابت رَنگ
 färben; رَنگ زَدَن
@@ -1768,6 +1769,7 @@ Frostschutzmittel; ضِد ِ یَخ، آنتى فریزِر
 Frucht; میوه، ثَمَر، بار
 - je später der Herbst, desto süsser die Früchte; دِرَخت هَرچه پُر بارتَر باشد، وَقار و سَنگینى آن بیشتَر است
 - meine Rede zeigte Früchte; حَرفَم گُل کَرد
+- Geduld bringt Frucht; گَر صَبر کُنی زِِ غوره حَلوا سازَم
 fruchtbar; بَرومَند، مُثمَر، باروَر
 Fruchtbarkeit; بَرومَندى، بارآوَرى، حاصِلخیزى
 Fruchtblatt; بَرگ ِ مادِگى
