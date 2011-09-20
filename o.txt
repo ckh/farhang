@@ -353,10 +353,11 @@ Ordnung;
 - eine Sache in Ordnung bringen; به چیزى سَر و صورَت دادَن، چیزى را مُرَتَب کَردَن، ـ دُرُست ک.، ـ نَظم و تَرتیب دادَن
 - indem man Organisationen eine Ordnung gibt; تَشکیلهائى با ساماندَهى
 - Gemeindeordnung; آئین نامهٔ بَخشدارى
-- Neuordnung (der ...); (... ِ  ) نوسازِماندَهى
+- Neuordnung (der ...); (... ِ) نوسازِماندَهى
 - Raumordnung; نَسق ِ اِنتِفاع از زَمین، آئین نامهٔ انتفاع از مُلک و زَمین
 Ordnungsamt; اِدارهٔ ثَبت
 ordnungsgemäss; بَر طِبق ِ قانون
+Oregano; مَرزَنگوش
 Organ;
 - beratendes Organ; نِهاد ِ مَشوَرَتى
 - staatlichen Organe; مَقامات ِ دولَتى
