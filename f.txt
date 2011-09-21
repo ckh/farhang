@@ -736,8 +736,10 @@ fertig;
 - sie werden schon damit fertig; از پَس ِ خودِشان بَر می آیَند
 - mit dir werde ich schon fertig; از پَسَت (: پَس ِ تو) بَر میایَم
 - ich werde schon damit fertig werden; از پَس ِ آن بَر خواهَم آمَد
-- mit dem Verlust von .. nicht fertig werden; او نِمى تَوانَد از غَم ِ.. تَسکین بیابَد
-- Das Fleisch ... bis es fertig ist; گوشت را .... و بِگُذارید جا بیُفتَد
+- mit dem Verlust von ... nicht fertig werden; او نِمى تَوانَد از غَم ِ... تَسکین بیابَد
+- das Fleisch braten, bis es fertig ist; گوشت را سُرخ کَردَن و بِگُذارید جا بیُفتَد
+- bist du fertig im Bad?; دَر حَمام تَمام شُدی؟
+- ich bin fertig (mit dem, was ich sagen wollte); با حَرفَم تَمام شُدَم، حَرفَم تَمام شُد
 - druckfertig; حاضر ِ چاپ
 Fertigbau; ساختِمان ِ پیش ساخته
 Fertigbeton; بِتُن ِ آماده
