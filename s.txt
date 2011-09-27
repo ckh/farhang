@@ -3395,6 +3395,7 @@ Stein; سَنگ
 - bei jem. einen Stein im Brett haben; دَر نَظَر ِ کِسى اِلتِفات یافتَن
 - wer einen Stein ins Rollen bringt, auf den fällt er zurück; هَر که سَنگى بِغِلطانَد بَر او خواهَد بَرگَشت
 - Feldstein; قُلبه سَنگ
+- Stolpersteine gibt es überall; هَر جا سَنگ است بَرای ِ پای لَنگ است
 Steinbock; بُز ِ کوهى
 Steinbrocken; پارهٔ سَنگ، سَنگ ِ پاره
 - grosser Steinbrocken; سَنگ ِ پارهٔ بُزُرگ

@@ -172,7 +172,7 @@ Waise; بَچهٔ پِِدَر مُرده، يَتیم
 Wal; نَهَنگ
 Wald; جَنگَل
 - er sieht den Wald vor Bäumen nicht; چَندان چِراغ دارَد و بى راهه مى رَوَد
-- wie man in den Wald hineinruft, so klingt es heraus; کَلوخ اَندازرا پاداش ِ سَنگ است
+- wie man in den Wald hineinruft, so klingt es heraus; کَلوخ اَندازرا پاداش ِ سَنگ است، هَر چه خواهی که نَشنَوی مَگوي
 Wäldchen; بیشه
 walken; مالیدَن
 Wall; حِصار، بارو
@@ -784,6 +784,7 @@ werden; شُدَن
 - hast du Angst, dass daraus nichts wird?; وَحشَت دارى که مُعامِله جوش نَخورَد؟
 - sie sind entlassen worden; آنها اِخراج شُده اند
 - mir wurde wichtig, dass; به نَظَرَم لازِم و بِجا آمَد که
+- wird schon (popul.); هَر چه پيش آيَد خوش آيَد
 werfen; پَرتاب کَردَن، اَنداختَن
 - einen Blick auf die Tür werfen; نِگاهى به دَر کَردَن
 - Geld in den Kasten werfen; پول توی ِ صَندوق اَنداختَن

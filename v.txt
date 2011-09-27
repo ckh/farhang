@@ -316,11 +316,12 @@ verdecken; ماسک کِشیدَن، روکِش کَردَن، پوشاندَن
 verdeckt; پِنهان، مَخفى، نِهُفته
 verderben;
 - jem. die Sache verderben; کار ِ کِسى را خَراب کَردَن، ـ به هَم زَدَن
+- die Ware verdirbt; جِنس فاسِد مى شَوَد
+- dieser Ort verdirbt dir den Appettit; این مَحَل تو ذوقَت مى زَنَد
+- verdirb es dir nicht mit denen, die freundlich zu dir waren; هَر جا که نَمَک خوردی نَمَکدان مَشکَن
 - damit sie uns den freien Tag verderben; بَراى ِ اینکه روز ِ تَعطیل ِ مارا زَهر مار کُنَند
 - es s. mit jem. verderben; با کِسى دَر اُفتادَن
 - viele Köche verderben den Brei; آشپَز که دو باشَد آش یا شور مى شَوَد یا بى نَمَک
-- die Ware verdirbt; جِنس فاسِد مى شَوَد
-- dieser Ort verdirbt dir den Appettit; این مَحَل تو ذوقَت مى زَنَد
 Verderben (n);
 - Verderben, Vernichtung; زَوال
 - Verderben (z.B. von Ware); تَلَف
