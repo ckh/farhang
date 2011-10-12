@@ -1746,7 +1746,7 @@ Schweißsekretion; تَرَشُح ِ عَرَق
 Schweißtechnik; صَنايِع ِ جوش
 Schwelle; آستانه
 - Türschwelle; دَرگاه ِ مَنزِل، آستانهٔ مَنزِل
-- Eisenbahnschwelle; تراوِرس ِ راه ِ آهَن
+- Eisenbahnschwelle; تراوِرس ِ راه ِ آهَن، رِیل بَند
 - an der Schwelle des ...; دَر آستانهٔ
 schwellen;  .وَرَم کَردَن، آماسیدَن، نَفخ کَردَن، باد ک
 Schwellenreiz; کَمتَرین شِدَت ِ تَحریک

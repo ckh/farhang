@@ -746,6 +746,7 @@ Leitung; راهبُرد
 - er hat die Leitung der Schule; او ریاسَت ِ مَدرِسه را عُهده دار است
 - Leitung der laufenden Geschäfte; راندَن ِ اُمور ِ جاری
 - Lange Leitung; دو زاری اَش نِمیاُفتَد، - دیر می اُفتَد
+- Oberleitung (bei Eisenbahn);  (سیم ِ بالا سَر ( ِقَطار
 - Wasserleitung; لوله آب
 Leitungswasser; آب ِ شیر
 Leitwesen;

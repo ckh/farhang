@@ -4089,7 +4089,7 @@ ausgeben;
 - wer ausgibt, muss erst einnehmen; کِسى که خَرج دارَد بایَد دَخل هَم داشته باشَد
 - .. Euro gebe ich für die Rasur aus ..; یورو خَرج ِ اِصلاح ِ صورَتَم مى کُنَم ...
 - sich als Iraner ausgeben; خودرا ایرانى جا زَدَن
-- das Geld von .. für .. ausgegeben wird; بودجهٔ .. صَرف ِ چیزى شُدَن
+- das Geld von ... für ... ausgegeben wird; بودجهٔ ... صَرف ِ چیزى شُدَن
 ausgefallen;
 - ausgefallene Idee; عَقیده غِیر ِ عادى
 ausgeflogen (i.S.: menschenleer); پَرَنده پَر نِمی زَنَد
@@ -4296,10 +4296,10 @@ ausmachen;
 - Licht ausmachen; چِراغ را خاموش کَردَن
 - ein Treffen ausmachen; مُلاقات گُذاشتَن
 - wenn es Ihnen nichts ausmacht (*: Problem); اَگَر کِیکِتان هَم نِمی گَزَد 
-Ausmass; اَندازه
-- das genaue Ausmass des Schadens; میزان ِ دَقیق ِ خِسارات
-- als .. grössere Ausmasse annahm; وَقتیکه دامَنه .. بِتوسِعِه نَهاد، ـ بالا گِرِفت
-- mit den Ausmassen von .. ccm; به مَساحَت ِ .. سانتى مِتر مُرَبَع
+Ausmaß; اَندازه
+- das genaue Ausmaß des Schadens; میزان ِ دَقیق ِ خِسارات
+- als ... grössere Ausmaße annahm; وَقتیکه دامَنه ... بِتوسِعِه نَهاد، ـ بالا گِرِفت
+- mit den Ausmaßen von ... ccm; به مَساحَت ِ ... سانتى مِتر مُرَبَع
 ausmauern; دیوار زَدَن، آجُر گُذاشتَن
 ausmergeln;
 - ein paar ausgemergelte Hände; یِک جُفت ِ دَست ِ نَحیف
@@ -4342,13 +4342,13 @@ ausprobieren; چیزى را به آزمایِش گُذاشتَن، آزمایِ�
 Auspuff; اِگزوس
 - Auspuffgas; گاز ِ سوخته
 ausquetschen; فِشُردَن، شیره گِرِفتَن
-- ... , die den Menschen ausquetschen ..; چَلاندَن ِ مُردُم
+- ... , die den Menschen ausquetschen; چَلاندَن ِ مُردُم
 ausradieren; پاک کَردَن
 ausrangieren;
 - ausrangierte Ware; اَجناس ِ اِسقاط
 ausrasten;
 - ausrasten vor Wut; از جا دَر رَفتَن
-- als er .. sah, rastete er aus; چِشمِش که به .. اُفتاد آن روى ِ سَگِش بالا آمَد
+- als er ... sah, rastete er aus; چِشمِش که به ... اُفتاد آن روى ِ سَگِش بالا آمَد
 - jem. zum Ausrasten bringen; حِسابی حال ِ کِسی را جا آوَردَن
 ausrauben;  .غارَت کَردَن، تاراج ک
 - jem. ausrauben (bis aufs Hemd); کِسى را لُخت کَردَن،  ـ سَر و کیسه کَردَن
@@ -4487,13 +4487,13 @@ aussehen;
 - armselig aussehen (*: erscheinen); کِسى تا حَد ِ شِش دَر چَهار کوچِک مى شَوَد
 - um gut auszusehen; تا خوش مَنظَره باشَد
 - dass es aussieht, als ob ..; ... ِ که اِنگار
-- wie der .. aussieht; که .. چه مَنظَرى به خود مى گیرَد
-- es sieht so aus, als ob ..; بویَش مى آیَد که
+- wie der ... aussieht; که ... چه مَنظَرى به خود مى گیرَد
+- es sieht so aus, als ob ...; بویَش مى آیَد که
 - wie sahen sie aus?; آنها چه شِکل داشتَند؟
 - er sah mir wie ein Betrüger aus; مَرا به دیدهٔ یِک کُلاه بَردار و حیله گَر نِگَریست
 Aussehen; سَر و پُز، ظاهِرى، نَمایِش
 - Aussehen (einer Sache); مَنظَر
-- welches Aussehen .. annimmt; که .. چه مَنظَرى به خود مى گیرَد
+- welches Aussehen ... annimmt; که ... چه مَنظَرى به خود مى گیرَد
 - sein Aussehen überprüfen; نِگاهى به سَر و وَضع ِ خود اَنداختَن
 - furchterregendes Aussehen; هِیبَت ِ تَرسانَنده
 - äusserlich gut aussehend; خوش ظاهِر
@@ -4626,7 +4626,7 @@ ausstaffieren (jem. -); کِسى را آراسته کَردَن
 Ausstand; اِعتِصاب
 - in den Ausstand treten; دَست به اِعتِصاب زَدَن
 ausstatten; مُجَهَز کَردَن، وَسائل ِ لازِم را فَراهَم آوَردَن
-- dieses Land ist mit mehr .. als jenes ausgestattet; این کِشوَر از .. والاتَر از آن کِشوَر بَرخوردار اَست
+- dieses Land ist mit mehr ... als jenes ausgestattet; این کِشوَر از ... والاتَر از آن کِشوَر بَرخوردار اَست
 ausstechen; دَر کَندَن
 ausstehen;
 - einander nicht ausstehen können; سایه یِکدیگَررا با تیر زَدَن
@@ -4648,7 +4648,7 @@ aussterben; مُنقَرِض شُدَن
 Aussteuer; جَهاز، جُل و جَهاز، سَهم از اِرث
 Ausstieg; دَر ِ خُروجى
 ausstopfen;
-- ausstopfen mit; از .. لاى اَنداختَن، از .. آگَندَن
+- ausstopfen mit; از ... لاى اَنداختَن، از ... آگَندَن
 - ausgestopftes Kissen (mit Federn); بالِش ِ آگَندهٔ پَر
 Ausstoss; اِخراج
 ausstossen;
@@ -4681,7 +4681,7 @@ austauschen; مُبادِله کَردَن
 austeilen;  .تَقسیم کَردَن، توزیع ک
 - er teilt Befehle aus; او حُکمِش را صادِر مى کُنَد
 Auster; صَدَف ِ مأکول
-austoben (s. -); تَن دَر دادَن به چیزى
+austoben (s. -); تَن دَر دادَن به چیزى، وَرجه وُرجه کَردَن
 austragen;
 - Streitigkeiten austragen; با کِسى مُبارِزه کَردَن
 - Zeitung austragen; روزنامه را توزیع کَردَن
