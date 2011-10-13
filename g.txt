@@ -1381,7 +1381,7 @@ Gesichtsfeld; دیدرَس
 - sie verschwanden aus seinem Gesichtsfeld; از دیدرَسَش خارِج شُدَند
 Gesichtspunkt; دیدگاه، نُقطه نَظَر
 - wirtschaftlicher Gesichtspunkt; نُقطه نَظَر  ِ اِقتِصادى
-- unter .. Gesichtspunkten; ... ِ با مُلاحِظات
+- unter ... Gesichtspunkten; ... ِ با مُلاحِظات
 gesiebt; مُصَفا
 Gesims; هِره
 Gesinde; نوکَر و کُلفَت
@@ -1908,6 +1908,7 @@ glücklich; سَعادَتمَند، فَرُخ، خُجَسته، کامیاب
 - glückliche Reise; سَفَر بِخِیر
 - ein glückliches Neues Jahr; سال ِ نوین فَرخُنده باد
 - wer s. mit wenigem zufrieden gibt, ist glücklich; از خوردَنى ها غِیر ِ خُنَک هیچ نَداریم ما هیچ نَداریم و غَمى هیچ نَداریم
+- keine glückliche Hand haben; هَر چه رِشتَم پَنبه شُد
 glücklicherweise; خوشبَختانه
 glückselig;
 - glückselig sein; حَظ شُدَن، حَظیظ بودَن، دَر حالَت ِ بَهجَت قَرار گِرِفتَن، خوشبَخت بودَن

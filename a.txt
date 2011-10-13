@@ -1630,14 +1630,14 @@ anfällig;
 - die anfälligsten Punkte; پَذیرتَرین نُکات
 Anfälligkeit; اِبتِلا، اِستِعداد اِبتِلا به
 Anfang; بَدو، بِدایَت، شُروع
-- am Anfang des ..; دَر اِبتِداى ِ، دَر آغاز ِ، دَر اَوائِل ِ
+- am Anfang des ...; ِ دَر اِبتِداى ِ، دَر آغاز ِ، دَر اَوائِل
 - am Anfang des Gedichtes; سَر ِ آغاز ِ شِعر
-- für den Anfang, ..; بَراى ِ سُهولَت ِ عَمَل
+- für den Anfang, ...; بَراى ِ سُهولَت ِ عَمَل
 - aller Anfang ist schwer; شُروع ِ هَر کارى مُشکِل اَست
 - wir kamen vom Anfang der Strasse; اَز سَر ِ جاده آمَدیم
 - eine Arbeit für den Anfang; کارى را بَراى ِ دَستگَرمى
 - ohne Anfang und Ende (Gott); لابَداء و لایَزال
-- von Anfang bis Ende jem. was erzählen; اَز سیر تا پیاز بَراى ِ کِسى باز گُفتَن، اَز اَوَل تا آخَرـ
+- von Anfang bis Ende jem. was erzählen; اَز سیر تا پیاز بَراى ِ کِسى باز گُفتَن، اَز اَوَل تا آخَر ـ
 - mit den Anfängen der Revolution; با صَدر ِ اِنقِلاب
 anfangen; آغازیدَن، آغاز کَردَن، شُروع ک.، پَرداختَن
 - die Arbeit anfangen; این کاررا دَر پیش گِرِفتَن 
@@ -1645,26 +1645,27 @@ anfangen; آغازیدَن، آغاز کَردَن، شُروع ک.، پَردا
 - etwas wieder anfangen; چیزى را دوباره دُنبال کَردَن
 - es fängt an, s. etwas zu tun; اِتِفاقى دَر شُرُف ِ وُقوع اَست
 - wir fangen an, uns zu unterhalten; سَر ِ صُحبَتِمان باز مى شَوَد
-- von .. zu träumen anfangen; دَر مورِد ِ .. به رویا پَروَرى پَرداختَن
+- von ... zu träumen anfangen; دَر مورِد ِ ... به رویا پَروَرى پَرداختَن
 - damit kann ich nichts anfangen; این مَربوط به مَن نیست، به دَردَم نِمى خورَد
 - sie fangen an, zu protestieren; آنها لَب به اِتِراض مى گُشایَند
-- bevor sie nicht anfangen, die Ziele von X zu ..; تا هَدَف ِ فِلان را پیاده نَکَردَند
+- bevor sie nicht anfangen, die Ziele von X zu ...; تا هَدَف ِ فِلان را پیاده نَکَردَند
 - sie möchte mit mir anfangen, zu reden; او مى خواهَد با مَن سَر ِ صُحبَت را باز کنَد
-- er fängt an, das Fach .. zu studieren; به تَحصیل دَر رِشتهٔ .. مى پَردازَد
+- er fängt an, das Fach ... zu studieren; به تَحصیل دَر رِشتهٔ ... مى پَردازَد
 - wer fängt an, s. mit ... zu versöhnen?; کى مى رَوَد که تَرتیب ِ آشتى با ... را بِدَهَد؟
 - es fängt an, zu regnen; باران شُروع به آمَدَن کَرد
 - ich fing an zu beten; به دُعا مَشغول شُدَم
 - sie fingen an, zu weinen; گِریه را سَر دادَند
 - als er .. sah, fing er an, zu schreien; دَر حالیکه .. دید دَست به فَریاد گُذاشت
-- angefangen von .. bis ..; ... اَز .. گرفته تا
+- angefangen von ... bis ...; ... اَز ... گرفته تا
 - etwas hat angefangen; چیزى به راه افتاد
 - Fangt an!;  !دَست به کار شَوید
 Anfänger; مُبتَدى، مُرید، شُروع کُنَنده
 anfängerhaft; پیش ِ پا اُفتاده، اِبتِدائی
 Anfangsjahr;
-- sie waren verantwotlich in den Anfangsjahren der ..; مَسئولین دَر مَقاطِعى اَز سالهاى ِ آغازین
+- sie waren verantwotlich in den Anfangsjahren der ...; مَسئولین دَر مَقاطِعى اَز سالهاى ِ آغازین
 Anfangsstadium; حالَت ِ شُروع، ـ مُقَدَماتى
 anfassen; لَمس کَردَن، دَست زَدَن
+- alles, was ich anfasste, ging den Bach runter; هَر چه رِشتَم پَنبه شُد
 anfechtbar; قابِل ِ بَحث، ـ مُعارِضه، دَر مَعرَض ِ حَمله، رَد کَردَنى، قابِل ِ اِعتِراض
 anfechten; اِعتِراض کَردَن
 Anfechtung; وَسوَسه، اِغوا
@@ -1769,7 +1770,7 @@ Angelhaken; چَنگک ِ ماهى گیرى، قُلاب ِ ماهى گیرى
 angeln; ماهى گیرى کَردَن
 Angelpunkt; مَدار، نفطه گَردان
 angemessen;
-- einer Sache angemessen; ... ِ دَر خور ِ..، فَرا خور ِ ...، مُناسِب
+- einer Sache angemessen; ... ِ دَر خور ِ...، فَرا خور ِ ...، مُناسِب
 - angemessener Preis; قِیمَت ِ عادِلانه، ـ مُناسِب
 - eine dem Verbrechen angemessene Strafe; مُجازاتى دَر خور  ِ جِنایَت
 angenehm; مَطبوع، پَسَندیده
@@ -1796,7 +1797,7 @@ angeschlagen;
 angesehen; آبرومَند، مُحتَرَم
 - angesehener Mensch; آدَم ِ آبرومَند، ـ مُحتَرَم، ـ بَرجَسته، ـ زُبده
 - angesehene Arbeit; کار ِ خَطیر
-- er wird als Spion von .. angesehen; او چِشم و گوش ِ فِلان به حِساب مى آیَد
+- er wird als Spion von ... angesehen; او چِشم و گوش ِ فِلان به حِساب مى آیَد
 Angesicht; چِهره، قیافه
 - vor jem. auf das Angesicht fallen; به حُضور ِ کِسى به رو اُفتادَن
 - jem. ins Angesicht lachen; به ریش ِ کِسى خَندیدَن
@@ -1816,7 +1817,7 @@ Angestellter; کارمَند، مُتَصَدى
 - zuständiger Angestellter; مُتَصَدى ِ مَربوطه
 angestochen (wie -); مِثل ِ خوک ِ تیر خورده
 angetan;
-- angetan sein von ..;   شیفتهٔ .. بودَن
+- angetan sein von ...;  شیفتهٔ ... بودَن
 angewandt; به کار بُرده
 - angewandte Ethik;  اَخلاق ِ کاربُردی
 - angewandte Wissenschaft; عِلم ِ کاربَسته، عِلم ِ عَمَلى
