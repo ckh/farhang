@@ -2152,6 +2152,8 @@ vorab; از پیش
 - vorab benötigte Note; نُمرهٔ دَرسهاى ِ پیش نیاز
 Vorahnung; هاتِف
 - ich hatte eine Vorahnung (das was nicht stimmt); اِحساس ِ شُبهه کَردَم
+voranbringen; به پیش بُردَن
+- eine Sache voranbringen; هَر دو پا را دَر یِک کَفش کَرده
 vorankommen; پیش رَفتَن، پیشرَفت کَردَن
 - wie weit ist die Arbeit vorangekommen?; کار به چه مِنوال است؟، کار به کُجا رِسید؟
 - er kommt gut voran; کارِش را بِخوبى پیش مى بَرَد
@@ -2159,8 +2161,7 @@ vorankommen; پیش رَفتَن، پیشرَفت کَردَن
 Voranmeldung; پیش نام نِویسی
 Voranschlag;
 - Kostenvoranschlag; تَخمین ِ مَخارج، بَرآوَرد
-vorantreiben;
-- eine Sache vorantreiben; کارى را پیش بُردَن
+vorantreiben (eine Sache - ); کارى را پیش بُردَن
 Vorarbeiter; پیش کار، سَر کارگَر
 voraus; از پیش
 - im voraus bezahlen; از پیش پَرداختَن

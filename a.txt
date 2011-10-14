@@ -1551,7 +1551,7 @@ anbrennen;
 - pass auf, dass dir das Essen nicht anbrennt; مُواظِب باش تا غَذا تَه نگیرَد
 - das Essen brennt an; غَذا مى سوزَد
 - das Essen ist angebrannt; غَذا تَه گرفته، ـ سوخته اَست
-- nichts anbrennen lassen (popul.); از هَر فُرصَت اِستِفاده کَردَن
+- nichts anbrennen lassen (popul.); از هَر فُرصَت اِستِفاده کَردَن، هَر آتَش که داری بِسوزان
 anbringen; نَصب کَردَن
 - überall bringt er seine Ideen an; هَر جائى که مى رَوَد اَفکارَش را اِظهار مى کُنَد
 - etwas, was man an .. anbringt; چیزى که دَر ... تَعبیه مى شَوَد
@@ -1677,7 +1677,7 @@ anfeuern (jem. -); کِسى را تَرغیب کَردَن
 anflanschen; نَصب کَردَن
 Anflug;
 - Anflug von Stolz; حَملهٔ غُرور
-anfordern; مُطالِبه کَردَن، تَقاضا ک
+anfordern; .مُطالِبه کَردَن، تَقاضا ک
 - jem., der anfordert; مُتَقاضى، طالِب
 Anfrage;
 - Anfrage richten an; به کِسى اِستِسفار کَردَن، ـ اِستیضاح ـ

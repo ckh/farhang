@@ -479,6 +479,7 @@ Neuerung; نوآوَری
 Neugeburt; نوزايِش
 Neugierde; کُنجکاوی
 neugierig; کُنجکاو، پی جو
+- sei nicht zu neugierig, sonst wirst du nur enttäuscht; هَر چه هَم بِزَنی گَند ِ این گَنداب بیشتَر دَر میایَد
 Neujahr; سال ِ نو، تَحویل ِ سال
 Neujahrsfigur; حاجی ِ فیروز
 neulich; اَخیراً، تازِگی
@@ -828,6 +829,7 @@ Nutzen (m); مَنفعَت، بَهره، فایده، اَرزِش، هوده،
 - aus allem den besten Nutzen ziehen; چه خوش است ميوه فُروشی گَر کَس نَخورَد خودِت بِنوشی
 - jem. sucht seinen eigenen Nutzen; کِسی خَر ِ خودَش را سَوار است
 - der Helfer hat den größten Nutzen; آتَش از آتَش گُل کُنَد، یاری بِيِکدیگَر مایهٔ سَعادَت ِ یاری دَهَندِگان است
+- denk nicht nur an den Nutzen des Augenblicks; هَر چه دَر نَظَرِت خوار آیَد روزیَت به کار آیَد
 nützen; فایده داشتن
 - das nützt mir; به دَرد ِ مَن می خورَد، مَنفَعَت می بینَم
 - etwas kaufen, was jem. nützt; يِک چیز بَرای ِ دَردخوری ِ کِسی خَریدَن

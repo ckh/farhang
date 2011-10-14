@@ -1069,7 +1069,7 @@ Firmament; فَلَک ِ آسمان
 Firnis; جَلا، روغَن، لاک ِ اَلکُل
 First;
 - Dachfirst; خَرپُشتهٔ شیروانى، پُشته، نوک ِ بام
-First Lady; شَهبانو
+First Lady; شَهبانو، بانوی ِ اَوَل
 Fisch; ماهى
 - Der Köder muss dem Fisch schmecken; عَلَف باید به دَهَن ِ بُزی سیری بیاید
 - ein Fischgericht; قَلیه ماهى
@@ -1969,27 +1969,27 @@ furzen; گوزیدَن
 - unbeabsichtigt furzen; باد دَر رَفتَن از کِسی
 Fusion; اِدِغام، اِلحاق، اِئتِلاف
 fusionieren; اِدِغام شُدَن، مُلحَق شُدَن
-Fuss; پا
-- Fuss fassen; ریشه گِرِفتَن، پا گ.، رُسوخ یافتَن
-- er hat festen Fuss gefasst; او خودرا جا کَرده
-- wir haben hier Fuss gefasst; ما اینجا ماندِگار شُدیم
-- die Arbeit fasst Fuss; کار سَر و سامان میگیرَد
-- zu Fuss gehen; پیاده رَفتَن، پیاده رَوى کَردَن
-- ... zu Fuss durchqueren; با پاى ِ پیاده عُبور کَردَن، ... را از پاشنه دَر کَردَن
+Fuß; پا
+- Fuß fassen; ریشه گِرِفتَن، پا گ.، رُسوخ یافتَن
+- er hat festen Fuß gefasst; او خودرا جا کَرده
+- wir haben hier Fuß gefasst; ما اینجا ماندِگار شُدیم
+- die Arbeit fasst Fuß; کار سَر و سامان میگیرَد
+- zu Fuß gehen; پیاده رَفتَن، پیاده رَوى کَردَن
+- ... zu Fuß durchqueren; با پاى ِ پیاده عُبور کَردَن، ... را از پاشنه دَر کَردَن
 - ich muß mich zu Fuß auf den Weg machen; مَجبورَم پیاده گَز کُنَم
-- ich gehe lieber zu Fuss; مَن دوست دارَم پیاده بِرَوَم
-- wir wechselten von einem Fuss auf den anderen; ما هى این پا و آن پا کَردیم
-- mit jem. auf gutem Fuss stehen; با کِسى میانه خوبى داشتَن
-- die Füsse in die Hand nehmen; دو پا داشتَن، دو پا هَم قَرض کَردَن
-- etwas mit Füssen treten; چیزى را زیر ِ پا گُذاشتَن
+- ich gehe lieber zu Fuß; مَن دوست دارَم پیاده بِرَوَم
+- wir wechselten von einem Fuß auf den anderen; ما هى این پا و آن پا کَردیم
+- mit jem. auf gutem Fuß stehen; با کِسى میانه خوبى داشتَن
+- die Füße in die Hand nehmen; دو پا داشتَن، دو پا هَم قَرض کَردَن
+- etwas mit Füßen treten; چیزى را زیر ِ پا گُذاشتَن
 - er fällt immer auf die Füße; او مِثل ِ گُربهٔ مُرتِضی عَلی می مانَد، از هَر طَرَف که وِلِش کُنی روی ِ چَهار دَست و پا زَمین می آیَد
-- von Kopf bis Fuss; از سَر تا پا
-- bis zum Fuss des Turmes; تا پاى ِ بُرج، تا دامَنهٔ ـ
+- von Kopf bis Fuß; از سَر تا پا
+- bis zum Fuß des Turmes; تا پاى ِ بُرج، تا دامَنهٔ ـ
 - er hat s. kaputte Füße geholt; پَر و پایَش آش و لاش است
 - Entenfüße haben; این پا آن پا بودَن
-Fussabdruck; رَد پا، جاى ِ ـ
-Fussangel; پاگیر
-Fussball; فوتبال
+Fußabdruck; رَد پا، جاى ِ ـ
+Fußangel; پاگیر
+Fußball; فوتبال
 - Aufstellung & Regel, ein Auszug; تَرتیب و قاعِده، بِطور ِ خُلاصه
 - Ecke; گوشه
 - Elfmeter; تاوان، پِنتالى
@@ -2008,31 +2008,32 @@ Fussball; فوتبال
 - Torwart; هال بان، دَروازه بان
 - Trainer; مُرَبى
 - Verteidiger; پُشتیبان، مُدافِع
-Fussbank; پاى اَنداز، زیر پائی
-Fussboden; کَف ِ اُطاق
-Fussbremse; تُرمُز ِ پائى
-Fusseisen; آهَن پاگیر
+Fußbank; پاى اَنداز، زیر پائی
+Fußboden; کَف ِ اُطاق
+Fußbremse; تُرمُز ِ پائى
+Fußeisen; آهَن پاگیر
 Fussel; پُرز
 fusseln; پُرز دادَن
 - das fusselt; پُرز مى دَهَد
-Fussgänger; (plur.) عابِر ِ پیاده (عابِرین ِ پیاده)، ماشی
-Fussgängerbrücke; پُل ِ عابِر ِ پیاده
-Fussgängertunnel; راه پیاده زیر ِ خیابان
-Fussgängerüberweg; عُبور ِ پیاده
-Fussgelenk; مُچ  ِ پا، رُسغ ِ ـ، مَفصَل ِ ـ
-Fusshebel; پِدال ِ پائى
-Fussknöchel; قوزَک ِ پا، مُچ ِ پا
-Fussmatte; پادَرى
-Fussnote (beim Buch); پا نِویسى
-Fussring; خَلخال، حَلقه پا
-Fusssohle; کَف ِ پا
-Fussspann; سینه پا
-Fussspur; اثر ِ پا، جا ِپا، رَد پا
-Fusstritt (geben);  (لَگَد (به کِسى زَدَن)، اُردَنگ (زَدَن)، تیپا (زَدَن
-Fussweg; پیاده رو
+Fußgänger; (plur.) عابِر ِ پیاده (عابِرین ِ پیاده)، ماشی
+Fußgängerbrücke; پُل ِ عابِر ِ پیاده
+Fußgängertunnel; راه پیاده زیر ِ خیابان
+Fußgängerüberweg; عُبور ِ پیاده
+Fußgelenk; مُچ  ِ پا، رُسغ ِ ـ، مَفصَل ِ ـ
+Fußhebel; پِدال ِ پائى
+Fußknöchel; قوزَک ِ پا، مُچ ِ پا
+Fußmatte; پادَرى
+Fußnote (beim Buch); پا نِویسى
+Fußring; خَلخال، حَلقه پا
+Fußsohle; کَف ِ پا
+Fußspann; سینه پا
+Fußspur; اثر ِ پا، جا ِپا، رَد پا
+Fußtritt (geben);  (لَگَد (به کِسى زَدَن)، اُردَنگ (زَدَن)، تیپا (زَدَن
+Fußweg; پیاده رو
 Futter;
 - Futterstoff; آستَر
 - Viehfutter; عُلوفه، خوراک، عَلیق، قَصیل
+- er ist ein guter Futterverwerter; هَر چه خورده پَس نَداده
 Futteral; پوشه، جِلد
 Futterhändler; عَلاف
 füttern; خوراندَن

@@ -785,6 +785,7 @@ werden; شُدَن
 - sie sind entlassen worden; آنها اِخراج شُده اند
 - mir wurde wichtig, dass; به نَظَرَم لازِم و بِجا آمَد که
 - wird schon (popul.); هَر چه پيش آيَد خوش آيَد
+- es wird schon werden; هَر چه پیش آیَد خوش آیَد
 werfen; پَرتاب کَردَن، اَنداختَن
 - einen Blick auf die Tür werfen; نِگاهى به دَر کَردَن
 - Geld in den Kasten werfen; پول توی ِ صَندوق اَنداختَن
