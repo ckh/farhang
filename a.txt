@@ -661,6 +661,8 @@ Absolutismus; اِستِقلال، مُطلَقیَت، اِستِبداد
 Absolvent (von Universität); فارِغ اُلتَحصیل
 absolvieren; تَمام کَردَن
 - sein Arbeitspensum absolvieren; کار ِ خودرا اَدا کَردَن
+- sein Studium absolvieren; فارِغ اُلتَحصیل شُدَن
+Absolvierungsfeier; جَشن ِ فارِغ اُلتَحصیلی
 absondern;  .سَوا کَردَن، جُدا ک
 Absonderung; اَفراز، جُدائى، تَفکیک
 Absorption; جَذب، مَجذوبات
@@ -1655,7 +1657,8 @@ anfangen; آغازیدَن، آغاز کَردَن، شُروع ک.، پَردا
 - es fängt an, zu regnen; باران شُروع به آمَدَن کَرد
 - ich fing an zu beten; به دُعا مَشغول شُدَم
 - sie fingen an, zu weinen; گِریه را سَر دادَند
-- als er .. sah, fing er an, zu schreien; دَر حالیکه .. دید دَست به فَریاد گُذاشت
+- als er ... sah, fing er an, zu schreien; دَر حالیکه ... دید دَست به فَریاد گُذاشت
+- Einer, der 1000 Sachen anfängt, aber nichts zu Ende bringt; آدَم ِ هِزار کاره کَم مایه است
 - angefangen von ... bis ...; ... اَز ... گرفته تا
 - etwas hat angefangen; چیزى به راه افتاد
 - Fangt an!;  !دَست به کار شَوید
@@ -2193,10 +2196,10 @@ anschaulich; واضِح، تَجَسُمى
 - in einer anschaulichen Art; به صورَت ِ مَلموس
 - in einer anschaulicheren Art; به صورَت ِ مَلموستَرى
 Anschauung;
-- Weltanschauung der ..; مَسلَک ِ..، بینِش ِ ..، جَهان بین  ِ
+- Weltanschauung der ...; ِ مَسلَک ِ...، بینِش  ِ ...، جَهان بین
 - Anschauungsprinzip; اَصل ِ مُشاهِده
 Anschein;
-- es erweckt den Anschein, dass; چِنین مى نَمایَد که، اِحتِمال دارَد که، اینطور به نَظَر مى رِسَد که، بِظاهر ِ.. بودَن، صورَت ِ.. داشتَن
+- es erweckt den Anschein, dass; چِنین مى نَمایَد که، اِحتِمال دارَد که، اینطور به نَظَر مى رِسَد که، بِظاهر ِ... بودَن، صورَت ِ... داشتَن
 anscheinend; ظاهِراً، اِحتِمالاً
 anschicken (s. -); قَصد داشتَن، دَر صَدَد ِ چیزى بَر آمَدَن، اِقدام کَردَن
 Anschlag; ضَربه، تَخریب، سوء ِ قَصد
@@ -2208,7 +2211,7 @@ anschleichen; پاوَرچین نَزدیک شُدَن
 anschliessen; وَصل کَردَن
 - angeschlossen;  .وَصل شُده، مُتَصِل ش
 - Wasser und Strom waren noch nicht angeschlossen; آب و بَرق دایِِر نَبود
-- s. an .. anschliessen; به .. گِرَویدَن
+- s. an ... anschliessen; به ... گِرَویدَن
 - er schliesst s. mir an; به مَن مُلحَق مى شَوَد
 anschliessend; دَر پایان ِ آن
 Anschluss; اِتِصال، اِلحاق
@@ -2321,7 +2324,7 @@ anstandslos;
 anstarren;
 - jem. unverwandt anstarren; به کِسى زُل زُل زَدَن، کِسى را زُل ز.، به کِسى خِیره شُدَن، کِسى را بَربَر نِگاه کَردَن، نِگاه ِ نافِذ به کِسى اَنداختَن، وَر اَنداز کَردَن، بِر و بِر نگاه کَردَن
 anstatt;
-- anstatt dass sie s. an .. lehnen; بِجاى ِ اینکه به .. تِکیه کُنَند
+- anstatt dass sie s. an ... lehnen; بِجاى ِ اینکه به ... تِکیه کُنَند
 anstecken;
 - jem. mit seiner Krankheit anstecken; بیمارى اش را به کِسى سَرایَت دادَن
 - jem. mit seinen Ideen anstecken; کِسى را مَشوب کَردَن
@@ -2380,7 +2383,7 @@ anstrengen;
 Anstrengung; رَنج، زَحمَت، اِجتِهاد، تَکاپو
 - aufgrund der Anstrengungen; ِ به اِهتِمام ِ ..، به مَساعى ِ، به هِمَت
 - mit welcher Anstrengung haben wir ...;  ... با چه جان کَندَنی
-anstückeln; چیزى را به .. چَسباندَن، ـ اِلحاق کَردَن
+anstückeln; چیزى را به ... چَسباندَن، ـ اِلحاق کَردَن
 Ansturm; هُجوم، تَهَجُم
 anstürmen;
 - gegen etwas anstürmen;  .بَر سَر ِ چیزى هُجوم آوَردَن، ـ حَمله کَردَن، ـ تَهَجُم ک
@@ -2490,15 +2493,15 @@ anwesend;
 - sehr geehrte Anwesende (in Anrede); زَنان، آقایان، حُضار ِ مُحتَرَم
 Anwesenheit; حُضور
 - in Ihrer Anwesenheit; دَر حُضورِتان
-- in Anwesenheit von ..; با حُضور دَر
+- in Anwesenheit von ...; ِ با حُضور
 - namentliche Anwesenheit aufrufen (z.B. in der Klasse); حاضِر و غَیاب کَردَن
-- .. die durch ihre Anwesenheit Anlass waren zu ..; که با تَشریف فَرمائى ِ خود موجِب ِ .. شده اند
+- ..., die durch ihre Anwesenheit Anlass waren zu ...; که با تَشریف فَرمائى ِ خود موجِب ِ ... شُده اند
 Anwesenheitsliste; لیست ِ حُضور و غیاِب، لیست ِ حُضار، صورَت ِ حُضور
 anwinkeln; زاویه گُذاشتَن
 - angewinkelt; زاویه دار
 Anwohner; هَمجَوار
 Anzahl; تِعداد، عَدَد
-- eine Anzahl war es, die ..; عِده اى بود که
+- eine Anzahl war es, die ...; عِده اى بود که
 anzahlen;
 - (Miete, u.ä.) anzahlen; پیشکِرایه کَردَن
 - jem. anzahlen; به کِسى مُساعِده دادَن
@@ -2508,7 +2511,7 @@ anzapfen;
 - anzapfen (Baum); شیره کِشیدَن اَز دِرَخت
 - anzapfen (Bierfass); چِلیک ِ آبجو را سوراخ کَردَن
 Anzeichen;
-- das ist das erste Anzeichen von ..; این اَوَلین نِشانه اَست
+- das ist das erste Anzeichen von ...; این اَوَلین نِشانه اَست
 - es gibt noch kein Anzeichen von ...; نِشانى اَز ... نیست
 anzeichnen; تَرسیم کَردَن، عَلامَت زَدَن
 - Schnur zum Anzeichnen; ریسمان ِ عَلامَت گُزارى
@@ -2731,9 +2734,9 @@ Arm (m); (plur.)  (بازو (بازوان
 - Arm in Arm; دَست به دَست
 - jem. in den Arm nehmen; کِسى را دَر آغوش گِرِفتَن
 - wenn mir jem. in den Arm fällt (i.S. hindert); اَگَر کِسى جِلویَم را بگیرَد
-- jem. auf den Arm nehmen;  .کِسى را دَست انداختَن، ـ کوک کَردَن، ـ خِیت ک.، ـ مَسخَره ک
+- jem. auf den Arm nehmen;  کِسى را دَست انداختَن، ـ کوک کَردَن، ـ خِیت ک.، ـ مَسخَره کَردَن
 - jem. unter die Arme greifen; دَست زیر ِ بال ِ کِسی کَردَن
-- mit einem Arm voll von ..; ... ِ با یِک بَغل
+- mit einem Arm voll von ...; ... ِ با یِک بَغل
 - wir reissen uns die Arme aus; ما از تَمام ِ جَوار هَمان مایه مى گُذاریم
 Armada; فوج
 - eine Armada von Schiffen;ِ فوج کِشتیها
@@ -3035,7 +3038,7 @@ aufbrühen;
 - Tee aufbrühen; چاى دُرُست کَردَن
 - aufgebrühter Tee; چای ِ دَم کِشیده
 aufbürden;
-- jem. aufbürden; به کِسى مُحَوَل کَردَن، ـ تَحمیل ک.، بار گُذاشتن
+- jem. aufbürden; به کِسى مُحَوَل کَردَن، ـ تَحمیل ک.، بار گُذاشتَن
 aufdecken;
 - etwas aufdecken; چیزى را بُروز دادَن، پَرده از روى ِ چیزى بَرداشتَن، چیزى را پَس زَدَن، تَق ِ کاررا دَر آوَردَن
 - eine Lüge aufdecken; دُروغ را بَرمَلاء کَردَن
@@ -3056,6 +3059,7 @@ Aufeinanderfolge; پِى دَر پِى آمدن، تَوالى، تَعاقُب
 aufeinanderfolgend; بِطور ِ پِیا پِى، پُشت ِ سَر ِ هَم
 - aufeinanderfolgende Generationen; ذُریات ِ مُسَلسَله، نَسلهاى ِ مُتَعاقِب
 - aufeinanderfolgende Jahre; سالهاى ِ مُتَوالى
+- aufeinanderfolgende Tage; روزهای ِ مُتَمادی
 - aufeinanderfolgende Katastrophen kommen auf uns zu; بَلاها پِى دَر پِى بَر ما مى آیَند
 aufeinanderstossen;  .بَرخورد کَردَن، تَصادُف ک
 Aufeinandertreffen;
@@ -3231,7 +3235,7 @@ aufheben;
 - wird für .. aufgehoben, die ...; بَراى ِ .. نِگَه داشته شُده که
 - aufgeschoben ist nicht aufgehoben; دَفع اُلوَقت رَفع اُلاَمر نیست
 Aufhebens;
-- Aufhebens machen von ..; از چیزى شاط و شوط کَردَن، بَر سَر ِ چیزى قیل و قال راه انداختَن، حَرفهاى ِ صَد تا یک غاز زَدَن
+- Aufhebens machen von ...; از چیزى شاط و شوط کَردَن، بَر سَر ِ چیزى قیل و قال راه انداختَن، حَرفهاى ِ صَد تا یک غاز زَدَن
 - ohne viel Aufhebens; با سوختَن و ساختَن
 Aufhebung;
 - Aufhebung (jurist.); تَعلیق، اِلقاء، فَسخ
@@ -3253,11 +3257,12 @@ Aufhetzer; چاخان، تَحریک کُنَنده، شورِش طَلَب، م
 Aufhetzung; تَهییج، تَحریک
 aufholen; به کِسی رِسیدَن
 aufhorchen; تَوَجُه کَردَن، گوش دادَن
-aufhören; چیزى را موقوف کَردَن، لَنگ ک.، مَکث ک.، بُریدن، واایستادَن
+aufhören; چیزى را موقوف کَردَن، لَنگ ک.، مَکث ک.، بُریدَن، واایستادَن
 - mit dem Lachen aufhören; از خَنده دَست نِگَه داشتَن
 - eine Zeitlang aufhören; وَقفه اى حاصِل گَردیدَن
 - diese Sache aufhören; از این کار فُرو گُذار بودَن
 - aufhören, Arbeit zu suchen; از جُستِجوى ِ کار باز ایستادن
+- das Studium aufhören; تَرک ِ تَحصیل کَردَن
 - ich habe endgültig mit der Politik aufgehört; مَن سیاسَت را بوسیدَم و کِنار گُذاشتَم
 - Hör doch auf!;  !بَس کُن
 - aufhören, in Ruhe lassen; کوتاه آمَدَن
@@ -3400,12 +3405,12 @@ Aufopferung; فَداکارى، جان نِثارى
 aufpassen;
 - aufpassen, prüfen;  .دِقََت کَردَن، تَوَجُه ک
 - auf jem. aufpassen; از کِسى مُراقِبَت کَردَن، ـ مُواظِبَت ک.، مُراقِب ِ کِسى بودَن
-- pass doch auf!; بِخود بِپا!، مُواظِبَت باش!، حَواسَت را جَمع کُن
 - passen Sie auf, dass Sie nicht fallen; بپایید نَیُفتید
 - sie passen auf ihre Worte auf; آنها پاس ِ سُخَن ِ خودرا دارَند
 - warum passen die Leute so wenig auf?; چِرا مَردُم این قَدر بى مُلاحِظه اَند؟
 - ich habe nicht aufgepasst; حَواسَم نَبود
 - er passt nicht auf; سَرش با تَه اش بازى مى کُنَد، حَواسَش پَرت اَست
+- Paß auf dich auf; آسه بُرو آسه بیا که گُربه شاخِت نَزَنه، مُواظِب باش که آسیب نَبینی، بِخود بِپا!، مُواظِبَت باش!، حَواسَت را جَمع کُن
 Aufpasser; مُبَصِر، ناظِر، نِگَهبان، مُحافِظ، بِپا
 - bin ich etwa sein Aufpasser?; مَگَر مَن بِپای ِ او هَستَم؟
 aufpfropfen;

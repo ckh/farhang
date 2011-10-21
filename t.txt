@@ -404,6 +404,7 @@ theoretisch; نَظَرى، تئوریک
 - theoretische Erkenntnis; دَریافت ِ نَظرى
 Theorie; نَظَریه، تِئورى
 - Theorie & Praxis; نَظَریه و عَمَل
+- in der Theorie alles beherrschen, aber auch nur in der Theorie; آب نِمی بینه وَلی شِناگَر ِ ماهِریه
 Therapeut; دَرمان شِناس
 therapeutisch; دَرمانى
 Thermalquelle; سَرچِشمهٔ آب ِ مَعدَنى
@@ -481,6 +482,7 @@ Tisch; میز
 - am runden Tisch diskutieren; دور ِ میز ِ گِرد بَحث کَردَن
 - jem. über den Tisch ziehen; کِسی را سَر و کیسه کَردَن
 - die Sache ist vom Tisch; موضوع حَل شُده
+- trotz gedecktem Tisch bleibt der Magen leer; آب دَر کوزه و ما تِشنه لَبان می گَردیم
 - Beistelltisch; پیشدَستى
 - Freitisch; خوان ِ يَغما
 Tischler; نَجار
@@ -840,6 +842,7 @@ Trick; تَرفَند
 - das sind keine faulen Tricks; مَن شیله پیله توی ِ کارَم نیست، راستی حُسِینی هَستَم
 - kleine Tricks; لَطایف اُلحيَل
 - zur Vermeidung dieser Tricks; بَراى ِ اِجتِناب از این تَرفَندها
+- seine Tricks führen zu nichts; آب از سَرِش گُذَشت
 tricksen;  .بامبول زَدَن، فَن ز
 Trickserei; حُقه بازى، شیله پیله
 Trieb;

@@ -1110,6 +1110,7 @@ Problem; مَسئَله، مُشکِل
 - sie machten dem Zirkus Probleme; آنها پِدَر ِ سیرک را دَر آوَردَند، بَراى ِ سیرک دَردِسَر ِکَذائى را دُرُست کَردَند
 - sie verursachen Probleme; چوب لاى ِ چَرخ مى گُذارَند، آنها مَسئَله ساز هَستَند
 - kein Problem!; مَسئَله اى نیست
+- wo ist das Problem?!; آب که از سَر گُذَشت چه یِک وَجَب چه صَد وَجَب
 - wenn sie keine Probleme haben, ...; اگر کِیکِشان هَم نِمى گَزَد
 - sein Leben besteht nur aus Problemen; آب ِ خوش از گَلوى ِ او پایین نِمى رَوَد
 - eines der Probleme des Landes; يِکى از مُعضِلات ِ کِشوَر

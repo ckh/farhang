@@ -1173,8 +1173,8 @@ Hinterzimmer; پَستو
 Hinweis; اِطِلاع، اِشاره، مُراجِعه
 hinweisen;
 - auf etwas hinweisen; بَر چیزى دِلالَت کَردَن، به چیزى مُراجِعه ک.، ـ رُجوع ک.، ـ اِشاره ک
-- darauf hinweisen, dass ..; خاطِرنِشان کَردَن که
-- das weist darauf hin, dass ..; این دال بَر آن است که
+- darauf hinweisen, dass ...; خاطِرنِشان کَردَن که
+- das weist darauf hin, dass ...; این دال بَر آن است که
 hinwenden;
 - s. hinwenden zu ...; رو بُردن به، مُتَمَسِک شُدَن به، رُجوع کَردَن به
 Hinwendung;
@@ -1256,7 +1256,7 @@ hochleben;
 - s. hochleben lassen; نوش ِ جان ِ خود کَردَن
 Hochleistung; تَوان ِ بالا، قُدرَت ِ زیاد
 Hochmut; اَنانیَت، تَکَبُر، غُرور
-- Hochmut kommt vor dem Fall; فَواره چون بُلَند شَوَد سَرنِگون شَوَد 
+- Hochmut kommt vor dem Fall; فَواره چون بُلَند شَوَد سَرنِگون شَوَد، آخَر ِ شاه مَنِشی کاه کِشی است
 hochmütig; کَله بَر باد، بَرتَرمَنِش، مَغرور، مُتَکَبِر
 hochnäsig; پُراِفاده، کَله خَر
 hochnehmen;

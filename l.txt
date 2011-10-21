@@ -1078,13 +1078,14 @@ Lohn; دَستاوَرد، دَستمُزد، اُجرَت، حُقوق
 - bei jemandem in Brot & Lohn stehen; نان ِ کِسی را خوردَن، سَر ِ سُفرهٔ کِسی نان و نَمَک خوردَن
 - Der Arbeiter ist seines Lohnes wert; اَرزِش ِ يِک کارگَر بِاَندازهٔ اُجرَتَش است، کارگَر مُستَحَق ِ مُزد ِ خود است
 - jem. den Lohn vorenthalten; نان ِ کِسی را آجُر کَردَن
+- der gut wirtschaftet, bekommt auch seinen Lohn; آدَم ِ خوش معامِله شَریک ِ مال ِ دیگَرانه
 - Finderlohn; مُشتلُق
 - Reallohn; مُزد ِ واقِعی
 Lohnarbeiter; اَجیر
 Lohnempfänger; حُقوق بِگیر
 lohnen (s. -); اَرزِش داشتَن، اَرزیدَن، مُفید بودَن، صَرف کَردَن
 - die Arbeit lohnt s.; این کار صَرف می کُنَد، ـ اَرزِش دارَد
-- das lohnt s. nicht; آفتابه را خَرج ِ لَحیم کَردَن، این چیز نِمی اَرزَد
+- das lohnt s. nicht; آفتابه را خَرج ِ لَحیم کَردَن، این چیز نِمی اَرزَد، آفتابه خَرج ِ لَحیمه
 - lohnt s. nicht, zu erwähnen; تَعَریفی نَداشتَن
 Lohnsteuer; مالیات ِ حُقوق
 Lohnsteuerkarte; کارت ِ مالیاتی

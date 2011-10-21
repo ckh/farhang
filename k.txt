@@ -572,6 +572,7 @@ klanglos; بى صِدا، بى طَنین
 Klappe;
 - Klappe (z.B.: Ventil-); دَریچه
 - eine grosse Klappe haben; لاف زَدَن، گُزاف گُفتَن
+- Große Klappe, nichts dahinter; آفتابه لَگَن هَفت دَست شام و ناهار هیچی
 klappen;
 - etwas nach hinten klappen; چیزى را عَقَب زَدَن
 - wenn alles klappt; اَگَر جور بیايَد

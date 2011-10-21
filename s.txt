@@ -78,6 +78,7 @@ sagen; (präs.)  (عَرض کَردَن، گُفتَن (مى گويَد
 - was sagen Sie dazu?; نَظَرِتان دَر این مورِد چیست؟
 - ich habe mir sagen lassen, dass ...; شِنیده ام که
 - sie haben s. nichts mehr zu sagen; دیگَر چیزى نَدارَند بِهَم بِگويَند
+- ohne drum herum etwas sagen; رُک و پوست کَنده گُفتَن
 - Sag mir mal; بِگو بِبینَم
 - wie man so sagt; بِقول ِ مَعروف
 - ich habs doch gesagt!; مَن که گُفتَم
@@ -164,6 +165,7 @@ Samtsessel (m); صَندَلى ِ مَخمَلى
 Sanatorium; آسايِشگاه
 Sand;
 - der Hof muss mit Sand bedeckt werden; مُحَوَطه بايَد شِن ریزى شَوَد
+- etwas in den Sand setzen; سَنبَل کاری کَردَن
 - Feinsand; ماسه
 - Flugsand; ریگ ِ رَوان
 - Grobsand; ریگ، شِن
@@ -872,7 +874,7 @@ schlaksig; لَندوک، دِراز و باریک
 Schlamm; لَجَن، سیاه آب، آب مُرده، گِل
 Schlampe; زَن ِ شِلَخته، زَن ِ زانیه، عَجوزه، پَتیاره
 Schlamper; شِلَخته
-Schlamperei; مُسامِحه، سُنبُل کارى، سَهل اِنگارى، شِلَختِگی
+Schlamperei; مُسامِحه، سَنبَل کارى، سَهل اِنگارى، شِلَختِگی
 schlampig; لااُبالى، بى مُبالاتى، شِلَخته، ریغو، جُلُنبُر
 - schlampige (i.S. fehlerhafte) Antwort geben; جَواب ِ سَر بالا دادَن
 - dessen Äusseres schlampig aussah; او که حِیکَلِش به جاهِلان مى رَفت
@@ -3582,6 +3584,7 @@ Stillstand; اِسکات، سُکونَت
 - zum Stillstand kommen; به وُقوف رِسیدَن، به تَوَقُف ر.، وَقفه پیش آمَدَن
 - Stillstand der Blutung; رُکود ِ َدم
 - der Regen kommt zum Stillstand; باران بَند آمَد
+- Stillstand ist Tod; آبی که دَر یِک جا مونده می گَنده
 stillstehen; به سُکوت رِسیدَن
 - vor Freude konnte er nicht stillstehen; از شادى روى ِ پاى ِ خود بَند نَبود
 Stillung;
