@@ -544,6 +544,7 @@ Fehltreffer; تیر ِ غِیبى، کَم بُرد، تیر بِخَطا
 Fehltritt; لَغزِش، سُقوط ِ اَخلاقى
 - einen Fehltritt begehen; مُرتَکِب ِ لَغزِش شُدَن، کار نارَوا کَردَن، خَطا ک.، دَسته گُل به آب دادَن
 - keinen Fehltritt begehen; دَست از پا خَطا نَکَردَن
+- ein Fehltritt kann alles verändern; از مَردی تا نامَردی یِک قَدَم است
 Fehlurteil; قِضاوَت ِ نابِجا
 Feier; جَشن
 - eine Feier begehen; جَشن گِرِفتَن
@@ -1183,8 +1184,9 @@ fleischlich; نَفسانی
 Fleischtopf;
 - die Fleischtöpfe für die Reichen, für die Armen der Geruch davon; پولدارها با کَباب بی پولها به بوی ِ کَباب
 Fleischwolf; چَرخ گوشت
-Fleiss; پُشتِکار، جِد و جَهَد، رَنج، زَحمَت، اِجتِهاد
-- durch den Fleiss ...; ... ِ به اِهتِمام
+Fleiß; پُشتِکار، جِد و جَهَد، رَنج، زَحمَت، اِجتِهاد
+- durch den Fleiß ...; ... ِ به اِهتِمام
+- Ohne Fleiß kein Preis; آدَم تا کوچِکی نَکُنه به بُزُرگی نِمیرِسه
 fleissig; ساعى، زِرَنگ، پُشت ِکاردار
 - er arbeitete fleissig; او خِیلى پُشت ِ کار داشت
 - ameisenfleissig; موریانه وار

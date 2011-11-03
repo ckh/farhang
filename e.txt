@@ -260,6 +260,7 @@ eigen;
 - etwas sein eigen nennen; چیزى را دارا بودَن
 - das ist sein eigen; این مُختَص ِ اوست
 - das soll dein eigen sein; خاص ِ تو باشَد، مال ِ ـ
+- sich etwas zu eigen machen; آنقَدر مار خورده اَفعی شُده
 - der Schreibstil ist ihm eigen; سَبک ِ نِوِشته هایَش مُختَص بِاوست
 - auf eigene Faust; خودسَرانه
 - sie haben ihre eigene Veranstaltung; آنها جَلَسهٔ ویژهٔ خودرا دارَند

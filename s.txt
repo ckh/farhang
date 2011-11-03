@@ -1109,6 +1109,7 @@ schmecken;
 - s. das ... schmecken lassen; نوش ِ جان کَردَن...
 - selbst das Beste schmeckt nicht; حَلوارا با بَلوا خوردَن و نوش را بَر خود ِ نیش ساختَن
 - die Kirschen aus Nachbars Garten schmecken am besten; مَنع چو بینَد حَریص تَر شَوَد اِنسان
+- was mir nicht schmeckte, bekam ich vorgesetzt; از هَرچه بَدَم آمَد بَر سَرَم آمَد
 - der Wurm muss dem Fisch schmecken, nicht dem Angler; عَلَف بايَد به دَهَن ِ بُزی سیری بیايَد
 Schmeichelei; تَمَلُق، چاپلوسى، هِندِوانه، زَبان بازى
 schmeicheln (jem. -); به کِسى مُداهَنه کَردَن، کِسى را خایه مالى ک.، ـ چاپلوسى ک.، تَمَلُق ک.، هِندِوانه زیر ِ بَغَل ِ کِسی گُذاشتَن، بادِنجان دور ِ قاب ِ کِسی چیدَن
@@ -4171,14 +4172,16 @@ Symetrieschaltung; مَدار ِ مُتَعادِل، اِتِصال ِ سیمِ
 symetrisch; موزون، مُتَقارِن، قَرین، مُتَناسِب
 - unsymetrisch; لِنگه به لِنگه، تا به تا، ناموزون
 - etwas unsymetrisch schneiden; چیزی را تا به تا زَدَن
+- unsymetrische Kriegsführung; جَنگهای ِ ناهَمِگون
 Sympathie; رأفَت، عاطِفه، هَمدِلى، اِنجِذاب، اُنس، اُلفَت
 - Erweisung von Sympathie; تَعطُف
 - Sympathie für seine Freunde haben; هَوای ِ دوستهايَش را داشتَن
 Sympathisant; هَواخواه، هَمدِل
+sympathisch; دوست داشتَنی
 sympathisieren;  .هَواخواه بودَن، هَمدِل ب
 sympathisierend; مُتَمايِل
 Symphonie; سَمفونى
-Symposium; سِمپوزیوم
+Symposium; سِمپوزیوم، هَمایِش
 Symptom; نِشانه
 Synapsis; مَحَل ِ پِیوَست ِ دو یاختهٔ عَصَبى
 synchron; يِک زَمان، هَمزَمان، هَماهَنگ

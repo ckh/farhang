@@ -230,7 +230,7 @@ Oktopus; اَخطَبوط
 Okular; عَدَسى ِ چِشمى
 Okzident; غَرب، مَغرِب زَمین
 Öl;
-- Öl ins Feuer giessen; دامَن بَر آتَش زَدَن
+- Öl ins Feuer giessen; دامَن بَر آتَش زَدَن، آتَش با آتَش خاموش نَشَوَد
 - das geht wie Öl über unsere Lippen; مِثل ِ نَقل و نَبات بَر زَبان ِ ما جارى است
 - Erdöl; نَفت
 - Pflanzenöl; روغَن

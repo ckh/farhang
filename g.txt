@@ -1810,12 +1810,14 @@ Gleichheitszeichen; عَلامَت ِ تَساوى
 gleichkommen;
 - keiner konnte ihm gleichkommen; هیچکس پاى ِ او نَرسید
 Gleichmacherei; هَمه را هَمتِراز کَردَن
-gleichmässig;
-- es regnet gleichmässig; باران یِک ریز مى بارَد
-- gleichmässig laufen; میزان چَرخیدَن
-- ungleichmässig; لِنگه به لِنگه، تا به تا، ناموزون
-- etwas ungleichmässig schneiden; چیزی را تا به تا زَدَن
-Gleichmässigkeit; یِکنَواختِگى
+gleichmäßig;
+- es regnet gleichmäßig; باران یِک ریز مى بارَد
+- gleichmäßig laufen; میزان چَرخیدَن
+- gleichmäßig zusammengesetzte Klassen; کلاسهای ِ هَمِگون
+- ungleichmäßssig; لِنگه به لِنگه، تا به تا، ناموزون
+- etwas ungleichmäßig schneiden; چیزی را تا به تا زَدَن
+- ungleichmäßig zusammengesetzte Klassen; کلاسهای ِ ناهَمِگون
+Gleichmäßigkeit; یِکنَواختِگى
 gleichnamig; هَم اِسم، هَم نام
 Gleichnamigkeit; تَجنیس
 Gleichnis (*: Beispiel); مَثَل

@@ -1027,6 +1027,7 @@ belasten;
 - Maschine belasten; ماشین را بار کَردَن، ـ فِشار کَردَن
 - diese Sache belastet mich; این قَضیه سَر ِ بار ِ مَن شُده است
 - den Angeklagten belasten; بر عَلِیه مُتَهِم صُحبَت کَردَن
+- unbelastet leben; اِجاره نِشین خوش نِشینه
 belästigen; دَرد ِ سَر دادَن، کَسِل کَردَن، مُزاحِم شُدَن، تَصدیع دادَن
 - er belästigt mich; او دَرد ِ سَر ِ مَن شُد، او موى ِ دَماغ ِ مَن شُد، او پِدَرَم را دَر مى آوَرَد
 - jem. nicht weiter belästigen; دَست از سَر ِ کِسى بَرداشتَن
@@ -2367,6 +2368,7 @@ Bildung; مَعَرَفَتى، فَضائِل، فَضل، تَشَکُل
 - Recht auf Bildung; حَق ِ تَحصیل
 - Menschen mit Bildung; آدَمهاى ِ فَرهیخته
 - mit Bildung verbunden; مَعارِفى
+- Bildung ist das beste Kapital; اَدَب بُزُرگتَرین سَرمایه است
 - Regierungsbildung; تَشکیل ِ دولَت
 Bildungschancen; فُرصَتهاى ِ آموزِشى
 Bildungspolitik; سیاسَت ِ آموزِش و پَروَرِش
