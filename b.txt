@@ -2,6 +2,7 @@ babbeln; لُند لُند کَردَن، وِرد ِ کَلام ک.، هِى ح
 Baby; (plur.) (نوزاد، شیرخور، طِفل (اَطفال
 - Babyboom; بیش زائى، پُر ـ
 Bach; جوى ِ آب
+- alles geht den Bach runter; بَند را آب بَرَد
 Bachstelze; دُم جَنبانَک
 Backblech; سینى ِ داخِل ِ فِر
 Backbord; سَمت ِ چَپ ِ کِشتى
@@ -9,6 +10,7 @@ Backe; (pl.) وَجنه (وَجَنات)، گونه
 - jem. auf die Backe schlagen; به کِسى سیلى زَدَن
 - mit vollen Backen essen; - لُپ لُپ خوردَن، دو لُپی
 - noch nicht bis 3 zählen können, aber schon dicke Backen machen; هَنوز غوره نَشُده مَویز شُده
+- dicke Backen machen; باد دَر کُلاه اَفکَندَن
 - Bremsbacke; کَفشَک ِ تُرمُز
 backen; پُختَن
 Bäcker; نانوا ، نانپَز، خَباز
@@ -2010,6 +2012,7 @@ beurlauben;
 beurteilen; اِنتِقاد کَردَن، قِضاوَت ک.، تَشخیص دادَن
 - wie beurteilt ihr das?; رأى ِ شُما چیست؟
 - richtig beurteilen; کُلاه ِ خود را قاضی کَردَن
+- nicht voreilig beurteilen;  بِچِش بَعد بِگو بی نَمَکه
 Beurteilung; داوَرى، قِضاوَت، اَرزیابى
 - Beurteilung, Zeugnis; دانِش نامه، کارنامه
 - Beurteilung der Persönlichkeit; اَرزیابى ِ شَخصيَت

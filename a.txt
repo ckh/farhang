@@ -18,7 +18,7 @@ ab;
 - ab & an; هَر چَند وَقط یک بار
 - ab & zu; بِنُدرَت
 Abakus; چُرتکه
-- mit dem Abakus rechnen; چُرتکه انداختَن
+- mit dem Abakus rechnen; چُرتکه اَنداختَن
 Abänderung; اِصلاح، تَغییر
 abarbeiten; تَمام کَردَن
 - s. abarbeiten; فَعلِگى کَردَن
@@ -281,6 +281,7 @@ Abguss; طَبع، قالِب، ریخت
 abhacken; بُریدَن، قَطع کَردَن
 abhaken; عَلامَت گُذاشتَن، نِشانه گُذارى کَردَن
 - Thema war abgehakt; موضوع مُنتَفى شُد
+- das ist abgehakt; بایَد گُذاشت دَر کوزه آبَش را خورد
 abhalten;
 - jem. abhalten von; کِسى را مَنع کَردَن، ـ باز داشتَن
 - sie konnten die Menschen abhalten; آنها مى تَوانِستَند مانِع ِ مَردُم شَوَند، - جِلوی ِ مَردُم را بِگیرَند
@@ -646,8 +647,9 @@ Absicht; تَعَمُد، غایَت، مَرام، قَصد، مَقصود، م
 - er hat die Absicht, zu verreisen; او عَزم ِ سَفَر دارَد
 - mit der Absicht; به این عُنوان
 - deine wahren Absichten (i.S.: Betrügereien) werden offenbar;  همهٔ آتَشها از گور ِ تو بُلَند می شَوَد
-- ist da keine faule Absicht dahinter?; دوز و کَلَک توی ِ کار نَباشَد؟
+- ist da keine faule Absicht dahinter?; دوز و کَلَک توی ِ کار نَباشَد؟، چه کاسه ای زیر ِ نیم کاسه اَش است
 - er verliess Iran mit der Absicht, nach Deutschland zu gehen; به قَصد ِ آلمان ایران را تَرک گُفت
+- die Absicht war gut, das Ergebnis jedoch nicht; بَچه سَر ِ راهی بَرداشتَم پِسَرَم شَوَد آقا بالا سَرَم شُد
 - Expansionsabsichten; اِغراض ِ توسعه طَلَبى
 absichtlich; عَمداً، عامِداً
 Absinth; عَرَق ِ اَفسِنتین
@@ -4031,6 +4033,7 @@ ausflippen; از جا دَر رَفتَن
 Ausflucht; بَهانه، طَفره
 - Ausflüchte machen; توریَت، توریه، دو پَهلو حَرف زَدَن
 - Entschuldigungen & Ausflüchte; عُذر و بَهانه
+- ständig Ausflücht suchen; به شُتُر مُرغ گُفتَند: بار بِبَر گفت: مُرغَم. گُفتَند: بِپَر گُفت: شُتُرَم
 Ausflug; گَردِش، بَرنامهٔ تَفریحی
 - Ausflug machen; تَفَرُج کَردَن
 Ausflugsort; تَفَرُج گاه، تَفریح گاه

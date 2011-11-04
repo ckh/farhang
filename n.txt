@@ -204,6 +204,7 @@ Nackenschlag; قَفا، پَس گَردَنی
 - für das ich später Nackenschläge bekam; که پَس گَردَنی ِ بَعدی را خوردَم
 nackt; لُخت، عور، بِرَهنه، رُت، عُریان
 - nackte Offenheit; صِداقَت ِ بی پیرایه
+- nackt kommen wir in die Welt, nackt gehen wir von der Welt; بِرَهنه آمَدیم و بِرَهنه خواهیم رَفت
 Nacktheit; عوری، بِرَهنِگی، لُختی، عورَت
 Nadel; سوزَن
 - Nadel, Zeiger; شاهین، عَقرَبه
@@ -389,6 +390,7 @@ nehmen; گِرِفتَن، بُردَن، بَرداشتَن
 - Verhältnis zwischen Nehmenden & Gebenden; نِسبَت ِ سِتانده ها به داده ها
 Neid; حَسودی، حَسَد، حِسادَت، غِبطه
 - Objekt des Neides; مَحسود
+- Neid ist die Wurzel allen Übels (deshalb sei nicht neidisch); اَگَر خواهی اَندوهگین نَباشی حَسود مَباش
 neidisch;
 - neidisch sein; غِبطه خوردَن، حَسود بودَن
 - sie waren auf ihn neidisch; به او حَسَد میبُردَند، چِشم دیدَنِش را نَداشتَند

@@ -2072,6 +2072,7 @@ Selbstbewusstsein; اِعتِماد به نَفس
 selbstbezogen; خودمَرکَز، خودمِحوَر
 selbstbrennend; خودسوز
 - selbstbrennende Flamme; شُعلهٔ خودسوز
+Selbstdarsteller; به ماه میگه تو دَر نَیا مَن دَر میام
 Selbstdarstellung; خودنَمائى، خودسِتایی
 - Selbstdarstellung, Protz; اِهِن و تَلُپ
 Selbstentäußerung; خَلاء ِ ذِهنى
@@ -2829,6 +2830,7 @@ Sphinx; اَبوالهول
 Spiegel; آئینه
 - der Spiegel zersplitterte in 1000 Stücke; آیینه پول پول شُد
 - Spiegel, der verzerrtes Spiegelbild herbringt; آئینهٔ دِق
+- jem. nicht den Spiegel vorhalten; به مُرغِشان کیش نِمی شه گُفت
 - Alkoholspiegel; مِقدار ِ اَلکُل ِ مُحتَوى دَر خون
 - Hohlspiegel; آئینهٔ مُقَعِر
 - Wandspiegel; آئینهٔ قَدى، - تَمام قَد

@@ -269,6 +269,7 @@ teilen;  .مُنقَسِم کَردَن، تَقسیم ک.، مُتَفَرِق 
 - das Schwein in zwei Hälften teilen; خوک را شَقه کَردَن
 - teile 20 durch 4; بَر ۴ بیست را تَقسیم کُن، بیست را به ۴ تَقسیم کُن
 - s. die Kosten teilen; دَر مَخارِج سَهیم شُدَن
+- brüderlich teilen; بَرادَری بَرابَری
 - die Meinung von jem. teilen; با کِسى هَم عَقیده بودَن
 - geteilt werden;  .مُنقَسِم شُدَن، تَقسیم ش
 - Teile & herrsche; تَفریق اَنداز و حُکومَت کُن
@@ -844,6 +845,7 @@ Trick; تَرفَند
 - zur Vermeidung dieser Tricks; بَراى ِ اِجتِناب از این تَرفَندها
 - seine Tricks führen zu nichts; آب از سَرِش گُذَشت
 tricksen;  .بامبول زَدَن، فَن ز
+- jeder trickst jeden aus; با هَمه بَلی با مَن هَم بَلی
 Trickserei; حُقه بازى، شیله پیله
 Trieb;
 - Trieb, Ableger; پِیجوش، نَهال، نورَسته
@@ -1063,6 +1065,7 @@ Typ;
 - Typ (negativer Sinn); مَتیکه، مَردیکه
 - Leute vom gleichen Typ; هَمطِراز ِ اَشخاص
 - idealer Typ; نِمونهٔ عالى
+- der Typ ist nicht zu genießen; او را با صَد مَن (تَقریباً ۳۰۰ کیلو) شِکَر هَم نِمی تَوان خورد
 Typhus; تیفوس، حَصبه
 typisch;
 - das ist typisch; مُختَص به ... است

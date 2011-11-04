@@ -999,11 +999,12 @@ Genick; قَفا، گَردَن
 - jem. einen Genickstoss versetzen;  .کِسى را بَس گَردَنى زَدَن، ـ قَفا ز
 Genie; نابِغ
 genieren ( er - s.); او خِجالَت میکِشَد، عارِش میایَد
-geniessbar (- sein);  .مأکول بودَن، قابِل ِ خوردَنى ب
-geniessen; حِظ کَردَن، تَمَتُع  بُردَن
-- etwas geniessen; از چیزى لِذَت بُردَن، دَر چیزى مُتَلَذِذ شُدَن
-- ein Recht geniessen; از حَقى بَر خوردار بودَن
-- geniessen (auf Kosten anderer); چَر چَر کَردَن
+genießbar (- sein);  .مأکول بودَن، قابِل ِ خوردَنى ب
+genießen; حِظ کَردَن، تَمَتُع  بُردَن
+- etwas genießen; از چیزى لِذَت بُردَن، دَر چیزى مُتَلَذِذ شُدَن
+- ein Recht genießen; از حَقى بَر خوردار بودَن
+- genießen (auf Kosten anderer); چَر چَر کَردَن
+- der Typ ist nicht zu genießen; او را با صَد مَن (تَقریباً ۳۰۰ کیلو) شِکَر هَم نِمی تَوان خورد
 Genitalien; پَس و پیش، عورَتِین
 Genitiv; حالَت ِ نِسبى
 Genossenschaft; تَعاوُن، شِرکَت ِ تَعاوُنى
@@ -1774,6 +1775,7 @@ gleich;
 - nur er blieb der gleiche; او هَنوز هَمون بود که بود
 - gleicher Meinung; هَمسُخَن، به اِتِفاق ِ رأى
 - alles ist gleich geblieben; هَمان آش است و هَمان کاسه
+- überall sieht es gleich aus; به هَرکُجا که رَوی آسِمان هَم هَمین رَنگ است
 - gleiches gibt es nicht; لِنگه نَداشتَن
 gleichartig; مِثل ِ آنها
 - gleichartig (z.B. Mann & Frau); (ham kofw) بَرابَر، مُساوى، یِکسان، هَمکُفو
