@@ -2893,6 +2893,7 @@ Atemschwäche; عُسر ِ نَفَس
 Atemwege; نَفَس گاه
 Atemzug; دَم و بازدَم
 - der letzte Atemzug; نَفَس ِ اِحتِضار
+- in 1 Atemzug durchschreiben; یِک نَفَس نِوِشتَن
 Atheismus; اِلحاد، خُداناشِناسى
 Atheist; مُلحِد، لامَذهَب، خُداناشِناس
 Äther;
@@ -4540,7 +4541,7 @@ außer;
 - als ich ... sah, geriet ich außer mich; از دیدَن ِ... از خود بیخود شُدَم
 äußer;
 - äußerer Einfluss; اَثَر ِ بیرونى
-ausserdem; وَنِگَهى
+außerdem; وَنِگَهى
 Äußeres;
 - respekteinflössendes Äußeres; هِیبَت
 - ich warf einen Blick auf mein Äußeres; نِگاهی به ریخت ِ خودَم اَنداختَم
@@ -4626,6 +4627,7 @@ aussprechen;
 - (einen Laut) aussprechen; مَلفوظ کَردَن، تَلَفُظ ک.، بَر زَبان آوَردَن
 - s. aussprechen; اَفکار ِ خودرا اِبراز کَردَن
 - das Vertrauen aussprechen; رأى ِ اِعتِماد دادَن
+- damit deine Worte ausgesprochen werden (z. B. beim Schreiben); می نِویسی که حَرفِت را زَده باشی
 - ausgesprochen (Laut); مَلفوظ
 Ausspruch; گُفته، سُخَن
 ausspucken; تُف کَردَن

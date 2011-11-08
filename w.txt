@@ -1059,6 +1059,7 @@ wild; وَحشى
 - wilder Streik; اِعتِصابى ِ بى نِظام
 - das ist ein wildes Kind; بَچهٔ بازى گوش است
 - meine wilden Jahre (i.S. jähzornig); دوران ِ آتَش پارِگی ِ مَن
+- s. wild gebärden; کولاک کَردَن
 Wildbret; گوشت ِ شِکارى، نَخچیر
 Wilderei; صِید و شِکار ِ غِیر مُجاز
 Wildesel; گورخَر
@@ -1195,6 +1196,8 @@ wirkungsvoll; بَلیغ، قابِل ِ عَمَلکِرد، عَمَلى، م�
 wirr;
 - er ist wirr im Kopf; آدَم ِ جَفَنگ است، ـ سَر دَر هَوا، ـ دَر هَم بَر هَم
 Wirren (polit.); بَلوا، آشُفتِگى
+Wirrnis; آشُفتِگی، کَلافِگی
+- in den Wirrnissen des Lebens; دَر کَلافِگی ِ زِندِگی
 Wirrwarr; آش دَر هَم جوش، دَر هَم بَر هَمى، بِلبِشو
 Wirsing; کَلَم ِ پیچ
 Wirt; صاحِب ِ مِیخانه
@@ -1256,6 +1259,7 @@ wo; کُجا
 - wo ist sie? (popul.); کوشِش؟
 - überall, wo ...; هَرجا که
 - wo auch immer wir sind; دَر هَر کُجا که هَستیم
+- wo bist du?; دَر کُجا هَستی
 wobei; دَر حالیکه
 Woche; هَفته
 Wochenende; آخَر ِ هَفته
@@ -1572,6 +1576,7 @@ Wutausbruch; اوقات ِ تَلخى، خَشم
 - er unterdrückt seinen Wutausbruch; او خون ِ خودَش را مى خورَد
 wüten;
 - wüten in ...; دَر بَعضى چیزها سَر ریز کَردَن
+- das Wüten; کولاک
 wütend; خَشمگین
 - wütend werden; از جا دَر رَفتَن، دَمَق شُدَن، به خَشم آمدن، اوقات ِ کِسى تَلخ مى شَوَد
 - wütendes Tier; حِیوان ِ ژیان

@@ -2184,6 +2184,7 @@ Sepsis; پِلِشتى
 September; سِپتامبر
 Sequenz; تَوالى، رَدیف
 Serie; رَدیف، سِرى
+- Krimiserie; سِریال ِ پُلیسی
 Serienherstellung; صَنعَت ِ سِریال
 serienmäßig;
 - serienmäßig hergestellt; تولید ِ ماشینى

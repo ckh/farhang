@@ -234,7 +234,7 @@ falsch; کاذِب، اِشتِباه، ضَلیل
 - ich habe ihm den falschen Schlüssel gegeben; کِلید ِ عَوَضى را به او تَحویل دادَم
 - ein falsches Wort kann alles kaputt machen; یک بُز ِگَر گَله را آلوده میکُنَد
 - keinen falschen Schritt machen; دَست از پا خَطا نَکَردَن
-- Falscher Fuffziger; با پَنبه سَر بُریدن، شَخص ِ دَغَلبازى، آدَم ِ خائِن، مَرد ِ ریاکار
+- Falscher Fuffziger; با پَنبه سَر بُریدن، شَخص ِ دَغَلبازى، آدَم ِ خائِن، مَرد ِ ریاکار، غَره مَشو که گُربهٔ زاهِد نَماز کَرد
 - falscher Name; اِسم ِ جَعلى
 - falscher Prophet; پیغَمبَر ِ کاذِب
 - falscher Zeuge; شاهِد ِ قُلابى
@@ -534,7 +534,7 @@ Fehlgeburt; سِقط ِ جِنین، فَگانه
 - sie hatte eine Fehlgeburt; جِنینَش ساقِط شُد، جِنین را سِقط کَرده
 fehlgehen; اِشتِباه کَردَن، خَطا رَفتَن
 - wenn ich nicht fehlgehe, ..; اَگَر اِشتِباه نَکُنَم
-- man geht nicht fehl in der Annahme, dass ..; خَطائى نیست اَگَر بِگوئیم که
+- man geht nicht fehl in der Annahme, dass ...; خَطائى نیست اَگَر بِگوئیم که
 Fehlgriff; تَشَبُث ِ نابِجا، گِرِفت ِ عَوَضى
 Fehlinvestition; سَرمایه گُذارى ِ غَلَط
 Fehlschlag; ناکامى، عَدَم ِ توفیق، شِکَست
@@ -542,7 +542,7 @@ fehlschlagen; قاصِر آمَدَن، به هَدَف نَزَدَن، مُو�
 Fehlschluss; قیاس ِ کاذِب
 Fehltreffer; تیر ِ غِیبى، کَم بُرد، تیر بِخَطا
 Fehltritt; لَغزِش، سُقوط ِ اَخلاقى
-- einen Fehltritt begehen; مُرتَکِب ِ لَغزِش شُدَن، کار نارَوا کَردَن، خَطا ک.، دَسته گُل به آب دادَن
+- einen Fehltritt begehen; مُرتَکِب ِ لَغزِش شُدَن، کار نارَوا کَردَن، خَطا ک.، دَستهٔ گُل به آب دادَن
 - keinen Fehltritt begehen; دَست از پا خَطا نَکَردَن
 - ein Fehltritt kann alles verändern; از مَردی تا نامَردی یِک قَدَم است
 Fehlurteil; قِضاوَت ِ نابِجا

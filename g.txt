@@ -2066,6 +2066,7 @@ Grenze; مَرز
 - äusserste Grenze (z.B. des Universums); (کَرانه، اِنتِهاى ِ (کائِنات
 - die Grenze der Wissenschaft ist erreicht; به اِستِقصاى ِ عِلم رِسیدیم
 - bis an die Grenze (in bezug auf: Absicht); به غایَت
+- wo sind die Grenzen der Erzählung; مَرزبَندی ِ داستان کُجا اند
 - s. seiner Grenzen bewusst sein (z.B. auf Grund eines Dienstverhältnisses); ماستهارا کیسه کَردَن
 grenzen;
 - an etwas grenzen; مُجاوِر ِ چیزى بودَن، هَم مَرز ِ چیزى ِ ب.، به چیزى خوردَن
@@ -2111,7 +2112,7 @@ grinsen; .نیم خَنده زَدَن، پوز خَند ز
 - er fängt an, zu grinsen; نیشَش را به خَنده باز میکُنَد
 Grippe; اِنفلواِنزا، گریپ، سَرماخوردِگى
 - Hühnergrippe; آنفلوانزای ِ مُرغی
-Grips;
+Grips; عَقل، شُعور
 - wenn du nur einen Funken Grips hast; اگر یِک جو شُعور هَم دارى
 grob;
 - grob, barsch; خَشِن، بى اَدَب، دُرُشت خو
@@ -2199,7 +2200,7 @@ Grund; (plur.) دَلیل (دَلائِل)، عامِل
 - auf Grund erfolgreicher Zensur; به یُمن ِ وُجود ِ سانسور
 - ohne den Grund zu erkennen; بى آنکه چِرایَش را بِدانَد
 - wahren Gründe; مُسَببین ِ واقِعى
-- aus Gründen ..; ... ِ به عِلَل
+- aus Gründen ...; ... ِ به عِلَل
 - aus diesen Gründen (popul.); واسهٔ هَمیناس
 - am Grund des Meeres; - ِ دَر عُمق ِ دَریا، دَر قَعَر
 - der Sache auf den Grund gehen; تَه و توى ِ قَضیه را دَر آوَردَن، چیزى را حَلاجى کَردَن

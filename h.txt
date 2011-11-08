@@ -346,6 +346,7 @@ hanteln; دُمبیل زَدَن
 Happen; لُقمه
 happig;
 - ein happiger Preis; قِیمَتَش خِیلى زیاد است
+Happy End; پایان ِ حوش
 Hardware; اَبزار ِ سَخت، سِفت اَبزار
 Harem; حَرامسَرا
 Haremswächter; پَرده دار

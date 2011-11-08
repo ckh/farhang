@@ -1376,7 +1376,7 @@ Berührungsangst; لَمس حَراسى
 Berührungsfläche; سَطح ِ مُماس
 Berührungspunkt; نُقطهٔ تَماس، نُقاط ِ اِشتِراک
 besagen;
-- seine Worte besagen, dass ..; از حَرفهايَش چِنین مَفهوم می شَوَد که
+- seine Worte besagen, dass ...; از حَرفهايَش چِنین مَفهوم می شَوَد که
 - das Gesetz besagt; قانون تَصریح دارَد
 besaitet;
 - ein zart besaiteter Mensch; آدَم ِ حَساس
@@ -1620,7 +1620,7 @@ besonderes;
 - sie haben eine besondere Veranstaltung; آنها جَلَسهٔ ویژهٔ خودرا دارَند
 Besonderheit; خُصوصيَت، ویژِگى
 - Besonderheit der Veranstaltung war die ...; از خُصوصیات ِ جَلَسه يِکى این بود
-- der Glanz und die Besonderheit der ..; شوکَت و جاه
+- der Glanz und die Besonderheit der ...; شوکَت و جاه
 - das eine Besonderheit nur dieser speziellen Gegend ist; که فَقَط خاص ِ این مَنطَقهٔ خاص اَست
 besonders; بِویژه، بِخُصوص، خاصه
 besonnen; فَرزانه، هوشیار، با اِحتیاط، بَصیر
@@ -1628,6 +1628,7 @@ Besonnenheit; فَرزانِگى، هوشیارى
 besorgen; تَهیه کَردَن، مُهَیا کَردَن
 - auf den letzten Drücker das Geld besorgen; با هِزار جان کَندَن پول را تأمین کَردَن
 besorgt; دَغدَغه خاطِر، نِگَران، مُضطَرِب، دِل واپَس
+- besorgt sein, dass ...; مَرارَت کِشیدَن که
 bespannen;
 - den Stuhl bespannen ( *: beziehen); صَندَلى را پوشاندَن
 - Geige mit Saiten bespannen; ویلون را سیم اَنداختَن
@@ -2106,6 +2107,7 @@ bewegen; حَرَکَت کَردَن، تَحَرُک ک.، مُتَحَرِک �
 - jem. zu etwas bewegen; کِسى را واداشتَن که، ـ به چیزى سوق دادَن
 - sie sind nicht von der Stelle zu bewegen; آنها از اینجا تَکان بُخور نیستَند
 - die Äste bewegen s. im Sturm; شاخه ها زیر ِ فِشار ِ باد پیچ و تاب مى خورَند
+- eine Sache im Kopf bewegen; چیزی را دَر ذِهن وَرز دادَن
 - er zeigt s. stark bewegt; آثار تألُم دَر چِهره اش نَمایان مى شَوَد
 - bewegte Musik; آهَنگهاى ِ مُهَيِج
 beweglich; مُتَحَرک، رَوَنده

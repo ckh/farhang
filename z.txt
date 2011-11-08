@@ -420,6 +420,9 @@ zerstreut; پَراکَنده
 - ich bin zerstreut; حَواسَم پَرت است
 Zerstreutheit; پَراکَندِگى
 - Zerstreutheit (in Gedanken); حَواس پَرتى
+Zerstreuung;
+- Zerstreuung; Verteilung; پَراکَندِگی
+- Zerstreuung, Zeitvertreib; تَفَنُن، تَفریحی
 zerstückeln;  .قَطعه قَطعه کَردَن، پاره پاره ک
 Zerstückelung; تَجزیه، تَقسیم، تَقطیع
 zerteilen;  .چَند پاره کَردَن، تَقسیم ک

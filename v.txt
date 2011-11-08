@@ -587,6 +587,7 @@ vergessen; فَراموش کَردَن
 Vergessenheit;
 - etwas der Vergessenheit preisgeben; چیزى را دَر نِوِشتَن، بَر طاق ِ نِسیان گُذاشتَن، به دَست ِ فَراموشى سِپُردَن
 - sie sind in Vergessenheit geraten; آنها به بوتهٔ نِسیان سِپُرده شُدَند
+- Schreiben, um nicht in Vergessenheit zu geraten; می نِویسی که ماندِگار شَوی
 vergesslich;
 - ich bin vergesslich; مَن فَراموش کار هَستَم
 Vergesslichkeit; ذُهول
