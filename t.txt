@@ -122,6 +122,7 @@ Tarnung; اِستِتار، کاموفلاژ
 Tasche;
 - Tasche (Hose, Mantel, u.ä.); جیب
 - er griff in die Tasche und holte ...; دَست کَرد تو جیب تا یِه چیزی دَر بیاره
+- leere Taschen haben; جیبَش را تار ِ عَنکَبوت گِرِفته است
 - Schulterriemen der Tasche; تَسمهٔ کیف
 - Aktentasche; کیف
 - Provianttasche; توبره
@@ -421,6 +422,7 @@ Thrombose; اِنعِقاد ِ خون در رَگ
 Thrombozyt; گِرده هاى ِ خون
 Thron; تَخت ِ سَلطَنَت، اَریکه
 - auf den Thron bringen; بَر تَحت نِشاندَن
+- runter kommen vom Thron; پیاده شو با هَم راه بِرَویم
 Thronanwärter; وَليَعهد، شاهزاده
 Thronbesteigung; جُلوس، تاجگُذارى
 thronen; بَر صَندَلى ِ سَلطَنَتى نِشَستَن
@@ -995,7 +997,6 @@ tun; کَردَن، اِجرا کَردَن، اَنجام دادَن، عَمَ
 - er konnte nichts mehr tun; او نِمى تَوانِست کارى کُنَد
 - was muss ich tun; مَن چه بايَد بِکُنَم
 - ich werde alles, wozu ich in der Lage bin, für dich tun; هَر کارى که از دَستَم بَر مى آيَد بَرايَت مى کُنَم
-- so tun, als ob; توریه کَردَن
 - tu, was richtig ist; آنچه راست است بِجا آوَر
 - 2 Dinge auf einmal tun; دو مَنزِل يِکى رَفتَن
 - mit jem. was zu tun haben; با کِسى نِشَست و خاست کَردَن، با کِسى سَر و کار داشتَن
@@ -1007,6 +1008,7 @@ tun; کَردَن، اِجرا کَردَن، اَنجام دادَن، عَمَ
 - wir haben noch miteinander zu tun; کارِت دارَم
 - pass auf, dass du es nicht mit ihm zu tun bekommst; مُواظِب باش مَبادا با او دَر اُفتاده باشى
 - das eie hat mit dem anderen nichts zu tun; تَلافی ِ غوره را سَر ِ کوره دَر نِیآوَردَن
+- so tun, als ob; پیاز هَم خودِش را داخِل ِ میوه ها کَرده، توریه کَردَن
 - so tun, als ob man nicht Bescheid wüsste; خودرا به کوچهٔ على چَپ زَدَن
 - ohne Erlaubnis darf er nichts tun; بِدون ِ اِجازه دَست به سیاه و سِفید نِمى زَنَد
 - jeder, der mit Armen zu tun hat; هَر کِسى که با مَحرومان مَحشور شُده باشد
@@ -1066,6 +1068,7 @@ Typ;
 - Leute vom gleichen Typ; هَمطِراز ِ اَشخاص
 - idealer Typ; نِمونهٔ عالى
 - der Typ ist nicht zu genießen; او را با صَد مَن (تَقریباً ۳۰۰ کیلو) شِکَر هَم نِمی تَوان خورد
+- ein undurchsichtiger Typ; پُشت و روش مَعَلوم نیست
 Typhus; تیفوس، حَصبه
 typisch;
 - das ist typisch; مُختَص به ... است

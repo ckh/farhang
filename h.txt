@@ -208,6 +208,7 @@ Häme; فُهش
 Hammel; گوسفَند ِ اَخته شُده
 - Leithammel; نُخراز
 Hammer; چَکُش
+- den Hammer fallen lassen; پُشت ِ دَست را داغ کَردَن
 - Maurerhammer; تیشهٔ بَنائى
 - Schmiedehammer; پُتک
 hämmern; چَکُش زَدَن
@@ -1543,7 +1544,7 @@ husten; سُرفه کَردَن
 Husten (m); سُرفه
 Hustensaft; شَربَت ِ سُرفه
 Hut; کُلاه
-- Auf der Hut sein; بر حَذَر بودَن، دَست و پاى ِ خودرا جَمع کَردَن
+- Auf der Hut sein; بر حَذَر بودَن، دَست و پاى ِ خودرا جَمع کَردَن، جایی نِمی خوابه که آب زیرِش بِره
 - Da geht einem der Hut hoch; دود از کَله بُلَند مى شَوَد
 - Spitzhut (aus Papier, als Strafe für Fehlverhalten); کُلاه ِ بوقی
 hüten;

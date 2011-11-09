@@ -1414,6 +1414,7 @@ Gespräch; گُفتِگو، گُفت و شِنید، گُفت و شُنود، ب
 - mit jem. ins Gespräch kommen; با کِسى هَمصُحبَت شُدَن، ـ سَر ِ صُحبَت را باز کَردَن
 - das Gespräch besteht aus vielen Bruchstücken; از قَطع و وَصل ها در بِین ِ حَرفها زیادَند
 - persönliche Gespräche durchführen; مُشافِهه کَردَن
+- gemeinsames Gespräch; هَمصُحبَت
 - ich hatte ein vertrautes Gespräch mit ...; با ... خوش و بِش میکََردَم، با هَم اِختِلاط می کَردیم
 gesprächig;
 - er ist gesprächig; او خوش صُحبَت است
@@ -1625,6 +1626,7 @@ Gewohnheit; عادَت، خو
 - nach der Gewohnheit; بَر سَبیل  ِعادَت
 - feste Gewohnheit; عادَت ِ دامَنگیر
 - Mensch mit schlechter Gewohnheit; آدَم ِ فُرو مایه
+- der läßt nicht von seinen Gewohnheiten; توبهٔ گُرگ مَرگ است
 gewohnheitsmässig; عادَتاً
 Gewohnheitsrecht; قانون ِ عُرفى
 gewöhnlich;

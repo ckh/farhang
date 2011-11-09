@@ -1832,6 +1832,7 @@ Schwimmen (n); شِنا
 - Schwimmen (Kraul); شِناى ِ کرال
 - Schwimmen (Schmetterlingsstil); شِناى ِ پَروانه
 - Schwimmen (Staffel); مُختَلِط ِ تیمى
+- Schwimmen lernt man nur im Wasser; تا به آب نَزَنی شِناگَر نِمی شَوی
 schwimmend; شِناوَر بودَن، شِناکَنان
 Schwimmer; شِناگَر
 - Schwimmer (z.B. bei Angel); غَمازَک، شِناوَر
@@ -3553,6 +3554,7 @@ Stiefmütterchen; بَنَفشهٔ فَرَنگى
 Stiel; ساقه
 - Axtstiel; دَستهٔ تَبَر
 Stier; گاو نَر
+- Stier bei den Hörnern packen; پیشانی ِ پِلِنگ خاریدَن
 Stierkampf; گاو بازى
 stiften; وَقف کَردَن
 Stiftung; (pl.)  (بُنیاد، وَقف (اوقاف

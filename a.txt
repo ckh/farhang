@@ -2753,6 +2753,7 @@ Armee; سِپاه، اَرتِش، لَشگَر
 Armenhaus; مِسکین خانه
 Armenrecht; حُقوق ِ بى بَضاعَتان، ـ بى نَوایان
 Armer; (plur.) (مِسکین (مَساکین)، فَقیر (فُقَراء
+- der Sommer macht es für den Armen erträglich; تابِستون پِدَر ِ یَتیمونه
 armieren;  .زِره پوش کَردَن، مُسَلَح ک
 ärmlich; وَنگ، فَقیرانه
 - ärmlich dran sein; سَر و وَضع ِ ژِنده را داشتَن

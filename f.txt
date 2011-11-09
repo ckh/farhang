@@ -1367,6 +1367,7 @@ Folgerung; اِستِنتاج، نَتیجه
 Folie; وَرَقهٔ نازُک
 Folter; نَسَق، شِکَنجه
 - ein Folterinstrument; فَلَک
+Folterer; شِکَنجه گَر
 foltern; کِسى را بَر چَهار میخ کِشیدَن، شِکَنجه دادَن
 Fön; سِشوار
 Fond; تَنخواه، سَرمایه
@@ -1818,6 +1819,7 @@ frustriert; دِلخور، مأیوس، سَرخورده، خودباخته
 - frustrierter Mensch; شَخص ِ سَرخورده، ـ خود باخته
 Fuchs; روباه
 - Fuchs, durchtriebener Mensch; آدَم ِ پاچه وَر مالیده
+- hingehen, wo Fuchs und Hase sich Gute Nacht sagen; جایی رَفت که عَرَب نِی اَنداخت
 fuchteln; دَستها را دَر هَوا پیچ و خَم زَدَن
 Fug;
 - mit Fug & Recht; با حَق و حُقوق

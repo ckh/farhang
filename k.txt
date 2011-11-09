@@ -484,6 +484,7 @@ Kind; (pl.) فَرزَند، وَلَد (اولاد)، بَچه
 - Kinder & Kindeskinder; اولاد و اولاد ِ اولاد، فَرزَندان و نَوه ها
 - für ihn ist das Tier wie sein eigen Kind; او اِنگار این حِیوان پارهٔ جِگَرِش است
 - nach 2 Kindern wollten wir keine Kinder mehr; بَعد از دو تا بَچه دَر ِ اِزا بِزايِمان را گُذاشتیم
+- bis die Kinder groß sind (machen sich die Eltern viel Sorgen); تا گوساله گاو شَوَد دِل ِ مادَرِش آب شَوَد
 Kindererziehung; پَروَرِش ِ اولاد، ـ فَرزَندان
 Kinderfrau; دَده، لَله
 Kindergarten; کودَکِستان
@@ -686,6 +687,7 @@ klein; کوچِک
 - Im Kleinen treu sein; دَر اَندَک اَمین بودَن
 - im Kleinen & im Grossen; صُغرا و کُبرا
 - immer trifft es die Kleinen; از خُردان لَخشیدَن، از بُزُرگان بَخشیدَن، از خُردان خَطا از بُزُرگان عَطا
+- die Kleinen sind noch formbar; تا نَهال تَر است بایَد راست کَرد
 Kleinasien; آسیاى ِ ضَغیر
 Kleingeld; پَشیز، پول ِ خُرد، سِکه
 kleinhacken (z.B.: Zwiebeln); پیازرا رَنده خُرد کَردَن
