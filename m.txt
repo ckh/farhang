@@ -913,6 +913,7 @@ Mittelklasse (z.B. Auto); دَرَجهٔ مُتَوَسِط
 mittellos; بى سَر و سامان، نَدار، بی نَوا
 - mittellos sein; آه نَداشتَن که با ناله سودا کَردَن
 - sie wurden mittellos; آنها بى چیز شُدَند، به اِفلاس اُفتادَند
+- der ist total mittellos; دَر هَفت آسِمان یِک سِتاره نَدارَد
 - soll ich dich mittellos auf das Fest schicken?;سَر و کون ِ بِرَحنه بِبَرَمِت جَشن
 - bedürftig und mittellos; آب دَر جِگَر نَداشتَن، سَخت مُحتاج و فَقیر بودَن
 Mittellosigkeit; اِفلاس، نادارى، تَنگدَستى
@@ -1216,6 +1217,7 @@ Mühe; رَنج، زَحمَت، اِجتِهاد
 - das ist der Mühe wert; به زَحمَتَش مى اَرزَد
 - das ist nicht der Mühe wert; آفتابه را خَرج ِ لَحیم کَردَن
 - alle Mühe umsonst; تیرهٔ کِسى به سَنگ خورد، تَلاش ِ کِسى به نَتیجه نَرِسید
+- deine Mühe bringt nichts; دَر ِ کوزه بِگُذار آبَش را بُخور
 - haben wir uns dafür nicht echt Mühe gemacht?; مَگَر جانِمان را از سَر ِ راه بَرداشته ایم؟
 - ein Mensch, der keine Mühe macht; بَچهٔ بى دَرد ِ سَر
 - sie hoben die Hände mit Mühe hoch; دَستها بِزَحمَت بُلَند شُدَند
@@ -1260,6 +1262,7 @@ Mund; دَهَن، دَهان
 - halt den Mund!; خَفَقون بِگیر، خَفه شو
 - s. den Mund spülen; غَراره زَدَن
 - s. den Mund verbrennen; این لَب سوز است
+- s. den Mund nicht verbrennen (i.S.: was heißes essen); دَهَنَش آستَر دارَد
 - s. den Mund zuhalten; جِلوى ِ دَهان ِ خودرا گِرِفتَن
 - jem. den Mund verbieten; دَهَن ِ کِسی را سِرویس کَردَن
 - jem. etwas in den Mund legen; حَرف توى ِ دَهَن ِ کِسى گُذاشتَن

@@ -938,6 +938,7 @@ unerwünscht; ناخواسته، نامَطلوب
 unfähig;
 - unfähig sein (etwas zu tun); عَجز داشتَن، عاجِز بودَن، بى عُرضه ب.، تَوان ِ کارى را نَداشتَن
 - ein unfähiger Arbeiter; کارگَر ِ بی عُرضه
+- sich als unfähig hinstellen; خود را به موش ِ مُردِگی زَدَن
 Unfähigkeit; عَدَم ِ صَلاحيَت، ـ اَهَليَت
 - meine Unfähigkeit zu Schwimmen; شِنا بَلَد نَبودَنَم
 - Vertragsunfähigkeit; عَدَم ِ صَلاحيَت ِ عَقد ِ قَرار داد

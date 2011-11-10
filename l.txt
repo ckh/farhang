@@ -1213,6 +1213,8 @@ Luftkorridor; دالان ِ هَوائی
 Luftlinie; مَسافَت ِ خَطی
 Luftröhre; نای ِ گَلو، خُشک نای، حَلق
 Luftschacht; هواکِش، بادگیر، بادکِش
+Luftschloß;
+- du baust Luftschlösser; حَرفهات مُفت کَفشهات جُفت
 Luftschutz; حِفاظَت ِ هَوائی
 Luftspiegelung; سَر آب، آبنَما
 Luftsprung;

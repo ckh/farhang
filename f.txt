@@ -555,6 +555,7 @@ Feierabend; تَعطیل
 - nach Feierabend gehe ich ins Kino; بَعد از کار مَن می رَوَم به سینِما
 - jetzt ist Feierabend; حالا تَعطیل ِ کار شُد
 - jetzt ist aber Feierabend; حالا بَس است
+- der kennt keinen Feierabend; خَر ِ گَچ کِش روز ِ جُمعه از کوه سَنگی می یاره
 feierlich;
 - wir begehen den Tag feierlich; روزرا با جَلال و تَشریفات مى گُذَرانیم
 - in feierlicher Manier; بِطَرز با شُکوه، شُکوه منَد، به وَقار، مُوَقَر، دَر حالَت ِ تَشریفاتى
@@ -1037,6 +1038,7 @@ Finger; اَنگُشت
 - den Finger auf eine wunde Stelle legen; نَمَک بَر زَخم پاشیدَن، دَست روى دِل ِ کِسى گُذاشتَن
 - man zeigt mit dem Finger auf sie; دَرمیان ِ مَردُم اَنگُشت نَما است
 - keinen Finger rühren; یِک اَنگُشت هَم به آن بار نَزَدَن، فِکر ِ اَنجام دادَنَش را نَکَردَن
+- keinen Finger rühren, aber Chef sein wollen; حوض ِ نَساخته قورباغه پِیدا شُد
 - jem. hat seine Finger überall drin; کِسى هَمه جا ریشه دَوانده است، دَر هَمه کار دَست دارَد
 - die Finger von etwas lassen; جِلوى ِ کِسى (یا کار) لُنگ اَنداختَن، کارى به کار ِ چیزى نَداشتَن
 - jem. auf die Finger klopfen; دَست ِ کِسى را قَلَم کَردَن
@@ -1500,6 +1502,7 @@ Frage; (plur.) پُرسِش، سؤال (سؤالات)، اِستِفسار
 - habt Ihr immer solche Fragen?; شُما هَم چه سؤالهائى مى پُرسید؟
 - zeitraubende Fragen stellen; اُصول ِ دین از کِسی پُرسیدَن
 - was soll diese Frage?!;  !چِطور مَگَر؟
+- der Weise scheut keine Fragen, der Tor denkt er braucht nicht fragen; دانا دانَد و پُرسَد نادان نَدانَد و نَپُرسَد
 - Fangfrage; سؤال ِ مَغلَطه آمیز، پُرسِش ِ آزمایِشى
 - Fangfrage stellen; سؤال ِ پیچ کَردَن
 - Rückfrage; سئوال ِ مُنَعکِس کُنَنده

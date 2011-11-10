@@ -141,6 +141,7 @@ Wahrheit; حَقیقَت، واقِعيَت، راستى
 - nur die Hälfte der Wahrheit; کاسه زیر ِ نیم کاسه است
 - Wahrheit ist bitter; اُلحَق مُر است
 - Sag die Wahrheit; راستا حُسيِنى بِگو، راستى اش را بِگو، راست بِگو
+- Kindermund sagt die Wahrheit; حَرف ِ راست را بایَد از بَچه شِنید
 - Konsistenz als Wahrheitskriterium (philos.); اِثبات پذیرى
 wahrheitsgemäss; اِنصافاً، حَقیقَتاً
 wahrnehmen;
@@ -713,6 +714,7 @@ Wellenschlag; تَلاطمُ
 Welpe; توله
 Welt; جَهان، دُنیا، گیتى، عالَم
 - die Welt hat s. geändert; رَوَند ِ جَهان تَغییر کَرد
+- die Welt bleibt nicht so, wie sie ist; دَر هَمیشه به یِک پاشنه نِمی گَرده
 - die Welt, und alles, was s. darin befindet; دُنیا و مافیها
 - solange die Welt besteht; تا دِنیا دِنیاست
 - in der Neuen Welt; دَر يَنگه دُنیا

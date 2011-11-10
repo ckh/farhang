@@ -1522,6 +1522,7 @@ Hunger; گُرُسنِگى
 - ich habe Hunger; گُرُسنه اَم
 - den Hunger stillen; سَدّ ِ جوع کَردَن
 - den ersten Hunger stillen; شِکَم ِ خود را وَصله پینه کَردَن
+- Hunger ist schlimmer als mangelnde Liebe; داغ ِ شِکَم از داغ ِ عَزیزان بَدتَر است
 Hungerjahr; قَحط سال
 Hungerlohn; مَبلَغ ِ بُخور و نَمیر
 Hungersnot; قَحطى

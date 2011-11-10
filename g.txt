@@ -1282,6 +1282,7 @@ Geschmack; طَعم، مَزه، چِشائى
 - nach dem Geschmack von jem. sein; باب ِ طَبع ِ کِسى بودَن، به مَذاق ِ خوش بودَن، به مَزاج ِ کِسى در آمَدَن
 - er hat seine Worte je nach Geschmack verändert; کَلَماتَش را چاشنی ِ صُحبَتهایش می کَرد
 - seine Kleidung zeigt Geschmack; لِباس ِ خوش سَلیقه است
+- auf den Geschmack gekommen sein; خَر که جو دید کاه نِمی خوره
 geschmacklos; بی مَزه، بی سَلیقه
 - geschmackloses Essen; غَذاى ِ بینَمَک، ـ بى مَزه
 Geschmackssinn; حِس ِ ذایِقه
