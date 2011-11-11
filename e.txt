@@ -1683,7 +1683,7 @@ Ende; عاقِبَت، پایان
 - beide Enden anzünden; دو سَرِش را سوزاندَن
 - Schraube ohne Ende; پیچ سَر و پا یِکى
 - vom anderen Ende des Telefons; از آن سَر ِ تِلِفُن
-- .. zu Ende gegangen; بِسَر آمَده
+- ... zu Ende gegangen; بِسَر آمَده
 - von einem Ende zum anderen; سَراسَرى، از سَر تا سَر
 - am Ende des 20. Jahrhunderts; دَر آخَر ِ قَرن ِ بیستُم
 - das Ende der Strasse; تَه ِخیابان، اِنتهاى ِ خیابان
@@ -1699,8 +1699,8 @@ enden;
 - enden (*: ausgehen); تَمامى گِرِفتَن، تَمام شُدَن، خَتم ش.، سَر ش.، به پایان رِسیدَن
 - die Gespräche enden mit Streit; صُحبَتها به نِزاع مُنجِر می شَوَند، ـ مُنتَهى ـ
 - die Frist endet heutet; مُهلَت اِمروز مُنقَضى می شَوَد
-- die Flure enden bei ..; دالانها به .. مُنتَهی می شَوَند
-- das Wort endet auf ..; کلمه به .. مُنتَهى می شَوَد
+- die Flure enden bei ...; دالانها به ... مُنتَهی می شَوَند
+- das Wort endet auf ...; کلمه به ... مُنتَهى می شَوَد
 - das ganze endete in einer grossen Entdeckung; این هَمه اَش به کَشف ِ بُزُرگى نائِل آمَد
 Endgeschwindigkeit; سُرعَت ِ نَهائى
 endgültig; قََطعى، قاطِع، بى بُرو بَرگَرد، غائى
@@ -1760,7 +1760,7 @@ engagieren (jem. -); کِسى را اِستِخدام کَردَن
 - engagiert sein mit (i.S. sich auskennen); دَر چیزى دَست اَندَر کار بودَن
 Enge;
 - in die Enge geraten; به سُتوه آمَدَن
-- in die Enge treiben; کِسى را به سُتوه آوَردَن
+- in die Enge treiben; کِسى را به سُتوه آوَردَن، راه ِ نَفَس ِ کِسی را بَستَن
 - Meeresenge; تَنگهٔ دَریا، تَنگناى ِ ـ
 Engel; (pl.)  (مَلَک (مَلائِک)، فِرِشته (فِرِشتگان
 engelhaft; پَرى رُخ، فِرِشته وار

@@ -984,6 +984,7 @@ Hilfe; پایمَردى، کُمَک، یارى، اِمداَد، مَدَد
 - mit Hilfe von ...; با پایمَردى  ِ..، با مُعاضِدَت ِ، با اِمداد ِ، با گُزیر ِ، به کُمَک ِ
 - mit Hilfe der Duldung durch ..; به پاس ِ اِستِفاده از اِغماض ِ کِسى
 - er ist keine Hilfe; دَر این کار دَخیل نیست
+- sei Hilfe, kein Hindernis; راهبَر باش نَه راه بُر
 - jem. zu Hilfe kommen; به داد ِ کِسى رِسیدَن
 - Rechtshilfe; تَعاوُن ِ قَضائى
 Hilfeschrei;

@@ -1671,6 +1671,7 @@ Schwangerschaftsverhütung; جِلوگیرى از حامِلِگى
 schwanken;
 - schwanken (Schiff, u.ä.); لَق بودَن، نَوان شُدَن، جُنبِش خوردَن
 - er schwankt (i.S. zweifelt); او مُرَدَد است
+- hin- und herschwanken (unsicher sein); روزهٔ شَک دار گِرِفتَن
 - er schwankte zwischen Habgier und Angst; او بِین ِ طَمع و تَرس سَرگَردان بود
 Schwankung; نَوَسان، تَغییر، بى ثَباتى، اُفت و خیز
 Schwankungsbreite; میزان ِ نَوَسانات

@@ -1,5 +1,5 @@
 da; آنجا
-- da es so ..; از بَسکه
+- da es so ...; از بَسکه
 - da es so heiss war; از بَسکه هَوا گَرم بود
 - da oben; آن بالا
 - ich bin da; مَن رِسیدَم
@@ -43,12 +43,12 @@ Dachzimmer; بالاخانه
 dadurch; بِجَهَت ِ آنکه، بِعِلَت ِ اینکه
 - dadurch, dass ...; از اینکه، از آنجا که
 dafür;
-- dafür, dass ..; از اینکه، دَر عَوَض ِ ـ
+- dafür, dass ...; از اینکه، دَر عَوَض ِ ـ
 - er kann nichts dafür; تَقصیر ِ او نیست
 - dafür oder dagegen; بَر لَه ِ آن یا عَلِیه ِ آن
 - dafür brauchst du nicht bezahlen; بَراى ِ این نَبایَد بِپَردازى
 dagegen;
-- bist du dagegen, wenn ..; با .. مُخالِفى؟
+- bist du dagegen, wenn ...; با ... مُخالِفى؟
 - dagegen habe ich nichts einzuwenden; حَرفى نَدارَم، مُخالِفَتى ـ
 - meine Frage dagegen ist; سُؤالَم دُرُست عَکس ِ این است
 dagewesen;
@@ -75,7 +75,7 @@ Dame;
 - meine Damen & Herren; خانُمها و آقایان ِ مُحتَرَم
 Damenski; اِسکى ِ بانوان
 damit; تا اینکه ..، با اینکه ..، بَراى ِ آنکه
-- damit nicht ..; تا مَبادا
+- damit nicht ...; تا مَبادا
 - damit du nicht fällst; تا مَبادا بیُفتى
 - er redete, damit überhaupt was gesagt wurde; او این حَرف را زَد تا چیزى گُفته باشَد
 - wieviel sparen wir damit monatlich ein?; از این راه ماهى چَند صَرفه جوئى مى کُنیم؟
@@ -127,13 +127,13 @@ dankenswerterweise; شاکِرانه
 Danksagung; سِپاسگُذارى
 Dankschreiben; نامهٔ سِپاسگُذارى، تَشَکُرنامه
 dann;
-- dann, .. wenn; به شَرط ِ اینکه .. سِپَس، پَس
-- und dann, wenn .. sind ..; چِنانچه .. باشند
+- dann, wenn; به شَرط ِ اینکه ... سِپَس، پَس
+- und dann, wenn ... sind ..; چِنانچه ... باشند
 - und dann?; آخَرِش چی؟
 - schwierig wird es dann, wenn; مُشکِل ِ موقِعى دوچَندان مى شَوَد که
-- dann, wenn .. wäre er zu nichts mehr in der Lage; اَگَر .. کارى از دَستَش بَر نِمى آمَد
+- dann, wenn ... wäre er zu nichts mehr in der Lage; اَگَر .. کارى از دَستَش بَر نِمى آمَد
 daran;
-- daran erkennst du ..; از این .. مى شِناسى
+- daran erkennst du ...; از این ... مى شِناسى
 - daran gibt es keinen Zweifel; دَر این شَک نیست
 - ich dachte daran; به یاد ِ آن بودَم
 daranmachen (s. -);  .بَنا کَردَن، شُروع ک
@@ -203,16 +203,16 @@ Darwinismus; داروینیزم، نَظَریهٔ تَکامُل
 - Darwins Buchtitel; پِیدایِش ِ گونه ها بِکُمَک ِ اِنتِخاب ِ طَبیعى
 das;
 - das ist gut; این خوب است
-- das die Wahrscheinlichkeit, dass ..; که اِحتِمال ِ اینکه
+- das die Wahrscheinlichkeit, dass ...; که اِحتِمال ِ اینکه
 - wenn aber jem. das macht; و اَگَر کِسى قَرار است اینرا بِکُنَد
 Dasein; حُضور، وُجود
 Daseinsberechtigung; حَق ِ وُجود، ـ هَستى
 Daseinsfreude; خوشى از وجود، مَسَرَت از زِندِگى
 dass;
 - und dasjenige, dass; و اینکه
-- die Behauptung, dass ..; اِدِعاى ِ اینکه
-- ein Grund, dass .. ist der, ..; یِک دَلیل ِ اینکه .. این است
-- der Gedanke, dass ..; فِکر اینکه دیگَر
+- die Behauptung, dass ...; اِدِعاى ِ اینکه
+- ein Grund, dass ... ist der, ...; یِک دَلیل ِ اینکه .. این است
+- der Gedanke, dass ...; فِکر اینکه دیگَر
 dasselbe;
 - es ist immer dasselbe; هَمیشه هَمینطور است
 Datei; پَروَنده
@@ -220,7 +220,7 @@ Daten; داده ها
 Datenbank; بانک ِ اِطِلاعات، بانک ِ داده ها
 Datenschutz; حِفظ ِ اِطِلاعات راجِع به اَفراد
 datieren; تاریخ گُذاشتَن
-- der Brief datiert vom ..; نامه تاریخ ِ .. دارد، ـ مُوَرَخ ِ .. است
+- der Brief datiert vom ...; نامه تاریخ ِ ... دارد، ـ مُوَرَخ ِ ... است
 Datierung; تاریخ گُذارى
 Dativ; حالَت ِ مَفعول ِ غِیر ِ صَریح، مَفعول بِواسِطه
 - Dativform: alle haben ihr geholfen; هَمِگى دَر حَقِش کُمَک کَردَند
@@ -258,7 +258,7 @@ Dauerwelle; فِر  شِش ماهه
 Dauerzustand; حالَت ِ یِکنَواخت
 Daumen; (*: Finger) شَست
 - Daumen lutschen; شَست مَکیدَن
-- jemandem Daumenschrauben anlegen; شَست ِ کِسى را اِشکِلَک کَردَن
+- jemandem Daumenschrauben anlegen; شَست ِ کِسى را اِشکِلَک کَردَن، راه ِ نَفَس ِ کِسی را بَستَن
 Daunenkissen; بالِش ِ پَر ِ قو، ـ پَر ِ نَرم
 davon;
 - ich habe nichts davon; حاصِلَم چه میشَوَد

@@ -711,6 +711,7 @@ wellenförmig; موج دار، موج آسا
 Wellenkamm; کوههٔ آب
 Wellenlänge; طول ِ موج
 Wellenschlag; تَلاطمُ
+Wellness; بِهزیستی
 Welpe; توله
 Welt; جَهان، دُنیا، گیتى، عالَم
 - die Welt hat s. geändert; رَوَند ِ جَهان تَغییر کَرد
@@ -1231,6 +1232,7 @@ wissen; دانِستَن
 - wie Sie wissen; از شُما چه پِنهان
 - was weiß man schon?; آدَم چِه مى دانَد؟
 - was weiß ich!; چه می دانَم؟
+- wer weiß, wann ich wiederkomme; رَفتنَم با خودَم آمَدَم با خُدا
 - wer viel weiß, von dem wird viel gefordert; هَر که بامَش بیش بَرفَش بیشتَر
 - was du nicht weißt, macht dich nicht heiß; وَقتى دیگ بَراى ِ تو نِمى جوشَد بِگُذار کلهٔ سَگ تويَش بِجوشَد
 - sie sind von einer Stadt, aber ich weiß nicht welcher; آنها اَهل ِ شَهر نِمى دانَم چى هَستَند
