@@ -68,6 +68,7 @@ Chemie; شیمى
 - anorganische Chemie; شیمى ِ کانى
 - organische Chemie; شیمى ِآلى
 - stochastische Chemie; شیمى ِ اِتِفاقى
+- bei denen stimmt die Chemie nicht; سازِشان با هَم کوک نیست
 chemisch; شیمیائى
 - chemische Reaktion; - فِعل و اِنفِعال ِ شیمیائى، واکُنِش
 Chemiker; شیمى دان

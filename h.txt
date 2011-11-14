@@ -899,6 +899,7 @@ Herz; قَلب، دِل
 - sein Herz nicht an Vergängliches hängen; هَر چه دير نَپايَد دِلبَستِگی را نَشايَد
 - sein Herz schmolz dahin; دِلِش بَراى ِ ... رَفت
 - das geht zu Herzen;  .دِلرُبا بودَن، دِلچَسبَنده ب.، دِلنِشین ب
+- ein weites Herz haben; سَرِش از خودِش نیست
 - eine dieser zu Herzen gehende Schönheiten; از آن ِ خوشگِلهای تو دِل بُرو
 - sie sehen Dinge, die das Herz erfreut; آنها چیزهاى ِ تو دِل بُرو را مى بینَند
 - sein Herz machte einen Freudensprung (verliebt); دِل ِ او زَنج زَد
@@ -1455,7 +1456,7 @@ Hose; شَلوار
 - jem., der die Hosen voll hat; بَچهٔ شیشو، ـ ریغو
 - er hat die Hose voll; از تَرس تو شَلوارَش ریده، ـ شاشیده
 - in die Hose machen (Kind); دََر شَلوار جیش کَردَن
-- die Sache ging in die Hose; کار نَقش بَر آب شُده است، کار سَر نَگِرِفته است
+- die Sache ging in die Hose; کار نَقش بَر آب شُده است، کار سَر نَگِرِفته است، زَدیم و نَگِرِفت
 - die Hosen runterlassen (im finanz.);  سَر و کیسه را شُل کَردَن
 - Frauenhose; تُنبان
 - Haushose; پیژامه

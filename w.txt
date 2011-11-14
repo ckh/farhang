@@ -302,6 +302,7 @@ Wartung; تَعمیر و نِگَهدارى، سِرویس
 wartungsfrei; بِدون ِ وَقفه
 warum; چِرا، به چه دَلیل
 - warum bist du gekommen?; واسهٔ چه آمَدى
+- das Warum der ...; ِ چِرایهای 
 Warze; زِگیل، ثوء لول
 - Brustwarze; نوک ِ پِستان
 was; چه
@@ -1420,6 +1421,7 @@ Wort; کَلام
 - Geflügeltes Wort; اِرسال اُلمَثَل، به قول ِ شُما
 - ein Wort kann mehr verletzen als ein Schwert; زَخم ِ زَبان از زَخم ِ شَمشیر بَدتَر است
 - ein mildes Wort überwindet Mauern;  زَبان ِ خوش مار را از سوراخ بیرون میآوَرَد، به نَرمی بَر آيَد ز ِ سوراخ مار كه تیزی و تُندی نَیايَد بِكار، به شیرین زَبانی و لُطف و خوشی تَوانی كه پیلی به موئی كِشی، به گُفتار ِ شیرین ِ جَهان دیده مَرد كُنَد آن چه نَتَوان به شَمشیر كَرد، از دُرُشتی نَايَد این جا هیچ كار هَم به نَرمی سَركُنَد از غار ِ مار
+- mit freundlichen Worten gewinnt man Herzen; سُخَن ِ نیکو صَیاد ِ دِلهاست
 - gewichtiges Wort (mit Würde); کَلام ِ کِبر آمیز
 - in Wort & Tat; دَر قول و فِعل
 wortbrüchig; بَد قول
@@ -1474,6 +1476,7 @@ Wunde; جَراحَت، زَخم
 - alte Wunden aufreissen; داغ ِ کِسى را تازه کَردَن
 - alte Wunden reißen bei ... auf; داغ ِ کِسی تازه می شَوَد
 - an eine Wunde rühren; زَخمى را ریش ریش کَردَن
+- die Wunde heilt, aber die Narbe bleibt; زَخم خوب میشه وَلی جاش می مونه
 Wunder; مُعجِزه، عِجاز
 - Wunder schaffend; مُعجِزه نَما، اِعجاز گونه، - بَراَنگیز
 - die 7 Weltwunder; عَجائِب ِ سَبعِه، ـ هَفتِگانهٔ جَهان

@@ -705,6 +705,7 @@ zufrieden; راضى، قانِع، مُستَریح
 - mit nichts zufrieden sein; پِی ِ خَر می گَردَد که نَعَلَش را بِکَنَد
 - zufriedenes Gesicht; چِهرهٔ بَشاش
 - bezüglich ... zufrieden sein; از ... خُرسَند بودَن
+- alle sind zufrieden; زَن راضی مَرد راضی گور ِ پِدَر قاضی
 - s. mit etwas zufrieden geben; به چیزى قَناعَت کَردَن
 - wer s. mit wenigem zufrieden gibt, ist glücklich; از خوردَنى ها غِیر ِ خُنَک هیچ نَداریم، ما هیچ نَداریم و غَمى ِ هیچ نَداریم
 Zufriedenheit; اِکتِفاء، اِرضا، قَناعَت
@@ -869,6 +870,7 @@ Zunge; زَبان، لِثان
 - sein Herz auf der Zunge haben; دِل ِ خودرا بیرون ریختَن
 - die Zunge ist belegt; زَبان بار دارَد
 - die Zunge lösend (anfangen zu reden, durch Medikamente o.ä:); زَبان آوَر بودَن
+- eine Zunge kann mehr Unheil anrichten als eine Schlange; زَبان ِ گَزیده بَدتَر از مار ِ گَزیده است
 - gleichen Zungenschlag haben mit mir; با خودَم هَمسانى و هَمخوانى دارَد
 zunicken; سَرتِکان دادَن
 zunutze;

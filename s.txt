@@ -1113,7 +1113,7 @@ schmecken;
 - was mir nicht schmeckte, bekam ich vorgesetzt; از هَرچه بَدَم آمَد بَر سَرَم آمَد
 - der Wurm muss dem Fisch schmecken, nicht dem Angler; عَلَف بايَد به دَهَن ِ بُزی سیری بیايَد
 Schmeichelei; تَمَلُق، چاپلوسى، هِندِوانه، زَبان بازى
-schmeicheln (jem. -); به کِسى مُداهَنه کَردَن، کِسى را خایه مالى ک.، ـ چاپلوسى ک.، تَمَلُق ک.، هِندِوانه زیر ِ بَغَل ِ کِسی گُذاشتَن، بادِنجان دور ِ قاب ِ کِسی چیدَن
+schmeicheln (jem. -); به کِسى مُداهَنه کَردَن، کِسى را خایه مالى ک.، ـ چاپلوسى ک.، تَمَلُق ک.، هِندِوانه زیر ِ بَغَل ِ کِسی گُذاشتَن، بادِنجان دور ِ قاب ِ کِسی چیدَن، سَبزی پاک کَردَن
 - mit schmeichelnden Blicken; با چِشمهاى ِ تَحسین آمیز
 schmeichlerisch; خوش زَبان، چاپلوسانه
 - schmeichlerisch & kokett; ناز و غَمزه اى
@@ -3193,6 +3193,7 @@ Ständevertretung; نَمايَندِگى ِ صِنفى
 standfest; پابَرجا، اُستُوار
 Standgericht; دادگاه ِ نِظامى
 standhaft; ثابِت قَدَم، پایدار، پاقُرص
+- standhaft bleiben; سیخَم و میخَم اُطاق بیخَم
 Standhaftigkeit; پافِشارى، ایستادِگى، اُستُوارى
 ständig; هَمواره
 - er entfernt s. ständig von der Arbeit; وَقت و بى وَقت کار و کاسِیيَش را رَها مى کُنَد

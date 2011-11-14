@@ -1656,6 +1656,7 @@ emporarbeiten;
 - s. mühsam emporarbeiten; با زَحمَت خودرا به بالا بُردَن، بَر اَثَر ِ کار ِ خود تَرَقى کَردَن
 empören (s. -); تَغَیُر کَردَن، عاصى شُدَن، شوریدَن، شورِش کَردَن، خَشمگین شُدَن
 Emporkömmling; نَدید بِدید، نوکیسه، تازه بِدوران رِِسید
+- der Emporkömmling vergißt seine Herkunft; سِرکه هَوا رَفت پائین رو نِمی بینَد
 emporschleudern; چیزى را دَر هَوا پَرانیدَن، ـ به بالا پَرتاب دادَن
 emporschnellen; از جا پَریدَن
 emporsteigen;
@@ -2041,6 +2042,7 @@ Entscheid; خَبَر، جَواب
 entscheiden; تَصمیم گِرِفتَن
 - s. entscheiden für; رأى به ... دادَن
 - s. gegen etwas entscheiden; به ضِد ِ چیزى جازِم شُدَن، عَلیه ِ چیزى رأى دادَن
+- über jemandes Kopf hinweg entscheiden; سَر ِ بی صاحِب می تَراشَد
 entscheidend;
 - entscheidende Rolle; نَقش ِ قاطِع
 - entscheidende Reparatur; تَعمیر ِ راه اَندازى

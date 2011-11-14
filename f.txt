@@ -250,7 +250,7 @@ fälschlicherweise; بِغَلَط، سَهواً، اِشتِباهاً
 Falschmeldung; خَبَر ِ جَعلى، ـ بى اَساس، چِل و چو
 - Falschmeldung abgeben; چِل و چو اَنداختَن
 falschspielen; کَف رَفتَن، جِر زَدَن
-Falschspieler; جِرزَن، کَج پَلاس، کَج باز
+Falschspieler; جِرزَن، کَج پَلاس، کَج باز، زیر ِ پای ِ کِسی نِشَستَن
 Fälschung; جَعل، تَقَلُب، ساخته کارى
 falsifizierbar; اِبطال پَذیر
 Faltblatt; اِبلاغ نامه، آگَهی نامه
@@ -1286,6 +1286,7 @@ Flugbahn; خَط ِ سِیر
 Flugblatt; شب نامه، اِعلامیه
 Flügel; پَر و بال
 - die Flügel stutzen; پَر و بال را قِیچى کَردَن
+- er läßt die Flügel hängen; سِبیلِش آویزان می شَوَد
 - Fensterflügel; لِنگهٔ پَنجَره، جِناح ـ
 - Nasenflügel; پَرهٔ دَماق
 - Parteiflügel; جِناح ِ حِزب
@@ -1798,7 +1799,8 @@ früher; دَر سابِق، دَر قَدیم، مُتَقَدِم، پیشین
 - wie früher; کَماکان
 - von früher her; از قََدیم اُلایام
 - es ist alles wie früher; چون پیش بَر جاى مانده
-- früher existierte der Begriff .. nicht; پیشتَر اِصطِلاح ِ .. وُجود نَداشت
+- früher war alles besser, سال به سال دَریغ از پارسال
+- früher existierte der Begriff .. nicht; پیشتَر اِصطِلاح ِ ... وُجود نَداشت
 - frühere Abfassung; زَمان ِ اَصلى ِ تألیف، تألیف ِ مُتَقَدِمانه، ـ قَبلى
 - frühere Auffassung; دَرک ِ مُتَقَدِم
 - er war der frühere Trainer; او مُرَبى ِ اُسبُق بود
