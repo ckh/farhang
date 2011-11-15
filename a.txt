@@ -3173,6 +3173,7 @@ aufgehen; باز شُدَن
 - deine Rechnung geht nicht auf; حِسابَت پاک نِمى شَوَد
 - aufgehen in der Rolle des ...; بِعُنوان ِ یِک ... از تَمام ِ وُجود مایه مى گُذارَد
 - um in einer Sache aufzugehen (verändert werden); تا دَر آن مُستَحیل شُدَن
+- in einer Sache aufgehen; سَر دَر سَر ِ چیزی کَردَن
 aufgelegt;
 - er ist heute gut aufgelegt; او اِمروز سَر ِ حال اَست
 - er ist nicht zum Singen aufgelegt;  او بَراى ِ خواندَن سَر ِ دَماغ نیست

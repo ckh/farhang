@@ -667,6 +667,7 @@ schicken;
 Schicksal; مُقَدَرات، تَقدیر، سَرنِوِشت
 - vom Schicksal betrogener Mensch; آدَم ِ مَفلوک
 - s. in sein Schicksal ergeben; خودرا تَسلیم ِ سَرنِوِشت کَردَن، خودرا به دَست ِ سَرنِوِشت سِپُردَن
+- sein Schicksal liegt in meiner Hand; شیشهٔ عُمرِش پیش ِ مَنه
 Schicksalsgemeinschaft; هَم دوشى
 schicksalshaft; سَرنِوِشت ساز
 Schicksalsschläge; صَدَمات ِ مُقَدَرات
@@ -798,6 +799,7 @@ Schlaf; (qonaw) خُفت، خواب، نَوم، غُنَو
 - Schlaf übermannte ihn;  .چُرتِش گِرِفت، خوابِش گ
 - jem. aus dem Schlaf reißen; از خواب پَراندَن، چُرت ِ کِسی را پاره کَردَن
 - jem. am Schlaf hindern; خواب ِ کِسی را گِرِفتَن
+- Schlaf der Gerechten schlafen; روی ِ تُشَک ِ پَر ِ قو خوابیده
 - Dauerschlaf; خواب ِ مَدام
 - aus dem Halbschlaf erwachen; چُرتَش پاره شُد
 - Mittagsschlaf; خواب ِ قیلوله
@@ -4016,6 +4018,7 @@ Studium; تَحصیل
 Stufe; پِله
 - 2 Stufen auf einmal; دو پِله يِکى کَردَن، پِله هارا دو تا يِکى کَردَن
 - s. mit jem. auf die gleiche Stufe stellen; خودرا به پای ِ کِسی رِساندَن
+- s. auf eine Stufe mit den Großen der Welt stellen; شُتُرها را نَعَل می کَردَند کَبک هَم پایَش را بُلَند کَرد
 stufenlos; بى پِله
 - stufenloses Getriebe; گیر بُکس ِ بى پِله
 stufenweise; تَدریجى، قَدَم بِقَدَم، بِصورَت ِ پله اى

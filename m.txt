@@ -1184,6 +1184,7 @@ Motorrad; موتور سیکلِت
 Motorradfahrer; موتور سَوار
 Motorroller; موتور ِ روروک
 Motte; بید
+- viele Motten umkreisen das Licht; سَر ِ کیسه را شُل کُن هَمه دُنبالِت میان
 Motto; شُعار
 motzen; غُر و لُند کَردَن
 Möve; مُرغ ِ سِفید ِ دَریائى

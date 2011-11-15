@@ -1522,7 +1522,7 @@ hundertst;
 Hunger; گُرُسنِگى
 - Hunger haben; گُرُسنه بودَن
 - ich habe Hunger; گُرُسنه اَم
-- den Hunger stillen; سَدّ ِ جوع کَردَن
+- den Hunger stillen; شِکَم از عَزا دَر آَوردَن
 - den ersten Hunger stillen; شِکَم ِ خود را وَصله پینه کَردَن
 - Hunger ist schlimmer als mangelnde Liebe; داغ ِ شِکَم از داغ ِ عَزیزان بَدتَر است
 Hungerjahr; قَحط سال

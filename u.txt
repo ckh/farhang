@@ -1413,6 +1413,7 @@ Unterschenkel; اُستُخوان ِ ساق ِ پا
 Unterschied; فَرق، تَفاوُت
 - das macht keinen Unterschied; توفیر نِمى کُنَد، فَرق ـ
 - Unterschiede machen zwischen Menschen; بِین ِ مَردُم فَرق گُذاشتَن
+- zwischen uns ist kein Unterschied; سَر و تَه یِک کِرباسیم
 - Höhenunterschied; اِختِلاف ِ سَطح، ـ اِرتِفاح
 unterschiedlich; مُتَفاوِت، جور بِجور
 - ein weiterer unterschiedlicher Aspekt von ihm; وَجه ِ تَمايُز ِ دیگَر ِ او

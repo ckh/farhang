@@ -1068,6 +1068,8 @@ drauf;
 - er ist gut drauf; کَله اش گُرم شُده است
 draufgängerisch; شُجاع
 - draufgängerisch handeln; تَهَوُر بِخَرج دادَن، با جُرأت عَمَل کَردَن
+draufhaben;
+- der hat was drauf; شَمشیرِش به اَبر می رِسَد
 drauflegen;
 - noch einen drauflegen (beim Essen: Die Suppe verdünnen, damit es reicht); آب ِ دیزی را زیاد کَردَن، بِمِزاح: چیزی بِطَعام اَفزودَن
 draussen; بیرون، خارِج

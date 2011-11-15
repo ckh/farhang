@@ -995,6 +995,7 @@ Preis; قِیمَت
 - Preis festsetzen; نِرخ بَستَن
 - Schönheit hat ihren Preis; خَربُزهٔ شیرین نَصیب ِ کَفتار می شَوَد اَنگور ِ خوب نَصیب ِ شَغال می شَوَد، سیب ِ سُرخ برای ِ دَست ِ چَلاق خوب است
 - alles hat seinen Preis!; هيچ اَرزانی بی عِلَت نيست و هيچ گِرانی بی حِکمَت
+- wer oben steht, bezahlt einen hohen Preis; سَر ِ بُزُرگ بَلای ِ بُزُرگ دارَد
 - Nobelpreis; جايِزهٔ نوبِل
 - Tagespreis; نِرخ ِ روز، قِیمَت ِ ـ
 - Preis-Leistungsverhältnis stimmt; هَر چِقَدر پول بِدی هَمانقَدر آش می خوری

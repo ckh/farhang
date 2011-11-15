@@ -404,8 +404,11 @@ Invasor; اِستیلا جو
 Inventar; اَسباب، اَموال
 - Inventarliste anlegen; سیاهه بَر داشتن، صورَت ِ کالا، فِهرِست ِ اَموال
 Inventur; سیاهه بَردارى، فِهرِست بَردارى، صورَت ِ موجودى، ثَبت ِ موجودى
+investieren; سَرمایه گُذاری کَردَن
+- investiere dich in Leute, die bereit sind mitzumachen; سَر قَبری گِریه کُن که مُرده توش باشَد
 Investition; حُصول، سَرمایه گُذارى، خَرج
 - Fehlinvestition; سَرمایه گذارى ِ غَلَط
+- gute Investition (billig, aber im Ergebnis gut); سَنگ مُفت گُنجِشک مُفت
 - Rationalisierungsinvestition; سَرمایه گُذارى بَراى ِ کِفايَت ِ اَفزايِش
 Investitionsanreiz; تَشویق ِ سَرمایه گُذارى
 Investitionskosten; مَخارج ِ حُصول، مَخارج ِ خَرید

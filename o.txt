@@ -397,6 +397,7 @@ orientieren;  .وانِگَریستَن، جَهَت دادَن، اِطِلاع
 - rechtsorientiert; راست رو، راستگِرا
 Orientierung; جَهَت گیرى، اِرشاد، جَهات یابى، خَط ِ مَشق، تَشخیص ِ موقِعيَت
 - jem. eine Orientierung geben; کِسى را راهنَمائى کَردَن
+- er hat die Orientierung verloren; شُده کَلاف ِ سَر دَر گُم
 Orientierungsstufe (in der Schule); کلاس ِ راهنَمایى
 Original; اَصل
 Originalfassung; نُسخهٔ اَصلى

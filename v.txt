@@ -153,6 +153,7 @@ verbeissen;
 verbergen;  .مَستور کَردَن، قاِئم ک.، پِنهان ک.، غِیب ک.، مَخفى ک
 - s. verbergen; مُتَوارى شُدَن
 - um die eigenen Gefühle zu verbergen; بَرای ِ کِتمان ِ اِحساسات ِ خود
+- auf Dauer läßt s. das nicht verbergen; شُتُر سَواری دولا دولا نِمیشه
 - was verbirgt er vor uns?; چه کاسه ای  زیر ِ نیم کاسه اَش است
 - s. verbergend; مُتَوارى
 - verborgen sein;  .نِهُفته بودَن، قائم ب.، نهان ب.، پنهان ب.، مَکنون ب.، مُتَوارى ب
@@ -896,6 +897,7 @@ Verlautbarung; بَیانیه، اِعلامیه
 verlegen; خیت و پیت، شَرمزَده، شَرمَنده، با دَستپاچِگى، خِجِل
 - verlegen werden; حال ِ کِسى دِگرگون مى شَوَد
 - er ist verlegen stehen geblieben; او گیچ و سَر دَر گُم ایستاده مى مانَد
+- verlegen sein; شاخ بَر آوَردَن
 - Fussboden mit ... verlegen; کَف ِ زَمین را با ... فَرش کَردَن
 - seine Haare waren verlegen; موهايَش بَد خواب بود
 Verlegenheit; شَرمزَدِگى، خِجالَت زَدِگى، کَم روئى
