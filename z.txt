@@ -448,6 +448,8 @@ Zeugenvernehmung; بازپُرسى از شاهِد
 Zeugnis; کارنامه، دانِش نامه
 Zeugung; زاد و وَلَد، تولید ِ مِثل
 Zichorie; کاسنى
+Zicke;
+Zickenkrieg; رَخت ِ دو جاری را دَر یِک تَشت نِمیشه شُست
 zickig; چَموش، سَرکِش، عاصى
 - du bist doch nie so zickig gewesen; تو که این قَدر نازُک ِ نارَنجى نَبودى
 zickzack;
