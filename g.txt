@@ -571,18 +571,19 @@ gegenteilig; بَر عَکس
 - meine Meinung ist genau gegenteilig; نَظَرَم دُرُست بَر عَکس ِ این است
 - darüber gibt es gegenteilige Meinungen; دَر این مورِد نَظَریات ِ مُخالِف موجودَند
 gegenüber;
-- gegenüber dem ..; ... ِ در قَبال ِ ، در مُقابِل
-- Bekämpfungsmethode gegenüber ..; رَوِش ِ مُبارِزه با
+- gegenüber dem ...; ... ِ در قَبال ِ ، در مُقابِل
+- Bekämpfungsmethode gegenüber ...; رَوِش ِ مُبارِزه با
 - er wohnt gegenüber; او روبِرو زِندِگى میکُنَد
 - er ist anderen Menschen gegenüber freundlich; او با دیگَران خوب رَفتار میکُنَد، او نِسبَت به دیگَران مِهرَبان است
 - sein Reichtum verdoppelte s. gegenüber vorher; ثِروَتش به ثِروَت ِ قَبلى اَش دوبَرابَر شُد
 - bis gegenüber (unter) unserer Nase;  تا مُحاذى ِ بینى ِ ما، ـ مُتَحاذى ِ ـ
 Gegenüber (n); طَرَف ِ مُقابِل
+- im Gegenüber von Problemen; دَر رویارویی با مسائِل
 gegenüberstellen;
 - einander gegenüberstellen; پَهلوى ِ هَم گُذاشتَن، مُتَقابِل ِ یِکدیگَررا قَرار دادَن
 Gegenüberstellung; مُقابِله
 Gegenwart; زَمان ِ حال
-- in Gegenwart von ..; ... ِ با حُضور
+- in Gegenwart von ...; ... ِ با حُضور
 gegenwärtig;
 - gegenwärtig sein; حُضور داشتَن
 - die gegenwärtige Zeit; مُعاصِرَت، زَمان ِ مُعاصِر

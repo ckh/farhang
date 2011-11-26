@@ -1199,9 +1199,9 @@ allein; تَنها
 - er alleine; او به تَنهائى
 - jem. alleine lassen; کِسى را تَنها گُذاشتَن
 - mit jem. alleine sein; با کِسى خِلوَت کَردَن
-- für s. alleine genommen; .. به تَنهائى بودَن ِ
+- für s. alleine genommen; ...ِ به تَنهائى بودَن
 - die Arbeit tut s. nicht von alleine; کار باد آوَرده نیست
-- .. geht nicht alleine von der Hand; چیزى به مِیل ِ خود دَست بِدَست نِمى شَوَد
+- ... geht nicht alleine von der Hand; چیزى به مِیل ِ خود دَست بِدَست نِمى شَوَد
 - mutterseelenalleine; لاانسان، لاشَریک، مُنزَوى
 Alleinerbe; وارث ِ مُنحَصِر بِفَرد
 Alleingang;
@@ -1314,7 +1314,7 @@ als;
 - so, als wenn sie nicht von ihm wären; که گویا اَز آن ِ او نیستَند
 - als wäre ich kein Mensch; اَصلاٌ اِنگار نَه اِنگار که اِنسانَم
 - als würde etwas überhaupt nicht existieren; اِنگار نَه اِنگارِش بودَن
-- als er meine Lage sah, ..; حالَت ِ مَرا که دید .. 
+- als er meine Lage sah, ...; حالَت ِ مَرا که دید
 - sowohl Männer als auch Frauen; هَم مَردها و هَم زَنها
 - etwas höher bewerten als eine andere Sache; چیزى را اَز چیزى دیگَر مُهِمتَر تَلَقى کَردَن
 alsbald; بِزودى، بِلافاصِله
@@ -1475,11 +1475,11 @@ Amüsement; خوش گُذَرانى
 amüsieren; خوش گُذَراندَن
 - ich hoffe, Sie haben s. amüsiert; اُمیدوارَم که به شُما خوش گُذَشت
 an;
-- an jeder ...; سَر ِ هَر
+- an jeder ...; ... سَر ِ هَر
 - an der Kreuzung; دَر تَقاطُع ِ، سَر ِ ـ
 - der Krämer an der Ecke; بَقال ِ سَر ِ گُذَر
 - an der Regierung sein; بَر سَر ِ قُدرَت بودَن
-- an der Spitze von ..; دَر رأس ِ
+- an der Spitze von ...; ِ دَر رأس
 - an seinem Platz sitzen; سَر ِ جایَش نِشَستَن
 - an Stelle von; بِجاینکه
 - an & für sich; دَر حَقیقَت
@@ -1490,7 +1490,7 @@ an;
 - sie gingen an das Grab; به سَر ِ قَبر رفتند
 - und setzt s. an seinen Platz; و سَر ِ جاى خود مى نِشینَد
 - gingen in die Kneipe an der Ecke; به مِیخانه سر ِخیابان رفتند
-- er starb an der Krankheit; به مَرَض ِ .. فوت کَرد
+- er starb an der Krankheit; به مَرَض ِ ... فوت کَرد
 Anachronismus; نابِهَنگام، بى جا و بى مورِد
 anaerob; بى هَوازى
 Anagramm; جِناس ِ حَرفى
@@ -1521,7 +1521,7 @@ Anbau; کِشت و کار
 - der Anbau des Hauses; ساختِمان ِ پَهلوئى
 anbauen; کاشتَن
 anbefehlen;
-- jem. an x anbefehlen; کِسى را به .. سِپُردَن
+- jem. an x anbefehlen; کِسى را به ... سِپُردَن
 anbei; دَرلَف ِ، به پیوَست ِ
 anbeissen;
 - der Fisch beisst an; ماهى گاز مى زَنَد
@@ -1529,7 +1529,7 @@ anbeissen;
 - jem. sieht zum Anbeissen aus; آدَم دِلِش مى خواهَد گازش بِزَنَد
 - sie ist zum Anbeißen; او خِیلی تیکه است
 anbelangen (*:betreffen); دَر بَر گِرِفتَن
-anbeten; سِتایِش کَردَن، پَرَستِش ک.، سَجده ک
+anbeten;  .سِتایِش کَردَن، پَرَستِش ک.، سَجده ک
 Anbetracht;
 - in Anbetracht von; با تَوَجُه به اینکه، نَظَر به اینکه
 Anbetung;
@@ -1592,7 +1592,7 @@ anders; طور ِ دیگَر، دِگَرگون، مُتَفاوِت
 andersartig; مُتَفَرِق، جور ِ دیگَر
 Änderung; تَغییر، عَوَض، تَبدیل
 andeuten;
-- andeuten, dass; رِساندَن که، فَهماندَن که، اِشاره کَردَن به
+- andeuten, dass ...; رِساندَن که، فَهماندَن که، اِشاره کَردَن به
 Andeutung; (plur.) (تَلویح، تَلمیح، کِنایه، اِستِعاره (اِستِعارات
 - in Andeutungen reden; به کِنایه زَدَن، به دَر مى گوئى، دیوار بِشنو
 andeutungsweise;  تَلویحاً، تَلمیحاً
@@ -1789,7 +1789,7 @@ angenehm; مَطبوع، پَسَندیده
 - angenehme Sprechweise; گُفتارهاى ِ نَغز
 - das Haus ist angenehm & sauber; این خانه طَیِب و طاهِر اَست
 angenommen;
-- angenommen, dass; فَرض کُنید که
+- angenommen, dass ...; فَرض کُنید که
 angepasst (*:anpassen); هَمرَنگ
 Anger; چِراگاه
 angeregt;
@@ -1808,7 +1808,7 @@ angesehen; آبرومَند، مُحتَرَم
 Angesicht; چِهره، قیافه
 - vor jem. auf das Angesicht fallen; به حُضور ِ کِسى به رو اُفتادَن
 - jem. ins Angesicht lachen; به ریش ِ کِسى خَندیدَن
-- von Angesicht zu Angesicht; رو دَر رو
+- von Angesicht zu Angesicht mit ...; ... دَر رویارویی با ...، رو دَر رو با،
 angesichts;
 - angesichts dessen; مُستَنَد بَر این، نَظَر به اینکه
 angespannt;
