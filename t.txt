@@ -39,7 +39,7 @@ Tagelohn; روزمُزد، مُزد ِ روزانه
 Tagesanbruch; سَحَرگاهان، بامداد
 Tagesgespräch;
 - zum Tagesgespräch werden; نَقل ِ مَجالِس شُدَن
-Tagesordnung (bei Sitzung); دَستور ِ کار، ـ جَلَسه، طَرح ِ بَرنامه
+Tagesordnung; (bei Sitzung) دَستور ِ کار، ـ جَلَسه، طَرح ِ بَرنامه
 - in die Tagesordnung aufnehmen; دَر دَستور ِ جَلَسه آوَردَن
 Tagespreis; نِرخ ِ روز، مَظَنهٔ روز
 Tagesration; خَرج ِ يِک روز
@@ -63,7 +63,7 @@ Taktgefühl;
 - Mensch mit Taktgefühl (- ohne -); آدَم با گُذَشت (ـ بى گُذَشت)، آدَم ِ سائِسانه، آدَم با حِس ِ نِزاکَت
 Taktiererei; گُمانه زَنى
 Tal; دَره
-Talfahrt (finanz.); سِیر ِ نُزولى ِ اِقتِصادى
+Talfahrt; (finanz.) سِیر ِ نُزولى ِ اِقتِصادى
 Talent; فَضائِل، قَریحه، اِستِعداد، اَهليَت، قابِليَت
 - Talente (biblischer Begriff); قِنطار
 talentiert; قَریحه، مُستَعِد
@@ -76,7 +76,7 @@ Talsohle; تَه ِ دَره
 - wirtschaftliche Talsohle; رُکود  ِ اِقتِصادى
 Talweg; خَط اُلقَعر، ژَرفاب
 Tamtam; طُمطُراق
-Tändeln (mit anderem Geschlecht); عِشوه، عِشق بازى
+Tändeln; (mit anderem Geschlecht) عِشوه، عِشق بازى
 Tandem; دو چَرخهٔ پُشت ِ سَر ِ هَم، چَرخهٔ دو تَرکه
 - Tandem fahren; دو تَرکه سَوارى کَردَن
 Tangente; خَط ِ مُماس
@@ -185,7 +185,7 @@ taubstumm; (sommon-bokm) گُنگ و کَر، کَر و لال، صُم بُکم
 tauchen; غوطه خوردَن، ـ زَدَن، غوطه وَر شُدَن
 - abtauchen;  .شیرجه رَفتَن، با کَله زیر ِ آب ر
 - abtauchen, fliehen; دَر رَفتَن
-Tauchen (n); غوطه، غوص، غَواصى
+Tauchen; (n) غوطه، غوص، غَواصى
 Taucher; غوطه وَر، غَواص
 Taucheranzug; لِباس ِ غَواصى
 Tauchlack; لاک ِ غوطه اى
@@ -194,7 +194,7 @@ tauen; آب شُدَن، تابیدَن
 Taufe; غُسل ِ تَعمید
 taufen; کِسى را غُسل ِ تَعمید دادَن
 Täufling; شَخص ِ غُسل ِ تَعمید داده شُده
-Taufpate (- in);  (پِدَر ِ تَعمیدى (مادَر ِ ـ
+Taufpate; (- in)  (پِدَر ِ تَعمیدى (مادَر ِ ـ
 taugen;
 - als Leiter taugen; ساخت ِ یک رَهبَررا داشتَن، بدَرد ِ رَهبَر خوردَن
 - das taugt nicht für den Film; که به کار ِ سینِما نِمى آيَد
@@ -219,7 +219,7 @@ Täuschungsmanöver; مانوِر ِ اِنحِرافى
 tausend; هِزار
 Tausendfüssler; هِزارپا
 Tausendsassa; آدَم مِثل ِ دیزی ِ هَر کاره هِزاز کار از او می آيَد
-Tauwetter (polit.); جَوّ ِ مُناسِب ِ سیاسى
+Tauwetter; (polit.) جَوّ ِ مُناسِب ِ سیاسى
 Tauziehen; کِشمَکِش
 taxieren; قِیمَت گُذارى شُدَن
 - etwas finanziell taxieren, einschätzen; چیزى را قِیمَت گُذارى کَردَن
@@ -323,7 +323,7 @@ Temperament; مِزاج
 - melancholisch; سوداوى
 - cholerisch; صَفرائى
 Temperatur; دَرَجهٔ حَرارَت
-tempern (Metallurgie); نَرم کَردَن
+tempern; (Metallurgie) نَرم کَردَن
 Tempo; سُرعَت
 - Tempo, Tempo; پوى پوى، عَجَله کُن، زود باش
 Tendenz; گِرايِش، تَمايُل
@@ -474,7 +474,7 @@ Tilgung; اِستِهلاک، تَصفیه، اَداء
 Tinte; جوهَر، مُرَکَب
 Tintenfass; دَوات، مُرَکَب دان
 Tintenfisch; ماهى ِ مُرَکَب
-Tintensack (bei Tintenfisch); غَشاء ِ مُرَکَب
+Tintensack; (bei Tintenfisch) غَشاء ِ مُرَکَب
 Tip; پیشنَهاد، پِند
 - jem. einen Tip geben; پِند دادَن، راهنَمائى کَردَن
 tippen;
@@ -540,6 +540,8 @@ tolerant; با مُدارا، با گُذَشت، بُردبار
 Toleranz; مُدارا، بُردبارى
 tolerieren; تَحَمُل کَردَن
 toll; بَدیع، عالى
+- toll (unter Jugendlichen, ansonst iron.); دَمِت گَرم
+- das hast du toll hingekriegt (iron.); دَمِت گَرم خوب کَردی
 - toller Erfolg; توفیق ِ چِشم گیر، ـ مُعجِزه آسا
 - toller Garten; باغ ِ مُحتَشَم
 - tolles Kleid; لِباس ِ جِلف و قَشَنگ
@@ -561,7 +563,7 @@ Tonleiter; گام، دَستگاه هاى ِ اَصلى
 Tonne;
 - Tonne (Gefäss); بُشکه
 - Tonne (Gewichteinheit); تُن، ۱۰۰۰ کیلوگرام
-Tonspur (beim Filmband); حاشیهٔ صوتى
+Tonspur; (beim Filmband) حاشیهٔ صوتى
 Tonus; اِنقِباض ِ دائِم ِ ماهیچهٔ صاف
 Topas; یاقوت ِ زَرد
 Topf; دیگ، کوزه، بادیه
@@ -644,7 +646,7 @@ tragen; حَمل کَردَن، بُردَن
 Träger; حامِل
 - Eisenträger; تیر آهَن، تیر ِ حَمال ِ آهَنى
 - Lastenträger; باربَر
-trägerlos (- es Kleid); لِباس بِدون ِ رِکاب
+trägerlos; (- es Kleid) لِباس بِدون ِ رِکاب
 Tragetuch; چَپَرپیچ
 - in ein Tragetuch einwickeln (z.B. Baby); چَپَرپیچ کَردَن
 Trägheit; فَرويِش، بى حالى، خُمود، تَکَسُل
@@ -654,7 +656,7 @@ tragisch; فاجِعه اَنگیز، غَم اَنگیز، حُزن آوَر
 - tragischer Vorfall; اِتِفاق ِ جانسوز، ـ جانگُداذ، ـ فَجیع
 Tragödie; فاجِعه
 - Tragödie (Theater); تراژِدى
-Tragweite (polit.); عَواقِب
+Tragweite; (polit.) عَواقِب
 Trainer; مُدَرِب، مُرَبى
 trainieren; تَمرین کَردَن
 Training; تَمرین
@@ -696,7 +698,7 @@ Transportunternehmen; شِرکَت ِ حَمل و نَقل
 transzendent; اِدراک ِ مُتَعال
 - transzendente Welten; (olwi) عَوالِم ِ عُلوى، ماوَراى ِ عالَم
 - Transzendenz Gottes; ماوَراء ِ خِلقَت، تَعالى ِ خُدا
-Trapez (mathemat., Sport); ذو زَنَقه
+Trapez; (mathemat., Sport) ذو زَنَقه
 Trapezkünstler; بَند باز
 Trassierung; اِنتِخاب ِ مَسیر
 Tratsch; بَد زَبانی، جُغُلی، سُخَن چینی
@@ -775,7 +777,7 @@ treffen;
 - du hast nicht getroffen; جا خالى زَدى، نِشانه نَزَدى
 - das trifft ihn, das sitzt; بَر او کارگَر مى افتَد
 - für einen Augenblick trafen s. unsere Blicke; نِگاهِمان يِک لَحظه به هَم اُفتاد
-Treffen (n); بَرخورد، مُلاقات
+Treffen; (n) بَرخورد، مُلاقات
 - ein gemütliches Treffen; گِردِهَمائى ِ خودِمانى
 treffend;
 - er machte folgende treffende Bemerkung über ihn; او کَلَمات ِ قِصار ِ زیررا بَر زَبان آوَرد
@@ -789,7 +791,7 @@ treiben; راندَن، پیش بُردَن
 - Sport treiben; وَرزِش کَردَن
 - er treibt uns hierhin und dorthin; او مارا به جِلو و عَقَب مى رانَد
 - was treibst du gerade?; چه کار می کُنی؟
-Treiber (bei Jagd); آهو گَردان
+Treiber; (bei Jagd) آهو گَردان
 Treibhaus; گُلخانه
 Treibmine; مین ِ شِناوَر
 Treibsand; شِنهاى ِ رَوان
@@ -857,7 +859,7 @@ Trieb;
 triebhaft;
 - triebhafter Mensch; آدَم ِ هیز
 Triebkraft; قُوهٔ مُحَرِکه
-Triebwerk (bei Rakete); نیروى ِ مُحَرِکهٔ موشَک
+Triebwerk; (bei Rakete) نیروى ِ مُحَرِکهٔ موشَک
 triefen; چِکیدَن
 - triefende Frucht; میوهٔ آبلَنبو
 Triefnase; (mofu) مُفو
@@ -892,7 +894,7 @@ trocken; خُشک
 - trocken, dürr (Wüste); بَرَهوت
 - auf dem Trockenen sitzen; دَر تَنگدَستى بودَن
 Trockenheit; خُشکى
-trockenlegen (eines Gewässers); زیر آب زَدَن
+trockenlegen; (eines Gewässers) زیر آب زَدَن
 Trockenlegung; تَجفیف کَردَن
 trocknen; خُشک کَردَن
 Trockner; خُشک کُن گَردان
@@ -910,17 +912,17 @@ Trommelwirbel; ضَرباهَنگ ِ طَبل
 Trommler; ضَرب زَن، طَبال
 Trompete; ترُمپِت
 Tropen; نَواحى ِ گَرمسیر
-Tropf (med.); سُرُم
+Tropf; (med.) سُرُم
 - ein armer Tropf; آدَم ِ کَم عَقل
 tropfen; چِکیدَن، تَراویدَن
 - abgetropfter Quark; ماست ِ چِکیده
-Tropfen (m); قَطره، چِکه
+Tropfen; (m) قَطره، چِکه
 - bis zum letzten Tropfen; لاجُرعِه
 tropfenweise; قَطره قَطره، چِکه چِکه
 Trophäe; (pl.)  (غَنیمَت (غَنائِم
 - Kriegstrophäe; غَنايِم ِ جَنگ
 Trost; تَسَليَت، تَسَلى، آسايِش، آسودِگى، دِلدارى، آرامِش خاطِر
-trösten (jem. -); تَسَلى دادَن، آسايِش بَخشیدَن، آسودِگى ب.، دِلدارى دادَن، آب ِ شادی بَر آَتش ِ غَم ریختَن
+trösten; (jem. -) تَسَلى دادَن، آسايِش بَخشیدَن، آسودِگى ب.، دِلدارى دادَن، آب ِ شادی بَر آَتش ِ غَم ریختَن
 Tröster; مُعَزى، تَسَليَت دَهَنده
 trostlos; مأیوس، بِدون ِ چِشم داشت
 - trostlose Stimme; صِداى ِ حَزین
@@ -929,7 +931,7 @@ trottelig; خِنگ
 Trottoir; پیاده رو
 trotz; ِ با آنهَمه، با اینکه، با وُجود
 - trotz allem ...; به هَر کَلَکی بود
-Trotz (m); خودسَری، لَجاجَت
+Trotz; (m) خودسَری، لَجاجَت
 - zum Trotz; اِلى رَغم
 trotzdem; با اینحال، با وُجود ِ این که
 trotzen;
@@ -954,10 +956,10 @@ Truhe; صَندوق
 Trümmerhaufen; مَزبَله، خَرابه، آوار
 Trumpf; بَرگ ِ بَرَنده
 - Pik ist Trumpf; حُکم پیک است
-trumpfen (Kartenspiel); حُکم کَردَن
+trumpfen; (Kartenspiel) حُکم کَردَن
 Trunkenbold; بَدمَست، اَلکُلى
 Trunkenheit; مَستى، سَکره
-Truppe (milit.); نیروى ِ نِظامى، لَشکَر
+Truppe; (milit.) نیروى ِ نِظامى، لَشکَر
 - sie setzten ihre Truppen in Bewegung; آنها صُفوف ِ سَربازان ِ خودرا به حَرَکَت دَر آوَردَند
 - Kampftruppen; عِدِه هاى ِ رَزمى
 - schnelle Eingreifstruppe; نیروهاى ِ واکُنِش ِ سَریع
@@ -977,7 +979,7 @@ Tuch; ماهوت، پارچه
 - Tragetuch (zum Transportieren von Wäsche, etc.); بُقچه
 tüchtig; کارى، زِرَنگ
 - tüchtig sein für ...; لیاقَت ِ این چیزرا داشتَن، قابِليَت ِ ـ ، اَهَليَت ِ ـ
-tuckern (z.B. Motor); ریپ زَدَن
+tuckern; (z.B. Motor) ریپ زَدَن
 tückisch; بَد جِنس
 - tückische Krankheit; مَرَض ِ موذى، ـ خَطَرناک
 Tugend; ماهيَت، تَقوا
@@ -1049,7 +1051,7 @@ türkisch; تُرکى
 Türklopfer; دَرکوب
 Turm; بُرج
 turnen; ژیمناستیک کَردَن
-Turnen (n); ژیمناستیک
+Turnen; (n) ژیمناستیک
 Turner; زور وَرز، وَرزِش کار
 Turnier; مُسابِقهٔ قَهرَمانى
 Turnus;
