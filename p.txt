@@ -3,9 +3,9 @@
 - mit den paar Büchern, die ich gelesen habe; با چُس مِثقال ِ کِتابى که خواندَم
 - er kommt alle paar Tage; هَر چَند روز قَرار است که بیايَد
 - ein paar Jungens sind eingestiegen; دو سه تا جاهِلان سَوار شُدَند
-Paar (n); جُفت
+Paar; جُفت
 - Ehepaar; زوج
-paaren (s. -); (präs.) (جُفت گیرى کَردَن، گائیدَن (مى گايَد
+paaren; (s. -) (präs.) (جُفت گیرى کَردَن، گائیدَن (مى گايَد
 Paarung; جُفت گیرى
 paarweise; دو به دو، جُفت جُفت، دو تا دو تا
 Pacht; اِجاره، اِستیجار
@@ -14,7 +14,7 @@ pachten; اِجاره کَردَن
 Pachtung; اِستیجار
 packen;
 - packen, einpacken;  .بَسته بَندی کَردَن، بار بَندی ک
-- seine 7 - Sachen packen; بار و بُنه را بَستَن
+- seine Siebensachen packen; بار و بُنه را بَستَن
 - packen, herausreissen; قاپیدَن، قاپ زَدَن
 - einander packen; بِهَم گِلاویز شُدَن
 - am Kragen packen; يَقه گِرِفتَن
@@ -113,7 +113,7 @@ parallel; مُوازى، مُحاذى
 Parallele; خَط ِ مُوازى
 - unsere ... ist ohne Parallele; ما میان ِ همهٔ آنها لِنگه نَداشت...
 Parallelogramm; مُتَوازى اُلاَضلاح
-Parallelstelle, Kontext; (pl.) (آدرِس ِ مَرجوعى، آیات ِ اِرجائى، قَرینه (قَرايِن
+Parallelstelle; Kontext (pl.) (آدرِس ِ مَرجوعى، آیات ِ اِرجائى، قَرینه (قَرايِن
 Paralyse; فَلَج
 Parameter; پارامِتِر
 paramilitärisch; شَبهٔ نِظامى، نیمه نِظامى
@@ -152,7 +152,7 @@ Parlamentsmandat; کُرسى ِ مَجلِس
 Parlamentsperiode; دورهٔ مَجلِس
 Parlamentssitz; کُرسى ِ مَجلِس
 Parlamentssouveränität; حاکِميَت ِ مَجلِس
-parodieren (jem. -); کِسى را تَقلید کَردَن
+parodieren; (jem. -) کِسى را تَقلید کَردَن
 Parole; شُعار
 - Parolen im Chor von s. geben; شُعارهارا دَم گِرِفتَن
 Partei; (pl.) (حِزب (اَحزاب
@@ -233,10 +233,10 @@ pastig; خَمیر شُده
 - etwas pastig machen;  .چیزى را لینَت کَردَن، ـ خَمیر ک
 Pastor; کِشیش
 Patchwork; چِهِل تیکه بافى
-Pate (Patin);  (پِدَر ِ تَعَمیدى (مادَر ِ ـ
+Pate; (Patin)  (پِدَر ِ تَعَمیدى (مادَر ِ ـ
 patent;
 - er ist patent; او آدَمى با هوش و مَزه است، ـ خوش بَرخورد است
-Patent (n); اِختِراع ِ ثَبت شُده
+Patent; (n) اِختِراع ِ ثَبت شُده
 - er hat das Patent dafür; او صاحِب ِ حَق ِ اِمتیاز بَراى ِ این چیز است
 Patentamt; اِدارهٔ ثَبت ِ اِختِراعات
 Patentinhaber; صاحِب ِ اِمتیاز ِ اِختِراع
@@ -329,7 +329,7 @@ Pensionär; مُستَمِرى بِگیر، بازنِشَسته
 Perestroika; پِروستریکا
 perfekt; بى عِیب، کامِل
 - der Handel ist noch nicht perfekt; يَخَش چَندان نَگِرِفته است
-Perfekt (n); ماضى ِ نَقلى
+Perfekt; (n) ماضى ِ نَقلى
 Perfektion; کَمال
 Perfektionist; شَخصى که دَر اِجراى ِ کار سَعى مى کُنَد آنرا به بِهتَرین وَجه اَنجام دَهَد
 perforieren; سوراخ دادَن
@@ -582,7 +582,7 @@ Physiologie; فیزیولوژى
 physisch; جِسیمانی، بَدَنی
 Piano; پیانو
 Pickel; شیرینَک، جوش
-Pickelhaube (milit.); کُلاه ِ نِظامی نیش دار
+Pickelhaube; (milit.) کُلاه ِ نِظامی نیش دار
 pickelig; جوش دار
 picken; نوک زَدَن
 - er pickt s. überall die Rosinen raus; هَم خُرمارا مى خواهَد هَم خُدارا
@@ -639,8 +639,8 @@ Plagiat; جَعَل، اِنتِحال
 - Plagiatsnachweis-Software; راهکارهای ِ کَشف دَستبُرد ِ عِلمی
 Plakat; پلاکات
 Plakette; نِشان
-plan (eben); صاف، هَموار، مُسَطَح
-Plan (m); نَقشه، بَرنامه
+plan; (eben) صاف، هَموار، مُسَطَح
+Plan; (m) نَقشه، بَرنامه
 - Pläne (i.S. Ränke) schmieden; زَمینه سازى کَردَن
 - wenn ... gewesen wäre, wäre unser Plan gelungen; اَگَر ... بود طَرح ِ ما عَمَلى مى شُد
 - der Plan fällt ins Wasser; نَقش بَر آب مى شَوَد
@@ -691,7 +691,7 @@ plastisch; خَمیرى، مُستَعِد ِ هَرگونه شِکل
 Platane; چِنار
 Plateau; فِلات
 Platon; اِفلاطون
-Plätschern (vom Regen);  (شُرشُر (ـ ِ باران
+Plätschern; (vom Regen)  (شُرشُر (ـ ِ باران
 platt;
 - er legt s. platt hin; او طاقباز دِراز مى کِشَد
 - jem. platt machen; نَقش ِ زَمینِش کَردَن، کِسی را خُرد و خَمیر کَردَن
@@ -701,7 +701,7 @@ platt;
 Platte; تَخته
 - Festplatte; دیسک ِ سَخت
 Plättchen; وَرَقهٔ نازُک
-Platten (beim Rad); بى باد، پَنچَر
+Platten; (beim Rad) بى باد، پَنچَر
 - einen Platten haben; پَنچَر ِ چَرخ داشتَن، چَرخ پَنچَر است، پَنچَری دادَن
 - eine Platten reparieren; پَنچَری گِرِفتَن
 Plattenreparatur; پَنچَر گیری، تَرمیم ِ پَنچَری
@@ -737,7 +737,7 @@ Plausch;
 plausibel; قابِل ِ قَبول
 - seine Entschuldigung war nicht plausibel; عُزر ِ او مَسموع نَبود، ـ وارِد نَبود
 Plazenta; مَشیمه، جُفت جِنین
-plazieren (jem. -); کِسى را جا دادَن
+plazieren; (jem. -) کِسى را جا دادَن
 - s. an die Seite von X plazieren; خودرا دَر طَرَف ِ فِلان جا دادَن
 Plebiszit; رأى ِ عُمومى
 plebiszitär; مُبتَنى بَر رأى ِ عُمومى
@@ -745,7 +745,7 @@ pleite; مایه سوز، وَر شِکَسته
 - ich bin total pleite; کَفگیرم به تَه ِ دیگ خورده است، جیبَم تَه کِشیده است، آس و پاسَم، آسِمان جُلَم، آه دَر بَساط نَدارَم
 - der Betrieb machte pleite; کارخانه وَر شِکَست
 - der Betrieb ist pleite gegangen; کار خانه وَرشِکَسته شُده
-Pleite (f); وَرشِکَستِگى
+Pleite; (f) وَرشِکَستِگى
 - ich habe eine Pleite erlebt; مَن به هَچَل اُفتادَم
 Plejaden; ثُرَیا، سِتارِگان ِ پَروین
 Plektrum; زَخمه
@@ -762,7 +762,7 @@ plötzlich; يِکباره، ناگِهان، ناگاه، ضَرب اُلعَ�
 - plötzlich mußte ich lachen; يِهویی زَدَم زیر ِ خَنده
 Pluderhose; شَلوار ِ گُشاده
 Plumeau; لَحاف ِ کوچک پَر
-plump (linkisch); بَد قُواره
+plump; (linkisch) بَد قُواره
 Plunder; آل و آشغال، خِرت و پِرت
 Plünderer; تاراجگَر، غارَتگَر، چَپاوُلگَر
 plündern; غارَت کَردَن، تاراج ک.، چاپیدَن
@@ -775,7 +775,7 @@ Pluralismus; کِثرَت ِ عَقايِد و آراء، کِثرَت گِرا�
 plus;
 - 5 plus 5 ist 10; پَنج به (عِلاوهٔ) ۵ مى شَوَد دَه
 - 10 Grad plus; دَه دَرَجه بالاى ِ صِفر
-Plus (n);
+Plus;
 - ich habe ein Plus gemacht (finanz.); مَن سود بُردَم
 Plüsch; مَخمَل ِ کُرکدار
 Plusquamperfekt; ماضى ِ بَعید
@@ -800,7 +800,7 @@ Pogrom; مَلحَمه، اِنحِلال، ویرانی
 Pokal; کاپ، قَدَح، جام، پیاله
 Pökelfleisch; گوشت ِ نَمَک سود
 pökeln; نَمَک سود کَردَن، دَر آب نَمَک گُذاشتَن
-Pökeln (n); تَملیح
+Pökeln; تَملیح
 Pol; قُطب
 polar; قُطبی
 - polare Koordination; مُختَصات ِ قُطبى
@@ -809,7 +809,7 @@ Polarisierung;
 - Polarisierung der öffentlichen Meinung; قُطبى کَردَن ِ عَقايِد ِ عُمومى
 Polemik; جَدَل، مُناظِره، مُجادِله
 polen; قُطبى کَردَن
-Polen (geograph.); لَهِستان
+Polen; (geograph.) لَهِستان
 Police;
 - Versicherungspolice; بیمه نامه
 polieren; صِیقَل دادَن
@@ -902,7 +902,7 @@ Posten; نِگَهبان
 - er hat einen guten Posten; او مَقام ِ خوب دارَد
 Poster; پوستِر
 Postfach; صَندوق ِ پُستى
-postieren (jem. -); کِسى را جا دادَن
+postieren; (jem. -) کِسى را جا دادَن
 Postkarte; کارت ِ پُستال
 Postleitzahl; کُد ِ پُستى
 Postmoderne; پَسانوگِرایی، پُست مُدِرنیسم، پَسامُدِرنیسم، پَساتَجَدُد، مابَعد تَجَدُد
@@ -939,6 +939,8 @@ prahlen; لاف زَدَن، فَخر کَردَن، قُپى ک.، یاوه س�
 prahlerisch; فَخور
 Prahlhans; رَجَز خوان، لاف زَن، آدَم ِ خود نَما
 Präkambrium; پرِکامبرین
+praktikabel; (sein) کارآمَد بودَن
+- mit der Frage ist für mich nicht praktikabel; این سؤال بِرای ِ مَن ناکارآمَد است
 Praktikant; کار آموز
 Praktikum; کار آموزى
 praktisch; قابِل ِ عَمَلکَرد، عَمَلى
@@ -952,13 +954,13 @@ Präparat; ماده
 präparieren; آماده کَردَن
 Präposition; حُروف اُلجَر، حَرف ِ جَر، حَرف ِ اِضافه
 Präsens; زَمان ِ حال
-präsent (- sein); حاضِر بودَن
-Präsent (n); هِدیه، کادو
+präsent; (- sein) حاضِر بودَن
+Präsent; (n) هِدیه، کادو
 präsentieren; تَقدیم کَردَن، هِدیه دادَن
 - s. präsentieren; خود را نِشان دادَن
 - präsentiert das Gewehr; پیش فَنگ
-Präsentierteller (für Naschereien); خوانچه
-Präsentation (einer Sache); تَلفیق
+Präsentierteller; (für Naschereien) خوانچه
+Präsentation; (einer Sache) تَلفیق
 Präservativ; کاپُت
 Präsident; (pl.) (رَئیس (رُؤَساء
 - Ministerpräsident; نَخُست وَزیر
@@ -1142,7 +1144,7 @@ Produktionsverhältnisse; مُناسِبات ِ تولید
 Produktionsweise; نَحوهٔ تولید
 produktiv; باروَر، بارآوَر
 Produktivität; قابِليَت ِ تولید، بَهره وَرى، باروَرى
-Produzent (z.B. Film-); تَهیه کُنَنَده
+Produzent; (z.B. Film-) تَهیه کُنَنَده
 produzieren; تولید کَردَن
 - sie produzieren s. vor den Mädchen; آنها جِلوى ِ دُختَرها سَبز شُدَند
 Produzierender; صانِع
@@ -1329,7 +1331,7 @@ Psychose; اِختِلال ِ رَوانی
 Psychotherapeut; رَوان کاو
 Psychotherapie; رَوان کاوى، رَوان دَرمانى
 Pubertät; زَمان ِ بُلوغ، بُلوغ ِ جِنسی
-public domain (*: Computerbegriffe); مالِکیَت ِ عُمومی
+public-domain (*: Computerbegriffe); مالِکیَت ِ عُمومی
 publik; علَنی
 - publik machen (*: öffentlich); .به عَیان رِساندَن، به اِطِلاع ِ هَمِگى ر
 Publikation; جَرائِد، اِشاعه
@@ -1358,7 +1360,7 @@ pumpen; تُلُمبه زَدَن، پُمپ کَردَن
 - von jem. Geld pumpen; پول قَرض گِرِفتَن، پَرداخت ِ بَعدى
 punkt; رأس ِ
 - punkt 4 Uhr; سَر ِ ساعَت ِ ۴، رأس ِ ـ
-Punkt (m); نُقطه، نُکته
+Punkt; (m) نُقطه، نُکته
 - das ist mein schwacher Punkt; این نُکته ضَعَف ِ مَن است
 - mein Drachen wurde zu einem winzigen Punkt; بادبادَکَم خال ( - ِ آسمان) شُد
 - kommen Sie bitte auf den Punkt; به موضوع ِ اَصلى بِرِسید، بِدون ِ شاخ و بَرگ حَرف بِزَنید، حاشیه نَرو
