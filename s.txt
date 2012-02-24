@@ -398,7 +398,7 @@ Schalttag; اَندَرگاه
 Schaltung; اِتِصال
 - Parallelschaltung; اِتِصال ِ مُوازى
 Scham; شَرم، خِجالَت
-schämen (s. -); عار داشتَن، شَرمسار شُدَن، خِجالَت کِشیدَن، مُنفَعِل بودَن
+schämen; (s. -) عار داشتَن، شَرمسار شُدَن، خِجالَت کِشیدَن، مُنفَعِل بودَن
 - er schämt s.; اورا عار آيَد، او خِجالَت مى کِشَد
 - ich schäme mich; مَن رو سیاه هَستَم
 - der schämt s. überhaupt nicht mehr; شَرم و حَیا که نَدارَد، حَیا از چِشمهايَش رَفته
@@ -411,6 +411,7 @@ schamhaft; شَرمَنده، خَجول
 Schamhaftigkeit; چِشم و رو، شَرمَندِگی
 Schamhügel; زُهار
 schamlos; وَقیح، بى شَرم
+Schamottstein; آجُر ِ شاموتی
 Schande; رُسوا، اِفتِضاح، بى آبرو، نَنگ
 - Gefühl der Schande; اِحساس ِ خِفَتى
 - das ist eine Schande; اِفتِضاح است، قَباحَت دارَد
@@ -1351,11 +1352,12 @@ Schöpflöffel; آبگَردان
 Schöpfprobe; کَفچهٔ نِمونه
 Schöpfung; تَکوین، پِیدايِش، آفَرینِش، خِلقَت
 Schornstein; دودکِش
+Schornsteinfeger; دودکِش پاک کُن
 Schoss;
 - jem. bei s. auf den Schoss setzen; کِسى را روى ِ دامَن ِ خود نِشاندَن، ـ روى ِ زانو ـ
 - im Schosse der Familie; دَر کانون ِ خانِواده
 - Geld, das einem in den Schoss fällt; گَنج است بِدون ِ رَنج، پول ِ باد آوَرده
-Schössling (biolog.); پا جوش
+Schössling; (biolog.) پا جوش
 Schote; خورجینَک، نیام
 Schotter; ریگ
 schraffieren; هاشوَر زَدَن
@@ -1367,6 +1369,7 @@ schräg; مايِل، شیب دار، اُریب، مُوَرِب
 Schräge; تَوَرُب، شیب
 Schrägrampe; سَطح ِ مايِل، ـ مُوَرِب
 Schrägschnitt; بُرِش ِ مايِل
+Schrägstrich; کَج خَط
 Schrägung; پَخ
 Schramme; شَخا، خَراش، زَخم
 Schrank;

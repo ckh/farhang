@@ -1,4 +1,4 @@
-ca (*: cirka);  تَخمیناً، تَقریباً
+ca; (*: cirka)  تَخمیناً، تَقریباً
 Campus; مُحَوَطهٔ دانِشگاه
 Canossa; شَهر دَر ایتالیا
 - der Gang nach Canossa; به دَست و پاى ِ کِسى اُفتادَن
@@ -60,7 +60,7 @@ Chassis; زیر بَدَنه، شاسى
 Chauffeur; رانَندهٔ ماشین، شوفُر
 Chaussee; راه ِ شوسه
 Chauvinismus; شُوینیزم
-Check in; پَذیرِش ِ مُسافِر
+Check; in پَذیرِش ِ مُسافِر
 Chef; (pl.)  (کارفَرما،  رَئیس (رُؤَساء
 Chefarzt; پِزِشک ِ باشى، - اَرشَد
 Chefkoch; سَر آشپَز، آشپَز ِ باشى
@@ -121,8 +121,8 @@ Clique; جِرگه، گُروهَک
 Clown; دَلقَک، هَزال
 Club; باشگاه
 cm; سانتى مِتر
-CO (Kohlenmonoxyd);  اُکسید کَربُن
-CO2 (Kohlendioxyd); گاز ِ کَربُنیک
+CO; (Kohlenmonoxyd)  اُکسید کَربُن
+CO2; (Kohlendioxyd) گاز ِ کَربُنیک
 Cockpit; -ِ اُتاق ِ خَلَبان، کابین
 Code; کَلَمهٔ رَمزی
 - einen Code knacken; رَمزى را شِکَستَن
@@ -132,7 +132,7 @@ Colostrum; شیرماک
 - Colostrum bei Tieren; آغوز
 Comedy; مَسخَره بازى، مَسخَرِگى کَردَن
 Comics; تَصاویر ِ فَکاهى
-common sense; عَقل ِ سَلیم، مُعتَقِدات ِ عامه
+common; sense عَقل ِ سَلیم، مُعتَقِدات ِ عامه
 Computer; کامپیوتر، رایانه
 Computerbegriffe;
 - Animation; اَنیمِیشِن سازى
@@ -198,12 +198,12 @@ contra; ِ ضِد ِ، بَر خَلاف
 cool;
 - bleib cool; جوش نَزَن
 Copyright; کُلیهٔ حُقوق ِ چاپ مَحفوظ است، حَق ِ چاپ - ، کُپیرایت
-Corn Flakes; کورن فلِکس
+Corn; Flakes کورن فلِکس
 Corpus; پِیکَر
 - Corpus delicti; شِئى که وُقوع ِ جِنایَت را ثابِت می کُنَد
 Couch; نیمکَت ِ راحَتى
 Count-Down; شُمارِش ِ مَعَکوس
-Coup d`Etat; کودِتا
+Coup; d`Etat کودِتا
 Coupon; کوپُن
 - Essenscoupon; کوپُن ِ غَذا
 Cousin; عَمو زاده، پِسَر عَمو، پِسَر دائى
