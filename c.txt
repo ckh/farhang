@@ -154,7 +154,6 @@ Computerbegriffe;
 - Datenschutzbestimmung; مُقَرَرات ِ حِفاظَت ِ اِطِلاعات
 - Diktiersoftware; پَردازِش ِ گُفتار
 - Drucker; چاپگَر
-- e-Learning; آموزِش ِ اِلِکترونیکی، یادگیری ِ اِلِکترونیکی
 - e-Mail; رایانامه، ای‌مِیل
 - e-Mail-Adresse; رایانِشانی، نِشانی ِ پُست ِ اِلِکترونیکی
 - einloggen; وُرود به سایت
@@ -179,7 +178,7 @@ Computerbegriffe;
 - Ordner; پوشه
 - Installationsordner; پوشهٔ نَصب
 - Zielordner; پوشهٔ مَقصَد
-- Passwort; رَمز ِ وُرود، رَمز ِ عُبور، گُذَروا‌ژه
+- Passwort; رَمز ِ وُرود
 - public domain; مالِکیَت ِ عُمومی
 - Seitengestaltung; صَفحه آرائى
 - Seriennummer; شُمارهٔ سِریال
