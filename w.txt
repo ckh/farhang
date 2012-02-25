@@ -1500,6 +1500,7 @@ wünschen;
 - Erfolg für jem. wünschen; مُوَفَقيَت بَراى ِ کِسى مَسئَلَت کَردَن
 - wir wünschen uns von ...; ما از ... خواستاریم که
 - wie Sie wünschen; اِختیار دارید
+- wenn Ihr es wünscht, ...; دَر صورَتی که قابِل می دانید
 - dass, falls sie es wünschen, mit ...; تا دَر صورَت ِ تَمايُل با
 - überall, wo Sie wünschen; دَر هَر جا که تَمايُل دارید
 - ich wünsche mir ein Kind; حَسرَت داشتَن ِ فَرزَندى را دارَم

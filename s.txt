@@ -411,6 +411,7 @@ schamhaft; شَرمَنده، خَجول
 Schamhaftigkeit; چِشم و رو، شَرمَندِگی
 Schamhügel; زُهار
 schamlos; وَقیح، بى شَرم
+Schamottstein; آجُر ِ شاموتی
 Schande; رُسوا، اِفتِضاح، بى آبرو، نَنگ
 - Gefühl der Schande; اِحساس ِ خِفَتى
 - das ist eine Schande; اِفتِضاح است، قَباحَت دارَد
@@ -1351,6 +1352,7 @@ Schöpflöffel; آبگَردان
 Schöpfprobe; کَفچهٔ نِمونه
 Schöpfung; تَکوین، پِیدايِش، آفَرینِش، خِلقَت
 Schornstein; دودکِش
+Schornsteinfeger; دودکِش پاک کُن
 Schoss;
 - jem. bei s. auf den Schoss setzen; کِسى را روى ِ دامَن ِ خود نِشاندَن، ـ روى ِ زانو ـ
 - im Schosse der Familie; دَر کانون ِ خانِواده
@@ -1367,6 +1369,7 @@ schräg; مايِل، شیب دار، اُریب، مُوَرِب
 Schräge; تَوَرُب، شیب
 Schrägrampe; سَطح ِ مايِل، ـ مُوَرِب
 Schrägschnitt; بُرِش ِ مايِل
+Schrägstrich; کَج خَط
 Schrägung; پَخ
 Schramme; شَخا، خَراش، زَخم
 Schrank;

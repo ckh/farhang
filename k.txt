@@ -82,6 +82,9 @@ Kamerad; دوست، رَفیق
 Kameradschaft; دوستى، رِفاقَت
 Kameramann; فیلم بَردار
 Kamille; بابونه
+Kamin; دودکِش
+- Kaminofen; شومینه
+Kaminkehrer; دودکِش پاک کُن
 Kamm; شانه
 - Hahnenkamm; کاکُل
 kämmen; شانه کَردَن
@@ -413,6 +416,8 @@ kennzeichnen;  .عَلامَت گُذاشتَن، نِشانه گ
 kennzeichnend; فارِق
 kentern;  .وارونه شُدَن، چَپه ش
 Keramik; سُفالینه، ظَرف ِ سُفالین
+- Keramik als Kunstgegenstand; سِرامیک
+- Keramikherstellung; سِرامیکسازی
 Kerbe; کُنگره، آج، بُریدِگى
 Kerker; سیاه چال، هُلُفدونى، دَخمه
 Kerl; مَتیکه، مَردَک، یارو
@@ -457,7 +462,6 @@ Keule;
 - Hammelkeule; ران ِ گوسفَند
 keusch; مَعصوم، پاکدامَن
 Keuschheit; نِجابَت، عِصمَت، حِصانَت، پاکدامَنى
-kH (Frequenz); کیلو هِرتز
 Kichererbse; نُخود ِ سِفید
 kichern; .نُخودى خَندیدَن، کِرکِر خ
 Kick;
@@ -477,6 +481,7 @@ Kiemen; آبشُش، برانشى، دَستگاه ِ تَنَفُس ِ اَکث
 Kiemendeckel; سَرپوش ِ آبشُش
 Kies; ریگ، سَنگریزه
 Kilogramm; کیلوگرام
+kiloherz; کیلو هِرتز
 Kilometer; کیلومِتر
 Kilowatt; کیلووات
 Kind; (pl.) فَرزَند، وَلَد (اولاد)، بَچه
@@ -925,7 +930,7 @@ Kokosmatte; حَصیرى از شاخه هاى ِ نارگیل
 Kokosnuss; نارگیل
 Kolben; پیستون
 - Destillierkolben; قَرع و اَنبیق، ظَرف ِ تَقطیر
-- Gewehrkolben; قُنداق ِ تُفنگ
+- Gewehrkolben; قُنداق ِ تُفَنگ
 Kolbenantrieb; پیستون ِ مُحَرَکه
 Kolbenring; رینگ ِ پیستون
 Kolik; قولِنج

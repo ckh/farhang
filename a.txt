@@ -1653,6 +1653,7 @@ anfangen; آغازیدَن، آغاز کَردَن، شُروع ک.، پَردا
 - wir fangen an, uns zu unterhalten; سَر ِ صُحبَتِمان باز مى شَوَد
 - von ... zu träumen anfangen; دَر مورِد ِ ... به رویا پَروَرى پَرداختَن
 - damit kann ich nichts anfangen; این مَربوط به مَن نیست، به دَردَم نِمى خورَد
+- mit der Frage kann ich nichts anfangen; این سؤال بِرای ِ مَن ناکارآمَد است
 - sie fangen an, zu protestieren; آنها لَب به اِتِراض مى گُشایَند
 - bevor sie nicht anfangen, die Ziele von X zu ...; تا هَدَف ِ فِلان را پیاده نَکَردَند
 - sie möchte mit mir anfangen, zu reden; او مى خواهَد با مَن سَر ِ صُحبَت را باز کنَد
