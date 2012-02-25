@@ -479,7 +479,7 @@ meinetwegen; مُشکِلى نَدارَد، باشه
 Meinung (pl.);  (نَظَر (اِنظار)، عَقیده (عقايِد
 - die Meinung festigt s. bei mir; آن عَقیدهٔ مَن رُسوخ مى کُنَد
 - nach seiner Meinung; بِخیال ِ خود، به نَظَرَش، به زَعم ِ او
-- ich bin der Meinung, dass ..; من مُعتَقِدَم که
+- ich bin der Meinung, dass ...; من مُعتَقِدَم که
 - er ist anderer Meinung; او دِگَراَندیش است
 - wir sind nicht einer Meinung; آبِمان توی ِ يِک جو نِمی رَوَد
 - ohne eigene Meinung; بی نَظَر
@@ -489,7 +489,7 @@ Meinung (pl.);  (نَظَر (اِنظار)، عَقیده (عقايِد
 - hast du deine Meinung gesagt?; آیا نَظَر کَرده اى؟
 - mit jem. einer Meinung sein; با کِسى هَمرأى داشتَن، هَم رأى ِ کِسى بودَن
 - wir sind jetzt zu einer Meinung gekommen; حالا به هَم رِسیدیم
-- er vertritt die Meinung, dass ..; او اِظهار دارَد که، او بَر این باوَر است که
+- er vertritt die Meinung, dass ...; او اِظهار دارَد که، او بَر این باوَر است که
 - seine Meinung zum Besten geben; اَفکارَش را بِخَرج دادَن
 - s. eine Meinung über die Lage bilden; بَر آوَرد ِ اوضاع
 - s. nicht um die Meinung anderer kümmern; جِلوی ِ کِسی وِل شُدَن
@@ -717,7 +717,7 @@ Mindestlohn; حَدِاَقَل ِ مُزد
 Mindestmass;
 - er kam mit dem Mindestmass an Nahrung aus; او به حَد ِ اَقَل ِ غَذا نیاز داشت
 Mindestpunktzahl;
-- .. deren Note die Mindestpunktzahl nicht erreicht; که نُمرهٔ خام از حَد ِ نِصاب ِ مُعَيِن کَمتَر باشَد
+- ... deren Note die Mindestpunktzahl nicht erreicht; که نُمرهٔ خام از حَد ِ نِصاب ِ مُعَيِن کَمتَر باشَد
 Mindestreserve; حَد ِاَقَل ِ ذَخايِر، ذَخايِر ِ اِجبارى
 Mindeststimmzahl; حَد ِ نِصاب ِ آرا
 Mine;
@@ -1034,7 +1034,7 @@ Möglichkeit; اِمکان
 - nach Möglichkeit; حَتىٰ اُلمَقدور، عِند اُلاِمکان
 - nach Möglichkeit am Samstag durchführen; حَتىٰ اَلاِمکان روز ِ شَنبه بَرگُزار شَوَد
 - warum hat nicht jeder die Möglichkeit?; چِرا طورى نیست که هَر کَس اِستِطاعَتَش بِرِسَد
-- die Möglichkeit, dass ..; اِمکان ِ اینکه
+- die Möglichkeit, dass ...; اِمکان ِ اینکه
 - es gibt nur diese beiden Möglichkeiten; از دو حال خارِج نیست، دو چیز بیشتَر وُجود نَدارَد
 - Möglichkeit geben; دَسترِسى داشتَن
 möglichst;

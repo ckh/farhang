@@ -1183,7 +1183,7 @@ schmücken;
 - s. schmücken; (präs.) خود را آراستَن (مى آرايَد)، آرائى کَردَن
 - geschmückt; آراسته، مُزَيِن
 Schmuckstück;
-- .. wird zu einem Schmuckstück; چِشم اَنداز ِ زیبائى دَر اینجا پَدید مى آوَرَد
+- ... wird zu einem Schmuckstück; چِشم اَنداز ِ زیبائى دَر اینجا پَدید مى آوَرَد
 Schmuggel; قاچاق
 schmuggeln; قاچاق کَردَن
 Schmuggelware; اَجناس ِ قاچَاق
@@ -2482,7 +2482,7 @@ so;
 - bei ihm ist es so, ...; وَضع ِ او بِدین مِنوال است
 - das waren so seine Erfahrungen; از جُملهٔ تَجرُبیات ِ او بود
 - sie sind so damit beschäftigt, ...;  از سَر ِ این کار است که آنها سَر گَرم
-- obgleich, .., so; هَرچَند .. وَلى
+- obgleich, .., so; هَرچَند ... وَلى
 - sie reden mal so, mal so; حَرفِشان جوراجور است
 - so verzweifelt sehen sie nun auch wieder nicht aus; چِهره هايِشان چَندان هَم از سَرپَریشانى نیست
 sobald; به مَحض ِ اینکه، به مُجَرَد ِ اینکه
@@ -3265,7 +3265,7 @@ starren;
 - vor Dreck starren;  .دَر کِثافت غوطه وَر شُدَن، از کِثافَت پوشیده ش
 - die Bettwäsche starrte vor Schmutz; مَلافه از کِثافَت به سیاهى مى زَد
 - in die Ferne starren; چِشم به دورترها دوختَن
-- geistesabwesend zu .. starren; با بَلاهَت به .. خِیره شُدَن، ـ خِیره خِیره نِگاه کَردَن، بِر و بِر نِگاه کَردَن
+- geistesabwesend zu ... starren; با بَلاهَت به ... خِیره شُدَن، ـ خِیره خِیره نِگاه کَردَن، بِر و بِر نِگاه کَردَن
 starrköpfig; سَرسَخت، یِکدَنده، لَجباز
 Starrköpfigkeit; یِکدَندِگی، سَرسَختی، لَجوجَت
 Starrkrampf (Wund-); کُزاز

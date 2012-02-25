@@ -1369,7 +1369,7 @@ Pünktlichkeit; وَقت شِناسى
 Punkto;
 - in Punkto ...; دَر رابِطه با
 Punktzahl; حَد ِ نِصاب
-- .. deren Note die festgelegte Punktzahl nicht erreicht; که نُمرهٔ خام از حَد ِ نِصاب ِ مُعَيِن کَمتَر باشَد
+- ... deren Note die festgelegte Punktzahl nicht erreicht; که نُمرهٔ خام از حَد ِ نِصاب ِ مُعَيِن کَمتَر باشَد
 Pupille; بوبوک، مَردُمَک ِ چِشم، تُخم ِ چِشم
 Puppe; عَروسَک
 - Puppe aus Watte; آقا پَنبه

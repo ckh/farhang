@@ -60,7 +60,7 @@ dahin;
 dahineilen; پوئیدَن
 dahingeben; کِسی را دَریغ نَداشتَن، - اَز دَست دادَن
 dahingehend;
-- dahingehend vermutet, dass ..; بَر این باوَر است که
+- dahingehend vermutet, dass ...; بَر این باوَر است که
 dahinschleppen;
 - eine Sache schleppt s. dahin; چیزى با اِشکال و کُندى پیش مى رَوَد
 - s. dahinschleppen, in den Tag hineinleben; لِک و لِک کَردَن
@@ -112,10 +112,10 @@ dank;
 Dank; تَشَکُر، شُکر
 - vielen Dank für deine Mühe; دَست ِ شُما دَرد نَکُنَد
 - jemandem zu Dank verpflichtet sein; خِیلى از کِسى مُتشَکِر بودَن، مِنَت ِ کِسى را کِشیدَن
-- ich weiss mich gegenüber Herrn .. zu Dank verpflichtet; اِداى ِ دِین مى کُنَم به آقاى ِ فِلان
+- ich weiss mich gegenüber Herrn ... zu Dank verpflichtet; اِداى ِ دِین مى کُنَم به آقاى ِ فِلان
 - 1000 Dank meinerseits; یِک دُنیا سِپاسگُزارَم
 dankbar;
-- wie sehr ich dir dankbar bin, wenn ..; تا چه حَد مِنَت دارَت خواهَم شُد اَگَر
+- wie sehr ich dir dankbar bin, wenn ...; تا چه حَد مِنَت دارَت خواهَم شُد اَگَر
 - s. dankbar & erkenntlich zeigen; اِظهار ِ تَشَکُر و اِمتِنان کَردَن
 - dankbar sein;  .مُتَشَکِر بودَن، سِپاسگُذار ب.، مَمنون ب.، شُکرگُذار ب.، شاکِر ب
 - für die Bestätigung bin ich dankbar; اِعلام وُصول موجِب ِ اِمتِنان خواهَم بود
@@ -128,10 +128,10 @@ Danksagung; سِپاسگُذارى
 Dankschreiben; نامهٔ سِپاسگُذارى، تَشَکُرنامه
 dann;
 - dann, wenn; به شَرط ِ اینکه ... سِپَس، پَس
-- und dann, wenn ... sind ..; چِنانچه ... باشند
+- und dann, wenn ... sind ...; چِنانچه ... باشند
 - und dann?; آخَرِش چی؟
 - schwierig wird es dann, wenn; مُشکِل ِ موقِعى دوچَندان مى شَوَد که
-- dann, wenn ... wäre er zu nichts mehr in der Lage; اَگَر .. کارى از دَستَش بَر نِمى آمَد
+- dann, wenn ... wäre er zu nichts mehr in der Lage; اَگَر ... کارى از دَستَش بَر نِمى آمَد
 daran;
 - daran erkennst du ...; از این ... مى شِناسى
 - daran gibt es keinen Zweifel; دَر این شَک نیست
@@ -211,7 +211,7 @@ Daseinsfreude; خوشى از وجود، مَسَرَت از زِندِگى
 dass;
 - und dasjenige, dass; و اینکه
 - die Behauptung, dass ...; اِدِعاى ِ اینکه
-- ein Grund, dass ... ist der, ...; یِک دَلیل ِ اینکه .. این است
+- ein Grund, dass ... ist der, ...; یِک دَلیل ِ اینکه ... این است
 - der Gedanke, dass ...; فِکر اینکه دیگَر
 dasselbe;
 - es ist immer dasselbe; هَمیشه هَمینطور است
@@ -482,7 +482,7 @@ denken;
 - nach 20 Jahren denkst du wieder daran, dass du ... bist; تو بَعد از ۲۰ سال به صَرافَت اُفتادى که ... هَستى
 Denken (n); فِکر
 - Art & Weise des Denkens; ثَبت ِ فِکر
-- das ganze Denken & Trachten ist ..; تَقَلاى ِ تو تَقَلاى ِ چیزى بودَن
+- das ganze Denken & Trachten ist ...; تَقَلاى ِ تو تَقَلاى ِ چیزى بودَن
 denkend;
 - klar denkend sein; هوشیار بودَن
 Denker; آدَم ِ فَکور
@@ -543,20 +543,20 @@ derjenige;
 derlei;
 - derlei Sachen; این قَبیل ِ چیزها، اینجور ِ ـ
 dermassen;
-- dermassen sauber, dass ..; آنقَدر تَمیز که، آنچِنان ـ، بِقَدرى ـ، طورى ـ
+- dermassen sauber, dass ...; آنقَدر تَمیز که، آنچِنان ـ، بِقَدرى ـ، طورى ـ
 Dermatitis; آماس ِ پوستى
 derzeitig;
 - derzeitige Situation; وَضیعَت ِ فِعلى، ـ حالى
 des;
-- am Abend des ..; ... ِ و شَب به پاس
+- am Abend des ...; ... ِ و شَب به پاس
 - das Haus des ...; ... ِ خانهٔ مال
 Desertation; تَرک ِ نِظام
 Deserteur; سَرباز ِ فَرارى
 desertieren;
 - er ist desertiert; از خِدمَت ِ سَربازى دَر رَفته بود
 deshalb; از اینکه، لِذا
-- deshalb war .. wichtig; بِدین مَنظور .. مُهِم بود
-- deshalb, weil sie eine Frau war, ..; چِرا که زَن بود
+- deshalb war ... wichtig; بِدین مَنظور ... مُهِم بود
+- deshalb, weil sie eine Frau war, ...; چِرا که زَن بود
 Design; طَرح، طَراحى، نَقشه، زینَت
 Designer; طَراح
 designieren; نامزَد کَردَن، تَعیین ک.، گُماشتَن
@@ -601,7 +601,7 @@ Deut;
 deuten; تَعبیر کَردَن، توضیح دادَن
 deutlich; روشَن، صَریح، آشکار
 - deutlich machen, ausdrücken;  .اِبراز کَردَن، تَبَیُن ک.، حالى ک.، روشَن ک
-- was .. so deutlich ausgedrückt hat; که ... با چِنان ظَرافَتى بَیان داشت
+- was ... so deutlich ausgedrückt hat; که ... با چِنان ظَرافَتى بَیان داشت
 - er hat das ganz deutlich gesagt; صَریحاً این را گُفت
 - er hörte das deutlich; این را به وُضوح شِنید
 - das wurde mir deutlich; بَرایَم مَعلوم شُد که
@@ -612,11 +612,11 @@ deutlich; روشَن، صَریح، آشکار
 - etwas wird deutlicher; چیزى گویاتَر مى شَوَد
 Deutlichkeit;
 - in aller Deutlichkeit; با صَراحَت ِ تَمام
-- er hörte mit voller Deutlichkeit; به وُضوح از .. شِنید که
+- er hörte mit voller Deutlichkeit; به وُضوح از ... شِنید که
 - mit aller Deutlichkeit gab er den Befehl; به صَراحَت حُکم را داد
 - etwas wird mit aller Deutlichkeit verkündigt; چیزى به صَراحَت اِعلام مى شَوَد
 deutlichmachen;
-- seine Worte machen deutlich, dass ..; از حَرفهایَش چِنین مَفهوم مى شَوَد که
+- seine Worte machen deutlich, dass ...; از حَرفهایَش چِنین مَفهوم مى شَوَد که
 deutsch; آلمانی
 Deutscher; آلمانى
 Deutschland; آلمان
@@ -741,8 +741,8 @@ dienen;  .خِدمَت کَردَن، نوکَرى ک
 - bei Tisch dienen; پیشخِدمَتى کَردَن
 - womit kann ich Ihnen dienen?; چه فَرمایِشى دارید؟
 - wozu dient das?; این به چه دَردى مى خورَد؟
-- der Zeuge dient dazu, dass ..; وُجود ِ این گُواهى باعِث ِ این بود که
-- dienen zu ..; بَراى ِ .. بودَن، بَراى ِ .. فایده داشتَن
+- der Zeuge dient dazu, dass ...; وُجود ِ این گُواهى باعِث ِ این بود که
+- dienen zu ...; بَراى ِ ... بودَن، بَراى ِ ... فایده داشتَن
 - dem Wohl des Menschen dienen; بَراى ِ خِیر ِ مَردُم بودَن، به نَفع ِ ـ
 Diener; نوکَر، چاکِر، خادِم
 - einen Diener machen; کُرنِش کَردَن، تَعظیم کَردَن
@@ -868,7 +868,7 @@ Diskriminierung; تَبعیض
 Diskurs; مُکالِمه
 Diskussion; بَحث، مُباحِثه، گُفتِگو
 - zur Diskussion stellen; به بَحث گُذاشتَن
-- .. wurde zur Diskussion gestellt; .. به بَحث گُذاشته شُده است
+- ... wurde zur Diskussion gestellt; ... به بَحث گُذاشته شُده است
 - seinen Wunsch öffentlich zur Diskussion stellen; آرِزوى ِ خودرا به مَنَصهٔ ظُهور رِسانیدَن
 diskussionsreif; قابِل ِ بَحث
 Diskuswerfen; پَرتاب ِ دیسک
@@ -923,12 +923,12 @@ doch; چِرا، به هَر حال
 - zieh doch in Betracht; هان مُلاحِظه نَما
 - du bist doch kein Kind mehr; تو که دیگه بَچه نیستى
 - lass das doch sein; دیگه وِلِش کُن، وِل کُن دیگه
-- du weisst doch, .. (popul.); آخه میدونى
+- du weisst doch, ... (popul.); آخه میدونى
 - du kommst doch?; تو که مى آئى؟
 - hätte ich doch; کاش که
 - wo doch; چِرا که
 - wenn ich doch bloss ...;  ... کاش مَن
-- obwohl .., hat er doch wieder; با وُجود ِ اینکه .. باز هَم این .. را کَرد
+- obwohl .., hat er doch wieder; با وُجود ِ اینکه ... باز هَم این ... را کَرد
 - du hast doch nicht gestohlen?; مَبادا دُزدى کَردى؟
 Docht; فَتیله
 Dock; تَعمیرگاه ِ کِشتى
@@ -985,7 +985,7 @@ Doppelspirale; یِک مارپیچ ِ مُضاعِف شُده
 doppelt; مُثَنىٰ، مُضاعِف، دو بَرابَر
 - Stoff in doppelter Breite; پَرچه دولا عَرض
 - doppelte Buchführung; دَفتَردارى ِ مُترادِف
-- er verkauft die .. zum doppelten Preis wie im Laden; به دو بَرابَر ِ قِیمَت ِ مَغازه ها میفُروشَد، دولا پَهنا پولَش را می گیرَد
+- er verkauft die ... zum doppelten Preis wie im Laden; به دو بَرابَر ِ قِیمَت ِ مَغازه ها میفُروشَد، دولا پَهنا پولَش را می گیرَد
 - doppelt gemoppelt hält besser; از مُحکَم کارى آدَم ضَرَر نِمى بینَد
 - verdoppelt; دو چندان، دو بَرابَر
 - seinen Reichtum verdoppeln; ثِروَت را دو بَرابَر ثِروَت ِ قَبلى اش رِساندَن
@@ -1017,7 +1017,7 @@ Drachen (Kinderspielzeug); بادبادَک
 drachenartig; اَژدَها پِیکَر
 Drachensteigen; بادبادَکى
 Draht; مَفتول، سیم
-- er hat einen direkten Draht zu ..; رابطهٔ مُستَقیم با .. دارَد
+- er hat einen direkten Draht zu ...; رابطهٔ مُستَقیم با ... دارَد
 - der ist auf Draht; اَهل ِ بَخیه، او چُست و چالاک است
 Drahtbürste; فُرچهٔ سیمى، جاروبَک ِ سیم
 drahtlos; بیسیم
@@ -1052,7 +1052,7 @@ drängen; بَر کِسى فِشار آوَردَن
 - es drängte ihn nach draussen; هَواى بیرون به کَله اش زَده بود
 - in die Defensive drängen; بِحالَت ِ تَدافُع کِشاندَن
 Drängen; اِصرار
-- auf das Drängen hin von ..;  ... ِ به اِصرار
+- auf das Drängen hin von ...;  ... ِ به اِصرار
 drangsalieren; کِسى را اَذیَت کَردَن
 dranhängen;
 - ein bisschen Zeit dranhängen; وَقتى بیشتَرى صَرف کَردَن
@@ -1098,7 +1098,7 @@ drehen; چَرخیدَن
 - er dreht es einmal um (z.B.: Fleisch in der Pfanne); یِک چَرخِش می دَهَد
 - der Kreisel dreht s.; فِرفِره دور ِ خود فِر مى زَنَد
 - den Verschluß drehen; دَر ِ قوطی را پیچ دادَن
-- es dreht s. um ..; مَطلَب سَر ِ این است
+- es dreht s. um ...; مَطلَب سَر ِ این است
 - alles dreht s. um mich; هَمه چیز دُور تا دُور ِ مَن می چَرخَد
 - s. um sich selbst drehen; خود ِ مِحوَر بودَن، دور ِ خود چَرخیدَن، چَرخ خوردَن
 - er dreht seine Runden; او جولان مى دَهَد
@@ -1155,14 +1155,14 @@ drillen;
 Drilling; سه قَلو
 dringen;
 - auf Hilfe dringen; به کُمک ِ کِسى اِصرار کَردَن
-- die Stimme dringt bis ..; صِدا میرِسَد به
+- die Stimme dringt bis ...; صِدا میرِسَد به
 dringend;
 - dringend ersuchen; مُصِراً دَرخواست کَردَن
 - ich bitte Sie dringend;  مُصِرانه از شُما ـ
 - dringend erforderlich; نیاز ِ مُبرَم، واجِب ِ ... بودَن
 - in dringenden Fällen; دَر صورَت ِ ضَرورَت
 Dringlichkeit; فوریَت، ضَرورَت
-- macht die Dringlichkeit von .. noch stärker; فوریَت و لُزوم ِ.. را بَسى بیشتَر مى کُنَد
+- macht die Dringlichkeit von ... noch stärker; فوریَت و لُزوم ِ.. را بَسى بیشتَر مى کُنَد
 Dringlichkeitsantrag; دَرخواست بِقِید ِ فوریَت، تَقاضا نامهٔ فورى
 dritt;
 - eine dritte Person; شَخص ِ ثالِث
@@ -1204,7 +1204,7 @@ Drückeberger; طَفره زَن
 - er neigte zum Drückebergertum; دَر صَدَد ِشانه خالى کَردَن از زیر کار بود
 drucken;  .چاپ کَردَن، طَبع ک.
 drücken; فِشُردَن، فِشار دادَن
-- s. drücken vor ..; از .. طَفره زَدَن، ـ سَر باز زَدَن، از زیر ِ.. دَر رفتن، زِه زَدَن
+- s. drücken vor ...; از ... طَفره زَدَن، ـ سَر باز زَدَن، از زیر ِ.. دَر رفتن، زِه زَدَن
 - jemandem die Hand drücken; دَست ِ کِسى را فِشُردن
 - jem. an die Wand drücken; کِسى را مُچاله کَردَن
 - den Preis drücken; قِیمَت را پائىن آوَردَن
@@ -1254,7 +1254,7 @@ Duell; مُبارِزه تَن بِتَن، دوئِل
 duellieren (s. -); دَست به دوئِل زَدَن
 Duft; عَطر، بوى ِ خوش
 duften; خوشبو بودَن، بوى خوب دادَن
-- es duftet nach; بوى ِ .. مى آیَد
+- es duftet nach; بوى ِ ... مى آیَد
 duftend; مُعَطَر، خوش بو
 duftig;
 - duftiger Stoff; پارچهٔ نازُک
@@ -1262,7 +1262,7 @@ dulden;
 - jem. dulden; به کِسى اجازهٔ اِقامَت را دادَن
 - jem. erdulden; کِسى را تَحَمُل کَردَن
 Duldung; تَحَمُل، اِغماض، پَشمپوشى
-- mit Hilfe der Duldung durch ..; به پاس ِ اِستِفاده از اِغماض ِ کِسى
+- mit Hilfe der Duldung durch ...; به پاس ِ اِستِفاده از اِغماض ِ کِسى
 dumm; اَبلَه، اَحمَق
 - bin ich dumm dagestanden; مَن صِفر شُدَم
 - s. dumm stellen;  .خود را سَر به کوچهٔ عَلى چَپ زَدَن، خود را نَفَهمى ز
@@ -1306,7 +1306,7 @@ Dunkelheit; تاریکى
 Dunkelkammer; تاریک خانه
 Dunkelmänner; اَشخاص ِ سیاه کار
 dünken;
-- welcher dünkt dich, .. zu sein; به عَقیدهٔ تو کُدام یِک از .. بِحِساب میایَد
+- welcher dünkt dich, ... zu sein; به عَقیدهٔ تو کُدام یِک از ... بِحِساب میایَد
 - er dünkt s. was besonderes zu sein; او خیال می کُنَد از دَماغ فیل اُفتاده
 - wie es Euch dünkt; دَر مُوافِق ِ آنچه دَر نَظَر ِ شُما پَسَند و صَواب آیَد
 dünn; لاغَر
@@ -1338,15 +1338,15 @@ Duplikat; نُسخهٔ دُوُم، اَلمُثَنىٰ
 Dur; ماژور
 durch;
 - durch & durch; سَرتاسَر
-- durch die Scheiben schauend, ..; از پُشت ِ شیشه ها نِگَریسته
+- durch die Scheiben schauend, ...; از پُشت ِ شیشه ها نِگَریسته
 - durch Jesus gerettet; به وَساطَت ِ عیسىٰ نِجات یافتَن، از راه ِ ـ
 - durch den Wald gehen; از جَنگَل رَد شُدَن، ـ گُذَشتَن
 - er tritt durch die Glastür ins Innere; از دَر ِ شیشه به دَرون پا مى نَهایَد
 - er schiebt s. durch die Menge; خودرا از میان ِ جَمعیَت هُل مى دَهَد
 - Tod durch das Schwert; به ضَرب ِ شَمشیر مُرد
-- er starb durch die Hand von ..; او بِدَست ِ فِلان کُشته شُد
+- er starb durch die Hand von ...; او بِدَست ِ فِلان کُشته شُد
 - jem. durch den Fluss führen; کِسى را از رود خانه عُبور دادَن
-- durch die Menschen durch, zu ..;  خودرا از لابِلاى ِ مَردُم میرِسانَند به
+- durch die Menschen durch, zu ...;  خودرا از لابِلاى ِ مَردُم میرِسانَند به
 durchackern;
 - das Buch durchackern; کِتاب را حَلاجى کَردَن، ـ از سَر تاسَر خواندَن،  ـ از سَر تا تَه ـ
 durcharbeiten;
@@ -1358,8 +1358,8 @@ Durchblick;
 - Durchblick habend; نافِذ
 - er erlangte Durchblick in seiner Arbeit; دَر کارِش تَبَحُر حاصِل کَرد
 durchblicken;
-- durchblicken lassen, dass ..; با اِشاره متوجهٔ چیزى کَردَن
-- sie können hier durchblicken; از میان ِ .. مى تَوانید نِگاه کُنید، از لاى ِ ـ
+- durchblicken lassen, dass ...; با اِشاره متوجهٔ چیزى کَردَن
+- sie können hier durchblicken; از میان ِ ... مى تَوانید نِگاه کُنید، از لاى ِ ـ
 - da kann keiner durchblicken; هیچکس از این موضوع مَسبوق نِمى شَوَد
 - da blicke ich nicht durch; از این کار سَر دَر نِمى آوَرَم، سَرَم نِمى شَوَد
 - sie blickte nicht durch, worum es ging; او نِمیدانِست کُجا به کُجاست
@@ -1385,7 +1385,7 @@ durchdacht; حِسابى، مَعقول
 - gut durchdacht sein; حَکیمانه مُحاسِبه شُدَن
 durchdenken; غوطه وَر شُدَن، تَعمُق کَردَن
 durchdrehen; سَرگَردان شُدَن
-- als er .. sah, drehte er durch; چِشمِش که به .. اُفتاد آن روى ِ سَگش بالا آمَد
+- als er ... sah, drehte er durch; چِشمِش که به ... اُفتاد آن روى ِ سَگش بالا آمَد
 - er ist durchgedreht; فیوزش پَریده است، سیمهایش قاطى شُده است
 durchdringen;
 - ein Thema durchdringen; تَه و توى ِ موضوع را تَحقیق کَردَن
@@ -1435,12 +1435,12 @@ durchführbar; مُیَسِر، اَنجام پَذیر، عَمَلى، قاب�
 durchführen; اِجراء کَردَن، عَمَلى ک.، تَشکیل دادَن، به اَنجام رِسانیدَن، اَنجام دادَن
 - eine Veranstaltung durchführen; بَرنامه را برگُذار کَردَن، ـ گُذَراندَن
 - mit x ein Gespräch durchführen; با کِسى گُفتِگوئى اَنجام دادَن
-- wegen .. konnte ein Besuch nicht durchgeführt werden; به عِلَت ِ .. دیدار مُیَسِر نَشُد
+- wegen ... konnte ein Besuch nicht durchgeführt werden; به عِلَت ِ ... دیدار مُیَسِر نَشُد
 - das Programm wurde durchgeführt; بَرنامه اَنجام شُد
 Durchführung;
 - zur Durchführung gelangen; صورَت گِرِفتَن
-- hängt ab von der erfolgreichen Durchführung ..; مَنوط به طِى ِ مُوَفقیَت آمیز ِ ... است
-- .. welches Ergebnis die Durchführung des Projektes erbringt; از عَمَلکَرد پرُژه چه نَتیجه ائى بِگیرَد
+- hängt ab von der erfolgreichen Durchführung ...; مَنوط به طِى ِ مُوَفقیَت آمیز ِ ... است
+- ... welches Ergebnis die Durchführung des Projektes erbringt; از عَمَلکَرد پرُژه چه نَتیجه ائى بِگیرَد
 durchfurcht;
 - durchfurchtes Gesicht; رُخسارهٔ پُر شیار 
 Durchgang; عُبور، گُذَر
@@ -1523,9 +1523,9 @@ durchschmoren;
 Durchschnitt;
 - monatlicher Durchschnitt; مُتَوَسِط ِ ماهیانه
 - guter Durchschnitt; مُعَدِل ِ عالى
-- im Durchschnitt ..;. بِطور ِ مُتَوَسِط
-- .. liegt über dem Durchschnitt ..; از حَد ِ وَسَط بیشتَر است
-- der Durchschnitt beträgt; وَسَطِش .. مى شَوَد
+- im Durchschnitt ...;. بِطور ِ مُتَوَسِط
+- ... liegt über dem Durchschnitt ...; از حَد ِ وَسَط بیشتَر است
+- der Durchschnitt beträgt; وَسَطِش ... مى شَوَد
 durchschnittlich; مُتَوَسِط، مُتَداوِل
 Durchschnittsgeschwindigkeit; سُرعَت ِ مُتَوَسِط، حَد ِ مُتَوَسِط ِ سُرعَت
 Durchschnittsnote;

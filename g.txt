@@ -78,14 +78,14 @@ ganz;
 - von ganzem Herzen; از صَمیم ِ قَلب، از تَه ِ دِل
 - mit ganzem Stolz; با تَبَختُر ِ تام، ـ تَمام
 - auf der ganzen Welt; در سَراسَر ِ جَهان، در تَمام ِ دُنیا
-- alles, was er den ganzen Morgen über ..; ... آنچه را که دَر سَرا سَر ِ صُبح
+- alles, was er den ganzen Morgen über ...; ... آنچه را که دَر سَرا سَر ِ صُبح
 - sein ganzer Kopf brannte; کَله اش گُله گُله می سوخت
 Ganzheit (f); تَمامیَت
 gar;
 - gar, gekocht; پُخته، حاضِر
 - schon gar nicht; آنهَم نیست
 - ganz und gar nicht; اَصلاً و اَبداً
-- es gibt gar viele Dinge, die ..; بَسا چیزها هَست که
+- es gibt gar viele Dinge, die ...; بَسا چیزها هَست که
 Garage (f); گاراژ
 Garant (m); ضامِن
 Garantie (f); تأمین، ضَمانَت
@@ -165,7 +165,7 @@ Gaunerei (f); طَرارى، ساخت و پاخت، کُلاهبَردارى
 Gaze (f); مِشمِش
 Gazelle (f); غَزال
 geachtet; اِحتِرام شُده
-- gleichgeachtet werden mit ..; مِثل ِ .. شُمُرده شُدَن، ـ مُحتَرَم شُدَن
+- gleichgeachtet werden mit ...; مِثل ِ ... شُمُرده شُدَن، ـ مُحتَرَم شُدَن
 geartet;
 - eine so geartete Gesellschaft; یِک اِجتِماع بِدین شِکل
 Gebäck (mit Honig & Mandeln); کَلوچه
@@ -186,8 +186,8 @@ Gebell (n); پارس
 geben;
 - geben (z.B. es gibt Waren); موجود بودَن، وُجود داشتَن
 - jem. geben; به کِسى دادَن
-- .. mir etwas von seinen 2 Euro, die er täglich bekommt, zu geben ..; که مَرا دَر ۲ یورو ِ مُقَرَرى ِ روزانه اَش سَهیم کُنَد
-- sie lassen s. Geschenke von .. geben; آنها از کِسى هِدیه هارا تَحویل مى گیرَند
+- ... mir etwas von seinen 2 Euro, die er täglich bekommt, zu geben ...; که مَرا دَر ۲ یورو ِ مُقَرَرى ِ روزانه اَش سَهیم کُنَد
+- sie lassen s. Geschenke von ... geben; آنها از کِسى هِدیه هارا تَحویل مى گیرَند
 - jem. ein Stück Brot geben; تِکه اى نان به طَرَف ِ کِسى دِراز کَردَن
 - jem., zu dem man Vertrauen hat, geben; به کِسى مورِد ِ اِعتِماد تَحویل دادَن
 - Was gibts denn schon wieder; حالا مَگَر چى شُده
@@ -210,7 +210,7 @@ geben;
 - im Schnitt gibt es für eine Familie 1 Wohnung; به اَزاى ِ هَر خانِوار یِک واحِد ِ مَسکونى دَر دَسترِس میباشَد
 - was nicht sein darf, gibt es nicht; هَمانَند ِ شَخصى بودَن که دَر بیرون ِ دَر بَراى ِ آفتاب ایستاده باشد و بگوید که خورشیدرا نِمى بینَد
 - (in Zusammensetzung) jem., der gibt; دِه (شیرده، پَناه ده
-- früher gab es den Begriff .. nicht; پیشتَر اِصطِلاح ِ .. وُجود نَداشت
+- früher gab es den Begriff ... nicht; پیشتَر اِصطِلاح ِ ... وُجود نَداشت
 - Helfen & Geben; داد و دِهِش
 - Verhältnis zwischen Nehmenden & Gebenden; نِسبَت ِ سِتانده ها به داده ها
 Gebet (n); دُعا، نَماز
@@ -221,7 +221,7 @@ Gebet (n); دُعا، نَماز
 gebeten;
 - es wird gebeten; خواهِشمَند است که
 - es wird herzlichst darum gebeten; اِحتِراماً مَعروض مى دارَد
-- es wird darum gebeten, .. zu tun; مُتَمَنى است این کاررا بِکُنید، خواهِشمَند است ـ
+- es wird darum gebeten, ... zu tun; مُتَمَنى است این کاررا بِکُنید، خواهِشمَند است ـ
 - sie wurden darum gebeten, dass; از آنها دَعوَت شُد تا
 Gebetshaltung (hinknien & ausstrecken); رَکعَت
 Gebetskette; زَنجیر ِ دُعا
@@ -315,7 +315,7 @@ Geburt; (plur.) مولود (مَوالید)، تَوَلُد، وِلادَت
 - eine Frau kurz vor der Geburt; زَنى پا به زا
 gebürtig;
 - ich bin gebürtig aus ...; مَن آهل ِ ... هَستَم
-- ich bin gebürtig aus .. und aufgewachsen in (Name des Stadtteils); .... مَن اَهل ِ ... هَستَم و شیر ِ پاک خوردهٔ
+- ich bin gebürtig aus ... und aufgewachsen in (Name des Stadtteils); ... مَن اَهل ِ ... هَستَم و شیر ِ پاک خوردهٔ
 geburtsfähig (- Alter); سِن ِ باروَرى
 Geburtshelfer; زایانَنده، قابِله، ماما
 Geburtshilfe; مامائى
@@ -345,7 +345,7 @@ Gedanke; فِکر
 - jemandes Gedanken vergiften; ذهِن ِ کِسى را مَشوب کَردَن
 - mit seinen Gedanken woanders sein; حَواس ِ کِسی جای ِ دیگَر است
 - s. viele Gedanken machen; دِل ِ کِسی هِزار راه رَفتَن
-- nach 20 Jahren kommt dir wieder der Gedanke, dass du .. bist; تو بَعد از ۲۰ سال به صَرافَت اُفتادى که .. هَستى، تو بَعد از ۲۰ سال به ذِهن ِ تو خُطور کَرده که ... هَستى
+- nach 20 Jahren kommt dir wieder der Gedanke, dass du ... bist; تو بَعد از ۲۰ سال به صَرافَت اُفتادى که ... هَستى، تو بَعد از ۲۰ سال به ذِهن ِ تو خُطور کَرده که ... هَستى
 Gedankenaustausch; تَبادُل ِ نَظَر، ـ اَفکار
 Gedankengebäude; ساخته هاى ِ نَظَرى
 gedankenlos; بی حَوا
@@ -363,7 +363,7 @@ gedeihen; .رُشد کَردَن، پیشرَفت ک
 gedemütigt; مُتَذَلِل، مُتَواضِع شُده، تو سَرى خورده
 - gedemütigt werden (*: demütigen); مَذَلَت دیدَن
 gedenken;
-- gedenke der ..; به چیزى نَظَر فَرما
+- gedenke der ...; به چیزى نَظَر فَرما
 - einer Sache gedenken; چیزى را به یاد آوَردَن، چیزى را یاد کَردَن، ـ بِخاطِر داشتَن
 Gedenken (n); یادبود، یادآوَرى
 Gedenkstätte; مَحَل ِ یادبود
@@ -381,7 +381,7 @@ gedruckt;
 - er schreibt wie gedruckt; چاپى مینِویسَد
 Gedudel; وِز و وِز، موسیقى ِ بیخود
 Geduld; حوصِله، صَبر و شَکیبائى
-- über .. die Geduld verlieren; از .. به سُتوه آمَدَن
+- über ... die Geduld verlieren; از ... به سُتوه آمَدَن
 - mit jem. Geduld haben; با کِسى شَکیبائى داشتَن، ـ بُردبارى د
 - meine Geduld ist am Ende; کاسهٔ صَبرَم لَبریز شُده، طاقَتَم طاق شُده
 - du raubst mir die Geduld; حوصِله ام را سَر میبَرى
@@ -427,11 +427,11 @@ Gefälle; شیب، مِیل، اُفت
 - Nord-Süd-Gefälle; اِختِلاف ِ سَطح ِ زِندِگى ِ شُمال و جِنوب
 gefallen; پَسَند کَردَن
 - diese Arbeit würde dir gefallen; این کار دَر خور ِ تو است
-- mir hat .. besser gefallen; مَن فِلان را بیشتَر پَسَندیدَم
+- mir hat ... besser gefallen; مَن فِلان را بیشتَر پَسَندیدَم
 - zu gefallen suchen; طَننازى کَردَن
 - s. gefallen in Demut; با تَظاهُر به فُروتَنى
-- das gefällt ihm; دَر نَظَرَش پَسَند میایَد، از .. خوشِش مى آیَد
-- das gefällt ihm nicht; چیزى بَر او گِران میایَد، از .. بَدِش مى آیَد
+- das gefällt ihm; دَر نَظَرَش پَسَند میایَد، از ... خوشِش مى آیَد
+- das gefällt ihm nicht; چیزى بَر او گِران میایَد، از ... بَدِش مى آیَد
 - er gefällt mir nicht; او چَندان مَرا نِمى گیرَد
 - er geht hin, wo es ihm gefällt; او هَر جا خوش دارَد مى رَوَد
 - bis mir etwas gefällt; تا ... را پَسَند کُنَم
@@ -487,7 +487,7 @@ Geflügel; مُرغ
 Geflügelzucht; مُرغ دارى
 Gefolge; حَشَمَت، موکِب
 - der König sagte seinem Gefolge; پادِشاه به مُلازِمان ِ خود گُفت
-- im Gefolge des Niedergangs von ..; دَر پِى ِ فُروپاشى 
+- im Gefolge des Niedergangs von ...; دَر پِى ِ فُروپاشى 
 Gefolgschaft; مُتابِعَت، پیرَوان، مُریدان
 gefragt;
 - gefragte Ware; جِنس ِ بازار پَسَند
@@ -533,7 +533,7 @@ gegeneinander;
 Gegenfahrbahn; خَط ِ عَکس ِ خیابان
 Gegenflansch; فلانژ ِ مُتَقابِل
 Gegengewicht; وَزنهٔ بَرابَر، پارسَنگ
-- die Angst vor .. bildete das Gegengewicht; هَراس از .. بَراى ِ فِلان پارسَنگى مَحسوب میشَوَد
+- die Angst vor ... bildete das Gegengewicht; هَراس از ... بَراى ِ فِلان پارسَنگى مَحسوب میشَوَد
 Gegengift; زَهر کُش، پازَهر
 Gegenkandidat; کاندید ِ رَقیب
 gegenläufig;
@@ -546,7 +546,7 @@ Gegensatz; بَر عًکس
 - im Gegensatz stehen zu; با چیزى مُنافات داشتَن، دَر تَناقُض با چیزى بودَن
 - Gegensatz bilden; با هم مُنافات داشتَن، ـ مُضادَت د.، ـ مُتَضاد بودَن
 - Gegensätze vertragen s. nicht (wörtl.: Stein & Krug vertragen s. nicht); صُحبَت ِ سَنگ و سَبو راست نَگَردَد هَرگِز
-- etwas im Gegensatz zu .. verstehen; چیزى را مُغایِر با چیزى دیگََر دانِستَن
+- etwas im Gegensatz zu ... verstehen; چیزى را مُغایِر با چیزى دیگََر دانِستَن
 gegensätzlich; مُبایِن، مُتَضاد
 - gegensätzliche Interessen; مُصالِح ِ مُتَضاد
 Gegensätzlichkeit; مُخالِفَت، ضِدیَت
@@ -571,8 +571,8 @@ gegenteilig; بَر عَکس
 - meine Meinung ist genau gegenteilig; نَظَرَم دُرُست بَر عَکس ِ این است
 - darüber gibt es gegenteilige Meinungen; دَر این مورِد نَظَریات ِ مُخالِف موجودَند
 gegenüber;
-- gegenüber dem ..; ... ِ در قَبال ِ ، در مُقابِل
-- Bekämpfungsmethode gegenüber ..; رَوِش ِ مُبارِزه با
+- gegenüber dem ...; ... ِ در قَبال ِ ، در مُقابِل
+- Bekämpfungsmethode gegenüber ...; رَوِش ِ مُبارِزه با
 - er wohnt gegenüber; او روبِرو زِندِگى میکُنَد
 - er ist anderen Menschen gegenüber freundlich; او با دیگَران خوب رَفتار میکُنَد، او نِسبَت به دیگَران مِهرَبان است
 - sein Reichtum verdoppelte s. gegenüber vorher; ثِروَتش به ثِروَت ِ قَبلى اَش دوبَرابَر شُد
@@ -582,7 +582,7 @@ gegenüberstellen;
 - einander gegenüberstellen; پَهلوى ِ هَم گُذاشتَن، مُتَقابِل ِ یِکدیگَررا قَرار دادَن
 Gegenüberstellung; مُقابِله
 Gegenwart; زَمان ِ حال
-- in Gegenwart von ..; ... ِ با حُضور
+- in Gegenwart von ...; ... ِ با حُضور
 gegenwärtig;
 - gegenwärtig sein; حُضور داشتَن
 - die gegenwärtige Zeit; مُعاصِرَت، زَمان ِ مُعاصِر
@@ -634,9 +634,9 @@ gehen; رَفتَن، راه رفتَن، قَدَم زَدَن
 - gut, ich gehe dann; خوب پَس مَن رَفتَم
 - ich gehe zu Fuss; پیاده میرَوَم
 - er ging den ganzen Tag; او تَمام ِ روز راه رَفت
-- soll es danach gehen, was du sagst, ..; هَم اَلان مُوافِق ِ سُخَن ِ تو بِشَوَد
+- soll es danach gehen, was du sagst, ...; هَم اَلان مُوافِق ِ سُخَن ِ تو بِشَوَد
 - durch die Tür gehen; از لاى ِ دَر رَد شُدَن
-- sie gehen jetzt nach ..; حالا تَشریف میبَرَند به
+- sie gehen jetzt nach ...; حالا تَشریف میبَرَند به
 - gehen wir oder fahren wir?; پیاده بِرَویم یا سَوار بِشَویم؟
 - das Kleid geht bis zum Knie; لِباس تا به زانو میرِسَد
 - in s. gehen; توى ِ خود فُرو رفتَن
@@ -650,7 +650,7 @@ gehen; رَفتَن، راه رفتَن، قَدَم زَدَن
 - mir geht es wieder gut; حالَم خوب شُد، مَن خوب شُدَم
 - mit nichts gehen, mit nichts kommen (popul.); مِثل ِ چُس رَفتَن و مِثل ِ گوز آمَدَن
 - wie geht's? Oh Mann oh Mann!;  !حالِتان چِطوره؟ ای، چه حالی چه اَحوالی
-- es geht darum, dass ..; مَطرَح سَر ِ این است که، موضوع ـ
+- es geht darum, dass ...; مَطرَح سَر ِ این است که، موضوع ـ
 - er geht in die andere Richtung; خودرا به آن راه میزَنَد
 - er geht zum Laden; او راهى  ِ مَغازه میشَوَد
 - die Gäste kommen und gehen; مِهمانها دَر رَفت و آمَدَند
@@ -708,7 +708,7 @@ Geist; (plur.) (روح (اَرواح
 - jem. auf den Geist gehen;  .کِسى را کَلافه کَردَن، ـ عَصَبانى ک
 - Ein gesunder Geist in einem gesunden Körper; عَقل ِ سالِم دَر بَدَن ِ سالِم است
 geistesabwesend;
-- geistesabwesend zu.. starren; با بَلاهَت به .. خِیره شُدَن
+- geistesabwesend zu.. starren; با بَلاهَت به ... خِیره شُدَن
 Geistesblitz; فِکر ِ اَفکَنى
 Geistesgegenwart; حَضور ِ ذِهن، هوشیارى
 Geistesstörung; خَبط ِ دَماغ، اِختِلال ِ روح
@@ -932,7 +932,7 @@ Gemüseanbau; جالیزکارى
 Gemüsebauer; جالیزکار
 Gemüsemarkt; سَبزه مِیدان، مِیدان ِ تَره بار
 Gemüt;
-- das Gemüt von .. erhitzen; آتَش ِ کِسى را اَفروختَن
+- das Gemüt von ... erhitzen; آتَش ِ کِسى را اَفروختَن
 - das schlägt aufs Gemüt; تو ذوق مى زَنَد
 - innere Zufriedenheit des Gemütes; رِضایَت ِ خاطِرى
 gemütlich;
@@ -969,12 +969,12 @@ genehmigen; .مُوافِقت کَردَن، اِختِصاص دادَن، اِ�
 - Streik genehmigen; اِعتِصاب را تَصویب کَردَن
 - beide wurden einstimmig genehmigt; هَر دو به اِتِفاق ِ آراء به تَصویب رِسیدَند
 Genehmigung; اِجازه، جَواز
-- Genehmigung für ..; اِجازه بَراى ِ ...، پَروانهٔ
+- Genehmigung für ...; اِجازه بَراى ِ ...، پَروانهٔ
 - Regierungsgenehmigung für diplomatische Vertreter anderer Staaten zwecks Ausführung ihres Amtes; رَوانامه، اِجازه نامهٔ کُنسولى
-- zur Genehmigung gelangen; به تَصویب ِ .. رسیدَن
+- zur Genehmigung gelangen; به تَصویب ِ ... رسیدَن
 - benötigt keine Genehmigung; نیاز به اَخذ ِ مُجَوِز نَدارَد
 geneigt;
-- geneigt in Richtung; به .. مُتَمَیِل شُده
+- geneigt in Richtung; به ... مُتَمَیِل شُده
 - ich bin geneigt, dir zu glauben; مَن مایِلَم به حَرفِت ایمان بیاوَرَم
 General; ژِنِرال
 generalisieren; عُمومى کَردَن
@@ -1009,7 +1009,7 @@ Genitiv; حالَت ِ نِسبى
 Genossenschaft; تَعاوُن، شِرکَت ِ تَعاوُنى
 genossenschaftlich; تَعاوُنى، اِشتِراکى، دَست ِ جَمعى
 genötigt;
-- genötigt sein, dass ..; نا گُزیر بودَن که
+- genötigt sein, dass ...; نا گُزیر بودَن که
 genug;
 - es ist genug; کافى است
 - wenn jem. genug hat; اَگَر اِنسان دَستَش به دَهَنَش بِرِسَد
@@ -1058,8 +1058,8 @@ Gepränge; دَبدَبه
 - er kam mit Prunk und Gepränge; با دَبدَبه و کَبکَبه آمَد
 gerade;
 - ich lese gerade; مَن دارَم میخوانَم
-- ich las gerade, als ..; مَن داشتَم میخواندَم وَقتیکه
-- weshalb soll gerade ich ..; که چِرا جَخ  ِ مَن بایَد
+- ich las gerade, als ...; مَن داشتَم میخواندَم وَقتیکه
+- weshalb soll gerade ich ...; که چِرا جَخ  ِ مَن بایَد
 - ich habe gerade jetzt erst gelesen; مَن هَمین اَلان خواندَم، مَن جَخ خواندَم
 - Reza ging gerade vor 1 Minute; رِضا ۱ دَقیقه پیش ِ پاى ِ تو رَفت
 - er hat s. nicht gerade Mühe gegeben; او که چَندین زَحمَت نَکِشیده است
@@ -1068,7 +1068,7 @@ gerade;
 - die Straße ist gerade; خیابان بی پیچ و خَم است
 - s. gerade halten; گَردَن را سیخ نِگَه داشتَن
 Gerade (f); خَط ِ مُستَقیم، راستا
-- er ist mit .. auf einer Geraden; او با .. دَر یِک راستا است
+- er ist mit ... auf einer Geraden; او با ... دَر یِک راستا است
 geradestehen; قائِم ایستادَن
 - für etwas geradestehen; مَسؤلیَت را به عُهده گِرِفتَن
 Geradheit; راستى، دُرُستى، رُک گوئى
@@ -1088,7 +1088,7 @@ geräumig; مُنبَسِت، وَسیع
 - seine Tasche ist geräumig; جیبَش جا دارَد، ـ فَراخ است
 Geräusch; سَر و صِدا
 - Geräusch der Strassenbahn; سوت ِ تراموای، خِش خِش ِ ـ
-- Geräusch der Schritte von ..; ... ِ صِداى ِ پاى
+- Geräusch der Schritte von ...; ... ِ صِداى ِ پاى
 gerben; دَباغى کَردَن
 Gerben (n); دَباغى
 Gerber; دَباغ
@@ -1160,7 +1160,7 @@ Gerstenkorn; سِنده سَلام، گُل مُژه
 Gerstenschrot; جو کوب
 Gerte; تَرکه
 Geruch; بو
-- der Geruch von .. stieg ihm in die Nase; بوى ِ .. به مَشامَش خورد
+- der Geruch von ... stieg ihm in die Nase; بوى ِ ... به مَشامَش خورد
 - der Geruch des Essens war der reinste Genuss (wörtl.: streichelte unseren Geruchsnerv); بوى ِ غَذا بِسیار شامه نَواز مى شُد
 - der Geruch des Todes machte s. breit; بوی ِ الرَحمَن ِ کِسی بُلَند شُد
 - Brandgeruch; بوی ِ سوختِگی
@@ -1181,7 +1181,7 @@ Gesamtgewicht; کُل ِ وَزن
 Gesamtheit; کُلیّت، قاطِبه
 Gesamtkosten; مَخارِج ِ کُل
 Gesamtmenge;
-- Gesamtmenge der ..; ... ِ مَجموع
+- Gesamtmenge der ...; ... ِ مَجموع
 Gesamtschau;
 - wir brauchen eine Gesamtschau; به کُلى ِ بینها نیاز داریم
 gesamtwirtschaftlich; اِقتِصادى ِ کَلان
@@ -1213,7 +1213,7 @@ Geschäftsordnung; آئین ِ کار
 Geschäftszeit;  اوقات ِ اِداره
 - durchgehende Geschäftszeit;  اوقات ِ اِدارهٔ یِکسَره
 geschätzt; تَخمین شُده
-- er ist von .. sehr geschätzt; او چِشم ِ فِلان به حِساب مى آیَد
+- er ist von ... sehr geschätzt; او چِشم ِ فِلان به حِساب مى آیَد
 geschehen; رُخ دادَن، اِتِفاق اُفتادَن
 - gern geschehen!; چَشم، خواهِش میکُنَم
 - was ja auch geschah; که تازه اینطور شُد
@@ -1447,14 +1447,14 @@ Gestammel;
 geständig; مُعتَرِف، مُقِر
 Geständnis; اِقرار، اِعتِراف
 gestärkt; مُقتَدِر
-- .. hat die staatlichen Organe in ihrer Entscheidung, s. von .. fernzuhalten, gestärkt; مَقامات ِ دولَتى را دَر فاصِله گِرِفتَن از .. مُصَمَم ساخته است
+- ... hat die staatlichen Organe in ihrer Entscheidung, s. von ... fernzuhalten, gestärkt; مَقامات ِ دولَتى را دَر فاصِله گِرِفتَن از ... مُصَمَم ساخته است
 gestatten; رَوا داشتَن، اجازه دادَن، قائِل شُدَن
 - eine Ausnahme gestatten; اِستِثنائى قائِل شُدَن
 gestattet;
 - gestattet sein (*: legitim); رَوا بودَن
 Geste;
 - mit grosszügiger Geste; با دَست و دِلبازى
-- mit grossartigen Gesten s. frei machen von ..; چیزى را با توجیهات ِ عاطِفى از سَر باز کَردَن
+- mit grossartigen Gesten s. frei machen von ...; چیزى را با توجیهات ِ عاطِفى از سَر باز کَردَن
 Gesteck;
 - Blumengesteck; تَرتیب ِ گُل
 Gestein; سَنگ
@@ -1570,7 +1570,7 @@ Gewerkschaft; اِتِحادیه
 - Industriegewerkschaft; اِتِحادیهٔ صَنَعتی
 Gewicht; وَزن
 - Leichtgewicht; سَبُک وَزن
-- .. verleiht der Aussage noch mehr Gewicht; فوریَت و لُزوم پیامش را بَسى ِ بیشتَر میکُنَد، ـ اَهَمیَت می دَهَد   
+- ... verleiht der Aussage noch mehr Gewicht; فوریَت و لُزوم پیامش را بَسى ِ بیشتَر میکُنَد، ـ اَهَمیَت می دَهَد   
 Gewichteinheit (300 kg); خَروار
 Gewichtheber; وَزنه بَردار
 Gewichtigkeit (einer Person); وَقار، اَهَمیَت
@@ -1611,7 +1611,7 @@ Gewissensberuhigung; تَسکین ِ وُجدان، بَرائَت ِ ذِمه
 Gewissensbisse; نَفس ِ لَوامه، عَذاب ِ وُجدان
 gewissermassen; گوئى
 Gewissheit; یَقین، اِطمینان
-- die Gewissheit haben, dass ..; از اَمن بودَن  ِ
+- die Gewissheit haben, dass ...; از اَمن بودَن  ِ
 - jem. Gewissheit geben; کِسى را مُتَیَقِن کَردَن، به کِسى اِطمینان دادَن
 Gewitter; رَعد و بَرق
 gewitzt;
@@ -1690,7 +1690,7 @@ Gladiator; سِلَحشور
 Glanz; تابِش، فُروغ، شُکوه، جِلوه، جَلا، دِرَخشِش
 - einer Sache Glanz verleihen; آب به (بَر) روی ِ کار آوَردَن،  به صَلاح  آوَردَن فِسادی  را
 - das verleiht seiner Arbeit Glanz; به کارش رونَق میبَخشَد، ـ جِلوه می دَهَد
-- der Glanz und die Besonderheit der ..; ... ِ شوکَت و جاه
+- der Glanz und die Besonderheit der ...; ... ِ شوکَت و جاه
 - in vollem Glanz; پُر تَلالؤیى، آب و تاب، با آب و تاب ِ تَمام، نیک آراسته، با طول و تَفصیلی هَرچه بیشتَر
 - Glanz in den Augen; بَرق ِ چِشم
 - der Glanz ist dahin; رَنگ و رو رَفته
@@ -1746,8 +1746,8 @@ glauben;
 - ich glaube an Gott; مَن به خُدا ایمان مى آوَرَم
 - ich glaube, dass es Gott gibt; مَن ایمان دارَم که خُدا وُجود دارَد
 - sie glauben nicht; آنها دَر حالَت ِ بى ایمانى هَستَند، آنها ایمان نِمى آوَرَند
-- glaubst du etwa, dass ..; بِخیالَت که
-- wir glaubten, dass ..; و ما به خیالِمان که
+- glaubst du etwa, dass ...; بِخیالَت که
+- wir glaubten, dass ...; و ما به خیالِمان که
 - dass lässt uns glauben, dass ...; این باوَر که ... است
 - weil sie glaubten, dass ...; به گَمان ِ اینکه
 - neu im Glauben; (plur.) (تازه ایمان (- ایمانان
@@ -1766,7 +1766,7 @@ glaubwürdig; بالیَقین، قابِل ِ اِعتِقاد، باوَرپَ
 - das ist für uns glaubwürdig; ما اینرا صِحَت مى گُزاریم
 gleich;
 - ich bin gleich wieder da; فیلفور آمَدَم، هَمین حالا ـ، فوراً ـ، بِلافاصِله ـ
-- mit ... gleich sein;  .با .. مُساوى بودَن، ـ بَرابَر ب.، ـ یِکسان ب
+- mit ... gleich sein;  .با ... مُساوى بودَن، ـ بَرابَر ب.، ـ یِکسان ب
 - sie sind alle gleich; آنها سَر تا پا یِِک کَرباس اَند، هَمه سَر و تَه ِ يِک کِرباسَند
 - gleich zu gleich gesellt sich gern; پول پول را می کِشَد
 - dem Inhalt nach gleich sein; مُتَحِد اُلمَضمون بودَن
@@ -1841,9 +1841,9 @@ Gleichung; هَمچَندى، مُعادِله
 - Gleichung zweiten Grades; مُعادِلهٔ دَرَجهٔ دُوُم 
 - Differentialgleichung; مُعادِلهٔ دیفِراِنسیل
 gleichwertig; هَم اَرزِش، هَم ظَرفیَت
-- auf der Basis von .. gleichwertig sein; بَر اَساس ِ .. حَریف بودَن
+- auf der Basis von ... gleichwertig sein; بَر اَساس ِ ... حَریف بودَن
 gleichzeitig; دَر عِین ِ حال، دَر هَمان دَم، ضِمناً، هَمزَمان، مَع اُلوَصف
-- gleichzeitig mit ..; مُقارِن با
+- gleichzeitig mit ...; مُقارِن با
 - mit der Gleichzeitigkeit von ...; ِ با تَقارُن
 Gleis; خَط ِ آهَن
 - der Zug dröhnt über die Gleise; قَطار بَر فَراز ِ خُطوط مى غُرَد
@@ -1895,7 +1895,7 @@ Glück; سَعادَت، کامیابى، بَخت و اِقبال، شادکا�
 - er hatte Glück; شانس داشت، ـ آوَرد، بَخت با او یار بود
 - wir haben Glück, dass ...; شانس آوَردیم که
 - wenn das Glück bei uns ist; اگر بَخت یارى کُنَد
-- zum Glück von ..; به یَمن ِکِسى
+- zum Glück von ...; به یَمن ِکِسى
 - Viel Glück; چِشم ِ شُما روشَن
 - jem. Glück wünschen; خِیر ِ کِسی را خواستَن
 - das Glück stand ihm zur Seite; بَخت با او یار بود، بَخت به او روى آوَرد، او پیشانی داشت
@@ -2033,7 +2033,7 @@ grauen;
 - es graut ihn vor ...; او از چیزى چِندِش میشَوَد، ـ مُتَنَفِر است
 grauenhaft; دِهشَتبار، سَهمناک، هول اَنگیز، وَحشَتناک
 grauenvoll; مُهیب، سَهمگین
-- es gab etwas, was grauenvoller als .. war; چیزى که سَهمگین تَر از .. بود
+- es gab etwas, was grauenvoller als ... war; چیزى که سَهمگین تَر از ... بود
 Graupelschauer; تَگَرگ
 Graupen; بُلغور، جو
 grausam; شَرزه
@@ -2167,7 +2167,7 @@ Grossteil;
 - ein Grossteil der ...; بَخش ِ اَعظَمى از
 grösstenteils; غالِباً، بِطور ِ عُمده
 grösstmöglich;
-- das grösstmögliche herausholen aus ..; از چیزى حَدِاَکثَر اِستِفاده را کَردَن
+- das grösstmögliche herausholen aus ...; از چیزى حَدِاَکثَر اِستِفاده را کَردَن
 Grossvater; پِدَر ِ جَد، ـ بُزُرگ
 - Urgrossvater; جَد ِ بُزُرگ
 grossziehen; رویانیدَن
@@ -2196,9 +2196,9 @@ grün; سَبز، خَضیر
 Grund; (plur.) دَلیل (دَلائِل)، عامِل
 - auf Grund von ...; ... ِ به مُقتَضاى ِ، به اِستِناد ِ، بِدَلیلى که، به واسِطهٔ، به سَبَب
 - eigentlicher Grund; (plur.) عِلَت (عِلَل)، مَنبَع
-- ob er nicht einen Grund (Ausrede) fände; تا مَگَر بَهانه اى بَراى ِ .. بیابَد
+- ob er nicht einen Grund (Ausrede) fände; تا مَگَر بَهانه اى بَراى ِ ... بیابَد
 - aus diesem Grund; و از این رو
-- aus diesem Grunde war es, dass ..; از این روى بود که، از اینکه، بَراى ِ این بود که
+- aus diesem Grunde war es, dass ...; از این روى بود که، از اینکه، بَراى ِ این بود که
 - auf Grund erfolgreicher Zensur; به یُمن ِ وُجود ِ سانسور
 - ohne den Grund zu erkennen; بى آنکه چِرایَش را بِدانَد
 - wahren Gründe; مُسَببین ِ واقِعى
@@ -2323,7 +2323,7 @@ Gusto;
 - er hat immer einen Gusto auf etwas; او هَمیشه حَسرَت میخورَد
 gut; خوب، خوش، نیک، نیکو
 - um gut auszusehen; تا خوش مَنظَره باشَد
-- gut abschneiden bei; با مُعَدِل ِ عالى دَر .. قَبول شُدَن
+- gut abschneiden bei; با مُعَدِل ِ عالى دَر ... قَبول شُدَن
 - jem. gute Nacht wünschen; بَراى ِ کِسى آرِزوى ِ خواب ِ خوش کَردَن
 - gute Nacht!; شَب ِ خوش!، شَب بِخِیر
 - das ist zu nichts gut; این به دَرد نِمى خورَد

@@ -56,7 +56,7 @@ Kalkül;
 - ins Kalkül einbeziehen; روى ِ چیزى حِساب کَردَن
 Kalkulation; تَخمین ِ مَخارِج، بَرآوَرد
 kalkulieren; تَخمین ِ مَخارِج زَدَن
-- die Kosten einschliesslich Essen werden kalkuliert in Höhe von ..; هَزینهٔ ... بَراى ِ خورد و خوراک حِساب میشَوَد
+- die Kosten einschliesslich Essen werden kalkuliert in Höhe von ...; هَزینهٔ ... بَراى ِ خورد و خوراک حِساب میشَوَد
 Kalligraphie; خوش نِویسی، خَطاطی
 Kalorie; کالُرى
 kalt; سَرد
@@ -205,7 +205,7 @@ karikierend; طَنز آمیز
 kariös; رَمیم، کِرم خورده
 Karotte; هَویج، زَردَک
 Karriere; تَرفیع، مُوَفَقيَت ِ شُغل
-- Karriere innerhalb ..; سِیر ِ اِرتِقاء ِ شُغلى دَر
+- Karriere innerhalb ...; سِیر ِ اِرتِقاء ِ شُغلى دَر
 - Karriere machen; تَرفیع گِرِفتَن
 Karte;
 - alles auf eine Karte setzen; خودرا به سیم  ِ آخَر زَدَن
@@ -241,7 +241,7 @@ Kasper; دَلقَک
 kaspern; مَسخَرِگی کَردَن
 - kaspere nicht so herum; مَسخَرِگی نَکُن
 Kasse; باجه، گیشه
-- wir werden wegen .. zur Kasse gebeten; ما بَراى ِ .. بِخَرج مى اُفتیم
+- wir werden wegen ... zur Kasse gebeten; ما بَراى ِ ... بِخَرج مى اُفتیم
 - knapp bei Kasse sein; دَست (و بال) ِ کِسی تَنگ است
 - Kinokasse; گیشهٔ سینِما، باجهٔ ـ
 Kassenprüfer; (pl.) بازرَس  ِ (ـ ان) حِسابها
@@ -616,8 +616,8 @@ klären;
 Klärgrube; چوهَک ِ تَصفیهٔ فاضِل آب
 Klarheit;
 - Klarheit, Durchsichtigkeit; شَفافى
-- in aller Klarheit sagte er ..; با صَراحَت ِ تَمام گُفت
-- er hörte mit voller Klarheit, ...; به وُضوح از .. شِنید که
+- in aller Klarheit sagte er ...; با صَراحَت ِ تَمام گُفت
+- er hörte mit voller Klarheit, ...; به وُضوح از ... شِنید که
 - die Klarheit (Reinheit) des Taus; زُلالى ِ شَبنَم
 - in aller Klarheit (des Geistes); با صَحو تَمام
 - Klarheit schaffen; وُضوع بَخشیدَن، شَفافيَت دادَن
@@ -1111,7 +1111,7 @@ Konfiszierung; توقیف، ضَبط، مُصادِره
 Konfitüre; مُرَبا
 Konflikt; تِضاد، دَر گیرى، نَبَرد، مُناقِشه
 - Konflikt hervorrufend; مُناقِشه اَنگیز
-- .. hat viele Forscher in Konflikt gebracht; بِسیارى از دانِشمَندان به دَردِسَر اَنداخت
+- ... hat viele Forscher in Konflikt gebracht; بِسیارى از دانِشمَندان به دَردِسَر اَنداخت
 - ich habe einen Konflikt; مَن گیر اُفتادَم، ـ گیر شُدَم
 - die Polizei war in einen Konflikt verwickelt; پُلیس با کِسى دَر گیر شُد
 - der Konflikt tritt auf; دَر گیرى به ظُهور مى آيَد
@@ -1911,7 +1911,7 @@ kurz; کوتاه
 kürzen; (z.B. Text) .خُلاصه کَردَن، کوتاه ک
 - Kürzen (zur Präzisierung von Text); ایجاز
 - nicht den Kürzeren ziehen; کوتاهی نَداشتَن
-- er musste immer in Bezug auf .. den Kürzeren ziehen; هَمواره مُقابِل ِ .. کوتاه آمَده بود
+- er musste immer in Bezug auf ... den Kürzeren ziehen; هَمواره مُقابِل ِ ... کوتاه آمَده بود
 - verkürzen; مُنقَبِض کَردَن
 Kürzel; مُخَفَفه
 kurzfristig; قَصیر اُلمُدَت، قَلیل اُلمُدَت، کوتاه مُدَت، تَک پا
