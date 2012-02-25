@@ -1418,7 +1418,7 @@ Einzugsgebiet;
 Eis; یَخ، جَلید، آب ِ بَسته
 - Speiseeis; بَستَنى
 - Treibeis; تودهٔ یَخ ِ شِنَوا
-- jem. auf´s Glatteis führen; کُلاه سَر ِ کِسى گُذاشتَن
+- jem. auf's Glatteis führen; کُلاه سَر ِ کِسى گُذاشتَن
 Eisbahn; مِیدان ِ یَخ بازى
 Eisbeutel; کیسهٔ یَخ
 Eisblumen; نَنگوله هاى ِ یَخ، شَختهٔ پَنجَره

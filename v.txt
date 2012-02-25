@@ -575,7 +575,7 @@ Vergeltungsaktion; عَمَل ِ اِنتِقامى
 vergessen; فَراموش کَردَن
 - abtun & vergessen; دَر نَوَردیدَن و دَر نِوِشتَن
 - ich habe das vergessen; یادَم رَفته، از یادَم اُفتاد، اینرا فَراموش کَردَم
-- ich hab´s vergessen (i.S.: verschlafen); مَن خواب ماندَم
+- ich hab's vergessen (i.S.: verschlafen); مَن خواب ماندَم
 - ich habe alles vergessen (was ich gelernt habe); پُشتَم باد خورد
 - Sie haben es vergessen; شُما فَراموش فَرمودید
 - das eine können sie noch nicht, das andere haben sie vergessen; راه رَفتَن ِ کَبک را یاد نَگِرِفته خودرا هَم از باد بُرده اند
@@ -1111,7 +1111,7 @@ verpassen; از دَست دادَن
 - den Zug verpassen; به قَطار نَرِسیدَن
 - jem. eine Abreibung verpassen; حال ِ کِسى را جا آوَردَن
 verpennen;
-- ich hab´s verpennt; مَن خواب ماندَم
+- ich hab's verpennt; مَن خواب ماندَم
 verpesten;  .مَطعون کَردَن، کَسیف ک
 - verpestete Luft; هَواى ِ مَطعون
 verpfändet; گِرُوى، با گِرو گُذاشته
@@ -1244,7 +1244,7 @@ verschimmeln; کَپَک زَدَن
 verschlacken; سُرباره شُدَن
 verschlafen; دیر بیدار شُدَن
 - verschlafen, unausgeschlafen; خواب آلود
-- ich hab´s verschlafen; مَن خواب ماندَم
+- ich hab's verschlafen; مَن خواب ماندَم
 verschlagen; موذى، زیرَک و پُخته، حیله گَر، مُحیل، مَکار، ناقُلا
 - verschlagenes Lächeln; خَندهٔ زیر ِ کانه کَردَن
 - ein verschlagener Typ; آدَم ِ مُحیل

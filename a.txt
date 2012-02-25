@@ -3150,7 +3150,7 @@ aufgeben;
 - den Versuch aufgeben; از کوشِش دَست شُستَن
 - nicht aufgeben, unermüdlich; خَستِگی ِ ناپَذیر، نَسِتوه
 - Paket aufgeben; پاکَت زَدَن، ـ تَحویل دادَن
-- Gib`s doch auf; دَست بَردار، لُنگ بیَنداز
+- Gib's doch auf; دَست بَردار، لُنگ بیَنداز
 - nicht aufgeben; دَستبَردار نَبودَن
 aufgebläht;
 - der Bauch ist aufgebläht; شِکَم ِ آماس کَرده

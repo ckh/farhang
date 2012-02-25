@@ -202,7 +202,7 @@ Corpus; پِیکَر
 - Corpus delicti; شِئى که وُقوع ِ جِنایَت را ثابِت می کُنَد
 Couch; نیمکَت ِ راحَتى
 Count-Down; شُمارِش ِ مَعَکوس
-Coup; d`Etat کودِتا
+Coup; d'Etat کودِتا
 Coupon; کوپُن
 - Essenscoupon; کوپُن ِ غَذا
 Cousin; عَمو زاده، پِسَر عَمو، پِسَر دائى

@@ -649,7 +649,7 @@ gehen; رَفتَن، راه رفتَن، قَدَم زَدَن
 - es geht mir gut; حالَم خوب است
 - mir geht es wieder gut; حالَم خوب شُد، مَن خوب شُدَم
 - mit nichts gehen, mit nichts kommen (popul.); مِثل ِ چُس رَفتَن و مِثل ِ گوز آمَدَن
-- wie geht´s? Oh Mann oh Mann!;  !حالِتان چِطوره؟ ای، چه حالی چه اَحوالی
+- wie geht's? Oh Mann oh Mann!;  !حالِتان چِطوره؟ ای، چه حالی چه اَحوالی
 - es geht darum, dass ..; مَطرَح سَر ِ این است که، موضوع ـ
 - er geht in die andere Richtung; خودرا به آن راه میزَنَد
 - er geht zum Laden; او راهى  ِ مَغازه میشَوَد
@@ -2281,7 +2281,7 @@ gucken; .نِگاه کَردَن، تَماشا ک
 Guerillakrieg; جَنگ ِ چَریکى
 Guillotine; تیغهٔ سُقوط کُنَنده، گیوتین
 Gulliver;
-- Gulliver`s Reisen; سَفَرهاى ِ گالیوِر
+- Gulliver's Reisen; سَفَرهاى ِ گالیوِر
 gültig; مُعتَبَر
 Gültigkeit; اَرزِش، اِعتِبار
 - seine Gültigkeit verlieren; از اِعتِبار اُفتادَن
@@ -2387,7 +2387,7 @@ gutheissen; پَسَند کَردَن
 - bis ich etwas gutheisse; تا ... را پَسَند کُنَم
 - etwas für jem. gutheissen; چیزى را به کِسى بَسَنده کَردَن
 gutherzig; رَقیق اُلقَلب، خوش قَلب، جَوانمَرد
-gütig; (ra`uf) کَریم، مِهرَبان، رَؤف
+gütig; (ra'uf) کَریم، مِهرَبان، رَؤف
 gutmeinend; عاطِف
 gutmütig; خوش قَلب
 Gutsbesitzer; مالِک
