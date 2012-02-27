@@ -842,6 +842,11 @@ zumessen;
 zumindest; حَد ِ اَقَل
 zumute;
 - wenn dir nach Spielen mit ... zumute ist; هَوَس ِ بازی با ... به کَله ات اُفتاد
+zumuten;
+- jem. etwas zumuten; چیزی را رو گَردَن ِ کِسی گُذاشتَن
+- es wird mir zugemutet, das ...; قاِ‌ئل می شوََد که، اِنتِطار می رَوَد که
+Zumutung; اِنتِطار
+- das ist eine echte Zumutung; چه خیالُشان می رِسَد
 zunächst; اَوَلاً، نَخُست، دَر اِبتِداء
 Zunahme; اَفزايِش
 Zündeinstellung; تَنظیم ِ سیستِم ِ جَرَقه زَنى
