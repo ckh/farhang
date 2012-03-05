@@ -831,7 +831,7 @@ Einlieferungsschein; رِِسید ِ تَحویل
 einliegend;
 - einliegend im Brief sende ich ...; لَفاً اِرسال مى شَوَد
 einlösen;
-. Scheck einlösen; چِک نَقد کَردَن
+- Scheck einlösen; چِک نَقد کَردَن
 - Versprechen einlösen; قول ِ خودرا ایفاء کَردَن، ـ به اَنجام رِسانیدَن
 Einlösung;
 - Einlösung eines Versprechens; بسَر بُردِگى، ایفاء
@@ -1949,7 +1949,7 @@ entlarven; نِقاب از چِهره بَر داشتَن، رُسوا کَرد�
 entlassen;
 - jem. entlassen (z.B. aus Krankenhaus); کِسی را مُرَخَص کَردَن، خَلاص ک.، رُخصَت دادَن
 - entlassen werden; مَعزول شُدَن
-. ... wirst du entlassen; عَزل میگَردی
+- ... wirst du entlassen; عَزل میگَردی
 - fristlos entlassen; فوراً بَر کِنار کَردَن از خِدمَت
 Entlassung;
 - Entlassung, Amtsenthebung; تَعزیل، مَعزولى، عَزل، خَلع، اِخراج

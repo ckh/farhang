@@ -2219,6 +2219,7 @@ Grundfläche; زَمینه
 Grundgebühr; حَد ِ اَقَل ِ هَزینه
 Grundgesetz; اَساسنامه، قانون ِ اَساسى
 Grundierung; صاف کارى
+Grundkurs; دورهٔ پایه گذاری
 Grundlage; (plur.) پایه، زَمینه، مَبنى (مَبانى)، بُنیاد
 - Grundlagen unterminierend; بُنیاد کَن
 - Papier zur Finanzgrundlage (z.B. für Verein); بیانیهٔ مالى
