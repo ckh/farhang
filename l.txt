@@ -131,7 +131,7 @@ Landflucht; فَرار از روستاها
 Landfriedensbruch; نَقض ِ آرامِش ِ کِشوَر
 landgestützt;
 - landgestützte Rakete; موشَک ِ زَمین پایه
-Landhaus (*: Sommersitz, *: Winterquartier); يِیلاق
+Landhaus (*:Sommersitz, *:Winterquartier); يِیلاق
 Landkarte; نَقشهٔ جُغرافیایی
 Landkreis; بَخش ِ روستائی، حومه، ناحیه
 ländlich; روستائی
@@ -329,7 +329,7 @@ laufen; دَویدَن
 - das Cafe läuft gut; قَهوه خانه خوب می چَرخَد
 - er läuft als einer von ihnen, er gilt -;  او بِعُنوان ِ يِکی از آنها گُذَران می کُنَد
 - er lässt den Motor laufen; می گُذارَد موتور روشَن باشَد
-- das ist gelaufen (*: aus); کار از کار گُذَشته
+- das ist gelaufen (*:aus); کار از کار گُذَشته
 - zum Laufen bringen; دايِر کَردَن
 - zum Laufen gebracht werden; دايِر شُدَن
 laufend;
@@ -671,7 +671,7 @@ Leidenschaft;
 - jem. in Leidenschaft versetzen; کِسی را هَوَس کَردَن
 - in Leidenschaft geraten; به هَوَس اُفتادَن
 leidenschaftlich;
-- leidenschaftlicher Mensch (*: begeistert); آدَم ِ شوریده دِل، آدَم ِ مَسحور
+- leidenschaftlicher Mensch (*:begeistert); آدَم ِ شوریده دِل، آدَم ِ مَسحور
 Leidensmiene;
 - mit Leidensmiene sagte er; او بَرزَخ گُفت، با لَحنهٔ آسیب دیده گُفت
 leider;
@@ -688,7 +688,7 @@ leiern;
 - etwas herunterleiern; چیزی را کِشیده گُفتَن
 Leihe; عاریه، وام
 - Fernleihe; عاریهٔ کِتاب از کِتابخانهٔ خارِجی
-leihen (*: ausleihen); .وام دادَن، قَرض د.، اَمانَت د
+leihen (*:ausleihen); .وام دادَن، قَرض د.، اَمانَت د
 - s. bei jemandem leihen; وام گرَفتَن، قَرض گ.، عاریه کَردَن، اَمانَت گِرِفتَن
 Leihgebühr; حَق اُلعَمَل ِ بُنگاه ِ رَهنی
 Leihwagen; ماشین ِ کِرایه ای

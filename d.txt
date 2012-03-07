@@ -256,7 +256,7 @@ Dauerspannung; کِشِش ِ مُمتَد
 Dauervisum; رَوادید ِ دائِمى
 Dauerwelle; فِر  شِش ماهه
 Dauerzustand; حالَت ِ یِکنَواخت
-Daumen; (*: Finger) شَست
+Daumen; (*:Finger) شَست
 - Daumen lutschen; شَست مَکیدَن
 - jemandem Daumenschrauben anlegen; شَست ِ کِسى را اِشکِلَک کَردَن، راه ِ نَفَس ِ کِسی را بَستَن
 Daunenkissen; بالِش ِ پَر ِ قو، ـ پَر ِ نَرم
@@ -330,7 +330,7 @@ Deckung;
 - Wechsel ohne Deckung; این بَرات مَحَل ندارد
 deckungsgleich;
 - miteinander deckungsgleich sein; بِهَم جوش خورده هَستَند
-Deduktion (*: Induktion); نَتیجه گیرى، اِستِنتاج، بُرهان ِ لِمى، قیاس، اِستِنباط
+Deduktion (*:Induktion); نَتیجه گیرى، اِستِنتاج، بُرهان ِ لِمى، قیاس، اِستِنباط
 deduktiv; اِستِنباطی
 - auf deduktivem Weg; از راه ِ اِستِنباط
 de facto; بِالفِعل، واقِعى
@@ -509,7 +509,7 @@ Denunziant; غَماز، نَمام، چُغُل، خَبَر چین
 Denunziation; نَمامى، بیغار
 denunzieren; غَمازى کَردَن، سُخَن چینى ک.، زیر ِ حَرف ِ کِسى زَدَن
 - jem. bei der Behörde denunzieren; جُرم ِ کِسى را به اِدارهٔ دولَت خَبَر دادَن
-Depilation (mit Creme) (*: Haarentfernung); بَند اَنداختَن
+Depilation (mit Creme) (*:Haarentfernung); بَند اَنداختَن
 deplaziert; بى جا
 Deponie; مَحَل ِ آشغال
 deponieren; به اَمانَت گُذاشتَن
@@ -937,7 +937,7 @@ Dogma; عَقیدهٔ جَزمى، دُگم
 dogmatisch; جَزمى، آمِرانه، جازِم، حُکمى
 Dohle; زاغچه، کَلاغ ِ پیشه
 Doktor; طَبیب، دُکتُر، پِزِشک
-Doktorarbeit (*: Promotion); پایان ِ نامهٔ دُکتُرا
+Doktorarbeit (*:Promotion); پایان ِ نامهٔ دُکتُرا
 Doktrin; آئین
 - Parteidoktrin; دُکترین ِ حِزبى، آموزهٔ ـ، آئین ِ ـ
 Dokument; (pl.) مَدرَک، سَنَد (اَسناد)، دَستاویز
@@ -1027,7 +1027,7 @@ Drahtzieher; تَحریک کُنَنده، مُحَرِک
 Drainage; زِه کِشى
 Drainagegraben; فاضِلاب رو، زِه کِش
 drall;  چاق
-- eine dralle Person (*: dick); شَخص ِ تَنومَند
+- eine dralle Person (*:dick); شَخص ِ تَنومَند
 Drall; چَرخِش، تاب، پیچِش
 - Rechtsdrall; پیچِش ِ سَمت ِ راست
 Drama; درام
@@ -1039,7 +1039,7 @@ dran;
 - er macht s. dran; او دَر صَدَد ِ کار بَر مى آیَد
 - da ist was dran; تا نبایَد چیزَکى، مَردُم نَگویَند چیزها
 - da ist was dran (z.B. ein Fehler); عِیب داشتَن
-Drang (*: Neigung); گِرایِش، تَمایُل
+Drang (*:Neigung); گِرایِش، تَمایُل
 Drängelei; اِزدِحام، تَنه زَنى
 drängeln; تَنه زَدَن، هُل دادَن
 - vor der Kasse drängeln; جلوى باجهٔ صَندوق اِزدِحام کَردَن
@@ -1283,7 +1283,7 @@ dumpf;
 - ein dumpfes Murmeln; هَمهَمهٔ خَفه
 Dummy; عَروسَک برای ِ آزمایِش فَنی
 Düne; تَپهٔ ریگ
-Dung (*: Mist); پِهِن، گُه
+Dung (*:Mist); پِهِن، گُه
 - Schafdung; پِشکِل ِ گوسفَند
 Düngemittel; کود
 düngen; کود دادَن
@@ -1399,7 +1399,7 @@ Durchdringung;
 - wechselseitige Durchdringung; داخِل شُدِگى ِ یِکدیگَر
 Durchdringungsvermögen; قابِلیَت ِ نُفوذ
 durcheinander; قاتى پاتى، دَرهَم بَرهَم، تار و مار، چِرت و پِرت
-- er ist ein bisschen durcheinander (popul.) (*: verstört); او یه کَمى گیجه، پَکَرش است، پَریشان حال است، دِل او شور مى زَنَد
+- er ist ein bisschen durcheinander (popul.) (*:verstört); او یه کَمى گیجه، پَکَرش است، پَریشان حال است، دِل او شور مى زَنَد
 Durcheinander; هَرج و مَرج
 - in diesem Durcheinander; دَر این دِه و دار، ـ هَرج و مَرج، ـ گیر و دار، ـ حِیص و بِیص، ـ خَر تو خَرى، ـ کى به کى، ـ دوغ و دوشاب
 durcheinanderbringen; مُنقَلِب ساختَن، قاتى پاتى کَردَن، مُختَل ک.، زیر و رو ک.، بَراَنداختَن، بُشولانیدن، به هَم ریختَن
@@ -1482,7 +1482,7 @@ durchlaufen;
 - Kaffee durchlaufen lassen; قَهوه را از فیلتِر گُذَراندَن
 - der Kaffee ist durchgelaufen; قَهوه رَد شُده است، - حاضِر است
 Durchlauferhitzer; آبگَرم کُن
-durchleben (*: erleben); تَجرُبه کَردَن
+durchleben (*:erleben); تَجرُبه کَردَن
 durchlesen;
 - das Buch in einem Durchgang durchlesen; کِتاب را دَر یِک نِشَست خواندَن
 Durchleuchtung; مُعاینِه با اَشعِهِ
@@ -1510,7 +1510,7 @@ durchschauen;
 - er ist durchschaut;  کاسه اش از بام افتاد، طَبلَش دَرید
 durchscheinend; زُلال، شَفاف
 - die Farbe scheint durch; رَنگ از پُشتِش پِیدا مى شَوَد
-Durchschlag (*: Sieb); آب کِش
+Durchschlag (*:Sieb); آب کِش
 durchschlagen;
 - s. schwer durchschlagen; با سَختى به جائى رِسیدَن، سَختى کِشیدَن، بازو زَدَن
 - durchschlagend (Geschoss); ثاقِب

@@ -72,7 +72,7 @@ Zahlungsbilanz;
 Zahlungseinstellung; خاطِمهٔ پَرداخت، قَطع ـ
 Zahlungsfälligkeit; واجِب اُلاَدا
 zahlungsfreudig; خوش حِساب
-zahlungsunfähig (*: pleite); مایه سوز
+zahlungsunfähig (*:pleite); مایه سوز
 Zahlungsunfähigkeit; اِفلاس، تَفلیس، پَرداخت ناپَذیرى، اِعسار
 Zählwerk; شُمارِشگَر ِ کُنتور
 zahm; مُستأنِس، اَهَلى، رام شُده
@@ -259,7 +259,7 @@ zeitgemäss; باب ِ اِمروز
 Zeitgenosse; هَمدور ِهَم عَصر، مُعاصِر
 zeitgenössisch; مُعاصِر
 zeitgleich; هَمزَمان
-- zeitgleich mit ... kam er an (*: gleichzeitig); هَمزَمان با ... آمَد
+- zeitgleich mit ... kam er an (*:gleichzeitig); هَمزَمان با ... آمَد
 zeitlich;
 - zeitlich versetzen; چیزى را به تأخیر اَنداختَن
 Zeitlohn; اُجرَت ِ زَمانى
@@ -389,7 +389,7 @@ Zerrüttung;
 - eheliche Zerrüttung; به هَم خوردِگى ِ زَنا شوئى، از هَم پاشیدِگى ِ ـ
 zerschellt; مُنشَق
 zerschlagen; شِکَست دادَن، دَر هَم کوبیدَن
-- zerschlagen sein (*: kaputt); خَسته و کوفته بودَن، حالَت ِ شِکَنَندِگى داشتَن
+- zerschlagen sein (*:kaputt); خَسته و کوفته بودَن، حالَت ِ شِکَنَندِگى داشتَن
 - Geschirr zerschlagen; ظُروف را تیله توله کَردَن
 - er hat alles zerschlagen; هَمه را دَر هَم شِکَست، ـ بِهَم ریخت
 - unser Fluchtplan hat s. zerschlagen; نَقشهٔ فَرارِمان به هَم خورد
@@ -634,7 +634,7 @@ Zoten; پوچ دَهَن، ناسَزا، شوخى ِ لوس، هَزل، فَح
 - Zoten reissen; ناسَزائى بَر زَبان آوَردَن
 Zotte;
 - Darmzotte; خَمل ِ روده
-zu (*: zur, zum);
+zu (*:zur, zum);
 - 1 zu 0 (im Sport); يِک بَر صِفر
 - wir haben 2 zu 3 gespielt; عَوَض ِ دو تا گُل سه تا گُل خوردیم
 - zu Ehren der ...; به پاس ِ اَداى ِ اِحتِرام به

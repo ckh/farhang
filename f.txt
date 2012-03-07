@@ -127,7 +127,7 @@ Fahrradrennen; مُسابِقهٔ دو چَرخه سَوارى
 Fahrradständer; جاى ِ تَوَقُف دو چَرخه
 Fahrstuhl; آسانسُر
 Fahrt; سَفَر، عَزیمَت، گَردِش
-- in Fahrt sein (*: fit); سَر ِ حال بودَن
+- in Fahrt sein (*:fit); سَر ِ حال بودَن
 - Fahrt bekommen; سُرعَت گِرِفتَن
 - er ist gut in Fahrt; کَله اَش گَرم شُده است
 - innerlich in Fahrt kommen; از دَرون به جوش و خُروش آمَدَن، سَر ِ خُلق آمَدَن
@@ -185,7 +185,7 @@ Falle; کَمین، تَله، دام
 - in eine Falle geraten; به تَله اُفتادَن
 - Mausefalle; موش تَله
 fallen; اُفتادَن، سُقوط کَردَن، زَمین خوردَن
-- im Kampf fallen (*: umkommen); دَر جَنگ به خاک اُفتادَن
+- im Kampf fallen (*:umkommen); دَر جَنگ به خاک اُفتادَن
 - in den Sessel zurückfallen; یَله شُدَن روى ِ صَندَلى
 - vor jem. auf das Angesicht fallen; به حُضور ِ کِسى به رو اُفتادَن
 - unter die Bestimmungen fallen; مَشمول ِ مُقَرَرات ِ.. بودَن
@@ -223,7 +223,7 @@ Fallstrick; دام
 - das wird jem. zum Fallstrick; این بَراى ِ کِسى دام مى شَوَد
 Fallwind; باد ِ ساقِط
 falsch; کاذِب، اِشتِباه، ضَلیل
-- falsch machen (*: verkehrt); غَلَط کَردَن
+- falsch machen (*:verkehrt); غَلَط کَردَن
 - alles falsch sehen; چیزى را قَر و قاطى دیدَن
 - etwas als falsch erkennen; چیزى را اِشتِباه دانِستَن
 - die Uhr geht falsch; ساعَت نامیزان است
@@ -301,7 +301,7 @@ fangen; گِرِفتَن
 - der Wind fängt s. im Baum; باد دَر دِرَخت گیر می کُنَد، ـ مى پیچَد
 - er hat s. wieder gefangen (nach Krankheit); آب زیر ِ پوستَش دَوید
 - ich fing mich schnell und ...; زود خودَم را رو بِراه کَردَم و
-Fantasterei (*: Phantasie); خیال پَردازی
+Fantasterei (*:Phantasie); خیال پَردازی
 Farbblindheit; رَنگ کورى
 Farbdruck; چاپ ِ رَنگى، باسمهٔ ـ
 Farbdrucker; دَستگاه ِ چاپ ِ رَنگى
@@ -1509,7 +1509,7 @@ Frage; (plur.) پُرسِش، سؤال (سؤالات)، اِستِفسار
 - Rückfrage; سئوال ِ مُنَعکِس کُنَنده
 Fragebogen; پُرسِشنامه، نَظَرخواهى
 fragen; سؤال کَردَن، پُرسِش ک.، پُرسیدَن
-- jem. nach seiner Meinung fragen (*: erkundigen); از کِسى اِستِمزاج کَردَن، عَقیدهٔ کِسى را سؤال کَردَن
+- jem. nach seiner Meinung fragen (*:erkundigen); از کِسى اِستِمزاج کَردَن، عَقیدهٔ کِسى را سؤال کَردَن
 - nach einer Wohnung fragen; سُراغ ِ مَسکَن را گِرِفتَن، دُنبال ِ مَسکَن گَشتَن
 - s. durchfragen; مَردُم پُرسان پُرسان تا قُطب ِ شُمال مى رَوَند
 - ich fragte nach dem Grund dieser Aufforderung; عِلَت ِ این دَستوررا پُرسیدَم
@@ -1526,7 +1526,7 @@ fragwürdig; مُبهَم
 Fraktion;
 - Regierungsfraktion; فراکسیون ِ دولَت، دَستهٔ ـ، فِرقهٔ ـ
 Fraktionsautonomie; خود گَردانى ِ فراکسیون
-Fraktur (*: Bruch); شِکَستِگی
+Fraktur (*:Bruch); شِکَستِگی
 frank;
 - frank & frei; رُک و پوست کَنده، رو راست
 Frankoumschlag; نامه بى تَمبر، ـ مُعاف از قِیمَت ِ تَمبر
@@ -1850,7 +1850,7 @@ führen;  .رَهنِمون کَردَن، رَهبَرى ک.، هِدایَت �
 - jem. in Gefangenschaft führen; کِسى را به اَسیرى بُردَن
 - jem. etwas vor Augen führen; چیزى را به رُخ کِسى کِشیدَن
 - ein ordentliches Leben führen; زِندِگى ِ پاک را پیشه کَردَن
-- das zu ... führt (*: hinführen); که مُنتَج  ِ ... است
+- das zu ... führt (*:hinführen); که مُنتَج  ِ ... است
 - das zum Tode führt; که مُنجِر به مَرگ شَوَد
 - das führt zu nichts; فایده نَدارَد
 - wohin soll das führen?; این ماجِرا آخَرَش به کُجا خواهَد کِشید؟
@@ -1939,7 +1939,7 @@ für; ... ِ بَرای
 Fürbitte; شَفاعَت، مُناجات
 Furche; چَم، شیار
 Furcht; تَرس، خوف
-- Furcht bekommen (*: Angst); جِگَر باختَن، بَر ... خوف مُستولى شُدَن، تَرسیدَن
+- Furcht bekommen (*:Angst); جِگَر باختَن، بَر ... خوف مُستولى شُدَن، تَرسیدَن
 - ohne Furcht; بى پَروا، بى باک، دِلیرى، آتَش از آب نَدانِستَن، عَظیم مُتَهَوِر و بی باک بودَن
 - Furcht & Schrecken überfällt alle; هول و هَراس بَر هَمه مُستولى مى شَوَد، وَحشَت هَمه را مى گیرَد، هول به جان ِ هَمه مى اُفتَد، دِلِشان کَنده می شَوَد
 furchtbar; مَخوف، سَهمناک، هولناک، موحِش، هَراس انگیز، تَرسناک، وَحشَتناک

@@ -54,7 +54,7 @@ Verabredung; قَرار ِ مُلاقات
 - eine Verabredung haben zum Mittagessen mit ...; با ... قَرار ِ ناهار داشتَن
 - ich muss zu meiner Verabredung; مَن بايَد به قَرارَم بِرِسَم
 verabschieden;
-- s. verabschieden (*: Abschied); مُرَخَص کَردَن
+- s. verabschieden (*:Abschied); مُرَخَص کَردَن
 - Haushaltsplan verabschieden; بَرنامهٔ بودجه را تَصویب کَردَن
 - s. vom Dienst verabschieden, s. hinausstehlen; از خِدمَت باز اُفتادَن
 - dann verabschiedet er s. auf Nimmerwiedersehen; بَعد هَم حاجی حاجی مَکه
@@ -228,7 +228,7 @@ Verblüffung;
 verblühen; پَژمُرده شُدَن
 verbluten; از شِدَت ِ خونریزى مُردن
 verborgen;
-- verborgen sein (*: verbergen);  .نِهُفته بودَن، قائم ب.، نهان ب.، پنهان ب.، مَکنون ب.، مُتَوارى ب
+- verborgen sein (*:verbergen);  .نِهُفته بودَن، قائم ب.، نهان ب.، پنهان ب.، مَکنون ب.، مُتَوارى ب
 Verbot; نَهى، ناهیه، مَنع، مُمانَعَت، مَمنوعيَت
 - Verbot einer Partei; مَنع ِ حِزبى
 - Arbeitsverbot; مَنع ِ کار
@@ -359,7 +359,7 @@ verdrängen; کِسى را پَس زَدَن، ـ بیرون راندَن
 verdrehen; پیچ دادَن، تابیدَن
 - verdrehen (Knoten); گِرِه خوردَن
 - verdrehen (z.B. statt 28: 82); وارونه کَردَن
-- die Wahrheit verdrehen (*: verfälschen);  .حَقیقَت را دِگرگون کَردَن، ـ مُنحَرِف ک
+- die Wahrheit verdrehen (*:verfälschen);  .حَقیقَت را دِگرگون کَردَن، ـ مُنحَرِف ک
 verdreht; مُلتَوى، مارپیچى
 - die Welt ist verdreht; کار ِ دُنیا بَر عَکس است
 - er hängt das verdreht auf; این چیزهارا وارونه آویزان مى کُنَد
@@ -370,7 +370,7 @@ Verdrehung; پیچِش
 - Verdrehung des Textes durch Umstellung von Buchstaben; تَحریف (رَشک : شُکر
 verdreschen; کُتَک زَدَن، مالِش دادَن
 verdrossen; کَدِر
-- verdrossenes Gesicht (*: mürrisch); چِهرهٔ تاسیده
+- verdrossenes Gesicht (*:mürrisch); چِهرهٔ تاسیده
 Verdruss; کَدَر، اِنفِعال، قَهر، کَدورَت
 verduften; دَک شُدَن، يَواشَکى رَفتَن، فِلِنگ را بَستَن، به زِه زَدَن
 verdunkeln;
@@ -389,7 +389,7 @@ veredeln; ناب کَردَن
 verehelichen; کِسى را به نِکاح دَر آوَردَن
 Verehelichung; تَزویج
 verehren; اِحتِرام کَردَن
-- er verehrt jem. (*: ehren); (präs.)  (کِسى را مى سِتايَد (سِتودَن
+- er verehrt jem. (*:ehren); (präs.)  (کِسى را مى سِتايَد (سِتودَن
 Verehrer; خاطِر خواه
 vereidigen; سوگَند یاد دادَن، قَسَم دادَن
 - vereidigter Dolmetscher; مُتَرجِم ِ قَسَم خورده
@@ -1184,7 +1184,7 @@ Verruf; بَدنامى
 verrufen; بَدنام
 Vers; (pl.)  (بِیت (اَبیات)، آیه (آیات
 - in Versen; به نَظم
-- Verweise auf andere Verse (*: Referenz); اِرجاعاتى به آیات ِ دیگَر
+- Verweise auf andere Verse (*:Referenz); اِرجاعاتى به آیات ِ دیگَر
 versagen; غِفلَت کَردَن، عاجِز بودَن
 - s. versagen, weigern; مُستَنکِف شُدَن
 Versagen (n); لَغزِش
@@ -1616,7 +1616,7 @@ Versuchung; اِغوا، وَسوَسه
 versündigen; مُرتَکِب ِ گُناه شُدَن، گُناه وَرزیدَن
 - s. gegen die Gebote Gottes versündigen; از دَستورات ِ خُدا تَخَطى کَردَن
 vertagen; موکول کَردَن، به تَعویق اَنداختَن
-- eine Konferenz vertagen (*: verschieben); کُنفِرانس را به تَعویق اَنداختَن
+- eine Konferenz vertagen (*:verschieben); کُنفِرانس را به تَعویق اَنداختَن
 Vertagung; تأجیل، بِتَعویق اَندازى
 vertäuen; مَهار بَند کَردَن
 vertauschen; عَوَضى گِرِفتَن، اِشتِباهاً بَر داشتَن
@@ -1662,7 +1662,7 @@ Vertrag; مُقاوِله، قَرارداد
 - Zusatzvertrag; قَرارداد ِ اِلحاقی
 vertragen;
 - schwer zu vertragen, unverdaulich; ناگُوار
-- s. vertragen mit (*: auskommen); با کِسى سُلوک کَردَن، ـ سازِش کَردَن
+- s. vertragen mit (*:auskommen); با کِسى سُلوک کَردَن، ـ سازِش کَردَن
 vertraglich;
 - vertraglich gebunden; مُکَلَف طِبق ِ قَرار داد
 verträglich;
@@ -2224,7 +2224,7 @@ vorbeileben;
 vorbeischauen;
 - kurz bei dir vorbeischauen; يِک تَک پا مى آيَم به مَنزِلَت، يِک سَرى مى زَنَم به اِت
 vorbeiziehen;
-- an jem. vorbeiziehen (*: überholen); از کِسى پیش دَستى کَردَن
+- an jem. vorbeiziehen (*:überholen); از کِسى پیش دَستى کَردَن
 Vorbeiziehender; رَهگُذَر
 Vorbemerkung; مُقَدَمه، پیش گُفتار
 - eine kurze Vorbemerkung; يِک مُقَدَمهٔ کوتاه

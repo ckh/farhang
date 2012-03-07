@@ -548,7 +548,7 @@ Nichtsnutz; گُم گَشتهٔ عاطِل، لَش
 - Nichtsnutz sein; جَک و جولاد بودَن
 - Nichtsnutz (der s. auf dem Reichtum des Vaters ausruht); پِسَر حاجی
 Nichtstun;
-- fett vom Nichtstun (*: faul); از بی غِیرَتی چَربی زَده
+- fett vom Nichtstun (*:faul); از بی غِیرَتی چَربی زَده
 nichtswürdig;
 - nichtswürdiges Leben; زِندِگی ِ مُحَقَری
 - du Nichtswürdiger; اَی آدَم ِ بَدجِنس
@@ -561,7 +561,7 @@ Nickerchen; چُرت
 - ein Nickerchen machen; چُرت زَدَن
 Nickhaut; غِشاء ِ نازُکی که دَر زیر ِ پِلک ِ پائینی ِ چِشم ِ بَعضی از جانوِران وُجود دارد
 nie; بِهیچوَجه، حاشا، هَرگِز
-- das kommt nie in Frage, dass wir das tun (*: niemals); حاشا که ما این کاررا بِکُنیم
+- das kommt nie in Frage, dass wir das tun (*:niemals); حاشا که ما این کاررا بِکُنیم
 nieder!; پَست باد
 - nieder mit ...!; مَرگ بَر
 - von einem niederen zu einem höheren Zustand übergehen; از صورَتی ِ اَدَنی به صورَتی ِ اَعلىٰ
@@ -606,7 +606,7 @@ niederschreiben; نِگاریدَن، نِگاشتَن
 Niederschrift; نِگارِش
 Niedertracht; فُرومايِگی، پَستی، دِنائت، رِذالَت
 niederträchtig; فُرومایه، رَذیلانه، شَنیع، دِنائت طَبع، پَست
-- niederträchtiger Kerl (*: Charakter); آدَم ِ سِفله
+- niederträchtiger Kerl (*:Charakter); آدَم ِ سِفله
 Niederträchtigkeit; خِسَت ِ شَدید، دون بازی
 niederwerfen; فُرو نِشاندَن، بَر اَنداختَن، خواباندَن
 niedlich; شیرین، مَلیح
@@ -730,7 +730,7 @@ nötig;
 - bis jetzt hatte ich ihn noch nicht nötig; مَن هَنوز اِحتیاجَم به او نَيُفتاده بود
 - ich glaub, du hast das nötig (i.S.: Bestrafung); به نَظَرَم تَنِت می خورَد
 nötigen;
-- s. zu etwas nötigen (*: veranlassen); خودرا اِلزام کَردَن، ـ تَحت ِ فِشار گُذاشتَن
+- s. zu etwas nötigen (*:veranlassen); خودرا اِلزام کَردَن، ـ تَحت ِ فِشار گُذاشتَن
 Nötigung; هَتک ِ ناموس، ـ غَرَض، تَجاوُز
 Notiz; دَستنِوِشته، یاد داشت
 notleidend; خِل، مُحتاج
@@ -763,7 +763,7 @@ Novelle; داستان
 Novellierung; اِصلاح ِ قانون
 November; نُوامبر
 Nu;
-- im Nu (*: sofort); آناً، فوراً
+- im Nu (*:sofort); آناً، فوراً
 nüchtern;
 - er wurde wieder nüchtern; او سَر ِ حال آمَد، هوشیار شُد
 - die frische Luft hat mich nüchtern gemacht; هَوای ِ خُنَک مَرا از مَستی بِدَر آوَرد

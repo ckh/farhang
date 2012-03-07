@@ -213,7 +213,7 @@ abgekürzt;
 - das Wort ist abgekürzt; این کَلام مُخَفَف اَست، ـ کوتاه نِوِشته است
 - in abgekürzter Form; بِه صورَت ِ موجَز، ـ مُختَصَر
 abgelagert (z.B.: Wein);  شَراب ِ) ِ جا اُفتاده )
-abgelaufen (*: ablaufen);
+abgelaufen (*:ablaufen);
 - abgelaufene Frist; مُدَت ِ سِپَرى شُده
 - das Uhrwerk ist abgelaufen; کوک ِ ساعَت خالى شُد
 abgelegen; دور دَست، بَعید
@@ -242,7 +242,7 @@ abgeschlagen;
 - abgeschlagen, erschöpft; خَسته و کوفته
 - abgeschlagen landet er auf Platz 5; دور از پیروز جای ِ پنجُم را گِرِفت
 abgeschlossen (- leben); پُشت ِ تاپویی، چِشم و گوش بَسته
-abgeschmackt (*: fade); بی مَزه
+abgeschmackt (*:fade); بی مَزه
 abgesehen;
 - abgesehen von; جُز اینکه، جُز اَز، صَرفِنَظَر اَز، گُذَشته اَز اینکه
 - von all dem abgesehen; اَز اینها گُذَشته
@@ -492,7 +492,7 @@ Abreibung;
 - jem. eine Abreibung verpassen; حال ِ کِسى را جا آوَردَن، دَماغ ِ کِسى را به خاک مالیدَن، کُتَک زَدَن، مالِش دادَن
 Abreise; حَرَکَت، عَزیمَت، رِحلَت
 abreisen;  .بِراه اُفتادن، حَرَکَت کَردَن، عَزیمَت ک
-abreissen (*: abgerissen);
+abreissen (*:abgerissen);
 - die Mauer abreissen; دیواررا مُنهَدِم کَردَن، ـ شِکَستَن
 abrichten;
 - die Tiere abrichten;  .حِیوان را رام کَردَن، ـ تَربیَت ک
@@ -2782,7 +2782,7 @@ arrogant; مَغرور، با نَخوَت، مُتَکَبِر
 Arroganz; تَکَبُر، تَطاوُل، غُرور، نَخوَت، اِستِکبار، باد و بُروت، تَفرَعُن
 Arsenal; سَلاح خانه، زَرادخانه
 Art;
-- Art, Spezies (*: Sorte); نوع، دَسته
+- Art, Spezies (*:Sorte); نوع، دَسته
 - Art, Stil; اُسلوب، سَبک
 - Art (nur in Zusammensetzungen gebraucht); (ma- ab) مآب
 - auf die europäische Art; فَرهَنگى مآب
@@ -2991,7 +2991,7 @@ auf;
 - das Auf & Ab des Lebens; پَستى و بُلَندى ِ زِندِگى، شیب و فَراز ِ ـ، فَراز و نِشیب ِ ـ
 aufatmen;
 - erleichtert aufatmen; نَفَس بِراحَت کِشیدَن
-aufbahren (*: aufgebahrt); آرامیدَن، دَر تابوت گُذاشتَن
+aufbahren (*:aufgebahrt); آرامیدَن، دَر تابوت گُذاشتَن
 Aufbau;
 - Aufbau des Gedichtes; ساختِمان ِ شِعِر، ساختار ِ شِعر
 - föderalistischer Aufbau; ساختار ِ فِدِرال
@@ -3014,7 +3014,7 @@ Aufbewahrung; اَمانَت، نِگَهدارى، حِفظ
 Aufbewahrungsgegenstand; وَدیعه
 aufbieten;
 - die Polizei bietet alle Kräfte auf; پُلیس مُستَقِر مى شَوَد
-aufblähen (*: aufgebläht); مُنتَفِخ
+aufblähen (*:aufgebläht); مُنتَفِخ
 - s. aufblähen gegenüber; دَماغَش باد دارَد، باد داشتَن
 aufblasen (z.B. Luftballon); باد کَردَن
 - s. aufblasen über; دَم از چیزى زَدَن
@@ -3029,7 +3029,7 @@ aufblühen; گُل دادَن، شُکوفه زَدَن، بَهار کَردَ�
 - das Mädchen ist aufgeblüht; دُختَر ِ ماه ِ شب ِ چَهاردَه، دُختَر ِ تازه بَهار
 - Aufblühen der Wirtschaft; اِقتِصادى رونَق مى گیرَد
 aufbohren;  .سوراخکارى کَردَن، مَته ک
-aufbrauchen (*: aufgebraucht); مَصرَف کَردَن
+aufbrauchen (*:aufgebraucht); مَصرَف کَردَن
 aufbrausen; بَرآشُفتَن، جوش زَدَن
 - aufbrausend; برآشُفته، ناخویشتَن دار، تُند طَبع
 - aufbrausender Mensch; آدَم ِ شوریده دِل
@@ -3103,7 +3103,7 @@ auffallen; دَر دیدرَس ِ مَردُم بودَن
 auffällig; گیرَنده، قابِل ِ تَوَجه
 - diese Sache ist sehr auffällig; این چیز خِیلى اَنگُشت نَما اَست
 Auffassung; دَرک، نَظَر
-- nach Auffassung der ... (*: Meinung); ... ِ به نَظَر
+- nach Auffassung der ... (*:Meinung); ... ِ به نَظَر
 - Rechtsauffassung; نَظَریهٔ حُقوقى
 Auffassungsvermögen; قُوهٔ ذِهن، ـ دَریافت، ـ اِدراک، ـ فَهم، قُدرَت ِ دَراکه
 auffinden; پِیدا کَردَن
@@ -3138,11 +3138,11 @@ Aufgabe;
 - das war meine Aufgabe; این کار با مَن بود
 - das ist nicht meine Aufgabe; عُهده دار ِ این کار نیستَم
 - ihm wurde die Aufgabe übertragen; او بَر سَر ِ کار آمَد
-- Mensch, der mit bestimmter Aufgabe betraut ist (*: Bibliothekar); مُتَصَدى
+- Mensch, der mit bestimmter Aufgabe betraut ist (*:Bibliothekar); مُتَصَدى
 - Geschäftsaufgabe; تَعطیل ِ تِجارَت و شُغل
 Aufgang; نَردِبان، پِله
 - Aufgang der Sonne; خُرشید طُلوع
-aufgebahrt (*: aufbahren); آرامیده
+aufgebahrt (*:aufbahren); آرامیده
 aufgeben;
 - aufgeben (z.B.: ein Ziel); دَست بَردار بودَن، جِلوى ِ کِسى یا کار لُنگ انداختن، از چیزى جا زَدَن، دَست شُستن از چیزى
 - das Rauchen aufgeben; سیگار کِشیدَن را تَرک کَردَن
@@ -3162,7 +3162,7 @@ aufgebracht;
 - über jem. aufgebracht sein; از کِسى دِلگیر بودَن
 - ein aufgebrachter Kunde; مُشتَری ِ سَرگِران
 - aufgebrachte Menge; تودهٔ خَشمگین
-aufgebraucht (*: aufbrauchen);
+aufgebraucht (*:aufbrauchen);
 - der Vorrat ist aufgebraucht; ذَخیره به آخَر رِسید
 - aufgebrauchte Kräfte; قُواى ِ تَحلیل رَفته
 aufgedunsen; تُپُل، تُپُل مُپُل، آماس کَرده، بادالو
@@ -3179,15 +3179,15 @@ aufgelegt;
 - er ist heute gut aufgelegt; او اِمروز سَر ِ حال اَست
 - er ist nicht zum Singen aufgelegt;  او بَراى ِ خواندَن سَر ِ دَماغ نیست
 - aufgelegt sein zum Lesen; حال ِ دَرس خواندَن داشتَن
-aufgelöst (*: auflösen);
+aufgelöst (*:auflösen);
 - aufgelöst werden; مَنسوخ شُدَن
-- er ist ganz aufgelöst (*: durcheinander); او کامِلاً پَریشان اَست
+- er ist ganz aufgelöst (*:durcheinander); او کامِلاً پَریشان اَست
 - Strukturen werden aufgelöst; ساختارها مُضمَحِل مى شَوَند
 - der Verein wird aufgelöst; اَنجُمَن مُنحَل مى شَوَد
-aufgeregt (*: aufregen);
+aufgeregt (*:aufregen);
 - aufgeregte Stimme; صِداى ِ تَقَلا
 - sei nicht aufgeregt; از این کار مُشَوَش نَباش
-aufgerieben (*: aufreiben);
+aufgerieben (*:aufreiben);
 - aufgerieben (Haut); خَراشیده شُده
 - aufgerieben (von Arbeit); کار کِسى را خَسته و مانده کَرد
 - aufgerieben werden (im Kampf); دَمار بَر آمَدَن
@@ -3196,27 +3196,27 @@ aufgeschlossen;
 - aufgeschlossener Mensch; گُشاده رو، شادخوى، روشَن بین
 aufgeschmissen;
 - er ist total aufgeschmissen; او مِثل ِ خَر دَر گِل مى مانَد
-aufgeschoben (*: aufschieben); مُؤَجَل
+aufgeschoben (*:aufschieben); مُؤَجَل
 - aufgeschobene Befriedigung; تَعویق ِ اِرضاء
 - aufgeschoben ist nicht aufgehoben; دَفع اُلوَقت رَفع اُلاَمر نیست
 aufgeschwemmt;
 - ein aufgeschwemmter Körper; بَدَن ِ باد کَرده، ـ وَرَم کَرده
 aufgetakelt;
 - aufgetakelte Person; شَخص ِ هَرهَفت کرده
-aufgetischt (*: auftischen);
+aufgetischt (*:auftischen);
 - das Essen ist aufgetischt; غَذا حاضِر اَست
 - das Essen muss ordentlich aufgetischt werden; سُفره باید دَقیق گُستَرده شَوَد
 aufgeweckt;
 - aufgeweckter Bursche; آدَم ِ چَست و چالاک
-aufgeweicht (*: aufweichen); خیس خورده
-aufgewühlt (*: aufwühlen);
+aufgeweicht (*:aufweichen); خیس خورده
+aufgewühlt (*:aufwühlen);
 - das Meer war aufgewühlt; دَریا ضَربه زَده بود
 aufgreifen;
 - jem. aufgreifen; کِسى را دَستگیر کَردَن
 - das Thema aufgreifen; مَطلَب را بَر گِرِفتَن، ـ اِنتِخاب کَردَن
 - eine Sache aufgreifen; پُشتِ چیزی را گِرِفتَن، پِی گیری کَردَن
 aufgrund;
-- jem. berichtet aufgrund (*: auf Grund) von; کِسى به نَقل از مَنابِع ِ کِسى دیگَر خَبَر داد
+- jem. berichtet aufgrund (*:auf Grund) von; کِسى به نَقل از مَنابِع ِ کِسى دیگَر خَبَر داد
 Aufguss; عُصاره اَدویه، ـ نَباتات
 aufhalsen;
 - jem. das Problem aufhalsen;  .مُشکِلى را بَر دوش ِ کِسى گُذاشتَن، ـ به کول ِ کِسى گ
@@ -3294,7 +3294,7 @@ Aufklärung; پِى گَردى، روشَنگَرى
 Aufklärungstrupp; طَلایه
 Aufkleber; چَسب
 aufknoten; گِره را باز کَردَن
-aufknüpfen (*: aufhängen);
+aufknüpfen (*:aufhängen);
 - aufgeknüpft; دِلَنگون، آویزان
 aufkommen;
 - du musst dafür aufkommen; پولِش پاى ِ توست
@@ -3328,7 +3328,7 @@ auflodern; گُر گِرِفتَن
 - der Zorn lodert auf; آتَش ِ خَشم زَبانه مى کِشَد
 - beim geringsten Hauch auflodern; به اَندَک ِ نَسیمى بَر اَفروختَن
 Auflösbarkeit; قابِلیَت ِ اِنحِلال
-auflösen (*: aufgelöst);
+auflösen (*:aufgelöst);
 - etwas in Luft auflösen; چیزى را بَر باد دادَن
 - s. in Luft auflösen; آب شُدَن و به زَمین رَفتَن، دود شُدَن و رَفتَن
 - s. in nichts auflösen; باد ِ هَوا شُدَن
@@ -3408,7 +3408,7 @@ aufnehmen;
 - den Weg nach Hause aufnehmen; راه ِ خانهٔ خودرا پیش گِرِفتَن
 aufnötigen;
 - jem. etwas aufnötigen; به خورد ِ کِسى دادَن
-aufoktruiert (*: aufzwingen); زورَکى
+aufoktruiert (*:aufzwingen); زورَکى
 aufopfern (s. -); جان فِشانی کَردَن
 aufopfernd; جان نِثار، جان سِپار
 Aufopferung; فَداکارى، جان نِثارى
@@ -3458,7 +3458,7 @@ aufrechterhalten; نِگَهداشتَن، حِفظ کَردَن
 - das Gesetz aufrechterhalten; قانون را اِبقاء کَردَن
 - die Ordnung aufrechterhalten; نَظم را حِفظ کَردَن
 Aufrechterhaltung; نِگهدارى، مُحافِظَت، حِفظ
-aufregen (*: aufgeregt);
+aufregen (*:aufgeregt);
 - s. aufregen; به هِیَجان اُفتادَن، جُفت و تیز کَردَن، دَست پاچه شُدَن، خون ِ کِسى بِجوش مى آیَد، به قَلَیان اُفتادَن
 - reg dich nicht auf!; ناراحَت نَشو، جوش نَزَن
 - seine Stimme regt ihn auf; صِدایَش اورا کَلافه مى کُنَد
@@ -3532,7 +3532,7 @@ aufscheuern; خَراشیدَن
 - aufgescheuert; خَراشیده شُده
 aufschiebbar;
 - aufgrund von nicht aufschiebbaren Erfordernissen; بَر اَساس ِ نیازهاى ِ تَعویق ناپَذیر
-aufschieben (*: aufgeschoben);
+aufschieben (*:aufgeschoben);
 - aufschieben, auf den nächsten Tag; به روز ِ دیگَر موکول کَردَن
 - eine Angelegenheit aufschieben; چیزى را تَعویق کَردَن
 - auf ein anderes Mal aufschieben; به وَقت ِ دیگَر مَحوَل کَردَن، به عَقَب اَنداختَن
@@ -3561,7 +3561,7 @@ Aufschluss;
 - von jem. Aufschluss gewinnen; ... ِ از کِسى اِستِعلام کَردَن دَر باب
 aufschlussreich; اِطِلاع بَخش
 aufschneiden;
-- aufschneiden (*: prahlen); لاف زَدَن، گُزاف گُفتَن
+- aufschneiden (*:prahlen); لاف زَدَن، گُزاف گُفتَن
 - Brot aufschneiden; نان را قاش کَردَن
 Aufschneider; خِشتمال، لاف زن، رَجَزخوان
 aufschrecken; کِسى را تَرساندَن، مُتَوَحِش کَردَن
@@ -3597,8 +3597,8 @@ Aufsichtsführender; سَرپَرَست، ناظِر
 Aufsichtsperson; آقا ناظِم
 Aufsichtsrat; شوراى ِ نِظارَت
 aufsitzen; سَوار شُدَن
-- aufsitzen (*: betrogen werden); سَر ِ کِسی کُلاه گُذاشتَن
-- aufsitzen (*: Opfer); کِسی دَستخوش ِ چیزی است
+- aufsitzen (*:betrogen werden); سَر ِ کِسی کُلاه گُذاشتَن
+- aufsitzen (*:Opfer); کِسی دَستخوش ِ چیزی است
 - vielleicht seid ihr einer Verwechslung aufgesessen; شایَد عَوَضى دیده باشید
 - wem bist du denn da aufgesessen?; این دیگَر چه حُقه ای است که سَوار کَردی؟
 aufspalten; مُنشَعِب کَردَن
@@ -3621,7 +3621,7 @@ aufstacheln; تَحریک کَردَن، بَر اَندیختَن
 Aufstachelung; تَطمیع، تَحریک
 aufstampfen (mit den Füssen) ; با پاها کوبیدَن
 Aufstand; عُصیان، شورِش
-- Aufstand inszenieren (*: Meuterei); جار و جَنجال را به راه اَنداختَن، سَر به شورِش گُذاشتُن
+- Aufstand inszenieren (*:Meuterei); جار و جَنجال را به راه اَنداختَن، سَر به شورِش گُذاشتُن
 - gegen jem. einen Aufstand proben; ضِد ِ کِسى شورِش کَردَن
 - s. zum Aufstand erheben; لِواى ِ عُصیان اَفراشتَن
 Aufständischer;  عُصیانگَر، فِساد کار، سَرکِش، یاغى، غوغاسالار
@@ -3651,7 +3651,7 @@ Aufstellung;
 - Aufstellung von Ampeln; ساماندَهى ِ چِراغها
 - grundsätzliche Aufstellung (be- z- zāt); اِستِقرار ِ بِالذات
 Aufstieg; صُعود
-- am Aufstieg einer Person beteiligt sein (*: Karriere); دَر اِعتِلاى ِ کِسى کارى کَردَن، دَر تَرَقى ِ ـ
+- am Aufstieg einer Person beteiligt sein (*:Karriere); دَر اِعتِلاى ِ کِسى کارى کَردَن، دَر تَرَقى ِ ـ
 aufstöbern; آب به سوراخ مورچه ریخته شُدَن، غوغا و اجتماعی ناگِهانی پِیدا آمَدَن
 aufstossen; آروغ زَدَن
 - jemandem aufstossen, missfallen; به کِسى بَدِش مى آیَد
@@ -3821,7 +3821,7 @@ Auge; چِشم
 - die Hand vor den Augen nicht sehen; چِشم چِشم را نِمى بینَد
 - ins Auge fallen; به چِشم اُفتادَن
 - die Augen weit aufreissen; چِشمها چَهار تا شُدَن
-- ein Auge zudrücken (*: Nachsicht); چِشم پوشیدَن
+- ein Auge zudrücken (*:Nachsicht); چِشم پوشیدَن
 - die Augen sieht man, das Herz liest man; چِشمِش را بِبين دِلِش را بِخوان
 - Die Menschen werden gesund, wenn sie mit den Augen des Herzens sehen, nicht mit Augen aus Glas und Stahl; عِلاج ِ بَشَر دیدهٔ باطِن اَست، نَه چِشمى که از شیشه و آهَن اَست
 - Glotzauge; چِشم وَر قُلُنبیده
@@ -3846,7 +3846,7 @@ Augenblick;
 - die Kinder wachsen jeden Augenblick ein Stück; بَچه ها که دَمى از رُشد باز نِمى ایستَند
 - die Frau, die s. keinen Augenblick von der Wascherei zurückziehen kann; زَنى که دَمى از رَختشوئى نِمى آسایَد
 augenblicklich; آناً، فورى، فى اُلفور، فى اُلحال، دَر جا
-- augenblickliche Eingebung (*: schlagartig); اِلهام ِ آنى
+- augenblickliche Eingebung (*:schlagartig); اِلهام ِ آنى
 - augenblicklicher Kurs; نِرخ ِ موجود، ـ فِعلى
 Augenbraue; اَبرو
 - Stelle über der Augenbraue; جائى ِ فَراز ِ اَبرو
@@ -3952,7 +3952,7 @@ Ausdauer; مُداوَمَت، پایداری
 ausdehnen;
 - unnötig ausdehnen, in die Länge ziehen; لِفت دادَن
 - das dehnt s. sehr aus; خِیلى طولانى مى شَوَد
-- das Wissen dehnt seine Grenzen aus (*: erweitern); دانِش با حُدود و حَواشى پیش مى رَوَد
+- das Wissen dehnt seine Grenzen aus (*:erweitern); دانِش با حُدود و حَواشى پیش مى رَوَد
 - ausgedehnt; پَهناوَر، وَسیع
 - sein ausgedehnter Schatten; سایهٔ پَت و پَهن ِ او
 Ausdehnung;
@@ -3965,7 +3965,7 @@ ausdenken;
 - s. eine Geschichte ausdenken; داستانى ساختَن
 - s. Lügen ausdenken; دُروغ بافى کَردَن
 ausdienen;
-- ausgedient (*: abgenutzt); مَنسوخ شُده، فَرسوده
+- ausgedient (*:abgenutzt); مَنسوخ شُده، فَرسوده
 Ausdruck; (plur.) اِصطِلاح، لَفظ (اَلفاظ)، لُغَت (لُغات)، بیان
 - Ausdruck der Dankbarkeit; اِظهار ِ اِمتِنان
 - etwas zum Ausdruck bringen; چیزى را به تَعریف آوَردَن، ـ بَراى ِ ... اِعلام کَردَن
@@ -4062,7 +4062,7 @@ ausführen; ایفاء کَردَن، بِجا آوَردَن، به مَرَح�
 - seinen Plan ausführen; تَدبیر ِ خودرا بِجا آوَردَن
 - das muss man ausführen; این لازِم اُلاِجرا اَست
 - ich führte seine Bestellung aus; سِفارِشِش را اِجرا کَردَم
-- wird durch den Scharfrichter ausgeführt (*: vollstrecken); دَست ِ جَلاد اَنجام خواهَد گِرِفت
+- wird durch den Scharfrichter ausgeführt (*:vollstrecken); دَست ِ جَلاد اَنجام خواهَد گِرِفت
 - der Plan ist von jem. ausgeführt worden; بَرنامه تَوَسُط ِ فِلان اَنجام گِرِفت
 ausführlich; طول و تَفصیل، مُفَصَل، بَر وَجه ِ تَفصیل
 - ausführliche Beschreibung ist in ...; شَرح ِ مَبسوط دَر ... اَست، ـ مُفَصَل ـ
@@ -4155,7 +4155,7 @@ ausgestorben; مَتروک، مُنقَرِض
 - ausgestorbene Lebewesen; جانداران ِ مَعدوم
 ausgestossen; مَردود، مَطرود
 ausgewogen; مُتَعادِل، موزون
-Ausgewogenheit (*: Balance);
+Ausgewogenheit (*:Balance);
 - Ausgewogenheit zwischen Einnahmen & Ausgaben; تَکافو بین دَهل و خَرج
 ausgezehrt; لَهیده، وامانده، نَحیف
 ausgezeichnet;
@@ -4312,7 +4312,7 @@ ausloten;
 ausmachen;
 - Licht ausmachen; چِراغ را خاموش کَردَن
 - ein Treffen ausmachen; مُلاقات گُذاشتَن
-- wenn es Ihnen nichts ausmacht (*: Problem); اَگَر کِیکِتان هَم نِمی گَزَد 
+- wenn es Ihnen nichts ausmacht (*:Problem); اَگَر کِیکِتان هَم نِمی گَزَد
 Ausmaß; اَندازه
 - das genaue Ausmaß des Schadens; میزان ِ دَقیق ِ خِسارات
 - als ... grössere Ausmaße annahm; وَقتیکه دامَنه ... بِتوسِعِه نَهاد، ـ بالا گِرِفت
@@ -4462,7 +4462,7 @@ ausschließen;
 - ausschließen (Gegensatz bilden); با هَم مُنافات داشتَن
 - jem. ausschließen;  .کِسى را اِخراج کَردَن، ـ طَرد ک
 - andere ausschließen; دوررا از دَست ِ هَمه گِرِفتَن، یِکه تازى کَردَن
-- einander ausschließend (*: Ausschließung); مُتَنافى
+- einander ausschließend (*:Ausschließung); مُتَنافى
 - ausgeschlossen!; غِیر ِ مُمکِن، اَبَداً
 ausschließlich; مَحدود به، مُنحَصِر به، بِطور اِنحِصار
 Ausschließung (Logik); تَنافى
@@ -4501,7 +4501,7 @@ Ausschweifung; لَوَندى، فُجور، شَهوَترانى، رِندى،
 ausschwitzen;  .تَراوُش کَردَن، تَرَشُح ک
 - Ausschwitzung; تَرَشُحات
 aussehen;
-- armselig aussehen (*: erscheinen); کِسى تا حَد ِ شِش دَر چَهار کوچِک مى شَوَد
+- armselig aussehen (*:erscheinen); کِسى تا حَد ِ شِش دَر چَهار کوچِک مى شَوَد
 - um gut auszusehen; تا خوش مَنظَره باشَد
 - dass es aussieht, als ob ...; ... ِ که اِنگار
 - wie der ... aussieht; که ... چه مَنظَرى به خود مى گیرَد
@@ -4590,7 +4590,7 @@ aussetzen;
 - die Strafe aussetzen; مُجازات را تَعَلیق کَردَن، ـ مُعَلَق کَردَن
 - die Arbeit aussetzen; کاررا موقوف کَردَن
 - einen Streik aussetzen;  .اِعتِصابى را بِبَعد موکول کَردَن، ـ تَعلیق ک
-- an jem. etwas aussetzen (*: kritisieren); کِسى را اِنتِقاد کَردَن
+- an jem. etwas aussetzen (*:kritisieren); کِسى را اِنتِقاد کَردَن
 - an diesem Punkt etwas aussetzen; از این نُکته خُرده گِرِفتَن
 - jem. einer Sache aussetzen; کِسى را به مَعَرَض ِ چیزى گُذاشتَن
 - s. grosser Gefahr aussetzen wegen ...; بَراى ِ ... مُخاطِرات را بِجان خَریدَن
@@ -4751,7 +4751,7 @@ Ausweg; راه ِ گُریز
 - keinen Ausweg mehr wissen; به سیم ِ آخَر رِسیدَن، دَرمانده شُدَن
 - er sah keinen anderen Ausweg, als ...; او چاره اى نَدید جُز آنکه
 ausweichen;
-- einem Thema ausweichen (*: s. drücken vor); گُریز، بِنَرمى از ... گُذشتَن
+- einem Thema ausweichen (*:s. drücken vor); گُریز، بِنَرمى از ... گُذشتَن
 - den Feierlichkeiten ausweichen; تَشریفات ِ عِید را پُشت ِ گوش اَنداختَن
 - er weicht dem Schlag aus; از زیر ِ ضَربه جا خالى مى دَهَد، از ضَربه مى گُذَرَد
 - ausweichende Antwort geben; جَواب ِ طُفره آمیز دادَن

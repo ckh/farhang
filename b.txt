@@ -632,7 +632,7 @@ Begehung;
 - Flurbegehung; طَواف ِ مَزارِع
 begeistern;
 - s. begeistern; شیفتهٔ چیزى بودَن
-- die Zuhörer begeistern (*: faszinieren); شِنَوَندِگان را دِلگَرم ساختَن، ـ شیفته کَردَن
+- die Zuhörer begeistern (*:faszinieren); شِنَوَندِگان را دِلگَرم ساختَن، ـ شیفته کَردَن
 - der Redner konnte nicht begeistern; سُخَنران نِمیتَوانِست آنهارا سَر ِ ذوق بیاوَرَد
 begeistert; مَجذوب، شَعَف بار
 - begeisterter Empfang; اِستِقبال ِ گَرم
@@ -820,7 +820,7 @@ bei;
 - bei meiner Begegnung; دَر خَلال ِ مُلاقات
 - sie saßen bei der Lampe; آنها نِشَستَند پاى ِ چِراغ
 - bei den Regierungen etwas auslösen; دَر اَذهان ِ دولَتها چیزى را زِنده کَردَن
-- bei dem *: beim;
+- bei dem (*:beim);
 Beibehaltung; اِبقاء، حِفظ
 - Beibehaltung der Staatsangehörigkeit; حِفظ ِ تابِعيَت
 beibringen;
@@ -1095,7 +1095,7 @@ Belobigung; تَحسین
 belohnen; به مُکافات رِساندن، اَجر دادَن
 - jem. für seine Mühe belohnen; زَحمَت ِ کِسى را تَلافى کَردَن
 - belohnt werden; به مُکافات رِسیدَن، اَجر گِرِفتَن
-Belohnung (*: Lohn); اِنعام، اَجر، مُکافات، پاداش، مُشتلُق
+Belohnung (*:Lohn); اِنعام، اَجر، مُکافات، پاداش، مُشتلُق
 - Belohnungs - Bestrafungs - Mechanismus; مِکانیزم ِ پاداش و تَنبیه
 belüften; هَوا دادَن، تَهویه کَردَن
 Belüftung; تَهویه
@@ -1423,7 +1423,7 @@ beschaulich; تَفَکُر آمیز، تَماشادوست، سِیردوست
 - beschaulicher Mensch; اَهل ِ تَفَکُر
 Beschaulichkeit; تَعمُق
 Bescheid; جَواب، پِیغام، اِطلاع، خَبَر
-- Bescheid geben (*: benachrichtigen); خَبَر کَردَن به کِسى، ـ دادَن به کِسى
+- Bescheid geben (*:benachrichtigen); خَبَر کَردَن به کِسى، ـ دادَن به کِسى
 - Bescheid wissen; دَر چیزى تَبَحُر داشتَن، ـ خِبره بودَن، سابِقه داشتَن به چیزى، خَبَر داشتَن
 bescheiden; مَحجوب
 - s. bescheiden; قَناعَت کَردَن، قانِع بودَن
@@ -1630,14 +1630,14 @@ besorgen; تَهیه کَردَن، مُهَیا کَردَن
 besorgt; دَغدَغه خاطِر، نِگَران، مُضطَرِب، دِل واپَس
 - besorgt sein, dass ...; مَرارَت کِشیدَن که
 bespannen;
-- den Stuhl bespannen ( *: beziehen); صَندَلى را پوشاندَن
+- den Stuhl bespannen (*:beziehen); صَندَلى را پوشاندَن
 - Geige mit Saiten bespannen; ویلون را سیم اَنداختَن
 Besprechung; مُذاکِرات
 - Buchbesprechung; نَقد ِ اَدَبى
 besprengen; آب پاشی کَردَن
 - Wäsche besprengen; لِباس را نَم زَدَن
 bespritzen; شِتَک زَدَن، لَکه دار کَردَن
-besser (*: best);
+besser (*:best);
 - umso besser; چه بِهتَر
 - umso besser für mich; بِهتَر ِ مَن
 - umso besser für Sie!; مُفت ِ شُما
@@ -1706,7 +1706,7 @@ Bestäubung; گَرد اَفشانى
 bestechen; سِبیل ِ کِسى را چَرب کَردَن، رِشوه دادَن به کِسى
 - bestochen; مُرتَشى
 bestechlich; رِشوه خوار، آجیل خور، آبِستَن ِ کِسی بودَن
-Bestechlichkeit (*: Korruption); اِرتِشاء، رِشوه خورى، مُفت خورى
+Bestechlichkeit (*:Korruption); اِرتِشاء، رِشوه خورى، مُفت خورى
 Bestechung; رِشوه، آجیل
 Besteck; کارد و چَنگال و قاشُق
 bestehen; موجود بودَن، وجود داشتَن
@@ -1832,7 +1832,7 @@ Betäubungsmittel; داروی ِ بی هوشی
 Bete (- Rote); لَبو
 beteiligen; شِرکَت کَردَن
 - jem. an etwas beteiligen; شِرکَت دادَن ِ کِسى دَر این اَمر
-- s. am Verbrechen beteiligen (*: mitmachen); دَست به جِنايَت زَدَن
+- s. am Verbrechen beteiligen (*:mitmachen); دَست به جِنايَت زَدَن
 - beteiligt am ...; شَریک دَر
 - mit diesem Anteil wurden sie am Profit beteiligt; بِهَمین نِسبَت دَر سود ِ آن شَریک شُدَند
 - ... ist nicht an dem Programm beteiligt;  دَر بَرگُزاری این سِمینار نَقشی نَدارَد
@@ -1936,7 +1936,7 @@ betrübt; مَغموم
 - betrübt sein; غُصه خورده، مَحزون شُده، مِحنَت زَده
 - das machte mich betrübt; دِلَم را ریش کَرده
 - betrübte Augen; چِشمهاى ِ غَم گِرِفته
-Betrug; (*: List) اِغفال، تَرفَند، مُخاتِله، کِریس، تَقَلُب، گول، فَریب
+Betrug; (*:List) اِغفال، تَرفَند، مُخاتِله، کِریس، تَقَلُب، گول، فَریب
 betrügen; فِریفتَن، مُخاتله وَرزیدَن، گول زَدَن، پا زَدَن، فَریب دادَن، غِش کَردَن، سَر ِ کِسى کُلاه گُذاشتَن، از راه به دَر بُردَن، بامبول زَدَن
 - damit man ihn nicht betrügen würde; تا مَبادا کُلاه سَرِش رَفته باشَد
 - betrogen (im Preis); مَغبون شُده
@@ -1975,7 +1975,7 @@ Bettelstab;
 betten;
 - wie man s. bettet, so liegt man; هَر قِسم شَخص بَستَر ِ خودرا آماده کُنَد هَمان قِسم میخوابَد، هَر چِقَدر پول بِدَهى آش میخورى
 Bettkante; بَر لَبهٔ تَختِخواب
-bettlägerig (*: pflegebedürftig); آدَم ِ بَستَری
+bettlägerig (*:pflegebedürftig); آدَم ِ بَستَری
 Bettler; گِدا، فَقیر
 - Bettler dürfen nicht wählerisch sein; مُفتى و صَرافى
 Bettnässer; شاشو
@@ -2221,7 +2221,7 @@ Bezahlung; پَرداخت
 - ohne Bezahlung; مُفت، بى پول
 - Vorausbezahlung; تَنخواه، پیش پَرداخت
 bezähmen;
-- wir können ihn kaum bezähmen (*: zähmen); بِزور جِلويَش را مى گیریم
+- wir können ihn kaum bezähmen (*:zähmen); بِزور جِلويَش را مى گیریم
 bezaubern (jem. -); کِسى را نیرَنگ زَدَن، تَوَجُه کِسى را به چیزى سوق دادَن
 - bezaubernde Augen; چِشمهاى ِ فَتان
 bezecht; عَیاش ِ مَست
@@ -2264,11 +2264,11 @@ Beziehung; نِسبَت، اِرتِباط، مُدارا ، رابِطه، سَ
 - angespannte Beziehung; تیرِگی ِ رَوابِط
 - diplomatische Beziehungen; مُراوِدهٔ دیپلُماسى
 Beziehungsgefüge; ساختار ِ رَوابِط
-beziehungslos (*: unzusammenhängend); بی سَر و تَه
+beziehungslos (*:unzusammenhängend); بی سَر و تَه
 beziehungsweise;
 - der Mann & die Frau gingen nach Hause, beziehungsweise ins Geschäft; يَعنى مَرد و زَن این يِِکى به فُروشگاه و آن يِکى به مَنزِل رَفت
 beziffern; شُماره گُذارى کَردَن
-Bezirk (*: Bereich); (pl.)  (ناحیه (نَواحى
+Bezirk (*:Bereich); (pl.)  (ناحیه (نَواحى
 - Wohnbezirk; مَنطَقهٔ مَسکونى
 Bezirksamt; دَفتَر ِ ناحیه
 bezogen;
@@ -2328,7 +2328,7 @@ Bier; آبِجو
 - dunkles Bier; آبِجوى ِ تیره
 - helles Bier; آبِجوى ِ زَرد
 bieten;
-- jem. etwas bieten (*: geboten); چیزى را به کِسى تَقدیم کَردَن، ـ پیشنَهادک
+- jem. etwas bieten (*:geboten); چیزى را به کِسى تَقدیم کَردَن، ـ پیشنَهادک
 - was bieten Sie?; پیشنَهادتان چِقَدر اَست؟
 - das bietet s. an; شانس آورَدیم، شانسِمان آمَد، فُرصَت پيِدا کَردیم
 - jem. die Stirn bieten; دَر مُقابِل ِ کِسى پُر روئى کَردَن
@@ -2395,7 +2395,7 @@ Billigung;
 - mit Ihrer Billigung; با صَواب ِ شُما، صَواب ِ دید ِ شُما
 bimetallisch; دو فِلِزى
 Bimsstein; سَنگ ِ پا
-bin; (*: sein)
+bin; (*:sein)
 - ich bin Schüler; مَن شاگِرد هَستَم
 - du bist wie ich (z.B.: im Verhalten); حال ِ مَن را داری
 binär; دواَرزِشى، دونَمادى
@@ -2452,7 +2452,7 @@ Biss; گیرائى، گاز، گَزِش
 - einen festen Biß machen; يِک گاز ِ مُحکَم به ... زَدَن
 - sein Artikel hat Biss; مَقالهٔ او گیرائى دارَد
 bisschen;
-- ein bisschen (*: wenig); مِقدارى، قَدرى، کَمى، اَندَک
+- ein bisschen (*:wenig); مِقدارى، قَدرى، کَمى، اَندَک
 - ein bisschen auch von ...; شَمه اى هَم از
 - ein bisschen Geld; يِک پولى
 - ein bisschen Salz; قَدرى نَمَک
@@ -2479,7 +2479,7 @@ Bitte; خواهِش، تَمَنا، اِلتِماس
 - dringende Bitte äussern; اِلحاح کَردَن
 - Bitte erfüllt bekommen; حاجَت گِرِفتَن
 - sie bringen ihre Bitten vor Gott; آنها از خُدا مَسئلَت می کُنَند
-bitten (*: gebeten); اِستِغاثه کَردَن، تَقاضا ک.، خواهِش ک.، تَمَنا داشتَن
+bitten (*:gebeten); اِستِغاثه کَردَن، تَقاضا ک.، خواهِش ک.، تَمَنا داشتَن
 - um etwas bitten; حاجَت طَلَبیدَن
 - inständig bitten;  .عَجز و لابه کَردَن، اِلحاح ک
 - ich bitte Sie inständig!; دَستَم به دامَنِت
@@ -2504,7 +2504,7 @@ bitterkalt;
 - es ist bitterkalt; بِسیار سَرد اَست
 Bitterkeit; عَبوسى، تَلخى، مَرارَت
 bitterlich;
-- er weint bitterlich (*: herzzerreissend); زارزار گِریه می کُنَد
+- er weint bitterlich (*:herzzerreissend); زارزار گِریه می کُنَد
 Bittgang; زیارَت
 Bittgesuch; دَرخواست، تَقاضا، عَریضه
 Bittsteller; مَدَدخواه، خواهِش کُنَنده، عارِض
@@ -2702,7 +2702,7 @@ blockieren;  .سَد کَردَن ِ چیزى، بَند آوَردَن، مَس
 Blockierung (psychol.); گِرِفتِگى، قَطع
 - gedankliche Blockierung;  اِنسِداد ِ فِکرى، گِرِفتِگى ِ ـ
 Blödsinn;  مُزَخرَفات، سیاه بازى، مَهمَل، یاوه
-- Lass den Blödsinn (*: Quatsch); دیگَر قَرار نَبود شوخى کُنیم
+- Lass den Blödsinn (*:Quatsch); دیگَر قَرار نَبود شوخى کُنیم
 - mach keinen Blödsinn; خُل خُل بازی دَر نَیار
 blödsinnig; مُزَخرَف، بى پایه
 blöken; بَغ بَغ کَردَن
@@ -3293,7 +3293,7 @@ Büchsenöffner; قوطى باز کُن
 Buchstabe; (pl.) حَرف (حُروف)، هِجاء
 - Buchstabe & Geist des Gesetzes; نَص و روح ِ قانون
 - setz dich auf deine 4 Buchstaben; بِتَمَرگ سَر ِ حَیات، تَمَرگیدَن
-Buchstabenattribute (z.B.: fett) (*: Computer);  (خُصوصیات ِ حُروف (حُروف ضَخیم
+Buchstabenattribute (z.B.: fett) (*:Computer);  (خُصوصیات ِ حُروف (حُروف ضَخیم
 buchstabieren; هِجى کَردَن
 - wie buchstabierst du dieses Wort?; این کَلَمه را چِطور مى نِویسى؟
 buchstäblich; تَحت اُللَفظى

@@ -475,8 +475,8 @@ Isolierschicht; روکِش ِ عاِیق
 Isolierzelle; حُجرهٔ اِنفِرادى
 Isomerie; هَم تَرکیبى
 isometrisch (literat.); هَموَزنى
-ist (*: sein, bin, war);
-- er ist Schüler (*: befinden); او شاگِرد است
+ist (*:sein, bin, war);
+- er ist Schüler (*:befinden); او شاگِرد است
 - es ist, wie es ist; این است که هَست
 - jem. ist (als Anhängung von z.B. Fundamentalist); (گِرا (مَثَلاً: بُنیان گِرا
 - was ist, ist; چيزی که شُده پاره وَصله بَر نِمی داره

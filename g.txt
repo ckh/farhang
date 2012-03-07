@@ -361,7 +361,7 @@ gedeihen; .رُشد کَردَن، پیشرَفت ک
 - ... sind noch nicht weiter gediehen; از ... فَراتَر نَرَفته است
 - gedeihend (Pflanze); رویا
 gedemütigt; مُتَذَلِل، مُتَواضِع شُده، تو سَرى خورده
-- gedemütigt werden (*: demütigen); مَذَلَت دیدَن
+- gedemütigt werden (*:demütigen); مَذَلَت دیدَن
 gedenken;
 - gedenke der ...; به چیزى نَظَر فَرما
 - einer Sache gedenken; چیزى را به یاد آوَردَن، چیزى را یاد کَردَن، ـ بِخاطِر داشتَن
@@ -735,7 +735,7 @@ gelackmeiert; فَریب خورده
 - war ich gelackmeiert; مَن صِفر شُدَم
 geladen; دَعوَت شُده
 - ein geladener Gast; مِهمان ِ مَدعُو
-- ich bin vielleicht geladen; *: Wut
+- ich bin vielleicht geladen (*:Wut);
 Gelage; بَزم، عِیش و نوش، عِیاشى
 gelähmt; اِفلیج، مَفلوج
 - wie gelähmt; اِفلیچ وار
@@ -756,7 +756,7 @@ gelassen (Mensch); آدَم ِ دیر غَضَب، ـ طَبع نَواز، ـ �
 - total gelassen sein; آب توی ِ دِل ِ کِسی تَکان نَخوردَن
 Gelassenheit; صَفا، آرامِش، خونسَردى
 Gelatine; ژِلاتین
-gelaufen (*: laufen);
+gelaufen (*:laufen);
 - das ist gelaufen; کار از کار گُذَشته
 geläufig; رَوان، به رَوانى، مَعمول
 gelaunt;
@@ -811,7 +811,7 @@ Gelee; ژِله
 gelegen;
 - das kommt mir sehr gelegen; این خِیلى به موقِع است، ـ بِجاست
 Gelegenheit; اُکازیون، فُرضَت
-- günstige Gelegenheit ergreifen (*: Chance); اِنتِهاز ِ فُرصَت کَردَن، وَقت را غَنیمَت شُمُردَن
+- günstige Gelegenheit ergreifen (*:Chance); اِنتِهاز ِ فُرصَت کَردَن، وَقت را غَنیمَت شُمُردَن
 - die Gelegenheit nutzen; فُرصَت را مُغتَنَم شُمُردَن
 - aus jeder Gelegenheit Geld machen; پول از جوی  ِ آب دَر آوَردَن
 - wenn s. die Gelegenheit ergibt; پایَش بیُفتَد، اگر مُناسِب باشد، اگر حالا تاکَش به کِشِش مى خورَد
@@ -1105,13 +1105,13 @@ Gerede; حَرف
 gereichen;
 - jem. zum Ruhm gereichen; به کِسى اِفتِخار کَردَن
 gereinigt; مُطَهِر، پاک شُده
-- gereinigt werden (*: reinigen);  .غُسل یافتَن، طاهِر شُدَن، پاک ش
+- gereinigt werden (*:reinigen);  .غُسل یافتَن، طاهِر شُدَن، پاک ش
 gereizt; دِلپُر، باجِر
 Gereiztheit; اِنفِعال، اِنزِجار
 - Gereiztheit zum Ausdruck bringen; جِر زَدَن
 - mit Ausdruck von Gereiztheit; با اِبراز ِ اِنزِجار
 gereuen; پَشیمان شُدَن
-- s. des Übels gereuen (*: reuen); از بَلا پَشیمان شُدَن
+- s. des Übels gereuen (*:reuen); از بَلا پَشیمان شُدَن
 Gericht; دادگاه، عَدلیه
 gerichtlich;
 - gerichtlich gegen jem. vorgehen; به حُکم ِ مُحکِمه دَر کار ِ کِسى مُداخِله کَردَن
@@ -1245,7 +1245,7 @@ geschickt; با اُستادى، ماهِر، زِبَردَست، فِرز، ح
 - geschickt klettert er den Baum hoch; تیز و بُز از دِرَخت رَفت بالا
 - geschickte Leitung; راهنَمائى ِ داهیانه
 Geschiebe;
-- es war ein derartiges Geschiebe (*: Gedränge); چِنان اِزدِحامى به راه اُفتاده بود
+- es war ein derartiges Geschiebe (*:Gedränge); چِنان اِزدِحامى به راه اُفتاده بود
 Geschimpfe; توپ و تَشَر
 Geschirr; (plur.) (ظَرف (ظُروف
 - Fayencegeschirr; ظُروف ِ بَدَل چینى
@@ -1451,7 +1451,7 @@ gestärkt; مُقتَدِر
 gestatten; رَوا داشتَن، اجازه دادَن، قائِل شُدَن
 - eine Ausnahme gestatten; اِستِثنائى قائِل شُدَن
 gestattet;
-- gestattet sein (*: legitim); رَوا بودَن
+- gestattet sein (*:legitim); رَوا بودَن
 Geste;
 - mit grosszügiger Geste; با دَست و دِلبازى
 - mit grossartigen Gesten s. frei machen von ...; چیزى را با توجیهات ِ عاطِفى از سَر باز کَردَن
@@ -1501,7 +1501,7 @@ Getreide; غَلات، غَله
 Getreidehändler; غَله فُروش
 Getreidespeicher; مُستَغَلات
 getrennt;
-- gibt es getrennt von Gott ..? (*: trennen); آیا جُدا از خُدا ...؟، بِجُدائى از خُدا ...؟
+- gibt es getrennt von Gott ..? (*:trennen); آیا جُدا از خُدا ...؟، بِجُدائى از خُدا ...؟
 - getrennte Kasse; مَخارِجِشان سَواست
 - in getrennten Buchstaben; به تَفکیک ِِ حُروف
 Getriebe; جَو ِ دَنده ، چَرخ ِ دَنده، گیربُکس
@@ -1575,14 +1575,14 @@ Gewichteinheit (300 kg); خَروار
 Gewichtheber; وَزنه بَردار
 Gewichtigkeit (einer Person); وَقار، اَهَمیَت
 gewieft;
-- gewiefter Typ (*: schlau); آدَم ِ پُخته
+- gewiefter Typ (*:schlau); آدَم ِ پُخته
 Gewieher; عَرعَر، شَهیق
 Gewimmel; اِزدِحام، شُلوغ
 Gewinde; شیار ِ پیچ
 gewindebohren; قُلاویز زَدَن، پیچ دار کَردَن
 Gewindeschneiden; پیچ بُرى
 Gewinn; مَنَفعَت، بَهره وَرى، بَهره مَندى، رِبح
-- Gewinn erzielen (*: Profit); نَفع کَردَن، مَنفَعَت ک.، سود بُردَن
+- Gewinn erzielen (*:Profit); نَفع کَردَن، مَنفَعَت ک.، سود بُردَن
 - die Industrie ist dabei, Gewinn zu erzielen; صَنَعت به مَرحَلهٔ بَهره بَردارى رِسید
 - Nettogewinn; سود ِ ویژه، ـ خالِص
 - Spielgewinn; بُرد
@@ -1615,7 +1615,7 @@ Gewissheit; یَقین، اِطمینان
 - jem. Gewissheit geben; کِسى را مُتَیَقِن کَردَن، به کِسى اِطمینان دادَن
 Gewitter; رَعد و بَرق
 gewitzt;
-- ein gewitzter Bursche (*: pfiffig); آدَم ِ پُخته
+- ein gewitzter Bursche (*:pfiffig); آدَم ِ پُخته
 gewogen;
 - jem. gewogen sein; به کِسى اِلتِفات کَردَن
 - jem. nicht gewogen sein; از کِسى دِلخوشى نَداشتَن
@@ -1797,7 +1797,7 @@ gleichfalls;
 gleichförmig; هَمشِکل، یِکسان
 Gleichgesinnter; هَموَند
 Gleichgewicht; تَعادُل، مُوازِن، موازِنه
-- das Gleichgewicht verlieren (*: Balance); یَله شُدَن، ـ رفتَن، مُوازنهٔ خودرا از دَست دادَن
+- das Gleichgewicht verlieren (*:Balance); یَله شُدَن، ـ رفتَن، مُوازنهٔ خودرا از دَست دادَن
 - im Gleichgewicht befinden; دَنگادَنگ بودَن
 - Faktor, der für das Gleichgewicht sorgt; عُنصُر ِ تَعدیل
 - Kräftegleichgewicht; - ِ تَوازُن ِ قُوا، تَکافوی
@@ -1824,7 +1824,7 @@ gleichmäßig;
 Gleichmäßigkeit; یِکنَواختِگى
 gleichnamig; هَم اِسم، هَم نام
 Gleichnamigkeit; تَجنیس
-Gleichnis (*: Beispiel); مَثَل
+Gleichnis (*:Beispiel); مَثَل
 - Jesus erzählt in Gleichnissen; عیسى مَسیح به شِکل ِ مَثَل شَرح مى دَهَد
 gleichrangig; هَم سَطح، هَم رُطبه
 Gleichrichter; یِکسوساز، هَمسوساز

@@ -120,10 +120,10 @@ wahr; راست، واقِعى، حَقیقى، دُرُست، بِراستی
 - wahre Gründe; دَلايِل ِ واقِعى
 - was ist schon wahr daran?; که بايَد زیر ِ کاسهٔ نیم کاسه اى باشَد
 wahren; حِفظ کَردَن
-- Interessen wahren (*: gewahrt); مُصالِح را حِفظ کَردَن
+- Interessen wahren (*:gewahrt); مُصالِح را حِفظ کَردَن
 - das muss gewahrt bleiben; این بايَد مَحفوظ باشَد
 währen;
-- so lange währen (*: dauern); به دِرازا کِشیدَن
+- so lange währen (*:dauern); به دِرازا کِشیدَن
 - Begeisterung währt nur einen Augenblick; لِذَت لَحظه اى بیش نیست
 - lange während; مُتَمادى
 während;
@@ -232,7 +232,7 @@ Wappen; آرم، عَلامَت ِ نِشان
 - Familienwappen; عَلامَت ِ نِشان ِ خانِوادِگى، آرم ِ فامیلى
 Wappenzeichen; طُغراء، نِشان، آرم
 war;
-war (*: sein, wurde);
+war (*:sein, wurde);
 - das wars dann auch schon; واسَلام، هَمین و بَس، و خَلاص
 - mir war so, als ...; اَنگاشتَم که
 - so tun, als ob sein Pferd gestorben wäre; چِنانکه گوئى اَسب ِ او مُرده است
@@ -645,7 +645,7 @@ weiten; گُشودَن، گُشاد کَردَن
 weiter;
 - und so weiter; اِلىٰ آخَر، و غِیره
 - ... sind noch nicht weiter gediehen; از ... فَراتَر نَرَفته است
-- weitere Informationen (*: umfassend); اِطِلاعات ِ جامِعتَر، ـ بیشتَر
+- weitere Informationen (*:umfassend); اِطِلاعات ِ جامِعتَر، ـ بیشتَر
 - weitere Gesetze, die ...; سايِر ِ اَحکام که
 - des weiteren; گُذَشته از آن، دَر رَواء ِ این
 - die weiteren Bemühungen; زَحمات ِ پِى گیر
@@ -900,7 +900,7 @@ Wettstreit; مُسابِقه
 wetzen; تیز کَردَن
 Whirlpool; جَکوزی
 wichtig; مُهِم، با اَهَميَت
-- nicht wichtig (*: unbedeutend); کَم اَهَميَت
+- nicht wichtig (*:unbedeutend); کَم اَهَميَت
 - sehr wichtig; مُهِم و حَیاتى
 - mir wurde wichtig, dass; به نَظَرَم لازِم و بِجا آمَد که
 - wichtig sein;  .حائِز ِ اَهَميَت بودَن، مُهِم ب

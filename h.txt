@@ -147,10 +147,10 @@ Hals; گَردَن، گَلو
 - sie wollen s. ... vom Halse schaffen; آنها از پَذیرُفتَن ِ آن سَر باز مى زَنَند
 - den Hals nicht voll kriegen; دو قورت و نیمِش هَم باقی بودَن
 - im Hals stecken bleiben; توی ِ دَهَن ِ کِسی ماندَن
-- das beste ist, wenn wir ihn uns vom Halse schaffen (*: loswerden); چاره این است که سَرَش را از سَرِمون واکُنیم
+- das beste ist, wenn wir ihn uns vom Halse schaffen (*:loswerden); چاره این است که سَرَش را از سَرِمون واکُنیم
 - das schnürt einem den Hals zu (wo man eigentlich weinen möchte); بُغض کَردَن
 Halsabschneider;
-- er ist ein Halsabschneider (*: Betrüger); جِنسِش را به قِیمَت ِ خون ِ آدَمى زاد مى فُروشَد
+- er ist ein Halsabschneider (*:Betrüger); جِنسِش را به قِیمَت ِ خون ِ آدَمى زاد مى فُروشَد
 Halsband; گَردن بَند
 - Hundehalsband; قِلادهٔ سَگ
 halsbrecherisch;
@@ -341,7 +341,7 @@ hängen lassen;
 - jem. hängen lassen, warten lassen; کِسى را مُعطَل کَردَن، ـ دَر مُعَطَل نِگَه داشتَن، ـ قال گُذاشتَن
 hänseln; کِسی را دَست انداختَن، - خواب ِ خَر گوشی دادَن
 Hanswurst;
-- er spielt den Hanswurst (*: recht machen); او می خواهَد کِرم ِ دِرَختی یِکی باشَد
+- er spielt den Hanswurst (*:recht machen); او می خواهَد کِرم ِ دِرَختی یِکی باشَد
 Hantel; دُمبیل
 hanteln; دُمبیل زَدَن
 Happen; لُقمه
@@ -644,7 +644,7 @@ helfen; مَدَد کَردَن، کُمَک ک.، یارى ک.، به نَفع 
 - Helfen & Geben; داد و دِهِش
 Helfer; حامى، پاکار، یار، باوَر، یاروَر
 hell; روشَن
-- ein helles Kerlchen (*: pfiffig); او قاشُق ِ هَر آش است
+- ein helles Kerlchen (*:pfiffig); او قاشُق ِ هَر آش است
 - eine Sache aufhellen; موضوع را واضِح کَردَن
 hellblau; آبى ِ روشَن، آبى ِ کَم رَنگ
 Heller; قِران، ریال
@@ -725,7 +725,7 @@ herausmachen;
 - du hast dich aber fein herausgemacht; عَجَب لِباس ِ آراسته اى به تَن کَرده اى
 - du hast dich gut herausgemacht; عَجَب تَن و بَدَنى به هَم زَده اى
 herausnehmen;
-- s. etwas herausnehmen (*: erdreisten); تَجَری کَردَن
+- s. etwas herausnehmen (*:erdreisten); تَجَری کَردَن
 - ihr nehmt euch zuviel heraus!; شُما از حَد ِ خود تَجاوُز مى کُنید
 - die Ware herausnehmen; کالا را بَر داشتَن
 herausragen;
@@ -739,7 +739,7 @@ herausreissen (i.S.: entwenden); قاپیدَن
 herausrutschen; به بیرون آمَدَن
 - mir ist das herausgerutscht; خودِش از دَهَنَم دَررَفت، ـ پَرید
 herausspringen;
-- nichts herausspringen (*: abfallen); هیچ چیز عایِد نِمیشَوَد، ـ از کار دَر نِمیایَد
+- nichts herausspringen (*:abfallen); هیچ چیز عایِد نِمیشَوَد، ـ از کار دَر نِمیایَد
 - es ist nichts für mich herausgesprungen; از این کار چیزى عایِدَم نَشده بود
 herausstellen (s. -); .دَرز کَردَن، اِفشاء شُدَن، مَعلوم ش
 herb;
@@ -881,7 +881,7 @@ hervorragend; عالى، بَرجَسته
 - als hervorragend bezeichnet werden; بِعُنوان ِ سَرآمَد ِ چیزى مَحسوب شُدَن، ـ سَربَر اَفراشته ـ
 hervorrufen; موجِب شُدَن
 - Stillstand hervorrufen; وَقفه ایجاد کَردَن
-- den Zorn von jem. hervorrufen (*: erregen); قََهر ِ کِسى را خُروشاندَن، ـ بَر اَنگیختَن
+- den Zorn von jem. hervorrufen (*:erregen); قََهر ِ کِسى را خُروشاندَن، ـ بَر اَنگیختَن
 - durch ... ruft er ein Unglück hervor; تَوَسُط ِ ... خَرابى ِ زیادى به بار میاوَرَد
 - sie rufen mein Mitleid hervor; آنها حِس ِ تَأسُف ِ مَرا بَر مى اَنگیزَند
 hervortreten;
@@ -919,7 +919,7 @@ Herzklopfen; دِل تَپِش، تَپِش ِ دِل
 Herzkräftigung; مُقَوى ِ قَلب
 Herzkranzgefässe; عُروق ِ جانِبهٔ کُرونى
 herzlich;
-- jem. herzlich empfangen (*: aufrichtig); از کِسى به گَرمى پَذیرائى کَردَن
+- jem. herzlich empfangen (*:aufrichtig); از کِسى به گَرمى پَذیرائى کَردَن
 - mit jem. herzlich umgehen; با کِسی خون گَرم بودَن
 - herzlicher Mensch; آدَم ِ فَراخ رو
 - es wird herzlichst darum gebeten; اِحتِراماً مَعروض مى دارَد
@@ -961,7 +961,7 @@ Hexenschuss (med.); کَمَر دَرد، قولِنج
 hie;
 - hie und da etwas hören; گوشه و کِنار ِ چیزى را شِنیدَن
 Hieb; سُقُلُمه، ضَربه
-- jem. einen Hieb (*: Schlag) versetzen; کِسى را سُقُلُمه زَدَن
+- jem. einen Hieb (*:Schlag) versetzen; کِسى را سُقُلُمه زَدَن
 - jem. einen Seitenhieb versetzen; یِک سُقُلُمه پَهلوی ِ کِسی زَدَن
 hier; اینجا
 - er kommt von hier; او اَهل ِ اینجاست، او شیر ِ ‌پاک خوردهٔ اینجا
@@ -1085,7 +1085,7 @@ hinfällig;
 - das Problem wurde hinfällig; مَسأله مُنتَفى شُد
 Hinfälligkeit; دَرماندِگى
 hinführen;
-- hinführen zu (*: führen); مُنجَر به ... بودَن، کِسى را به ... سوق دادَن، ـ راه بُردَن
+- hinführen zu (*:führen); مُنجَر به ... بودَن، کِسى را به ... سوق دادَن، ـ راه بُردَن
 - mit dem Hinführen zu einem Ziel; با سوق به سوى ِ هَدَف
 Hingabe;
 - mit ganzer Hingabe; با کَمال ِ اِخلاص
@@ -1112,7 +1112,7 @@ hinreissen;
 hinrichten; کِسى را به باد ِ اِعدام گِرِفتَن، ـ اعِدام کَردَن
 Hinrichtung; اِعدام، قَتل
 Hinsicht; مَنظَر
-- in finanzieller Hinsicht (*: Aspekt); دَر اُمور ِ مالى
+- in finanzieller Hinsicht (*:Aspekt); دَر اُمور ِ مالى
 hinsichtlich;
 - hinsichtlich der ...; ... ِدَر مورِد ِ، از لَحاظ
 hinspringen;
@@ -1185,7 +1185,7 @@ hinwenden;
 Hinwendung;
 - Hinwendung zu ...; تَمَسُک به
 hinziehen;
-- s. hinziehen (*: s. verzögern); بِطول اَنجامیدَن
+- s. hinziehen (*:s. verzögern); بِطول اَنجامیدَن
 - es tut mir leid, dass sich ... so hinzieht; مُتأسِفَم که ... به دِرازى مى کِشَد
 - der Kampf zieht s. hin; جَنگ بِطول مى اَنجامَد
 - die Straße zieht sich hin; جاده کِش می آیَد
@@ -1351,7 +1351,7 @@ Höhenstrahlen; اَشِعهٔ کِیهانى
 Höhenvorschub; تَغذیهٔ عُمودى
 Höhepunkt; اوج
 - die Spannung ist am Höhepunkt; هَیَجان دَر اوج است
-höher (*: hoch);
+höher (*:hoch);
 Höherentwicklung; تَکامُل ِ عالیتَر
 hohl; پوک، توخالى، مُجَوَف
 Höhle; بیغوله، کُنام، غار

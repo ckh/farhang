@@ -101,7 +101,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 überfallen;
 - eine Bank überfallen; به يِک بانک دَستبُرد زَدَن
 - überfallen wir sie nachts; شَبیخون بِزَنیم به ایشان
-- Furcht überfällt sie alle (*: Furcht); هول به جان ِ هَمه می اُفتَد
+- Furcht überfällt sie alle (*:Furcht); هول به جان ِ هَمه می اُفتَد
 überfällig;
  - sie sind bereits seit 2 Stunden überfällig; آنها بايَستی دو ساعت اینجا باشند، آنها تا به حال دو ساعَت تآخیر دارَند
 - die Überweisung ist längst überfällig; پول بايَستی مُدَتها پیش پَرداتته شُده باشَد
@@ -136,7 +136,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 übergeben;
 - jem. etwas übergeben; (präs.)  چیزى را به کِسى تَفویض کَردَن، چیزى را تَحویل ِ کِسى دادَن، ـ سِپُردَن (مى سِپارَد) به کِسی 
 - übergib ihnen den Artikel als von dir geschrieben; بِعُنوان ِ مَقالهٔ خود تَحویلِشان بِدَهى
-- s. übergeben (*: erbrechen); اُغ زَدَن
+- s. übergeben (*:erbrechen); اُغ زَدَن
 übergehen;
 - jem. übergehen; از کِسی نادیده گِرِفتَن
 - von a nach b übergehen; از ... به ... اِنتِقال یافتَن
@@ -161,7 +161,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - ein Auto überholen; ماشین را سَر گُذاشتَن، ـ سِبقَت گِرِفتَن
 - ein Auto überholen, durchchecken; عِیب ِ ماشین را بَر طَرَف کَردَن بَعد از اینکه کُنترُل شُده
 Überholspur; خَط ِ سِبقَت گیرى
-überholt (*: veraltet); از مُد اُفتاده
+überholt (*:veraltet); از مُد اُفتاده
 Überholverbot; مَمنوعيَت ِ سِبقَت
 überhören;
 - die Stimme von jem. überhören; صِداى ِ کِسى را نَشِنیده گِرِفتَن
@@ -686,7 +686,7 @@ umwerfen; اَنداختَن
 umwinden; تَنیدَن
 umzäunen; حِصار کِشیدَن
 - umzäunter Garten; چَهار دیواری ِ باغ
-Umzäunung (*: Zaun); مَحجَر، حِصار
+Umzäunung (*:Zaun); مَحجَر، حِصار
 umziehen;
 - umziehen (Kleidung); عَوَض کَردَن
 - umziehen (Wohnung); اَسباب کِشى کَردَن
@@ -784,7 +784,7 @@ unbegrenzt; نامَحدود، بى حَد و حَصر
 - Unbegrenztheit Gottes; عَدَم ِ مَحدوديَت ِ ذات ِ خُدا
 unbegründet; بى مأخَذ، بى اَساس، بى پایه، نامُوَجَه، بى جَهَت، کَتره اى
 unbehaart; بی مو
-- sein unbehaarter Kopf (*: Glatze); سَر ِ طاسَش
+- sein unbehaarter Kopf (*:Glatze); سَر ِ طاسَش
 Unbehagen; ناراحَتى، ناخوشى
 unbehaust; دَر بِدَر
 unbehelligt (- bleiben); مویى از سَر ِ کِسى کَم نِمى شَوَد
@@ -971,7 +971,7 @@ unfruchtbar;
 - unfruchtbare Kritik; نَقادى ِ عَقیم
 Unfruchtbarkeit; عُقم، نازائى، نازايَندِگى
 Unfug; مُزَخرَفات
-- untersteh dich, Unfug zu machen! (*: Unsinn); ناکَس بازى دَر نَیار
+- untersteh dich, Unfug zu machen! (*:Unsinn); ناکَس بازى دَر نَیار
 ungeachtet;
 - ungeachtet dessen; با وَصف ِ...، غافِل از اینکه، با آنهمهٔ این
 ungebändigt; اَفسار گُسیخته
@@ -1060,7 +1060,7 @@ ungewollt; ناخواسته
 ungeziemend; ناسُتوده
 ungezogen;
 - das Kind ist ungezogen; بَچه بازى گوش است، ـ بى تَربيَت ـ
-ungezügelt (*: zügellos); بی لِگام
+ungezügelt (*:zügellos); بی لِگام
 - ungezügelte Gesellschaft; اِجتِماع ِ وِلِنگ و واز
 ungezwungen; بى تَکَلُف
 - ein ungezwungenes Leben; زِندِگى ِ بى بَند و بار، ـ از قِید رَها شُده، زِندِگى بى تَکَلُف
@@ -1376,14 +1376,14 @@ unterlegen;
 Unterlegscheibe; واشِر ِ تَحتانى
 Unterleib; کَفل، اَندام ِ تَحتانى، پائین تَنه
 unterliegen;
-- bei ... unterliegen (*: verlieren); دَر ... شِکَست خوردَن
+- bei ... unterliegen (*:verlieren); دَر ... شِکَست خوردَن
 - der Ausführung unterliegend; مَرعى اُلاِجراء
 Untermiete; اِجاره دَر اِجاره
 Untermieter; مُستأجِر ِ مُستأجِر
 unterminieren; نَقب زَدَن
 - Grundlagen unterminierend; بُنیاد کَن
 unternehmen; اَنجام دادَن
-- man muss etwas dagegen unternehmen (*: Massnahmen); بايَد بَر عَلِیه چیزى کارى کرد، بايَد دَست به کار شَوَد
+- man muss etwas dagegen unternehmen (*:Massnahmen); بايَد بَر عَلِیه چیزى کارى کرد، بايَد دَست به کار شَوَد
 Unternehmen (n); شِرکَت
 Unternehmer; کارفَرما، صاحِب ِ شِرکَت
 unternehmerisch; کارجوى
@@ -1419,7 +1419,7 @@ unterschiedlich; مُتَفاوِت، جور بِجور
 - ein weiterer unterschiedlicher Aspekt von ihm; وَجه ِ تَمايُز ِ دیگَر ِ او
 - unterschiedliche Gedanken; فِکرهاى ِ جور به جور
 Unterschlagung; اِختِلاس، خَلسه
-Unterschlupf (*: Zufluchtsort); مَفَر
+Unterschlupf (*:Zufluchtsort); مَفَر
 unterschreiben; اِمضاء کَردَن
 - unterschreiben lassen; به اِمضا رِساندَن
 Unterschrift; اِمضا
@@ -1593,7 +1593,7 @@ unwohl;
 Unwohlsein; دورهٔ نَقاهَت، کِسالَت
 Unwucht; از تَعادُل خارِج شُدَن، نامیزان چَرخیدَن
 unwürdig; ناسَزاوار، نالایِق، نارَوا
-- unwürdig sein (*: Würde);  .ذَلیل بودَن، ناچیز ب
+- unwürdig sein (*:Würde);  .ذَلیل بودَن، ناچیز ب
 - in unwürdigster Weise; با دِنائَت
 unzählbar; بى شُمار
 unzeitig; بى موقِع

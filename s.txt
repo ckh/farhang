@@ -14,7 +14,7 @@ sabotierend; تَخریبى
 Sachbearbeiter (m); صَلاحيَتدار، مُتَخَصِص
 Sachbeschädigung (f); خِسارت ِ مالى
 Sache (f); چیز
-- ernste Sache (*: Angelegenheit); اَمر ِ خَطیر
+- ernste Sache (*:Angelegenheit); اَمر ِ خَطیر
 - so wie die Sache aussieht; از قَرار ِ واقِع
 - es steht gut um seine Sache; کَبکَش خوب مى خوانَد
 - jetzt geht es zur Sache; شَمشیرها را از رو می بَندَند
@@ -1493,7 +1493,7 @@ schüchtern; مَحجوب، خَجول
 Schüchternheit; مَحجوبيَت، حُجب، خِجالَت، کَمروئى
 Schuft; آدَم ِ رَذَل، نابه کار، بى شَرَف، حَرامى، حَرام خور، زَهر مار
 schuften; سَر به زیر کار کَردَن
-- schwer schuften (*: abschuften); فَعلِگى کَردَن
+- schwer schuften (*:abschuften); فَعلِگى کَردَن
 - den ganzen Tag schuften; تَمام ِ روز جان کَندَن
 Schufterei; سَگ دوى
 Schuftigkeit; شَقاوَت، شَناعَت، شَنعَت
@@ -1869,7 +1869,7 @@ Schwingungszahl; فرِکانس
 Schwips; سَرمَستى
 schwitzen; عَرَق کَردَن
 schwören; قَسَم خوردَن
-- darauf schwören (*: Eid); .به چیزى سوگَند خوردَن، ـ قَسَم خ
+- darauf schwören (*:Eid); .به چیزى سوگَند خوردَن، ـ قَسَم خ
 schwül; هَواى ِ حار، شَرجى
 schwülstig;
 - schwülstige Ausdrücke; لُغات ِ قُلُنبه، ـ قُلُمبه سُلُمبه
@@ -1959,7 +1959,7 @@ Sehkraft; قوهٔ بَصَر، ـ بینِش، ـ دید
 Sehne; زَرد پِى، زِه، تاندُن
 - Sehne (mathem.); (pl.)  (وَتَر (اوتار
 sehnen;
-- s. sehnen nach jem. (*: wünschen);  حَسرَت ِ کِسى را خوردَن، ـ بُردَن
+- s. sehnen nach jem. (*:wünschen);  حَسرَت ِ کِسى را خوردَن، ـ بُردَن
 - er sehnt s. nach ...;  دِلِش بَراى ِ چیزى لَک مى زَنَد، دِلِش هَوَس ِ... را مى کُنَد
 Sehnenscheide; غِلاف ِ پوشِشى ِ دور ِ زَردپِى
 sehnlich;
@@ -1995,7 +1995,7 @@ Seil; طِناب، ریسمان، بَند
 - Seil werfen; طِناب را اَنداختَن
 Seilbahn; تِلِسکى، تِلِکابین
 Seiltänzer; بَندباز
-sein (*: bin, ist, war); بودَن
+sein (*:bin, ist, war); بودَن
 - ein fauler Mensch kann kein ... sein; آدَم ِ تَنبَل بِدَرد ِ... نِمى خورَد
 - keiner will es gewesen sein; کِسى زیر ِ بار نمى رَوَد، کِسى گناه را به گَردَن نِمى گیرَد
 - ... würde ein Akt der Gerechtigkeit sein; به حِساب ِ اِقدام ِ عِدالَت دَر آيَد
@@ -2500,7 +2500,7 @@ Sofa; مُبل ِ راحَتى، کاناپه
 Sofakissen; مُتَکا، بالِش ِ کاناپه
 sofort; فى الفور، هَمین دَم، ضَرب اُلعَجَل، يِکراست، عاجِل، بِدون ِ تأخیر
 - sofortiges Eingreifen; دِخالَت ِ فى الفور
-Software (*: Computerbegriffe); اَبزار ِ نَرم، نَرم اَبزار
+Software (*:Computerbegriffe); اَبزار ِ نَرم، نَرم اَبزار
 Sog; مَکش، جَذب
 sogar; حَتىٰ
 Sohle;
@@ -2598,7 +2598,7 @@ Sorge;
 - nun mache ich mir keine Sorgen ums Sterben, weil ...; حال مَرا غَم ِ مُردن نیست زیرا
 - Sorge tragen für jem.; به کِسى نیک مُتَوَجه شُدَن، به کِسى رِسیدِگى کَردَن
 sorgen;
-- dafür sorgen, dass ... (*: s. kümmern); حَواس به کِسی بودَن
+- dafür sorgen, dass ... (*:s. kümmern); حَواس به کِسی بودَن
 - für ausreichend Platz sorgen; جاى ِ کافى تَعبیه کَردَن
 - sorge für ihn!; بِهِش بِرِس
 sorgenlos; بى نِگَران
@@ -3317,7 +3317,7 @@ Stau; گِره هاى ِ ترافیکى، راه بَندان
 Staub; غَبار، گَرد
 - Staub aufwirbeln; خودرا به خَرج دادَن، ـ گَرد و خاک کَردَن، ـ پیش اَنداختَن
 - Staub wischen; گَردگیرى کَردَن
-- s. aus dem Staub machen (*: verduften); بَساط را جَمع کَردَن، فِلِنگ را بَستَن، يَواشَکى رَفتَن، از زیرِش دَر رَفتَن، شَلواررا وَر مالیدَن، پاشنه بالا کِشیدَن، جا خالی دادَن، دَک شُدَن، دو دَره کَردَن
+- s. aus dem Staub machen (*:verduften); بَساط را جَمع کَردَن، فِلِنگ را بَستَن، يَواشَکى رَفتَن، از زیرِش دَر رَفتَن، شَلواررا وَر مالیدَن، پاشنه بالا کِشیدَن، جا خالی دادَن، دَک شُدَن، دو دَره کَردَن
 - dann macht er sich aus dem Staub; بَعد هَم حاجی حاجی مَکه
 - s. vor jem. in den Staub werfen; خودرا خاک ِ پای ِ کِسی کَردَن
 - jem. zu Staub machen; کِسى را به دود و خاکِستَر تَبدیل کَردَن
@@ -3454,7 +3454,7 @@ Stellmacher; چَرخه ساز
 Stellung; موضِع
 - Stellung, Ansehen; مَنزَلَت
 - (klare) Stellung beziehen; موضِع  اِتِخاذ کَردَن، موضِع را گِرِفتَن
-- Stellung des Feindes (*: Lager); موضِع ِ اُردوى ِ دُشمَن
+- Stellung des Feindes (*:Lager); موضِع ِ اُردوى ِ دُشمَن
 - die Armee begibt s. in Stellung; لَشکَر صَف ِ آرائى مى کُنَد
 - für jem. Stellung beziehen; جانِب ِ کِسى را گِرِفتَن
 - in meiner Stellung; به مَثابهٔ مَن
@@ -3827,7 +3827,7 @@ Strandhütte; پِلاژ
 Strapaze; زَحمَت
 strapazieren; زَحمَت داذَن، دَریغ داشتَن
 Strasse; خیابان، شوسه
-- einer, der auf der Strasse lebt (*: obdachlos); قَلَندَر
+- einer, der auf der Strasse lebt (*:obdachlos); قَلَندَر
 - Entlastungsstrasse; چاده بَراى ِ تَسهیل ِ عُبور و مُرور
 - Landstrasse; کوره راه، شوسه
 - Ringstrasse; چادهٔ کَمَربَندى
@@ -4076,7 +4076,7 @@ stürzen; بَر اَنداختَن، سُقوط کَردَن، اُفتادَن
 Stütze; پُشتِوانه، تِکیه گاه
 - Stütze (z.B. für Blumen); چُفت
 stutzen;
-- er stutzt (*: überraschen); او تَعَجُب کَرد
+- er stutzt (*:überraschen); او تَعَجُب کَرد
 - die Flügel stutzen; پَر و بال را قِیچى کَردَن
 - jem. stutzen (in seinem Einfluss); باروت ِ کِسی نَم کِشیدَن
 - jem. zurechtstutzen; کِسى را تا حَد ِ شِش دَر چَهار کوچِک کَردَن

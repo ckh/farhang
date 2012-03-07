@@ -18,7 +18,7 @@ oben;
 - von oben bis unten schmutzig sein; سَر ا پا کَثیف بودَن
 - von hier oben alles sehen; از این بالا هَمه چیزرا دیدَن
 - ganz oben wird die Luft dünn; هَر چه سَر بُزُرگتَر دَرد بُزُرگتَر
-- den oberen Teil der Strasse bewachen (*: oberst);  بالادَست ِ خیابان را پائیدَن
+- den oberen Teil der Strasse bewachen (*:oberst);  بالادَست ِ خیابان را پائیدَن
 - das Oben & Unten; فَراز و فُرود
 Ober; گارسُن
 Oberarzt; سَرپِزِشک
@@ -46,7 +46,7 @@ Oberlicht; پَنجَرهٔ شیروانى
 Oberschenkel; ران
 oberst;
 - oberste Instanz; مَرجَع ِ نَهائى
-- den obersten Zweig (*: oben); سَربُلَندتَرین شاخه
+- den obersten Zweig (*:oben); سَربُلَندتَرین شاخه
 - Oberstes Gericht; دادگاه ِ عالى
 - Oberster (von etwas, z.B. Chefportier); سالار ِ دَربان، دَربان ِ باشى
 Oberst (milit.); سَرهَنگ
@@ -55,7 +55,7 @@ obgleich;
 - obgleich, dass doch; وِلو اینکه، گو اینکه، با اینکه
 - obgleich ..., so; هَرچَند ... وَلى
 Objekt; مَفعول
-- Objekt der Begierde (*: Gegenstand, *: Thema); مَطمَع
+- Objekt der Begierde (*:Gegenstand, *:Thema); مَطمَع
 - Objekt der Kritik; آماج ِ اِنتِقاد
 objektiv; عِینى، ظاهِرى
 Objektiv (Foto-); عَدَسى
@@ -189,7 +189,7 @@ ohnmächtig;
 Ohr; گوش
 - gelangte an sein Ohr; بِسَمع ِ او رِسید، به گوش ِ ـ
 - in ein Ohr rein, aus dem anderen raus; از يِک گوش شِنیدَن از گوش ِ دیگَر دَر کَردَن
-- jem. übers Ohr hauen (*: betrügen); کِسى را خَر رَنگ کَردَن، آب به زیرِش می شَوَد، او را فَریفتَن، آب توی ِ گوش ِ کِسی کَردَن
+- jem. übers Ohr hauen (*:betrügen); کِسى را خَر رَنگ کَردَن، آب به زیرِش می شَوَد، او را فَریفتَن، آب توی ِ گوش ِ کِسی کَردَن
 - s. übers Ohr hauen lassen; غِش و ریسه رفتن
 - ich lasse mich nicht übers Ohr hauen; از این کُلاه سَرَم نِمى رَوَد
 - jem. das Fell über die Ohren ziehen; سیرُم از پُشت ِ کِسى کِشیدَن

@@ -355,7 +355,7 @@ Keilriemen; تَسمهٔ پَروانه
 Keilschrift; خَط ِ میخى
 Keim;
 - Keim, Ursprung; مَنشأ
-- Keim (*: Keimling); نُطفه
+- Keim (*:Keimling); نُطفه
 - etwas im Keime ersticken; چیزى را در نُطفه خَفه کَردَن
 - den Aufstand im Keim ersticken; فِتنه را قَلع و قَمع کَردَن، ـ دَر نُطفه کُشتَن، ـ از گیشه بَراَنداختَن
 keimen; جوانه زَدَن
@@ -702,7 +702,7 @@ Kleinigkeit; (pl.) (جُزئی (جُزئیات
 - auf Kleinigkeiten achten; دِقَت کَردَن
 - das ist eine Kleinigkeit; اینها که چیزى نیست، از هَفت بُرو به هَفتاد
 kleinkariert;
-- er ist kleinkariert (*: pingelig); او تَنگ نَظَر است
+- er ist kleinkariert (*:pingelig); او تَنگ نَظَر است
 Kleinkram; خورده ریز، دَله کاری
 - s. mit Kleinkram abgeben; به چیزى وَررَفتَن
 Kleinkrämer; پیله وَر، خورده فُروش
@@ -747,7 +747,7 @@ klirren;
 Klischee; کلیشه
 - gängiges Klischee; کلیشهٔ شَجَریان
 Klistier; تَنقیه
-Klo; (*: Toilette) دَسیت شوئی
+Klo; (*:Toilette) دَسیت شوئی
 - Drang auf's Klo; دَست به آبِش گِرِفت
 Kloake; کود ِ مُستَراحى
 Klon; موجود ِ هَمانَند سازى شُده
@@ -1004,7 +1004,7 @@ kommen; آمَدن
 - am kommenden Tag; روز ِ بَعد
 Kommentar; (jurist.) تَبصِره
 - vor der Abstimmung einen Kommentar abgeben; قَبل از رأى گیرى شَرح دادَن
-- seinen Kommentar abgeben (*: Meinung); نَظَر ِ خودرا بَیان کَردَن
+- seinen Kommentar abgeben (*:Meinung); نَظَر ِ خودرا بَیان کَردَن
 Kommentator; مُحَشى، مُفسِر
 kommentieren; نَظَریه دادَن
 Kommerz; سوداگَرى
@@ -1317,7 +1317,7 @@ Kopf; سَر، کَله
 - jem. vor den Kopf stossen; آزُردَن، رَنجانیدَن
 - s. etwas aus dem Kopf schlagen; چیزى را از سَر بِدَر کَردَن
 - ich war nicht auf den Kopf gefallen, pfiffig sein; کَلَکَش دَستَم بود
-- alles auf den Kopf stellen (*: umdrehen); هَمه اَش را بِهَم ریختَن
+- alles auf den Kopf stellen (*:umdrehen); هَمه اَش را بِهَم ریختَن
 - Kopf in den Sand stecken; سَر زیر ِ آب کَردَن
 - die Schüler stellen die Klasse auf den Kopf; شاگِردان کلاس را رو سَرِشان مى گیرنَد
 - du willst mir wieder über den Kopf wachsen (popul.); تو دوباره میخواهى از سَر و كول ِ مَن بالا برى
@@ -1379,7 +1379,7 @@ Korrektur; اِصلاح، غَلَط گیرى
 - Endkorrektur; تَصحیح ِ نَهائى
 Korrekturbogen; نِمونهٔ چاپ
 Korrelation; اِرتِباط ِ مُتَقابِل
-- in Korrelation zueinander sein (*: Beziehung); به فَرا ِ خور
+- in Korrelation zueinander sein (*:Beziehung); به فَرا ِ خور
 korrelativ; لازِم و مَلزوم
 Korrespondent; مُخابِر، مُخَبَر، خَبَرنِگار
 Korrespondenz; مُکاتِبه، نامه نِگارى
@@ -1396,7 +1396,7 @@ Korrosion; خوردِگی، زَنگزَدِگی
 - Feuchtigkeitskorrosion; - پوسیدِگى رُطوبَت، خوردَنِگی
 korrumpieren; به فِساد کِشاندَن ، آبِستَن کَردَن
 korrupt; فاسِد، رِشوه خوار
-Korruption; (*: Bestechlichkeit) فِساد، مُفت خورى، رِشوه خوارى
+Korruption; (*:Bestechlichkeit) فِساد، مُفت خورى، رِشوه خوارى
 - durch Korruption erpreßbar sein; آبِستَن ِ کِسی بودَن
 Kortison; کورتون
 Koryphäe;
@@ -1660,7 +1660,7 @@ Krieg; جَنگ
 - gegen jem. in den Krieg ziehen; به ... حَمله بُردَن
 - Kalter Krieg; جَنگ ِ سَرد
 kriegen; دَریافت کَردَن
-- von da kriegen wir kein Geld (*: bekommen); از اینجا چیزى عايِد ِ ما نِمیشَوَد
+- von da kriegen wir kein Geld (*:bekommen); از اینجا چیزى عايِد ِ ما نِمیشَوَد
 - dich werde ich noch kriegen; حِسابَت پیش ِ مَن است
 Krieger; رَزمَنده، مُقاتِل، مُحارِب
 kriegerisch; جَنگجو، رَزم جو، مُحارِب
@@ -1744,7 +1744,7 @@ krumm;
 - krumm, unaufrichtig; مُعَوَج
 - ihr Rücken, der etwas krumm war, ...; پُشت کَمى قوز کَرده اَش
 - krumm & schief; پَرت و پَلا
-krümmen; (*: beugen) کَج کَردَن، اِنحِنا دادَن
+krümmen; (*:beugen) کَج کَردَن، اِنحِنا دادَن
 - s. krümmen (vor Schmerz); از دَرد) به خود پیچیدَن، پیچ و تاب خوردَن )
 - ihr leicht gekrümmter Rücken; پُشت ِ کَمى قوز کَرده اش
 - gekrümmte Linie; خَط ِ مُنحَنى
@@ -1792,7 +1792,7 @@ Kühlmittel; مُبَرَد
 Kühlschrank; يَخچال
 Kühlsystem; سیستِم ِ خُنَک کُنَنده
 kühn; دِل آوَر
-- kühner Mensch (*: mutig); آدَم ِ مَسحور
+- kühner Mensch (*:mutig); آدَم ِ مَسحور
 - was für kühne Worte; چه سُخَنان ِ مُتَهَوِرانه
 Kühnheit; جَسارَت، رِشادَت
 Küken; مُرغَک، جوجه

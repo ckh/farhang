@@ -1018,7 +1018,7 @@ Prellbock; راه بَند ِآخَر ِ راه ِ آهَن
 - er wurde zum Prellbock; او سِپَر ِ بَلا شُد
 prellen;
 - s. prellen; اِصابَت کَردَن
-- um wieviel jem. prellen (*: betrügen); چِقدَر کِسى را تَلَکه کَردَن
+- um wieviel jem. prellen (*:betrügen); چِقدَر کِسى را تَلَکه کَردَن
 Prellung; ضَربَت، کوفتِگى
 Premiere;
 - heute ist Filmpremiere; اِمشَب اَوَلین نَمايِش ِ فیلم بَرگُذار خواهَد بود
@@ -1239,7 +1239,7 @@ Protozoen; تَک یاخته ها
 Protz;
 - Protz, Selbstdarstellung; اِهِن و تَلُپ
 protzen; مُباهات کَردَن، قُمپُز دَر آوَردَن، پُز دادَن
-- er protzt wegen ... (*: aufschneiden); او دَم از ... مى زَنَد
+- er protzt wegen ... (*:aufschneiden); او دَم از ... مى زَنَد
 Proviant; خوار بار، آذوقه، اَزواد، سورسات، جیره
 Proviantlieferant; سورسات چى
 Provianttasche; توبره، توشه دان، خورجین
@@ -1272,7 +1272,7 @@ Prozession; گَردِش
 - Leichenprozession; تَشییع ِ جِنازه
 - jem., der eine Prozession anführt; چاوُش
 prüfen;  .اِمتِحان کَردَن، آزمايِش ک
-- jem. prüfen (*: geprüft); کِسى را اِمتِحان کَردَن
+- jem. prüfen (*:geprüft); کِسى را اِمتِحان کَردَن
 - genau prüfen; دِقَت گِرِفتَن
 - ich lasse mich prüfen; مَن اِمتِحان مى دَهَم
 - jem. prüfen und auswerten; کِسی را آزمودَن و نَظَر دادَن
@@ -1315,7 +1315,7 @@ prusten;
 PS; نیروى ِ اَسب
 Pscht!; هیس
 Pseudo;
-- Pseudo (als Vorsilbe) (*: Schein -); پیشوَندى بِمَعَنى: کاذِب
+- Pseudo (als Vorsilbe) (*:Schein -); پیشوَندى بِمَعَنى: کاذِب
 - ein Pseudogebrüll anstellen; فَریادهاى ِ لُعابى زَدَن
 Pseudonym; نام ِ مُستَعار
 Psst!; هیس
@@ -1330,9 +1330,9 @@ Psychose; اِختِلال ِ رَوانی
 Psychotherapeut; رَوان کاو
 Psychotherapie; رَوان کاوى، رَوان دَرمانى
 Pubertät; زَمان ِ بُلوغ، بُلوغ ِ جِنسی
-public-domain (*: Computerbegriffe); مالِکیَت ِ عُمومی
+public-domain (*:Computerbegriffe); مالِکیَت ِ عُمومی
 publik; علَنی
-- publik machen (*: öffentlich); .به عَیان رِساندَن، به اِطِلاع ِ هَمِگى ر
+- publik machen (*:öffentlich); .به عَیان رِساندَن، به اِطِلاع ِ هَمِگى ر
 Publikation; جَرائِد، اِشاعه
 publizieren; .مُنتَشِر کَردَن، دَرج ک
 publiziert; مُندَرِج
@@ -1398,7 +1398,7 @@ Putz;
 - Frühjahrsputz; خانه تَکانى ِ بَهارى
 - Verputz; اَندود
 putzen;  .پاک کَردَن، مُرُتَب ک
-- s. die Nase putzen (*: schneutzen); دَماغ گِرِفتَن
+- s. die Nase putzen (*:schneutzen); دَماغ گِرِفتَن
 - ausputzen; چیزى را خانه تَکانى کَردَن
 - durchputzen; چارو پارو کَردَن
 - Fensterputzen; پَنجَره پاک کُنى
