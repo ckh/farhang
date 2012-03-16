@@ -3184,6 +3184,7 @@ Stand;
 - Berufsstand; (pl.) (صِنف (اَصناف
 - zum Berufsstand gehörend; صِنفى
 - Fischstand; بَساط ِ ماهى فُروشى
+- Messestand; غُرفه
 - Standverkäufer; بَساطی
 Standard; مِعیار، اِستاندارد
 Standardklausel; مادهٔ مُتَحِد اُلشِکل، قید ـ
@@ -3439,7 +3440,6 @@ stellen;
 - jem. auf die Beine stellen; کِسى را روى ِ پا ایستاندَن، ـ ایستانیدَن
 - jem. ein Bein stellen; کَله پائىن کَردَن
 - jem. vor vollendete Tatsachen stellen; دَر بَرابَر ِ اَمر ِ واقِع قَرار دادَن
-- ihr wurdet an ihren Platz gestellt; شُما سَر ِ جاى ِ آنها قَرار گِرِفتید
 - etwas an seinen Platz stellen; چیزى را سَر ِ جايَش گُذاشتَن
 - etwas über eine andere Sache stellen; چیزى را از چیزى ِ دیگَر مُهِمتَر تَلَقى کَردَن
 - s. der Verantwortung stellen; وَظیفه را به خود اِختِصاص دادَن
@@ -3447,6 +3447,8 @@ stellen;
 - s. unglücklich stellen; خودرا موش مَرگى زَدَن
 - s. unwissend stellen; خودرا به نَدانِستَن زَدَن
 - s. der Polizei stellen; خودرا به پُلیس مُعَرِفى کَردَن
+- ihr wurdet an ihren Platz gestellt; شُما سَر ِ جاى ِ آنها قَرار گِرِفتید
+- auf s. gestellt sein; از هَمه تَرک گُفته، تَک و تَنها بودَن
 Stellenausschreibung; آگَهى ِ اِستِخدام
 stellig;
 - eine dreistellige Zahl; يِک عَدَد ِ سه رَقمى

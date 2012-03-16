@@ -932,7 +932,8 @@ achtgeben; مُواظِب ِ چیزى بودَن
 - gib auf ihn acht!;  !مُواظِبَش باش
 achtlos; بى اِتناء، بى اِحتیاط، بى تَوَجُه
 achtsam; با اِحتیاط
-Achtung (beim Militär); ! بِپا
+Achtung; (i.S.: aufpassen!) تَوَجُه
+- Achtung (beim Militär); ! بِپا
 - Achtung (*:Ehre); اِحتِرام
 - jem. Achtung erweisen; کِسى را اَرج نَهادَن، ـ اِکرام کَردَن
 - Achtung finden; اَرج و اِعتِبار پِیدا کَردَن
@@ -1003,9 +1004,9 @@ Adventszeit; اَیام ِ پیش اَز عِید ِ میلاد، فَصل ِ و
 Adverb; قِید
 Advokat; وَکیل ِ مُدافِع
 aerob; هَوازى
-Affaire; جَنجال، رُسوائى
-- Liebesaffaire; نَرد ِ عِشق باختَن
-- er hat s. gut aus der Affaire gezogen; خوب گِلیمَش را اَز آب دَر آوَرد
+Affäre; جَنجال، رُسوائى
+- er hat s. gut aus der Affäre gezogen; خوب گِلیمَش را اَز آب دَر آوَرد
+- Liebesaffäre; نَرد ِ عِشق باختَن
 Affe; نَسناس، مِیمون
 - wie vom Affen gebissen; مِثل ِ فیل مار گَزیده
 Affekt; هَیَجان، آشُفتِگى، اِعراض ِ نَفسانى، بى اِرادِگى، اِنفِعال
@@ -1219,7 +1220,7 @@ allerdings; لیکِن، اَلبَته
 Allergie; حَساسیَت، آلِرژى
 allerhand;
 - das ist ja allerhand; باوَر کَردَنى نیست
-Allerheiligstes (im jüdischen Tempel); قُدس ِ اَقداس
+Allerheiligstes; (im jüdischen Tempel) قُدس ِ اَقداس
 allerlei; اَنواع و اَقسام، هَمه جور ِ چیزها
 - Allerlei (*:Diverses); اَقسام و اَنواع
 allerwichtigst;
@@ -1457,7 +1458,7 @@ amtieren;
 - amtierende Regierung; دولَت ِ کَفیل
 - amtierender Präsident; قائِمقام ِ رَئیس
 amtlich; رَسمى، اِدارى
-Amtsanmassung; سوء اِستِفاده اَز قُدرَت
+Amtsanmaßung; سوء اِستِفاده اَز قُدرَت
 Amtsbefugnis; صَلاحیَت ِ اِدارى
 Amtsbeleidigung; توهین به اولیاء ِ اُمور، ـ حَکام
 Amtseid; سوگَند ِ اِدارى
@@ -2067,7 +2068,7 @@ Anmerkung (Kommentar); تَبصِره، پاوَرَقى، تَذَکُر
 anmontieren;  .نَصب کَردَن، سَوار ک
 Anmut; حُسن، رَنگ و بو، مَلاحَت، ناز
 - lässige Anmut; رودارى
-- die Anmut der Worte (literar.); عِذبَت ِ کَلام
+- die Anmut der Worte (lit.); عِذبَت ِ کَلام
 anmutig; مَلیح، ظَریف
 - anmutige Figur; قامَت ِ رَعنا
 annageln;  .میخکوب کَردَن، پونِز زَدَن، میخ ز

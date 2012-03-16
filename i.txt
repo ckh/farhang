@@ -198,6 +198,7 @@ Information; (pl.) (اِطِلاع (اِطِلاعات
 Informationsnetz; شَبَکهٔ اِطِلاعات
 Informationsquelle; مَنبَع ِ اِطِلاعاتى
 Informationsreise; سَفَر ِ کَسب ِ اِطِلاعات
+Informationsstand; غُرفهٔ اِعتِلاع رِسانی
 informieren; خَبَر دادَن، اِطلاع د.، مُطَلَع کَردَن
 - s. informieren; کَسب ِ اِطِلاع کَردَن
 - informiert sein über; .بَر چیزى واقِف بودن، خَبَردار ب .، مُطَلَع ب
@@ -205,6 +206,7 @@ informieren; خَبَر دادَن، اِطلاع د.، مُطَلَع کَرد�
 - jem. wird darüber informiert, dass ...; از کِسى به اِستِحضار میرِسَد که
 - informierte Kreise; مُحافِل ِ مُطَلَع
 - entsprechend gut informierter Kreise; به گفتهٔ مَنابِع مُطَلَع
+Infothek; اِعتِلاع رِسانی
 Infrarot; مادون ِ قِرمِز، فُرو ِ سُرخ
 Infrastruktur; زیر بَناى ِ اِقتِصادى، زیر ساخت ِ ـ
 Infusion; تَزریق ِ سِرُم
