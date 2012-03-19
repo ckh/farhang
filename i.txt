@@ -206,7 +206,7 @@ informieren; خَبَر دادَن، اِطلاع د.، مُطَلَع کَرد�
 - jem. wird darüber informiert, dass ...; از کِسى به اِستِحضار میرِسَد که
 - informierte Kreise; مُحافِل ِ مُطَلَع
 - entsprechend gut informierter Kreise; به گفتهٔ مَنابِع مُطَلَع
-Infothek; اِعتِلاع رِسانی
+Infothek; اِعتِلاع رِسانی، بَخش  ِاِطِلاعات
 Infrarot; مادون ِ قِرمِز، فُرو ِ سُرخ
 Infrastruktur; زیر بَناى ِ اِقتِصادى، زیر ساخت ِ ـ
 Infusion; تَزریق ِ سِرُم
