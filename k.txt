@@ -1,3 +1,6 @@
+k.o.; ضَربهٔ فَنى
+- jem. k.o. schlagen; کِسى را ضَربهٔ فَنى کَردَن
+- der Sportler ist k.o.; وَرزِشکار از پا دَرآمَد
 Kaaba; کَعبه
 Kabarett; کاباره
 Kabel; کابِل، سیم
@@ -102,10 +105,10 @@ Kampfansage; مُبارِزه طَلَبى
 Kampfarena; مُعَرکه
 kämpfen; مُبارِزه کَردَن
 kämpfend; مُقاتِل، مُحارِب
-Kampfer; کافور
 Kämpfer; مُبارِز
 - Einzelkämpfer (auch: alleg.); مُبارز ِ تَک و تَنها
 - Spezialkämpfer (milit.); تَکاوَر
+Kampfer; کافور
 kämpferisch; جَنگ جو، رَزم جو
 - kämpferischer Geist; حال ِ حَمله اى، روح ِ پِیکار جو
 Kampfflugzeug; هَواپِیماى ِ شِکارى، ـ جَنگَنده
@@ -303,7 +306,7 @@ kauern; .چُمباتِمه زَدَن، چُندَک ز.، کِز کَردَن�
 Kauf; خَرید، اِبتیاع
 - beim Kauf bis zu ... Rial ...; تا سَقف ِ خَرید ِ ... ریال
 - etwas (unangenehmes) in Kauf nehmen; پیه چیزی را به تَن ِ خود مالیدَن
-- Vorkauf;  (پیش خَرید (کَردَن
+- Vorkauf; (پیش خَرید (کَردَن
 - Kaufbestellung trifft ein; سِفارِش ِ خَرید رِسید
 Kaufbrief; قَباله
 kaufen; .خَریدَن، خَرید کَردَن، اِبتیاع ک
@@ -369,7 +372,7 @@ kein;
 - es war kein ganzer Tag mehr bis ...; يِک روز نیز بیشتَر به ... نَمانده بود
 - diesmal wirklich keinen Fehler machen; دیگَر دَست از پا خَطا نِمى کُنیم
 - auf keinen Fall; به هیچ وَجه
-- Keiner macht ...;  اَحَدى ... نِمى کُنَد، هیچکَس نِمى کُنَد، يِکى نیست که
+- Keiner macht ...; اَحَدى ... نِمى کُنَد، هیچکَس نِمى کُنَد، يِکى نیست که
 keinerlei; اصلاً و اَبَداً، هیچ
 - keinerlei Wunsch verspüren, herauszukommen; به رَهائى از آن چَندان عَلاقه اى نَداشتَن
 keinesfalls; حاشا و کَلا، به هیچ وَجه
@@ -413,9 +416,9 @@ Kennzeichen;
 - besondere Kennzeichen; عَلامَت ِ فارِقه، نِشانهٔ خُصوصى
 - Autokennzeichen; شُمارهٔ ماشین
 - Wesenskennzeichen; عَلائِم ِ ذاتى
-kennzeichnen;  .عَلامَت گُذاشتَن، نِشانه گ
+kennzeichnen; .عَلامَت گُذاشتَن، نِشانه گ
 kennzeichnend; فارِق
-kentern;  .وارونه شُدَن، چَپه ش
+kentern; .وارونه شُدَن، چَپه ش
 Keramik; سُفالینه، ظَرف ِ سُفالین
 - Keramik als Kunstgegenstand; سِرامیک
 - Keramikherstellung; سِرامیکسازی
@@ -471,9 +474,8 @@ Kidnapper; آدَم رُبا، - دُزد
 Kidnapping; آدَم رُبایی
 Kiebitz; شانه بِسَر، هُدهُد
 kiebitzen; با کُنجکاوى نِگاه کَردَن، چَپ چَپ ـ
-Kiefer;
+Kiefer; آرواره، فَک
 - Kiefer (Baum); دِرَخت ِ کاج
-- Kiefer; آرواره، فَک
 - Oberkiefer; فَک ِ اَعلىٰ، فَک ِ بالائى
 - Unterkiefer; فَک ِ اَسفَل، حَنَک
 Kieferhöhle; حُفرهٔ فَکى
@@ -524,7 +526,7 @@ kippen;
 - das Fenster kippen; پَنجَره را يَله کَردَن
 - ins Meer kippen; تو دَریا ریختَن
 - die Sache kippt; قَضیه واژگون میشَوَد، به هَم میخورَد، آب آتَش می شَوَد، سُکونَت و آرامِشی به فِتنه و فِساد و آشوب سَخت بَدَل گَشتَن
-- jem. vom Platz kippen;  .کِسی را مُعاف کَردَن، - بَر کِنار ک
+- jem. vom Platz kippen; .کِسی را مُعاف کَردَن، - بَر کِنار ک
 Kirche; کِلیسا
 Kirmes; شَهر بازی
 Kirsche;
@@ -532,7 +534,7 @@ Kirsche;
 - Süsskirsche; گیلاس
 - Tollkirsche; گیلاس ِ وَحشى
 Kissen; زیر سَرى، بالِش
-- s. gegen das Kissen lehnen;  .پُشت به پُشتى دادَن، به مُتَکا تِکیه د
+- s. gegen das Kissen lehnen; .پُشت به پُشتى دادَن، به مُتَکا تِکیه د
 - Kopfkissen; سَربالین، رو بالِش
 - Rückenkissen; مِخَده
 - Stützkissen; مُتَکا
@@ -595,9 +597,8 @@ klapprig; لَق بودَن
 - klappriger Bus; اُتوبوس ِ اِسقاطی
 - klappriger Bursche; پِسَر ِ بادبادی
 Klappstuhl; صَندَلى ِ سَفَرى، تا شو
-klar;
+klar; پَس چی
 - alles klar bei dir? (popul.); چِتِه؟
-- klar; پَس چی
 - klar gibt er ...; آره پَس چی که می دَهَد
 - Na klar!; به روى ِ چِشم
 - es wurde klar, ...; مَعَلوم شُد
@@ -626,7 +627,7 @@ Klarinette; قَرنِى
 klarkommen;
 - mit etwas (jem.) klarkommen; با چیزی (کِسی) کِنار آمَدَن، با کِسی سَر شُدَن، - ساختَن
 Klärung; توضیح، روشَن کَردَن
-- der Richter versprach vollständige Klärung;  قاضى وَعدهٔ رِسیدِگى ِ کامِل داد
+- der Richter versprach vollständige Klärung; قاضى وَعدهٔ رِسیدِگى ِ کامِل داد
 Klasse;
 - er geht in die dritte Klasse; او میرَوَد کلاس ِ سِوُم
 - er war Klasse; او آتَش پاره بود
@@ -710,7 +711,7 @@ Kleinkrämer; پیله وَر، خورده فُروش
 kleinkriegen; کِسى را خُرد کَردَن، ـ داغون ک.، ـ از پا دَر آوَردَن
 Kleinod; (pl.) ( نَفیسه (نَفايِس
 Kleinstadt; شَهرَک
-kleinwüchsig;  آدَم ِ کوتاه قَد، - ریزنَقش
+kleinwüchsig; آدَم ِ کوتاه قَد، - ریزنَقش
 Kleister; چَسب
 Klemme;
 - in der Klemme sitzen; دَر گِرِفتارى بودَن، نَه راه پیش و نَه راه پَس داشتَن، دَر این مورِد گیر شُدَن
@@ -789,7 +790,7 @@ knallen; تَرَق تَرَق کَردَن
 Knallkörper; تَرَقه
 knapp; کَم، ضَيِق
 - knapp 5,- Euro; به زور ۵ یورو
-- knapp werden;  .نایاب شُدَن، مُتَناقِص ش
+- knapp werden; .نایاب شُدَن، مُتَناقِص ش
 - in Bezug auf ... waren wir so knapp, dass ...; از لَحاظ ِ... دَر مَضیقه بودیم که
 - knappe Mehrheit; اَکثَريَت ِ ضَعیف، ـ قَلیل، ـ کَمى
 - er ist mit knapper Not entkommen; او جان ِ مُفت بِدَر بُرده است
@@ -826,9 +827,9 @@ knickrig; خَسیس، نان ِ کور، مَگَس دَر هَوا رَگ زَ
 Knie; (pl.)  (زانو (زانوان
 - die Knie beugen (beim Sport); نِشَستَن و پا شُدَن
 - jem. auf die Knie zwingen; کِسى را به زانو دَر آوَردَن
-Kniefall; (vor höher gestellter Person) بِیعَت
 knieen; زانو زَدَن
 - knie dich hin!; به زانو دَر آى
+Kniefall; (vor höher gestellter Person) بِیعَت
 kniend; دوزانو
 Kniescheibe; کَشکَک ِ زانو، جِلو زانو، سَر ِـ
 Kniff; تا
@@ -877,9 +878,6 @@ knurren; ژَکیدَن
 - jem. anknurren; سَر ِ کِسى قُر زَدَن
 - Magenknurren; قارت و قورت ِ شِکَم، غار و غور ِ شِکَم
 knutschen; ماچ و موچ کَردَن
-k.o.; ضَربهٔ فَنى
-- jem. k.o. schlagen; کِسى را ضَربهٔ فَنى کَردَن
-- der Sportler ist k.o.; وَرزِشکار از پا دَرآمَد
 Koalition; اِئتِلاف
 - Parteienkoalition; اِئتِلاف ِ اَحزاب
 - Koalitions- (zusammengesetztes Wort); مؤتَلِف
@@ -948,13 +946,13 @@ Kollier; توق، طوق
 Kollision; بَرخورد
 - Interessenkollision; بَرخورد ِ مُصالِح
 Kollisionskurs; مَسیر ِ دَرگیرى، ـ تَصادُم
+Kolloquium; جَلَسهٔ بَحث و مُحاوِره
 kolonial; مُستَعمِراتى
 Kolonialismus; اِستِعمار
 Kolonialstaat; دولَت ِ مُستَعمِر
 Kolonialwarenhändler; (popul.) بَقال چَقال
 Kolonie; مُستَعمِره
 Kolonne; سُتون
-Kolloquium; جَلَسهٔ بَحث و مُحاوِره
 kolossal; فوق اُلعاده
 - kolossales Mahl; غَذاى ِ هَنگُفت
 Kolostrum; نَخستین شیر، ماک، سَرَس
@@ -974,6 +972,7 @@ komisch;
 - das kam mir komisch vor; اِحساس ِ مَسخَرِگى کَردَم، این بَرايَم خَنده دار بود
 - komische Geschichte; حِکايَت ِ مُضحِک، - خَنده دار
 - komische Oper; اُپِراى ِ کُمیک
+Komiss; سَربازى، قُوهٔ نِظامى
 Komitee; هِیئَت، کومیته
 Komiteemitglied; عُضو ِ هِیئَت
 Komma; مُمَيِز، ویرگول
@@ -1010,7 +1009,6 @@ Kommentator; مُحَشى، مُفسِر
 kommentieren; نَظَریه دادَن
 Kommerz; سوداگَرى
 kommerziell; تَجارى، بازَرگانى، تِجارَتى
-Komiss; سَربازى، قُوهٔ نِظامى
 Kommissar; کَلانتَر
 Kommissariat; کَلانتَرى
 Kommission; کُمیسیون، هِیئَت
@@ -1022,7 +1020,6 @@ Kommune; بَخش، ناحیه
 Kommunikation; مُصاحبه، اِطِلاع رِسانى
 Kommunikationsmittel; رِسانه
 Kommunikationssystem; سیستِم ِ مُخابِرات
-Komunikationswissenschaft; عِلم ِ رِسانه هاى ِ گُروهى
 Kommunique; اِعلامیه
 - Pressekommunique; بَیانیهٔ مَطبوعاتى
 Kommunismus; کُمونیسم
@@ -1086,6 +1083,7 @@ Kompromiss; سازِش، تَوافُق
 kompromissbereit; با گُذَشت
 Kompromissler; سازِشکار
 kompromitieren; ابروی ِ کِسی را بُردَن
+Komunikationswissenschaft; عِلم ِ رِسانه هاى ِ گُروهى
 Kondensation; تَبدیل بُخار به مايِع
 Kondensationswärme; حَرارت ِ مَيَعان
 Kondensator; خازِن
@@ -1159,6 +1157,8 @@ Konkurs; وَرشِکَستِگى، اِفلاس، تَفلیس
 - Konkurs machen; وَرشِکَست شُدَن
 Konkursmasse; اَموال ِ شِرکَت ِ وَرشِکَستِگى
 Konkursverwalter; مُتَوَلى ِ وَرشِکَستِگى
+Können; (n) مُهارَت، لیاقَت، قابِليَت، اَهَليَت، تَوانائى
+- Können verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر
 können; تَوانستَن، بَلَد بودَن، تَوانائى داشتَن
 - dieser Mangel an ... könnte ...; این نَقصان ... مُمکِن بود که
 - sie versuchen so gut sie können; آنها هَرچه از دَستِشان بَر مى آيَد تَلاش مى کُنَند
@@ -1167,8 +1167,6 @@ können; تَوانستَن، بَلَد بودَن، تَوانائى داشت�
 - es kann gut sein, dass ...; چه بَسا است که
 - kannst du das?; قِلِقِش را بَلَدى؟، فوت و فَنى اَش را ـ؟
 - Jem., der nichts kann, Looser; آب از گََلوی ِکِسی پایین نِمی رَوَد
-Können; (n) مُهارَت، لیاقَت، قابِليَت، اَهَليَت، تَوانائى
-- Können verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر
 Konsens; مُبتَنى بَر) اِجماع ِ نَظَر)
 konsequent;
 - er ist konsequent; او سَر سَخت است، ـ جِدى است
@@ -1218,7 +1216,7 @@ Konsument; مَصرَف کُنَنده
 Konsumgüterangebot; عَرضهٔ کالاهاى ِ مَصرَفى
 konsumieren; مَصرَف کَردَن
 Kontakt; تَماس، بَرخورد، اِتِصال
-- mit jem. Kontakt haben;  .با کِسى حَشر و نَشر داشتَن، ـ تَماس د
+- mit jem. Kontakt haben; .با کِسى حَشر و نَشر داشتَن، ـ تَماس د
 kontaktfreudig; زود جوش
 Kontaktperson; رابِط، آدَم ِ مُرَجَع
 Kontaktwirkung; اَثَر ِ مُجاوِرَتى
@@ -1252,15 +1250,15 @@ Kontrawirkung; نَتیجهٔ عَکس
 Kontribution; غَرامَت
 - Kriegskontribution; غَرامَت ِ جَنگ
 Kontrolle; کُنترُل، بازرِسی
-- ausser Kontrolle geraten;  .لاقِید شُدَن، لِجام گُسیخته ش
+- ausser Kontrolle geraten; .لاقِید شُدَن، لِجام گُسیخته ش
 - wir halten alle unter Kontrolle; هَمه را تَحت ِ نَظَر مى گیریم، ـ کُنترُل مى کُنیم
 - das Feuer ist unter Kontrolle; آتَش مُهار شُد
-- er hat die Kontrolle aus der Hand gegeben;  اَفسارَش به دَست ِ خودَش نَیستَند
+- er hat die Kontrolle aus der Hand gegeben; اَفسارَش به دَست ِ خودَش نَیستَند
 - sie hat ihre Worte unter Kontrolle (aus Rücksicht auf jem.); او حَرفَش را يِکدَستى مى گیرَد
 - Finanzkontrolle; بازرِسى ِ اُمور ِ مالى
 - Rauschgiftkontrolle; نِظارَت بَر مَواد ِ مُخَدِر
 - Warenkontrolle; بازرِسى کُنَندهٔ کالا
-kontrollieren;  .کُنترُل کَردَن، بازرِسى ک
+kontrollieren; .کُنترُل کَردَن، بازرِسى ک
 - seine Hände machen unkontrollierte Bewegungen; دَستهايَش به اِختیارِش نَبودَند
 Kontroverse; مُناقِشه، نِزاع، مُشاجِره، تِضاد
 Konus; مَخروط
@@ -1292,7 +1290,7 @@ Konzentrationsausgleich; تَساوى ِ غَلظَت
 Konzentrationslager; بازداشتگاه ِ مَرکَزى ِ اَسیران و زِندانیان
 konzentrieren;
 - s. konzentrieren auf; به چیزى تَمَرکُز دادَن، مُتَمَرکِز ِ چیزى بودَن
-- seine Gedanken konzentrieren auf ...;  فِکر ِ خودرا به ... مَعطوف داشتَن
+- seine Gedanken konzentrieren auf ...; فِکر ِ خودرا به ... مَعطوف داشتَن
 - sei ein bisschen konzentrierter; حَواسَت جَمع باش
 konzentrisch; مُتَحِد اُلمَرکَز
 Konzept; طَرح، بَرنامه
@@ -1417,12 +1415,6 @@ kostbar; مَرغوب، گِرانبَها
 - kostbare Kleidung; جامهٔ زَربَفت
 - kostbare Information; اِطِلاع ِ ذیقِیمَت
 Kostbarkeit; (pl.) (نَفیسه (نَفايِس
-kosten; قِیمَت ِ آن این است، قِیمَت داشتَن
-- die ... Dollar kosten; که ... دُلار خَرج دَر بَر داشتَن
-- was kostet das?; قِیمَتَش چَنده؟
-- Koste es, was es wolle; به هَر قِیمَتى که شُده
-- das kostet schon einiges; این مَبلَغى خَرج دَر مى دارَد
-- kosten, probieren; چِشیدَن، لَب زَدَن
 Kosten; (f) مَخارِج
 - auf anderer Leute Kosten leben; نِیزه بازى کَردَن
 - es s. gut gehenlassen auf Kosten anderer; بَراى ِ خوش باشى از دیگَران مایه گُذاشتَن
@@ -1432,6 +1424,12 @@ Kosten; (f) مَخارِج
 - das Auto verursacht Kosten; ماشین بِخَرج مى اُفتَد
 - Lebenshaltungskosten; هَزینهٔ زِندِگى، مَخارِج ِ زِندِگى
 - Produktionskosten; هَزینهٔ تولید
+kosten; قِیمَت ِ آن این است، قِیمَت داشتَن
+- die ... Dollar kosten; که ... دُلار خَرج دَر بَر داشتَن
+- was kostet das?; قِیمَتَش چَنده؟
+- Koste es, was es wolle; به هَر قِیمَتى که شُده
+- das kostet schon einiges; این مَبلَغى خَرج دَر مى دارَد
+- kosten, probieren; چِشیدَن، لَب زَدَن
 kostendeckend;
 - die Anlage arbeitet kostendeckend; طَرح به مَرحَلهٔ بَهره بَر دارى رِسید
 kostengünstig;
@@ -1526,7 +1524,7 @@ kramen; اَنگولَک زَدَن
 Krämer; بَقال، دُکان دار
 - der Krämer an der Ecke; بَقال سَر ِ گُذَر
 Krampf; اِرتِعاش، تَشَنُج
-- so ein Krampf (popul.);  مُزَخرَفات بودَن
+- so ein Krampf (popul.); مُزَخرَفات بودَن
 - Muskelkrampf; گِرِفتِگى ِ ماهیچه
 Krampfadern; واریس
 krampfartig; مُتَشَنِج
@@ -1602,7 +1600,6 @@ Kreditbank; بانک ِ اِستِقراضى
 Kreditkarte; کارت ِ اِعتِبار
 Kreide; گَچ
 Kreidepulver; گِل ِ گیوه
-kréieren; چیزى را اِبداع کَردَن
 Kreis; دايِره
 - Kreis, Bezirk; بَخش، حوزه، ناحیه
 - s. im Kreis bewegen; چَرخ زَدَن، حَرَکَت ِ دورانى
@@ -1649,6 +1646,7 @@ Kreuzung; تَقاطُع، چَهارراه، سه راه
 - Kreuzung (biol.); جُفتگیرى، دورَگه پَروَرى، آمیزِش، پِیوَند
 Kreuzworträtsel; جَدوَل ِ کَلَمات ِ مُتَقاطِع
 Kreuzzug; جَنگ ِ صَلیبى
+kréieren; چیزى را اِبداع کَردَن
 kribbelig; ناراحَت، عَصَبانى
 kriechen; زَحف کَردَن، خَزیدَن
 - zwischen den Leuten herumkriechen; از لاى ِ مَردُم سُریدَن
@@ -1696,10 +1694,10 @@ Krise; بُحران
 - Lebenskrise; بُحران ِ زِندِگی
 Krisenmanagement; تَدبیر ِ بُحران
 Kristall; بُلور
-Kristallkügelchen; دانه هاى ِ بُلورین
 Kristallisation; تَبَلوُر
 kristallisieren; مُتَبَلوُر کَردَن
 - s. herauskristallisieren; تَبَلوُر یافتَن
+Kristallkügelchen; دانه هاى ِ بُلورین
 Kriterium; مَحَک، مَلاک، مِعیار
 - für mich ist das kein Kriterium; بَراى ِ مَن مَلاک نیست
 Kritik; اِنتِقاد، نَقد
@@ -1779,7 +1777,7 @@ kugelsicher; ضِد ِ گُلوله
 - kugelsichere Weste; جِلِتقهٔ ضِد ِ گُلوله
 Kugelstossen; پَرتاب ِ گُلوله
 Kuh; گاو
-Kuhfladen;  تاپالهٔ گاو، پِشکِل ِ گاو
+Kuhfladen; تاپالهٔ گاو، پِشکِل ِ گاو
 Kuhhandel;
 - parteipolitischer Kuhhandel; بِده بُستان دَرون ِ حِزبى
 kühl;
@@ -1875,7 +1873,7 @@ Kuppler; قُرُمساق، پااَنداز
 Kupplung; کِلاچ
 - Kupplung, Verbindung; تَزویج، پِیوَست، اِتِصال
 Kupplungsstecker; دوشاخهٔ تَزویج
-Kur;  تَداوى، تَدویه، دورهٔ مُعالِجه
+Kur; تَداوى، تَدویه، دورهٔ مُعالِجه
 Kurator; مُتَوَلى
 Kuratorium; هَیئَت ِ اُمَنا
 Kurbel; هِندِل
@@ -1909,12 +1907,12 @@ kurz; کوتاه
 - nach kurzer Zeit; بَعد از مُدَت ِ کَم
 - in Kürze; به زودی، عَنقَریب
 - in kürzester Zeit; دَر اَسرَع ِ وَقت، دَر کوتاه مُدَت
+Kürzel; مُخَفَفه
 kürzen; (z.B. Text) .خُلاصه کَردَن، کوتاه ک
 - Kürzen (zur Präzisierung von Text); ایجاز
 - nicht den Kürzeren ziehen; کوتاهی نَداشتَن
 - er musste immer in Bezug auf ... den Kürzeren ziehen; هَمواره مُقابِل ِ ... کوتاه آمَده بود
 - verkürzen; مُنقَبِض کَردَن
-Kürzel; مُخَفَفه
 kurzfristig; قَصیر اُلمُدَت، قَلیل اُلمُدَت، کوتاه مُدَت، تَک پا
 kurzlebig; زود گُذَر، خَلق اُلساِعه
 kürzlich; اَخیراً
@@ -1926,7 +1924,7 @@ Kurzsichtigkeit; نَزدیک بینى ِ چِشم
 Kurzstreckenrakete; موشَک ِ کَم بُرد
 Kürzung; کاهِش
 Kurzwarenhändler; خَرازى فُروش
-Kurzwelle;  موج ِ کوتاه
+Kurzwelle; موج ِ کوتاه
 kurzzeitig; کوتاه مُدَت
 kuschen; اِطاعَت مُآب
 - kusch dich!; لُنگ بيَنداز

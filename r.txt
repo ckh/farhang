@@ -108,7 +108,7 @@ Rand; دیواره، کِناره، لَبه
 - er ist ausser Rand & Band; سَر از پا نَشِناختَن
 - er ist vor Freude ausser Rand & Band; از شادى دَر پوست نِمى گَنجَد
 - mit einer Sache nicht zu Rande kommen; نَتَوانِستَن از چیزی تَسکین یافتَن
-- am Rande des Geschehens sein ; کِنار ِ گود بودَن، دَر شُرُف ِ رویداد بودَن
+- am Rande des Geschehens sein; کِنار ِ گود بودَن، دَر شُرُف ِ رویداد بودَن
 - am Rande des Schattens; لَب ِ سایه
 - s. auf den Bettrand setzen; بَر لَبهٔ تَخت نِشَستَن
 Randale; فِتنه، آشوبگَرى
@@ -124,13 +124,13 @@ rangieren;
 - rangieren (Zug); به خَط ِ دیگَر راندَن
 - er rangiert an 2. Stelle; او دَر دَرَجهٔ دُوُم قَرار دارَد
 Rangordnung; تَرتیب ِ مَقام
-Ranke; پیچَک
 Ränke; زَمینه سازی
 - Ränke schmieden; زَمینه سازى کَردَن، از هَم خورده گِرِفتَن
+Ranke; پیچَک
 ranmachen;
 - s. an jem. ranmachen; تو نَخ ِ کِسی رَفتن
 ranzig; خَراب، فاسِد
-Raps; کِلزا 
+Raps; کِلزا
 rar; کَمیاب، به نُدرَت
 Rarität; (pl.)  (تُخفه، نادِره (نَوادِر
 rascheln; خِش خِش کَردَن
@@ -138,7 +138,7 @@ rasen; با سُرعَت ِ مَزید راندَن
 Rasen (m); چَمَن
 rasend; ژیان، جُنون آمیز
 Rasenmäher; ماشین ِ چَمَن چین، ـ زَنى
-Rasierapparat;  (خود تَراش(ـ  ِ بَرقى
+Rasierapparat; (خود تَراش(ـ  ِ بَرقى
 Rasiercreme; خَمیر ِ ریش تَراشى
 rasieren; صورَت را اِصلاح کَردَن، ریش تَراشیدَن
 - gegen den Strich rasieren; چَپَه تَراش کَردَن
@@ -171,7 +171,7 @@ Rat; مَشوَرَت، پَند
 - Rat für gegenseitige Wirtschaftshilfe; شوراى ِ کُمَکهاى ِ اِقتِصادى ِ مُتَقابِل
 Rate; (pl.)  (قِسط (اَقساط
 - auf Raten; قِسطى
-- auf Raten zahlen;  .قِسطى پَرداختَن، به اَقساط پ
+- auf Raten zahlen; .قِسطى پَرداختَن، به اَقساط پ
 raten;
 - das rate ich dir; از مَن به تو اَمانَت
 - raten, vermuten; حَدس زَدَن
@@ -340,7 +340,7 @@ Rechenschaft;
 - jem. Rechenschaft ablegen; به کِسى حِساب پَس دادَن، - جَواب پَس دادَن، پاسُخگوئی دَر مُقابِل
 - Rechenschaft fordern; حِساب ِ کِسى را باز خواستَن، باز خواست کَردَن
 - ich ziehe dich wegen deiner Taten zur Rechenschaft; تورا به سَزاى ِ اَعمالَت مى رِسانَم، حَق ِ تو را کَف ِ دَستَِت مى گُذارَم
-Rechenschaftsbericht (- geben);  (حِساب (پَس دادَن
+Rechenschaftsbericht (- geben); (حِساب (پَس دادَن
 Rechenschieber; خَط کِش ِ حِساب
 Rechentafel; جَدوَل ِ مُحاسِباتى
 Recherche; پِی گَردی، تَفَحُص
@@ -374,7 +374,7 @@ recht;
 - bitte recht freundlich; خواهِش مى کُنَم شاد باشید
 - es jedem recht machen wollen; کارى کَردَن که نَه سیخ بسوزَد نَه کَباب، او می خواهَد کِرم ِ دِرَختی يِکی باشَد
 - das geht nicht mit rechten Dingen zu; هیله گَرى دَر کار است
-- nach dem Rechten sehen;  .سَر کِشى کَردَن، وارِسى ک.، رِسیدِگى ک
+- nach dem Rechten sehen; .سَر کِشى کَردَن، وارِسى ک.، رِسیدِگى ک
 Recht (n); حَق
 - (relig.) Recht; (feqh) قانون، شَریعَت، فِقه
 - mit Recht; به حَق
@@ -397,8 +397,8 @@ rechten;
 rechtens; به حَق
 - war es nicht rechtens, dass ...; آیا حَقِش نَبود که
 rechtfertigen;
-- jem. rechtfertigen;  .کِسى را تَبرئه کَردَن، از حَق ِ کِسى دِفاع ک
-- s. rechtfertigen;  .خودرا توجیه کَردَن، ـ دِفاع ک
+- jem. rechtfertigen; .کِسى را تَبرئه کَردَن، از حَق ِ کِسى دِفاع ک
+- s. rechtfertigen; .خودرا توجیه کَردَن، ـ دِفاع ک
 Rechtfertigung; توجیه، دِفاع
 Rechtfertigungslehre; تَعلیم ِ بَخشِش، ـ بَرائت، ـ تَبرئه
 Rechtgläubiger (isl.); راشِد
@@ -467,7 +467,7 @@ reden; صُحبَت کَردَن، سُخَن گُفتَن
 - rede nicht von Dingen, von denen du nichts weißt; تو به اوج ِ فَلَک چه دانى چیست چون نَدانى که در سَراى ِ تو کیست
 - unfähig zu reden; صامِت
 - einer, der langsam redet; آدَم ِ بَطى اُلکَلام
-- drauf los reden;  .دَهَن لَق کَردَن، آسمان ریسمان ک
+- drauf los reden; .دَهَن لَق کَردَن، آسمان ریسمان ک
 - von jem. reden; حَرف از کِسی شُدَن
 - dazwischen reden; حَرف توی ِ حَرف آمَدَن
 - freundlich reden; خوش زَبان
@@ -480,7 +480,7 @@ reden; صُحبَت کَردَن، سُخَن گُفتَن
 - falsche Reden führen; بِکَذب تَنَطُق کَردَن
 - Reden und Tun sind zweierlei; دو صَد گُفته چون نیم کِردار نیست
 - Reden ist Silber, Schweigen ist Gold; سُخَن اَگَر زِر است سُکوت گوهَر است
-- jem. zum Reden bringen;  .از کِسى حَرف کِشیدَن، از زیر ِ زَبان ِ کِسى حَرف ک
+- jem. zum Reden bringen; .از کِسى حَرف کِشیدَن، از زیر ِ زَبان ِ کِسى حَرف ک
 - geschickter sein im Reden als ...; سَر ِ زَباندارتَر از ... بودَن
 Redeordnung; تَرتیب ِ تَقَدُم ِ سُخَنرانى
 Redewendung; عِبارَت ِ عامیانه، اِصطِلاح ِ ـ
@@ -617,7 +617,7 @@ reibungslos;
 - die Sache ging reibungslos vor sich; کار بِدون ِ خَرخَشه اَنجام گِرِفت، ـ بِدونِ دَرد ِ سَر ـ، ـ بِدون ِ مُشکِلات ـ
 Reibungsverlust; اِصطِکاک تَلَف
 reich; مُتَمَوِل، مایه دار، پولدار
-- reich sein (auch in Bezug auf Werte);  .غَنى بودَن، مُستَغنىٰ ب
+- reich sein (auch in Bezug auf Werte); .غَنى بودَن، مُستَغنىٰ ب
 - aus reicher Erfahrung; از فَرط ِ تَجرُبه
 - reich sein wie Krösus; گَنج ِ قارون، اُتُرخان
 - er hält mich für den Sohn von irgendso einem Reichen; خیال می کُنَد که مَن پِسَر ِ اُتُرخان ِ اَعظَمَم
@@ -662,7 +662,7 @@ reifen; بالِغ شُدَن
 Reifen (m); لاستیک ، طايِر
 - Ersatzreifen; طايِر ِ يَدَکى
 - Winterreifen; لاستیکهای ِ يَخ شِکَن
-- Winterreifen aufziehen;  لاستیك ِ يَخ شِكَن زیرِ ماشین اَنداختَن
+- Winterreifen aufziehen; لاستیك ِ يَخ شِكَن زیرِ ماشین اَنداختَن
 - Zwillingsreifen; لاستیکهاى ِ جُفتى
 Reifenprofil; شیار ِ لاستیک
 Reihe; رَسته، دَسته، نوبَت، رَدیف، سِرى
@@ -744,12 +744,12 @@ Reisegepäck; توشهٔ سَفَر، بار ِ ـ، اَسباب ِ ـ
 Reisegeschenk; اَرمَغان
 Reisegesellschaft; قافِله
 Reisekosten; مَخارِج ِ اَیاب و ذَهاب، هَزینهٔ سَفَر
-- Erstattung der Reisekosten;  اِستِرداد ِ هَزینهٔ سَفَر
+- Erstattung der Reisekosten; اِستِرداد ِ هَزینهٔ سَفَر
+Reiselust;
+- die Reiselust überkommt ihn; هَواى ِ سَفَر به سَرِ او مى زَنَد، هَوَس ِ سَفَر مى کُنَد
 reisen; مُسافِرَت کَردَن
 - Erfahrung kommt durch Reisen; بِسیار سَفَر بايَد تا پُخته شَوَد خامى
 - auf Reisen und daheim; دَر سَفَر و حَضَر
-Reiselust;
-- die Reiselust überkommt ihn; هَواى ِ سَفَر به سَرِ او مى زَنَد، هَوَس ِ سَفَر مى کُنَد
 Reisender; مُسافِر، سَیاح، سَیار
 - Reisender (geistig); سالِک
 Reiseproviant; توشه
@@ -936,7 +936,7 @@ Rettung; نِجات، رَهائى
 retuschieren; رتوش کَردَن
 Reue; نِدامَت، پَشیمانى
 reumütig;
-- reumütig sein;  .مُتَنَدِم بودَن، نادِم ب.، پَشیمان ب
+- reumütig sein; .مُتَنَدِم بودَن، نادِم ب.، پَشیمان ب
 Revanche; اِنتِقام
 revanchieren;
 - s. gegenüber jem. revanchieren (im positiven Sinn); به کِسى نَمَک شِناس بودَن، ـ مِنَت شِناس ـ
@@ -1006,7 +1006,7 @@ Richter; (pl.) قاضى (قَضات)، داوَر، دادرَس، دادگَر
 Richteramt; داد و سِتَد
 richtig; دُرُست، صَحیح
 - nicht richtig, irrig; ضَلیل، نادُرُست
-- für richtig erachten;  .مَصلَحَت دانِستَن، ـ دیدَن، بِهتَر دیدَن، صَلاح د
+- für richtig erachten; .مَصلَحَت دانِستَن، ـ دیدَن، بِهتَر دیدَن، صَلاح د
 - es ist völlig richtig, dass ...; بِسیار بِجا است که
 - was du sagst, ist richtig; آنچه که گُفتى دُرُست است، ـ صَحیح است، بَر حَق است
 - ob es vor Gott richtig ist, dass ...; آیا نَزد ِ خُدا صَواب است که
@@ -1024,7 +1024,7 @@ Richtung; (pl.)  (مَسیر، سَمت، جَهَت (جَهات
 - sein Denken geht in eine Richtung mit ...; فِکر ِ او با ... يِک راستا است
 Richtungskampf; مُبارزهٔ ایدئِولژیک ِ داخِلى
 Richtwert; مِقدار ِ تَقریبى
-riechen;  .اِستِشمام کَردَن، بو ک
+riechen; .اِستِشمام کَردَن، بو ک
 - scharf riechen (Essen); غَذای ِ بودار، دارای ِ بوی ِ تُند
 - er kann ihn nicht riechen; او چِشم دیدَنِش را نَدارَد
 - es riecht nach ...; بوى ِ ... مى دَهَد
@@ -1101,10 +1101,10 @@ Ritzel; دَندانه
 - Anlasserritzel; چَرخ ِ دَندانهٔ اِستارت
 ritzen; شَخانیدَن، پَنجول زَدَن، خَراش دادَن
 - etwas einritzen (z.B. mit Fingernagel); چیزى را حَک کَردَن
-Rivale;  رَقیب، حَریف
+Rivale; رَقیب، حَریف
 Rizinus; کَرچَک
 Robbe; خوک ِ دَریایى
-robben;  .بَر شِکَم رَفتَن، رو زَمین کُشاله ر
+robben; .بَر شِکَم رَفتَن، رو زَمین کُشاله ر
 - von Stelle zu Stelle robben; سینه خیز از مَحَل به مَحَل خَزیدَن
 röcheln; خُر خُر کَردَن، خِس خِس ک.، خَرناس کِشیدَن، رَخیدَن ، سینهٔ کِسی به خِس خِس اُفتاده
 Röcheln (n); خَرناس، نَفَس ِ اِحتِضار
@@ -1239,7 +1239,7 @@ rückgängig;
 - eine Annexion rückgängig machen; رَفع اُلحاق
 Rückgewinnung; بازیابى
 Rückgrat; سُتون ِ فُقَرات
-- Rückgrat zeigen;  .مَتین بودَن، پابَرجا ب
+- Rückgrat zeigen; .مَتین بودَن، پابَرجا ب
 - kein Rückgrat haben; پَر و پا نَداشتَن
 Rückhalt; پُشتیبانی، حِمايَت
 - ohne Rückhalt sein; پُشت ِ کِسی خالی است
@@ -1296,7 +1296,7 @@ Rückwärtsbewegung; تَرَقى ِ مَعَکوس
 Rückwärtsgang; دَندهٔ عَقَب، ـ مَعکوس
 rückwirkend;
 - rückwirkend in Kraft treten; با عَطف بِماسَبَق اِعتِبار ِ قانونى یافتَن
-- rückwirkende Erleichterung;  سُهولَت ِ پَس گُستَر
+- rückwirkende Erleichterung; سُهولَت ِ پَس گُستَر
 Rückwirkungen; عَواقِب، عَطف بِماسَبَق
 Rückzahlung; اِعاده، اِستِرداد
 Rückzieher;
@@ -1323,14 +1323,14 @@ Ruf; وِجهه، آبرو، حِیثيَت
 - schlechten Ruf haben; بَدنام بودَن
 - sein Ruf geht vor ihm her; آوازهٔ او پیشِش مى رَوَد
 - sein Ruf verbreitete sich; صِیت ِ شُهرَتَش به هَمه جا رِسید
-- den Ruf von ... kaputtmachen;  آبِروی ِ کِسی را ریختَن، حِشتَک ِ کِسی را سَرِش کِشیدَن
+- den Ruf von ... kaputtmachen; آبِروی ِ کِسی را ریختَن، حِشتَک ِ کِسی را سَرِش کِشیدَن
 - den guten Ruf von ... wieder herstellen; آبِروی ِ کِسی را خَریدَن
 rufen; هَوار زَدَن، ـ کِشیدَن، صِیحه زَدَن، صِدا کَردَن
 - zu rufen beginnen; بَناى ِ فَریاد زَدَن را گُذاشتَن
 - zur Ordnung rufen; به نَظم فَرا خواندَن
 - er ruft ihn zu s. an den Tisch; اورا به سَر ِ میز ِ خود دَعوَت مى نَمايَد
 Rüge; سَرزَنِش، نِکوهِش
-- jem. eine Rüge erteilen (*:Tadel);  به کِسى بیدارباش دادَن، ـ گوشمال د.، ـ مُؤخَذه کَردَن، ـ نِکوهِش کَردَن
+- jem. eine Rüge erteilen (*:Tadel); به کِسى بیدارباش دادَن، ـ گوشمال د.، ـ مُؤخَذه کَردَن، ـ نِکوهِش کَردَن
 rügen; مَذَمَت کَردَن، سَر زَنِش ک.، مَلامَت ک.، نِکوهیدَن
 Ruhe; آرامِش
 - Lass mich in Ruhe!; تَنهايَم بِگُذار، دَست از سَرَم بَردار
@@ -1348,7 +1348,7 @@ Ruhe; آرامِش
 - nicht aus der Ruhe zu bringen; آب توی ِ دِل ِ کِسی تَکان نَخوردَن
 - sie machten ihre Arbeit in aller Seelenruhe; آنها به راحَتى ِ آب خوردَن کارِشان را اَنجام دادَند
 ruhelos;
-- ruhelos sein;  .بیقَرار بودَن، ناآرام ب
+- ruhelos sein; .بیقَرار بودَن، ناآرام ب
 ruhen; آرامیدَن، غُنودَن، اِستِراحَت کَردَن
 - er wird nicht eher ruhen, bis es erledigt ist; او تا این کاررا تَمام نَکُنَد آرام نَخواهَد گِرِفت
 Ruhestadium; دورهٔ آرامِش
@@ -1371,9 +1371,8 @@ ruhig; مُستَریح، آرام، ساکِت
 Ruhm; آوازه، شُهرَت
 rühmen;
 - jem. rühmen (*:ehren); کِسی را اِحتِرام کَردَن
-- s. rühmen;  .نازیدَن، بالیدَن بَر خود، به خود اِفتِخار کَردَن، ـ فَخر ک
+- s. rühmen; .نازیدَن، بالیدَن بَر خود، به خود اِفتِخار کَردَن، ـ فَخر ک
 - er rühmt die Stadt für ...; او مَطالبِى دَر مَدح شَهر مى نِویسَد
-rumhängen (auf der Suche nach Arbeit); کِسی خیابانها را گَز می کُنَد
 ruhmreich; ناموَر
 rühren; بِهَم زَدَن
 - ich rühre mich nicht von der Stelle; مَن از اینجا تَکان نِمى خورَم
@@ -1394,6 +1393,7 @@ ruinieren; خَراب کَردَن
 ruiniert (psychol.); حال ِ شِکَسته
 rülpsen; آروغ زَدَن، شیشَکى کِشیدَن
 Rülpsen (n); آروغ، آجَل
+rumhängen (auf der Suche nach Arbeit); کِسی خیابانها را گَز می کُنَد
 Rumpf; تَنه
 rumwirbeln; بى قَرار بودَن، این وَر آن وَر چَرخیدَن
 - rumgewirbelt werden; مُعَلَق شُدَن
@@ -1424,13 +1424,13 @@ Runzel; شِکَن
 runzeln;
 - stirnrunzeln; اَخم را دَر هَم کَردَن
 runzlig; پُرچین، چین و چُروک
-- runzlige Haut (durch Wasser);  پوست ِ دَست و پا) پیروک)
+- runzlige Haut (durch Wasser); پوست ِ دَست و پا) پیروک)
 Rüpel; آدَم ِ بى تَربيَت
 rupfen (Federn beim Huhn nach dem Kochen); آبریت
-Rüssel (bei Elefanten);  (خُرطوم (ـ ِ فیل
 Ruß; دوده
+Rüssel (bei Elefanten); (خُرطوم (ـ ِ فیل
 rußig; دود آلود، دوده اى
-rüsten;  .تَسلیح کَردَن، مُسَلَح ک
+rüsten; .تَسلیح کَردَن، مُسَلَح ک
 - s. zum Krieg gegen ... rüsten; تَدارُک ِ حَمله به ... را دیدَن
 rüstig; سَر زِنده، سَر ِ حال
 Rüsttag; روز ِ تَهیه، ـ تَدارُک

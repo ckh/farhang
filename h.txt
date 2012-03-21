@@ -34,7 +34,7 @@ haarspalterisch; موشِکاف بودَن
 Haarsträhnchen; تَره ای از موها
 Habe;
 - Hab & Gut; مال و مَنال، دار و نَدار، بار و بَندیل
-- Hab & Gut habe ich verloren ; دار و نَدارَم از دَست رَفت
+- Hab & Gut habe ich verloren; دار و نَدارَم از دَست رَفت
 haben; داشتَن
 - Angst haben; دَر مَعرَض ِ تَرس بودَن، تَرس داشتَن
 - etwas nicht haben; از چیزى بى بَهره بودَن، ـ بى نَصیب ب
@@ -44,7 +44,7 @@ haben; داشتَن
 - diejenigen, die ... haben, können mitmachen; آنها میتَوانَند با دارا بودَن  ِ ...  شِرکَت کُنَند
 - jem., der ewiges Leben hat; او دارَندهٔ زِندِگى ِ جاوید است
 - wir hatten noch 3 Stufen vor uns; هَنوز سه تا پِله باقی داشتیم
-- dieses Land hat eine besondere Bedeutung als ...;  این کِشوَر اَهَمیَت ِ خاصى بِعُنوان ِ ... قائِل است
+- dieses Land hat eine besondere Bedeutung als ...; این کِشوَر اَهَمیَت ِ خاصى بِعُنوان ِ ... قائِل است
 - ich habe mit ... zu tun gehabt; با ... ساختَم
 - was hat er denn? (popul.); چه اَش است؟، چِشه؟
 - um zu zeigen, was er hat; بَرای ِ این كه خودی نِشان بِدَهَد
@@ -110,7 +110,7 @@ Hakenkreuz; صَلیب ِ شِکَسته
 halb; نِصف، نیمی
 halbautomatisch; نیمه خودکار
 halbfertig; نیمه کاره
-- eine Sache halbfertig stehenlassen;  دَست کِسى را تو حَنا گُذاشتَن
+- eine Sache halbfertig stehenlassen; دَست کِسى را تو حَنا گُذاشتَن
 halbherzig;
 - ein halbherziger Freund; رَفیق ِ نیمه راه
 halbieren; دو نیم کَردَن، نِصف ک
@@ -132,7 +132,7 @@ Halbvers; مِصراع
 Halbwertzeit; مُدَت ِ زَمانى که مِقدار ِ هَسته ها به نِصف تَجزیه شَوَد
 Halbzeit;
 - Halbzeit beim Sport; نیمه بازى
-- erste Halbzeit (z.B. beim Fussball); نیم ِ اَوَل 
+- erste Halbzeit (z.B. beim Fussball); نیم ِ اَوَل
 - in der Halbzeit (beim Sport); دَر بِین ِ دو نیمه
 Hälfte; نِصف، نیم
 - sie schrumpfen auf die Hälfte; آنها به نیمچه میرِسَند
@@ -232,23 +232,23 @@ Hand; دَست
 - da muß noch jem. die Hand anlegen (i.S.: Korrektur); دَستکاری می خواهَد
 - er hält seine Hand schützend über die Augen; او دَستَش را سایه بان ِ صورَتَش کَرد
 - die rechte Hand sein von jem.; دَست ِ راست ِ کِسی بودَن
-- soll ich dich mit leeren Händen auf das Fest schicken?;سَر و کون ِ بِرَحنه بِبَرَمِت جَشن
+- soll ich dich mit leeren Händen auf das Fest schicken?; سَر و کون ِ بِرَحنه بِبَرَمِت جَشن
 - mit leeren Händen zurückkommen; اُردَک رَفتَن غاز آمَدَن، دَست از پا دِِرازتَر بَرگَشتَن
 - mit leeren Händen dastehen; دَست ِ کِسی بی نَمَک بودَن
 Handarbeit; دَستکارى، دَست آفَرینه
 handbearbeitet; دَستکار، کارِدَستى
 Handbreite; وَجَب، یِک کَف ِ دَست
 Handbremse; تُرمُز ِ دَستى
-Handbuch; رَوال ِ کارگَردان، طَرز ِ عَمَل ـ، راهنَماى ِ اِستِفاده  
+Handbuch; رَوال ِ کارگَردان، طَرز ِ عَمَل ـ، راهنَماى ِ اِستِفاده
 Händedruck; دادَن ِ دَست
 - Händedruck austauschen (z.B. Boxer); مُصافِحِه
+Händel; زَد و خورد
 Handel; داد و سِتَد، بازَرگانى، تِجارَت، مُعامِله، بِیع ِ مُتَقابِل، بِیع و شِراء
 - Handel treiben; مُعامِله کَردَن، داد و سِتَد ک
 - der Handel ist noch nicht perfekt; یَخَش چَندان نَگِرِفته است
 - ihre Wirtschaft hängt vom Handel ab; اِقتِصاد ِ آنها به داد و سِتَد بَستِگى دارد
 - Grosshandel; بُنَکدارى، عُمده فُروشى
 - Einzelhandel; خرده فُروشى، تَکفُروشى
-Händel; زَد و خورد
 handeln; چانه زَدَن
 - er bezahlte, ohne zu handeln; او بی چَک و چانه ... را پَرداخت
 - handeln mit, umgehen mit; عَمَل کَردَن با، رَفتار کَردَن با، عامِل بودَن
@@ -383,7 +383,7 @@ härten;
 hartherzig; قَسى اُلقلب، مُرده دِل، سَنگدِل
 Hartherzigkeit; قَساوَت، سَنگدِلى
 hartnäckig; مُقاوِم، مُصِرانه، یِک دَنده، سِمِج
-- hartnäckig sein;  .مُصِر بودَن، سِمِج ب
+- hartnäckig sein; .مُصِر بودَن، سِمِج ب
 - hartnäckiger Widerstand; مُخالِفَت ِ سَرسَختانه
 - der Fleck ist hartnäckig; لَکه پاک نِمى شَوَد
 - hartnäckig sein, nicht aufgeben; دَست بَردار نَبودَن
@@ -395,7 +395,7 @@ harzen; صَمغ زَدَن
 Hase; خَرگوش
 Haselnuss; فَندُق
 Hass; عُدوان، بُغض، نِفرَت
-hassen;  .نِفرَت داشتَن، مَبغوض د.، مُنزَجِر بودَن، مُتَنَفِر ب
+hassen; .نِفرَت داشتَن، مَبغوض د.، مُنزَجِر بودَن، مُتَنَفِر ب
 - Mensch, der hasst; مُبغِض
 hassenswert; مَبغوض
 hässlich; زِشت، زَنَده
@@ -471,7 +471,7 @@ hausieren; دوره فُروشی کَردَن
 - mit einer Sache hausieren gehen (alleg.); با یِک چیزى پیله کَردَن
 Hausierer; فُروشَندهٔ دوره گَرد، دَست فُروش، خُرده پا
 häuslich; خانِوادِگى
-Hausmeister; سَرایدار 
+Hausmeister; سَرایدار
 Hausputz; خانه تَکانی
 Hausrat; لَوازِم ِ خانه
 - Hausrat zusammenpacken; بار و بُنه بَندَن، لَوازِم ِ مَنزِل ـ
@@ -484,7 +484,7 @@ Haut; پوست
 - mit heiler Haut davonkommen; جان ِ سالِم بِدَر بُردَن
 - mit Haut & Haaren; با اُستُخوان و خون
 - Schleimhaut; بافت ِ مُخاطى
-Hautabschürfung (- erleiden);  (پوست مال (- شُدَن
+Hautabschürfung (- erleiden); (پوست مال (- شُدَن
 häuten; سَلخ کَردَن، پوست کَندَن
 - s. häuten (z.B. Schlange); پوست اَنداختَن
 Hautfetzen; پاره اى پوست
@@ -509,7 +509,7 @@ Heckmotor; موتور ِ عَقَب
 Heer; اَرتِش، لَشکَر
 - ein Heer von Dienern; جوجهٔ خَدَمه
 Hefe;
-- Hefe (für Brot, Sauerteig);  خَمیر مایه، بوزَک
+- Hefe (für Brot, Sauerteig); خَمیر مایه، بوزَک
 - Bierhefe; مُخَمِر
 Heft; دَفتَرچه
 heften; چَسب کَردَن
@@ -526,7 +526,7 @@ Heftzwecke; پونِِز
 Hegemonialrechte; حَق ِ سُلطه
 hegen;
 - Wunschtraum hegen; آرِزو پَروَراندَن
-- jem. hegen & pflegen;  .از کِسى مُواظِبَت کَردَن، ـ پَرَستارى ک
+- jem. hegen & pflegen; .از کِسى مُواظِبَت کَردَن، ـ پَرَستارى ک
 Hehl;
 - daraus mache ich kein Hehl; رو راست مى گویَم
 Hehler; خَریدار و فُروشَندهٔ اَموال ِ مَسروقه، شَریک ِ دُزد
@@ -577,7 +577,7 @@ heimatlos; دَر بِدَر، بى خانِمان، آواره
 Heimatloser; آواره، خانه بَر دوش
 Heimatlosigkeit; دَر بٍدَرى، آوارِگى
 heimgehen;
-- heimgegangen, verstorben (liter.);فَقید، رَحل ِ اِقامَت به سَراى ِ باقى اَفکَندَن  
+- heimgegangen, verstorben (liter.); فَقید، رَحل ِ اِقامَت به سَراى ِ باقى اَفکَندَن
 Heimkehr; عودَت بِوَطَن، باز گَشت ـ
 heimlich; دَر اِخفاء، دَر خِفا، نِهُفته، پِنهانى، دُزدَکى
 Heimlichkeit; خَفاء، نِهُفتِگى
@@ -692,13 +692,11 @@ heraufbeschwören;
 - Krise heraufbeschwören; بُحرانى را بَر اَنگیختَن
 herausbringen;
 - der Verlag bringt ein neues Buch heraus; چاپخانه کِتاب ِ نو را اِنتِشار مى کُنَد، ـ پَخش مى کُنَد
-herausheben;
-- s.(aus der Masse) herausheben; جِلوه کَردَن
 herausfallen; بیرون اُفتادَن
 herausfinden;
 - mit Überraschung herausfinden; با شِگِفتِگى دَر یافتَن
 - ob er herausfindet, dass ...?; ... او هَم عَقلَش مى رِسَد که
-- sie finden heraus, dass ...; آنها بو مى بَرَند که، ـ کَشف مى کُنَند 
+- sie finden heraus, dass ...; آنها بو مى بَرَند که، ـ کَشف مى کُنَند
 - zum Herausfinden (was ... weiss); جَهَت ِ آزمون  ِ دانِش ِ کِسى، سَر و گوشی ِ آب دادَن
 Herausforderer; چالِش گَر، طالِب
 herausfordern; طَلَبیدَن، به چالِش کِشیدَن
@@ -710,6 +708,8 @@ Herausforderung; دَعوَت به، چالِش
 - wenn diese Herausforderung nicht wäre; اَگَر گَرمى ِ این چالِش نِمى بود
 Herausgeber; ناشِر
 heraushalten (s. -); دِِخالَت نَکَردَن، فُضولی نَکَردَن
+herausheben;
+- s.(aus der Masse) herausheben; جِلوه کَردَن
 herauskommen; بیرون آمَدَن
 - das, was dabei herauskommt; فَرجام کار
 - und was dabei herauskommt, ist ...; و حاصِل ِ آن ... است
@@ -758,17 +758,17 @@ hereinfallen (auf ein Versprechen -); گول ِ کِسى را خوردن، به 
 hereinkommen; به داخِل آمَدَن
 - kann ich hereinkommen? (popul.); اِجازه هَست بیایَم تو؟
 - komm herein! (popul.); بیا تو
-hereinstürzen;
-- was für ein Unglück über ihn hereinstürzt!; چه بَدبَختی سَرَش می آیَد
-herkömmlich; عادی، رَواج
 hereinlegen; گول زَدَن، فَریب دادَن
 - er hörte nicht auf, die Leute hereinzulegen; او از تَقَلُب رو گردان نَبود
+hereinstürzen;
+- was für ein Unglück über ihn hereinstürzt!; چه بَدبَختی سَرَش می آیَد
 herfallen;
 - über jem. herfallen; بَر کِسى تَعَدى کَردَن، ـ هُجوم آوَردَن، هول به جان ِ کِسى اَنداختَن، به جان ِ کِسی اُفتادَن
 - übereinander herfallen; دو بِهَم زَنی کَردَن
 - über den Angreifer herfallen; بَر مُتَجاوِز تاختَن
 Hergang; جَریان، رَوَند
 Hering; گَرماهى، شاه ماهى
+herkömmlich; عادی، رَواج
 Herkunft; نَسَب
 - der Herkunft nach; نَسَبى
 - die Herkunft ist unklar; اَصلِش مَعلوم نیست، سَر چِشمه اش ـ، مَنشاء ِ آن ـ
@@ -870,7 +870,7 @@ hervorheben; به چیزی اَهَمیَت دادَن
 - s. hervorheben; مُتَمایِز بودَن
 - einen Punkt hervorheben; یِک نُکته را اِختِصاص دادَن
 hervorholen;
-- Hand hervorholen; ... دَست یازیدَن به 
+- Hand hervorholen; ... دَست یازیدَن به
 - die Angelegenheit hervorholen; قَضیه را پیش کِشیدَن
 hervorkommen; بیرون آمَدَن، به ظُهور رِسیدَن
 - als er wieder hervorkam; وَقتى سَر و کَله اَش پِیدا شُد
@@ -898,12 +898,12 @@ Herz; قَلب، دِل
 - jem. ans Herz gewachsen sein; با کِسی اُخت شُدَن
 - sein Herz nicht an Vergängliches hängen; هَر چه دير نَپايَد دِلبَستِگی را نَشايَد
 - sein Herz schmolz dahin; دِلِش بَراى ِ ... رَفت
-- das geht zu Herzen;  .دِلرُبا بودَن، دِلچَسبَنده ب.، دِلنِشین ب
+- das geht zu Herzen; .دِلرُبا بودَن، دِلچَسبَنده ب.، دِلنِشین ب
 - ein weites Herz haben; سَرِش از خودِش نیست
 - eine dieser zu Herzen gehende Schönheiten; از آن ِ خوشگِلهای تو دِل بُرو
 - sie sehen Dinge, die das Herz erfreut; آنها چیزهاى ِ تو دِل بُرو را مى بینَند
 - sein Herz machte einen Freudensprung (verliebt); دِل ِ او زَنج زَد
-- mit ganzem Herzen (die Arbeit machen);  (از جان و دِل (کاررا کَردَن
+- mit ganzem Herzen (die Arbeit machen); (از جان و دِل (کاررا کَردَن
 - ein Herz und eine Seele; یِک جان دَر دو قالِب
 - jem. Herz brechen; دِل ِ کِسی را شِکَستَن
 - sein Herz ist bei ...; دِلِش پیش ِ ... است
@@ -913,7 +913,7 @@ Herzenslust;
 - nach Herzenslust; هَر چِه مى خواهَد
 herziehen;
 - etwas hinter s. herziehen; چیزى را یَدَک کِشیدَن
-- über Menschen herziehen;  مَردُم را مَچَل گوئى کَردَن، از مَردُم غِیبَت ک.، دَربارهٔ کِسى بَد و بیراه گُفتَن
+- über Menschen herziehen; مَردُم را مَچَل گوئى کَردَن، از مَردُم غِیبَت ک.، دَربارهٔ کِسى بَد و بیراه گُفتَن
 Herzinfarkt; سِکتهٔ قَلبى
 Herzklopfen; دِل تَپِش، تَپِش ِ دِل
 Herzkräftigung; مُقَوى ِ قَلب
@@ -945,7 +945,7 @@ Heuchler; مُرائى، ریاکار، مُنافِق
 Heugabel; چَنگال ِ چار شاخه
 heulen; گِریه کَردَن، گِریستَن
 - der Hund heult; زَنودَن
-- heulender Schakal;صِداى ِ زوزهٔ شُغال
+- heulender Schakal; صِداى ِ زوزهٔ شُغال
 Heuschrecke; مَلَخ
 heute; اِمروز
 - heute abend; اِمشَب
@@ -1013,9 +1013,9 @@ Himmel; آسمان
 - im 7. Himmel sein; از خوشحالى عَرش را سیر کَردَن
 - er fühlte s. im 7. Himmel; او دَر عَرش سیر مى کَرد
 Himmelfahrt; مِعراج، عُروج
-himmlisch; سَماوى، آسمانى
 Himmelsrichtung;
 - die vier Himmelsrichtungen; جَهات ِ اَصلیه
+himmlisch; سَماوى، آسمانى
 hin;
 - hin & wieder; گاه گاهى، گاهى اوقات
 - hin & zurück; رَفت و بَرگَشت
@@ -1144,8 +1144,8 @@ hinterfragen; دَر مَعرَض ِ سؤال قَرار دادَن، مورِد
 Hintergrund; زَمینه
 - auf dem Hintergrund der Kultur; دَر زَمینهٔ فَرهَنگ
 Hinterhalt; مَخفی گاه، کَمین گاه
-Hinterhältigkeit; تَرفَند، نیرَنگ
 hinterhältig; رَذیل، مَکر آمیز، دورو، آب زیر ِ کاه
+Hinterhältigkeit; تَرفَند، نیرَنگ
 hinterher;
 - ich hinke hinterher (mit meiner Arbeit); مَن ماندَم
 hinterherrennen; دُنبال ِ کِسى بِراه اُفتادن، پُشت ِ کِسى دُو دُو زَدَن به
@@ -1195,7 +1195,7 @@ hinziehen;
 - zu etwas hingezogen werden; به چیزى مُنجَذِب شُدَن
 - ich fühle mich zu ... hingezogen; دِلَم پیش ِ... گیره
 hinzufügen; ضَمیمه کَردَن، اِنضِمام ک.، اِضافه ک.، مَزید ک.، مُضاف شُدَن، اَفزودَن
-- das Gesetz ... wird dem ... hinzugefügt; قانون ِ ... مُنضَم به 
+- das Gesetz ... wird dem ... hinzugefügt; قانون ِ ... مُنضَم به
 - wird das Problem durch Hinzufügen von Rätseln gelöst?; وَلى از اَنگ ِ » مُعَما« زَدَن به مَسائِل چه حاصِل؟
 hinzugefügt; مُستَزاد
 Hippodrom; اَسب رَس
@@ -1227,7 +1227,7 @@ Hobby; سَرگَرمى
 Hobel; رَنده
 hobeln; رَنده کَردَن، ـ شُدَن
 hoch; بُلَند
-- 10 hoch 10; ۱۰ِ بنَماى ِ ۱۰، ـ به تَوان 
+- 10 hoch 10; ۱۰ِ بنَماى ِ ۱۰، ـ به تَوان
 - das ist mir zu hoch; از این چیزها سَر دَر نِمى آوَرَم
 - ist das nicht zu hoch für dich?; مَگَر از دَهَنَت زیاد نیست؟
 - das Haus ist hoch; خانه بُلَند است
@@ -1414,14 +1414,14 @@ hören; گوش کَردَن
 - er hörte überhaupt nicht zu; گوشِش به ... بِدِهکار نَبود
 - nicht auf etwas hören, s. nicht darum kümmern; زیر ِ بار نَرفتَن
 - zuhören; .گوش فَرا دادَن، ـ کَردَن، اِستِماع ک
-- was man so hört; از قَرار ِ مَعلوم، ـ مَسموع 
+- was man so hört; از قَرار ِ مَعلوم، ـ مَسموع
 - die .., die er von ... hörte; او چیزى را که از فِلان سَر مى زَد
 - hör mal zu; پَس گوش فَرا دَهى، بِشنو، گوش بِگیر، گوش کُن
 - Hör mal gut zu!; گوشِت با مَن باشَد
 - das mußt du hören; که بیایی و تَماشا کُن
 - Jeder hört s. selbst am liebsten; صوت ِ خودَش بِگوش ِ خودَش خوشنَواست
 Hören (n); اِستِماع، اِصغاء
-- dass einem Hören und Sehen vergeht; که نَگو و نَشنو ... 
+- dass einem Hören und Sehen vergeht; که نَگو و نَشنو ...
 - Preise, wo einem Hören & Sehen vergeht; قِیمَتى دارَد که کَلهٔ آدَم سوت مى کِشَد
 hörend; سامِع، شِنَوَنده
 Hörensagen (vom -); اَفواهاً
@@ -1457,7 +1457,7 @@ Hose; شَلوار
 - er hat die Hose voll; از تَرس تو شَلوارَش ریده، ـ شاشیده
 - in die Hose machen (Kind); دََر شَلوار جیش کَردَن
 - die Sache ging in die Hose; کار نَقش بَر آب شُده است، کار سَر نَگِرِفته است، زَدیم و نَگِرِفت
-- die Hosen runterlassen (im finanz.);  سَر و کیسه را شُل کَردَن
+- die Hosen runterlassen (im finanz.); سَر و کیسه را شُل کَردَن
 - Frauenhose; تُنبان
 - Haushose; پیژامه
 - Pluderhose; شَلوار ِ گُشاده
@@ -1506,7 +1506,7 @@ humorvoll; فُکاهى
 humpeln; لَنگیدَن
 Hund; سَگ
 - Jagdhund; یوز
-- jem., der vor die Hunde geht;  شَخصى که دَر خانهٔ خَرابى بِسَر مى بَرَد
+- jem., der vor die Hunde geht; شَخصى که دَر خانهٔ خَرابى بِسَر مى بَرَد
 - Bekannt, wie ein bunter Hund; گاو ِ پیشانى ِ  سِفید
 - Bellende Hunde beissen nicht; از آن نَتَرس که هاى و هو دارَد، از آن بِتَرس که سَر بِتو دارَد
 - Auf den Hund kommen; به صِفر رِسیدَن
@@ -1539,7 +1539,7 @@ hüpfen; جَست و خیز کَردَن، جَهیدَن
 - hinkend und hüpfend kamen sie an; اُفتان و خیزان به ... رِسیدَند
 - Das ist gehüpft, wie gesprungen; چه عَلى خواجه چه خواجهٔ عَلى
 Hürde; (pl.)  (مانِع (مَوانِع
-- die letzte parlamentarische Hürde nehmen; از آخَرین مَرحَلهٔ پارلِمانى گُذَشتَن 
+- die letzte parlamentarische Hürde nehmen; از آخَرین مَرحَلهٔ پارلِمانى گُذَشتَن
 Hürdenlauf; دُو با عَوارض
 Hurra; هورا
 - Hurra schreien; هورا کِشیدَن

@@ -3,7 +3,7 @@ fabelhaft; عَجیب، اِعحاب گونه
 Fabelwesen; موجود ِ ساخته و پَرداختهٔ خیالى، وُجود ِ موهوم
 Fabrik; کارخانه، کارگاه
 Fabrikant; صاحِب ِ کارخانه، کارفَرما
-Fabrikat; (plur.)  (مَصنوع (مَصنوعات)، مَحصول (مَحصولات)، ساخت (ساختِگیها 
+Fabrikat; (plur.)  (مَصنوع (مَصنوعات)، مَحصول (مَحصولات)، ساخت (ساختِگیها
 fabrizieren; ساختَن، تولید کَردَن
 - fabriziert, gefälscht; ساخته، بافته
 - vorfabriziert; پیش ساخته
@@ -115,7 +115,7 @@ Fahrgestell; شاسى ِ اُتومُبیل
 fahrig; با جُنب و جوش، عَجول، دَغدَغه خاطِر
 - fahriger Schüler; شاگِرد ِ گیج
 Fahrkarte; بِلیط
-- Hin- und Rückfahrt (Fahtkarte);  بِلیت ِ) دو سَره)
+- Hin- und Rückfahrt (Fahtkarte); بِلیت ِ) دو سَره)
 Fahrkartenkontrolle; بازبینى ِ بِلیطها
 fahrlässig; غافِل، سَهوى، سَهل اِنگار
 Fahrlässigkeit; سَهل اِنگارى، مُساحِمه، سَهو، بى پَروائى، بى اِحتیاطى، غِفلت، اِهمال، بى مُواظِبَتى، لااُبالى گَرى، عَدَم ِ دِقَت
@@ -177,13 +177,17 @@ Fall; قَضیه، مَسأله، اَمر، مورِد
 - im Falle, dass ...; چِنانچه
 - ein Fall von ... (jurist.); ... ِ یِک مورِد
 - zu Fall bringen; ساقِط کَردَن، بَر اَنداختَن
-- der Fall Adams;  - ِ هُبوط ِ آدَم، سُقوط
+- der Fall Adams; - ِ هُبوط ِ آدَم، سُقوط
 - die Gewohnheit bringt ihn zu Fall; این عادَت حِسابى کَله پایَش مى کُنَد
 - in dringenden Fällen; دَر صورَت ِ ضَرورَت
 Fallbeschleunigung; شِتاب ِ ثَقل
 Falle; کَمین، تَله، دام
 - in eine Falle geraten; به تَله اُفتادَن
 - Mausefalle; موش تَله
+fällen; از ریشه دَر آوَردَن، کَندَن
+- Urteil fällen; حُکمى را صادِر کَردَن، قِضاوَت کَردَن
+- aus einer chem. Lösung fällen; جِسمى را از مایع رُسوب دادَن
+- Fällen des Baumes; دِرَخت کَنى
 fallen; اُفتادَن، سُقوط کَردَن، زَمین خوردَن
 - im Kampf fallen (*:umkommen); دَر جَنگ به خاک اُفتادَن
 - in den Sessel zurückfallen; یَله شُدَن روى ِ صَندَلى
@@ -203,10 +207,6 @@ fallen; اُفتادَن، سُقوط کَردَن، زَمین خوردَن
 - der Tag fällt auf dieses Datum; روز با این تاریخ مُصادِف مى شَوَد
 - wer hoch steigt, fällt tief; فَواره چون بُلَند شود سَرنِگون شَوَد
 - er ist durch das Examen gefallen; او دَر اِمتِحان مَردود شُده است، - قَبول نَشُد
-fällen; از ریشه دَر آوَردَن، کَندَن
-- Urteil fällen; حُکمى را صادِر کَردَن، قِضاوَت کَردَن
-- aus einer chem. Lösung fällen; جِسمى را از مایع رُسوب دادَن
-- Fällen des Baumes; دِرَخت کَنى
 fallend; اُفتان، سُقوط کُنَنده، ساقِط
 - fallende Preise; قِیمَتهاى ِ مُتَنازِل
 Fallgeschwindigkeit; سُرعَت ِ سُقوطى
@@ -362,7 +362,7 @@ Fassung;
 - Fassung (bei Steinen); جاى ِ جوهَر
 - die Fassung von Artikel ... (jurist.); مَتن ِ مادهٔ ...،  طَرح ِ ـ
 - bei der geringsten Sache die Fassung verlieren; به کوچِکتَرین چیزى از جا دَر رَفتَن
-- er hat wegen ... die Fassung verloren; او بِخاطِر ِ ...  خودرا باخت، ـ دَست پاچه شُده، ـ به سُتوه آمَد، ـ حوصِله اَش سَر رَفت، ـ دَست و پاى ِ خودرا گُم کَرد 
+- er hat wegen ... die Fassung verloren; او بِخاطِر ِ ...  خودرا باخت، ـ دَست پاچه شُده، ـ به سُتوه آمَد، ـ حوصِله اَش سَر رَفت، ـ دَست و پاى ِ خودرا گُم کَرد
 - jem. aus der Fassung bringen; کِسى را زیر و رو کَردَن، ـ دَست پاچه ک.، ـ از پا اَنداختَن
 - die Fassung bewahren; خونسَرد ماندن، خودرا نِگَه داشتَن
 fassungslos; مات و مَبهوت، حِیرَت زَده، سَراسیمه
@@ -414,7 +414,7 @@ faul;
 - faules Ei; تُخم ِ مُرغ ِ گَندیده
 - alles was fault, bekommt Salz, wehe wenn das Salz faul wird; هَر چه بِگَندَد نَمَک می زَنَند، وای که روزی بِگَندَد نَمَک
 - fauler Kompromiss; قَرار ِ تو خالى، سازش ِ ـ
-- fauler Bursche; آدَم ِ ناکاره، ـ ِ تَنبَل 
+- fauler Bursche; آدَم ِ ناکاره، ـ ِ تَنبَل
 - s. auf die faule Haut legen; لِباس ِ تَنبَلى به تَن کَردَن
 - Am Abend wird der Faule fleissig; آخَر ِ کار تَنبَل زیرَک مى شَوَد
 Fäule; عُفونَت، پوسیدِگى، تَعفُن، گَندیدِگى
@@ -446,7 +446,7 @@ Faustregel; فُرمول ِ خام، قاعِدهٔ کُلى، ـ اِجمالى
 Faustschlag;
 - einen Faustschlag bekommen; مُشتها خوردَن
 Favella; حَلَبی آباد
-Favorit; بَرَندهٔ اِحتِمالی 
+Favorit; بَرَندهٔ اِحتِمالی
 - Favorit (z.B. beim König); نور ِ چِشم، دَست نِشانده، طَرَف ِ تَوَجُه
 Fax; فَکس، فاکس، نَمابَر
 Faxen; اَدا و اَطوار
@@ -475,12 +475,12 @@ federnd; فَنَرى، بَرجَهَنده، جُنبان
 Federung; اِرتِجاع ِ فَنَر
 Federwaage; قَپان ِ فَنَرى
 Fee; ساحِره، پَرى
-feengleich; پَریچِهره، پَریرُخ
 Feedback; باز خورى
+feengleich; پَریچِهره، پَریرُخ
+Fegefeuer; بَرزَخ
 fegen; .روبیدَن، رُفت و روب کَردَن، جارو ک
 - den Boden fegen; کَف ِ اُطاق را رُفت و روب کَردَن
 - der Wind fegt das Laub von den Bäumen; باد بَرگهاى ِ دِرَختان را مى ریزانَد
-Fegefeuer; بَرزَخ
 Fehdehandschuh; با کِسی کَلَنجار وَر رَفتَن
 fehl;
 - das ist fehl am Platze; این بیجا است
@@ -521,7 +521,7 @@ Fehler; خَبط، اِشتِباه، غَلَط، فَلَتات، خَطا
 - von jem. Fehler aufdecken; بَخیه بَر رو اَفکَندَن
 - er soll diesen Fehler nicht nochmal machen; او نَبایَد از این غَلَطها بِکُنَد
 - sein Gedicht ist voller Fehler; شِعِرِش مَلحون است
-- sein Fehler ist der, dass ...; عِیبَش این است که 
+- sein Fehler ist der, dass ...; عِیبَش این است که
 - Schönheitsfehler; عِیب ِ فَرعى
 Fehlerberichtigung; غَلَطگیرى
 fehlerfrei; مُنَزَه، خالى از اِشتِباه، بى خَلَل، عارى از غَلَط
@@ -631,7 +631,7 @@ Feld; (plur.) (کِشت زار، مَزرَعِه (مَزارِع
 - das Feld räumen, das Handtuch werfen; جِلوی ِ کِسی لُنگ اَنداختَن
 Feldarbeit; کار ِ صَحرائى، بَرزگَرى
 Feldbestellung; کِشتکارى
-Feldbett;  - ِ تَختِخواب ِ سَفَرى، تَخت
+Feldbett; - ِ تَختِخواب ِ سَفَرى، تَخت
 Feldflasche; قُمقُمه، قُلَک آب
 Feldfrucht; (plur.) میوهٔ (میوِجات) بُستانى، ـ زَمینى
 Feldherr; سَرِلَشکَر
@@ -725,7 +725,7 @@ fertig;
 - fertig!; تَمام
 - gleich fertig sein; دَر دَست ِ اِقدام، دَر حال ِ اَنجام شُدَن
 - völlig fertig sein; از چیزى سَر و پا نِمى شِناختَن، جان ِ کِسى به لَب مى آیَد، خُرد و خاکِشى شُدَن
-- ich bin völlig fertig; پَکَرَم، مات شُدَم، به کُلى از حال رَفته بودَم 
+- ich bin völlig fertig; پَکَرَم، مات شُدَم، به کُلى از حال رَفته بودَم
 - mit der Aufgabe fertig sein; از عُهدهٔ کار دَر آمَدَن
 - mit der Aufgabe fast fertig sein; تَکلیف قَریب اُلاِختِتام است
 - der Brief ist noch nicht fertig; نامه را جور نَکَردَم، هَنوز یِک مِقدار مانده که نامه تَمام بِشَوَد
@@ -831,7 +831,7 @@ Festnahme; توقیف، دَستگیرى، بازداشت، بِگیر و بِب
 - bei all den Festnahmen von Seiten der ...; توی ِ این هَمه بِگیر و بِبَندهای ِ حُکومَت
 festnehmen; دَست گیر کَردَن
 Festplatte (Computer); دیسک ِ سَخت
-Festplatz (bei Schiiten);  (تَکیه (بَرای ِ اَیام ِ مُحَرَم
+Festplatz (bei Schiiten); (تَکیه (بَرای ِ اَیام ِ مُحَرَم
 Festpreis; قِیمَت ِ ثابِت، ـ یِک کَلام، ـ مَقطوع، ـ بى چَنه
 festschrauben; پیچاندَن
 Festschrift; جَشن نامه
@@ -889,7 +889,6 @@ Fettnapf;
 - bei jem. ins Fettnäpfchen treten; قَهر ِ کِسى را بَر اَنگیختن
 fettreich;
 - fettreiche Kost; غَذاى ِ چَربى دار، ـ پُر روغَن
-fetzen (s. -); به تیپ ِ هَم زَدَن
 Fetzen;
 - ein Fetzen; پاره، تِکه، لَته، رُقعِه
 - in Fetzen; پاره پاره، چاک اَندَر چاک
@@ -899,6 +898,7 @@ Fetzen;
 - in Fetzen herumlaufen; ژِنده پوشیده، لِباس ِ کِسى مُرَقَع است
 - Hautfetzen; پارهٔ پوست
 - Stoffetzen; جُل، تِکه، پارچه، کُهنه
+fetzen (s. -); به تیپ ِ هَم زَدَن
 feucht; مَبلول، مَرطوب، نَمناک، نَم، آبنَم، نَمدار، تَر
 - feuchte Augen; چِشمهاى ِ پُر اَشک
 - feuchte Kleidung; لِباس ِ نَمدار
@@ -950,7 +950,7 @@ Fichte; دِرَخت ِ کاج
 Fieber; تَب
 - er hat Fieber; او تَب دارَد
 - im Fieber reden; هَذیان گُفتَن
-- regelmäßiges Fieber haben (z.B.: Malaria);  (تَب ِ نوبه (مالاریا
+- regelmäßiges Fieber haben (z.B.: Malaria); (تَب ِ نوبه (مالاریا
 Fieberbläschen; تَبخال
 Fieberkurve; کارت ِ دَرَجهٔ تَب
 fiebern; تَب زَدَن
@@ -972,7 +972,7 @@ Filiale; شُعبه
 - er arbeitet in der Bankfiliale; او دَر شُعبهٔ بانک کار مى کُنَد
 Filigranarbeit; مَلیله کارى
 Film; سینِما، فیلم
-- Begriffe aus der Filmwelt;
+- Begriffe aus der Filmwelt; 
 - Beleuchter; نورپَرداز
 - Bühnenbildner; طَراح ِ صَحنه
 - Drehbuch; فیلمنامه
@@ -996,8 +996,8 @@ Filz; نَمَد
 - politischer Filz; پارتی بازی
 filzen;
 - er filzt uns; او مارا وارِسى مى کُنَد، هَمه اَش را زیر و رو مى کُنَد
-Filzkäppchen; کُلاه ِ طاسوله، - نَمَدی
 filzig; کُرکی
+Filzkäppchen; کُلاه ِ طاسوله، - نَمَدی
 Filzschreiber; ماژیک
 Finale; فینال
 - das Halbfinale erreichen; به نیمه نَهائى رِسیدَن
@@ -1147,7 +1147,7 @@ Flatterhose; شَلوار ِ گشاده
 flattern;
 - flattern (Fahne); دَر اِهتِزاز بودَن
 - leicht flatternde Fahne; پَرچَم پِر پِر می کُنَد
-- flattern (Vogel);  .پَرپَر زَدَن، بال بال ز
+- flattern (Vogel); .پَرپَر زَدَن، بال بال ز
 - seine Hose flattert im Wind; شَلوارَش باد می خورَد
 - die Fahne zum Flattern bringen; باعِث به اِهتِزاز دَر آمَدَن ِ پَرچَم
 flattrig;
@@ -1170,7 +1170,7 @@ fleckig; لَکه دار، لَکى
 Fledermaus; شَب پَره، خَفاش، وَطواط
 flehen; .اِستِغاثه کَردَن، اِلتِماس ک
 Flehen (n); ناله، زارى، لابه
-- inständiges Flehen, Bitten; تَضَرُعات، تَضرُع 
+- inständiges Flehen, Bitten; تَضَرُعات، تَضرُع
 - unter Flehen; به لابه
 flehend; زار و نَزار
 Fleisch; گوشت
@@ -1313,7 +1313,6 @@ Fluoreszenz; فلورِسانس
 Flur; دالان، دِهلیز
 Fluse; پُرز، پُرزه، کُرک
 Fluss; رودخانه
--Nebenfluß; شاخابه
 Flussdiagramm; رَوَندنَما، فلوچارت
 flüssig; مایِع، سَیال، رَوان، جارى
 - flüssiges Metall; فِلِز ِ مُذاب
@@ -1385,14 +1384,14 @@ Förderband; نَوار ِ نَقاله
 Förderer (z.B. der Kunst); حامى، مُشَوِق، پیشرو
 Fördergerüst; وَسائِل ِ بالاکِش
 förderlich; سازَنده، مُفید
+fördern; تَشویق کَردَن، تَقویَت ک.، بَسط دادَن
+- die Zusammenarbeit mit ... fördern; هَمکارى را با ... بَسط دادَن
+- förderndes Mitglied; عُضو ِ مُشَوِق
 fordern; طالِب بودَن، طَلَبیدَن
 - von jem. Hilfe fordern; از کِسى طالِب ِ کُمَک کَردَن، دَر طَلَب ِ کُمَک بودَن
 - Geld fordern; پول را مُطالِبه کَردَن
 - gefordert wird; مَطلوب است
 - wenn Eile gefordert wird; اگر مُتَلزِم ِ عَجَله باشَد
-fördern; تَشویق کَردَن، تَقویَت ک.، بَسط دادَن
-- die Zusammenarbeit mit ... fördern; هَمکارى را با ... بَسط دادَن
-- förderndes Mitglied; عُضو ِ مُشَوِق
 fordernd; طالِب
 Forderung; طَلَب، اِدِعا، دَرخواست
 - Forderung stellen an ...; از ... مُطالِبه کَردَن
@@ -1445,8 +1444,8 @@ Forschung; تَحقیقات، پَژوهِش
 Forschungsauftrag; مأموریَت ِ پَژوهِشى
 Forschungsvorhaben; طَرح ِ تَحقیقاتى
 Förster; جَنگَلبان
-fort; دور، حُضور نَداشتَن
 Fort; دِژ، جایگاه ِ نِظامی
+fort; دور، حُضور نَداشتَن
 Fortbestand; اِبقاء، دَوام، تَداوُم
 fortbewegen (s. -); حَرَکَت کَردَن
 fortbilden (s. -); به آموزِش ِ خود اِدامه دادَن
@@ -1502,7 +1501,7 @@ Frage; (plur.) پُرسِش، سؤال (سؤالات)، اِستِفسار
 - sonst habt Ihr keine Fragen? (iron.); دیگه سوژه گیر نَیاوَردید؟
 - habt Ihr immer solche Fragen?; شُما هَم چه سؤالهائى مى پُرسید؟
 - zeitraubende Fragen stellen; اُصول ِ دین از کِسی پُرسیدَن
-- was soll diese Frage?!;  !چِطور مَگَر؟
+- was soll diese Frage?!; !چِطور مَگَر؟
 - der Weise scheut keine Fragen, der Tor denkt er braucht nicht fragen; دانا دانَد و پُرسَد نادان نَدانَد و نَپُرسَد
 - Fangfrage; سؤال ِ مَغلَطه آمیز، پُرسِش ِ آزمایِشى
 - Fangfrage stellen; سؤال ِ پیچ کَردَن
@@ -1610,7 +1609,7 @@ freimütig; بِدون ِ رو دَربایستی
 - freimütig etwas sagen; رو راست گُفتَن، رُک ـ، بى پَرده ـ
 - in aller Freimütigkeit; با صَراحَت ِ تمام
 Freiraum; آزادی بَرای ِ عَمَل و پیشرَفت
-- jem. Freiraum geben;  .به کِسی پَر و بال دادَن، مِیدان د
+- jem. Freiraum geben; .به کِسی پَر و بال دادَن، مِیدان د
 freisetzen; خَلاص کَردَن
 Freisprechung; تَبرِئه
 freistehen;
@@ -1671,7 +1670,7 @@ Freudentaumel; بَهجَت
 Freudenträne; سِرِشک خَنده، اَشک ِ شادى، اَشک ِ شوق، گِریهٔ شادى
 freudig; مَسَرَت آمیز، پُر شادى
 freuen; شاد بودَن، شادی داشتَن
-- er freut s.;  -او ذوق می کُنَد، - کِیف
+- er freut s.; -او ذوق می کُنَد، - کِیف
 - ich freute mich riesig; چِشمَم گُل از گُلَم شِکُفت
 - es freut mich, wenn Sie kommen; من خوشحال میشَوَم اگر تَشریف بیاوَرید
 - es freut mich, Sie kennenzulernen; از آشنائى با شُما خوشحالَم
@@ -1739,7 +1738,7 @@ frisieren; آرایِش کَردَن
 Frist; مُهلَت
 - Frist setzen; مُهلَت دادَن
 - ohne Frist; بى وَعده
-- am 1.4. war Frist für ...; ضَرب اُلاَجَل ِ اَوَل ِ آپریل بَراى 
+- am 1.4. war Frist für ...; ضَرب اُلاَجَل ِ اَوَل ِ آپریل بَراى
 - zur Frist müssen Sie bezahlen; سَر ِ موعِد بایَد پَرداخته شَوَد
 fristen;
 - sein Leben fristen; با کَمبود ِ مَعاش ِ زِندِگى کَلَنجار رَفتَن
@@ -1846,7 +1845,7 @@ fühlen; .اِحساس کَردَن، لَمس ک
 - mitfühlend; مُعَزى
 - bei jem. auf Tuchfühlung gehen; خِیلى نَزدیک با کِسى شُدَن
 Fühler; شاخَک ِ حَساس
-führen;  .رَهنِمون کَردَن، رَهبَرى ک.، هِدایَت ک
+führen; .رَهنِمون کَردَن، رَهبَرى ک.، هِدایَت ک
 - jem. in Gefangenschaft führen; کِسى را به اَسیرى بُردَن
 - jem. etwas vor Augen führen; چیزى را به رُخ کِسى کِشیدَن
 - ein ordentliches Leben führen; زِندِگى ِ پاک را پیشه کَردَن
@@ -1857,7 +1856,7 @@ führen;  .رَهنِمون کَردَن، رَهبَرى ک.، هِدایَت �
 - er führt Reden; او حَرفهارا بَر زَبان مى رانَد
 - er führt in der Wertung; او اِمتیاز ِ بیشتَرى دارَد، او دَرَجهٔ اَوَل است
 - er führt in der Gesamtwertung; دَر اِمتیازَش دور رَفت مى کُنَد
-- welche Verhandlungen wurden geführt;  چه مُذاکِراتى بِعَمَل آمَد
+- welche Verhandlungen wurden geführt; چه مُذاکِراتى بِعَمَل آمَد
 - ich glaube nicht, dass die Arbeit sie hierher geführt hat; فِکر نمی کُنَم کار شمارا به اینجاها کِشید
 - führende Persönlichkeiten; شَخصیَتهاى ِ سَر شِناس
 - er gehört zu den führenden Finanzleuten Europas; او از سَلاطین ِ مالى ِ اُروپا است، او از اَشخاص ِ طَراز اَوَل ِ ـ
@@ -1890,17 +1889,17 @@ Füllung;
 - Füllung (bei einem Vogel); بُقلَمه
 - Füllung (bei Zähnen); لائى، پلُمب، پوشال
 Fund; یافت، کَشف
+fundamental; بُنیادى
+- fundamentaler Unterschied; تَفاوُت ِ اَساسى
+Fundamentalismus; فوندامِنتالیسم، پایه گِرائى
+Fundamentalist; بُنیادگَر، اُصولگَرا
+Fundamentierung; پِى ریزى، پِى گُذارى
 Fundamt; اِدارهٔ اَشیاء ِ گُم شُده
 - Fundament (philos.); بُنیاد، زیر بَنا، اَساس
 - vom Fundament ab; ... ِ از بُن
 - ohne Fundament; پا دَر هَوا
 - Fundament legen (beim Bau); شِفته ریزى کَردَن
 - unterhalb des Fundaments; زَمین زیر پى، ـ پایه
-fundamental; بُنیادى
-- fundamentaler Unterschied; تَفاوُت ِ اَساسى
-Fundamentalismus; فوندامِنتالیسم، پایه گِرائى
-Fundamentalist; بُنیادگَر، اُصولگَرا
-Fundamentierung; پِى ریزى، پِى گُذارى
 fünf; پَنج
 fünffach; خُماسى
 Fünfkampf; پِنتاتلون
@@ -2040,7 +2039,7 @@ Fußring; خَلخال، حَلقه پا
 Fußsohle; کَف ِ پا
 Fußspann; سینه پا
 Fußspur; اثر ِ پا، جا ِپا، رَد پا
-Fußtritt (geben);  (لَگَد (به کِسى زَدَن)، اُردَنگ (زَدَن)، تیپا (زَدَن
+Fußtritt (geben); (لَگَد (به کِسى زَدَن)، اُردَنگ (زَدَن)، تیپا (زَدَن
 Fußweg; پیاده رو
 Futter;
 - Futterstoff; آستَر

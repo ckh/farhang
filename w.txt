@@ -32,7 +32,7 @@ wachsen; رُشد کَردَن
 - wachsen lassen; رویانیدَن
 - wachsendes Vertrauen; اِعتِقاد ِ فُزون
 - ständig wachsende Bedrohung; تَهدید ِ دائِم اُلتَزايُد، تَهدید ِ روز اَفزون
-- einwachsen;  .موم زَدَن، واکس ز
+- einwachsen; .موم زَدَن، واکس ز
 Wachsen (n); رويِش، رُشد
 Wachstropfen; اَشک ِ شَمع
 Wachstube; اُتاق ِ نِگَهبانى
@@ -64,7 +64,7 @@ wagen; ریسک کَردَن
 - wie kannst du es wagen?; چِطور جُرئَت مى کُنى؟
 Wagen (m); اُتومُبیل، گارى
 - Handwagen; گارى ِ دَستى
-- (Sternbild des) Grosser Wagen (kleiner -);  (دُب ِ اَکبَر، هَفت اورَنگ (دُب ِ اَصغَر
+- (Sternbild des) Grosser Wagen (kleiner -); (دُب ِ اَکبَر، هَفت اورَنگ (دُب ِ اَصغَر
 Wagenheber; جَک
 Wagenwaschanlage; تَجهیزات ِ شُستِشوى ِ ماشین
 Waggon; واگُن
@@ -146,7 +146,7 @@ Wahrheit; حَقیقَت، واقِعيَت، راستى
 wahrheitsgemäss; اِنصافاً، حَقیقَتاً
 wahrnehmen;
 - Funktion wahrnehmen; وَظايِفى را عُهده دار شُدَن
-- bestimmte Dinge wahrnehmen;  .چیزهاى ِ مُشَخَصى را اِحساس کَردَن، ـ دَرک ک
+- bestimmte Dinge wahrnehmen; .چیزهاى ِ مُشَخَصى را اِحساس کَردَن، ـ دَرک ک
 Wahrnehmung;
 - mit der Wahrnehmung beauftragen; ِ مأموريَت دادَن بَراى ِ اَنجام
 - Analyse der Wahrnehmung; تَحلیل ِ اِدراک
@@ -158,10 +158,10 @@ wahrscheinlich; مُحتَمَل، اِحتِمالى، اِحتِمالاً
 Wahrscheinlichkeit; اِحتِمال
 Wahrscheinlichkeitslehre; عِلم ِ اِحتِمالات
 Wahrscheinlichkeitsrechnung; حِساب ِ اِحتِمالات
-Wahrung; اِبقاء
-- Schutz & Wahrung einer Tradition; حِفظ و حِراسَت ِ سُنَت
 Währung; اِرز، نِرخ، یِکای ِ پول
 - Landeswährung; اِرز ِ کِشوَر، ـ مِلى، پول ِ رايِج ِ کِشوَر
+Wahrung; اِبقاء
+- Schutz & Wahrung einer Tradition; حِفظ و حِراسَت ِ سُنَت
 Währungsabkommen; قَرار داد ِ اَسعارى
 Währungsfond; صَندوق ِ پول
 - Internationaler Währungsfond; صَندوق ِ جَهانى ِ پول
@@ -208,7 +208,7 @@ wandelbar;
 Wandelgang; دِهلیز
 wandeln; سالِک بودَن، سُلوک کَردَن
 Wanderer; سَیاح، راهسِپَر، راه نَوَرد
-wandern;  .سیاحَت کَردَن، گَردِش ک
+wandern; .سیاحَت کَردَن، گَردِش ک
 - durch den Wald wandern (in Eile); از جَنگَل بِدَر رَفتَن
 - durchwandern; (präs.)  (نَوَردیدَن (مى نَوَردَد)، پِیمودَن (مى پِیمايَد
 - rumwandern; سیاحَت کَردَن
@@ -256,8 +256,8 @@ wärmeabgebend; گَرمازا، دافِع اُلحَرارَت
 wärmeabstoßend; دافِع اُلحَرارَت
 wärmeaufnehmend; گَرماگیر
 Wärmeaustausch; تَبادُل ِ گَرما
-Wärmedämmung; عايِق کارى ِ حَرارَتى
 Wärmedehnung; اِنبِساط ِ حَرارَتى، تَغییر ِ حَجم
+Wärmedämmung; عايِق کارى ِ حَرارَتى
 Wärmegerät; گَرمکُن، مُسَخِن
 Wärmeleiter; هادى ِ گَرما
 Wärmeleitung; اِنتِقال ِ حَرارَت
@@ -302,7 +302,7 @@ Wartung; تَعمیر و نِگَهدارى، سِرویس
 wartungsfrei; بِدون ِ وَقفه
 warum; چِرا، به چه دَلیل
 - warum bist du gekommen?; واسهٔ چه آمَدى
-- das Warum der ...; ِ چِرایهای 
+- das Warum der ...; ِ چِرایهای
 Warze; زِگیل، ثوء لول
 - Brustwarze; نوک ِ پِستان
 was; چه
@@ -310,7 +310,7 @@ was; چه
 - was soll daran besser sein?; کُجاش بِهتَر؟
 - was solls?; خوب که چه؟
 - was von dir ist gut? (popul.); چى چیَت خوب است؟
-- was für eine Größe (i.S. sehr groß);  !به چه بُزُرگی
+- was für eine Größe (i.S. sehr groß); !به چه بُزُرگی
 Waschbecken; لَگَن، دَستشوئى
 Wäsche; رَخت، لِباس
 - bügelfreie Wäsche; بِشور و بِپوش بودَن
@@ -355,8 +355,8 @@ Wasserfilter; صافى ِ آب
 Wassergefäss (eine Art -); مَشرَبه
 Wassergraben; آبراه، مَسیل، آبکَند
 - unterirdischer Wassergraben; (pl.)  (قَنات (قَنَوات
-wasserhaltig; آبدار
 Wasserhahn; شیر ِآب
+wasserhaltig; آبدار
 Wasserkessel; کِترى
 Wasserkreislauf; مَسیر ِ گَردِش ِ آب
 Wasserkrug (auf Toilette); لولهِنگ، آفتابه
@@ -445,7 +445,7 @@ Weg (m); راه
 - falschen Weg gehen; گُمراه شُدَن
 - jem. auf den falschen Weg bringen; کِسى را گَم راهى کَردَن، ـ بیراه کَردَن
 - auf dem Weg dorthin (besuche ich ...); دَر سَر ِ راه، دَر اَثناى ِ راه، دَر بِین ِ راه
-- Helfen, etwas auf den Weg zu bringen (z.B.: Ethik und Wirtschaft);  راه بُرد  ِ اَخلاق و اِقتصاد
+- Helfen, etwas auf den Weg zu bringen (z.B.: Ethik und Wirtschaft); راه بُرد  ِ اَخلاق و اِقتصاد
 - von hier nach dort ist ein direkter Weg; از اینجا تا آنجا صِراط ِ مُستَقیمى است
 - nicht immer ist der direkte Weg der beste; رَه بُرو بیرَه مَرو هَر چَند رَه پیچان شَوَد
 - auf diplomatischem Weg; از طَریق ِ دیپلماسى
@@ -462,13 +462,13 @@ Weg (m); راه
 - s. auf den Weg machen; راهسِپَر شُدَن، به راه اُفتادَن
 - sie machen s. auf den Weg hierher (popul.); آنها شال و کُلاه مى کُنَند و مى آيَند اینجا
 - ich muß mich zu Fuß auf den Weg machen; مَجبورَم پیاده گَز کُنَم
-- du hast einen langen Weg vor dir;  راه ِ طولانی دَر پیش داری
+- du hast einen langen Weg vor dir; راه ِ طولانی دَر پیش داری
 - er machte s. flugs auf den Weg; او اگَر آب دَستَش بود زَمین می گُذاشت و پای ِ پیاده به راه اُفتاد
 - auf seinem Weg nach ...; دَر سَر ِ راه ِ خود به
 - wo ein Wille ist, da ist auch ein Weg; خواستَن تَوانِستَن است
 - Jesus, der einzige Weg zu Gott; عیسى تَنها راه ِ رِسیدَن به خُدا است
 - die Bibel zeigt den Weg zu Gott; کِتاب ِ مُقَدَس راه رِسیدَن به خُدا را نِشان مى دَهَد
-- jem. im Weg stehen;  .مُزاحِم ِ کِسى بودَن، سَر ِ راه ِ کِسى ب
+- jem. im Weg stehen; .مُزاحِم ِ کِسى بودَن، سَر ِ راه ِ کِسى ب
 - er steht uns im Weg; او موى ِ دَماغ ِ ما شُده
 - alles, was ihnen im Weg war; هَر چه سَر ِ راهِشان بود
 - jeder geht seine Wege; ما به سى ِخودِمان و آنها به سى ِخودِشان
@@ -510,7 +510,7 @@ weglassen;
 Weglassung; اِسقاط
 weglaufen; دَر رَفتَن
 - jem. ist weggelaufen; کِسی دَررَفته است
-wegnehmen;  .رُبودَن، مَفروز کَردَن، مَغصوب ک
+wegnehmen; .رُبودَن، مَفروز کَردَن، مَغصوب ک
 - kannst du das wegnehmen?; مى تَوانى اینرا بَردارى؟
 - er hat mir ... weggenommen; او چیزى را از دَستَم بِدَر آوَرد
 wegräumen; بَرچیدَن، جَمع و جور کَردَن
@@ -528,16 +528,9 @@ wegweisend;
 Wegweiser; (pl.)  (تابلو، عَلامَت، مَعلَم (مَعالِم
 wegwerfen; به دور اَفکَندَن، دور اَنداختَن
 wegwischen; پاک کَردَن
-wehtun; دَرد کَردَن
-- der Schmerz tut weh; دَردى دَر جانَش خانه مى کُنَد، تیر کِشیدَن، دَرد گِرِفتَن
-- mein Kopf tut weh; سَرَم دَرد مى کُنَد
-- Habe ich dir weh getan?; دَردِت آوَردَم؟
-- o weh!; اى واى
-- mit Weh & Ach; با آه و واه
-- Wehe Euch; واى بَر شُما
 wehen; وَزیدَن
 Wehen (Geburts-); دَرد ِ زايِمان
-wehklagen;  .فِغیان بَر آوَردَن، فِغان کَردَن، آه و ناله ک
+wehklagen; .فِغیان بَر آوَردَن، فِغان کَردَن، آه و ناله ک
 wehleidig; خِیلى حَساس، آدَم آه و دَم است
 wehmütig; دِلتَنگ، اَندوهگین
 Wehr; سَد ِ آب
@@ -549,6 +542,13 @@ Wehrpflicht; نِظام ِ وَظیفه، وَظیفهٔ نِظامى
 wehrpflichtig;
 - wehrpflichtig sein; مَشمول ِ نِظام بودَن، ـ خِدمَت بودَن
 Wehrpflichtiger; سَرباز ِ وَظیفه
+wehtun; دَرد کَردَن
+- der Schmerz tut weh; دَردى دَر جانَش خانه مى کُنَد، تیر کِشیدَن، دَرد گِرِفتَن
+- mein Kopf tut weh; سَرَم دَرد مى کُنَد
+- Habe ich dir weh getan?; دَردِت آوَردَم؟
+- o weh!; اى واى
+- mit Weh & Ach; با آه و واه
+- Wehe Euch; واى بَر شُما
 Weib; زَن
 - Klatschweib; آبجی ِ خاک اَنداز
 weiblich; مُؤَنَث، زَنانه
@@ -567,10 +567,10 @@ Weide;
 - Weide, Wiese; مَراتِع، چِراگاه، عَلَفزار
 - Weide (Baum); دِرَخت ِ بید، بیدمِشک
 Weidegang; چَرا رَفتَن، به چِرا بُردَن
+Weidegrund; چِراگاه
 weiden;
 - weiden (Tiere); چَرانیدَن، چَرا کَردَن
 - s. weiden an etwas; (دِل ِ کِسی از چیزی کِیف می کُنَد (به مَعَنی مَنفی
-Weidegrund; چِراگاه
 weigern (s. -); تَن زَدَن، از چیزى اِبا کَردَن، اِمتِناع ک
 - er weigert s. zu kommen; او از آمَدَن اِمتِناع مى وَرزَد، او از آمَدَن سَر باز مى زَنَد
 Weigerung; اِمتِناع
@@ -618,7 +618,7 @@ Weise (f); نَحو
 Weisheit; خِرَدمَندى، حِکمَت، فِطانَت
 weiß; سِفید
 - das Weiß seiner Augen stach hervor; چِشمهايَش سِفیدى مى زَد
-weissagen;  .نُبُوَت کَردَن، پیشگوئى ک
+weissagen; .نُبُوَت کَردَن، پیشگوئى ک
 Weissagung; نُبُوَت، پیشگوئی
 Weißglut;
 - jem. zur Weißglut bringen; کِسی را اَنگُلَک کَردَن
@@ -903,7 +903,7 @@ wichtig; مُهِم، با اَهَميَت
 - nicht wichtig (*:unbedeutend); کَم اَهَميَت
 - sehr wichtig; مُهِم و حَیاتى
 - mir wurde wichtig, dass; به نَظَرَم لازِم و بِجا آمَد که
-- wichtig sein;  .حائِز ِ اَهَميَت بودَن، مُهِم ب
+- wichtig sein; .حائِز ِ اَهَميَت بودَن، مُهِم ب
 - ... gehört zu den wichtigen Problemen; از اَهَم ِ مَسائِل است
 - s. wichtig tun; تَشَخُص فُروختَن، اِفاده کَردَن، فیس ک.، باد دَر بُروت ک.، پُز دادَن، فیس و اِفاده داشتَن
 - s. mit ... wichtig tun; دَم از ... زَدَن
@@ -1011,7 +1011,7 @@ wieder;
 - das ist gelaufen, kommt nicht wieder; دَر هَمیشه به روى ِ يِک پاشنه نِمى گَردَد، باز هَم زِندِگى ِ گُذَشته رو نَخواهَد آوَرد
 Wiederaufbau; بازسازى
 Wiederaufnahme;
-- Wiederaufnahme der Beratungen;  از سَر گیرى ِ مُذاکرِات، اِستیناف ِ  ـ
+- Wiederaufnahme der Beratungen; از سَر گیرى ِ مُذاکرِات، اِستیناف ِ  ـ
 wiederaufnehmen; از سَر گِرِفتَن
 wiederbekommen; پَس گِرِفتَن
 wiederbeleben; اِحیاء کَردَن
@@ -1028,7 +1028,7 @@ wiederholen; تِکرار کَردَن
 wiederholt; مُکَرَر
 - wiederholter Versuch; آزمايِش ِ مُجَدَد، ـ دوباره
 Wiederholung; تِکرار
-- hoffentlich komme ich aus den nichtsnutzige Wiederholungen raus;  اُمیدوارَم از مِنجِلاب ِ تِكرار بیرون آمَده باشَم
+- hoffentlich komme ich aus den nichtsnutzige Wiederholungen raus; اُمیدوارَم از مِنجِلاب ِ تِكرار بیرون آمَده باشَم
 Wiederholungsprüfung; اِمتِحان ِ تَجدیدى
 wiederkäuen; نُشخوار کَردَن
 Wiederkäuer; نُشخوار کُنَنده
@@ -1043,7 +1043,7 @@ Wiege; گَهواره، نَنو، گازه، مَهد
 - Wiege schaukeln; گَهواره را جُنباندَن
 - die Wiege der Menschheit; مَهد ِ بَشَريَت
 - mit einem Wiegenlied einschlafen; با لالائى به خواب رَفتَن
-wiegen;  .قَپان کَردَن، وَزن ک
+wiegen; .قَپان کَردَن، وَزن ک
 - den Kopf wiegen; سَررا تَکان دادَن
 - wieviel wiegst du?; وَزنِت چِقَدر است؟
 wiehern; شِیهه زَدَن، شَهنه کَردَن
@@ -1092,7 +1092,7 @@ willkürlich; حِساب نَکَردَنى، خودسَرانه، غِیر ِ �
 Willkürlichkeit; دِلبِخواهى، اِختیار
 wimmeln; (wul) وول زَدَن
 - es wimmelt von Fehlern; خِیلى مَغلوط است، بِسیار ـ، از اِشتِباهات پُر است
-wimmern;  .ناله کَردَن، فِغان ک
+wimmern; .ناله کَردَن، فِغان ک
 - vor Schmerzen wimmern; از دَرد زوزه کِشیدَن
 Wimpel; دِرَفش، پَرچَم ِ سه گانه
 Wimper; (pl.)  (مُژه، مُژگه (مُژگان
@@ -1113,7 +1113,7 @@ winden; پیچیدَن
 - Ketten um s. winden; قِید بَر دور ِ خود تَنیدَن
 - er windet s., krümmt s.; او خِیلى دَست و پا مى زَنَد
 - s. windend; کَژ و مَژ
-Windeseile;  فى الفور
+Windeseile; فى الفور
 - in Windeseile koche ich; فى الفور مى پَزَم
 Windfang; بادگیر
 windig; باد خیز، طوفانى
@@ -1344,7 +1344,7 @@ Wohngebiet; مَنطَقهٔ مَسکونى
 Wohngeld; اِعانهٔ کِرایهٔ مَنزِل، کُمَک ِ هَزینهٔ مَسکَن
 Wohngemeinschaft; سُکونَت ِ اِشتِراکى
 wohnhaft;
-- wohnhaft in ...;  ِ ساکِن
+- wohnhaft in ...; ِ ساکِن
 Wohnheim;
 - Studentenwohnheim; خوابگاه ِ دانِشجوئى
 Wohnsitz; مَحَل ِ سُکونَت، قَرارگاه، اِستِحکامات، اِقامَت گاه، بود و باش
@@ -1366,7 +1366,7 @@ Wolle; پَشم
 - Wolle spinnen; پَشم ریسى کَردَن
 - s. in die Wolle kriegen mit ...; کَلَنجار وَر رَفتَن، با کِسى کَلَنجار رَفتَن
 - aus Wolle; پَشمین، پَشمى
-wollen;  .اِختیار کَردَن، طالِب شُدَن، خواستَن، اِراده ک
+wollen; .اِختیار کَردَن، طالِب شُدَن، خواستَن، اِراده ک
 - wen wollen Sie besuchen?; دِل ِ شُما هَواى ِ دیدَن ِ چه کِسى را کرده؟
 - ... die mir Böses wollen; آنانیکه در صَدَد ِ آزارَم هَستَند
 - er wollte nur nach draussen; هَواى ِ بیرون به کَله اش زَده بود
@@ -1420,7 +1420,7 @@ Wort; کَلام
 - mit anderen Worten; به عِبارَت ِ دیگَر
 - Geflügeltes Wort; اِرسال اُلمَثَل، به قول ِ شُما
 - ein Wort kann mehr verletzen als ein Schwert; زَخم ِ زَبان از زَخم ِ شَمشیر بَدتَر است
-- ein mildes Wort überwindet Mauern;  زَبان ِ خوش مار را از سوراخ بیرون میآوَرَد، به نَرمی بَر آيَد ز ِ سوراخ مار كه تیزی و تُندی نَیايَد بِكار، به شیرین زَبانی و لُطف و خوشی تَوانی كه پیلی به موئی كِشی، به گُفتار ِ شیرین ِ جَهان دیده مَرد كُنَد آن چه نَتَوان به شَمشیر كَرد، از دُرُشتی نَايَد این جا هیچ كار هَم به نَرمی سَركُنَد از غار ِ مار
+- ein mildes Wort überwindet Mauern; زَبان ِ خوش مار را از سوراخ بیرون میآوَرَد، به نَرمی بَر آيَد ز ِ سوراخ مار كه تیزی و تُندی نَیايَد بِكار، به شیرین زَبانی و لُطف و خوشی تَوانی كه پیلی به موئی كِشی، به گُفتار ِ شیرین ِ جَهان دیده مَرد كُنَد آن چه نَتَوان به شَمشیر كَرد، از دُرُشتی نَايَد این جا هیچ كار هَم به نَرمی سَركُنَد از غار ِ مار
 - mit freundlichen Worten gewinnt man Herzen; سُخَن ِ نیکو صَیاد ِ دِلهاست
 - gewichtiges Wort (mit Würde); کَلام ِ کِبر آمیز
 - in Wort & Tat; دَر قول و فِعل
@@ -1544,7 +1544,7 @@ würfeln; طاس اَنداختَن
 Würfelspiel; طاس بازى
 Wurfspiess; حَربه، زوبین
 würgen;
-- würgen, erbrechen;  .به سَختى قورت دادَن، به شِدَت ِ عَصَبانى قورت د
+- würgen, erbrechen; .به سَختى قورت دادَن، به شِدَت ِ عَصَبانى قورت د
 - jem. würgen; خَفه کَردَن
 Wurm; کِرم
 - der Wurm muss dem Fisch schmecken, nicht dem Angler; عَلَف بايَد به دَهَن ِ بُزی سیری بیايَد
@@ -1561,10 +1561,10 @@ Wurzel;
 - die Wurzel von 4 ziehen; جَذر ِ ۴ را گِرِفتَن
 - Menschen ohne Wurzel; اَشخاصى ِ بى ریشه
 - die Wurzel ist faul; آب از سَرچِشمه گِل است،  آب از بُنه تیره است، عِیب و خَلَل دَر اَصل و بُنیان ِ اَمر است
-- Das Übel an der Wurzel packen;آب را از سَرچِشمه بايَد بَست، دَر دَفع ِ فِتنه و شَر بايَد مَنشاء و مَنبَع ِ اَصلی ِ آن را مَعلوم و مَسدود ساخت
-- die Wurzel des Übels liegt in einem selbst; کِرم ِ دِرَخت از خود ِ دِرَخت است 
+- Das Übel an der Wurzel packen; آب را از سَرچِشمه بايَد بَست، دَر دَفع ِ فِتنه و شَر بايَد مَنشاء و مَنبَع ِ اَصلی ِ آن را مَعلوم و مَسدود ساخت
+- die Wurzel des Übels liegt in einem selbst; کِرم ِ دِرَخت از خود ِ دِرَخت است
 Wurzelzeichen; عَلامَت ِ رادیکال
-würzen;  .چاشنى زَدَن، اَدویه ز
+würzen; .چاشنى زَدَن، اَدویه ز
 - gewürzte Rede; حَرفَش مَلیح است
 würzig; خوش طَعَم
 wuschelig (Haar); وِزوِزى

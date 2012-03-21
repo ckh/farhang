@@ -6,7 +6,7 @@ Tabelle; رَسته، جَدوَل، لیست، چارت
 Tablett; سینى
 Tablette; قُرص
 tabu; قَدِغَن
-tabuisieren;  .مَنع کردن، مَمنوع ک.، تَحریم ک.، قَدِغَن ک
+tabuisieren; .مَنع کردن، مَمنوع ک.، تَحریم ک.، قَدِغَن ک
 Tabulator; جَدوَل بَند
 Tabulatortaste; کِلید ِ جَهِِش
 Tachometer; سُرعَت سَنج
@@ -24,7 +24,7 @@ Tag; روز
 - etwas an den Tag legen; چیزى به خَرج دادَن
 - zu Tage treten; مَکشوف شُدَن
 - den nächsten Tag; روز ِ بَعد
-- übernächster Tag;  - ِ پَس ِ آن فَردا، پَسان
+- übernächster Tag; - ِ پَس ِ آن فَردا، پَسان
 - "Schwarzer Tag"; سيَه روز، بَخت بَر گَشته، تیره روز، سیاه بَخت
 - seit einigen Tagen; چَند روز است که، چَند صَباحى ـ
 - er ging den ganzen Tag; او تَمام ِ روز راه رَفت
@@ -63,11 +63,11 @@ Taktgefühl;
 - Mensch mit Taktgefühl (- ohne -); آدَم با گُذَشت (ـ بى گُذَشت)، آدَم ِ سائِسانه، آدَم با حِس ِ نِزاکَت
 Taktiererei; گُمانه زَنى
 Tal; دَره
-Talfahrt; (finanz.) سِیر ِ نُزولى ِ اِقتِصادى
 Talent; فَضائِل، قَریحه، اِستِعداد، اَهليَت، قابِليَت
 - Talente (biblischer Begriff); قِنطار
 talentiert; قَریحه، مُستَعِد
 talentlos; بى هُنَر، بى عُرضه
+Talfahrt; (finanz.) سِیر ِ نُزولى ِ اِقتِصادى
 Talg; شَحم، چَربى
 Talgdrüse; غدهٔ چَربى
 Talisman; طِلِسم، حِرز
@@ -175,17 +175,17 @@ Tau;
 - Tau, Seil; طِناب
 - mit Tau festmachen; مَهار بَند کَردَن
 taub; کَر، صُم
-- taub werden (Körperteile);  .خواب رَفتَن، کِرِخ شُدَن، بی حِس ش
+- taub werden (Körperteile); .خواب رَفتَن، کِرِخ شُدَن، بی حِس ش
 - taube Nuss; گِردوی ِ پوک
 - s. taub stellen; خودرا به نَشِنیدَن زَدَن
 - der Lärm macht taub; صِدا گوش را کَر مى کُنَد
 Taube; کَبوتَر، کَفتَر، فاخته
 Taubenschlag; کَبوتَر خانه، چَخ
 taubstumm; (sommon-bokm) گُنگ و کَر، کَر و لال، صُم بُکم
-tauchen; غوطه خوردَن، ـ زَدَن، غوطه وَر شُدَن
-- abtauchen;  .شیرجه رَفتَن، با کَله زیر ِ آب ر
-- abtauchen, fliehen; دَر رَفتَن
 Tauchen; (n) غوطه، غوص، غَواصى
+tauchen; غوطه خوردَن، ـ زَدَن، غوطه وَر شُدَن
+- abtauchen; .شیرجه رَفتَن، با کَله زیر ِ آب ر
+- abtauchen, fliehen; دَر رَفتَن
 Taucher; غوطه وَر، غَواص
 Taucheranzug; لِباس ِ غَواصى
 Tauchlack; لاک ِ غوطه اى
@@ -208,11 +208,11 @@ Tauglichkeit; ارزَش، کارآمَد، قابِليَت
 taumeln; نَوان شُدَن، جُنبیدَن، گیج خوردُن
 Taupunkt; نُقطهٔ شَبنَم
 Tausch; مُبادِله، مُعاوِضه
+täuschen; مُشتَبه کَردَن، گُمراه ک.، مُنحَرِف ک.، گول زَدَن
 tauschen;
 - Geld gegen Ware tauschen; پول دَر مُقابِل ِ جِنس دادَن
 - die Kleidung mit jem. tauschen; لِباس را با کِسى مُعاوِضه کَردَن
-- austauschen;  .مُبادِله کَردَن، عَوَض ک
-täuschen; مُشتَبه کَردَن، گُمراه ک.، مُنحَرِف ک.، گول زَدَن
+- austauschen; .مُبادِله کَردَن، عَوَض ک
 Täuschung; مَکر، گُمراهى
 - Täuschung (*:Liebe); شِید
 Täuschungsmanöver; مانوِر ِ اِنحِرافى
@@ -235,9 +235,9 @@ technisch; فَنی، مُهَندِسی
 - technisches Verfahren; فَن آوَری
 - technischer Aufbau (z.B.: eines Gerätes); فَن آوَری ِ ساخت
 Technologie; تِکنولوژى، فَن آوَری
-- Nachrichtentechnologie;  فَن‌آوَری ِ اِرتِباطات
+- Nachrichtentechnologie; فَن‌آوَری ِ اِرتِباطات
 - Informationstechnoöogie; فُن‌آوَری ِ اِطِلاعات
-Technologietransfer;  انتقال فن‌آوری
+Technologietransfer; انتقال فن‌آوری
 Techtelmechtel; عِشقبازى
 Tee; چاى
 - Tee mit Würfelzucker; چای ِ دیشلِمه
@@ -265,7 +265,7 @@ Teil; بَخش، جُزء، قِسمَت
 - zum Teil; تا يِک اَندازه
 teilbar; تَقسیم پَذیر، قابِل ِ قِسمَت
 Teildrehung; چَرخِش ِ جُزء بِجُزء
-teilen;  .مُنقَسِم کَردَن، تَقسیم ک.، مُتَفَرِق ک
+teilen; .مُنقَسِم کَردَن، تَقسیم ک.، مُتَفَرِق ک
 - teilen durch ...; چیزى را بَر ... تَقسیم کَردَن
 - in Stücke teilen; دونیم کَردَن
 - das Schwein in zwei Hälften teilen; خوک را شَقه کَردَن
@@ -273,7 +273,7 @@ teilen;  .مُنقَسِم کَردَن، تَقسیم ک.، مُتَفَرِق 
 - s. die Kosten teilen; دَر مَخارِج سَهیم شُدَن
 - brüderlich teilen; بَرادَری بَرابَری
 - die Meinung von jem. teilen; با کِسى هَم عَقیده بودَن
-- geteilt werden;  .مُنقَسِم شُدَن، تَقسیم ش
+- geteilt werden; .مُنقَسِم شُدَن، تَقسیم ش
 - Teile & herrsche; تَفریق اَنداز و حُکومَت کُن
 Teiler; مُقَسِم، مَقسوم عَلِیه
 teilhaben;
@@ -380,10 +380,10 @@ Teuerung; گِرانى
 Text; مَتن
 - Originaltext; مَتن ِ اَصلى، ـ نَص
 - textimmanente Prüfung (literat.); اِمتِحان ِ شَواهِد ِ دَرونى
+Textbearbeitung; ویرايِش
 Textil-; ـ نَساجى
 Textilindustrie; صَنعَت ِ نَساجى
 Textilwaren; مَنسوجات
-Textbearbeitung; ویرايِش
 Textverarbeitung; مَتن پَرداز
 Textverarbeitungsprogramm; بَرنامهٔ واژه گارى، بَرنامهٔ مَتن پَرداز
 Theater; تِأتر، نَمايِش ِ ـ
@@ -443,7 +443,7 @@ tief; عَمیق، ژَرف، گود
 - tief liegende Augen; چِشمهاى ِ به گودى نِشَسته
 - tief sitzende Traurigkeit; اَندوه ِ خُفته
 Tief;
-- nach jedem Tief kommt ein Hoch; هَر سَرازيری يِک سَر بالايی داره 
+- nach jedem Tief kommt ein Hoch; هَر سَرازيری يِک سَر بالايی داره
 Tiefbau; بَناهاى ِ زیرزَمینى
 Tiefdruck; فِشار ِ جَوى ِ کَم
 Tiefe; عُمق، اَعماق، گودى، ژَرفا
@@ -617,8 +617,8 @@ Tour; مُسافِرَت ِ تَفریحى
 Tourismus; توریسم، جَهانگَرى
 Tourist; توریست، جَهانگَر
 Toxikologe; سَم شِناس
-toxisch; مَسموم
 Toxin; زَهرابه
+toxisch; مَسموم
 Trab; یورتِمه
 traben; یورتِمه رَفتَن
 - trabendes Pferd; اَسب ِ رَهوار
@@ -640,7 +640,7 @@ tragbar;
 Trage; زَنبه، تَخت ِ رَوان
 träge; تَنبَل، بیحال
 - sie sind sehr träge; آنها خِیلى خُمود هَستَند
-- ein träger Typ;  آدَم  ِ ناکار
+- ein träger Typ; آدَم  ِ ناکار
 tragen; حَمل کَردَن، بُردَن
 - bequem zu tragen; خوش بار
 Träger; حامِل
@@ -678,7 +678,7 @@ Transaktion; مُعامِله
 Transfer; اِنتِقال
 - Geldtransfer; حَواله
 Transformator; مُبَدَل، ترانسفورماتور
-transformieren;  .تَبدیل کَردَن، دِگَرگون ک
+transformieren; .تَبدیل کَردَن، دِگَرگون ک
 Transfusion; تَزریق، اِنتِقال
 Transistor; ترانزیستور
 transparent; شَفاف
@@ -702,7 +702,7 @@ Trapez; (mathemat., Sport) ذو زَنَقه
 Trapezkünstler; بَند باز
 Trassierung; اِنتِخاب ِ مَسیر
 Tratsch; بَد زَبانی، جُغُلی، سُخَن چینی
-tratschen;  .دو بَر هَم زَنى کَردَن، سُخَن چینى ک
+tratschen; .دو بَر هَم زَنى کَردَن، سُخَن چینى ک
 Traube; اَنگور
 - unreife Traube; غوره
 - Saft aus unreifen Trauben; آب ِ غوره
@@ -798,10 +798,10 @@ Treibsand; شِنهاى ِ رَوان
 Treibstoff; مَواد ِ سوختَنى، سوخت
 Trend; گِرايِش
 Trendanalyse; تَحلیل ِ گِرايِش
-trennen;  .مُفَرِق شُدَن، ـ بودَن، جُدا کَردَن، قَطع ک
+trennen; .مُفَرِق شُدَن، ـ بودَن، جُدا کَردَن، قَطع ک
 - s. von jem. trennen; از کِسى اِستِعفا کَردَن
 - trennt sie voneinander; از هَم دىگَر سِوايِشان کُنید
-- gibt es getrennt von Gott ...?;  آیا جُدا از خُدا ...؟، بِجُدائى از خُدا ...؟
+- gibt es getrennt von Gott ...?; آیا جُدا از خُدا ...؟، بِجُدائى از خُدا ...؟
 - getrennte Kasse; مَخارِجِشان سَواست
 - in getrennten Buchstaben; به تَفکیک ِ حُروف
 trennend; مُمَيِز، ویرگول
@@ -830,7 +830,7 @@ treu; اِخلاصمَند، اَمین، وَفادار
 Treue; وَفادارى، صِداقَت
 - jem. wird seine Treue aufgeben; کِسى نَمَک به حَرامى خواهَد بود
 Treueeid;
-- Treueeid leisten;  .سوگَند ِ یاد کَردَن، سوگَند ِ وَفادارى ک
+- Treueeid leisten; .سوگَند ِ یاد کَردَن، سوگَند ِ وَفادارى ک
 Treuhand; توليَت، قِیمومَت، مُدیريَت ِ اَمانى، تراست
 Treuhänderschaft; تَوَلا
 treuherzig; بى ریا، بى عِیب
@@ -849,7 +849,7 @@ Trick; تَرفَند
 - kleine Tricks; لَطایف اُلحيَل
 - zur Vermeidung dieser Tricks; بَراى ِ اِجتِناب از این تَرفَندها
 - seine Tricks führen zu nichts; آب از سَرِش گُذَشت
-tricksen;  .بامبول زَدَن، فَن ز
+tricksen; .بامبول زَدَن، فَن ز
 - jeder trickst jeden aus; با هَمه بَلی با مَن هَم بَلی
 Trickserei; حُقه بازى، شیله پیله
 Trieb;
@@ -866,8 +866,8 @@ Triefnase; (mofu) مُفو
 triftig; مُوَجَه، قانِع کُنَنده
 - triftiger Grund; عُذر ِ مُوَجَه، دَلیل ِ ـ
 Trigonometrie; مُثَلَثات
-Trikotwäsche; لِباس ِ کِش باف
 Trikotage; کِش بافى
+Trikotwäsche; لِباس ِ کِش باف
 Trinität; تَثليَث، ثالوث، تَثلیس
 trinkbar; آشامیدَنى
 trinken; نوشیدَن
@@ -879,11 +879,11 @@ Trinkwasser; آب ِ آشامیدَنى
 Triplexverfahren; رَوِش ِ سه بوته اى
 Tripper; سوزاک
 trist;
-- trist sein;  .مَلول بودَن، خَسته کُنَنده ب
+- trist sein; .مَلول بودَن، خَسته کُنَنده ب
 - tristes Leben; زِندِگى ِ کَسِل کُنَنده، ـ مَلال آوَر
 - triste Farben; رَنگهای تیره
 Tritt; لَگَد
-- jem. einen Tritt (in den Hintern) geben;  .شَلَخته زَدَن، لَگَد ز
+- jem. einen Tritt (in den Hintern) geben; .شَلَخته زَدَن، لَگَد ز
 Trittbrett; رِکاب
 Trittbrettfahrer; نِیزه باز، راکِب
 Triumph; پیروزى
@@ -929,10 +929,10 @@ trostlos; مأیوس، بِدون ِ چِشم داشت
 Trottel; خُل و چِل، اَلدَنگ
 trottelig; خِنگ
 Trottoir; پیاده رو
-trotz; ِ با آنهَمه، با اینکه، با وُجود
-- trotz allem ...; به هَر کَلَکی بود
 Trotz; (m) خودسَری، لَجاجَت
 - zum Trotz; اِلى رَغم
+trotz; ِ با آنهَمه، با اینکه، با وُجود
+- trotz allem ...; به هَر کَلَکی بود
 trotzdem; با اینحال، با وُجود ِ این که
 trotzen;
 - einer Sache gegenüber trotzen; بَر چیزى پا نَهادَن، دَر مُقابِل ِ چیزى مُقاوِمَت کَردَن
@@ -1050,8 +1050,8 @@ Türkis; فیروزه
 türkisch; تُرکى
 Türklopfer; دَرکوب
 Turm; بُرج
-turnen; ژیمناستیک کَردَن
 Turnen; (n) ژیمناستیک
+turnen; ژیمناستیک کَردَن
 Turner; زور وَرز، وَرزِش کار
 Turnier; مُسابِقهٔ قَهرَمانى
 Turnus;
@@ -1081,5 +1081,5 @@ Typologie; سِنخ شِناسى
 Tyrann; مُستَبِد، جَبار، زورگو، ظالِم
 Tyrannei; ظُلم، اِستِبداد
 tyrannisch; ظالِمانه
-tyrannisieren;  .ظُلم کَردَن، سِتَم ک
+tyrannisieren; .ظُلم کَردَن، سِتَم ک
 tyrannisiert; سِتَم دیده

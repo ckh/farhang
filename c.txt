@@ -39,8 +39,7 @@ Charakter; طَبع، طینَت، خو و خِصلَت، سیرَت، مَنِ�
 - er hat einen niedrigen Charakter; دِلِش دِل پَسته شامى و چُس فیل است
 - vom Charakter & Verhalten; دَر ظاهِر و باطِن
 Charakterbildung; تَکوین ِ مَنِش، تَحوُل ِ شَخصیَت
-Charaktereigenschaft;
-- Charaktereigenschaft; (pl.)  (ویژِگى ِ شَخصیَت، سَجیه (سَجایا
+Charaktereigenschaft; (pl.)  (ویژِگى ِ شَخصیَت، سَجیه (سَجایا
 charakterfest; مَتین
 charakterisieren; تَشخیص دادَن، وَصف کَردَن
 - charakterisiert werden; مُتَصِف بودَن، مُشَخَص شُدَن
@@ -54,7 +53,7 @@ Charakterlosigkeit; بى اِصالتَى
 charmant; جَذاب
 - wie charmant; او چه جَذابیَتی دارَد
 Charme; رُبایِش، جَذابیَت
-Charta;  مَنشور
+Charta; مَنشور
 - Charta der Menschenrechte; مَنشور ِ حُقوق ِ بَشَر
 Chassis; زیر بَدَنه، شاسى
 Chauffeur; رانَندهٔ ماشین، شوفُر
@@ -69,20 +68,20 @@ Chemie; شیمى
 - organische Chemie; شیمى ِآلى
 - stochastische Chemie; شیمى ِ اِتِفاقى
 - bei denen stimmt die Chemie nicht; سازِشان با هَم کوک نیست
+Chemiker; شیمى دان
 chemisch; شیمیائى
 - chemische Reaktion; - فِعل و اِنفِعال ِ شیمیائى، واکُنِش
-Chemiker; شیمى دان
 chick; خوش آینَد، شیک و پیک
 Chiffre; حُروف ِ رَمزى
 Chimäre; خیال باطِل، نَمود ِ بى بود
-Chinin;گِنه گِنه
+Chinin; گِنه گِنه
 Chips; چیپس
 Chirurg; جَراح
 - Schönheitschirurg; جَراح ِ پلاستیک
 Chirurgie; جَراحی
 - Unfallchirurgie; جَراحى ِ سَوانِح
-Chlor;کلُر
-chloren;کلُر زَدَن
+Chlor; کلُر
+chloren; کلُر زَدَن
 Chlorophyll; سَبزینه، کلُروفیل
 Choke; ساسات
 Cholera; وَبا
@@ -164,7 +163,7 @@ Computerbegriffe;
 - Implementierung von Software; پیاده سازی ِ نَرم اَفزار
 - Installation; نَصب
 - Internet; شَبَکه اینتِرنِت
-- entsprechender Knopf (z.B. bei ein Softwareinstallation);  دُکمهٔ مُرورگَر
+- entsprechender Knopf (z.B. bei ein Softwareinstallation); دُکمهٔ مُرورگَر
 - Lernplattform; سیستِم ِ مدیریَت ِ یادگیری
 - log in; وُرود به سایت
 - log out; خُروج از سایت
@@ -209,7 +208,7 @@ Cousin; عَمو زاده، پِسَر عَمو، پِسَر دائى
 Cousine; عَمو زاده، دُختَر عَمو، دُختَر دائى
 Cover; طَرح ِ جِلد
 Credo; اِعتِقاد نامه
-Creme; 
+Creme;
 - Creme (Sahne); خامه
 - Hautcreme; کرِم
 Cross-over; تَقاطُع

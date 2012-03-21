@@ -1,4 +1,5 @@
 e (Vokal über Konsonant); عَلامَت ِ کَسرَه
+e-Mail; رایانامه
 Ebbe;
 - Ebbe & Flut; جَزر و مَد
 - bei mir ist Ebbe; کیسه اَم تَه کِشیده است
@@ -36,7 +37,7 @@ echt;
 - vor Gott kann man echt sein; جِلوى ِ خُدا آدَم میتَوانَد بِدون ِ خُرده شیشه باشَد
 - echte Busse; توبهٔ نَصوح، ـ صَمیمانه، ـ از تَه ِ قَلب
 - echte Lösung (chem.); مَحلول ِ حَقیقى
-- echter Freund; دوست ِ مُخلِص، ـ ِ واقِعى 
+- echter Freund; دوست ِ مُخلِص، ـ ِ واقِعى
 - wenn du ein echter Mann bist; تو اَگَر مَرد باشی
 - ich komme aus ... und bin echter ...; ... مَن اَهل ِ ... هَستَم و شیر ِ پاک خوردهٔ
 - damit echtes & unechtes unterschieden wird; تا سَره و ناسَره از هَم مُتَمایِز باشَد
@@ -96,7 +97,7 @@ Effektivität; کارآئى، کارآمَدی
 - Uneffektivität; ناکارآمَدی
 egal; بی عاطِفه
 - das ist egal; وِلِلِش، بیخیالَش، بى خیالَش باش، یِکجور است، فَرق نمی کُنَد
-egalisieren;  .مُساوى کَردَن، صاف ک
+egalisieren; .مُساوى کَردَن، صاف ک
 Egel; زالو
 - Egel ansetzen; زالو اََنداختَن
 Egge; ماله، مِسلَفه، بِتکَن، چَنگک
@@ -104,8 +105,6 @@ Ego;
 - das Ego des Menschen; نَفس  ِ اِنسان
 Egoismus; مَنى، خودخواهى، خودمِحوَرى
 egozentrisch; خود مِحوَر، خودمَرکَز، خودپَرَست
-ehe;
-- ehe die Berge wurden ...; قَبل از آنکه کوها بِوجود آمَدَند
 Ehe; زَناشوئى، زَن و شوهَرى، زوجیَت، نِکاح
 - eine Ehe eingehen; به نِکاح دَر آمَدَن، اِزدِواج کَردَن
 - sie sollte in den Stand der Ehe eintreten mit ...; او بایَد عَقد به فِلان کَس بِشَوَد
@@ -114,13 +113,15 @@ Ehe; زَناشوئى، زَن و شوهَرى، زوجیَت، نِکاح
 - nach 10- jähriger Ehe; بَعد از دَه سال تأهُل، - اِزدِواج
 - Zeitehe; اِزدِواج ِ مُوَقَت، سیغه گِرِفتَن
 - Zweckehe; اِزدِواج ِ مِسیار
+ehe;
+- ehe die Berge wurden ...; قَبل از آنکه کوها بِوجود آمَدَند
 Ehebrecher; (pl.) مَرد ِ زانى، فاسِق (فُساق)، زِناکار
 Ehebrecherin; زَن ِ زانیه، فاسِقه
 Ehebruch; زِنا
 - Ehebruch begehen; زِنا کَردَن، ـ دادَن
 Ehefrau; عِیال، زَن، مَنکوحِه، حَلیله
 - ich möchte, dass du mir deine Tochter zur Ehefrau gibst; مى خواهَم دُختَرِت را به هَمسَرى بِمَن بِدَهى
-Ehegatte (fem.);  (زوج (زوجه
+Ehegatte (fem.); (زوج (زوجه
 Eheleute; زَن و شوهَر، مُتأهِلین
 ehelich; نِکاحى، اِزدِواجى، حَلالزاده
 - eheliche Zerrüttung; بِه هَم خوردِگى ِ زَنا شوئى، از هَم پاشیدِگى ـ
@@ -206,9 +207,9 @@ ehrgeizig; غِیرَتمَند، جاه طالِب
 ehrlich; راستگو بودَن
 - ehrlich?; راستى؟، راست مى گوئید؟
 - ehrlich!; راستِش
-- ehrlich sein;  .واقِعگَرا بودَن، راستگو ب
+- ehrlich sein; .واقِعگَرا بودَن، راستگو ب
 - ein ehrlicher Mensch; یک شَخص ِ دُرُستکار
-- wenn wir ehrlich zugeben, dass ...;اگر دَر واقع مى پَذیریم که
+- wenn wir ehrlich zugeben, dass ...; اگر دَر واقع مى پَذیریم که
 - um ehrlich zu sein, ...; راستِش را بِگویَم، ـ بِخواهید، راست بِگویَم
 - um ehrlich zu sein, das gefällt mir überhaupt nicht; راستِش را بِخواهید، چَندان مَرا نَگِرِفت
 - Ehrlich währt am längsten; بار ِ کَج به مَنزِل نِمی رِسَد
@@ -240,7 +241,7 @@ Eid; سوگَند
 - Eid abverlangen; سوگَند دادَن
 - Eid leisten (*:schwören); .قَسَم خوردَن، سوگَند خ
 - er liess ihn einen Eid schwören. dass; اورا قَسَم داد که
-- ich erkläre an Eides Statt, ...; با قَسَم اِظهار مى دارَم که 
+- ich erkläre an Eides Statt, ...; با قَسَم اِظهار مى دارَم که
 Eidechse; کَربَس، چِلپاسه، مارمولَک
 Eidesbruch; خُلف ِ یَمین، نَقض ِ سوگَند، قَسَم شِکَنى، شِکَست ِ عَهد
 eidesstattlich;
@@ -311,7 +312,7 @@ eignen;
 - s. als Leiter eignen; ساخت ِ یک رَهبَررا داشتَن، بدَرد ِ رَهبَر خوردَن
 - das s. nicht für den Film eignet; که به کار ِ سینِما نِمى آیَد
 Eignung; قابِلیت، تَوانائی
-- Eignung haben;  .مُناسِب بودَن، لیاقَت داشتَن، تَوانائى د
+- Eignung haben; .مُناسِب بودَن، لیاقَت داشتَن، تَوانائى د
 Eilbote; چاپار، چَپَر
 Eilbrief; نامهٔ فورى
 Eile; تَعجیل، عَجَله، شِتاب، تُندى
@@ -346,7 +347,7 @@ einäschern;
 - Toten einäschern; جَسَد را سوزاندَن
 Einäscherung; سوزاندَن ِ نَعش، تَبدیل به خاکِستَر
 einatmen (*:atmen); نَفَس کِشیدَن
-- Geruch einatmen;  تَنَسُم کَردَن
+- Geruch einatmen; تَنَسُم کَردَن
 Einatmung; شَهیق، نَفَس کِشى، تَنَفُس
 Einbahnstrasse; خیابان ِ یِکطَرَفه
 einbalsamieren; حَنوط کَردَن، مومیائى ک
@@ -357,10 +358,10 @@ Einbaumöbel; مُبلهاى ِ پیش ساخته، ـ تو دیوارى
 einbehalten;
 - als Pfand einbehalten; بِعُنوان ِ گِرو نِگاه داشتَن
 einberufen;
-- Sitzung einberufen;  .جَلَسه را اِنعِقاد کَردَن، بَراى ِ تَشکیل ِ جَلَسه دَعوَت ک
+- Sitzung einberufen; .جَلَسه را اِنعِقاد کَردَن، بَراى ِ تَشکیل ِ جَلَسه دَعوَت ک
 - zum Militärdienst einberufen; به خِدمَت ِ نِظام فَرا خواندَن
 Einberufung;
-- Einberufung des Parlamentes;  .فُراخواندَن به اَجلاس ِ پارلِمان، مَجلِس را اِنعقاد ک.، ـ اِحضار ک
+- Einberufung des Parlamentes; .فُراخواندَن به اَجلاس ِ پارلِمان، مَجلِس را اِنعقاد ک.، ـ اِحضار ک
 Einberufungsbefehl; فَرمان ِ اِحضار بِخِدمَت ِ نِظام
 Einberufungskommission; کمیسیون ِ سَر باز گیرى
 einbeziehen;
@@ -371,15 +372,15 @@ einbeziehen;
 - betonen, alle ... einzubeziehen; بَر به کارگیرى کُلى  ِ.. تأکید مى کُنَد
 einbeziehend; شُمول، شامِل
 Einbeziehung;
-- mit Einbeziehung von.. ; ... ِ با اِشتِمال ِ، با تَضمُن ِ، به اِنضِمام
+- mit Einbeziehung von..; ... ِ با اِشتِمال ِ، با تَضمُن ِ، به اِنضِمام
 einbiegen;
 - in die Strasse einbiegen; به خیابان پیچیدَن
 einbilden;
 - s. auf seinen Reichtum etwas einbilden; به ثِروَت ِ خود نازیدَن، ـ مَغرور بودَن، دَر بَرابَر ِ - فَخر فُروشی کَردَن
 - was bildest du dir ein?; چه خیالهائى دَر دَماغ دارى؟
-- man bildet s. ein, dass ...;  .چِنین مى اِنگارَد که، تَصَوُر کَردَن، خیال ک
+- man bildet s. ein, dass ...; .چِنین مى اِنگارَد که، تَصَوُر کَردَن، خیال ک
 - eingebildet, phantasiert; مُخَیَل، تَخَیُلى، خیالى
-- er bildet s. ein, was besonderes zu sein;  او فِکر می‌کند  از دَماغ ِ فیل اُفتاده و اِدِعا می کُنَد پِسَر ِ اُتُر خان ِ رَشتی است
+- er bildet s. ein, was besonderes zu sein; او فِکر می‌کند  از دَماغ ِ فیل اُفتاده و اِدِعا می کُنَد پِسَر ِ اُتُر خان ِ رَشتی است
 - er ist eingebildet; آدَم ِ گُنده دَماغ، کَله اَش پُر باد است
 - er ist auf seine Kraft eingebildet; او مَغرور به زور ِ بازویَش است، او به قُدرَت ِ خود مى نازَد
 - der Typ ist eingebildet; یارو باد ِ باروت دارَد
@@ -388,7 +389,7 @@ Einbildung;
 - Einbildung, Phantasie; تَوَهُم، خیال، مُخَیَله، وَهم
 - Einbildung, Stolz; باد و دَم، غُرور، تَکَبُر
 einbinden;
-- Buch einbinden;  .تَجلید کَردَن، جِلد ک
+- Buch einbinden; .تَجلید کَردَن، جِلد ک
 - in Leder einbinden; جِلد ِ چیزى را چَرم گِرِفتَن
 - jem. in die Arbeit einbinden; دَست ِ کِسى را تو کار بَند کَردَن
 Einblick;
@@ -425,7 +426,7 @@ einbürgern; حَق ِ تابِعیَت دادَن
 Einbürgerung; قَبول ِ تابِعیَت
 Einbürgerungsverfahren; تَشریفات ِ اَعطاى ِ تابِعیَت
 Einbusse; تَلَف، لَطمه
-einbüssen;  .مَحروم شُدَن، فاقِد ِ چیزى ش
+einbüssen; .مَحروم شُدَن، فاقِد ِ چیزى ش
 - Stimmen einbüssen; آراء را از دَست دادَن
 - Vertrauen einbüssen; از اِعتِبار اُفتادَن
 eindämmen; جِلوگیرى کَردَن
@@ -435,7 +436,7 @@ eindecken;
 eindeutig;
 - eindeutige Antwort; جَواب ِ قاطِع، ـ واضِح، ـ روشَن، ـ صَریح
 Eindeutigkeit; یِک جَهَت، صَراحَت
-eindicken (Saft, u.ä.);  .مَشت کَردَن، غَلیظ ک
+eindicken (Saft, u.ä.); .مَشت کَردَن، غَلیظ ک
 eindringen;
 - in eine Sache eindringen; چیزى را غوررَسى کَردَن، دَر چیزى فُرو رَفتَن، نُفوذ کَردَن
 - in das Haus von jem. eindringen; به خانهٔ کِسى هُجوم بُردَن
@@ -452,11 +453,11 @@ Eindruck; (pl.) اَثَر (آثار)، تأثیر
 - was er sagt, macht Eindruck auf ...; حَرفِش دَر فِلان کَس مى گیرَد
 - den Eindruck, den seine Arbeit macht, überprüfen; شَم ِ عَمَلِش را مى آزمایَد
 - unser Reden muss immer Eindruck machen; حَرف ِ ما بایَد با لِفت و لُعاب باشَد
-eindrucken;
-- Monogramm eindrucken; حُروف ِ مُشَخَصه را باسِمه کَردَن
 eindrücken;
 - die Scheibe eindrücken; شیشه را شِکَستَن
-eindrücklich (-sein);  .مُؤَثِر بودَن، نافِذ ب.، گیرا ب
+eindrucken;
+- Monogramm eindrucken; حُروف ِ مُشَخَصه را باسِمه کَردَن
+eindrücklich (-sein); .مُؤَثِر بودَن، نافِذ ب.، گیرا ب
 eindrucksvoll; نافِذ، مُؤَثِر، هِیبَت اَنگیز، پُر سَطوَت، گیرا
 - eindrucksvolle Veranstaltung; جَلَسهٔ دِل نِشین
 - solch eine eindrucksvolle Person ...; چِنین شَخصیَت ِ پُر قُدرَت و جَذابى، ـ با وَقار
@@ -508,7 +509,7 @@ Einfall;
 einfallen;
 - jem. einfallen; به خاطِر ِ کِسى خُطور کَردَن، به فِکر ِ کِسی -، به یاد ِ کِسى آمَدَن
 - lassen Sie s. was einfallen; فِکرى به حالِتان بِکُنید
-- in ein Land einfallen;  دَر کِشوَر تاخت و تاز کَردَن، بَر کِشوَر دَست اَندازى ک.، ـ تَهاجُم کَردَن
+- in ein Land einfallen; دَر کِشوَر تاخت و تاز کَردَن، بَر کِشوَر دَست اَندازى ک.، ـ تَهاجُم کَردَن
 - was fällt dir ein?; چه خیالَت مى رِسَد؟
 - mir fällt ein, dass ...; به خاطِرَم میایَد که، یادَم مى آیَد که، ویرَم گِرِفت
 - die Wand fällt ein; دیوار فُرو مى ریزَد
@@ -532,7 +533,7 @@ Einfassung;
 - Einfassung, Gemäuer; هِره، مُحاصِره، حِصار
 - Einfassung beim Ring; نِگین دان
 - Wegeinfassung; سَنگچین راه
-einfetten;  .چیزى را پیه مالى کَردَن، چَرب ک
+einfetten; .چیزى را پیه مالى کَردَن، چَرب ک
 einfinden (s. -); جَمع شُدَن، حُضور یافتَن
 einflechten;
 - Band einflechten; نَواررا بافتَن
@@ -540,7 +541,7 @@ einflechten;
 einflössen;
 - Furcht einflössen; رَم دادَن، تَرسانیدَن
 - Gefühle einflössen; اِحساسات را اِلقاء کَردَن
-- jem. Nahrung einflössen;  .به کِسى غَذا دادَن، غَذارا به خورد ِ کِسى د
+- jem. Nahrung einflössen; .به کِسى غَذا دادَن، غَذارا به خورد ِ کِسى د
 - jem. Zuversicht  bezüglich ... einflössen; به کِسى اِعتِماد ِ... را رُسوخ دادَن
 - eingeflösst (in den Mund gelegt); مُلقی، اِلقاء شُده
 Einfluss; نُفوذ، تأثیر
@@ -556,7 +557,7 @@ einflussreich;
 - alle einflussreichen Leute; تَمام ِ اَفراد از کَله گُنده ها
 einflüstern;
 - einflüstern, propagieren; بیخ ِ گوشى کَردَن
-einfordern;  .مُطالِبه کَردَن، طَلَب ک
+einfordern; .مُطالِبه کَردَن، طَلَب ک
 - einfordernd sein; پُررو بودَن، گویی هَمه چیز حَق ِ او ست
 einförmig; یِکنَواخت
 Einfriedung; پَچَر، حِصار، نَرده
@@ -579,18 +580,18 @@ Einfuhr; وارِدات
 einführen;
 - jem. in eine Sache einführen; کِسى را دَر چیزى وارِد ساختَن
 - jem. in sein Amt einführen; کِسى را بَراى ِ مَقامى مُعَرِفى کَردَن
-- etwas als neuen Brauch einführen;  .چیزى را رَسم کَردَن، ـ مَعَمول ک
+- etwas als neuen Brauch einführen; .چیزى را رَسم کَردَن، ـ مَعَمول ک
 - neue Mode einführen; لِباس ِ جَدید را باب کَردَن
 - Wörter einführen; لُغات راوَضع کَردَن
 - einführende Worte; سُخَنان ِ مُقَدَماتى
 Einfuhrkontigent; سَهیمهٔ وارِدات
-Einfuhrzoll; گُمرُک ِ وارِدات، ـ وُرودى
 Einführung; اِدخال، وُرود
 - Einführung, Präambel; پیش نِویسى
 - Einführung der Kanüle; ... اِدخال ِ لوله دَر
 - Einführung neuer Sitten; وُرود ِ رُسوم ِ تازه، رُسوم تازه را مَعَمول کَردَن
 - zur Einführung von Herrn X bei ...; ... ِ بَراى ِ وُرود ِ آقاى ِ فِلان نَزد
 - Einführung des Wahlrechtes; اِحراز ِ حَق ِ اِنتِخابات
+Einfuhrzoll; گُمرُک ِ وارِدات، ـ وُرودى
 Eingabe; دَرخواست، عَریضه، عَرضحال، شِکایَت نامه
 - eine Eingabe an ... machen; عَریضه اى را به ... مُعَرِفى داشتَن
 Eingang; دَر ِ وُرودى، وُرود
@@ -604,7 +605,7 @@ Eingangsstelle; مَدخَل
 Eingebung; اِلهام ِ اِلهى، وَهم
 - auf eine Eingebung warten; اُستِخاره کَردَن
 eingedenk;
-- eingedenk der Tatsache, dass ...; ... ِ با عِلم 
+- eingedenk der Tatsache, dass ...; ... ِ با عِلم
 eingeengt; مُنقَبِض
 eingefleischt;
 - eingefleischte Gewohnheit; عادَت ِ دامَنگیر
@@ -647,7 +648,7 @@ eingeschüchtert; هَراسان
 - eingeschüchtertes Männchen; آدَم ِ مَرعوب
 eingesperrt;
 - eingesperrt sein; مَحبوس بودَن
-- eingesperrt werden;  .مَسجون شُدَن، مَحبوس ش
+- eingesperrt werden; .مَسجون شُدَن، مَحبوس ش
 Eingeständnis;
 - ich litt unter dem Eingeständnis, dass; رَنج ِ مَن دَر اِعتِراف به اینکه ... است، زیاد بود
 eingestehen; اِقرار کَردَن، اِعتِراف ک.، مُقِر شُدَن
@@ -662,8 +663,8 @@ Eingeweide; شِکَنبه، اَحشاء
 eingliedern; اِلحاق کَردَن
 - ihn in die Gesellschaft eingliedern; اورا به اِجتِماع اِنضِمام کَردَن
 Eingliederung; اِنضِمام، اِلحاق، اَندَرونه
-eingravieren;  .چیزى را حَک کَردَن، ـ قَلَم زَنى ک
-eingreifen;  .مُداخِله کَردَن، اِقدام ک
+eingravieren; .چیزى را حَک کَردَن، ـ قَلَم زَنى ک
+eingreifen; .مُداخِله کَردَن، اِقدام ک
 - in diese Angelegenheit eingreifen; دَر این حَوادِث مُخادِله کَردَن
 - das Zahnrad greift ein; دَندانه چَرخ گیر مى کُنَد
 - Eingreifen; دِخالت، دَستکارى
@@ -676,21 +677,21 @@ Eingriff;
 - Eingriff in ...; مُداخِله
 eingruppieren; طَبَقه بَندى کَردَن
 einhacken;
-- auf ihn einhacken;  .به او مِنقار زَدَن، ـ نیش ز
+- auf ihn einhacken; .به او مِنقار زَدَن، ـ نیش ز
 - auf ... einhacken; روی ِ ... جُفتَک جُفتَک زَدَن
 einhaken; قَزَن قُفلى زَدَن
 - s. einhaken; بازو دادَن، بازو دَر بازو
 - (Abschlepp-) Seil am Auto einhaken; سیم را به ماشین قُلاب کَردَن
 Einhalt;
-- jem. Einhalt gebieten;  .از کِسى جِلو گیرى کَردَن، کِسى را مُتَوَقِف ک.، ـ مَنع ک.، ـ مُمانَعَت ک
+- jem. Einhalt gebieten; .از کِسى جِلو گیرى کَردَن، کِسى را مُتَوَقِف ک.، ـ مَنع ک.، ـ مُمانَعَت ک
 einhalten;
 - einhalten, aufhören; چیزی را موقوف کَردَن
-- einhalten, beachten;  .رَعایَت کَردَن، مُراعات ک
+- einhalten, beachten; .رَعایَت کَردَن، مُراعات ک
 - den geraden Weg einhalten; راه ِ راست را پیش گِرِفتَن
 - halte den Weg ein; راه را رَعایَت کُن، سَر ِ راه باش
 - den Mittelweg einhalten; میانه رَوى قائِل بودَن
 - Versprechen einhalten; بِقول ِ خود وَفاه کَردَن، سَر ِ قول ِ خود ایستادَن
-- Regeln einhalten;  .قَواعدرا تَمَسُک کَردَن، ـ رَعایَت ک
+- Regeln einhalten; .قَواعدرا تَمَسُک کَردَن، ـ رَعایَت ک
 - die Geschäftsordnung einhalten; مُقَرَرات ِ داخلى را مُراعات کَردَن
 - vereinbarten Preis einhalten; از قِیمَت ِ مُقَرَر تَجاوُز نَکَردَن
 - Frist einhalten; مُهلَت را نِگَه داشتَن
@@ -732,7 +733,7 @@ einige;
 - tausend plus einige; هِزار و اَندى
 - in einigen Fällen; دَر مَوارِدى ِ چَند، دَر چَند مورِد
 - vor einiger Zeit; چَند مُدَتى پیش، چَندى ِ قَبل
-einigeln (s. -); دَر لاک ِ خود بودَن 
+einigeln (s. -); دَر لاک ِ خود بودَن
 - sie igeln s. total ein; آنها کامِلاً دَر لاک ِ خود فُرو می رَوَند
 einigen;
 - s. einigen über; با هَم تَوافُق کَردَن
@@ -743,7 +744,7 @@ Einigung; تَوافُق، اِتِحاد، سازِش
 einjagen;
 - ... ihm Furcht einjagte; اورا مُتَوَحِش کَرده ...
 einkalkulieren; روى ِ چیزى حِساب کَردَن،  چیزى را بِحِساب آوَردَن، پیش بینى کَردَن
-einkassieren (*:eintreiben);  .مالیت را وُصول کَردَن، ـ اَخذ ک
+einkassieren (*:eintreiben); .مالیت را وُصول کَردَن، ـ اَخذ ک
 - Betrag, den ich für den Unterricht einkassierte; مَبلَغى که از تَدریس عایِدَم میشُد
 Einkauf; خَرید، اِبتیاع
 einkaufen; خَرید کَردَن، خَریدارى ک.، خَریدَن
@@ -756,7 +757,7 @@ einkellern; چیزى دَر زیر زَمین جا دادَن
 einkerben; شَیار دَر آوَردَن، فاق دادَن
 - eingekerbt; کُنگره دار، دالبُر
 Einkerbung;
-- ... hat eine Einkerbung hinterlassen;  خَط اَنداخته بود ...
+- ... hat eine Einkerbung hinterlassen; خَط اَنداخته بود ...
 Einkerkerung; دُستاق، حَبس، دَستگیرى
 einkesseln (*:belagern); مُحاصِره کَردَن
 Einklang; وَفاق، تَوافُق، مُوافِقَت، هَماهَنگى
@@ -777,7 +778,7 @@ Einkreisung; اِحاطه
 - Politik der Einkreisung; سیاسَت ِ مُحاصِره
 einkremen; کرِم زَدَن
 Einkunft; دَر آمَد، دَستمُزد، حُقوق
-- erwartete Einkünfte; عایِد ِ(عَوایِد) مَنظوره 
+- erwartete Einkünfte; عایِد ِ(عَوایِد) مَنظوره
 einladen; دَعَوَت کَردَن
 - das Auto einladen mit Waren; چیزى را دَر ماشین بار کَردَن
 - jem. zu s. einladen; کِسى را پیش خود دَعوَت کَردَن
@@ -792,7 +793,7 @@ Einlage;
 - Einlage, Deposit; سِپُردهٔ بانکى، وَدیعه
 - Einlage im Schuh; کَفهٔ داخِل ِ کَفش
 Einlagerung;
-- Einlagerung von atomaren Brennstoffen; سوخت گُذاری دَر قَلب ِ راکتور ِ نیروگاه ِ هَسته‌ای 
+- Einlagerung von atomaren Brennstoffen; سوخت گُذاری دَر قَلب ِ راکتور ِ نیروگاه ِ هَسته‌ای
 Einlass; اِجازهٔ وُرود، ـ دُخول
 - s. in vollem Bewusstsein auf etwas einlassen; با وُقوف به چیزى تَن دادَن
 - lass dich nicht mit ihm ein; سَر به تَنَش نَباش
@@ -840,7 +841,7 @@ einlullen;
 - einlullen, einschläfern; کِسى را دَر رِخوَت اَنداختَن، بَراى ِ بَچه لالائى گفتن، خواب کَردَن
 - er lässt s. wegen ... nicht von ihr einlullen; او بِخاطِر ِ ... مَجیز او را نِمى گویَد
 einmachen;
-- Obst einmachen;  .میوه را مُرَبا کَردَن، ـ تُرشى ک
+- Obst einmachen; .میوه را مُرَبا کَردَن، ـ تُرشى ک
 einmal;
 - einmal (i.S. früher); (یِک وَقت (ـ ى)، یِک روز( ـ ى
 - einmal, wenn ... dann ...; هَمینکه
@@ -856,13 +857,13 @@ Einmaleins;
 - das Einmaleins; جَدوَل ِ ضَرب
 - grosses Einmaleins; ضَرب ِ چَند رَقَمى
 - kleines Einmaleins; ضَرب ِ یِک رَقَمى
-- mit X das Einmaleins üben;  فِلان را مَشق ِ ضَرب دادَن
+- mit X das Einmaleins üben; فِلان را مَشق ِ ضَرب دادَن
 einmalig; فَرید، بى نَظیر، یِکمَرتَبه اى، یِکبارى
 - einmaliger Erfolg; توفیق ِ یِگانه
 - einmaliges Erlebnis; خاطِرهٔ بى نَظیر
 - ihre einmalige (i.S.: nur einmal) Mahlzeit; خوراک ِ یِک وَعدهٔ ایشان
 Einmarsch; وُرود ِ اَرتِش، تَصَرُف
-einmischen (s. -);  .میانجیگَرى کَردَن، دِخالَت ک
+einmischen (s. -); .میانجیگَرى کَردَن، دِخالَت ک
 - jem. mischt s. ein; کِسى به میان مى پَرَد
 - sie mischen s. nicht ein; آنها نَه به خِیر ِ هَم می زَنَند و نَه به شَر ِ هَم
 - Misch dich da nicht ein!; قاطى ِ این جور کار نَشو
@@ -900,18 +901,16 @@ Einöde; بیراهه، خاکبار، بادیه
 einordnen; رَده بَندى کَردَن، مُرَتَب ک.، چیزهارا سَر ِ جایَش گُذاشتَن
 - s. in den Verkehr einordnen; به نوبتَ مَسیر ِ خودرا گِرِفتَن
 - Verträge einordnen; به قَراردادها ضَبط و رَبط دادَن
-einpacken;  .بَسته بَندى کَردَن، بار بَندى ک
+einpacken; .بَسته بَندى کَردَن، بار بَندى ک
 - Bücher einpacken; کُتُب را بَسته بَندى کَردَن
 - du kannst echt einpacken; ماستَت را کوزه کُن
 Einparteiensystem; نِظام ِ تَک حِزبى، رِژیم ِ ـ
 einpassen; قالِب شُدَن، دُرُست دَر چیزى جا شُدَن
-- etwas einpassen;  .چیزى را جا اََنداختَن، ـ جاسازى کَردَن، ـ تَنظیم ک
+- etwas einpassen; .چیزى را جا اََنداختَن، ـ جاسازى کَردَن، ـ تَنظیم ک
 - das passt s. gut ein; خوب جا مى اُفتَد
 einpferchen; چَپاندَن
 einpflanzen;
 - jem. etwas einpflanzen; چیزى را دَر کِسى نِشاندَن
-einpferchen;
-- sie war in einem engen Kleid eingepfercht; بَدَنِش دَر لِباس تَنگ اُفتاده
 einprägen (s. -); ذِهنى کَردَن
 - jem. etwas einprägen; چیزى را به کِسى خَرفَهم کَردَن، ـ تَلقین ک.، دَر ذِهن کِسى جایگیر ک.، اِصرار ک.، ـ مُؤکَد دادَن
 - s. im Gedächtnis einprägen; دَر یاد ِ آدَم نَقش بَستن، ـ زَدَن
@@ -925,7 +924,7 @@ einräumen; جابِجا کَردَن
 - jem. Platz einräumen; کِسى را جا دادَن
 - Vorrecht einräumen; اِمتیازى قائِل شُدَن
 einreden;
-- s. etwas einreden;  .به چیزى اِلقاء کَردَن، ـ تَلقین ک
+- s. etwas einreden; .به چیزى اِلقاء کَردَن، ـ تَلقین ک
 - auf jem. einreden; هِى به کِسى گفتن
 einreiben; مالیدَن
 einreichen;
@@ -933,8 +932,8 @@ einreichen;
 - Rücktritt einreichen; اِستِعفا را تَسلیم کَردَن
 - beim Sekretariat einreichen; به دَبیر ِ خانه تَقدیم کَردَن
 einreihen (s. -); نوبَت گِرِفتَن
-einreisen; داخِل ِ کِشوَر شُدَن، تَشریف آوَردَن
 Einreiseerlaubnis; اِجازهٔ وُرود
+einreisen; داخِل ِ کِشوَر شُدَن، تَشریف آوَردَن
 einreissen;
 - s. den Nagel einreissen; سَر ِ ناخُن را کَندَن
 einrenken (s. -); جا اُفتادن
@@ -947,7 +946,7 @@ einrichten;
 - eine Sache so einrichten, dass ...; تَرتیب ِ چیزى را طورى بِدَهَند که
 - ich werde es so einrichten, dass; طورى تَرتیب مى دَهَم که
 - ein Postfach einrichten; صَندوق ِ پُستى تَرتیب دادَن
-- eingerichtet werden, in Betrieb genommen werden;  .دایِر شُدَن، تَعبیه ش
+- eingerichtet werden, in Betrieb genommen werden; .دایِر شُدَن، تَعبیه ش
 Einrichter; سامان دَهَنده
 Einrichtung;
 - Einrichtung, Institution; مؤِسِسه
@@ -988,7 +987,7 @@ Einsatz;
 - zum Einsatz bringen; به کار بُردَن
 - zum Einsatz kommen; به کار رَفتَن
 einsatzbereit;
-- einsatzbereit sein;  .حاضِر بودَن، آماده ب
+- einsatzbereit sein; .حاضِر بودَن، آماده ب
 einsaugen; مَکیدَن
 einsäumen;
 - den Stoff einsäumen; پارچه را لَب دوزى کَردَن
@@ -1002,7 +1001,7 @@ einschalten;
 einschärfen;
 - jem. etwas einschärfen; چیزى را به کِسى خَرفَهم کَردَن، ـ تَلقین ک.، دَر ذِهن کِسى جایگیر ک.، اِصرار ک.، ـ مُؤکَد دادَن
 einscharren; .کِسى را چاله کَردَن، ـ چال ک.، ـ خاک ک
-einschätzen;  .تَخمین کَردَن، تَقویم ک.، اَرزیابى ک
+einschätzen; .تَخمین کَردَن، تَقویم ک.، اَرزیابى ک
 - eingeschätzt, taxiert; قِیمَت گُذارى شُده
 Einschätzung;
 - Einschätzung der Lage; تَخمین ِ اوضاع
@@ -1011,7 +1010,7 @@ einschlafen; خواب بُردَن، به خواب رَفتَن
 - wir konnten nicht einschlafen; خوابِمان نِمى بُرد، ـ نِمى گِرِفت
 - schlaf nicht ein; خواب نَرَوى
 - mir schläft alles ein; بَدَنَم کِرَخت مى شَوَد، ـ بى حِس مى شَوَد
-- zum Einschlafen bringen;  خواب کَردَن، لالایی گُفتَن
+- zum Einschlafen bringen; خواب کَردَن، لالایی گُفتَن
 einschläfern;
 - jem. einschläfern (Wachsamkeit); کِسى را اِغفال کَردَن، ـ دَر رِخوَت اََنداختَن
 - das Kind einschläfern; بَچه را خواب کَردَن
@@ -1030,7 +1029,7 @@ einschlagen;
 - in Papier einschlagen; لِفاف کَردَن
 - die Nase einschlagen; خُرد و خَمیر کَردَن ِ بینى
 - Nagel einschlagen; میخ را کوبیدَن
-- auf das Pferd einschlagen;  .شَلاق بَر کَفَل و گُردهٔ اَسب زَدَن، با شَلاق به اَسب ضَربه ز
+- auf das Pferd einschlagen; .شَلاق بَر کَفَل و گُردهٔ اَسب زَدَن، با شَلاق به اَسب ضَربه ز
 - welche Politik wird die Regierung einschlagen?; دولَت چه سیاسَتى را اِتِخاذ خواهَد کرَد؟
 - die Ware schlägt gut ein; کالا خوب میگیرد، ـ پُر فُروش است
 - er schlägt den Weg durch die Nebenstrasse ein; از خیابان ِ فَرعى میان بُر مى زَنَد
@@ -1046,12 +1045,12 @@ einschliessen; کِسى را حَبس کَردَن
 einschliesslich; ... ِ به اِنضِمام ِ، شامِل ِ، بعِلاوه، به ضَمیمه، لِغایَت
 - von 5 bis einschliesslich 10; از ۵ لِغایَت ِ ۱۰
 Einschluss; پیوَستِگى
-einschmeicheln;  .موس موس کَردَن، مُداهِنه ک
+einschmeicheln; .موس موس کَردَن، مُداهِنه ک
 - s. bei jem. einschmeicheln; سَر ِ کِسی شیره مالیدَن، ، نَزد ِ کِسى لوس شُدَن، هِندِوانه زیر ِ بَغَل ِ کِسى گُذاشتَن
 - einschmeichelnde Reden; زبان ِ چَرب و نَرم
 Einschmeichler; سَبزى پاک کُن، مُداهِن
 einschmelzen; ذوب و مَخلوط کَردَن، آب ک.، گُداختن
-einschmieren (Motor);  .روغَنکارى کَردَن، گِریس کارى ک
+einschmieren (Motor); .روغَنکارى کَردَن، گِریس کارى ک
 einschnappen; گیر دادَن به داخِل ِ مَحَل
 - er schnappt sofort ein; او زود ناراحَت مى شَوَد، ـ رَنجیده خاطِر ـ
 - die Tür schnappte ein; قُفل ِ دَر توهَم رَفته است
@@ -1069,10 +1068,10 @@ Einschränkung; مَحدودیت، کاهِش
 Einschreibebrief; نامهٔ سِفارِشى
 einschreiben;
 - den Brief einschreiben lassen; نامه را سِفارِش کَردَن
-- s. einschreiben lassen;  .ثَبت ِ نام کَردَن، اِسم نِویسى ک
+- s. einschreiben lassen; .ثَبت ِ نام کَردَن، اِسم نِویسى ک
 - eingeschriebenes Mitglied; عُضو ِ ثَبت ِ نام کرده
 Einschreibung; ثَبت ِ نام، اِسم نِویسى
-einschreiten;  .مُداخِله کَردَن، اِقدام ک
+einschreiten; .مُداخِله کَردَن، اِقدام ک
 - durch das Einschreiten (Vermitteln) von ...; ... ِ با وَساطَت
 einschrumpfen;
 - der Apfel schrumpft ein; سیب مُچاله می شَوَد، ـ چُروکیده ـ
@@ -1089,7 +1088,7 @@ Einschuss;
 einsehen;
 - sie können das gerne einsehen; این دَر دَسترِس ِ شُماست
 - seinen Fehler einsehen; به اِشتِباه خود پِى بُردَن، اِشتِباه بَراى ِ کِسى روشَن است، ـ واضِح است، اِشتِباه خودرا فَهمیدَن
-- Einsehen haben;  .تَفاهُم داشتَن، فَهم د
+- Einsehen haben; .تَفاهُم داشتَن، فَهم د
 einseifen;
 - jem. einseifen; سَر ِ کِسى را شیره مالیدن، کُلاه ِ کِسى را بَر داشتَن
 - s. einseifen; خودرا صابون زَدَن
@@ -1102,7 +1101,7 @@ Einsendeschluss; پایان ِ مُهلَت ِ اِرسال
 einsenken; فُرو بُردَن، مَغروق کَردَن
 einsetzen;
 - einsetzen, ernennen; (präs.)  (گُماشتَن (مى گُمارَد
-- jem. einsetzen als;  .کِسى را دَر بَر گُماشتَن، ـ نَصب کَردَن، ـ مَنصوب ک
+- jem. einsetzen als; .کِسى را دَر بَر گُماشتَن، ـ نَصب کَردَن، ـ مَنصوب ک
 - jem. ins Amt einsetzen; کِسى را به سِمَت مَنصوب کَردَن، - سَر ِ کار گُذاشتَن
 - jem. in sein Amt wieder einsetzen; کِسى را بمَصَب ِ خود باز گُماشتَن، ـ باز آوَردَن
 - jem. als Testamentvollstrecker einsetzen; کِسى را ایصاء کَردَن
@@ -1134,7 +1133,7 @@ Einsicht;
 - die Übersetzung steht zur Einsicht; تَرجُمه دَر دَسترِس است
 einsichtig;
 - einsichtig reden; از روى ِ بَصیرَت صُحبَت کَردَن
-- einsichtig sein;  .مُتَنَبه بودَن، حازِم ب
+- einsichtig sein; .مُتَنَبه بودَن، حازِم ب
 - einsichtiger Mensch; اَهل ِ نَظَر، ـ روشَن بین، ـ فَهیم، ـ عاقِل، ـ حِسابى
 Einsiedelei; عُزلَت گاه
 Einsiedler; عُزلَت گُذیده، تارِک ِ دُنیا، مُنزَوى، گوشه نِشین
@@ -1156,9 +1155,9 @@ einsparen;
 Einsparung;
 - wirtschaftliche Einsparungen; صَرفه جوئى ِ اِقتِصادى
 - Energieeinsparung; صَرفه جوئى دَر اِنِرژى
-einsperren;  .کِسى را مَحبوس کَردَن، ـ به زِندان اَنداختَن، ـ بازداشت ک.، ـ زِندانى ک.، ـ حَبس ک.، مَسجون ک
+einsperren; .کِسى را مَحبوس کَردَن، ـ به زِندان اَنداختَن، ـ بازداشت ک.، ـ زِندانى ک.، ـ حَبس ک.، مَسجون ک
 - eingesperrt sein; مَحبوس بودَن
-- eingesperrt werden;  .مَسجون شُدَن، مَحبوس ش
+- eingesperrt werden; .مَسجون شُدَن، مَحبوس ش
 einspielen;
 - s. aufeinander einspielen; با هَم جور دَر آمَدَن، دَر کار با هَم سازگار شُدَن، خوب هَمکارى کَردَن
 - die Unkosten einspielen; مَخارِج را دَر آوَردَن
@@ -1167,7 +1166,7 @@ einspritzen (z.B. Medizin); تَزریق کَردَن
 - einspritzen in; دَر داخِل ِ چیزى پاشیدَن، ـ فِشاندَن
 Einspritzpumpe; تُلُمبهٔ اِنژِکسیون، پُمپ ِ تَزریق
 Einspruch; اِعتِراض، وِتو، اِستیناف
-- Einspruch erheben;  .حُجَت کَردَن، اِستیناف ک
+- Einspruch erheben; .حُجَت کَردَن، اِستیناف ک
 Einspruchsfrist; مُهلَت ِ اِعتِراض
 einst;
 - einst, früher; پیش، قَبلاً، سابِقاً، پیشین، مُتَقَدِم
@@ -1193,7 +1192,7 @@ einstellen;
 - ich habe mich innerlich darauf eingestellt; دِلَم را صابون زَدَم، شِکَمَم را ـ
 einstellig (Zahl); عَدَد ِ یِک رَقَمى
 Einstellung;
-- Einstellung der Feindseligkeiten; قَطع ِ مُخاصِمه، تَرک ِ مُخاصِمات 
+- Einstellung der Feindseligkeiten; قَطع ِ مُخاصِمه، تَرک ِ مُخاصِمات
 - Einstellung des (Gewehr-) Feuers; آتَش بَس
 - Einstellung auf Probe; اِستِخدام ِ آزمایِشى
 - fortschrittliche Einstellung; موضع ِ تَرَقى
@@ -1226,7 +1225,7 @@ einstufen; دَرَجه بَندى کَردَن
 - er wird als Kranker eingestuft; او یِک بیمارى تَلَقى مى شَوَد
 einstürmen;
 - auf jem. einstürmen; بَر کِسى حَمله کَردَن، ـ هُجوم آوَردَن
-einstürzen;  .فُرو ریختَن، ریزِش کَردَن، سُقوط ک
+einstürzen; .فُرو ریختَن، ریزِش کَردَن، سُقوط ک
 - etwas einstürzen lassen (durch Steinschlag); چیزى را رُمبانیدَن
 Einsturzgefahr; خَطَر ِ رُمبِش، ـ فُروریختِگى، ـ خَرابى
 einstweilen; مُوَقَتاً، فِعلاً
@@ -1239,7 +1238,7 @@ eintauchen; .غوطه وَر شُدَن، فُرو رَفتَن، زیر آب ر
 einteilen;
 - einteilen (in Grade); مُدَرِج کَردَن
 - einteilen (seiner Zeit); از وَقت صَرفه  جوئى کَردَن
-- etwas in 4 Gruppen einteilen;  .چیزى را به ۴ قِسمَت طَبَقه بَندى کَردَن، ـ تَقسیم ک
+- etwas in 4 Gruppen einteilen; .چیزى را به ۴ قِسمَت طَبَقه بَندى کَردَن، ـ تَقسیم ک
 - in Abstände eingeteilt; مُنفَصِل
 Einteilung; اِنقِسام، تَقَسُم، تَقسیم، قِسمَت بَندى
 eintönig;
@@ -1283,8 +1282,8 @@ Eintritt; دُخول، وُرود
 Eintrittsgebühr; وُرودیه
 Eintrittskarte; کارت ِ وُرودى
 eintunken;
-- Brot eintunken;  .نان را تَرید کَردَن، ـ تِلید ک
-einverleiben;  .مُلحَق کَردَن، مُنَضِم ک.، مُتَصِل ک.، وارِد ک
+- Brot eintunken; .نان را تَرید کَردَن، ـ تِلید ک
+einverleiben; .مُلحَق کَردَن، مُنَضِم ک.، مُتَصِل ک.، وارِد ک
 - s. eine Tasse Tee einverleiben; یِک اِستِکان ِ چای نوش ِ جان کَردَن
 Einverleibung; اِدخال، اِدغام، اِلحاق، دُخول
 Einvernehmen; هَمسازى، تَفاهُم، اِتِفاق، سازِش
@@ -1338,7 +1337,7 @@ Einzahlungsschalter; گیشهٔ پَرداخت
 einzäunen; حِصار کِشیدَن، تارُم ک.، نَرده اَنداختَن،  پَرچین کَردَن
 Einzäunung; دار بِزین، حِصار، نَرده کِشى، دیواره، پَرچین
 - er ist mit der Einzäunung beschäftigt; او مَشغول ِ پَرچین کِشى است
-einzeichnen;  .عَلامَت گُذارى کَردَن، تَرسیم ک
+einzeichnen; .عَلامَت گُذارى کَردَن، تَرسیم ک
 Einzelaufhängung; تَعلُق ِ مُستَقِل، آویزش ِ مُستَقِل
 Einzelfall; اِتِفاق ِ مُنحَصِر بِفَرد
 - das ist kein Einzelfall; این اِتِفاق ِ اِستِثنائى نیست، این قَضیه بى نَظیر نیست، دَر این تَخَصُص آن چیز مُنحَصِر بِفَرد نیست
@@ -1385,7 +1384,7 @@ einziehen;
 - die Farbe zieht ein; رَنگ خورد می رَوَد
 - alte Münzen einziehen; پول ِ سابِق را از رَواج اَنداختَن
 - zum Militär einziehen; به خِدمَت ِ نِظامى اِحضار کَردَن
-- Literatur einziehen;  .کِتابهارا جَمع آوَرى کَردَن، ، ـ مُصادِره ک
+- Literatur einziehen; .کِتابهارا جَمع آوَرى کَردَن، ، ـ مُصادِره ک
 - ich habe mir einen Splitter in die Hand eingezogen; نیش ِ چوبى به دَستَم فُرو رَفته است
 Einziehung;
 - Einziehung (Steuer, u.ä.); تَحصیل
@@ -1394,7 +1393,7 @@ Einziehung;
 einzig;
 - einzig & allein; مَحضاً، فَقَط و فَقَط، تَک و تَنها، یِک تَنه
 - er ist sein einziger Sohn; او تَنها پِسَر ِ اوست
-- dass sein Wille in keinem einzigen Punkt von ... abweicht;  اِرادهٔ او حَتى یِک آن هَم از ... مُنحَرِف نَگَردید
+- dass sein Wille in keinem einzigen Punkt von ... abweicht; اِرادهٔ او حَتى یِک آن هَم از ... مُنحَرِف نَگَردید
 - im einzigen Bett; دَر تَنها رَختِخواب
 - in einem einzigen Augenblick; دَر یِک لَحظه،  ـ آن
 - mit einem einzigen Wort; با مَحض ِکَلام، با یِک کَلام ِ خاص
@@ -1402,7 +1401,7 @@ einzig;
 - kein Einziger wurde verletzt; اَحَدى مَجروح نَشُد
 einzigartig;
 - er ist einzigartig in ...; او یِکه تاز ِ ... است
-- etwas als einzigartig sehen;  .چیزى را بى هَمتا دانِستَن، ـ بى نَظیر د
+- etwas als einzigartig sehen; .چیزى را بى هَمتا دانِستَن، ـ بى نَظیر د
 - ein einzigartiges Buch; این یِکتا کِتابى است
 - unsere ... ist einzigartig; ما میان ِ هَمهٔ آنها لِنگه نَدارَد  ...
 Einzigartigkeit; یِگانِگى، بى نَظیرى
@@ -1514,9 +1513,9 @@ Elektroencephalogramm; نِگارهٔ اِلِکتریکى ِ مَغز
 Elektrofahrzeug; وَسیلهٔ نَقلیهٔ بَرقى
 Elektroinstallateur; سیم کِش بَرق
 Elektrokardiogramm; نِگارهٔ اِلِکتریکى ِ قَلب
-Elektronenbeschleuniger; شِتابگَر ِ اِلِکترونى
 Elektrolyse; تَجزیهٔ یونى مَواد ِ مَحلول بِوَسیلهٔ جَریان ِ بَرق
 Elektronenbahn; مَسیر ِ اِلِکترون
+Elektronenbeschleuniger; شِتابگَر ِ اِلِکترونى
 Elektronenüberschuss; فُزونى ِ اِلِکترون
 Elektroschock; شوک ِ بَرقى، ضَربهٔ ـ
 Element; (pl.)  (عُنصُر (عَناصُر
@@ -1557,12 +1556,11 @@ elterlich;
 - elterliches Erziehungsrecht; حَق ِ حِضانَت ِ والِدِین
 - elterliche Gewalt; وِلایَت ِ والِدِین
 Eltern; اَبَوِین، والِدِین، مادَر و پِدَر
-e-Mail; رایانامه
 Emaille; لُعاب، مینا
 emaillen; لُعابى
 emaillieren; لُعابدار کَردَن، مینائى ک
-Emaillieüberzug; پوشِش ِ لُعابى
 emailliert; لُعاب زَده
+Emaillieüberzug; پوشِش ِ لُعابى
 Emanzipation; خُروج از قِیمومَت، آزادى از قِید
 emanzipieren (s. -); خودرا از قِید ِ ... رَها کَردَن
 emanzipiert; یَله و رَها، مُطلَق، بى بَند و بار
@@ -1615,19 +1613,19 @@ Empfangshalle; تالار ِ پَذیرائى، سالُن ِ وُرودى
 Empfangskommitee; کُمیتهٔ اِستِقبال
 Empfangsstation; ایستگاه ِ گیرَندِگى
 Empfangszimmer; اُطاق ِ پَذیرائى
-empfehlen;  .سِفارش کَردَن، توصیه ک
+empfehlen; .سِفارش کَردَن، توصیه ک
 - welches Buch empfehlen Sie?; چه کِتابى را تَقریظ کُنید؟، ـ توصیه ک.؟
 - das ist zu empfehlen; این قابِل ِ سِفارِش است
 - aber für Leute, die ... ist es nicht zu empfehlen; اَما بَراى ِ اَفرادى که ... خوشایَند نیست
 - empfehlen Sie mich bitte weiter; لُطفاً سِفارِش ِ مَرا بِدیگَران بِکُنید
 - gute Dinge empfehlen s. von selbst; چیزهاى ِ خوب مُعَرِف ِ خودِش است، مُشک آن است که خود بِبویَد نَه آنکه عَطر بِگویَد: سَعدى
 - ich empfehle mich; مُرَخَص مى شَوَم
-- es empfiehlt s.; بِهتَر است ..، صَلاح است 
+- es empfiehlt s.; بِهتَر است ..، صَلاح است
 empfehlenswert; قابِل ِ سِفارِش، ـ تَقریظ، ـ توصیه
 Empfehlung;
 - auf Empfehlung des Arztes; بَرطِبق ِ تَجویز ِ پِزِشک، ـ سِفارِش ِ ـ
 Empfehlungsschreiben; سِفارِشنامه
-empfinden;  .تَحسیس کَردَن، اِحساس ک.، حِس ک
+empfinden; .تَحسیس کَردَن، اِحساس ک.، حِس ک
 - Schmerz empfinden; دَرد اِحساس کَردَن
 - was empfindest du dabei?; از این چیزها چه دَرک می کُنی؟
 empfindlich; حَساس
@@ -1643,7 +1641,7 @@ Empfindung; تَحسیس، اِحساست، دَرک، عَواطِف
 - Empfindungen für jem. sind stark; عَواطِف بَراى ِ کِسى شَدید هَستَند
 empfindungslos;
 - ein empfindungsloser Mensch; آدَم ِ بى حِس، ـ خُشک، ـ بى عاطِفه
-empfohlen;  .توصیه شُده، سِفارِش ش
+empfohlen; .توصیه شُده، سِفارِش ش
 - dieses Geschäft ist bestens empfohlen; این مَغازه خِیلى قابِل ِ سِفارِش است
 Empirie; اِصالَت ِ تَجربه، تَجربه و آزمایِش
 empirisch;
@@ -1666,6 +1664,8 @@ empört;
 Empörung; بَر اَفروختِگى، شورِش، عُصیان، خَشم، اِنزجام
 emsig (*:fleissig); زِرَنگ، پُشت ِ کاری
 Emulgator; بِهَم زَن
+en gros;
+- en gros kaufen; کُتره اى خَریدَن
 Encephalitis; اِلتِهاب ِ حاد ِ بافت ِ مَغزی، آنسِفالیت
 Endauflager; اِنتِهاى ِ پایه
 Ende; عاقِبَت، پایان
@@ -1708,7 +1708,7 @@ endgültig; قََطعى، قاطِع، بى بُرو بَرگَرد، غائى
 - die Abreise steht endgültig fest; حَرَکَت قاطِع است، ـ مُسَلَم است
 - das ist der endgültige Text; این مَتن ِ نَهائى است
 Endgültigkeit;
-- Endgültigkeit erlangen;  .مَختوم شُدَن، قاطِعیَت داشتَن، قَطعیَت د
+- Endgültigkeit erlangen; .مَختوم شُدَن، قاطِعیَت داشتَن، قَطعیَت د
 Endkorrektur; تَصحیح ِ نَهائى
 endlich;
 - endlich (Zeit, Raum); کِرانى، نَهائى، مَحدود
@@ -1769,8 +1769,6 @@ Engelszungen;
 - mit Engelszungen reden; با زَبان ِ لَیِن حَرف زَدَن
 England; اِنگلِستان
 englisch; اِنگلیسى
-en gros;
-- en gros kaufen; کُتره اى خَریدَن
 Engpass; تَنگنا، تَنگه، دَر بَند، گُذَرگاه ِ تَنگ
 - in Bezug auf ... war ein derartiger Engpass, dass ...; از لَحاظ ِ.. دَر مَضیقه بودیم که
 engstirnig; کوتاه بین، کوتاه نَظَر
@@ -1830,7 +1828,7 @@ enterbt; از اِرث بُریده، عاق شُده، مَحروم از اِر
 Enterbungsurkunde; عاق نامه
 entfachen;
 - Feuer entfachen; آتَش را سوزانیدَن، ـ مُشتَعِل کَردَن
-- Feuer der Liebe entfachen;  .آتَش ِ عِشق ِ کِسى را دامَن زَدَن، به آتَش ِ عِشق دامَن ز
+- Feuer der Liebe entfachen; .آتَش ِ عِشق ِ کِسى را دامَن زَدَن، به آتَش ِ عِشق دامَن ز
 - Streit entfachen; نِزاع را برپا کَردَن، مُجادِله اَنداختَن
 - Entfachen, Anblasen; نَفاخى
 entfahren; به بیرون رَفتَن
@@ -1862,7 +1860,7 @@ entfernt; مُتَباعِد، دور اُفتاده
 Entfernung; مَسافَت، فاصِله
 - das liegt noch in weiter Entfernung; از دَسترَس ِ ما هَنوز خارِج است
 Entfernungsmesser; مَسافَت سَنج
-entfesseln (z.B. Aufstand);  .آشوب را بَر اَنگیختَن، ـ بَر پا کَردَن، تَحریک ک
+entfesseln (z.B. Aufstand); .آشوب را بَر اَنگیختَن، ـ بَر پا کَردَن، تَحریک ک
 entflammbar; قابِل ِ اِحتِراق، ـ اِشتِعال، مُحتَرک، مُشتَعِل
 Entflammbarkeit; سوزائى
 entflammt (z.B. aus Leidenschaft); مَلحوب
@@ -1889,7 +1887,7 @@ entgegennehmen; پَذیرُفتَن، دَریافت کَردَن
 - Bestellung von jem. entgegennehmen; از کِسى سِفارِش گِرِفتَن
 - seinen Anteil entgegennehmen; سَهم ِ خودرا تَحویل گِرِفتَن
 - er nahm ihren Gruß entgegen; او سَلام ِ آنها را تَحویل گِرِفت
-- entgegengenommen werden;  .پَذیرا شُدَن، دَریافت ش
+- entgegengenommen werden; .پَذیرا شُدَن، دَریافت ش
 entgegensetzen;
 - was kann man ihm entgegensetzen?; چه چیزى می تَوانَند دَر مُقابِل ِ او مُقاوَمَت کُنَند؟
 entgegenstehen;
@@ -1911,7 +1909,7 @@ enthalten;
 - jem. etws von seinem Anteil enthalten; کُلاه ِ کِسی پَس  ِمَعَرِکه گُذاشتَن، کِسی را بی بَهره کَردَن
 - Trinkgeld ist im Preis enthalten; قِیمت ِ اِنعام را هَم بَر دارَد
 Enthaltsamkeit; ریاضَت، پَرهیزکارى، خوددارى
-Enthaltung; اِمتِناع 
+Enthaltung; اِمتِناع
 - Stimmenthaltung; اِمتِناع از دادَن ِ رأى
 enthärten; آهَک و نَمَک ِ آب را گِرِفتَن
 enthaupten; سَر ِ کِسى را بُریدَن
@@ -1931,7 +1929,7 @@ entkernen; دانه گِرِفتَن، هَسته را دَرآوَردَن
 Entkolonisierung; اِستِعمار زِدائى
 Entkommen; فَرار
 - es gibt für dich kein Entkommen; نِمیتَوانى فَرار کُنى
-entkräften;  .از قُوَت اََنداختَن، تَضعیف کَردَن، زَمین گیر ک
+entkräften; .از قُوَت اََنداختَن، تَضعیف کَردَن، زَمین گیر ک
 - Argumente entkräften; دَلایِل را از قُوَت اََنداختَن، ـ تَضعیف کَردَن
 entladen; .بار اَنداختَن، بار اَندازى کَردَن، بى بار ک.، خالى ک
 - Batterie entladen; باتِرى دِشارژ کَردَن
@@ -1986,7 +1984,7 @@ entmilitarisiert;
 - entmilitarisierte Zone; مَنطَقهٔ غِیر ِ نِظامى
 Entmilitarisierung; غِیر ِ نِظامى کَردَن، خَلع ِ سَلاح
 Entmündigung; سَلب ِ بُلوغ، سَلب ِ اِختیار ِ حُقوقى، مَحجوریَت، حَجر
-entmutigen; (hou) کِسى را بى مِیل ساختَن، ـ دِلسَرد کَردَن، ـ از جُرأت اََنداختَن، هو کَردَن 
+entmutigen; (hou) کِسى را بى مِیل ساختَن، ـ دِلسَرد کَردَن، ـ از جُرأت اََنداختَن، هو کَردَن
 entmutigt; خود باخته، دِلشِکَسته، دِلمُرده، بى رِغبَت
 Entnahme;
 - Blutentnahme; خون گیرى
@@ -1998,8 +1996,8 @@ entpuppen;
 - das Geschäft entpuppt s. als Schwindel; این مُعامِلهٔ تو خالى از آب دَر می آیَد
 - er entpuppt s. als Betrüger; او کُلاه بَردار دَر میایَد
 entrahmen;
-- die Milch entrahmen;  .خامه گِرِفتَن، چَربى ِ شیررا گ
-entrechten;  .کِسى را مَحروم از حَق کَردَن، از کِسى سَلب ِ حَق ک
+- die Milch entrahmen; .خامه گِرِفتَن، چَربى ِ شیررا گ
+entrechten; .کِسى را مَحروم از حَق کَردَن، از کِسى سَلب ِ حَق ک
 entrechtet; از حَق مَحروم شُده، مَحروم از حَق
 - entrechtete Menschen; مَحرومین
 Entrechtung; مَحرومیَت، سَلب ِ حق
@@ -2020,7 +2018,7 @@ Entrückung; رُبودِگى
 Entrümpelung; تَخلیه
 entrüsten (s. -); مُتَغَیِر شُدَن، از جا دَر رَفتَن، به خَشم آمَدَن
 Entrüstung; ناراحَتى، خَشم، تَغَیُر
-- Sturm der Entrüstung;  طوفان ِ خَشم، ـ غِیظ
+- Sturm der Entrüstung; طوفان ِ خَشم، ـ غِیظ
 Entsafter; عُصاره گیر
 entsagen; صَرفِنَظَر کَردَن، تَرک ک.، پَرهیز ک.، از چیزى گُذَشتَن
 - ein Mensch, der allem entsagt; ریاضَت کِش، زاهِد، آدَمى از خود گُذَشته
@@ -2035,7 +2033,7 @@ entschalen; پوست کَندَن
 entschärfen;
 - die Bombe entschärfen; جاشنى ِ بُمب را بیرون کِشیدَن
 - Konflikt entschärfen; تَنِش ِ دَرگیرى را رَفع کَردَن
-- Streit entschärfen;  .نِزاع را از شِدَت اََنداختَن، ـ از حَرارَت اَ
+- Streit entschärfen; .نِزاع را از شِدَت اََنداختَن، ـ از حَرارَت اَ
 Entschärfung;
 - Entschärfung der Bombe; چاشنى کِشى
 Entscheid; خَبَر، جَواب
@@ -2097,12 +2095,12 @@ Entschuldigung;
 Entschuldigungsschreiben; پوزِشنامه
 Entschwefelung; گوگِرد زِدائى
 entschwunden; جا تَر است و بَچه نیست
+Entsetzen (n); وَحشَت، دِهشَت، هَراسه، هول
+- Entsetzen packte uns; چِشمهای ِ ما گِرد شُد
 entsetzen (s. -); .وَحشَت کَردَن، یَکه خوردَن، هول خ
 - diese Nachricht hat mich entsetzt; از این خَبَر خُشکَم زَد، ـ دِلَم ریخت
 - ich bin entsetzt; زَهره اَم رَفت
 - ich bin von deinem Tun entsetzt; مَن از کارِت وا خوردَم، زَهره اَم را بُردى
-Entsetzen (n); وَحشَت، دِهشَت، هَراسه، هول
-- Entsetzen packte uns;  چِشمهای ِ ما گِرد شُد
 entsetzlich; سَهمناک، دِهشَتبار، وَحشَتناک
 - entsetzlicher Schrei; فَریاد ِ هَراس آوَر
 - das sieht entsetzlich aus; رُعب آوَر مى نَمایَد
@@ -2125,7 +2123,7 @@ Entspanntheit;
 - innere Entspanntheit; صَفا، حالَت ِ اِنبِساط
 Entspannung; رَفع ِ تَشَنُج، تَنِش زِدائى، رَفع ِ کِشِش
 - Politik der Entspannung; سیاسَت ِ تَنِش زِدائى
-- Ost-West-Entspannung; تَنِش زِدائى ِ شَرق و غَرب 
+- Ost-West-Entspannung; تَنِش زِدائى ِ شَرق و غَرب
 entsprechen; تَطبیق کَردَن، مُقابِل ِ چیزى بودَن، مُطابِق ِ ـ، مُتَناسِب ِ ـ
 - der Bitte von jem. entsprechen; به خواهِش ِ کِسى اِجابَت کَردَن، خواهش ِ کِسى را بِجا آوَردَن
 - diese Dinge entsprechen meiner Lage; این چیزها با وَضعیَت ِ مَن وَفق میدَهَند
@@ -2146,9 +2144,9 @@ entsprechend; ... ِ بَر حَسب ِ، از قَرار ِ، مُعادِل
 - entsprechend ihrer Fähigkeiten; به اَندازهٔ تَوانائى ِ خود، دَر مُقابِل ِ تَوانائى آنها
 Entsprechung; اِنطِباق، مُعادِله، تَناسُب
 entstammen;
-- sie entstammen dem Geschlecht der ...;  آنها از سَلاله ... هَستَند، ـ نَسل ِ ـ
+- sie entstammen dem Geschlecht der ...; آنها از سَلاله ... هَستَند، ـ نَسل ِ ـ
 entstauben; گَرد و خاک ِ چیزى را تَکاندَن
-entstehen;  .بِوُجود آمَدَن، تولید شُدَن، مُتَکَوِن ش
+entstehen; .بِوُجود آمَدَن، تولید شُدَن، مُتَکَوِن ش
 - gute Beziehungen entstehen; رَوابِط ِ خوب بَر قَرارَند
 - es entsteht kein Schaden; خَسارَت وارِد نِمیایَد، ـ به بار نِمى آوَرَد
 - daraus entstehen uns Unkosten; بَراى ِ ما مَخارِج ایجاد می شَوَند، این چیز خَرج ِ ما مى اُفتَد
@@ -2162,13 +2160,13 @@ Entstehung; تَکوین، پِیدایِش
 - Entstehung der Arten (Darwin); پِیدایِش ِ گونه ها بِکُمَک ِ اِنتِخاب ِ طَبیعى
 entstellen; از شِکل ِ اَصلى اََنداختَن، تَغییر ِ صورَت دادَن، مُشتَبَه ساختَن، تَحریف کَردَن
 - beim falschen Lesen (oder Schreiben) entstellen; .مُصَحَف کَردَن، تَحریف ک
-- Entstellung des Textes (diakritische Punkte falsch setzen);  تَصحیف: خُدا - جُدا
+- Entstellung des Textes (diakritische Punkte falsch setzen); تَصحیف: خُدا - جُدا
 entstören;
 - das Radio ist nicht entstört; رادیو از اِختِلال صاف نَشُده، از پارازیت خَلاص نیست
 Entstörer; پارازیت گیر
 enttäuschen; اُمیدرا بَر نَیاوَردَن، مأیوس کَردَن، نااُمید ک.، از کِسى اُمیدَش را گِرِفتَن، کِسى را تَلخ کام ساختَن، ـ بَرفاب دادَن
 - ich muss Sie leider enttäuschen; مُتأسِفانه بایَد شُما را مأیوس کُنَم
-- von jem. enttäuscht werden;  .از کِسى دِلخور شُدَن، ـ اَفسُرده ش
+- von jem. enttäuscht werden; .از کِسى دِلخور شُدَن، ـ اَفسُرده ش
 - er hat mich zutiefst enttäuscht; مَرا بِکُلى بور کَرد
 - ich wurde schwer enttäuscht; مات و مَبهوت شُدَم، سَرَم بِسَنگ ِ لَحَد خورد، به تَلخى سَر خوردَم
 - enttäuscht schaute er; با چِشمهاى ِ واخورده به ... نِگاه کَرد
@@ -2248,16 +2246,16 @@ Entwurzelung; ریشه کَنى، آوارِگى، اِستیصال، بى ری�
 entziehen;
 - s. entziehen, s. distanzieren; از چیزی فاصِله گِرِفتَن
 - etwas dem Boden entziehen; چیزى را از زَمین گِرِفتَن
-- jem. das Recht entziehen;  .از کِسى حَق را سَلب کَردَن، ـ دَریغ ک
+- jem. das Recht entziehen; .از کِسى حَق را سَلب کَردَن، ـ دَریغ ک
 - die Feuchtigkeit entziehen; رُطوبَت را جَذب کَردَن
 - s. einer Verantwortung entziehen; شانه از زیر ِ بار ِ وَظیفه خالى کَردَن
 - s. seiner Verpflichtung entziehen; از تَعهُدات ِ خود طَفره رَفتَن، ـ سر باز زَدَن، خودرا از تَعهُدات دَریغ دانِستَن
 - jem. das Wort entziehen; به کِسى اِجازهٔ  اِدامهٔ سُخَن نَدادَن
 Entziehungskur; مُعالِجه مُعتادین به مَواد ِ مُخَدِر
 Entzifferung; کَشف ِ مَعنى، تَجزیه و تَحلیل ِ خُطوط
-entzückt; ذوق زَده، مَحظوظ، مَجذوب
 Entzücken; حَظ، نِشاط، ذوق زَدِگى، وَجد
 - an etwas Entzücken finden; از چیزى حَظ بُردَن، ـ لِذَت ب.، به هَیَجان آمَدَن
+entzückt; ذوق زَده، مَحظوظ، مَجذوب
 Entzug;
 - Entzug der bürgerlichen Rechte; سَلب ِ حَق ِ مالِکیَت
 - Alkohol,- Rauschgiftentzug; مُدَواى ِ مُعتادین بِمَواد ِ اَلکُلى (- مُخَدِر)، مَنع ِ اِستِعمال ِ مَواد ِ اَلکُلى (- مُخَدِر) از راه ِ طِبى، تَحریم ِ اَلکُل
@@ -2279,7 +2277,6 @@ Enzym; دیاستاز، اَنزیم
 ephemerisch; موجودات ِ یِک روزه، ـ آنى، ـ زودگُذَر، ـ خَلق اُلساعِه، ـ روزخیز، ـ کَم دَوام
 Epidemie; مَرَض ِ هَمه گیر، ـ مُستولى، ، واگیرى
 Epidermis; روپوست، بَشَره
-Epiphanie; ظُهور ِ خدا، تَجاى ِ ـ
 Epik; حَماسه سَرائى، رَجَز خوانى
 Epikur; اَبیقور
 Epilation; بَند اَنداختَن
@@ -2290,13 +2287,14 @@ epileptisch;
 - er hat einen schweren epileptischen Anfall; حَملهٔ سَخت به او دَست مى دَهَد
 - epileptisches Kind; بَچهٔ غِشى
 Epilog; پَسگُفتار، خِتام گُفتار، خاتِمهٔ کَلام
+Epiphanie; ظُهور ِ خدا، تَجاى ِ ـ
 episch; حَماسى
 Episode; دورهٔ مَحدود، حادِثهٔ ضِمنى، واقِعهٔ مُعتَرضه، اِپیزود
 episodisch; نوبَتى، مُوَقَتى، مُختَص به زَمان ِ کوتاه
 Epistel; رِساله
+Epithel; پوست ِ روپوش
 Epitheta; اَسامی
 - Epitheta Gottes; اَسَماء ِ حُسنى
-Epithel; پوست ِ روپوش
 Epizentrum; مَرکَز
 - Epizentrum des Erdbebens; مَرکَز ِ فوق اُلاَرض ِ زِلزِله
 Epoche; (pl.) روزگار، عَصر (اَعصار)، دَهر (دُهور)، دوره (دوران)، زَمان ِ وُقوع
@@ -2304,7 +2302,7 @@ epochemachend; دوران ساز، راه گُشا، باعِث ِ تأثُر
 Epos; حَماسه
 - Nationalepos; حَماسهٔ مِلى
 erachten;
-- etwas für ... erachten;  چیزى را دانِستَن، ـ شُمُردَن، ـ پَنداشتَن، ـ اَنگاشتَن
+- etwas für ... erachten; چیزى را دانِستَن، ـ شُمُردَن، ـ پَنداشتَن، ـ اَنگاشتَن
 erachtens;
 - meines erachtens; به نَظَر ِ مَن، از مَن مى پُرسى، بِگُمانَم، بِخیالَم، بِعَقیدهٔ مَن
 erahnen; از پیش دانِستَن، از چیزى بو بُردَن، به قَلب ِ کِسى بَرات شُدَن
@@ -2325,13 +2323,13 @@ erbarmungslos; بى رَحمانه، بى دَریغ
 erbaulich;
 - erbauliche Literatur; اَدَبیات ِ سازَنده
 Erbe;
-- das Erbe (mourusi);  مُرده ریگ، میراث، اِرث، مال ِ موروثى
+- das Erbe (mourusi); مُرده ریگ، میراث، اِرث، مال ِ موروثى
 - der Erbe (Erbin); (pl.)  وارِث (وارِثه) (وُراث)، اِرث و میراث خور
 - Alleinerbe; وارِث مُنحَصِر بِفَرد
 - elterliches Erbe; اِرث ِ پِدَر ِ مادَرى
 - Einsetzung als Erben; توریث
 - Erbe hinterlassen; به اِرث گُذاشتَن
-- das väterliche Erbe beanspruchen;  (اِرث ِ پِدَر ِ خودرا طَلَبکار بودَن (خواستَن
+- das väterliche Erbe beanspruchen; (اِرث ِ پِدَر ِ خودرا طَلَبکار بودَن (خواستَن
 Erbeigentum; مِلک ِ موروثى
 erben; به اِرث بُردَن
 Erbengemeinschaft; شِرکَت دَر مَتروکات
@@ -2412,7 +2410,7 @@ Erdgeschoss; طَبَقهٔ هَم کَف
 Erdhöhle; بومکَند
 Erdhügel; کُپهٔ خاک
 erdichten;
-- s. eine Sache erdichten;  .داستانى را بافتَن، ـ از خود دَر آوَردَن، ـ جَعل کَردَن، ـ تَلفیق ک
+- s. eine Sache erdichten; .داستانى را بافتَن، ـ از خود دَر آوَردَن، ـ جَعل کَردَن، ـ تَلفیق ک
 Erdklumpen (trocken & rissig); کَلوخ
 Erdkruste; پوستهٔ زَمین، قِشر ِ ـ
 Erdkunde; مَعرَفَت اُلاَرض، جُغرافیا
@@ -2461,7 +2459,7 @@ erfahrbar; مُیَسِر بودَن، قابِل ِ تَجرُبه
 - erfahrbar, möglich; مُیَسِر
 - geselliges Leben ist dort erfahrbar; زِندِگى ِ اِجتِماعى دَر آنجا مُیَسِر است
 erfahren;
-- von jem. etwas erfahren;  .چیزى را از کِسى شِنیدَن، از چیزى خَبَر گِرِفتَن، ـ اِطِلاع گ.، ـ مُطَلَع شُدَن، ـ مَسبوق ش
+- von jem. etwas erfahren; .چیزى را از کِسى شِنیدَن، از چیزى خَبَر گِرِفتَن، ـ اِطِلاع گ.، ـ مُطَلَع شُدَن، ـ مَسبوق ش
 - (durch Zufall) erfuhr er ...; باد به گوشِش رِساند، کَلاغ بَرایَش خَبَر بُرد
 - soweit ich erfahren habe; به اِندازه اى که مَن فَهمیدَم، ـ شِنیدَم
 - er hatte von x erfahren, was der von y erfahren hat; او از فِلان کس کَسب ِ اِطِلاع کرَده بود که فِلان کس از کِسى دیگَر مُطَلَع شُده بود
@@ -2621,9 +2619,9 @@ ergeben;
 - wegen der Schmerzen, die s. ergeben haben aus; او از دَرد ناشى از
 - sie haben s. dem Trunk ergeben; آنها سَرگَرم ِ عِیش و نوش هَستَند
 - s. dem Feind ergeben; خودرا تَسلیم ِ دُشمَن دادَن، به دُشمَن تَسلیم شُدَن، پیش ِ دُشمَن لُنگ اَنداختَن
-- und wenn es s. ergibt, spreche ich über ...;  اَگَر دَست داد دَربارهٔ ... صُحبَت مى کُنَم، اَگَر فُرصَت بِدَست آیَد ـ
+- und wenn es s. ergibt, spreche ich über ...; اَگَر دَست داد دَربارهٔ ... صُحبَت مى کُنَم، اَگَر فُرصَت بِدَست آیَد ـ
 - ein Wort ergibt das andere; حَرف حَرف می آوَرَد
-- nicht jede Meinung, die s. aus ... heraus ergibt, ist richtig;  هَر عَقیده ناشى از ... صَحیح نیست
+- nicht jede Meinung, die s. aus ... heraus ergibt, ist richtig; هَر عَقیده ناشى از ... صَحیح نیست
 - jem. ergeben sein; کِسى را مُلازَمَت کَردَن، خودرا تَسلیم ِ کِسى دادَن، به کِسى اِرادَت پِیدا کَردَن
 - ergebener Mensch; آدَم ِ اِرادَت کیش
 - s. ergebend aus; ناشى از
@@ -2729,7 +2727,7 @@ erhitzen;
 - das Gemüt von ... erhitzen; آتَش ِ کِسى را اَفروختَن، خیال ِ فِلان را به جُنبِش اََنداختَن
 erhoben;
 - erhobenen Hauptes ging er; با سَربُلَندى رَفت
-erhoffen (s. -);  .اِنتِظار داشتَن، چَشم د
+erhoffen (s. -); .اِنتِظار داشتَن، چَشم د
 - ich erhoffe mir Hilfe; چَشم ِ هَمراهى از کِسى داشتَن
 erhöhen; اَفزایِش دادَن، بالا بُردَن
 - jem. erhöhen; کِسى را مُعَظَم کَردَن، ـ سَراَفراز ک.، ـ سَر بُلَندک.، به کِسى رَفَعت دادَن
@@ -2783,11 +2781,11 @@ Erinnerung;
 - nach 20 Jahren kommt es dir wieder in Erinnerung, dass du ... bist; تو بَعد از ۲۰ سال به صَرافَت اُفتادى که ... هَستى
 Erinnerungen; خاطِرات، یادها
 erkalten; سَرد شُدَن، فُتور کَردَن
-Erkalten (n); تَبرید، بُرودَت
-- Erkalten der Beziehungen; -ِ بُرودَت ِ رَوابِط، شِکَرآب
 erkälten (- s.); (präs.)  (سَرما خوردَن، چایِمان کَردَن، چائیدَن (مى چایَد
 - ich bin erkältet; سَرما خورده اَم، چایدَم
 - erkälte dich nicht!; خودَترا نَچَایان، ـ سَرما نَده
+Erkalten (n); تَبرید، بُرودَت
+- Erkalten der Beziehungen; -ِ بُرودَت ِ رَوابِط، شِکَرآب
 Erkältung; سَرما خوردِگى، چایِش، چایِمان
 erkennbar; قابِل ِ تَشخیص، ـ مُشَخَص، ـ شِناسائى
 - ohne erkennbaren Grund; بِدون ِ عِلَت ِ مُشَخَصى، ـ مَعلوم
@@ -2876,7 +2874,7 @@ erlauben; به کِسى اِجازه دادَن
 - was nicht verboten ist, ist erlaubt; آنچه نَهى نَشُده است جایِز است
 Erlaubnis; اجازه، اِذن
 - Erlaubnis habend; مأذون
-- ausgestattet mit offizieller Erlaubnis; داراى ِ مُجَوز ِ رَسمى از  
+- ausgestattet mit offizieller Erlaubnis; داراى ِ مُجَوز ِ رَسمى از
 - Gewerbeerlaubnis; جَواز ِ کار، اِجازهٔ ـ
 erläutern; فَهمانیدَن
 Erle; دِرَخت ِ توسکا، ـ توسه
@@ -2932,7 +2930,7 @@ erliegen;
 Erlös;
 - der Erlös aus dem Verkauf; وُجوه ِ حاصِله از فُروش، وَجه ِ ـ
 - mit dem Erlös von ... kaufe ich ...; با بَهاى ِ چیزى چیز ِ دیگَرى میخَرَم
-erlöschen;  .اُفول کَردَن، خاموش ک
+erlöschen; .اُفول کَردَن، خاموش ک
 - etwas erlischt in jem.; چیزى دَر کِسى میمیرَد
 - Erlöschen des Vertrages; پایان ِ معاهِده، فَسخ ِ قَرار داد
 - erloschen (z.B. Feuer); مُطفى، خاموش شُده
@@ -3055,7 +3053,7 @@ Eröffnung;
 - Eröffnung einer Diskussion; اِفتِتاح ِ مُباحِثه، گُشایِش ـ
 Eröffnungsrede; سُخَنرانى ِ اِفتِتاحیه، نُطق ِ اِفتِتاحى
 Eröffnungsveranstaltung; مَراسِم ِ اِفتِتاحیه
-erörtern; بَحث کَردَن، طَرح ک.، مورِد ِ بَحث قَرار دادَن 
+erörtern; بَحث کَردَن، طَرح ک.، مورِد ِ بَحث قَرار دادَن
 Erosion; فَرسایِش، سایِش، ساییدِگى، کَنده شُدَن و اِنتِقال ِ خاک
 Erotik; عِشق وَرزى
 erotisch;
@@ -3090,7 +3088,7 @@ erreichen;
 - etwas nicht erreichen (i.S.: versagen); قاصِر آمَدَن
 - Beschlussfähigkeit erreichen; به حَد ِ نِصاب بَراى ِ رأى گیرى رِِسیدَن
 - um dieses Ziel zu erreichen; بَراى ِ نِیل به این هَدَف
-- sie helfen uns, das Ziel zu erreichen ; مارا دَر نِیل به هَدَف یارى می کُنَند
+- sie helfen uns, das Ziel zu erreichen; مارا دَر نِیل به هَدَف یارى می کُنَند
 - er erreichte sein Ziel; به مَقصَد فائِز شُد
 - nicht mehr zu erreichen; نایاب شُدَن
 - die Anzahl der Arbeiter, die die 100 erreicht; کارمَندان که بالِغ بَر ۱۰۰ نَفَر مى شَوَد
@@ -3098,7 +3096,7 @@ erreichen;
 - der Exportwert erreicht ... Euro; اَرزِش ِ صادِرات به ... یورو بالِغ مى گَردَد
 - zum Erreichen des Zieles; بَراى ِ نِیل به هَدَف
 errichten;
-- für jem. ein Denkmal errichten;  بَراى ِ کِسى مُجَسَمه ساختَن
+- für jem. ein Denkmal errichten; بَراى ِ کِسى مُجَسَمه ساختَن
 Errichtung (einer Institution); ایجاد، تأسیس
 erringen;
 - Macht erringen; قُدرَت را به دَست آوَردَن
@@ -3146,7 +3144,7 @@ erschiessen; کِسى را با تیر زَدَن، با تیر کُشتن، ت�
 - ... sonst werde ich dich erschiessen; والا به تیرَت میزَنَم
 - erschossen werden; تیر خوردَن
 - er ist erschossen worden; او تیر باران شُده
-- erschossen sein (i.S. erschöpft);  .وامانده بودَن، خَسته و کوفته ب.، خُرد و خَمیر شُدَن، از پا دَر آمَدَن، به سُتوه آ
+- erschossen sein (i.S. erschöpft); .وامانده بودَن، خَسته و کوفته ب.، خُرد و خَمیر شُدَن، از پا دَر آمَدَن، به سُتوه آ
 Erschiessung; قَتل با تیر، تیرباران
 Erschiessungskommando; جوخهٔ اِعدام
 erschlaffen;
@@ -3178,7 +3176,7 @@ Erschöpfung;
 - jem. zur Erschöpfung bringen; کِسى را از پا دَر آوَردَن، ـ بسُتوه آوَردَن
 - geistige Erschöpfung; فُتور دَر عَقل، رِخوَت ِ روحى، خَستِگى ِ ـ
 erschossen;
-- erschossen sein (i.S. erschöpft);  .وامانده بودَن، خَسته و کوفته ب.، خُرد و خَمیر شُدَن، از پا دَر آمَدَن، به سُتوه آ
+- erschossen sein (i.S. erschöpft); .وامانده بودَن، خَسته و کوفته ب.، خُرد و خَمیر شُدَن، از پا دَر آمَدَن، به سُتوه آ
 erschrecken;
 - jem. erschrecken; کِسى را مُتَوَحِش کَردَن، ـ پَخ ک.، ـ تَرساندَن
 - s. erschrecken; مُتَوَحِش شُدَن
@@ -3240,14 +3238,14 @@ erspart;
 - jem. etwas erspart bleiben; به این تَرتیب رَفع ِ چیزى از فِلان کس می شَوَد، چیزى از دوش ِ کِسى بَر داشته می شَوَد
 - jem. etwas nicht erspart bleiben; کِسى ناگُزیر بود از اینکه
 erst;
-- erst dann, wenn ...; تازه وَقتیکه ... ، جَخ ِ وَقتیکه 
+- erst dann, wenn ...; تازه وَقتیکه ... ، جَخ ِ وَقتیکه
 - erst dann, wenn .., können wir ...; به مَحض ِ اینکه ... میتَوانیم
 - erst kommt er, dann du; اَوَل نوبَت ِ اوست بَعد تو
 - erst die Arbeit, dann das Spiel; اَوَل کار بَعد بازى
 - aber nicht erst im letzten Moment; نَه جَخ دَر آخَرین لَحظه
 - er hörte erst um 5 Uhr, dass ...; تَنها دَر ساعَت ِ ۵ شِنید که
 - es ist erst 5 Uhr; فَقَط ساعَت ِ ۵ است
-- das ist nicht erst seit heute; این نَه از هَمین اِمروز است 
+- das ist nicht erst seit heute; این نَه از هَمین اِمروز است
 - ich habe gerade jetzt erst gelesen; مَن هَمین اَلان خواندَم، مَن جَخ خواندَم
 - lass es mich erst wissen; قَبلاً مَرا خَبَر بِده
 - ich sah ihn doch erst gestern; مَن تازه دیروز دیدَمِش
@@ -3267,8 +3265,8 @@ erstatten;
 Erstattung;
 - Erstattung der Reisekosten; اِستِرداد ِ هَزینهٔ سَفَر، خَرج ِ مُسافِرَت ِ کِسى را پَرداختَن
 Erstaufführung; اَولَین نَمایِش
-erstaunen;  .تَعَجُب کَردَن، حِیرَت ک.، چَهار چَشم شُدَن، مُتَحَیِر ش
-Erstaunen (n);  حِیرَت، تَعَجُب
+erstaunen; .تَعَجُب کَردَن، حِیرَت ک.، چَهار چَشم شُدَن، مُتَحَیِر ش
+Erstaunen (n); حِیرَت، تَعَجُب
 - jem. in Erstaunen versetzen; کِسى را به حِیرَت فُرو بُردَن، ـ تَعَجُب ِ کِسى را بَراَنگیختَن
 erstaunlich; شِگِفت اَنگیز، عَجیب، تَعجُب آوَر
 - erstaunlich schnell sein; سُرعَت ِ عَجیبى داشتَن
@@ -3376,7 +3374,7 @@ erwähnt; مَسطور، مَذکور، ذِکر شُده، نام بُرده
 - unten erwähnt; مَذکور دَر زیر
 Erwähnung; ذِکر، تَذَکُر
 - das ist der Erwähnung wert; این قابِل ِ یادآوَرى است، لایِق اُلذِکر است
-- bei der Erwähnung seines Namens, ...;  ... سُخَن از او به میان آمَد، اِسم ِ او آمَد
+- bei der Erwähnung seines Namens, ...; ... سُخَن از او به میان آمَد، اِسم ِ او آمَد
 erwärmen; گَرم کَردَن، حَرارَت دادَن
 - jem. für eine Sache erwärmen; .کِسى را بَراى ِ چیزى گَرم ساختَن، ـ تیز س
 - s. für jem. erwärmen; سَرگَرم ِ کِسى شُدَن
@@ -3388,7 +3386,7 @@ erwarten; مُنتَظِر بودَن، اِنتِظار داشتَن، تَوَ
 - erwarten, dass ...; دَر تَرَصُد بودَن که
 - das sollte man von dir erwarten; این بَرازَندهٔ توست
 - von da können wir kein Geld erwarten; از اینجا چیزى عایِد ِ ما نِمیشَوَد، چِشم داشت از آنجا نَداریم که پول بِگیریم
-- von dem kann man was erwarten (oder nicht);  (آبی  از او  گرم می شَوَد (یا نمی شَوَد
+- von dem kann man was erwarten (oder nicht); (آبی  از او  گرم می شَوَد (یا نمی شَوَد
 - den Tag erwarten; اِنتِظار ِ روزى را کِشیدَن
 - ich konnte es kaum erwarten, zu wissen ...; بى تابَم که بِدانم
 - den Tag nicht erwarten können; بَراى ِ این روز دِل تو دِلِشان نیست
@@ -3410,10 +3408,10 @@ erwecken;
 - es erweckt den Anschein, dass ...; چِنین مینَمایَد که، اِحتِمال دارَد که، اینطور به نَظَر میرِسَد که
 Erweckungsbewegung; نِهضَت ِ ایقاظ ِ روح ِ مَردُم، جُنبِش ِ بیدارى ِ روحانى
 erwehren;
-- s. einer Person erwehren;  .خودرا از دَست ِ کِسى خَلاص کَردَن، دَر مُقابِل ِ کِسى از خود دِفاع ک
+- s. einer Person erwehren; .خودرا از دَست ِ کِسى خَلاص کَردَن، دَر مُقابِل ِ کِسى از خود دِفاع ک
 erweichen;
 - s. erweichen lassen; تَن دَر دادَن، خودرا تَحت ِ تأثیر ِ کِسى قَرار دادَن
-- das Herz von jem. erweichen;  .دِل ِ کِسى را نَرم کَردَن، ـ مُلایِم ک.، ـ به رِقَت آوَردَن، ـ مُلتِف ک
+- das Herz von jem. erweichen; .دِل ِ کِسى را نَرم کَردَن، ـ مُلایِم ک.، ـ به رِقَت آوَردَن، ـ مُلتِف ک
 - so viel er auch redete, er liess s. nicht erweichen; او هَر چه صُحبَت میکرَد یَخِش نِمى گرفت
 Erweichung;
 - Knochenerweichung; اِستِرخاء عَظَم، ضَعَف ِ اُستُخوان
@@ -3426,7 +3424,7 @@ erweisen;
 - s. als nützlich erweisen; مُفید واقِع شُدَن، ـ دَر آمَدَن، ـ نِشان دادَن
 - die nötige Aufmerksamkeit erweisen; دَر این مورِد تَوَجُه ِ لازِم را مَبذول داشتَن
 - ausreichende Aufmerksamkeit erwiesen wird; تَوَجُه ِ کافى مَبذول مى شَوَد، ـ قائِل مى شَوَد
-erweitern;  .باز کَردَن، گُشاد ک.، مُنبَسِط ک.، وَسیع ک.، پَهن ک
+erweitern; .باز کَردَن، گُشاد ک.، مُنبَسِط ک.، وَسیع ک.، پَهن ک
 - Beziehungen zu ... erweitern; اِرتِباط ِ... را بَسط دادَن
 - erweitertes Kommitte; کمیتهٔ مُنبَسِط
 - im erweiterten Sinne; با توسِعهٔ مَعَنى
@@ -3441,7 +3439,7 @@ Erwerb; دَست یابى، کَسب، اِکتِساب، حُصول
 - Erwerb von Vermögen; تَحصیل ِ ثِروَت، کَسب ِ ـ
 - seinem Erwerb nachgehen; دُنبال ِ کَسب و کار ِ خود رَفتَن
 - rechtmässiger Erwerb; کَسب ِ حَلال، ـ قانونى
-erwerben;  .کَسب کَردَن، اِکتِساب ک.، حاصِل ک.، تَحصیل ک
+erwerben; .کَسب کَردَن، اِکتِساب ک.، حاصِل ک.، تَحصیل ک
 - einen akademischen Grad erwerben; دَرَجهٔ عِلمى را اَخذ کَردَن، ـ تَحصیل ک
 - s. die besten Kenntnisse erwerben; بِهتَرین تَعلیمات را فَرا گِرِفتَن
 - Sklaven erwerben; بَرده خَریدارى کَردَن
@@ -3452,7 +3450,7 @@ erwidern; رَد ِ جَواب کَردَن، جَواب گو بودَن
 - einen Besuch erwidern; بازدید کَردَن، جَواب ِ دیداررا دادَن
 Erwiderung;
 - in Erwiderung Ihres Schreibens; دَر پاسُخ ِ نامهٔ شُما
-erwiesen;  .ثابِت شُده، عَیان ش
+erwiesen; .ثابِت شُده، عَیان ش
 erwiesenermassen; از قَرار ِ مَعلوم، چُنانکه مُسَلَم است
 erwischen;
 - einer, den es erwischt hat, Pechvogel; مَرد ِ تیره روز
@@ -3483,7 +3481,7 @@ Erzähler; قِصه گو، نَقال، مَثَل گو، راوى
 erzählerisch;
 - erzählerische Fähigkeiten; اِستِعداد ِ قِصه گوئى
 Erzählung; داستان، قِصه، حِکایَت، سَمَر
-erzeugen;  .تولید کَردَن، ایجاد ک
+erzeugen; .تولید کَردَن، ایجاد ک
 - konflikterzeugend; بُحران آفرین
 Erzeuger; مُوَلِد، تولید کُنَنده
 Erzeugervolumen; حَجم ِ تولید
@@ -3515,7 +3513,7 @@ Erzittern (n); لَرزه، اِرتِعاش
 erzkonservativ; مُحافِظهٔ کار ِ سَرسَخت
 Erzreaktionär; مُرتَجِع ِ سَرسَخت
 erzürnen; کِسى را خَشمگین نِمودَن، ـ غَضَبناک کَردَن، غَضَب ِ کِسى را بَر اَفروختَن
-erzwingen;  .بِزور چیزى را کَردَن، اِجبار ک
+erzwingen; .بِزور چیزى را کَردَن، اِجبار ک
 - etwas erzwingen wollen; هَر دو پارا دَر یِک کَفَش کَردَن
 - ich erzwang mir den Weg durch die Menge; از لاى ِ مَردُم گُذَشتَم به ضَرب ِ آرَنج
 erzwungenermassen; از راه ِ اِجبار، بِزور، اِجباراً، زورَکى
@@ -3687,12 +3685,12 @@ Exekutivkommitte; کُمیتهٔ اِجرائیه، هِیئَت ِ مُجریه
 Exempel;
 - an jem. ein Exempel statuieren; کِسى را عِبرَت ِ دیگَران کَردَن، ـ نِمونهٔ ـ
 - die Probe aufs Exempel machen; تیغ و تُرُنج بِمیان آوَردَن
-Exemtion; مُعافیَت
 Exemplar; نُسخه، شُماره
 - zehn Exemplare eines Buches; تِعداد ِ ۱۰ نُسخهٔ کِتاب
 - von diesem Buch gibt es zwei Exemplare; از این کِتاب دو نُسخه موجودَند، ـ دو رو نِویس موجودنَد
 exemplarisch; عِبرَت اَنگیز
 - eine exemplarische Strafe; مُجازات ِ عِبرَت نَما
+Exemtion; مُعافیَت
 Exequatur; رَوانامه، اِجازه نامهٔ کُنسولى
 exerzieren;
 - die Soldaten exerzieren; سَربازان مَشق می کُنَند

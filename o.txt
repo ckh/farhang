@@ -18,7 +18,7 @@ oben;
 - von oben bis unten schmutzig sein; سَر ا پا کَثیف بودَن
 - von hier oben alles sehen; از این بالا هَمه چیزرا دیدَن
 - ganz oben wird die Luft dünn; هَر چه سَر بُزُرگتَر دَرد بُزُرگتَر
-- den oberen Teil der Strasse bewachen (*:oberst);  بالادَست ِ خیابان را پائیدَن
+- den oberen Teil der Strasse bewachen (*:oberst); بالادَست ِ خیابان را پائیدَن
 - das Oben & Unten; فَراز و فُرود
 Ober; گارسُن
 Oberarzt; سَرپِزِشک
@@ -75,15 +75,8 @@ obwohl;
 Ochse; گاو ِ نَر اَخته
 - Zugochse; وَرزاو، وَرزگاو
 Ocker; گِل ِ زَرد
-öde; مَوات، زَمین ِ بايِر
-- öde, langweilig; خَسته کُنَنده
-- total öde; بی آب و عَلَف
-Ödem; وَرَم
 oder; یا، یا اینکه
 - entweder das, oder jenes; یا این یا آن
-Ödland; دَشت
-Ödnis; زَمین ِ لَم يَزرَع، جاى ِ مَتروک
-- welche Ödnis; چه تَک اُفتاده
 OECD (Organisation für wirtschaftliche Zusammenarbeit); سازِمان ِ هَمکارى ِ اِقتِصادى و توسِعه
 Ofen; اُجاق، بُخارى
 - Backofen; تَنور
@@ -92,7 +85,7 @@ Ofen; اُجاق، بُخارى
 Ofenauskleidung; پوشِش ِ نَسوز ِ کوره
 Ofenausmauerung; پوشِش ِ آجُرى ِ کوره
 offen; روباز
-- offen sein miteinander;  .با هَم رو راست بودَن، رُک و راست ب
+- offen sein miteinander; .با هَم رو راست بودَن، رُک و راست ب
 - offen & ehrlich; بى غَل و غَش
 - weit offen; مُنبَسِط
 - sie halten die Augen offen; پِلکهايِشان را باز نِگَه دارَند
@@ -110,7 +103,7 @@ offen; روباز
 - offene Verlegung von Kabeln; سیم کِشى دَر فَضاى ِ آزاد
 offenbar;
 - das ist offenbar eine ...; اِحتِمالاً ... است
-- offenbar werden;  .مَکشوف شُدَن، ظاهِر ش.، مُنکَشِف ش.، عَیان ش
+- offenbar werden; .مَکشوف شُدَن، ظاهِر ش.، مُنکَشِف ش.، عَیان ش
 offenbaren; عَیان کَردَن
 - s. jem. offenbaren; به کِسى مُظهِر شُدَن، خودرا به کِسى مُظهِر کَردَن
 - Offenbarer der Geheimnisse (Gott); کاشِف اُلاِسرار
@@ -131,30 +124,11 @@ offensichtlich;
 - das ist offensichtlich eine Lüge; این دُروغ ِ شاخدار است
 offensiv; تَهاجُمى
 Offensive; تَهاجُم، تَعرُض، آفِند، حَمله، هُجوم
-öffentlich; عَلَنى
-- etwas öffentlich machen; بَر مَلا گُذاشتَن، آشکار کَردَن
-- öffentlich sprechen; سُخَن گفتن دَر جَمع
-- öffentliches Amt; اِدارهٔ عُمومى
-- öffentliche Ausgaben; هَزینه هاى ِ عُمومى
-- öffentlicher Dienst; خَدَمات ِ عُمومى
-- öffentliche Hand; مَقامات ِ عُمومى
-- öffentliches Interesse; مُصالِح ِ عُمومى
-- öffentliche Körperschaft; مؤِسِسهٔ عُمومى
-- öffentliche Meinung; عَقیده و اَراء ِ عُمومى
-- unter dem Druck der öffentlichen Meinung; تَحت ِ فِشار ِ اَفکار ِ عُمومى
-- öffentliche Mittel; وُجوه ِ عُمومى
-- öffentliche Ruhe und Ordnung; آرامِش و نَظم ِ عُمومى
-- jem. öffentlich hinrichten; کِسى را دَر اَنظار ِ مَردُم اِعدام کَردَن
-- Mann des öffentlichen Lebens; رَجُل ِ اِجتِماعى
-- Polarisierung der öffentlichen Meinung; قُطبى کَردَن ِ عَقايِد ِ عُمومى
-- er hat X öffentlich blossgestellt; بَراى ِ فِلان دَردسَر ِ کَذائى را دُرُست کَرد
-- öffentlich-rechtliche Körperschaft; مؤِسِسهٔ تَخت ِ قانون ِ عُمومى
 Öffentlichkeit;
 - Öffentlichkeit des Verfahrens; عَلَنيَت ِ مُحاکِمه
 - an die Öffentlichkeit kommen; شايِع شُدَن
 - an die Öffentlichkeit bringen; به شُیوع رِساندَن
 - in aller Öffentlichkeit; دَر مَلاء ِ عام، دَر اِنظار ِ عُمومى، جِلوى ِ چِشم ِ هَمِگان
-Öffentlichkeitsarbeit; اُمور ِ رَوابِط ِ عُمومى
 offerieren; عَرضه کَردَن
 offiziell; رَسمى
 - offiziell anerkennen; این را به رَسميَت شِناختَن
@@ -162,21 +136,15 @@ offiziell; رَسمى
 Offizier; سَرهَنگ، اَفسَر
 - diensthabender Offizier; اَفسَر ِ کِشیک
 - Anrede iranischer Offiziere; سَر کار
-öffnen; گُشودَن، باز کَردَن
-- das öffnet jem. das Herz; قَلب ِ کِسی را مى گُشايَد
-Öffnung; مَنفَذ، دَهَنه، دَهانه
-- politische Öffnung; گُشایش ِ سیاسى
-Öffnungsweite; پَهناى ِ اِتِصال ِ باز
-Öffnungszeiten; ساعات ِ کار
 oft; غالِباً، بارها، اَغلَب
-- oft kommt es vor, dass ...;  بَسا مى شَوَد که
+- oft kommt es vor, dass ...; بَسا مى شَوَد که
 - wie oft habe ich gesagt, dass ...?; چَند بار گُفتَم که ...؟ بارها و بارها ـ
 - des öfteren; مُکَرَر، بارها
 ohne; ِ بِدون
 - ohne dich; بى تو
-- ohne jede ...;  خالى از
+- ohne jede ...; خالى از
 - ohne wirklich ...; بى هیچ
-- ohne zu;  بى اینکه، بِدون ِ اینکه
+- ohne zu; بى اینکه، بِدون ِ اینکه
 - ohne zu zögern ...; بِلا دِرَنگ
 - ohne Selbstverleugnung; بِدون ِ از خود گُذَشتِگی
 ohnegleichen; عَدیم اُلقَرین، بى نَظیر، قابِل ِ مُقايِسه نیست
@@ -204,8 +172,8 @@ Ohr; گوش
 - noch nicht trocken hinter den Ohren, aber schon grosse Töne spucken; آنها غوره نَشُده مَویز مى شَوَند
 Ohrenschmalz; چِرک ِ گوش
 Ohrfeige; کِشیده، سیلى، طَپانچه
-- Ohrfeige einstecken;  .توسَرى خوردَن، تو دَهَنى خ
-ohrfeigen;  .توسَرى زَدَن، به صورَت سیلى ز.، طَپانچه ز
+- Ohrfeige einstecken; .توسَرى خوردَن، تو دَهَنى خ
+ohrfeigen; .توسَرى زَدَن، به صورَت سیلى ز.، طَپانچه ز
 Ohrgehänge; آویزهٔ گوش
 Ohrläppchen; پَرهٔ گوش، نَرمهٔ گوش
 Ohrmuschel; لالهٔ گوش
@@ -217,7 +185,6 @@ ok; باشه
 okkult; جادو مِزاج
 Okkultismus; جادوگَری
 Okkupation; اِشغال، تَصاحُب
-Ökologie; مُحیط ِ زیست شِناسى، بوم شِناسى
 ökologisch; اِکولوژیک
 - ökologische Bewegung; نِهضَت ِ مُحیط ِ زیست
 - ökologisches Gleichgewicht; تَعادُل ِ اِکولوژیک
@@ -234,24 +201,19 @@ Okzident; غَرب، مَغرِب زَمین
 - das geht wie Öl über unsere Lippen; مِثل ِ نَقل و نَبات بَر زَبان ِ ما جارى است
 - Erdöl; نَفت
 - Pflanzenöl; روغَن
-Ölfarbe; رَنگ ِ روغَن
-Ölgemälde; نَقاشى با رَنگ ِ روغَن
 Oligarchie; مَعدود سالارى
 Olive; زِیتون
 olivenfarben; رَنگ ِ زِیتونى
 Olivenöl; روغَن ِ زِیتون
 oller;
 - Je oller, je doller; هَرچه پیرتَر مى شَوَد حَریص تَر مى شَوَد
-Ölofen; اُجاق ِ نَفتى
-Ölwanne; وان ِ روغَن، کارتِل
-Ölwechsel; تَعویض ِ روغَن
 Olympiade; اُلِمپیک
 - die olympischen Spiele; مُسابِقات ِ اُلِمپیک
 Olympiasieger; قَهرَمان ِ اُلِمپیک، بَرَندهٔ جایزهٔ اُلِمپیک
 Oma; نَنِه، مامان ِ بُزُرگ
 Omelett; خاگینه، اُملِت
 Omen; اَتَر، فال
-- schlechtes Omen verkünden;  .اَتَر زَدَن، فال ِ بَد ز
+- schlechtes Omen verkünden; .اَتَر زَدَن، فال ِ بَد ز
 Omnibus; اُتوبوس
 Omnipotenz; اِقتِدار ِ مُطلَق
 omnipräsent; حاضِر ِ مُطلَق
@@ -313,7 +275,7 @@ opulent; هَنگُفت
 - opulentes Mahl; غَذای ِ هَنگُفت
 Orakel; وَحى ِ کاذِب، فال، اِستِخاره
 - Orakel lesen; اِستِخاره کَردَن، سَر ِ کِتاب باز کَردَن
-- nach dem Orakel handeln;  اِستِخاره راه دادَن
+- nach dem Orakel handeln; اِستِخاره راه دادَن
 orakelhaft; مَرموز
 oral; دَهَنى، از راه ِ دَهَن
 Orang - Utan; اوران اوتان
@@ -329,11 +291,11 @@ ordentlich;
 - ich hoffe, die Arbeit wird ordentlich erledigt; اُمیدوارَم کار به خوبى اَنجام شَوَد
 - das Essen muss ordentlich aufgetischt werden; سُفره بايَد دَقیق گُستَرده شَوَد
 ordern; سِفارِش دادَن
-ordinär; بی اَدَب، مُبتَذَل، رَکیک
 Ordinate; رُست، عَرض
 Ordinatenachse; مِحوَر ِ عَرضى
 Ordination; اِنتِصاب، بَرگُزیدِگی
-ordnen;  .رَده بَندى کَردَن، مُنَظَم ک.، مُرَتَب ک
+ordinär; بی اَدَب، مُبتَذَل، رَکیک
+ordnen; .رَده بَندى کَردَن، مُنَظَم ک.، مُرَتَب ک
 - seine Angelegenheiten ordnen; خَر ِ خودرا از پُل گُذَراندَن
 - ich brauche 2 Tage, um alles zu ordnen; دو روز بايَد مَشغول ِ تَرتیب دادَن ِ کارها باشَم
 - Ordnen der Angelegenheiten; رِسیدِگى به کار
@@ -347,8 +309,8 @@ Ordnung;
 - ist bei dir alles in Ordnung?; حالا خوب حالیَت شُد؟
 - zur Ordnung rufen; به نَظم فَرا خوندَن
 - das hat alles seine Ordnung; حِساب و کِتاب داشتَن
-- sein Bett in Ordnung bringen;  .مَلافِه اَش را آنکادِر کَردَن، مُرَتَب ک
-- mit dem Auto ist was nicht in Ordnung;  اشین را خَلَل هَست، ماشین عِیب دارَد، خَلاف دارَد
+- sein Bett in Ordnung bringen; .مَلافِه اَش را آنکادِر کَردَن، مُرَتَب ک
+- mit dem Auto ist was nicht in Ordnung; اشین را خَلَل هَست، ماشین عِیب دارَد، خَلاف دارَد
 - das Dokument ist nicht in Ordnung; سَنَد مَخدوش است
 - die Kleidung in Ordnung bringen; لِباس را صاف و صوف کَردَن
 - eine Sache in Ordnung bringen; به چیزى سَر و صورَت دادَن، چیزى را مُرَتَب کَردَن، ـ دُرُست ک.، ـ نَظم و تَرتیب دادَن
@@ -390,7 +352,7 @@ Orgie; عَیاشى، عِیش و نوش، عِشرَت
 - eine Orgie veranstalten; جَشن ِ خارِق ِ رُسوم گِرِفتَن
 Orient; مَشرِق زمین، شَرق
 Orientalistik; شَرق شِناسى
-orientieren;  .وانِگَریستَن، جَهَت دادَن، اِطِلاعات د
+orientieren; .وانِگَریستَن، جَهَت دادَن، اِطِلاعات د
 - ich muss mich erst einmal orientieren; مَن بایَد اَوَل جَهَت ِ خودَم را پِیدا کُنَم
 - eine Politik neu orientieren; به سیاسَت جَهَت ِ نو دادَن
 - linksorientiert; چَپ گِرا
@@ -429,8 +391,6 @@ Ortswechsel; تَفییر ِ مَکان
 - um einen Ortswechsel zu haben (popul.); تا آب به آب شَوَد
 Ortung; جَهَت یابى، مَحَل ـ
 Ortungsgerät; جَهَت یاب
-Öse; حَلقه، گوش واره، چِشم
-- Haken & Ösen; قَزَن ِ قُفلى
 Osmose; اُسمُز
 Osten; شَرق
 - Ferner Osten; خاوَر ِ دور
@@ -440,7 +400,6 @@ Osten; شَرق
 - Ost-West-Konflikt; تِضاد ِ شَرق و غَرب
 Osteoporose; زَوال ِ اُستِخوان، تَضعیف ِ ـ
 Ostern; عِید ِ رُستاخیز، عِید ِ پاک
-Österreich; اُتریش
 Osthandel; بازارگانى با شَرق
 Oszillation; نَوَسان
 Ottomotor; موتور ِ کاربَراتور دار ِ اتو، ـ بِنزینى
@@ -455,3 +414,44 @@ Ozean; دَریا، اُقیانوس
 - Indischer Ozean; اُقیانوس ِ هِند
 - Pazifischer Ozean; اُقیانوس ِ آرام
 Ozon; اوزون (دَر اَثَر اَشَعهٔ ماوَراء ِ بَنَفش ِ آفتاب تَشکیل مى شَوَد
+öde; مَوات، زَمین ِ بايِر
+- öde, langweilig; خَسته کُنَنده
+- total öde; بی آب و عَلَف
+Ödem; وَرَم
+Ödland; دَشت
+Ödnis; زَمین ِ لَم يَزرَع، جاى ِ مَتروک
+- welche Ödnis; چه تَک اُفتاده
+öffentlich; عَلَنى
+- etwas öffentlich machen; بَر مَلا گُذاشتَن، آشکار کَردَن
+- öffentlich sprechen; سُخَن گفتن دَر جَمع
+- öffentliches Amt; اِدارهٔ عُمومى
+- öffentliche Ausgaben; هَزینه هاى ِ عُمومى
+- öffentlicher Dienst; خَدَمات ِ عُمومى
+- öffentliche Hand; مَقامات ِ عُمومى
+- öffentliches Interesse; مُصالِح ِ عُمومى
+- öffentliche Körperschaft; مؤِسِسهٔ عُمومى
+- öffentliche Meinung; عَقیده و اَراء ِ عُمومى
+- unter dem Druck der öffentlichen Meinung; تَحت ِ فِشار ِ اَفکار ِ عُمومى
+- öffentliche Mittel; وُجوه ِ عُمومى
+- öffentliche Ruhe und Ordnung; آرامِش و نَظم ِ عُمومى
+- jem. öffentlich hinrichten; کِسى را دَر اَنظار ِ مَردُم اِعدام کَردَن
+- Mann des öffentlichen Lebens; رَجُل ِ اِجتِماعى
+- Polarisierung der öffentlichen Meinung; قُطبى کَردَن ِ عَقايِد ِ عُمومى
+- er hat X öffentlich blossgestellt; بَراى ِ فِلان دَردسَر ِ کَذائى را دُرُست کَرد
+- öffentlich-rechtliche Körperschaft; مؤِسِسهٔ تَخت ِ قانون ِ عُمومى
+Öffentlichkeitsarbeit; اُمور ِ رَوابِط ِ عُمومى
+öffnen; گُشودَن، باز کَردَن
+- das öffnet jem. das Herz; قَلب ِ کِسی را مى گُشايَد
+Öffnung; مَنفَذ، دَهَنه، دَهانه
+- politische Öffnung; گُشایش ِ سیاسى
+Öffnungsweite; پَهناى ِ اِتِصال ِ باز
+Öffnungszeiten; ساعات ِ کار
+Ökologie; مُحیط ِ زیست شِناسى، بوم شِناسى
+Ölfarbe; رَنگ ِ روغَن
+Ölgemälde; نَقاشى با رَنگ ِ روغَن
+Ölofen; اُجاق ِ نَفتى
+Ölwanne; وان ِ روغَن، کارتِل
+Ölwechsel; تَعویض ِ روغَن
+Öse; حَلقه، گوش واره، چِشم
+- Haken & Ösen; قَزَن ِ قُفلى
+Österreich; اُتریش

@@ -1,4 +1,3 @@
-﻿Quader; مَکَعب ِ مُسطَتیل
 quaderförmig; مَکعَب شِکل
 Quaderstein; سَنگ ِ تَراشیده
 Quadrant; يِک چَهارُم ِ دايِره
@@ -7,9 +6,9 @@ Quadrat; مُرَبَع، چَهارگوش
 quadratisch;
 - quadratisch (Fläche); شَطرَنجی، چَهاخانه، پیچازی
 - quadratische Gleichung; مُعادِلهٔ دَرَجهٔ دُوُم
+Quadratmeter; مِتر ِ مُرَبَع
 Quadratur;
 - Quadratur des Kreises; تَربیع ِ دايِره
-Quadratmeter; مِتر ِ مُرَبَع
 Quadratwurzel; ریشهٔ دُوُم، جَذر
 Quadratzahl; عَدَد ِ مَجذور
 Quaken; قارقار
@@ -19,20 +18,16 @@ Quaksalber; پِزِشک ِ کاذِب
 Qual; زَجر، رَنج
 - Qual erleiden; زَجر کِشیدَن، اَلَم دیدَن
 - nach einem Leben voller Qual; بَعد از يِک عُمر ِ خون ِ دِل خوردَن
-quälen; کِسى را جَفاء کَردَن، ـ اَذيَت ک.، ـ عِذاب دادَن، ـ چَزاندَن
-- er wirkt gequält; آزُرده مى نَمايَد
-Quälen (n); اَذيَت، آزار
-Quälgeist; آدَم ِ موذى
 Qualifikation; اَهليَت، صَلاحيَت، قابِليَت، لیاقَت
 - berufliche Qualifikation; تَوانائى ِ حِرفه اى، کارکُشتِگى
 qualifizieren (s. -) (z.B. im Sport); به حَد ِ نِصاب رِسیدَن، شَرايِط ِ ... را به جا آوَردَن
 qualifiziert; مُمتاز
 - qualifizierte Mehrheit; اَکثَريَت ِ صَلاحيَت دار، ـ قَریب به اِتِفاق
+qualitativ; کِیفى
 Qualität; فُروزه، کِیفيَت
 - von guter Qualität; مَرغوب
 - er ist von der Qualität, - Sorte; او از این قُماش است
 - Führungsqualität; قابِليَت ِ رَهبَرى
-qualitativ; کِیفى
 Qualitätskontrolle; کُنتُرل ِ کِیفيَت
 Qualle; فَرج اُلبَحر، عَروس ِ دَریائى
 Qualm; دود
@@ -40,8 +35,8 @@ Qualm; دود
 - dicker Qualm; دود و دَم
 qualmen; دود زَدَن، ـ دادَن
 qualvoll; جانگُراز
-Quantität; کَميَت، مِقدار
 quantitativ; کَمى
+Quantität; کَميَت، مِقدار
 Quarantäne; قَرَنطینه، چلِه
 Quark; لور، کَشک
 - Quark (getrocknet); قَراقُروت
@@ -54,12 +49,16 @@ quasseln;
 - er ist immer am quasseln; او شاخ و بَرگ حَرف مى زَنَد
 Quaste; مَنگوله
 - mit Quasten besetztes Glockenspiel; دائِرهٔ زَنگى ِ مَنگوله بَسته
-Quästur; صَندوق ِ دانِشگاه
 Quatsch; مُزَخرَفات، مَهمَل گوئى
 - er redet Quatsch; مُزَخرَف مى گويَد، پِرت و پَلا ـ
 - das ist alles Quatsch; این هَمه اَش ِ کَشکی است
 quatschen; گَپ زَدَن
 - über alles mögliche quatschen; از هَر دَری حَرف زَدَن
+quälen; کِسى را جَفاء کَردَن، ـ اَذيَت ک.، ـ عِذاب دادَن، ـ چَزاندَن
+- er wirkt gequält; آزُرده مى نَمايَد
+Quälen (n); اَذيَت، آزار
+Quälgeist; آدَم ِ موذى
+Quästur; صَندوق ِ دانِشگاه
 Quecksilber; جیوه، سیم آب
 Quelle; چِشمه
 - vertrauenswürdige Quelle; (pl.)  (مَنبَع ِ مُوَثَق (مَنابِع ِ ـ
@@ -93,12 +92,12 @@ Querstrasse; چهار راه، خیابان ِ عَرضى
 Querstrich; خَط ِ مُمَيِز
 Querträger; تیر ِ عَرضى ِ مُتَقاطِع
 Querverweis; آیات ِ اِرجائى، اِرجاعاتى به آیات ِ دیگَر
-Quetsche; پَرچ 
+Quetsche; پَرچ
 quetschen; لِه دادَن
 - jem. in die Ecke quetschen; کِسى را مُچاله کَردَن
 Quetschung; لِه شُده، کوبیدِگى، کوفتِگى
 quieken; جیغ کِشیدَن
-quietschen;  .توتو کَردَن، غِژ غِژ ک
+quietschen; .توتو کَردَن، غِژ غِژ ک
 Quietschen (n); صَریر
 - quietschendes Geräusch entsteht; صِداى ِ غِژغِژ بُلَند مى شَوَد
 Quintessenz; لُب لُباب، ذات، لُب ِ مَطلَب، فُروهَر، جوهَر
@@ -110,9 +109,9 @@ quittieren;
 - den Dienst quittieren; خِدمَت را اِستِعفاء دادَن
 Quittung; (pl.) صورَت ِ حِساب، قَبض (قَبوض)، رِسید
 Quiz; مُسابِقهٔ مُعَما
+Qumranrollen; مَخطوطات ِ کومران
 Quote; نِسبَت، سَهم، نِرخ
-- Beteiligungsquote;  -دَر صَد ِ شِرکَت دَر
+- Beteiligungsquote; -دَر صَد ِ شِرکَت دَر
 Quotient; ضَریب
 - emotionaler Quotient; ضَریب ِ اِحساسی
 - Intelligenzquotient; ضَریب ِ هوشی
-Qumranrollen; مَخطوطات ِ کومران

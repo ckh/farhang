@@ -47,17 +47,17 @@ Zählbegriffe (bei Stückzahlen); اِصطِلاحات ِ شُمارِگى
 - bei: Textilien; توپ
 - bei: Tieren; رأس
 - bei: Waffen; قَبضه
-zahlen; پَرداختَن
 zählen; شُماردَن، حِساب کَردَن
 - die Sekunden zählen; لَحظه شُمارى کَردَن
 - bis 100 zählen und dann stehen bleiben; دَر صَد قَدَمى ِ کِسى ایستادَن
 - auf jem. zählen; روى ِ کِسى حِساب کَردَن
-- zählen zu;  .به شُمار آوَردَن، به حِساب آ
+- zählen zu; .به شُمار آوَردَن، به حِساب آ
 - er zählt nicht mehr; بَرايَش تَره هَم خُرد نِمى کُنَند
 - das zählt nicht; حِساب نِمى شَوَد، حِساب نیست
 - dieser Plan ist wertlos und zählt nicht; این نَقشه ناچیز است و به حِساب نِمى آيَد
 - gezählt werden; به شُمار آمَدَن
 - mit Zählen beschäftigt sein; با تَعدید مَشغول بودَن
+zahlen; پَرداختَن
 Zähler;
 - Zähler (mathemat.); بَرخه شُمار، صورَت ِ کَسر، شُمارَنده
 - Wasserzähler; کُنتور ِ آب
@@ -118,7 +118,7 @@ Zange; گاز
 - Kneifzange; گاز ِ اَنبُر
 - Wasserpumpenzange; اَنبُر ِ کَلااغى
 Zank; مُشاجِره، نِزاع، دَعوا، تَنازُع، مُناقِشه
-zanken;  .دَعوا کَردَن، نِزاع ک
+zanken; .دَعوا کَردَن، نِزاع ک
 zankend; مُشاجِر
 zänkisch; دَعوا کُنَنده
 - zänkisches Weib; پَتیاره
@@ -128,7 +128,7 @@ Zapfen; زبانهٔ چوب، پین، توپى
 Zapfsäule; سُتون ِ پُمپ ِ بِنزین
 zappeln; لَق دادَن، بى قَرار بودَن
 - zapple nicht so!; لَق نَدَهى
-- unter der Last zappeln;  .زیر ِ بار دَست و پا زَدَن، ـ وول ز
+- unter der Last zappeln; .زیر ِ بار دَست و پا زَدَن، ـ وول ز
 - etwas zappelt im Wasser; چیزى توى ِ آب دَست و پا مى زَنَد
 - er ist zappelig; او دَر تَب و تاب است، او بیقَرار است، وَرجه وُرجه می کُنَد
 Zar; تِزار
@@ -188,7 +188,7 @@ Zeichenbrett; تَختهٔ رَسم
 Zeichendreieck; گونیا، زاویه یاب
 Zeichentrickfilm; فیلم اَنیمِیشن، کارتون
 Zeichentusche; مُرَکَب چین ِ نَقشه کِشى
-zeichnen;  .رَسم کِشیدَن، نَقاشی ک
+zeichnen; .رَسم کِشیدَن، نَقاشی ک
 - eine Skizze zeichnen; طَرح را رَسم کَردَن، ـ نَقشه کِشیدَن
 Zeichnung; نَقاشی
 - Zeichnung (z.B. Bau-); رَسم کِشى، رَسم، طَرح
@@ -307,7 +307,7 @@ Zelt; خِیمه، چادُر
 - Nomadenzelt (dari); غِژدی
 - Sauerstoffzelt; چادُر ِ اُکسیژِن
 Zement; سِمان، سیمان
-zementieren;  .شِفته کارى ک.، سیمان کارى ک
+zementieren; .شِفته کارى ک.، سیمان کارى ک
 zementiert; سیمانى
 - zementierter Rand; لَبهٔ سیمانى
 Zenit; سَمت اُلرأس، نُقطِهٔ اوج
@@ -338,7 +338,7 @@ zerbrechen; شِکَست دادَن، رَنجور کَردَن، شِکَستَ
 - der Teller ist zerbrochen; بُشقاب شِکَست
 zerbrechlich; شِکَستَنى
 - nicht zerbrechlich; شِکَست ناپَذیر
-zerbröckeln;  .مُتَهافِت شُدَن، خُرد ش
+zerbröckeln; .مُتَهافِت شُدَن، خُرد ش
 zerdrücken; لِه کَردَن
 Zeremoniell; تَشریفات
 Zerfall; فُرو پاشى، تَجزیه
@@ -362,7 +362,7 @@ zerkratzen; خَدشه دار کَردَن، خَراش دادَن، خَش بَ
 zerkrümeln;
 - er war dabei, das Brot zu zerkrümeln; او مَشغول ِ ریز کَردَن ِ تِکهٔ نان شُد، ـ خُرد کَردَن ِ ـ
 zerlegbar; قابِل ِ تَفکیک، ـ تَجزیه
-zerlegen;  .تَفکیک کَردَن، تَجزیه ک
+zerlegen; .تَفکیک کَردَن، تَجزیه ک
 Zerlegung; تَفکیک، تَجزیه
 zerlumpt; ژِنده پوش، جُلُنبُر
 zermalmen; چیزى را خُرد ساختَن
@@ -379,7 +379,7 @@ zerreiben; مَطحون کَردَن، سائیدَن
 zerreissen;
 - etwas zerreissen; چیزى را دَریدَن، ـ چاک دادَن، جِر و واجِر کَردَن
 - ein nicht zerreissbarer Bund; یک پِیوَند ِ ناگُسَستَنى
-- zerrissen werden;  .جِر و واجِر شُدَن، دَریده ش
+- zerrissen werden; .جِر و واجِر شُدَن، دَریده ش
 - zerrissenes Hemd; پیراهَن ِ پاره و پوره
 Zerreissfestigkeit; اِستِحکام ِ گُسیختِگى
 Zerreissprobe; نَزدیک به گُسیختِگى، آزمايِش ِ کِشِش
@@ -397,14 +397,14 @@ zerschossen; تیر خورده
 zersetzen; تَجزیه کَردَن
 Zerspanung; بُرِشکارى ِ فِلِزات
 Zerspanungseigenschaft; خُصوصیات ِ بُرِش
-zersplittern;  .از هَم جُدا شُدَن، خُرد ش
+zersplittern; .از هَم جُدا شُدَن، خُرد ش
 - der Spiegel zersplitterte in 1000 Stücke; آیینه پول پول شُد
 zersplittert; مُنشَق
 Zersplitterung; تَفرِقه، تَشَتُت
 zerstampfen; کوبیدَن
 zerstäuben; پاشیدَن
 Zerstäuber; ریزریز کُنَنده، اَتُمیزه ـ
-zerstören;  .مُنهَدِم ساختن، نابود کَردَن، ویران ک
+zerstören; .مُنهَدِم ساختن، نابود کَردَن، ویران ک
 - er zerstörte meine Wünsche; آرِزويَم را بَر باد داد، ـ تار و مار کَرد
 Zerstörer (Marine); ناو شِکَن
 zerstörerisch; تَخریبى، مُهلِک
@@ -420,12 +420,11 @@ zerstreut; پَراکَنده
 - ich bin zerstreut; حَواسَم پَرت است
 Zerstreutheit; پَراکَندِگى
 - Zerstreutheit (in Gedanken); حَواس پَرتى
-Zerstreuung;
-- Zerstreuung; Verteilung; پَراکَندِگی
+Zerstreuung; Verteilung
 - Zerstreuung, Zeitvertreib; تَفَنُن، تَفریحی
-zerstückeln;  .قَطعه قَطعه کَردَن، پاره پاره ک
+zerstückeln; .قَطعه قَطعه کَردَن، پاره پاره ک
 Zerstückelung; تَجزیه، تَقسیم، تَقطیع
-zerteilen;  .چَند پاره کَردَن، تَقسیم ک
+zerteilen; .چَند پاره کَردَن، تَقسیم ک
 Zertifikat; تَصدیق نامه، گُواهى ـ
 zertrampelt; لَگَد کوب شُده
 zertreten; لَگَد مال کَردَن
@@ -433,7 +432,7 @@ zertrümmern; خُرد کَردَن
 - ... und zertrümmerte es ...; و آنرا خُرد کَرد
 Zertrümmerung; شِکافتِگى، اِنشِقاق
 zerzausen (Haar); ژولیده کَردَن
-zetern;  .پَرخاش کَردَن، جیغ و داد ک
+zetern; .پَرخاش کَردَن، جیغ و داد ک
 Zettel; یادداشت، وَرَقه
 Zeug; وَسیله، چیز
 - das Zeug zu einem Leiter haben; ساخت ِ يِک رَهبَررا داشتَن، اِستِعداد ِ ـ، مایهٔ ـ
@@ -453,7 +452,7 @@ Zickenkrieg; رَخت ِ دو جاری را دَر یِک تَشت نِمیشه 
 zickig; چَموش، سَرکِش، عاصى
 - du bist doch nie so zickig gewesen; تو که این قَدر نازُک ِ نارَنجى نَبودى
 zickzack;
-- zickzack gehen;  .قیقاج رَفتَن، اُریب ر. ، زیگزاگ ر
+- zickzack gehen; .قیقاج رَفتَن، اُریب ر. ، زیگزاگ ر
 Zickzacklinie; خَط ِ دَندانه وار
 Ziege; بُز
 Ziegel; سُفال، آجُر
@@ -461,7 +460,7 @@ Ziegel; سُفال، آجُر
 - Lehmziegel; چینه
 Ziegelei; آجُرسازى، ـ پَزى
 ziehen;
-- ziehen (z.B. Schmerz);  .تیر کِشیدَن، زوق زوق ک
+- ziehen (z.B. Schmerz); .تیر کِشیدَن، زوق زوق ک
 - die Kleidung über den Kopf ziehen (i.S. den Kopf zudecken); لِباس ِ خودرا بالاى ِ سَر ِ خود کَپه کَردَن
 - nach s. ziehen; به دُنبال داشتَن
 - wird weiteres nach s. ziehen; پِیگیرى ِ بیشتَرى بَراى ِ ... اَنجام دَهَند
@@ -476,7 +475,7 @@ Ziehung (beim Lotto); قُرعِه کِشى
 Ziel;
 - Ziel, Absicht; (pl.) (مَقصود، قَصد، هَدَف (اَهداف
 - (höchstes) Ziel; غايَت
-- ein Ziel stecken;  .نَصب اُلعِین کَردَن، هَدَف گیرى ک.، هَدَف یابى ک
+- ein Ziel stecken; .نَصب اُلعِین کَردَن، هَدَف گیرى ک.، هَدَف یابى ک
 - Ziel treffen; بِهَدَف زَدَن، نِشانه زَدَن
 - wir setzen uns zum Ziel, dass ...; ما این را هَدَف قَرار می دَهیم
 - er verliess Iran mit dem Ziel Deutschland; به قَصد ِ آلمان ایران را تَرک گُفت
@@ -547,7 +546,7 @@ Zirkel; دايِره کِش، پَرگار
 - literarischer Zirkel; مَحفَل ِ اَدَبیات
 zirkeln; مَحدود کَردَن
 Zirkulation; رَواج، جَریان
-zirkulieren;  .دَر جَریان بودَن، دَر گَردِش ب
+zirkulieren; .دَر جَریان بودَن، دَر گَردِش ب
 - etwas zirkulieren lassen; چیزى را دور گَرداندَن
 - zirkulierendes Kapital; سَرمایه دَر گَردِش
 Zirkus; سیرک
@@ -557,7 +556,7 @@ zischen;
 - zischen, anzischen; کِسی را هِسهِسه کَردَن
 - zischen (Lokomotive); فیش کَردَن، فِسفِس ک
 - das Wasser zischt; آب جِلِز وِلِز مى کُنَد
-- zisch ab!;  !پا شو
+- zisch ab!; !پا شو
 Zisterne; حوض، آب اَنبار
 Zitadelle; دِژ
 Zitat; اِقتِباس، نَقل ِ قول
@@ -628,7 +627,7 @@ Zorn; خَشم، غَضَب
 - im Zorn sagte er ...; لَج دَرآمَده گُفت
 - ich konnte seinen Zornausbruch nicht fassen; مَن نِمى تَوانِستَم خُشونَتَش را باوَر کُنَم
 zornig; خَشمگین، بَر اَفروخته، مُغضَب
-- über jem. zornig sein;  از کِسى خَشمگین شُدَن، دَر این مورِد با کِسى مُتَغَيِر بودَن، ـ قَهر بودَن
+- über jem. zornig sein; از کِسى خَشمگین شُدَن، دَر این مورِد با کِسى مُتَغَيِر بودَن، ـ قَهر بودَن
 - sie wurden zornig; آنها به خَشم آمَدَند
 Zoten; پوچ دَهَن، ناسَزا، شوخى ِ لوس، هَزل، فَحاشى
 - Zoten reissen; ناسَزائى بَر زَبان آوَردَن
@@ -750,7 +749,7 @@ Zugang;
 zugänglich; ِ در دَسترِس
 Zugbelastung; تَنِش ِ کِشِشى
 Zugbrücke; پُل ِ کِشِشى
-zugeben;  .اِقرار کَردَن، اِعتِراف ک.، مُقِر شُدَن، اِذعان ک
+zugeben; .اِقرار کَردَن، اِعتِراف ک.، مُقِر شُدَن، اِذعان ک
 - nicht zugeben; بِروى ِ خود نِمى آوَرَد، زیر ِ بار نَرفتَن
 - wenn wir ehrlich zugeben, dass ...; اَگَر دَر واقِع مى پَذیریم که
 - seine Probleme nicht zugeben; خود را از تَک و تا نِمى اَندازَد
@@ -759,7 +758,7 @@ Zugehörigkeit; تَعَلُق، اِختِصاص
 Zügel; عِنان، لِگام، مَهار، اَفسار
 - jem. die Zügel schiessen lassen; کِسى را بى لِگام کَردَن
 - die Zügel entgleiten ihm; عِنان ِ اِختیار از کَفش مى رَوَند
-- er hat die Zügel aus der Hand gegeben;  اَفسارَش به دَست ِ خودَش نَیستَند
+- er hat die Zügel aus der Hand gegeben; اَفسارَش به دَست ِ خودَش نَیستَند
 zügellos; لاقِید، لِجام گُسیخته، اَفسار گُسیخته، بى لِگام، بى مَهار
 zügeln;
 - nicht zu zügeln; گُسیخته عِنان، مَهار کَردَنى نَبودَن
@@ -850,7 +849,7 @@ Zumutung; اِنتِطار
 zunächst; اَوَلاً، نَخُست، دَر اِبتِداء
 Zunahme; اَفزايِش
 Zündeinstellung; تَنظیم ِ سیستِم ِ جَرَقه زَنى
-zünden;  .جَرَقه زَدَن، آتَش ز
+zünden; .جَرَقه زَدَن، آتَش ز
 Zunder; پوسته
 Zünder; آتَش زَنه
 Zündholz; کِبریت
@@ -902,11 +901,11 @@ zurechtrücken;
 - er rückte s. auf seinem Platz zurecht; او سَر ِ جايَش وول مى خورد
 zurechtstutzen;
 - eine Überzeugung zurechtstutzen; عَقیده را اَبتَر کَردَن
-zurechtweisen;  .مَلامَت کَردَن، سَرزَنِش ک
+zurechtweisen; .مَلامَت کَردَن، سَرزَنِش ک
 Zureden; اِصرار، اِلتِماس ِ بِسیار
 zureiten (Pferd); سوغان گِرِفتَن
 zurichten;
-- zurichten, vorbereiten;  .آماده کَردَن، حاضِر ک
+- zurichten, vorbereiten; .آماده کَردَن، حاضِر ک
 - jem. übel zurichten; لَت و پار کَردَن ِ کِسى
 - ... wie du zugerichtet bist; چه ریختى شُده اى
 zurren;
@@ -967,11 +966,6 @@ zurückschicken; بَرگَرداندَن
 - sie waren in der Gefahr, nach ... zurückgeschickt zu werden; آنها در خَطَر ِ بَرگَردانده شُدَن به ... بودَند
 zurückschlagen; وا زَدَن
 - (Gegenstand) zurückschlagen; چیزى را پَس زَدَن
-ّzurückschrecken;
-- zurückschrecken, zögern; دِل کَردَن
-- sie schrecken nicht zurück vor Manipulationen; آنها دِل نِمی کُنَند از دَست کاری کَردَن
-- er wüde vor einem Verbrechen nicht zurückschrecken; از اِرتِکاب به جُرم رو گَردان نَبود
-- jem., der vor nichts zurückschreckt; کِسى از سَر ِ هیچ چیز نِمى گُذَرَد، او از هیچ کارى روگَردان نِمى شَوَد
 zurücksenden;
 - eingegangene Manuskripte werden nicht zurückgesandt; مَقاله هاى ِ رِسیده مُستَرِد نِمى شَوَند، - بَرگَردانده نِمی شَوَند
 zurückstecken; کوتاه آمَدَن، کوتاهى کَردَن
@@ -982,11 +976,11 @@ zurücktreten; کِناره گیرى کَردَن، اِستعِفا دادَن�
 zurückverlangen; پَس گِرِفتَن
 zurückweichen; از پا نِشَستَن
 - weicht vor niemandem zurück; از هیچکُدام رو گَردان نیست
-zurückweisen;  .از چیزى اِباء کَردَن، چیزى را رَد ک
+zurückweisen; .از چیزى اِباء کَردَن، چیزى را رَد ک
 - einen Menschen wie ... nicht zurückweisen; بَر سینهٔ آدَمى چون ... دَست ِ رَد نَگُذاشتَن
 zurückzahlen; پَس دادَن
 - zurückzahlen, heimzahlen; حَق را به کَف دَست ِ کِسی گُذاشتَن
-zurückziehen (s. -);  .عُزلَت گِرِفتَن، مُنزَوى کَردَن، کِناره گیرى ک
+zurückziehen (s. -); .عُزلَت گِرِفتَن، مُنزَوى کَردَن، کِناره گیرى ک
 - etwas zurückziehen; چیزى را پَس گِرِفتَن
 - er zieht s. zurück; دَست از فَعاليَت مى شويَد
 - s. zurückziehen (i.S.: s. verstecken); خودرا پَس و پَناهی قايِم کَردَن
@@ -999,7 +993,7 @@ zusammen;
 - zusammen mit; ِ توأم با، آنها به هَمراهى ِ يِکدیگَر، به اِتِفاق ِ، هَمراه ِ، پایه پای
 - alle zusammen sprechend; مُتَفِق اُلقول
 Zusammenarbeit; مُفاعِله، هَمکارى
-zusammenarbeiten;  .مُفاعِله کَردَن، هَمکارى ک
+zusammenarbeiten; .مُفاعِله کَردَن، هَمکارى ک
 zusammenballen; اَنباشتَن، مُتَمَرکِز شُدَن، به هَم چَسبیدَن
 zusammenbeissen; بِهَم فِشُردَن
 - mit zusammengebissenen Zähnen; پالوده دَندان، دَندانهاى ِ به هَم فِشُرده
@@ -1016,7 +1010,7 @@ zusammendrücken; مُنقَبِض کَردَن، بِهَم فِشُردَن
 - zusammengedrückt; مُنقَبِض
 zusammenfallen;
 - fällt mit dem 1.4. zusammen; مُصادِف است با اَوَل ِ آپریل
-- zusammenfallend mit;  ِ مُصادِف با، مُنطَبِق
+- zusammenfallend mit; ِ مُصادِف با، مُنطَبِق
 zusammenfassen; خُلاصه کَردَن، به اِجمال بازگوئى کَردَن
 - zusammengefasst; عَلىٰ اُلاَحمال
 Zusammenfassung; خُلاصه، نَتیجه گیرى
@@ -1053,7 +1047,7 @@ zusammenleben;
 - mit jem. zusammenleben; با کِسى دَم ِ خور شُدَن، هَمزیست بودَن
 Zusammenleben (n); هَمزیستى
 zusammenlegen;
-- zusammenlegen (Geld);  .جَمع کَردَن، پَس اَنداز ک
+- zusammenlegen (Geld); .جَمع کَردَن، پَس اَنداز ک
 - zusammenlegen (Tuch); تا کَردَن، بَر چیدَن
 - er legt die Hände hinter seinem Rücken zusammen; او دَستهايَش را پُشتِش جُفت می کُنَد
 zusammennehmen (s. -); خودرا نِگَه داشتَن، خوددارى کَردَن
@@ -1064,7 +1058,7 @@ zusammenpassen;
 - wir passen nicht zusammen; آبَش با مَن دَر يِک جوى نِمى رَوَد
 - die Worte passen nicht zusammen; کَلَمات جُفت و جور نِمی شَوَند
 zusammenpferchen; خِیلى فِشُرده جَمع کَردَن
-- zusammengepfercht leben;  -کُپه کُپه زِندِگى کَردَن، به هَم پَکیده
+- zusammengepfercht leben; -کُپه کُپه زِندِگى کَردَن، به هَم پَکیده
 Zusammenprall; مُصادَمه، بِهَم خوردِگى
 zusammenprallen; بِهَم خوردَن، - اُفتادَن
 zusammenpressen; چَپیدَن، به زور جا گِرِفتَن
@@ -1099,18 +1093,18 @@ zusammenstellen;
 Zusammenstellung (- von Texten); (pl.) تألیف (تألیفات)، تَرکیب (تَراکیب)، تَدوین ِ نِگارِش، فَرايَند
 Zusammenstoss; تَصادُم، مُصادِمه
 zusammenstossen;
-- mit einem Auto zusammenstossen;  با ماشین بَرخورد کَردَن، خورد به هَم، ـ تَصادُف کَردَن
+- mit einem Auto zusammenstossen; با ماشین بَرخورد کَردَن، خورد به هَم، ـ تَصادُف کَردَن
 zusammenstossend; مُصادِم
 Zusammentragen (von Ideen, u.ä.); خوشه جینى
 zusammentreffen;
-- mit jem. zusammentreffen;  با کِسى دیدار کَردَن، ـ بِهَم رِسیدَن، ـ دَست ِ يِکى شُدَن، کِسى را مُلاقات کَردَن
+- mit jem. zusammentreffen; با کِسى دیدار کَردَن، ـ بِهَم رِسیدَن، ـ دَست ِ يِکى شُدَن، کِسى را مُلاقات کَردَن
 - mit dem Zusammentreffen von ...; ِ با تَقارُن
-zusammenziehen; مُنقَبِض شُدَن
-- s. zusammenziehen; مُنقَبِض کَردَن، به هَم کِشیدَن
-- s. vor Schmerz zusammenziehen; از شِدَت ِ دَرد به هَم کِشیدَن
 zusammentun;
 - s. mit jem. zusammentun; با کِسى وَر زَدَن، ـ يِکى کَردَن
 - s. gegen jem. zusamm̀entun; عَلِیه ِ کِسى دَست بِيِکى کَردَن
+zusammenziehen; مُنقَبِض شُدَن
+- s. zusammenziehen; مُنقَبِض کَردَن، به هَم کِشیدَن
+- s. vor Schmerz zusammenziehen; از شِدَت ِ دَرد به هَم کِشیدَن
 zusammenzucken; يَکه خوردَن، جا ـ
 Zusatz; اَفزايِش، اِضافه
 Zusatzartikel; مادهٔ تَکمیلى
@@ -1148,7 +1142,7 @@ Zustand; حالَت، وَضع
 - in dem Zustand gehst du nicht (z.B. in die Schule); با این ریخت نَرو
 zustandebringen; بِعَمَل آوَردَن، به مُنَصهٔ ظُهور رِساندَن
 - sie bringen nichts zustande; چیزى از آنها بَر نِمى آيَد
-zustandekommen;  .چِنین کَردَن، به عَمَل رِسیدَن، بَر قَرار شُدَن، اَنجام ش
+zustandekommen; .چِنین کَردَن، به عَمَل رِسیدَن، بَر قَرار شُدَن، اَنجام ش
 - sie haben Angst, dass ... nicht zustandekommt; آنها وَحشَت دارَند که ... جوش نََخورَد
 zuständig; ذى حَق، ذى صَلاحيَت، صَلاحيَت دار، مَسئول
 - nicht zuständig; بى سَر ِ رِشته
@@ -1261,7 +1255,7 @@ zweckmässig; قابِل ِ اِجراء، عَمَلى
 Zweckoptimismus; خوشبینى ِ عَمدى
 zwecks;
 - zwecks der Erinnerung an ...; به پاس ِ بُزُرگداشت ِ فِلان، به مَنظور ِ ـ
-- zwecks Information von ... schicken wir ...;  جَهَت اِعطِلاع می فرستیم
+- zwecks Information von ... schicken wir ...; جَهَت اِعطِلاع می فرستیم
 zwei; دو
 zweideutig;
 - zweideutige Dinge reden; حَرفهاى ِ سه پَهلو زَدَن
@@ -1302,7 +1296,7 @@ Zwerchfell; دیافراگم
 Zwerg; آدَم ِ کوتولو
 Zwetschge; آلو
 Zwickel (beim Kleid); مُرغَک، خِشتَک
-zwicken;  .نَشگون گِرِفتَن، نیشگون گ
+zwicken; .نَشگون گِرِفتَن، نیشگون گ
 Zwieback; نان ِ سوخارى
 Zwiebel; پیاز
 Zwielicht; خِط ِ اَسوَد
@@ -1332,7 +1326,7 @@ Zwischenzeit;
 - in der Zwischenzeit der ...; دَر خَلال ِ وُقوع
 - in der Zwischenzeit kam ich zu dem Ergebnis; دَر این میان به نَتیجه نائِل آمَدَم
 Zwist; مُنازِعِه، اِختِلاف، مُرافِعه
-zwitschern (auch iron.);  .چَهچَهه زَدَن، جیک ز.، جیر جیر ز
+zwitschern (auch iron.); .چَهچَهه زَدَن، جیک ز.، جیر جیر ز
 Zwitter; نَرموک
 - zwittrige Pflanze; گیاه ِ يِک پایه داراى ِ پَرچَم و مادِگى است
 zwölf; دَوازدَه

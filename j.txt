@@ -1,8 +1,3 @@
-﻿ja; بَلى، آره
-- ich komme ja schon; دارَم میايَم دیگه
-- ja doch (popul.); باشه
-- Gott unser Ja geben; به دَعوَت ِ خُدا لَبِیک بگوئیم
-- Ja-Stimme; رأى ِ مُثبَت
 Jacke; کُت
 - das ist Jacke wie Hose; چه خواجهٔ عَلى چه عَلى خواجه
 - Kombinationsjacke; کُت ِ شَلوار
@@ -18,8 +13,6 @@ jagen; شِکار کَردَن، تازانیدَن، شِکاریدَن
 - hinterherjagen; تاختَن، تَعقیب کَردَن
 - in die Flucht jagen; مُنهَزِم کَردَن
 - jem. in die ... jagen; کِسى را به جائى واصِل کَردَن
-Jäger; شِکار چى، نَخچیروان
-jäh; ناگِهان
 Jahr; سال
 - ein gutes Neues Jahr; سال ِ نوین فَرخَنده باد، سال ِ نو ِ مُبارَک
 - im Jahre 1994; دَر سَنهٔ ۱۹۹۴، دَر سال ِ ـ
@@ -32,7 +25,7 @@ Jahr; سال
 - in den 70er Jahren; دَر سالهاى ِ دَههٔ هَفتاد
 - im 50. Lebensjahr; دَر ۵۰ سالِگى
 - ... ist für die nächsten 100 Jahre genug (alleg.); بَرای ِ هَفت پُشت ِ مَن کافی است...
-Jahrbuch;  کِتاب ِ آمار
+Jahrbuch; کِتاب ِ آمار
 - statistisches Jahrbuch; کِتاب ِ آمار ِ سالانه
 jahrelang; سالهاى ِ سال، ـ مُتَمادى
 Jahreseinkommen; عايِدات ِ سالى
@@ -51,11 +44,9 @@ Jahrhundert; (pl.) (قَرن (قُرون
 jährig;
 - ein 50 - jähriger; مَرد ِ ۵۰ ساله
 - mein langjähriger Freund; دوست ِ چَندین چَند ساله ام
-jährlich; سال به سال، سالانه، هَر سال
 Jahrtausend; دورۀ هِزاره
 - im 3. Jahrtausend; دَر هِزارهٔ سِوُم
 Jahwe (Name Gottes aus dem Alten Testament); يَهُوَه
-Jähzorn; تُند طَبعى، تُندى، حِدَت ِ مِزاج
 jähzornig;
 - jähzornig sein; بَرآشُفته بودَن، تُند طَبع ب.، تُندى کَردَن
 - meine jähzornige Phase; دوران ِ آتَش پارِگی ِ مَن
@@ -75,12 +66,16 @@ Janus; ژانوس
 - Janusgesichtig; هَم از توبره می خوره هَم از آخور
 Jargon; زَبان ِ عامیانه
 Jasmin; یاسمین
-jäten; وِجین کَردَن
-Jäten (n); وِجین
 Jauche; کود ِ اِدرار
 jaulen; عو عو کَردَن، زوزه کِشیدَن
 - jaul nicht rum!; زِر ِ زیادی نَزَن
 Jazz; جاز
+Jäger; شِکار چى، نَخچیروان
+jäh; ناگِهان
+jährlich; سال به سال، سالانه، هَر سال
+Jähzorn; تُند طَبعى، تُندى، حِدَت ِ مِزاج
+jäten; وِجین کَردَن
+Jäten (n); وِجین
 je;
 - je Person 5 Euro; بَراى ِ هَر نَفَر ۵ یورو
 - je schneller, desto besser; هَرچه زودتَر بِهتَر
@@ -114,9 +109,12 @@ jenseits;
 Jenseits (n); دُنیاى ِ نامَرعى، بَعد از مَرگ، آخَرَت
 - jem. ins Jenseits befördern; کِسى را کُشتن، کِسى را به دَیار ِ عَدَم فِرِستادَن، ـ دَیار ِ نیستى ـ
 Jerusalem; اورشَلیم، شَهر ِ قُدس
-Jesus Christus; عیسى مَسیح
 Jesuit; يِسوعى
+Jesus Christus; عیسى مَسیح
 Jet; هَواپیماى ِ جِت
+jetzig; حالیه، کُنونى
+- die jetzige Zeit; مُعاصِرَت
+- zum jetzigen Zeitpunkt; دَر حال ِ حاضِر
 jetzt; کُنونى، اَکنون، اَلان، اَلحال، حالا
 - ab jetzt; از این پَس
 - von jetzt ab in 3-Monatsabständen; از این پَس دَر فَواصِل ِ سه ماهه
@@ -125,9 +123,6 @@ jetzt; کُنونى، اَکنون، اَلان، اَلحال، حالا
 - gerade jetzt; اینَک، هَمین اَلان
 - jetzt oder nie; حالا نَه و کِى
 - ich habe gerade jetzt erst gelesen; مَن هَمین اَلان خواندَم، مَن جَخ خواندَم، جَخ کِتاب خواندَم
-jetzig; حالیه، کُنونى
-- die jetzige Zeit; مُعاصِرَت
-- zum jetzigen Zeitpunkt; دَر حال ِ حاضِر
 Jobvermittlung; دَفتَر ِ کاریابی
 Joch; یوغ، خاموت
 Jockey; اَسب سَوار، سَوار کار
@@ -153,7 +148,6 @@ jucken; خاراندَن
 Jucken (n); خارِش
 Jude; يَهود
 - hier gehts zu wie in einer Judenschule; جَهود بازی دَر آوَردَن
-jüdisch; يَهودى
 Judo; جودو
 Jugend; صَباوَت، جَوانى، نوباوِگان
 Jugendamt; اِدارهٔ اُمور ِ خُرد سالان
@@ -167,14 +161,11 @@ jung; جَوان
 - ich bin der jüngste von allen; مَن از هَمِگان کِهتَرین هَستَم، ـ جَوانترَم
 Junge; پِسَر
 - ein paar Jungens sind eingestiegen; دو سه تا جاهِلان سَوار شُدَند
-Jünger; (pl.) شاگِرد، حَوارى (حَواریون)، پویايَنده، طَرَفدار
-Jüngerschaft; شاگِرد سازى
 Jungfernrede; اَوَلین سُخَنرانى
 Jungfrau; باکِره، بَتول
 - (männliche) Jungfrau; پِسَرَگی
 Jungfräulichkeit; بِکارَت، باکَرِگى، دُختََرِگی
 Junggeselle; مَرد ِ مُجَرَد
-jüngst; قَریب اُلعَصر
 Juni; ژوئِن
 Junta; خونتا
 - Militärjunta; خونتاى ِ نِظامى
@@ -193,10 +184,14 @@ Justierschraube; پیچ ِ تَنظیم
 Justiz; دادگُستَرى، نِصفَت، عَدلیه، اُمور ِ قَضائى
 Justizhoheit; قَلَمروى ِ قَضائى
 Justizirrtum; اِشتِباه ِ قَضائى
-- Justizirrtum (Der Eisenschmied in Balch macht den Fehler, der Kupferschmied in Schusch wird bestraft);  گُناه کَرد دَر بَلخِ آهَنگَرى، به شوش زَدَند گَردَن ِ مِسگَرى
+- Justizirrtum (Der Eisenschmied in Balch macht den Fehler, der Kupferschmied in Schusch wird bestraft); گُناه کَرد دَر بَلخِ آهَنگَرى، به شوش زَدَند گَردَن ِ مِسگَرى
 Justizministerium; عَدلیهٔ وِزارَت، وِزارَت ِ داد گُستَرى
 Jute; کَنَف
 Juwel; (pl.) (جوهَر (جَواهِر
 - Thronjuwelen; جَواهِر ِ سَلطَنَتى
 juwelenbesetzt; مُرَصَع
 Juwelier; مُرَصَعکار، زَرگَر، جَواهِر ساز
+jüdisch; يَهودى
+Jünger; (pl.) شاگِرد، حَوارى (حَواریون)، پویايَنده، طَرَفدار
+Jüngerschaft; شاگِرد سازى
+jüngst; قَریب اُلعَصر

@@ -1,6 +1,3 @@
-﻿ich; مَن، بَنده، اینجانب
-- selbstherrliches Ich; نَفس ِ اَماره
-- mein inneres Ich; ضَمیر ِ خود، خودى ِ خود، نَفس  ِ خود
 Ichsucht; خود خواهی
 Ideal; آرمان، ایدِه ال
 - Glaube an Ideale; ایمان به آرمان
@@ -99,10 +96,10 @@ importieren; .تورید کَردَن، وارِد ک
 imposant; پُر سَطوَت، هِیبَت اَنگیز، تَوَجُه ِ مَردُم را جَلب میکُنَد، جَلب ِ تَوَجُه کُنَنده
 impotent; عَقیم
 Impotenz; سُستى ِ کَمَر، عُقم
-imprägnieren; اِشباع کَردَن
-imprägniert; مُشبَع
 Imprägnierung; اِشباع
 - Imprägnierung von Holz; اِشباع ِ چوب، نِگَهدارى ِ ـ
+imprägnieren; اِشباع کَردَن
+imprägniert; مُشبَع
 Imprägnierungsmittel; جِلوگیرى کُنَنده از فِساد
 Impressum; نِشانى ِ مَطبَعه و تاریخ ِ طَبع ِ کِتاب
 Improvisateur (als Sänger); بَداهه نَواز
@@ -142,11 +139,11 @@ Inbusschraube; پیچ ِ آلِن
 indem;
 - indem er ...; هَمینطور که ...، هَنگامیکه
 - indem er sie nicht beachtet ...; ... او با به هیچ گِرِفتَنِشان آنهارا
+Inder; هِندى
 Index; فِهرِست
 - Index der Lebenshaltungskosten; شاخِص ِ هَزینهٔ زِندِگى
 Indianer; سُرخ پوست
 Indien; هِندوستان
-Inder; هِندى
 indifferent; بى تَفاوُت
 Indigo; وَسمه
 Indikativ; وَجه خَبَرى
@@ -248,7 +245,7 @@ inkrafttreten; بِه اِجرا دَر آمَدَن
 Inkubationszeit; زَمان بِین ِ سَرايَت و پَدید آمَدَن ِ مَرَض
 inmitten;
 - inmitten der Entscheidung; گَرم ا گَرم ِ نَتیجه گیرى
-- inmitten des Kampfes;  دَر بُحبوحهٔ مُبارزه، دَر وَسَط ِ ـ
+- inmitten des Kampfes; دَر بُحبوحهٔ مُبارزه، دَر وَسَط ِ ـ
 innehaben; .بَر عُهده داشتن، دَر اِختیار د
 innehalten; مَکث کَردَن
 - ich habe innegehalten; مُچ ِ خودَم را گِرِفتَم
@@ -256,8 +253,6 @@ innen; دَرون، داخِل
 - innere Unruhe; غوغاى ِ دَرونى
 - inneres Wesen; دَرونَمایه
 Innenraum; فَضاى ِ داخِلى
-Innerweltlichkeit;
-- Innerweltlichkeit Gottes; هَمِگامى و حُضور ِ دائِم ِ خُدا
 Innerei; دِل و جِگَر، دِل و روده
 innerhalb;
 - innerhalb 1 Jahres; دَر ظَرف ِ ۱ سال، دَر عَرض ِ ـ
@@ -267,7 +262,9 @@ innerlich;
 innerparteilich; دُرون ِ حِزبى
 Innerst;
 - das Innerste des Menschen; (pl.) (بَطن ِ اِنسان، ضَمیر ِ اِنسان (ضَمايِر
-- ... hat sein Innerstes so erfüllt, dass ...;  چیزى بِطورى دَر رَگ و پِى او ریشه دَوانیده بود که
+- ... hat sein Innerstes so erfüllt, dass ...; چیزى بِطورى دَر رَگ و پِى او ریشه دَوانیده بود که
+Innerweltlichkeit;
+- Innerweltlichkeit Gottes; هَمِگامى و حُضور ِ دائِم ِ خُدا
 innig; پُر اِخلاص
 Innovation; نو آوَری
 Insasse; سَرنِشین
@@ -457,7 +454,7 @@ Irrer; مَجنون، دیوانه
 irreversibel; غِیر ِ قابِل ِ باز گَشت، يِکجانِبه
 irrig; اِشتِباه، غَلَط
 - das ist eine irrige Meinung; عَقیدهٔ مَغلوط است
-irritieren;  .ذِهن ِ کِسى را مَشوب کَردَن، ـ گیچ ک.، ـ مَغشوش ک
+irritieren; .ذِهن ِ کِسى را مَشوب کَردَن، ـ گیچ ک.، ـ مَغشوش ک
 irrlichtern; پَر و بال زَدَن، به خود پیچیدَن
 irrsinnig; جُنون آمیز
 Irrtum; ضَلَل، خَبط، خَطا، غَلَط، اِشتِباه، سَقَم

@@ -1,6 +1,6 @@
 Nabe; قِسمَت ِ میانی ِ چَرخ، توپی، مِحوَر ِ وَسَط ِ چَرخ
 Nabel; ناف
-- er sieht s. als Nabel der Welt;  او خودَش را مَرکَز ِ جَهان می بینَد، - مِحوَر ِ جَهان می بینَد
+- er sieht s. als Nabel der Welt; او خودَش را مَرکَز ِ جَهان می بینَد، - مِحوَر ِ جَهان می بینَد
 - Nabelschau betreiben; خودبین بودَن
 Nabelschnur; بَند ِ ناف
 nach;
@@ -17,14 +17,14 @@ nach;
 - es sieht nach Streit aus; مِثل ِ اینکه دَرگیری به راه بيُفتَد
 - Katastrophen kommen nach & nach auf ... zu; بَلاها پِی دَر پِی بَر ... می آيَند
 nachäffen; اَدای ِ کِسی را دَر آوَردَن، نَوای ِ کِسی را دَر آوَردَن
-nachahmen;  .تَقلید کَردَن، تأسی ک
+nachahmen; .تَقلید کَردَن، تأسی ک
 Nachahmer; مُقَلِد
 Nachahmung; اِقتِداء، تَقلید
 Nacharbeit;
 - mit jem. Nacharbeit machen; به کِسی کُمَک کَردَن تا ... را بِفَهمَد، پِی ِ کِسی را گِرِفتَن
 Nachbar; هَمسایه
 - dem Nachbar Bescheid sagen; به بَغَل ِ دَستی خَبَر دادَن
-Nachbarschaft;  هَمسايِگی
+Nachbarschaft; هَمسايِگی
 - in unserer Nachbarschaft; دَر جَوار ِ ما، دَر هَمسايِگی ِ ما
 - Politik der guten Nachbarschaft; سیاسَت ِ حُسن ِ هَمجَواری
 Nachbearbeitung; عَمَلیات ِ تَکمیلی
@@ -147,6 +147,7 @@ Nachspiel;
 - wird ein weiteres Nachspiel haben; پِیگیری ِ بیشتَری بَرای ِ ... اَنجام دَهَند
 nächst;
 - er ist nächst dem Haus; او از هَمه نَزدیکتَر به خانه است
+Nächstbester; هَرکَس و ناکَس
 nächste;
 - das nächste Mal; بَعداً، دَفعهٔ بَعدی
 - in nächster Zeit; به زودی، عَنقَریب
@@ -155,7 +156,6 @@ nächste;
 - der Nächste, bitte; لُطفاً نَفَر ِ بَعدی
 - jeder ist s. selbst der Nächste; هَر کَس به فِکر ِ خویش است کوسه به فِکر ِ ریش است، گوسفَند به فِکر ِ جانَش اَست قَصاب به فِکر ِ دُنبه
 - der Nächste ist manchmal der Nachbar und nicht der entfernte Bruder; هَمسايهٔ نَزديک بِهتَر از بَرادَر ِ دور است
-Nächstbester; هَرکَس و ناکَس
 nachstehen (jem. -); کَمتَر از کِسی بودَن، پائینتَر ـ
 nachsteigen (jem. -); دُنبال ِ کِسی اُفتادَن
 - er steigt mir ständig nach; او خِیلی زاغ ِ سیاه مَرا چوب می زَنَد، او ذاغَم را ـ
@@ -164,7 +164,7 @@ Nacht; شَب
 - eines Nachts; شَبی
 - bleiben Sie über Nacht hier!; شَب را اینجا بِمانید
 - die Nacht zum Tag machen; شَب زِنده داری کَردَن
-- Nachts sind alle Katzen grau;  شَب گُربه سَمور می نَمايَد
+- Nachts sind alle Katzen grau; شَب گُربه سَمور می نَمايَد
 Nachtblindheit; شَبکوری
 Nachteil; زیان، مَعایِب، ضَرَر
 - Nachteil erleiden; مُتَحَمِل ِ ضَرَر شُدَن
@@ -302,7 +302,7 @@ Nase; مَشام، بینی، دَماغ
 - s. die Nase putzen; دَماغ گِرِفتَن
 - Ich habe die Nase voll; کَلافه ام شُده، کَلافه شُدَم
 - stecke deine Nase nicht in die Angelegenheit anderer Leute; دَر کار ِ دیگَران باریک نَشو، کاری به کار ِ دیگَران نَداشته باش، بُرو دُنبال ِ کارِت، دِخالَت نَکُن، فُضولی نَکُن
-- ich will nicht, dass sie überall ihre Nase reinstecken;  نِمیخواهَم که توی ِ هَر اُطاقی سَر می کُنَند
+- ich will nicht, dass sie überall ihre Nase reinstecken; نِمیخواهَم که توی ِ هَر اُطاقی سَر می کُنَند
 - alle Naselang; هَر چَند وَقت يِک بار
 näselnd; تو دَماغی
 Nasenbein; خار ِ بینی، اُستُخوان ِ بینی
@@ -416,7 +416,7 @@ nennen; کِسی را نامیدَن، اِسم بُردَن
 - wenn man X nennt, kommt er gerennt (popul.); اِسم ِ فِلان را می بَری فوری حاضِر می شَوَد
 - was man so kennen nennt; تا شِناختَن چه باشَد
 - genannt, bezeichnet; مُسَمی
-- die ... genannt wird;  که اِسم آنرا ... گُذاشته میشَوَد
+- die ... genannt wird; که اِسم آنرا ... گُذاشته میشَوَد
 - Nennung des Namens; اِظهار ِ اِسم
 Nenner; بَرخه نام، مُخرِج
 - auf keinen Nenner kommen; به هیچ صَراطی ِ مُستَقیم نَبودَن، آبِشان از یِک جوی نَرَوَد
@@ -448,7 +448,7 @@ Nettigkeit;
 - weitere Nettigkeiten waren: ...; از شیرین کارهای ِ دیگَر
 Netto; خالِص
 - Nettoeinkommen; دَرآمَد ِ خالِص
-- Nettogewinn (30,- Euro Gewinn);  (سود ِ ویژه (۰۳ یورو مُک
+- Nettogewinn (30,- Euro Gewinn); (سود ِ ویژه (۰۳ یورو مُک
 - Nettosozialprodukt; تولید ِ خالِص ِ مِلی
 Netz; تور
 - Netz knüpfen; تور بافتَن
@@ -597,7 +597,7 @@ Niederlegung;
 niedermachen (jem. -); کِسی را سِکهٔ يِک پول کَردَن
 Niederschlag; بارِش ِ باران، نُزولات، بارَندِگی
 - radioaktiver Niederschlag; نُزولات ِ رادیوئی
-- Niederschlag von Rückständen (bilden);  (لای، رُسوب (- اُفتادَن
+- Niederschlag von Rückständen (bilden); (لای، رُسوب (- اُفتادَن
 niederschlagen;
 - ein Verfahren niederschlagen; دادرَسی را لَغو کَردَن
 - Niederschlagen eines Aufruhrs; سَرکوب ِ اِغتِشاش، فُرو نِشاندَن ِ عُصیانی
@@ -670,10 +670,10 @@ Nominierungsausschuss; هِیئَت ِ تَعیین ِ کاندیدا
 Nonne; راهِبه
 Nonsens; مُزَخرَفات
 nonstop; بی تَوَقُف، يِکسَره
-Norden; شُمال
-Nordamerika; آمریکای ِ شُمالی
-Nordsee; دَریای ِ شُمال
 Nord-Süd-Gefälle; اِختِلاف ِ سَطح ِ زِندِگی ِ شُمال و جُنوب
+Nordamerika; آمریکای ِ شُمالی
+Norden; شُمال
+Nordsee; دَریای ِ شُمال
 Nörgelei; بَهانه گیری، بَهانه جوئی، ایراد گیری، نِق
 nörgeln; .نِق نِق زَدَن، نِق ز.، ایراد گِرِفتَن، خُرده گ
 - nörgeliger Kunde; مُشتَری ِ ایرادی
@@ -722,11 +722,11 @@ notfalls; دَر صورَت ِ لُزوم، وَقتیکه ایجاب کُنَد
 notgedrungen; ناگُزیر
 - notgedrungen etwas bezüglich ... machen; ناگُزیر به چیزی شُدَن
 Nothilfe; کُمَک ِ ضَروری
-notieren;  .دَرج کَردَن، یاد داشت ک
+notieren; .دَرج کَردَن، یاد داشت ک
 notiert; دَرج شُده
 Notifizierung; تَذکار
 nötig;
-- nötig sein;  لُزومی داشتن، ضَرورَت د.، ضَروری بودَن، مُقتَضىٰ ب.، لازِم ب.، مُبرَم بودَن
+- nötig sein; لُزومی داشتن، ضَرورَت د.، ضَروری بودَن، مُقتَضىٰ ب.، لازِم ب.، مُبرَم بودَن
 - bis jetzt hatte ich ihn noch nicht nötig; مَن هَنوز اِحتیاجَم به او نَيُفتاده بود
 - ich glaub, du hast das nötig (i.S.: Bestrafung); به نَظَرَم تَنِت می خورَد
 nötigen;
@@ -750,13 +750,13 @@ notwendig;
 - wechselseitig notwendig; لازِم و مَلزوم
 - notwendiges Erzeugnis; تولید ِ مورِد نیاز
 - etwas wird als notwendig erachtet; چیزی اِقتِضا کَردَن
+notwendigerweise; لاجَرَم
 Notwendigkeit; (pl.) ضَرورَت (ضَرورات)، مُقتَضی (مُقتَضیات)، لُزوم (لُزومات)، اِقتِضاء
 - Notwendigkeit haben; لُزومی داشتَن
 - dringende Notwendigkeit; اِحتیاج ِ مُبرَم
 - je nach Notwendigkeit; بَر حَسب ِ لُزوم
 - die die Notwendigkeit zu ... erfordert; که نیاز به ... می گَردانَد
 - Notwendigkeiten der Zivilisation; اِلزامات ِ تَمَدُن
-notwendigerweise; لاجَرَم
 Notzucht; هَتک ِ ناموس، ـ غَرَض، تَجاوُز
 Novelle; داستان
 - Gesetzesnovelle; طَرح ِ اِصلاح ِ قانون
@@ -773,8 +773,8 @@ Nüchternheit;
 - in Nüchternheit, bei klarem Kopf; دَر هوشیاری
 - in aller Nüchternheit; با صَحو ِ تَمام
 Nuckel; پِستانَک
-Nudelholz; وَردَنه
 Nudel; رِشته، ماکارونی
+Nudelholz; وَردَنه
 nuklear; هَسته ای
 - nukleare Rüstung; تَسلیحات ِ هَسته ای
 Nuklearenergie; اِنِرژی ِ هَسته ای
@@ -823,6 +823,10 @@ Nut; زِه وار، شیار، فاق
 Nutzeffekt; راندِمان، بازده
 nutzen; اِستِفاده کَردَن
 - die Gelegenheit nutzen; فُرصَت را مُغتَنَم شُمُردَن، از فُرصَت اِستِفاده کَردَن
+nützen; فایده داشتن
+- das nützt mir; به دَرد ِ مَن می خورَد، مَنفَعَت می بینَم
+- etwas kaufen, was jem. nützt; يِک چیز بَرای ِ دَردخوری ِ کِسی خَریدَن
+- wem nützt das (z.B. eine Reise)?; آبَش نَبود نانَش نَبود ... اش چه بود؟؛ بِطور ِ مِثال: آبَت نَبود نانَت نَبود توی ِ این بَرف سَفَر کَردَنَت چه بود؟
 Nutzen (m); مَنفعَت، بَهره، فایده، اَرزِش، هوده، هُده
 - zum Nutzen; ِ بَرای ِ خِیريَت، ـ اِنتِفاع، به نَفع
 - Nutzen ziehen (allg.); مُستَفید شُدَن، بَهره بُردَن، بَهره گِرِفتَن، سود بُردَن، اِستِفاده کَردَن
@@ -833,14 +837,10 @@ Nutzen (m); مَنفعَت، بَهره، فایده، اَرزِش، هوده،
 - für sich den größten Nutzen herausholen; پول ِ نَداده میان ِ لَحاف خوابیده
 - der Helfer hat den größten Nutzen; آتَش از آتَش گُل کُنَد، یاری بِيِکدیگَر مایهٔ سَعادَت ِ یاری دَهَندِگان است
 - denk nicht nur an den Nutzen des Augenblicks; هَر چه دَر نَظَرِت خوار آیَد روزیَت به کار آیَد
-nützen; فایده داشتن
-- das nützt mir; به دَرد ِ مَن می خورَد، مَنفَعَت می بینَم
-- etwas kaufen, was jem. nützt; يِک چیز بَرای ِ دَردخوری ِ کِسی خَریدَن
-- wem nützt das (z.B. eine Reise)?; آبَش نَبود نانَش نَبود ... اش چه بود؟؛ بِطور ِ مِثال: آبَت نَبود نانَت نَبود توی ِ این بَرف سَفَر کَردَنَت چه بود؟
 Nutzfahrzeug; وَسیلهٔ نَقلیهٔ عام اُلمَنفِعه
 Nutzlast; بار مُفید
 nützlich; مُفید
-- nützlich sein;  .کار ساز بودَن، سازَنده ب.، سودمَند ب.، مَنفَعَت ب.، مُفید ب
+- nützlich sein; .کار ساز بودَن، سازَنده ب.، سودمَند ب.، مَنفَعَت ب.، مُفید ب
 - für nützlich halten; مَصلَحَت دانِستَن، ـ دیدَن
 - kein Beweis für die Nützlichkeit seines Berufes; دَلیل بَر بَهره وَر بودَن ِ شُغل ِ او نیست
 nutzlos; نافَرجام، هَدَر، باطِل

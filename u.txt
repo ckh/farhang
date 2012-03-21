@@ -1,5 +1,6 @@
 U-Bahn; راه ِ آهن ِ زیر زَمینى، مِترو
 u.a. (unter anderem); ِ مِنجُمله، از قَبیل
+u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)، و اِلىٰ آخَر، و غِیره
 übel;
 - jem. wird übel; حال ِ کِسى بِهَم مى خورَد
 - nicht übel sein (z.B. Zeitungsartikel); بَدَک نَبودَن
@@ -7,18 +8,18 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - mit denen, die ihm übel wollen; با کِسانى که اورا دَست اَندازَند
 - jem. übel mitspielen; بَراى ِ کِسى خَط و نِشان کِشیدَن
 - übler Bursche; آدَم ِ شَریر
-- jem. übel behandeln;  .کِسی را شَل و پَل کَردَن، با کِسی بَد رَفتاری ک
+- jem. übel behandeln; .کِسی را شَل و پَل کَردَن، با کِسی بَد رَفتاری ک
 Übel (n);
 - gesellschaftliches Übel; مَفاسِد ِ اِجتِماعى
-Übelkeit; تَهَوُع
-- Zustand der Übelkeit; حالَت ِ تَهَوُع
 übel nehmen;
 - jem. etwas übel nehmen; از کِسى عَبوسى کَردَن
+Übelkeit; تَهَوُع
+- Zustand der Übelkeit; حالَت ِ تَهَوُع
 Übelstand; نَقیصه، غَلَط
 Übeltäter; مُجرِم، آدَم ِ خَلافکار
 übelwollend; بَد اَندیش، بَد خواه
 üben; تَمرین کَردَن
-- etwas üben;  .چیزى را مَشق کَردَن، ـ تَمرین ک
+- etwas üben; .چیزى را مَشق کَردَن، ـ تَمرین ک
 - mit jem. üben; فلان را چیزى مَشق دادَن
 - das Einmaleins üben; مَشق ِ ضَرب را دادَن، ضَرب را مَشاقى کَردَن
 über;
@@ -26,7 +27,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - Stelle über der Augenbraue; جائى ِ فَراز ِ اَبرو
 - über dem Hemd; بَر زَبر ِ پیراهَن
 - über Nacht; دَر عَرض ِ يِک شَب
-- über die Kräfte sein;  .خارِج از اَندازه بودَن، از حَد ِ رَمَق خارِج ب
+- über die Kräfte sein; .خارِج از اَندازه بودَن، از حَد ِ رَمَق خارِج ب
 - er beugt s. über einen Tisch; پُشت ِ میز قوز مى کُنَد
 - über diese Angelegenheit; دَر باب ِ این کار
 - der Zug dröhnt über die Gleise; قَطار بَر فَراز ِ خُطوط مى غَرَد
@@ -54,9 +55,9 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - Glückwunsch überbringen; تَبریک عَرض کَردَن
 - Grüsse von jem. überbringen; سَلامى ِ کِسى را رِساندَن
 Überbringer (Brief); حامِل
+Überbrückungsschalter; کِلید ِ باى پاس
 überbrücken;
 - einen Abgrund überbrücken; پُل بَر شِکاف زَدَن
-Überbrückungsschalter; کِلید ِ باى پاس
 überdachen; مَسقَف کَردَن
 überdacht; مُسَقِف
 - überdachter Platz; جاى ِ سَرپوشیده، سایه بان
@@ -78,7 +79,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - mit jem. eine Übereinkunft treffen; با کِسى به قَرار و مَدار رِسیدَن
 - mit den Brauteltern eine Übereinkunft treffen; بَله بُری کَردَن با
 - es gibt eine Übereinkunft darüber, dass Sünde Trennung von Gott bedeutet; اِجماع دَر این مورِد است که گناه به معَنی جُدائی از خُدا است
-übereinstimmen;  .تَوافُق شُدَن، ـ داشتَن، اِتِفاق ِ نَظَر داشتَن، تَطبیق ش.، اِطلاق ش
+übereinstimmen; .تَوافُق شُدَن، ـ داشتَن، اِتِفاق ِ نَظَر داشتَن، تَطبیق ش.، اِطلاق ش
 - mit ... übereinstimmen; به چیزى اِنطِباق یافتن، با چیزی هَمخوانی داشتَن
 - wir stimmen jetzt überein; حالا به هَم رِسیدیم
 - Aussagen stimmen überein; اِظهارات جور مى آيَند
@@ -88,7 +89,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - übereinstimmende Meinung; اِتِفاق ِ نَظَر
 Übereinstimmung; اِنطِباق، هَماهَنگى، مُوافِقَت، تَوافُق
 - Übereinstimmung in vielen Punkten; اِنطِباق دَر نُقاط ِ زیاد
-- zur Übereinstimmung bringen mit ...;  چیزى را به چیزى اِطلاق کَردَن، ـ هَموار ک.، ـ هَمسازى ک، با ...  جُفت و جور کَردَن
+- zur Übereinstimmung bringen mit ...; چیزى را به چیزى اِطلاق کَردَن، ـ هَموار ک.، ـ هَمسازى ک، با ...  جُفت و جور کَردَن
 - die Welt ist in Übereinstimmung mit den  Wünschen von ...; دُنیا بَر وَفق ِ مُراد ... است
 - diese Dinge sind in Übereinstimmung mit ...; این چیزها با ... وَفق مى دَهَند، - جُفت و جور هَستَند
 - ... mit dem Gesetz in Übereinstimmung bringen; با قانون سازگار کُنَد
@@ -103,7 +104,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - überfallen wir sie nachts; شَبیخون بِزَنیم به ایشان
 - Furcht überfällt sie alle (*:Furcht); هول به جان ِ هَمه می اُفتَد
 überfällig;
- - sie sind bereits seit 2 Stunden überfällig; آنها بايَستی دو ساعت اینجا باشند، آنها تا به حال دو ساعَت تآخیر دارَند
+- sie sind bereits seit 2 Stunden überfällig; آنها بايَستی دو ساعت اینجا باشند، آنها تا به حال دو ساعَت تآخیر دارَند
 - die Überweisung ist längst überfällig; پول بايَستی مُدَتها پیش پَرداتته شُده باشَد
 überfliegen;
 - den Text überfliegen; مَتن را سَرسَرى خواندَن
@@ -112,14 +113,14 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 überfliessen; لَبریز شُدَن
 - überfliessende Freude; شادى ِ فَراوان، ـ غِیر ِ قابِل ِ وَصف، فَراوانى ِ خوشى
 Überflug (des Gebietes); پَرواز بَر فَراز ِ مَنطَقه
-überflügeln;
-- er hat seinen Lehrer überflügelt; او از مُعَلِمَش هَم جِلو زَده
 Überfluss; سَر شارى، اَفزونى، زیادى، مازاد
 Überflussgesellschaft; جامعهٔ فَراوانى، ـ وُفور
+überfluten; بَر کِنارهها سِیلان شُدَن، آب بُلَند مى شَوَد
+überflügeln;
+- er hat seinen Lehrer überflügelt; او از مُعَلِمَش هَم جِلو زَده
 überflüssig; زائِد
 - s. überflüssig vorkommen; خودرا خِرِفت کَردَن
 - überflüssige Worte; حَشو ِ زائِد
-überfluten; بَر کِنارهها سِیلان شُدَن، آب بُلَند مى شَوَد
 überführen;
 - Leichnam überführen; از قَبر بیرون کَرده گور بِگور کَردَن، جَسَد اِنتِقال مى یابَد
 - der Sünde überführen; مُلزَم به گُناه کَردَن، اِلزام ِ اِنسان نِسبَت به گُناه
@@ -134,7 +135,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 Übergangsstelle; گُذَرگاه
 Übergangszone (Metallurgie); ناحیهٔ حَرارَت دیده
 übergeben;
-- jem. etwas übergeben; (präs.)  چیزى را به کِسى تَفویض کَردَن، چیزى را تَحویل ِ کِسى دادَن، ـ سِپُردَن (مى سِپارَد) به کِسی 
+- jem. etwas übergeben; (präs.)  چیزى را به کِسى تَفویض کَردَن، چیزى را تَحویل ِ کِسى دادَن، ـ سِپُردَن (مى سِپارَد) به کِسی
 - übergib ihnen den Artikel als von dir geschrieben; بِعُنوان ِ مَقالهٔ خود تَحویلِشان بِدَهى
 - s. übergeben (*:erbrechen); اُغ زَدَن
 übergehen;
@@ -239,11 +240,11 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - übernommene Idee; عَقیدهٔ اِلقائى
 - sie haben uns übernommen; آنها مارا تَحویل گِرِفتَند
 - er hat s. übernommen; او بیش از حَدى مَسئوليَت را به عُهده گِرِفت
-überprüfen;  .باز بینى کَردَن، باز رِسى ک
-- sein Aussehen überprüfen; نِگاهى به سَر و وَضع ِ خود اَنداختَن
-- sein Leben überprüfen; زِندِگى ِ خودرا مُرور کَردَن، ـ تَشخیص دادَن
 Überprüfung; بَررِسی
 - Überprüfung der Gesetzesvorlage; بَررِسى ِ لايِحِه
+überprüfen; .باز بینى کَردَن، باز رِسى ک
+- sein Aussehen überprüfen; نِگاهى به سَر و وَضع ِ خود اَنداختَن
+- sein Leben überprüfen; زِندِگى ِ خودرا مُرور کَردَن، ـ تَشخیص دادَن
 überqueren;
 - die Strasse überqueren; از عَرض ِ جاده گُذَشتَن، خیابان را عُبور کَردَن
 überragen;
@@ -264,8 +265,8 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 Überraschungsangriff; حَملهٔ غافِلگیرانه
 überreden; دِل ِ کِسى را نَرم کَردَن، ـ مُلايِم ک.، ـ به رِقَت آوَردَن
 - jem. überreden zu etwas; کِسى را فِریفتَن، ـ به سُخَنان ِ دِلاویز اِغوا کَردَن، حَرف به گوش ِ کِسى خواندَن
-überreichen;  .تَسلیم کَردَن، تَقدیم ک
-- eine Note überreichen;  .یادداشتى تَسلیم کَردَن، - اِهداء ک، - حَوالهٔ کِسی ک
+überreichen; .تَسلیم کَردَن، تَقدیم ک
+- eine Note überreichen; .یادداشتى تَسلیم کَردَن، - اِهداء ک، - حَوالهٔ کِسی ک
 Überreichung; تَسلیم، اِهداء
 - Überreichung des Beglaubigungsschreibens; تَسلیم ِ اُستُوارنامه، اِهداء ِ ـ
 überrennen (jem. -); بَر کِسى مُستولى شُدَن
@@ -287,7 +288,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 überschäumen;
 - seine Vergangenheit ist nicht so überschäumend als die von ...; گُذَشته اش از ... بَسى کَمرَنگتَر است
 überschlagen;
-- überschlagen, schätzen;  .تَخمین زَدَن، حَدس ز
+- überschlagen, schätzen; .تَخمین زَدَن، حَدس ز
 - s. überschlagen (Auto); چَپه شُدَن
 - seine Stimme hat s. beim Sprechen überschlagen; زَبانَش تُتُق مى زَد، صِدايَش را از آهَنگ اَنداخت
 überschnappen; عَقل از سَر ِ کِسى مى پَرَد
@@ -295,7 +296,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - Kompetenzüberschneidung; تَداخُل ِ صَلاحيَت ها
 überschreiben;
 - überschreiben (Artikel, u.ä.); عُنوان گُذاشتَن
-- jem. etwas überschreiben;  .چیزى را به کِسى اِنتِقال دادَن، ـ تَحویل د
+- jem. etwas überschreiben; .چیزى را به کِسى اِنتِقال دادَن، ـ تَحویل د
 - überschrieben; مُعَنوَن
 Überschreitung;
 - Überschreitung der Befugnisse; تَخَطى از اِختیارات
@@ -304,10 +305,10 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 Überschuss; زیادَتى، مازاد، اِضافه
 - Elektronenüberschuss; فُزونى ِ اِلِکترون
 - Leistungsbilanzüberschuss; مازاد ِ حِساب ِ جارى
-überschüssig; زائِد
-- überschüssige Kapazität; ظَرفيَت ِ اِضافى
 überschwemmen; چیزى را دَر خود غَرق کَردَن، سِیل گِرِفتَن، زیر ِ آب قَرار دادَن
 Überschwemmung; طُغیان ِ آب، سِیل، فَيَضان، سِیلاب
+überschüssig; زائِد
+- überschüssige Kapazität; ظَرفيَت ِ اِضافى
 übersehen; نادیده گِرِفتَن
 - indem er sie völlig übersieht; او با به هیچ گِرِفتَنِشان آنهارا
 - jem., der andere übersieht; (popul.)  (کَم مَحَلی (چُس مَحَلی
@@ -335,21 +336,21 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 überstimmen (jem. -); کِسى را با کَثريَت ِ آراء غَلَبه کَردَن، ـ با اکَثريَت ِ آراء رَد کَردَن
 überstrahlen;
 - überstrahlt von; تَحت اُلشُعاع شُده از
+Überstunden; کار اِضافى، اِضافه کارى
 überstülpen;
 - jem. etwas überstülpen; چیزى را بَر کِسى تَحمیل کَردَن
-Überstunden; کار اِضافى، اِضافه کارى
 überstürzen;
 - überstürze nichts; جوجه را آخَر ِ پائیز می شُمارَند، نَبايَد سَر سَرى گِرِفت
 - überstürzt; با دَستپاچِگى، تُند تُند، شِتابزَده
 - überstürzt handeln; از بیگُداری به آب زَدَن
-übertölpeln;  .کِسى را مَکر کَردَن، اِغفال ک.، فَریفتَن، خَر ک
+übertölpeln; .کِسى را مَکر کَردَن، اِغفال ک.، فَریفتَن، خَر ک
 Übertölpelung; (pl.)  مَکید (مَکائِد)، مَکر
 übertönen; پوشاندَن
 - seine Stimme übertönt die der anderen; صِدای ِ او بَقیهٔ صِداهارا می پوشانَد
 Übertopf; جا گُلدانى
 übertragbar;
 - übertragbare Stimmen (bei Wahl); رأى ِ قابِل ِ اِنتِقال، ـ اِنتِقال پَذیر
-übertragen;  .مُحَوَل کَردَن، مُنتَقِل ک.، واگُذار ک
+übertragen; .مُحَوَل کَردَن، مُنتَقِل ک.، واگُذار ک
 - jem. etwas übertragen; حَواله کَردَن به
 - jem. eine Aufgabe übertragen; وَظیفه را به کِسى مُحَوَل کَردَن
 - Besitz übertragen; تَملیک کَردَن
@@ -361,9 +362,9 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 Übertragung; اِنتِقال
 - Übertragung von Rechten; واگُذارى ِ حَق، تَفویض ِ ـ، اِنتِقال ِ ـ
 - Besitzübertragung; تَملیک
-übertreffen;  .بَر چیزى تَفَوُق داشتَن، ـ اَفزون آمَدَن، بَرتَرى داشتَن، مِهتَرى د
+übertreffen; .بَر چیزى تَفَوُق داشتَن، ـ اَفزون آمَدَن، بَرتَرى داشتَن، مِهتَرى د
 - übertreffen an; تَحت اُلشُعاع قَرار دادَن، ـ دَر آوَردَن
-übertreiben;  .اِغراق کَردَن، اِفراط و تَفریط ک.، مُبالِغه ک
+übertreiben; .اِغراق کَردَن، اِفراط و تَفریط ک.، مُبالِغه ک
 - nicht übertreiben; پاى ِ خودرا از قالى دِرازتَر نَکَردَن
 - übertrieben; اِغراق آمیز، مُبالِغه آمیز
 - übertreibend; اِفراط آمیز، اِغراق آمیز
@@ -407,7 +408,7 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 Überwurf; بالاپوش
 Überwurfmutter; مُهر ِ کُلاهَک دار
 Überzählig; (- sein) مازاد (بودَن
-überzeugen;  .کِسى را مُجاب کَردَن، قَبولانیدَن، قانِع ک.، مُعتَقِد ک.، مُتَيَقِن ک
+überzeugen; .کِسى را مُجاب کَردَن، قَبولانیدَن، قانِع ک.، مُعتَقِد ک.، مُتَيَقِن ک
 überzeugend; بِاليَقین
 überzeugt; مُطمَئِن، مُتَقاعِد، مُعتَقِد
 - das einzige, wovon er überzeugt wurde ...; از تَنها چیزى که دِلِش قُرص بود
@@ -444,13 +445,13 @@ u.a. (unter anderem); ِ مِنجُمله، از قَبیل
 - was bleibt mir ihm gegenüber andere übrig?; دَستَم زیر ِ سَنگَش است
 - von dem ist nicht viel übrig geblieben; قیافه اش مِثل ِ عَکس ِ شیش دَر چَهار مى نَمايَد
 - übrig gebliebenes; مانده گار
-übriges; مابَقى
+übrig sein; باقی بودَن
 übrigens; راستى، وانَگاهی، بِعِلاوه
+übriges; مابَقى
 übrighaben;
 - nichts für jem. übrighaben; بَراى ِ کِسى چیزى قائِل نِمى شَوَد
 - ich habe für Musik nichts übrig; مَن از موسیقی خوشَم نِمی آيَد
 - hast du etwas Geld übrig?; دیگََر کَمی پول بَرای ... باقی مانده بود؟
-übrig sein; باقی بودَن
 Übung; تَمرین
 - Lockerungsübung durchführen (beim Sport); اُستُخوان نَرم کَردَن
 Ufer; (pl.) ساحِل (سَواحِل)، کِناره
@@ -477,7 +478,7 @@ um;
 - um euretwillen; دَر حَق ِ شُما
 - ich wette um einen Ball; مَن شَرط مى بَندَم سَر ِ توپ
 - Kampf um die Führung; مُبارِزه بَراى ِ رَهبَرى
-- um ... herum;  ... ِ حول
+- um ... herum; ... ِ حول
 - um die Achse; حول ِ مِحوَر
 - sie sprangen um ... herum; بَر سَر ِ ... خَم و راست شُدَند
 - um nicht ...; تا مَبادا
@@ -488,7 +489,7 @@ um;
 - um s. auszuruhen; به قَصد ِ اِستِراحت
 - so um die ...; ... ِ حول و حوش
 umarmen (jem. -); دَست به گَردَن ِ کِسی اندختَن، بَغَل گِرِفتَن
-- eng umarmen;  .تَنگ دَر آغوش گِرِفتَن، ـ بَغَل گ
+- eng umarmen; .تَنگ دَر آغوش گِرِفتَن، ـ بَغَل گ
 Umarmung; مُعانِقه، دَر آغوش گیرى
 Umbau; تَغییر ِ بَنا
 umbenennen; تَغییر ِ اِسم دادَن
@@ -498,8 +499,8 @@ umbilden; عَوَض کَردَن، تَغییر دادَن
 umblättern; وَرَق زَدَن
 umbringen; کِسى را مَقتول ساختن، ـ کُشتَن
 - die Müdigkeit kann uns umbringen; خَستِگى قادِر است مارا از پا دَر بیاوَرَد
-umdrehen;  بَر گَرداندَن، چَرخاندَن
-- umdrehen, Innenseite nach aussen;  .پُشت ِ رو کَردَن، زیر و رو ک
+umdrehen; بَر گَرداندَن، چَرخاندَن
+- umdrehen, Innenseite nach aussen; .پُشت ِ رو کَردَن، زیر و رو ک
 - s. umdrehen, umkippen; چَپه شُدَن
 - etwas umdrehen; چیزى را وارونه کَردَن، وارون اَنداختَن، - زَدَن
 - Fleisch umdrehen; گوشت را چَپه کَردَن
@@ -668,7 +669,7 @@ umstritten; مُتَنازِع، جَدال آمیز
 Umstrukturierungsprozess; رَوَند ِ بازسازى
 Umsturz; بَراندازى، سَرنِگون سازى
 - Staatsumsturz verursachen; کودِتا کَردَن
-umstürzen;  .واژگون کَردَن، سَرنِگون ک
+umstürzen; .واژگون کَردَن، سَرنِگون ک
 Umtausch; مُبادِله، تَعویض
 - Geldumtausch; تَبدیل ِ پول
 Umtrieb; توطئه
@@ -693,6 +694,7 @@ umziehen;
 - umziehen (von Stadt zu Stadt); بُنه کَن رَفتَن به
 umzingeln; مُحاصِری کَردَن، دور ِ کِسی را گِرِفتَن
 Umzug; اسباب کِشى، نَقل ِ مَکان
+UN-Generalsekretär; دَبیر ِ کُل ِ سازِمان ِ مِلَل
 unabhängig; مُطلق اُلعِنان، مُستَقِل، غِیر ِ وابَسته، بَرا از
 - unabhängig von der Regierung; وابَسته نَبودَن به دولَت
 - macht s. unabhängig von ...; دَر قَطع ِ وابَستِگى قَرار مى گیرَد
@@ -725,7 +727,7 @@ unanständig; ناسَزا
 Unantastbarkeit; مَصونيَت، حُرمَت
 unappetitlich; اِشتِها بُر
 unauffällig; فِرز، بِدون ِ جَلب ِ تَوَجُه
-unauffindbar (- sein);  .نایاب بودَن، نَیافتَنى ب
+unauffindbar (- sein); .نایاب بودَن، نَیافتَنى ب
 - er blieb unauffindbar; او غِیبَش زَده بود
 unaufgebbar;
 - unaufgebbarer Bestandteil; جُز لايَتَجَزا
@@ -736,12 +738,12 @@ unaufhaltsam; جِلوگیرى ِ ناپذَیر
 unaufhörlich; بى تابانه، لايَنقَطع
 - es regnet unaufhörlich; باران يِک ریز مى بارَد، یِک بَند مى بارَد
 unaufmerksam; بی حَواس، سَر به حَوا، بی تَوَجُه
-unaufrichtig; مُعَوَج، دورَنگ، ناصادِق
-- unaufrichtig sein; آب دَر شیر داشتَن، دورو و مُنافِق بودَن
-Unaufrichtigkeit; تَزویر
 Unaufmerksamkeit; خَبط، حَواس پَرتى
 - ich bin seine Unaufmerksamkeit leid; از سَر به هَوائى ِ این شَخص خَسته شُدَم
+unaufrichtig; مُعَوَج، دورَنگ، ناصادِق
+- unaufrichtig sein; آب دَر شیر داشتَن، دورو و مُنافِق بودَن
 unaufrichtig (- sein); ریگ به کَفَش داشتَن، صادِق نَبودَن
+Unaufrichtigkeit; تَزویر
 unausbleiblich;
 - unausbleiblich sein bezüglich; ناگُزیر به چیزى شُدَن
 unausgebildet; تَعلیم نَدیده
@@ -894,7 +896,7 @@ unendlich; بى نَهايَت، بى کِرانه، بى اِنتِها
 - Gott ist unendlich gross; خُدا بى نَهايَت بُزُرگ است
 Unendlichkeit; لايَتَناهى
 unentgeltlich; مَجانی
-unentschieden (Sport);  .مُساوى بودَن، بَرابَر ب
+unentschieden (Sport); .مُساوى بودَن، بَرابَر ب
 unentschlossen; سُست رأى، غِیر ِ مُصَمِم
 - unentschlossener Mensch; آدَم ِ مَذبَذَب، ـ مُرَدَد
 Unentschlossenheit; تَرَدُد، غِیر ِ مُصَمِم، تَذَبذُب
@@ -966,7 +968,7 @@ unfreundlich;
 Unfreundlichkeit; بى اِلتِفاتى
 unfruchtbar;
 - unfruchtbar, dürr (Land); لَم يَزرَع
-- unfruchtbar sein (Lebewesen);  نازاد بودَن، نازا ب.، عَقیم ب.، سَتَروَن ب.، اُجاق ِ کِسى کور بودَن
+- unfruchtbar sein (Lebewesen); نازاد بودَن، نازا ب.، عَقیم ب.، سَتَروَن ب.، اُجاق ِ کِسى کور بودَن
 - jem., der unfruchtbar ist; اُجاق ِ کور
 - unfruchtbare Kritik; نَقادى ِ عَقیم
 Unfruchtbarkeit; عُقم، نازائى، نازايَندِگى
@@ -994,7 +996,7 @@ ungefährlich; ایمَن، بى خَطَر
 ungefestigt;
 - ungefestigter Charakter; بی سَر و زَبان، بی دَست و پا
 ungehalten;
-- über jem. ungehalten sein;  .از کِسى دِلخور شُدَن، ـ ناراحَت ش
+- über jem. ungehalten sein; .از کِسى دِلخور شُدَن، ـ ناراحَت ش
 ungeheuchelt; بى ریا
 Ungeheuer; هِیولا
 ungeheuerlich; هائِل
@@ -1009,7 +1011,6 @@ ungelöscht;
 ungelöst; حَل نَشُده
 Ungemach;
 - Ungemach leiden; مُتَهَمِل ِ سَختیها بودَن، جور کِشیدَن
-UN-Generalsekretär; دَبیر ِ کُل ِ سازِمان ِ مِلَل
 ungenügend;
 - ungenügende Vorbereitung; کوتاهى دَر اَمر ِ بَرگُزارى
 - seine Noten sind ungenügend; نُمره اش به حَد ِ نِصاب نِمی رِسَد، - کَمتَر از تارِضايَتبَخش است
@@ -1039,7 +1040,7 @@ ungesäuert; بی نَمَک، بی مَزِه
 - Fest der ungesäuerten Brote (Judentum); عِید ِ فَطیر
 Ungeschicklichkeit; بى عُرضِگى، ناشیگَرى
 ungeschickt;
-- ungeschickt sein (in einer Sache);  توى ِ این کار ناشى بودَن، ـ لَش ب.، ـ بى عُرضه بودَن
+- ungeschickt sein (in einer Sache); توى ِ این کار ناشى بودَن، ـ لَش ب.، ـ بى عُرضه بودَن
 ungeschlechtlich;
 - ungeschlechtliches Wesen; موجود ِ لايَتَناسُل
 ungeschminkt; آرایِش نَشُده، بی سُرخاب
@@ -1261,9 +1262,9 @@ unsinnig;
 unspezifisch; ناویژه
 unstattlich;
 - eine unstattliche Fülle haben; چاقى ِ بى قَواره داشتَن
+unsterblich; جاوِدانى، مُخلَد
 unstet; نا آرام، بى قَرار
 - unstet ist der Mensch, bis er zur Ruhe kommt; آب تا اَندَر ِ رود باشَد رَوان بُوَد چون بِدَریا رِسَد قَرار گیرَد، يَعَنی مَرد تا ناقِص و ناتَمام است سَبُکسار باشَد و چون کامِل و آراسته شَوَد با سَکینه و وَقار گَردَد
-unsterblich; جاوِدانى، مُخلَد
 unsympathisch;
 - das ist mir unsympathisch; مَن از آن خوشَم نِمى آيَد
 untadelig; نیک مَنِش، بى عِیب و بى آلايِش
@@ -1296,7 +1297,7 @@ unterbinden; جِلو ِ ... چیزی را گِرِفتَن
 unterbleiben; نَبودَن، فاقِد بودَن، اُفتادَن
 unterbrechen;
 - jem. unterbrechen; حَرف ِ کِسی را بُریدَن
-- etwas unterbrechen;  .چیزى را موقوف کَردَن، ـ قَطع ک
+- etwas unterbrechen; .چیزى را موقوف کَردَن، ـ قَطع ک
 - kurz unterbrechen (Gespräch); مَکث کَردَن
 - entschuldigen Sie, dass ich Sie kurz unterbreche; بِبَخشید حَرف ِ شُمارا قَطع می کُنَم
 - unterbrochen; موقوف
@@ -1306,7 +1307,7 @@ Unterbrechung; اِنقِطاع، قَطع
 - ohne Unterbrechung regnen; یِک بَند باریدَن
 - Arbeitsunterbrechung; تَعطیلى ِ مُوَقَت ِ کار
 unterbreiten; تَقدیم کَردَن، اِرائه دادَن
-unterbringen;  .جا دادَن، مَنزِل د.، مَسکَن د
+unterbringen; .جا دادَن، مَنزِل د.، مَسکَن د
 Unterdruck; خَلاء، فِشار ِ مَنفى
 unterdrücken; مَظلوم کَردَن، ظُلم ک.، تَحت ِ فِشار قَرار دادَن
 - er unterdrückte seinen Wutausbruch; او خون ِ خونَش را مى خورد، ـ فُرو نِشاند
@@ -1336,7 +1337,7 @@ unterhalb; ِ زیر
 - unterhalb des Fundaments; زَمین ِ زیر پى، ـ زیر بَنا
 Unterhalt; اَعاشه، مَعاش، نَفَقه، مَعیشَت
 unterhalten;
-- s. unterhalten;  .مُکالِمه کَردَن، صُحبَت ک
+- s. unterhalten; .مُکالِمه کَردَن، صُحبَت ک
 - ich unterhalte mich gut; خوش مى گُذارَم، صَفا می کُنَم با کِسی
 - sie unterhalten s. angeregt; آنها سَرگَرم ِ گُفت و گو هَستَند
 - Beziehungen unterhalten; رَوابِط داشتَن
@@ -1395,7 +1396,7 @@ Unterricht; دَرس، تَدریس
 - Unterricht besuchen; دوره دیدَن
 unterrichten; دَرس دادَن، تَدریس کَردَن
 - entsprechend gut unterrichteter Kreise; به گُفتهٔ مَنابع ِ مُطَلَع
-untersagen;  .مَنع کَردَن، تَحریم ک.، قَدِغَن ک
+untersagen; .مَنع کَردَن، تَحریم ک.، قَدِغَن ک
 - untersagend; زاجِر
 - Das Betreten ist strengstens untersagt; وُرود اَکیداً مَمنوع است
 Untersagung; (pl.)  (زاجِرَت (زَواجِر
@@ -1425,7 +1426,7 @@ unterschreiben; اِمضاء کَردَن
 Unterschrift; اِمضا
 - Unterschrift verlangen; اِمضا گِرِفتَن
 - zur Unterschrift vorlegen; به اِمضا رِساندَن
-- durch Unterschrift bekräftigen, dass ...;  بَر چیزى صَحه گُذاشتَن که، از راه ِ اِمضاء صَحه گُذاشتَن که
+- durch Unterschrift bekräftigen, dass ...; بَر چیزى صَحه گُذاشتَن که، از راه ِ اِمضاء صَحه گُذاشتَن که
 unterschwellig; زیرجُلى
 Untersetzer;
 - Topfuntersetzer; زیر قابلِمه
@@ -1445,12 +1446,12 @@ unterstreichen;
 - Wort unterstreichen; کَلَمه را عَلامَت زَدَن، - خَط کِشیدَن
 - unterstreichen, hervorheben; تأکید کَردَن
 - unterstrichen (Wörter); کَلَمات ِ زیر خَطى
-unterstützen;  .زیر ِ بال گِرِفتَن، حِمايَت کَردَن، پُشتِبانى ک
+unterstützen; .زیر ِ بال گِرِفتَن، حِمايَت کَردَن، پُشتِبانى ک
 - unterstützend, bestärkend; مُؤيِد
 Unterstützung; حِمايَت، پُشتِبانى
 Unterstützungsfläche; سَطح ِ اِتِکاء
 untersuchbar; قابِل ِ رؤيَت
-untersuchen;  .بَررِسى کَردَن، تَحقیق ک.، پَژوهِش ک.، تَدقیق ک
+untersuchen; .بَررِسى کَردَن، تَحقیق ک.، پَژوهِش ک.، تَدقیق ک
 - untersuchen (beim Arzt); مُعايِنه کَردَن
 - eingehend untersuchen; مُداقه کَردَن
 - ... wurde eingehendst untersucht; مورِد ِ مُداقه واقِع شُده است
@@ -1465,7 +1466,7 @@ Untertan; (pl.)  (رَعيَت (رَعایا)، تَبَعِه (اَتباع
 untertänigst;
 - "ich bin Ihr untertänigster Diener"; مَن غُلام دَرگاهِتان هَستَم
 Untertasse; نَعَلبَکى
-untertauchen;  .غَرق شُدَن، غوطه وَر ش
+untertauchen; .غَرق شُدَن، غوطه وَر ش
 - untergetaucht (an unbekannten Ort); نامَعلوم اُلمَکان
 Untertitel; زیر نِویس
 Untervermieter; موجِر ِ جُزء
@@ -1501,7 +1502,7 @@ untröstlich; تَسَليَت ناپَذیر
 untrüglich; خَطا ناپَذیر
 - das untrüglichste Zeichen von ... ist, dass ...; بارِزتَرین مُشَخَصهٔ ... این است که
 Untugend;
-- eine Untugend haben;  .خَروَر داشتَن، بَدى ِ اَخلاق د
+- eine Untugend haben; .خَروَر داشتَن، بَدى ِ اَخلاق د
 unüberlegt; بِدون ِ تأمُل
 - unüberlegt handeln; تَهَوُر بِخَرج دادَن، نَسَنجیده کارى کَردَن، گَز نَکَرده پاره کَ.، بی گُدار به آب زَدَن
 - handle nicht unüberlegt (i.S. denk dran!); بی گُدار به آب نَزَن
@@ -1593,7 +1594,7 @@ unwohl;
 Unwohlsein; دورهٔ نَقاهَت، کِسالَت
 Unwucht; از تَعادُل خارِج شُدَن، نامیزان چَرخیدَن
 unwürdig; ناسَزاوار، نالایِق، نارَوا
-- unwürdig sein (*:Würde);  .ذَلیل بودَن، ناچیز ب
+- unwürdig sein (*:Würde); .ذَلیل بودَن، ناچیز ب
 - in unwürdigster Weise; با دِنائَت
 unzählbar; بى شُمار
 unzeitig; بى موقِع
@@ -1612,7 +1613,7 @@ Unzulänglichkeit; نارَسائى، عَدَم ِ کِفايَت، قِلَت
 unzulässig; نامُجاز
 unzurechnungsfähig; غِیر ِ مُمَيِز
 Unzurechnungsfähigkeit; نَقص ِ تَمییز
-unzureichend (- sein);  .قاصِر بودَن، ناقِص ب.، نارَسا ب
+unzureichend (- sein); .قاصِر بودَن، ناقِص ب.، نارَسا ب
 unzusammenhängend; جَسته گُریخته، بی سَر و تَه، نامُرتَبِط به هَم
 - keiner wird aus seinem unzusammenhängendem Zeug schlau; کِسى سَر از حَرفهاى ِ سَر دَر گُمِش دَر نِمى آوَرَد
 - er redet unzusammenhängendes Zeug; حَرفهايَش بی سَر و تَه است
@@ -1645,7 +1646,7 @@ Urkunde; قبِاله، سَنَد، مَدرَک
 Urkundenfälschung; جَعل ِ سَنَد
 urkundlich; مُستَنَد
 Urlaub; تَعطیلات، مُرَخَصى
-- Urlaub nehmen;  .رُخصَت گِرِفتَن، مُرَخَصى گ
+- Urlaub nehmen; .رُخصَت گِرِفتَن، مُرَخَصى گ
 - in Urlaub fahren; به مُرَخَصی رَفتَن، مُسافِرَت کَردَن
 Urne; صَندوق
 - Wahlurne; صَندوق ِ رأى
@@ -1666,15 +1667,14 @@ Urteil; قِضاوَت
 - Urteil aussprechend bezüglich; ِ مُتَحَکِم
 - Urteil eines islamischen Geistlichen; اِجتِهاد، مُجتَهَد
 - Todesurteil; حُکم ِ اِعدام
-urteilen;  .قِصاوَت کَردَن، حُکم ک
-- nicht voreilig urteilen;  بِچِش بَعد بِگو بی نَمَکه
+urteilen; .قِصاوَت کَردَن، حُکم ک
+- nicht voreilig urteilen; بِچِش بَعد بِگو بی نَمَکه
 Urteilsbegründung; اِستِدلال ِ حُکم
 Urteilskraft; قُوهٔ مُمَيِزه
 Urteilsschrift; دادَنامه
 Urteilsverkündung; اِبلاغ ِ حُکم، صُدور ِ حُکم
 Urwald; جَنگَل
 Usurpator; غاصِب
-u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)، و اِلىٰ آخَر، و غِیره
 Utensilien; اَفزار، ظُروف، وَسائِل
 Uterus; زِه دان، رَحِم
 Utilitarismus; اُصول ِ مُفیديَت، سودآئینى، سودگَرى
