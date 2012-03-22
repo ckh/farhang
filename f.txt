@@ -1313,6 +1313,7 @@ Fluoreszenz; فلورِسانس
 Flur; دالان، دِهلیز
 Fluse; پُرز، پُرزه، کُرک
 Fluss; رودخانه
+- Nebenfluß; شاخابه
 Flussdiagramm; رَوَندنَما، فلوچارت
 flüssig; مایِع، سَیال، رَوان، جارى
 - flüssiges Metall; فِلِز ِ مُذاب
