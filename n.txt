@@ -1,6 +1,6 @@
 Nabe; قِسمَت ِ میانی ِ چَرخ، توپی، مِحوَر ِ وَسَط ِ چَرخ
 Nabel; ناف
-- er sieht s. als Nabel der Welt;  او خودَش را مَرکَز ِ جَهان می بینَد، - مِحوَر ِ جَهان می بینَد
+- er sieht s. als Nabel der Welt; او خودَش را مَرکَز ِ جَهان می بینَد، - مِحوَر ِ جَهان می بینَد
 - Nabelschau betreiben; خودبین بودَن
 Nabelschnur; بَند ِ ناف
 nach;
@@ -17,14 +17,14 @@ nach;
 - es sieht nach Streit aus; مِثل ِ اینکه دَرگیری به راه بيُفتَد
 - Katastrophen kommen nach & nach auf ... zu; بَلاها پِی دَر پِی بَر ... می آيَند
 nachäffen; اَدای ِ کِسی را دَر آوَردَن، نَوای ِ کِسی را دَر آوَردَن
-nachahmen;  .تَقلید کَردَن، تأسی ک
+nachahmen; .تَقلید کَردَن، تأسی ک
 Nachahmer; مُقَلِد
 Nachahmung; اِقتِداء، تَقلید
 Nacharbeit;
 - mit jem. Nacharbeit machen; به کِسی کُمَک کَردَن تا ... را بِفَهمَد، پِی ِ کِسی را گِرِفتَن
 Nachbar; هَمسایه
 - dem Nachbar Bescheid sagen; به بَغَل ِ دَستی خَبَر دادَن
-Nachbarschaft;  هَمسايِگی
+Nachbarschaft; هَمسايِگی
 - in unserer Nachbarschaft; دَر جَوار ِ ما، دَر هَمسايِگی ِ ما
 - Politik der guten Nachbarschaft; سیاسَت ِ حُسن ِ هَمجَواری
 Nachbearbeitung; عَمَلیات ِ تَکمیلی
@@ -82,7 +82,7 @@ nachholen;
 nachjagen; .کِسی را تَعاقُب کَردَن، ـ تَعقیب ک
 Nachklang; طَنین، دو خوان
 nachklingen; طَنین گِرِفتَن
-Nachkomme; (pl.)  (نَسل، اولاد، خَلَف (اَخلاف)، عَقیب (اَعقاب)، ذُریه (ذُریات
+Nachkomme; (pl.) (نَسل، اولاد، خَلَف (اَخلاف)، عَقیب (اَعقاب)، ذُریه (ذُریات
 - direkter Nachkomme; فَرزَند ِ صُلبی
 - Ernennung der Nachkommen; اِستِخلاف
 - keine (männlichen) Nachkommen haben; اُجاق ِ کِسی گور است
@@ -131,7 +131,7 @@ Nachschlagewerk; کُتُب ِ مَرجَع، کِتاب ِ راهنَما
 Nachschlüssel; کِلید ِ اِضافی
 nachsehen;
 - jem. etwas nachsehen; چِشم پوشی کَردَن
-- bei jem. nachsehen; از کِسی سَر کِشی کَردَن، بازدید کَردَن به مَنظور نِظارَت و تَشخیص ِ خوب  و بَد کار
+- bei jem. nachsehen; از کِسی سَر کِشی کَردَن، بازدید کَردَن به مَنظور نِظارَت و تَشخیص ِ خوب و بَد کار
 - das Nachsehen haben; بی نَصیب ماندَن
 Nachsendung; مُرسِلهٔ پُستی به آدرِس ِ جَدید
 Nachsicht; شَفَقَت، گُذَشت
@@ -164,7 +164,7 @@ Nacht; شَب
 - eines Nachts; شَبی
 - bleiben Sie über Nacht hier!; شَب را اینجا بِمانید
 - die Nacht zum Tag machen; شَب زِنده داری کَردَن
-- Nachts sind alle Katzen grau;  شَب گُربه سَمور می نَمايَد
+- Nachts sind alle Katzen grau; شَب گُربه سَمور می نَمايَد
 Nachtblindheit; شَبکوری
 Nachteil; زیان، مَعایِب، ضَرَر
 - Nachteil erleiden; مُتَحَمِل ِ ضَرَر شُدَن
@@ -302,7 +302,7 @@ Nase; مَشام، بینی، دَماغ
 - s. die Nase putzen; دَماغ گِرِفتَن
 - Ich habe die Nase voll; کَلافه ام شُده، کَلافه شُدَم
 - stecke deine Nase nicht in die Angelegenheit anderer Leute; دَر کار ِ دیگَران باریک نَشو، کاری به کار ِ دیگَران نَداشته باش، بُرو دُنبال ِ کارِت، دِخالَت نَکُن، فُضولی نَکُن
-- ich will nicht, dass sie überall ihre Nase reinstecken;  نِمیخواهَم که توی ِ هَر اُطاقی سَر می کُنَند
+- ich will nicht, dass sie überall ihre Nase reinstecken; نِمیخواهَم که توی ِ هَر اُطاقی سَر می کُنَند
 - alle Naselang; هَر چَند وَقت يِک بار
 näselnd; تو دَماغی
 Nasenbein; خار ِ بینی، اُستُخوان ِ بینی
@@ -369,7 +369,7 @@ Nebenschauplatz; صَحنهٔ فَرعی
 nebenstehend;
 - mit nebenstehender Adresse; با آدرِس ِ مُجاوِر
 Nebenstrasse; خیابان ِ فَرعی
-Nebenwirkungen; عَوارِض  ِ جانِبی
+Nebenwirkungen; عَوارِض ِ جانِبی
 neblig; مِه آلود
 necken; توی ِ کوک ِ کِسی رَفتَن، با کِسی سَر به سَر گُذاشتَن
 - ich ging, um x zu necken; رَفتَم تو کوک ِ کِسی
@@ -385,7 +385,7 @@ nehmen; گِرِفتَن، بُردَن، بَرداشتَن
 - Sie können das nehmen (i.S.: mitnehmen); شما می تَوانید این را بَردارید
 - jem. das Recht nehmen; به حَق ِ کِسی تَجاوُز کَردَن
 - nehmen Sie s. Zeit für ...; مُدَت ِ زَمانی را بَرای ِ چیزی قائِل شَوید
-- hart im Nehmen sein; روی ِ زَمین  ِ سِفت شاشیدَن
+- hart im Nehmen sein; روی ِ زَمین ِ سِفت شاشیدَن
 - Unangenehmes auf s. nehmen; پیه چیزی را به تَن ِ خود مالیدَن
 - Verhältnis zwischen Nehmenden & Gebenden; نِسبَت ِ سِتانده ها به داده ها
 Neid; حَسودی، حَسَد، حِسادَت، غِبطه
@@ -416,13 +416,13 @@ nennen; کِسی را نامیدَن، اِسم بُردَن
 - wenn man X nennt, kommt er gerennt (popul.); اِسم ِ فِلان را می بَری فوری حاضِر می شَوَد
 - was man so kennen nennt; تا شِناختَن چه باشَد
 - genannt, bezeichnet; مُسَمی
-- die ... genannt wird;  که اِسم آنرا ... گُذاشته میشَوَد
+- die ... genannt wird; که اِسم آنرا ... گُذاشته میشَوَد
 - Nennung des Namens; اِظهار ِ اِسم
 Nenner; بَرخه نام، مُخرِج
 - auf keinen Nenner kommen; به هیچ صَراطی ِ مُستَقیم نَبودَن، آبِشان از یِک جوی نَرَوَد
 Nennwert; اَرزِش ِ اِسمی
 Neonlicht; چِراغ ِ نِئون
-Nerv; (pl.)  (عَصَب (اَعصاب
+Nerv; (pl.) (عَصَب (اَعصاب
 - er geht uns auf die Nerven; او موی ِ دَماغ ِ ما شُده، کَلافهٔ ما می کُنَد، کاسِمان می کُنَد
 - er verliert die Nerven; از کوره دَر می رَوَد
 - Nerven haben; عَجَب اَعصابی داشتَن
@@ -448,7 +448,7 @@ Nettigkeit;
 - weitere Nettigkeiten waren: ...; از شیرین کارهای ِ دیگَر
 Netto; خالِص
 - Nettoeinkommen; دَرآمَد ِ خالِص
-- Nettogewinn (30,- Euro Gewinn);  (سود ِ ویژه (۰۳ یورو مُک
+- Nettogewinn (30,- Euro Gewinn); (سود ِ ویژه (۰۳ یورو مُک
 - Nettosozialprodukt; تولید ِ خالِص ِ مِلی
 Netz; تور
 - Netz knüpfen; تور بافتَن
@@ -534,7 +534,7 @@ nichtrostend; زَنگ نَزَن
 nichts; هیچ
 - durch nichts und niemand anderes; وِ لاغِیر
 - lieber etwas, als nichts; کاچی به از هیچی
-- von nichts kommt nichts; تا نَباشَد چیزَکی مَردُم نَگويَد چیزها، نان  ِ بی مایه فَطیر است، عَدَم ِ باروَر نیست، بَر هیچ که نِمیتَوان چیزی اَفزود
+- von nichts kommt nichts; تا نَباشَد چیزَکی مَردُم نَگويَد چیزها، نان ِ بی مایه فَطیر است، عَدَم ِ باروَر نیست، بَر هیچ که نِمیتَوان چیزی اَفزود
 - da geht nichts mehr; بی خیالَش، آرِزوی ِ ما نَقشه بَر آب است
 - da wird nichts draus; سامان نِمیشَوَد، کاری نِمی شَوَد کرد
 - das macht nichts; مُهِم نیست، ناراحَت نَباش، عِیبی نَدارَد، بی خیال
@@ -567,7 +567,7 @@ nieder!; پَست باد
 - von einem niederen zu einem höheren Zustand übergehen; از صورَتی ِ اَدَنی به صورَتی ِ اَعلىٰ
 Niederdruck; فِشار ِ کَم
 Niedergang; فُرو پاشی، اِنحِطاط
-- Niedergang der Demokratie; فُرو پاشی  ِ دِموکراسی، اِنحِطاط  ِـ
+- Niedergang der Demokratie; فُرو پاشی ِ دِموکراسی، اِنحِطاط ِـ
 - dieses Land befindet s. im Niedergang; این کِشوَر دَر فُروپاشی قَرار میگیرَد
 niedergeschlagen; پَکَر، با سَر ِ اَفکَندِگی، دِل اُفتاده، چِگَرخواره، پَریشان حال، دَرمانده، مَلول، شِکَسته خاطِر
 Niedergeschlagenheit; سُتوه، دِلگِرِفتِگی، دَرماندِگی، شِکَسته خاطِری
@@ -597,7 +597,7 @@ Niederlegung;
 niedermachen (jem. -); کِسی را سِکهٔ يِک پول کَردَن
 Niederschlag; بارِش ِ باران، نُزولات، بارَندِگی
 - radioaktiver Niederschlag; نُزولات ِ رادیوئی
-- Niederschlag von Rückständen (bilden);  (لای، رُسوب (- اُفتادَن
+- Niederschlag von Rückständen (bilden); (لای، رُسوب (- اُفتادَن
 niederschlagen;
 - ein Verfahren niederschlagen; دادرَسی را لَغو کَردَن
 - Niederschlagen eines Aufruhrs; سَرکوب ِ اِغتِشاش، فُرو نِشاندَن ِ عُصیانی
@@ -622,7 +622,7 @@ niemand; هیچ کَس
 - niemand ist da; جا تَر است و بَچه نیست
 Niemandsland; سَرزَمین ِ بی صاحِب
 Niere; گِرده، کُلیه
-Nierenstein; (pl.)  (سَنگ ِ کُلیه، رَمل  ِکُلیه (رِمال ِ ـ
+Nierenstein; (pl.) (سَنگ ِ کُلیه، رَمل ِکُلیه (رِمال ِ ـ
 nieseln; تَراویدَن، يِک ریز می بارَد
 niesen; عَطسه زَدَن، ـ کَردَن
 Niesen (n); عَطسه
@@ -698,12 +698,12 @@ Normenausschuss; کُمیسیون ِ اِستانداردها، ـ مِعیار�
 Normvorschrift; مُشَخَصات ِ اِستاندارد
 Nostalgie; نوستالژی، پَس اَندیشه
 nostalgisch; پَس اَندیش
-Not; (pl.)  (مَضیقه (مَضائِق)، بَلیه (بَلایاء
+Not; (pl.) (مَضیقه (مَضائِق)، بَلیه (بَلایاء
 - in seiner Not; از زور ِ پَسی
 - Not leiden; به ذِلَت اُفتادَن، سَختی کِشیدَن
 Notabeln, führende Persönlichkeiten; اَعاظَم، رِجال
 Notar; کاتِب ِ شَرع، مَحضَر دار
-Notariat; مَحضَر  ِرَسمی
+Notariat; مَحضَر ِرَسمی
 notariell; مَحضَری
 - notariell beglaubigter Vertrag; قَرار داد ِ مَحضَر
 Notausgang; خُروج ِ اِضطِراری
@@ -722,11 +722,11 @@ notfalls; دَر صورَت ِ لُزوم، وَقتیکه ایجاب کُنَد
 notgedrungen; ناگُزیر
 - notgedrungen etwas bezüglich ... machen; ناگُزیر به چیزی شُدَن
 Nothilfe; کُمَک ِ ضَروری
-notieren;  .دَرج کَردَن، یاد داشت ک
+notieren; .دَرج کَردَن، یاد داشت ک
 notiert; دَرج شُده
 Notifizierung; تَذکار
 nötig;
-- nötig sein;  لُزومی داشتن، ضَرورَت د.، ضَروری بودَن، مُقتَضىٰ ب.، لازِم ب.، مُبرَم بودَن
+- nötig sein; لُزومی داشتن، ضَرورَت د.، ضَروری بودَن، مُقتَضىٰ ب.، لازِم ب.، مُبرَم بودَن
 - bis jetzt hatte ich ihn noch nicht nötig; مَن هَنوز اِحتیاجَم به او نَيُفتاده بود
 - ich glaub, du hast das nötig (i.S.: Bestrafung); به نَظَرَم تَنِت می خورَد
 nötigen;
@@ -840,7 +840,7 @@ nützen; فایده داشتن
 Nutzfahrzeug; وَسیلهٔ نَقلیهٔ عام اُلمَنفِعه
 Nutzlast; بار مُفید
 nützlich; مُفید
-- nützlich sein;  .کار ساز بودَن، سازَنده ب.، سودمَند ب.، مَنفَعَت ب.، مُفید ب
+- nützlich sein; .کار ساز بودَن، سازَنده ب.، سودمَند ب.، مَنفَعَت ب.، مُفید ب
 - für nützlich halten; مَصلَحَت دانِستَن، ـ دیدَن
 - kein Beweis für die Nützlichkeit seines Berufes; دَلیل بَر بَهره وَر بودَن ِ شُغل ِ او نیست
 nutzlos; نافَرجام، هَدَر، باطِل

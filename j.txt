@@ -32,7 +32,7 @@ Jahr; سال
 - in den 70er Jahren; دَر سالهاى ِ دَههٔ هَفتاد
 - im 50. Lebensjahr; دَر ۵۰ سالِگى
 - ... ist für die nächsten 100 Jahre genug (alleg.); بَرای ِ هَفت پُشت ِ مَن کافی است...
-Jahrbuch;  کِتاب ِ آمار
+Jahrbuch; کِتاب ِ آمار
 - statistisches Jahrbuch; کِتاب ِ آمار ِ سالانه
 jahrelang; سالهاى ِ سال، ـ مُتَمادى
 Jahreseinkommen; عايِدات ِ سالى
@@ -193,7 +193,7 @@ Justierschraube; پیچ ِ تَنظیم
 Justiz; دادگُستَرى، نِصفَت، عَدلیه، اُمور ِ قَضائى
 Justizhoheit; قَلَمروى ِ قَضائى
 Justizirrtum; اِشتِباه ِ قَضائى
-- Justizirrtum (Der Eisenschmied in Balch macht den Fehler, der Kupferschmied in Schusch wird bestraft);  گُناه کَرد دَر بَلخِ آهَنگَرى، به شوش زَدَند گَردَن ِ مِسگَرى
+- Justizirrtum (Der Eisenschmied in Balch macht den Fehler, der Kupferschmied in Schusch wird bestraft); گُناه کَرد دَر بَلخِ آهَنگَرى، به شوش زَدَند گَردَن ِ مِسگَرى
 Justizministerium; عَدلیهٔ وِزارَت، وِزارَت ِ داد گُستَرى
 Jute; کَنَف
 Juwel; (pl.) (جوهَر (جَواهِر

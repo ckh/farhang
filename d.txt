@@ -117,7 +117,7 @@ Dank; تَشَکُر، شُکر
 dankbar;
 - wie sehr ich dir dankbar bin, wenn ...; تا چه حَد مِنَت دارَت خواهَم شُد اَگَر
 - s. dankbar & erkenntlich zeigen; اِظهار ِ تَشَکُر و اِمتِنان کَردَن
-- dankbar sein;  .مُتَشَکِر بودَن، سِپاسگُذار ب.، مَمنون ب.، شُکرگُذار ب.، شاکِر ب
+- dankbar sein; .مُتَشَکِر بودَن، سِپاسگُذار ب.، مَمنون ب.، شُکرگُذار ب.، شاکِر ب
 - für die Bestätigung bin ich dankbar; اِعلام وُصول موجِب ِ اِمتِنان خواهَم بود
 Dankbarkeit; حَق شِناسى، اِمتِنان، نَمَک شِناسى، شُکرگُذارى
 - aus Dankbarkeit heraus etwas tun; از روى ِ مِنَت این کاررا اَنجام دادَن
@@ -136,7 +136,7 @@ daran;
 - daran erkennst du ...; از این ... مى شِناسى
 - daran gibt es keinen Zweifel; دَر این شَک نیست
 - ich dachte daran; به یاد ِ آن بودَم
-daranmachen (s. -);  .بَنا کَردَن، شُروع ک
+daranmachen (s. -); .بَنا کَردَن، شُروع ک
 - ich machte mich daran, jeden zu begrüssen; مَن بَنا کَردَم تَک تَکِشان را سَلام دَهَم
 daransetzen;
 - wir müssen alles daransetzen; بایَد هَمه هَمِ مان را صَرف ِ این کار کُنیم
@@ -230,7 +230,7 @@ Datum; تاریخ
 - Datum: 15.5.1995; تاریخ: ۱۵ـ ۵ ـ ۱۹۹۵
 - neueren Datums; قَریب اُلعَصر
 Dauer; طول، َدوام، مُدَت
-- für die Dauer von ...;  ... ِ بَراى ِ مُدَت
+- für die Dauer von ...; ... ِ بَراى ِ مُدَت
 - von Dauer; مُداوِم، با دَوام
 - das hat keine Dauer; این دَوام نِمى آوَرَد
 - unsere Beziehung wäre nicht von langer Dauer; رابِطهٔ ما دَوام نِمی آوَرد
@@ -254,7 +254,7 @@ dauernd; هَمیشه، پِیوَسته
 Dauerschlaf; خواب ِ مَدام
 Dauerspannung; کِشِش ِ مُمتَد
 Dauervisum; رَوادید ِ دائِمى
-Dauerwelle; فِر  شِش ماهه
+Dauerwelle; فِر شِش ماهه
 Dauerzustand; حالَت ِ یِکنَواخت
 Daumen; (*:Finger) شَست
 - Daumen lutschen; شَست مَکیدَن
@@ -284,13 +284,13 @@ dazustossen;
 - zu unserer Gruppe dazustossen; به جَمع ِ ما مُلحَق شُدَن
 dazwischenkommen;
 - ich hoffe, dass nichts dazwischenkommt; اُمیدوارَم که اِتِفاقى نَیُفتَد
-dazwischenschieben (s. -);  .دِخالَت کَردَن، مُداخِله ک.، فُضولى ک
+dazwischenschieben (s. -); .دِخالَت کَردَن، مُداخِله ک.، فُضولى ک
 dazwischenspringen; به میان پَریدَن
 dazwischenstehen; حائِل بودَن
 dazwischenstellen(s. -); حائِل شُدَن
 Debatte; (pl.) مُباحِثه، مَبحَث (مُباحِث)، مُجادِله
 - das steht nicht zur Debatte; این موضوع مورِد ِ بَحث نیست
-debattieren;  .جَر و بَحث کَردَن، مُباحِثه ک.، مُناظِره ک
+debattieren; .جَر و بَحث کَردَن، مُباحِثه ک.، مُناظِره ک
 Debellation (Beendigung eines Krieges durch totale Besetzung des Landes); فُروپاشى
 Debut; نَخُستین نَمایِش، قَدَم ِ اَوَل
 dechiffrieren; کَشف ِ رَمز کَردَن
@@ -401,7 +401,7 @@ Dekret; حُکم، فَرمان
 Delegation; هَیئَت ِ نِمایندِگان
 - Regierungsdelegation; هَیئَت ِ نِمایندِگى ِ دولَت
 delegieren;
-- Verantwortung delegieren;  .مَسؤلیَت را اِعزام کَردَن، ـ تَفویض ک.،  ـ مُنتَقِل ک
+- Verantwortung delegieren; .مَسؤلیَت را اِعزام کَردَن، ـ تَفویض ک.، ـ مُنتَقِل ک
 Delegierung;
 - Delegierung nach ...; اِعزام به
 - Delegierung von Befugnissen; تَفویض ِ اِختیارات، اِنتِقال ِ ـ
@@ -430,7 +430,7 @@ Demographie; مَردُم نِگارى، جَمعیَت نِگارى
 Demokratie; مَردُم سالارى، دِموکراسى
 demokratisch; دِموکراتیک
 - demokratische Ordnung; نِظام ِ دِموکراتیک
-demolieren;  .ویران کَردَن، مُنهَدِم ک
+demolieren; .ویران کَردَن، مُنهَدِم ک
 Demolierung; ویرانى، خَرابى، اِنهِدام
 Demonstration; تَظاهُرات
 demonstrativ;
@@ -442,14 +442,14 @@ demonstrieren; تَظاهُر کَردَن
 Demontage; پیاده کَردَن ِ قَطِعات ِ دَستگاه، تَفکیک ِ اَسباب ِ کارخانه
 demontieren; بَر داشتَن، اَز بِین بُردَن
 - er demontierte ihn; او گورَش را گُم کَرد
-demoralisieren; روحیهٔ کِسی را ضَعیف کَردَن  
+demoralisieren; روحیهٔ کِسی را ضَعیف کَردَن 
 Demoskopie; نَظَر پُرسى ِ هَمِگانى
 Demut; تَواضُع، فُروتَنى، خُضوع، شِکَسته نَفسی
 - einen auf Demut machen; شِکَسته نَفسی کَردَن
-- Wahre Größe zeigt sich durch Demut; آدَم  از کوچِکی بُزُرگ میشَوَد : خُضوع  و فُروتَنی سَبَب ِ بُزُرگی ِ مَرد شَوَد
+- Wahre Größe zeigt sich durch Demut; آدَم از کوچِکی بُزُرگ میشَوَد : خُضوع و فُروتَنی سَبَب ِ بُزُرگی ِ مَرد شَوَد
 demütig; مُتَواضِع، فُروتَن، اُفتاده دِل، شِکَست ِ نَفس
 demütigen;
-- jem. demütigen;  .تَذلیل کَردَن، تَحقیر ک
+- jem. demütigen; .تَذلیل کَردَن، تَحقیر ک
 - s. vor jem. demütigen; دَر نَزد ِ کِسى مُتَذَلِل شُدَن، ـ فُروتَن ش.، خودرا خوار ک.، ـ به کِسى کوچِک ک.، ـ کوچِکى به کِسى دادَن، ـ سَر فُرود آوَردَن
 - s. vor dem Sieger demütigen; دَر مُقابِل ِ فاتح اِظهار ِ خُضوع و خُشوع کَردَن
 demütigend; تَحقیر آمیز، توهین آمیز، کوچِک کُنَنده
@@ -462,7 +462,7 @@ denken;
 - sie denken über nichts anderes, ausser ...; فِکر و ذِکر نَدارَند مَگَر
 - ich mußte an das Geld denken; به صَرافَت ِ پول اُفتادَم
 - sie denken nicht bis morgen; مَغزِشان تو دَستِشان است
-- man denkt s., dass ...; چِنین مى اِنگارَد که  
+- man denkt s., dass ...; چِنین مى اِنگارَد که 
 - der Mensch denkt, Gott lenkt; از اِنسان حَرِکَت از خُدا بَرِکَت
 - denken wir uns, dass ...; گیریم، فَرض کنیم، اَنگار کنیم
 - könnte man s. nicht denken; آیا چِنین نِمى تَوان اَنگاشت، ـ خیال کرد
@@ -530,7 +530,7 @@ derartig;
 - es war ein derartiges Geschiebe; چِنان اِزدِحامى به راه اُفتاده بود
 - sie begegneten einem derartigen Widerstand; با چِنان مُقاوِمَت مُتَوَجه شُدَند که
 derb;
-- derbe Gesichtszüge;  صورَت ِ ناهَنجار
+- derbe Gesichtszüge; صورَت ِ ناهَنجار
 - derber Bursche; آدَم ِ زُمُخت، ـ دُرُشت گو
 - derbe Sitten; اَخلاق ِ خَشِن
 - derbe Redensweise; چَخماقی حَرف زَدَن
@@ -586,7 +586,7 @@ desto; هَر چه
 - je höher, desto besser; هَرچه بُلَندتَر بِهتَر
 deswegen;
 - deswegen, weil; چونکه
-Detail; (pl.)  (تَفصیل (تَفاصیل)، جُزئى (جُزئیات
+Detail; (pl.) (تَفصیل (تَفاصیل)، جُزئى (جُزئیات
 - im Detail; صُغرا و کُبرا، جُزئى، مُفَصَلاً
 - langsam fange ich an, die Details seines Lebens zu verstehen; کَم وبیش تَه و توی ِ زِندگی اش را دَر می آوَرَم
 - vom Allgemeinen zum Detail; از کُل به جُزء، بِطور ِ مَفصَل، ـ تَفصیلى
@@ -600,7 +600,7 @@ Deut;
 - keinen Deut weichen; از کِسى پاکَمى نداشتَن
 deuten; تَعبیر کَردَن، توضیح دادَن
 deutlich; روشَن، صَریح، آشکار
-- deutlich machen, ausdrücken;  .اِبراز کَردَن، تَبَیُن ک.، حالى ک.، روشَن ک
+- deutlich machen, ausdrücken; .اِبراز کَردَن، تَبَیُن ک.، حالى ک.، روشَن ک
 - was ... so deutlich ausgedrückt hat; که ... با چِنان ظَرافَتى بَیان داشت
 - er hat das ganz deutlich gesagt; صَریحاً این را گُفت
 - er hörte das deutlich; این را به وُضوح شِنید
@@ -641,7 +641,7 @@ diagnostizieren; تَشخیص دادَن
 diagonal; اُریب، قُطراً، مُوَرَب
 - diagonal von einem Punkt zum anderen; از یِک نُقطه اُریب زَدَن به
 - das Buch diagonal (schnell) lesen; کِتاب را سَریع (نَظَرى) خواندَن
-Diagonale;  وَرب، قُطر
+Diagonale; وَرب، قُطر
 Diagramm; دیاگرام، نِمودار، تَرسیمیه، دَرنِگار
 Diakon; شَماس، خادم ِ کلیسا
 Diakonisse; شَماسه
@@ -657,7 +657,7 @@ Diaphragma; پرده میانى، دیافراگم
 Diaprojektor; پروژکتور ِ اِسلاید
 Diaskop; دَستگاه ِ پروژِکسیون
 Diaspora;
-- in der Diaspora leben;  .دَر گالوت بودَن، دَر پَراکَندِگى ب
+- in der Diaspora leben; .دَر گالوت بودَن، دَر پَراکَندِگى ب
 Diät; پَرهیز ِ غذا، رِژیم
 - er muss Diät einhalten; او بایَد رِژیم بِگیرَد، ـ داشته باشَد
 - Diät verordnen; رِژیم دادَن
@@ -670,7 +670,7 @@ dicht;
 - dichtes Zelt; خِیمهٔ عایِق دَر مُقابِل ِ رُطوبَ
 - der Schuh ist nicht dicht; کَفش نَم مى کِشَد
 - der Stoff ist dicht gewebt; پارچه سِفت بافت است
-- sie sitzen dicht beieinander; آنها خِیلى نَزدیک بِهَم مى نِشینَند، ـ چَسب  ِ چَسب ـ
+- sie sitzen dicht beieinander; آنها خِیلى نَزدیک بِهَم مى نِشینَند، ـ چَسب ِ چَسب ـ
 - der Topf ist dicht; دیگ کیپ است
 - dichter Wald; جَنگَل ِ اَنبوه
 - jem. ist nicht ganz dicht; بالا خانه اَش را اِجاره دادَن
@@ -736,7 +736,7 @@ Diebstahl; دُزدى، سِرقَت، دَستبُرد
 - einen Diebstahl begehen; دَستبُرد زَدَن
 Diedrich; شاه کِلید
 Diele; راهرو، کُریدور، هال، دالان
-dienen;  .خِدمَت کَردَن، نوکَرى ک
+dienen; .خِدمَت کَردَن، نوکَرى ک
 - jem. dienen; کِسى را مُلازَمَت کَردَن
 - bei Tisch dienen; پیشخِدمَتى کَردَن
 - womit kann ich Ihnen dienen?; چه فَرمایِشى دارید؟
@@ -792,7 +792,7 @@ dieser;
 diesig; هَواى ِ دَم دار، ـ مِه دار، ـ بُخار آلود
 diesseits; این طَرَف
 - diesseits & jenseits; این طَرَف و آن طَرَف، این وَر و آن وَر
-diffamieren;  .کِسى را بَدنام کَردَن، ـ بى آبرو جِلوه دادَن، ـ رُسوا ک
+diffamieren; .کِسى را بَدنام کَردَن، ـ بى آبرو جِلوه دادَن، ـ رُسوا ک
 Diffamierung; تُهمَت، بَدگوئى، هَتک ِ شَرَف
 Differential;
 - Differential (mathem.); تَفاضُل، اِفتِراق
@@ -815,7 +815,7 @@ Diktat; دیکته
 - Preisdiktat; تَحمیل ِ قیِمَت
 Diktator; مُستَبِد
 Diktatur; دیکتاتورى، خودکامِگى، اِستِبداد
-diktieren;  .دیکته کَردَن، اِملا ک
+diktieren; .دیکته کَردَن، اِملا ک
 Dilemma; مَحظور، بى راهى، شَق، ناگُزیرى، دَرگیرى
 Dilettant; آدَم ِ بى عُرضه
 Dill; شِوید
@@ -825,7 +825,7 @@ dimmen; چِراغ را پایین کِشیدَن
 Ding; چیز، شِى
 - ein Ding der Unmöglichkeit; شیر ِ مُرغ و جان آدَمیزاد
 - aller guten Dinge sind drei; تا سه نَشه بازى نَشه، سه لِنگه سه پایه دارَد
-- guter Dinge sein;  .شاد و شَنگول بودَن، شاد و خُرَم ب
+- guter Dinge sein; .شاد و شَنگول بودَن، شاد و خُرَم ب
 - die Dinge liegen gut; کار و بارِش بَد نیست
 - das Ding lief nicht günstig; کار ِ مَن به دَست اَنداز اُفتاده
 - vor allen Dingen; قَبل از هَر چیز
@@ -889,7 +889,7 @@ Disput; مُجادِله، بِگو مَگو، مُرافِعِه
 - Disput fängt an; مُرافَعِه به راه میاُفتَد
 - wir hatten einen Disput; مَن و او حَرفِمان شُد
 Disputierkunst; عِلم ِ جَدَل
-Disqualifikation;  سَلب ِ صَلاحیَت، ـ اِمتیاز
+Disqualifikation; سَلب ِ صَلاحیَت، ـ اِمتیاز
 disqualifizieren;
 - jem. im Sport disqualifizieren; کِسى را از مِیدان ِ وَرزِش بیرون کَردَن
 - er hat s. selbst disqualifiziert; با این عَمَل، خودرا سَلب ِ صَلاحیَت کَرد، ـ از اِعتِبار اَنداخت
@@ -912,7 +912,7 @@ divergent; واگِرا
 Divergenz; مُبایَنَت، تَباعُد، واگِرائى، اِنحِراف، دورى، تَفاوُت، تَبایُن
 divergierend; مُبایِن، مُنحَرِف
 Diverses; مُتَفَرِقه، اَقسام و اَنواع
-diversifizieren;  .مُتَنَوِع کَردَن، گوناگون ک
+diversifizieren; .مُتَنَوِع کَردَن، گوناگون ک
 Dividende; سود، سَهام، سَهم
 dividieren; تَقسیم کَردَن
 Division;
@@ -927,7 +927,7 @@ doch; چِرا، به هَر حال
 - du kommst doch?; تو که مى آئى؟
 - hätte ich doch; کاش که
 - wo doch; چِرا که
-- wenn ich doch bloss ...;  ... کاش مَن
+- wenn ich doch bloss ...; ... کاش مَن
 - obwohl .., hat er doch wieder; با وُجود ِ اینکه ... باز هَم این ... را کَرد
 - du hast doch nicht gestohlen?; مَبادا دُزدى کَردى؟
 Docht; فَتیله
@@ -952,7 +952,7 @@ Dollar; دُلار
 dolmetschen; تَرجُمه کَردَن
 Dolmetscher; مُتَرجِم
 - vereidigter Dolmetscher; مُتَرجِم ِ قَسَم خورده
-domestizieren;  .خانِگى کَردَن، اَهل ک.، رام ک
+domestizieren; .خانِگى کَردَن، اَهل ک.، رام ک
 Domestizierung; اَهلیَت
 dominant; غالِبانه
 - Beziehung der dominanten und rezessiven Gene; رابِطهٔ غالِب و مَغلوبى ژِنها
@@ -1000,7 +1000,7 @@ Dorn; خار، تیغ
 Dornenhecke; خاربَست، دِرَخت ِ تیغدار
 Dornröschenschlaf;
 - aus einem Dornröschenschlaf erwachen; از خواب ِ قُرون بیدار شُدَن
-Dörrobst;  میوهٔ خُشک، خُشکبار
+Dörrobst; میوهٔ خُشک، خُشکبار
 Dorsch; صوف ِ دَریائى
 dort; آنجا
 Dose; قوطى
@@ -1026,7 +1026,7 @@ Drahtzaun; حِصار ِ سیمى
 Drahtzieher; تَحریک کُنَنده، مُحَرِک
 Drainage; زِه کِشى
 Drainagegraben; فاضِلاب رو، زِه کِش
-drall;  چاق
+drall; چاق
 - eine dralle Person (*:dick); شَخص ِ تَنومَند
 Drall; چَرخِش، تاب، پیچِش
 - Rechtsdrall; پیچِش ِ سَمت ِ راست
@@ -1046,13 +1046,13 @@ drängeln; تَنه زَدَن، هُل دادَن
 - bitte nicht drängeln; فِشار نَدهید، تَنه نَزنید
 - ich drängle mich nicht zu dieser Aufgabe; مَن به این کار مُبادِرَت نِمى کُنَم
 drängen; بَر کِسى فِشار آوَردَن
-- jem. drängen, zu tun;  .کِسى را اِصرار کَردَن، به کِسى وادار ک
+- jem. drängen, zu tun; .کِسى را اِصرار کَردَن، به کِسى وادار ک
 - in die Versammlung drängen; به مَجلِس هُجوم آوَردَن، ـ کَردَن
 - die Zeit drängt; وَقت کَم است، وَقت ضَیِق است
 - es drängte ihn nach draussen; هَواى بیرون به کَله اش زَده بود
 - in die Defensive drängen; بِحالَت ِ تَدافُع کِشاندَن
 Drängen; اِصرار
-- auf das Drängen hin von ...;  ... ِ به اِصرار
+- auf das Drängen hin von ...; ... ِ به اِصرار
 drangsalieren; کِسى را اَذیَت کَردَن
 dranhängen;
 - ein bisschen Zeit dranhängen; وَقتى بیشتَرى صَرف کَردَن
@@ -1142,7 +1142,7 @@ dreschen;
 - Korn dreschen; خَرمَن کوبیدَن
 - leeres Stroh dreschen; مُهمَل گفتن، یاوه گ.، مُهمَلَت بافتَن
 Dreschflegel; پادَنگ، گَندُم کوب
-dressieren;  .تَربیَت کَردَن، دَست آموز ک
+dressieren; .تَربیَت کَردَن، دَست آموز ک
 dressiert; دَست آموز
 Dressur;
 - Pferdedressur; سوغان
@@ -1158,7 +1158,7 @@ dringen;
 - die Stimme dringt bis ...; صِدا میرِسَد به
 dringend;
 - dringend ersuchen; مُصِراً دَرخواست کَردَن
-- ich bitte Sie dringend;  مُصِرانه از شُما ـ
+- ich bitte Sie dringend; مُصِرانه از شُما ـ
 - dringend erforderlich; نیاز ِ مُبرَم، واجِب ِ ... بودَن
 - in dringenden Fällen; دَر صورَت ِ ضَرورَت
 Dringlichkeit; فوریَت، ضَرورَت
@@ -1172,7 +1172,7 @@ droben; بالا
 - hoch droben; آن بالاى ِ بالا
 Droge; مُخَدِر، مَواد ِـ
 Drogensüchtiger; آدَم ِ عَمَلى، مُعتاد به مَواد ِ مُخَدِر
-drohen;  بَراى ِ کِسى خَط و نِشان کِشیدَن، کِسى را تَهدید کَردَن، بَر کِسى شاخ و شانه کِشیدَن
+drohen; بَراى ِ کِسى خَط و نِشان کِشیدَن، کِسى را تَهدید کَردَن، بَر کِسى شاخ و شانه کِشیدَن
 - die Sache droht kaputtzugehen; این چیز خَطَر ِ خَرابى دارَد
 drohend; هائِل، تَهدید آمیز
 - drohende Gefahr; خَطَر ِ نَزدیک
@@ -1194,7 +1194,7 @@ Druck;
 - innerer, seelischer Druck; بَختَک، فِشار ِ داخِلى
 - der Typ wollte mich unter Druck setzen; یارو میخواست مَرا سَر وکیسه بِکُنَد
 - jem. unter Druck setzen; کِسى را به سُتوه آوَردَن
-- auf jem. Druck ausüben (infin.);  (به کِسى مى چَربَند (چَربیدَن
+- auf jem. Druck ausüben (infin.); (به کِسى مى چَربَند (چَربیدَن
 - es wird kein Druck ausgeübt; تَضییق بِعَمَل نمى آیَد
 - Ohne Druck läuft nichts; موش به خانه اش نِمى رَفت جارو به دُمَش مى بَست
 - unter dem Druck der öffentlichen Meinung; تَحت ِ فِشار ِ اَفکار ِ عُمومى
@@ -1202,7 +1202,7 @@ Druck;
 - Bilddruck (kein Original); یِک تَصویر ِ باسِمه
 Drückeberger; طَفره زَن
 - er neigte zum Drückebergertum; دَر صَدَد ِشانه خالى کَردَن از زیر کار بود
-drucken;  .چاپ کَردَن، طَبع ک.
+drucken; .چاپ کَردَن، طَبع ک.
 drücken; فِشُردَن، فِشار دادَن
 - s. drücken vor ...; از ... طَفره زَدَن، ـ سَر باز زَدَن، از زیر ِ.. دَر رفتن، زِه زَدَن
 - jemandem die Hand drücken; دَست ِ کِسى را فِشُردن
@@ -1247,7 +1247,7 @@ Dübel; چوب ِ میخى، رُل پلاگ
 dubio;
 - in dubio pro reo; دَر صورَت ِ تَردید به نَفع ِ مُتَهِم رأى داده میشَوَد
 dubios; مُبهَم، مَشکوک، عَجیب
-ducken (s. -);  .خَم شُدَن، خوار ش
+ducken (s. -); .خَم شُدَن، خوار ش
 Duckmäuser; آدَم ِ آب زیر ِ کاه، آدَم ِ مُحیل، ـ بُزدِل
 Dudelsack; نِى ِ بادى
 Duell; مُبارِزه تَن بِتَن، دوئِل
@@ -1265,7 +1265,7 @@ Duldung; تَحَمُل، اِغماض، پَشمپوشى
 - mit Hilfe der Duldung durch ...; به پاس ِ اِستِفاده از اِغماض ِ کِسى
 dumm; اَبلَه، اَحمَق
 - bin ich dumm dagestanden; مَن صِفر شُدَم
-- s. dumm stellen;  .خود را سَر به کوچهٔ عَلى چَپ زَدَن، خود را نَفَهمى ز
+- s. dumm stellen; .خود را سَر به کوچهٔ عَلى چَپ زَدَن، خود را نَفَهمى ز
 - s. dumm anstellen; دَست و پا چُلُفته، بى عُرضه بودَن
 - ich habe mich dumm geredet; هِى حَرف زَدَم که خِرِفت شُدَم
 - jem. (oder etwas) dumm machen; خِنگ کَردَن
@@ -1346,9 +1346,9 @@ durch;
 - Tod durch das Schwert; به ضَرب ِ شَمشیر مُرد
 - er starb durch die Hand von ...; او بِدَست ِ فِلان کُشته شُد
 - jem. durch den Fluss führen; کِسى را از رود خانه عُبور دادَن
-- durch die Menschen durch, zu ...;  خودرا از لابِلاى ِ مَردُم میرِسانَند به
+- durch die Menschen durch, zu ...; خودرا از لابِلاى ِ مَردُم میرِسانَند به
 durchackern;
-- das Buch durchackern; کِتاب را حَلاجى کَردَن، ـ از سَر تاسَر خواندَن،  ـ از سَر تا تَه ـ
+- das Buch durchackern; کِتاب را حَلاجى کَردَن، ـ از سَر تاسَر خواندَن، ـ از سَر تا تَه ـ
 durcharbeiten;
 - Tag und Nacht durcharbeiten; شَب و روز مَشغول بودَن
 - das Thema durcharbeiten; موضوع را مُرور کَردَن
@@ -1371,7 +1371,7 @@ durchbohren;
 durchbohrend (z.B.: durch Metall); ثاقِب
 - durchbohrender Blick; چِشمان ِ نافِذ
 durchbrechen;
-- die Schokolade durchbrechen;  .شُکولادرا دونیم کَردَن، ـ دو پاره ک
+- die Schokolade durchbrechen; .شُکولادرا دونیم کَردَن، ـ دو پاره ک
 - die Absperrung durchbrechen; خُطوط ِ مُمانَعَت را شِکافتَن
 durchbrennen; جیم شُدَن، دَر رفتن
 - ... die Sicherungen durchbrennen; فیوزها مى سوزَند
@@ -1407,7 +1407,7 @@ durcheinanderbringen; مُنقَلِب ساختَن، قاتى پاتى کَرد
 - etwas durcheinanderbringen bei ...; کاسه کوزهٔ کِسی را به هَم زَدَن
 - jemandes Lage durcheinanderbringen; اوضاع ِ کِسی را بی ریخت کَردَن
 - wie kommt es, dass dich ... so durcheinander bringt? (popul.); چِته ... چِقَدر هولی؟
-durcheinandergeraten;  .بَر بُشول شُدَن، زیر و رو ش
+durcheinandergeraten; .بَر بُشول شُدَن، زیر و رو ش
 durcheinanderkommen;
 - durcheinanderkommen (die Angelegenheit); بُشولیدَن، مَغشوش شُدَن
 - durcheinanderkommen (der Text); پَس و پیش شُدَن
@@ -1463,7 +1463,7 @@ durchhalten;
 - was einen durchhalten lässt; اِستِمار مى بَخشَد
 - die Sache bis zum Ende durchhalten; جَریان را سَر بَسته نِگه داشتََن
 Durchhalteparolen; شُعار ِ اِستِقامَت
-durchkauen (eine Sache);  .حَلاجى کَردَن، نُشخوار ک
+durchkauen (eine Sache); .حَلاجى کَردَن، نُشخوار ک
 durchknallen;
 - durchgeknallt; چِل، چِل و وِل
 - der Typ ist so durchgeknallt; یارو این قَدر چِل است
@@ -1478,7 +1478,7 @@ durchlässig;
 Durchlässigkeit; قابِلیَت ِ عُبور
 Durchlauf; عُبور
 durchlaufen;
-- verschiedene Stufen durchlaufen; مَراحِل ِ مُختَلِفى را طِى کَردَن، ـ  پِیمودَن
+- verschiedene Stufen durchlaufen; مَراحِل ِ مُختَلِفى را طِى کَردَن، ـ پِیمودَن
 - Kaffee durchlaufen lassen; قَهوه را از فیلتِر گُذَراندَن
 - der Kaffee ist durchgelaufen; قَهوه رَد شُده است، - حاضِر است
 Durchlauferhitzer; آبگَرم کُن
@@ -1507,7 +1507,7 @@ Durchsage; خَبَر
 durchsagen; به اِطِلاع رسانیدَن
 durchschauen;
 - ich durchschaue etwas; مَن سَر از چیزى دَر مى آوَرَم، مَن سَرم از چیزى دَر مى آیَد، مى فَهمَم
-- er ist durchschaut;  کاسه اش از بام افتاد، طَبلَش دَرید
+- er ist durchschaut; کاسه اش از بام افتاد، طَبلَش دَرید
 durchscheinend; زُلال، شَفاف
 - die Farbe scheint durch; رَنگ از پُشتِش پِیدا مى شَوَد
 Durchschlag (*:Sieb); آب کِش
@@ -1533,7 +1533,7 @@ Durchschnittsnote;
 Durchschnittszahl; عَدَد ِ مُتَوَسِط
 Durchschrift; کُپى، رونِویسى
 durchsehen;
-- sorgfältig durchsehen;  .زیر و رو کَردَن، وارِسى ک
+- sorgfältig durchsehen; .زیر و رو کَردَن، وارِسى ک
 durchsetzen;
 - seinen Willen durchsetzen; ارادهٔ خودرا به اِجراء نافِذ کَردَن
 - er kann s. nicht durchsetzen; کُلاهِش پَشم نَدارَد
@@ -1554,7 +1554,7 @@ durchsickern;
 - das Wasser sickert durch; آب نَشت میکُنَد
 - die Nachricht sickert durch; پِیغام به بیرون رَخنه میکُنَد
 Durchsickern; چَکیدِگى، تَراوُش
-durchsieben;  .اَلَک کَردَن، سَرَند ک
+durchsieben; .اَلَک کَردَن، سَرَند ک
 durchsprechen;
 - mit jem. den Fall durchsprechen; با کِسى بِجُزئیات قَضیه را وارِسى کَردَن، قَضیه را پُختَن
 durchstechen;
@@ -1574,7 +1574,7 @@ durchstreifen;
 - wir durchstreiften die ganze Stadt; بالا و پائین ِ شَهررا گَز مى کَردیم
 durchströmen;
 - das Blut durchströmt den Körper; خون دَر بَدَن جَریان دارَد
-durchsuchen;  .بازرِسى کَردَن، تَفتیش ک.، جُستِجو ک.، پویِش ک.، پوئیدَن، کَند و کاو ک
+durchsuchen; .بازرِسى کَردَن، تَفتیش ک.، جُستِجو ک.، پویِش ک.، پوئیدَن، کَند و کاو ک
 - er durchsucht uns; او مارا وارِسى (باز رِسی) مى کُنَد
 Durchsuchung; تَفتیش، بازرِسى
 durchtränkt;
@@ -1587,7 +1587,7 @@ durchwühlen; چیزى را زیر و رو کَردَن
 durchzechen; شَب را دَر مِیخانه گُذَراندَن
 durchziehen;
 - den Faden durchziehen; نَخ را از توى ِ چیزى رَد کَردَن
-- das ganze Land durchziehen;  سَراسَر ِ کِشوَررا عُبور کَردَن، تَمام ِ کِشوَر را سَر کِشى کَردَن
+- das ganze Land durchziehen; سَراسَر ِ کِشوَررا عُبور کَردَن، تَمام ِ کِشوَر را سَر کِشى کَردَن
 - der Duft von ... durchzieht ...; بوى ِ ... پیچیده است
 durchzittern; به لَرزه در آوَردَن
 Durchzug; عُبور

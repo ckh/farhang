@@ -1,13 +1,13 @@
 ﻿ich; مَن، بَنده، اینجانب
 - selbstherrliches Ich; نَفس ِ اَماره
-- mein inneres Ich; ضَمیر ِ خود، خودى ِ خود، نَفس  ِ خود
+- mein inneres Ich; ضَمیر ِ خود، خودى ِ خود، نَفس ِ خود
 Ichsucht; خود خواهی
 Ideal; آرمان، ایدِه ال
 - Glaube an Ideale; ایمان به آرمان
 - idealer Mensch; آدَم ِ ایدهِ آلى
 - idealer, nicht erreichbarer Ort; جاى ِ فاضِله
 - idealer Typ; نِمونهٔ عالى
-Idealismus; آرمان باوَرى، اِنگار آئینى،  ایدِآلیسم
+Idealismus; آرمان باوَرى، اِنگار آئینى، ایدِآلیسم
 Idee; اَنگاره، پِندار، صورَت ِ ذِهنى، مِثال، پِنداشت، اَندیشه، زیوَر ذِهن
 - eine gute Idee; فِکر ِ خوبى است
 - auf die Idee kommen; به مَغز خُطور کَردَن
@@ -52,7 +52,7 @@ illustrieren; مُصَوَر کَردَن
 Illustrierte; مَجَلهٔ مُصَوَر
 im;
 - im Schweisse deines Angesichtes; به عَرَق ِ پیشانى اَت
-- im Verlauf der ...; دَر طِى  ِ..، دَر پِى  ِ
+- im Verlauf der ...; دَر طِى ِ..، دَر پِى ِ
 - im Auto; دَر ماشین، داخِل ِ ماشین
 Imbissbude; کَبابخانه
 Imitation; جَعَل
@@ -132,11 +132,11 @@ inaktiv; مُعَطَل، از فَعاليَت اَنداخته
 Inanspruchnahme; اِستِفاده
 Inauguration; مَراسِم ِ اِفتِتاح، مَراسِم ِ اِنتِصاب به مَقامى
 Inbegriff;
-- er ist ein Inbegriff von ...; او عِین  ِ.. است، او نِمونهٔ ... است
+- er ist ein Inbegriff von ...; او عِین ِ.. است، او نِمونهٔ ... است
 inbegriffen;
 - Trinkgeld inbegriffen; دَر قِیمَت ِ سِرویس مَنظور شُده است
 - Getränke sind inbegriffen; مَشروبات جُزو ِ حِساب است
-- Essen & Trinken inbegriffen; مُتَضَمِن  ِ خورد و خوراک، به اِنضِمام ِ ـ
+- Essen & Trinken inbegriffen; مُتَضَمِن ِ خورد و خوراک، به اِنضِمام ِ ـ
 Inbesitznahme; تَصاحُب
 Inbusschraube; پیچ ِ آلِن
 indem;
@@ -206,7 +206,7 @@ informieren; خَبَر دادَن، اِطلاع د.، مُطَلَع کَرد�
 - jem. wird darüber informiert, dass ...; از کِسى به اِستِحضار میرِسَد که
 - informierte Kreise; مُحافِل ِ مُطَلَع
 - entsprechend gut informierter Kreise; به گفتهٔ مَنابِع مُطَلَع
-Infothek; اِعتِلاع رِسانی، بَخش  ِاِطِلاعات
+Infothek; اِعتِلاع رِسانی، بَخش ِاِطِلاعات
 Infrarot; مادون ِ قِرمِز، فُرو ِ سُرخ
 Infrastruktur; زیر بَناى ِ اِقتِصادى، زیر ساخت ِ ـ
 Infusion; تَزریق ِ سِرُم
@@ -248,7 +248,7 @@ inkrafttreten; بِه اِجرا دَر آمَدَن
 Inkubationszeit; زَمان بِین ِ سَرايَت و پَدید آمَدَن ِ مَرَض
 inmitten;
 - inmitten der Entscheidung; گَرم ا گَرم ِ نَتیجه گیرى
-- inmitten des Kampfes;  دَر بُحبوحهٔ مُبارزه، دَر وَسَط ِ ـ
+- inmitten des Kampfes; دَر بُحبوحهٔ مُبارزه، دَر وَسَط ِ ـ
 innehaben; .بَر عُهده داشتن، دَر اِختیار د
 innehalten; مَکث کَردَن
 - ich habe innegehalten; مُچ ِ خودَم را گِرِفتَم
@@ -267,7 +267,7 @@ innerlich;
 innerparteilich; دُرون ِ حِزبى
 Innerst;
 - das Innerste des Menschen; (pl.) (بَطن ِ اِنسان، ضَمیر ِ اِنسان (ضَمايِر
-- ... hat sein Innerstes so erfüllt, dass ...;  چیزى بِطورى دَر رَگ و پِى او ریشه دَوانیده بود که
+- ... hat sein Innerstes so erfüllt, dass ...; چیزى بِطورى دَر رَگ و پِى او ریشه دَوانیده بود که
 innig; پُر اِخلاص
 Innovation; نو آوَری
 Insasse; سَرنِشین
@@ -278,7 +278,7 @@ Insekt; (pl.) (حَشَره (حَشَرات
 - lästige Insekten sein (Schimpfwort); جَک و جولاد بودَن
 Insektizide; داروهاى ِ ضِد ِ حَشَرات
 Insel; جَزیره
-Inselgruppe; مَجمعَ  اُلجَزايِر
+Inselgruppe; مَجمعَ اُلجَزايِر
 Inserat; آگَهی
 insgeheim; دَر اِخفاء
 insgesamt; روى ِ هَم رَفته، جامِع، قاطِبَتاً، دَر کُل
@@ -441,7 +441,7 @@ ironisch; طَعنه آمیز
 - sie versuchte, nicht ironisch zu werden; سَعی می کَرد طَعنه نَزَنَد
 irrational; غِیر ِ مَنطِقى، نامَعقول
 irreal; غِیر ِ واقِعى
-irreführen; مُنحَرِف کَردَن، گُمراه کَردَن، به گُمراهى اَنداختَن، به بیراهه ا.،  بِآب راندَن
+irreführen; مُنحَرِف کَردَن، گُمراه کَردَن، به گُمراهى اَنداختَن، به بیراهه ا.، بِآب راندَن
 irreführend; اِغفال کُنَنده
 Irreführung; تَضلیل، اِغفال
 irregeleitet, verirrt; ضَلیل، بِضِلالَت اُفتاده
@@ -457,7 +457,7 @@ Irrer; مَجنون، دیوانه
 irreversibel; غِیر ِ قابِل ِ باز گَشت، يِکجانِبه
 irrig; اِشتِباه، غَلَط
 - das ist eine irrige Meinung; عَقیدهٔ مَغلوط است
-irritieren;  .ذِهن ِ کِسى را مَشوب کَردَن، ـ گیچ ک.، ـ مَغشوش ک
+irritieren; .ذِهن ِ کِسى را مَشوب کَردَن، ـ گیچ ک.، ـ مَغشوش ک
 irrlichtern; پَر و بال زَدَن، به خود پیچیدَن
 irrsinnig; جُنون آمیز
 Irrtum; ضَلَل، خَبط، خَطا، غَلَط، اِشتِباه، سَقَم

@@ -157,7 +157,7 @@ Mandant; مُوَکِل
 Mandarine; نارَنگى
 Mandat;
 - sein Mandat niederlegen; از وِکالَت ِ مَجلِس اِستِعفا دادَن
-- Parlamentsmandat; کُرسى  ِمَجلِس
+- Parlamentsmandat; کُرسى ِمَجلِس
 Mandatsgebiet; سَرزَمین ِ تَحت ِ قِیموميَت
 Mandel;
 - Mandel (med.); لوزه، لوزَتيِن
@@ -165,7 +165,7 @@ Mandel;
 - gebrannte Mandel; بادام ِ سوخته
 mandelförmig; لوزى
 Mandelplantage; بادام زار
-Mandoline (dreisaitige-);  سِتار
+Mandoline (dreisaitige-); سِتار
 Manege;
 - Pferdemanege; اَسبدَوانى
 - Zirkusmanege; مِیدان ِ سیرک
@@ -283,7 +283,7 @@ marschieren; خَرَکَت کَردَن
 - im Stand marschieren; رِژه بَر جا
 - marsch!; به پیش!، قَدَم رو
 martern; کِسی را جَفا کَردَن
-Märtyrer; (pl.)  (شَهید (شُهَداء
+Märtyrer; (pl.) (شَهید (شُهَداء
 - als Märtyrer sterben; شَهید شُدَن
 - schiitische Märtyrergeschichten (erzählen); (روضه (خواندَن
 Martyrium; شَهادَت
@@ -332,23 +332,23 @@ massiv;
 - massiv, schwer; ثَقیل
 - massive Vergeltung; اِنتِقام ِ اَنبوه
 maßlos; بى حِساب و کِتاب، خارِج از اَندازه
-Maßnahme; (pl.)  (اِقدام ( ـ ات
+Maßnahme; (pl.) (اِقدام ( ـ ات
 - vertrauensbildende Maßnahmen; اِقدامات ِ اِعتِماد اَنگیز
 - vorbeugende Maßnahmen; اِقدامات ِ پیش گیرَنده
 - Maßnahmen ergreifen; اِقدامی بَرای ِ ... فُرو گُذار کَردَن
-- sie ergriffen Maßnahmen, um ...; آنها اِقدام  به ... کَردَند
+- sie ergriffen Maßnahmen, um ...; آنها اِقدام به ... کَردَند
 Maßregel; مُقَرَرات، نِظام
 Maßstab; آرمون، مِقیاس، مِعیار، قاعِده
 mästen; حال آوَردَن
 Mastvieh; شیرمَست
-Material; (pl.)  (ماده (مَواد)، خام، وَسیله (وَسائِل
+Material; (pl.) (ماده (مَواد)، خام، وَسیله (وَسائِل
 - von dem Material dieser Welt (wörtl: Kette & Einschuss); از تار و پود ِ این جَهان
 Materialermüdung; فَرسودِگى ِ ماتِریال
-- Dialektischer Materialismus;  ماتِریالیزم ِ دیالکتیک، مادهٔ آئینى ِ جَدَلى
+- Dialektischer Materialismus; ماتِریالیزم ِ دیالکتیک، مادهٔ آئینى ِ جَدَلى
 materialistisch; دَهرى، مادى
 Materie; ماده، جِرم
 materiell; مادى، مالى، عِینى
-- unsere materielle Lage war schlecht;  وَضع ِ مالى ِ خودِمان هَم چَنگى به دِل نِمى زَد
+- unsere materielle Lage war schlecht; وَضع ِ مالى ِ خودِمان هَم چَنگى به دِل نِمى زَد
 Mathematik; ریاضيَت، ریاضى
 Mathematiker; ریاضى دان
 Matratze; تُشَک
@@ -393,7 +393,7 @@ Mausefalle; موش تَله، تَلهٔ موش
 mausen; ناخُنَک زَدَن، کِش رَفتَن
 Mauser; پَر ریزى
 mausern; پَر ریختَن
-Mausoleum; (pl.)  (مَقبَره، آرامگاه، تُربَت، بُقِعه، ضَریح (ضَرايِح
+Mausoleum; (pl.) (مَقبَره، آرامگاه، تُربَت، بُقِعه، ضَریح (ضَرايِح
 Maut; عَوارِض ِ خیابان
 maximal; حَدِاَکثَر، نَهايَت
 maximieren; بِحَد ِ اَکثَر رِساندَن، از ... حَدِاَکثَر ِ اِستِفاده را کَردَن
@@ -476,7 +476,7 @@ meinen; فِکر کَردَن
 - was damit gemeint ist; که چه چیزى مَنظور ِ نَظَر است
 - als sie verstanden, dass sie mit ... gemeint sind; وَقتیکه مُتَوَجه شُدَند که مَنظور ِ ... خود ِ آنها است
 meinetwegen; مُشکِلى نَدارَد، باشه
-Meinung (pl.);  (نَظَر (اِنظار)، عَقیده (عقايِد
+Meinung (pl.); (نَظَر (اِنظار)، عَقیده (عقايِد
 - die Meinung festigt s. bei mir; آن عَقیدهٔ مَن رُسوخ مى کُنَد
 - nach seiner Meinung; بِخیال ِ خود، به نَظَرَش، به زَعم ِ او
 - ich bin der Meinung, dass ...; من مُعتَقِدَم که
@@ -504,7 +504,7 @@ Meinungsfreiheit; آزادى ِ تَفَکُر
 - Denk- & Meinungsfreiheit; آزادى ِ تَفَکُر و آزادى ِ عَقیده
 Meinungsmacher; صاحِب ِ نَظَر
 Meinungsumfrage; هَمه پُرسى، بَررِسى ِ عَقايِد ِ عُمومى
-Meinungsverschiedenheit (in ...);  تَشَتُت ِ آراء، مُغايِرَت، دودَستِگی، اِختِلاف ِ نَظَر (- دَر
+Meinungsverschiedenheit (in ...); تَشَتُت ِ آراء، مُغايِرَت، دودَستِگی، اِختِلاف ِ نَظَر (- دَر
 Meise; چَرخ ریسَک
 Meißel; قَلَم ِ تَراش، اِسکَنه
 meist;
@@ -529,7 +529,7 @@ melden;
 - s. bei der Polizei melden; خودرا به پُلیس مُعَرِفى کَردَن
 - s. in der Schule melden; به سُئوال ِ مُعَلِم جَواب دادَن
 Meldung; گُذارِش، اِعلام
-- Falschmeldung (abgeben);  (چِل و چو (اَنداختَن
+- Falschmeldung (abgeben); (چِل و چو (اَنداختَن
 melken; شیر دوشیدَن
 Melker; شیر دوش
 Melodie; نَغمه، تَرانه، آهَنگ
@@ -550,7 +550,7 @@ Menge; (pl.) مِقدار (مَقادِر)، قَدر
 - die Menge ist nicht wichtig; مِقدارَش مُهِم نیست
 - Menge Geld; مَبلَغ ِ کَلانى
 - grosse Menge; قَدر ِ زیاد
-- täglich nahm er eine gewisse Menge; هَر روز مِقدارى  ِ... گِرِفت
+- täglich nahm er eine gewisse Menge; هَر روز مِقدارى ِ... گِرِفت
 - wir haben uns eine Menge zu erzählen; کُلى ِ حَرف بَراى ِ گُفتَن داریم
 - Gesamtmenge der ...; ِ مَجموع
 - Menschenmenge; (pl.) فوج (اَفواج)، انبوه
@@ -722,16 +722,16 @@ Mindestreserve; حَد ِاَقَل ِ ذَخايِر، ذَخايِر ِ اِج
 Mindeststimmzahl; حَد ِ نِصاب ِ آرا
 Mine;
 - Mine (milit.); مین
-- Bergwerksmine; (pl.)  (مَعدَن (مُعادِن
+- Bergwerksmine; (pl.) (مَعدَن (مُعادِن
 - Kugelschreibermine; مَغزهٔ خودکار
 Minensuchschiff; کَشتى ِ مین جَمع کُن
-Mineral; (pl.)  (مَعدَن (مَعدَنیات
+Mineral; (pl.) (مَعدَن (مَعدَنیات
 mineralisch; کانى
 Mineralogie; عِلم ِ مَعدَن، مَعدَن شِناسى
 Mineralwasser; آب ِ مَعدَنى
 Minimum; حَد ِ اَقَل
 - mit einem Minimum auskommen; با قَدر ِ حَدِاَقَل سَر کَردَن
-- Existenzminimum; سَد  ِ رَمَق
+- Existenzminimum; سَد ِ رَمَق
 Minister; وَزیر
 - Minister für besondere Aufgaben; وَزیر ِ وَظايِف ِ ویژه
 - Minister ohne Geschäftsbereich; وَزیر ِ مُشاوِر
@@ -785,7 +785,7 @@ missfallen;
 - sie missfallen ihm; او آنهارا مَقبول نِمى کُنَد
 - das missfällt ihm; چیزى بَر او گِران مى آيَد، دَر نَظَر ِ او بَد مى آيَد، از این چیزها بَدِش مى آيَد
 - was sein Missfallen erregt; که موجِب ِ ناخُشنودى ِ اوست، ـ عَدَم ِ رِضايَت ِ اوست
-Missgeschick; (pl.)  شَقاوَت، آسیب، مَضیقه (مَضايِق)، بَدبیاری
+Missgeschick; (pl.) شَقاوَت، آسیب، مَضیقه (مَضايِق)، بَدبیاری
 - ein Missgeschick sein; بَد بیاری بودَن
 missgestaltet (z.B. Kleidungsstück); بَدریخت
 missglücken;
@@ -793,7 +793,7 @@ missglücken;
 missgönnen; رِشک بُردَن
 Missgunst; خُصونَت
 missgünstig; بَد اَندیش، خاصِم
-misshandeln;  .کِسى را شَل و پَل کَردَن، با کِسى بَد رَفتارى ک
+misshandeln; .کِسى را شَل و پَل کَردَن، با کِسى بَد رَفتارى ک
 Misshandlung; بَدرَفتارى
 Missionar; مُرسَل ِ خُداوَند، مُبَشِر
 missionieren; بِشارَت دادَن، اِنجیل را به مَردُم رِساندَن
@@ -1070,14 +1070,14 @@ monatlich; ماهانه، ماهیانه
 Monatsbericht; گُزارِش ِ ماهانه
 Monatsgehalt; ماهوارى، حُقوق ِ ماهیانه
 Monatsnamen; اَسامی ِ ماها
-- 21. März - 20. April	(31Tage); فَروَردین 
-- 21. April - 21. Mai	(31 - " -); اُردیبِهِشت
-- 22. Mai - 21. Juni  (31 - " -); خُرداد
-- 22. Juni - 22. Juli  (31 - " -); تیر
+- 21. März - 20. April (31Tage); فَروَردین 
+- 21. April - 21. Mai (31 - " -); اُردیبِهِشت
+- 22. Mai - 21. Juni (31 - " -); خُرداد
+- 22. Juni - 22. Juli (31 - " -); تیر
 - 23. Juli - 22. August (31 - " -); مُرداد
 - 23. August - 22. September (31 - " -); شَهریوَر
-- 23. September - 22. Oktober	(30 - " -); مِهر
-- 23. Oktober - 21. November	(30 - " -); آبان
+- 23. September - 22. Oktober (30 - " -); مِهر
+- 23. Oktober - 21. November (30 - " -); آبان
 - 22. November - 21. Dezember (30 - " -); آذَر
 - 22. Dezember - 20. Januar (30 - " -); دِى
 - 21. Januar - 19. Februar (30 - " -); بَهمَن
@@ -1097,7 +1097,7 @@ Monogramm; طُغراء، اَوَلین حَرف ِ نام
 Monokratie; تَکسالارى
 Monopol; اِنحِصار
 - das Monopol auf ... (z.B. auf eine bestimmte Marke); مُنحَصِر به
-- Die Firma hat das Kaffeemonopol;  این شِرکَت دارای ِ اِنحِصار ِ تولید ِ قَهوه است، - حَق ِ تولید ِ قَهوه است
+- Die Firma hat das Kaffeemonopol; این شِرکَت دارای ِ اِنحِصار ِ تولید ِ قَهوه است، - حَق ِ تولید ِ قَهوه است
 monopolisieren; به اِنحِصار دَر آوَردَن
 monopolisiert; مُنحَصِر
 monopolistisch; اِنحِصار گِرانه، اِنحِصارى
@@ -1371,7 +1371,7 @@ Musikinstrument; (pl.) ساز، آلَت (آلات) ِ موسیقى
 - Zither; سَنتور
 musizieren; ساز زَدَن، مُطرِبى کَردَن
 Muskatnuss; جوز ِ بویا
-Muskel; (pl.)  (ماهیچه، عَضُله (عَضُلات
+Muskel; (pl.) (ماهیچه، عَضُله (عَضُلات
 - Muskel, gestreift; ماهیچهٔ مُخَطَط
 - Muskel, glatt; هاهیچهٔ صاف
 Muskelelastizität; اِرتِجاع ِ عَضُلات 
@@ -1398,7 +1398,7 @@ Muster; اُلگو، نِمونه، طَرح، نَقش، سَرمَشق
 mustern;
 - jem. von Kopf bis Fuss mustern; کِسى را وَراَنداز کَردَن، ـ وَراَنداختَن
 Musterung;
-- Musterung zum Wehrdienst;  (مُعايِنهٔ پِزِشکى (بَراى ِ خِدمَت ِ نِظامى
+- Musterung zum Wehrdienst; (مُعايِنهٔ پِزِشکى (بَراى ِ خِدمَت ِ نِظامى
 Mut; جُرأت، شُجاعَت، دِلاوَرى، جَسارَت، بى باکى، رِشادَت، حِماسَت
 - er nimmt seinen Mut zusammen; او به خود جُرأت میدَهَد
 - jem. Mut machen; به کِسى دِلدارى دادَن، - قُوَت ِ دِل دادَن
@@ -1408,7 +1408,7 @@ Mut; جُرأت، شُجاعَت، دِلاوَرى، جَسارَت، بى با
 - ihr Mut sinkt; دِلهايِشان فُرو مى ریزَد
 - hab Mut!; شُجاع باش
 - er hat echt Mut; جِگَرِش را دارَد
-Mutation; جَهِش  ِ وِراثَت، موتاسیون
+Mutation; جَهِش ِ وِراثَت، موتاسیون
 mutig; بى باک، سَر دَر کَف، شُجاع، جَرى، رَشید، دِلاوَر، مُتَجاسِر، جَسور، دِلدار
 - mutig s. auf den Weg machen; جان به کَف به راه اُفتادَن
 - ich wurde ein bißchen mutiger; يِک کَم شیر شُدَم
@@ -1431,7 +1431,7 @@ Mutwillen;
 mutwillig; عَمداً
 - mutwillig etwas kaputtmachen (*:absichtlich); عَمداً چیزى را خَراب کَردَن
 Mütze; کُلاه
-Myrrhe;  مُر
+Myrrhe; مُر
 Myrthe; آس
 Mysterienspiel; شَبیه
 mysteriös; مَرموز
@@ -1440,4 +1440,4 @@ Mysterium; رَمز، سِر
 Mystik; عِرفان، تَصَوُف
 Mystiker; عارِف، سالِک، صوفى
 mystisch; اَفساطیرى، اِسرارآمیز، مُبهَم، مَرموز
-Mythos; (pl.)  (اُسطوره (اَساطیر
+Mythos; (pl.) (اُسطوره (اَساطیر

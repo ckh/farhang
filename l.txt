@@ -1,6 +1,6 @@
 Lab; خَمیر مایهٔ پَنیر
 laben (s. -); لِذَت بُردَن
-labern;  وِراجی کَردَن، چُس نَفَسی کَردَن
+labern; وِراجی کَردَن، چُس نَفَسی کَردَن
 - laber nicht rum; پُر چانِگی نَکُن
 Labferment; مایه پَنیر
 labil; ناپایدار، ناثابِت
@@ -73,7 +73,7 @@ Lage; وَضعيَت، موقِعيَت
 - wenn Ihr Euch in der Lage seht, ...; دَر صورَتی که قابِل می دانید
 - seiner Lage nicht mehr Herr sein; حال و روز ِ خودرا نَفَهمیدَن
 - er ist nicht in der Lage, zu heiraten (z.B. wegen Geldmangel); اِستِطاعَت ِ اِزدِواج نَدارَد
-Lager; (pl.)  (اَنبار، ذَخیره (ذَخايِر
+Lager; (pl.) (اَنبار، ذَخیره (ذَخايِر
 - etwas auf Lager haben; چیزی را دَر چَنته داشتَن
 - sie setzten alles ein, was sie an Erfahrung auf Lager hatten; هَر آنچه دَر چَنتهٔ تَجرُبه داشتَند بیرون ریختنَد
 - Eislager; مَخزَن ِ يَخ
@@ -152,7 +152,7 @@ lang; طولانی
 - lang & breit; دور و دِراز، عَریض و طَویل
 - er erzählt lang & breit; او شاخ و بَرگ حَرف می زَنَد
 - es ist lange her; دیری است که، دیرزَمانی ـ، مُدَتهاست که
-- es ist schon lange her, dass wir nicht im ... waren;  خِیلی وَقت بود که دیگَر پايِمان نَرِسیده بود به
+- es ist schon lange her, dass wir nicht im ... waren; خِیلی وَقت بود که دیگَر پايِمان نَرِسیده بود به
 - lange Fasern; رِشته های ِ طَویل، ـ طولانی
 - das Leben währt lange; عُمر کَفاف می کُنَد
 - langer Zeitraum; مُدَت ِ مَدید، زَمان ِ دیرنَد، ـ زیاد
@@ -193,8 +193,8 @@ langsam; به کُندی، آهِسته، يَواش، کُند
 - ganz langsam wird er wach; به کُندی بیدار می شَوَد
 Langsamkeit; بَطائَت
 Längsschnitt; مَقطَع ِ طولی
-langweilen (s. -);  .ضَجور بودَن، کَسِل شُدَن، خَسته ش
-- langweilig sein;  .مَلول بودَن، خَسته کُنَنده ب
+langweilen (s. -); .ضَجور بودَن، کَسِل شُدَن، خَسته ش
+- langweilig sein; .مَلول بودَن، خَسته کُنَنده ب
 - langweiliges Leben; زِندِگی ِ کَسِل کُنَنده، ـ مَلال آوَر
 - uns ist langweilig; از هَمه چیز مَلولیم، ـ خَسته ایم
 Langweiler; اَلدَنگ
@@ -327,7 +327,7 @@ laufen; دَویدَن
 - ohne dass wir Gefahr laufen; بی اینکه این خَطَررا دَر پیش داشته باشیم
 - wenn bei mir alles gut läuft; اگر کار و بارَم خوب باشَد
 - das Cafe läuft gut; قَهوه خانه خوب می چَرخَد
-- er läuft als einer von ihnen, er gilt -;  او بِعُنوان ِ يِکی از آنها گُذَران می کُنَد
+- er läuft als einer von ihnen, er gilt -; او بِعُنوان ِ يِکی از آنها گُذَران می کُنَد
 - er lässt den Motor laufen; می گُذارَد موتور روشَن باشَد
 - das ist gelaufen (*:aus); کار از کار گُذَشته
 - zum Laufen bringen; دايِر کَردَن
@@ -340,7 +340,7 @@ laufend;
 - auf dem Laufenden sein über; بَر چیزی واقِف بودَن
 laufenlassen (jem. -); .کِسی را رَها کَردَن، ـ وِل ک
 Läufer; دَوَنده
-- Läufer, Teppich; زیر اَنداز، فَرش  ِ کِناره
+- Läufer, Teppich; زیر اَنداز، فَرش ِ کِناره
 - jem. den Roten Läufer ausrollen; پا اَنداختَن بَرای ِ کِسی
 läufig; طَلَب آمَدَن، فَحل آ.، لاس زَدَن، لاسیدَن
 - läufiger Hund; سَگ ِ لاس
@@ -405,7 +405,7 @@ Lautstärke; شِدَت ِ صوت
 Lautstärkeregelung; کُنترُل ِ شِدَت ِ صوت
 Lautwandel (literat.); اِبدال ِ حُروف
 lauwarm; گَرم سَرد، وِلَرم
-Lava;  - ِ سَنگهای ِ آتَشفِشانی، تودهٔ گُداختهٔ آتَشفِشانی، مَواد ِ مُذاب
+Lava; - ِ سَنگهای ِ آتَشفِشانی، تودهٔ گُداختهٔ آتَشفِشانی، مَواد ِ مُذاب
 Lavendel; اُسطوخودوس
 Lavieren; چَم و خَم
 Lawine; بَهمَن
@@ -436,7 +436,7 @@ Leben (n); رَوان، حَیات، زِندِگی
 - das nackte Leben retten; جان سالِم به دَر بُردَن
 - das Leben währt lange; عُمر کَفاف میکُنَد
 - bis ans Ende des Lebens; تا آخَر ِعُمر
-- nach dem Leben trachten;  به قَصد ِ جان زَدَن
+- nach dem Leben trachten; به قَصد ِ جان زَدَن
 - etwas ins Leben rufen; چیزی را به نَقد کِشیدَن، ـ به وُجود آوَردَن
 - der Verein wurde im Jahre ... ins Leben gerufen; اَنجُمَن دَر سال ِ ... موجوديَت یافت
 - jem. ins Leben zurückrufen; دَست از دِل ِ کِسی بَرداشتَن، کِسی را به حال ِ خود گُذاشتَن
@@ -457,7 +457,7 @@ Leben (n); رَوان، حَیات، زِندِگی
 - Das Leben ist zu kurz, um ständig für sein Recht zu kämpfen; آدَم دو دَفعه نِمی میرَد گاه دِفاع از حَق و حَقیقَتی رَعَب و هَراس ناسِزاوار است
 - Leben ist wertvoller als Geld; پول است نَه جان است که آسان بِتَوان داد
 - Die Mittel reichen weder zum Leben noch zum Sterben; سَد ِ رَمِق، پاداش ِ بخور و نَمیر
-- Jedes Korn, das in die Erde fällt, entsteht zu neuem Leben, warum  glaubt Ihr das nicht auch für den Menschen?;   کُدام دانه فُرو رَفت دَر زَمین که نَرُست چِرا به دانهٔ اِنسانيَت این گُمان نَباشَد؟
+- Jedes Korn, das in die Erde fällt, entsteht zu neuem Leben, warum glaubt Ihr das nicht auch für den Menschen?; کُدام دانه فُرو رَفت دَر زَمین که نَرُست چِرا به دانهٔ اِنسانيَت این گُمان نَباشَد؟
 - das Leben von Tausenden; گُذَران ِ هِزاران نَفَر
 lebend; زِنده
 - lebende Mauer (beim Fussball); دیوار ِ گوشتی
@@ -520,7 +520,7 @@ Lebhaftigkeit; جُنب و جوش
 leblos; بی جان، مُرده
 - leblose Maschine; ماشین از جان اُفتاده، ـ اَنداخته، ـ از کار اُفتاده
 lechzen; از فَرط ِ دِرَندِگی لَه لَه زَدَن
-- lechzend sein nach; راغِب ِ چیزی بودَن،  آب از دَهانَش سَرازیر می شَوَد،  سَخت شیفته و خواهان ِ چیزی  گَشتَن، آب اَنداختَن ِ دَهان،  فُزوده شُدَن ِ اِشتِها نِسبَت بچیزی، آب دَر دَهان آمَدَن  از... ، شائِق و خواهان ِ آن شُدَن
+- lechzend sein nach; راغِب ِ چیزی بودَن، آب از دَهانَش سَرازیر می شَوَد، سَخت شیفته و خواهان ِ چیزی گَشتَن، آب اَنداختَن ِ دَهان، فُزوده شُدَن ِ اِشتِها نِسبَت بچیزی، آب دَر دَهان آمَدَن از... ، شائِق و خواهان ِ آن شُدَن
 leck; سوراخ دار، رَخنه دار
 Leck (n); سوراخ، رَخنه
 lecken; لیسیدَن
@@ -531,7 +531,7 @@ Leder; چَرم
 - zäh wie Leder; سِفت تَر از چَرم ِ ساغِری است
 - Rohleder; پوست ِ آش نَکرده، پوست ِ خام
 Lederhaut; صُلبیه
-Ledertasche (aus Schafshaut);  اَنبان
+Ledertasche (aus Schafshaut); اَنبان
 ledig; مُجَرَد
 leer; پوک، خالی
 - der Zug war leer; قَطار خِلوَت بود، ـ خالی بود
@@ -585,7 +585,7 @@ Lehrbuch; کِتاب ِ آموزِشی
 Lehre; دورهٔ آموزِشی، کارآموزی
 - er macht seine Lehre; او دورهٔ آموزی را می گُذَرانَد
 - Lehre ziehen aus; دَرس ِ عِبرَت گرَفتَن از
-lehren;  .دَرس دادَن، تَعلیم د
+lehren; .دَرس دادَن، تَعلیم د
 - jem. seine Lektion lehren; کِسی را دَرس دادَن
 Lehrer; آموزگار، مُعَلِم، مُدَرِس
 - Lehrer (geistiger); مُرشِد
@@ -647,7 +647,7 @@ leichtsinnig; سَر در هَوا، بی اِحتیاط، سَبُک سَر
 leid;
 - es tut uns leid, dass es nicht so ist; دَریغ که چِنین نیست
 - wo es dir leid tut, dass ...; که حِیفَت می آيَد که
-- ich bin seine Unaufmerksamkeit leid;  از دَست ِ سَر به هَوائی ِ این شَخص خَسته می شَوَم
+- ich bin seine Unaufmerksamkeit leid; از دَست ِ سَر به هَوائی ِ این شَخص خَسته می شَوَم
 Leid (n); نِکبَت، دَرد، رَنج
 - jem. kein Leid zufügen; به کِسی صَدَمه ای نَزَدَن
 - Leid tragen; غُصه خوردَن
@@ -727,7 +727,7 @@ leistungsfähig;
 - leistungsfähiges System; نِظام ِ کارآمَد
 Leistungsfähigkeit; کارائی، کِفايَت، بازدِه، تَوانائی
 Leistungsgesellschaft; جامِعهٔ رِقابَتی
-Leistungsverbrauch (Elektrizität);  مَصرَف کُنَندهٔ قُدرَت
+Leistungsverbrauch (Elektrizität); مَصرَف کُنَندهٔ قُدرَت
 Leitartikel; سَر ِ مَقاله
 leiten; رَهنِمون کَردَن، راهنَمائی کَردَن، هِدايَت کَردَن، اِداره کَردَن، ریاسَت داشتَن
 - leitendes Organ; نِهاد ِ مُدیريَت
@@ -748,7 +748,7 @@ Leitung; راهبُرد
 - er hat die Leitung der Schule; او ریاسَت ِ مَدرِسه را عُهده دار است
 - Leitung der laufenden Geschäfte; راندَن ِ اُمور ِ جاری
 - Lange Leitung; دو زاری اَش نِمیاُفتَد، - دیر می اُفتَد
-- Oberleitung (bei Eisenbahn);  (سیم ِ بالا سَر ( ِقَطار
+- Oberleitung (bei Eisenbahn); (سیم ِ بالا سَر ( ِقَطار
 - Wasserleitung; لوله آب
 Leitungswasser; آب ِ شیر
 Leitwesen;
@@ -800,7 +800,7 @@ letzte; دیرین، آخَرین، آخَر
 - letzte Antwort; جَواب ِ خاتِم
 - das letzte Mal; واپَسین بار
 - eine letzte Ursache muss es doch geben; يِک عِلَت ِ غائی بايَد وُجود داشته باشَد
-- das war wirklich das letzte;  واقعِاً باطِل و کَشک بود
+- das war wirklich das letzte; واقعِاً باطِل و کَشک بود
 - jeder letzte Donnerstag im Monat; هَر پَنجشَنبه آخَر ِ ماه
 - das letzte Wochenende im Mai; آخَر ِ آخَرین هَفته دَر ماه ِ مِه
 - auf der letzten Reise; دَر واپَسین سَفَر
@@ -876,8 +876,8 @@ Liebe (f); مُحَبَت، حُب، عِشق
 - er macht das aus Liebe; این را با مُحَبَت اَنجام میدَهَد
 - Erweisung von Liebe; تَعشُق
 - Strohfeuer der Liebe; عِشق های ِ پوشالی
-- So wie der Rauch zum Feuer gehört, gehört der Schmerz zur Liebe;مُلزِم ِ آتَش  دود است، مُلزِم ِ عِشق دَرد
-- Die Traurigkeit der Liebe kam und nahm andere Traurigkeiten weg, die Nadel entfernt vom Fuss die Dornen (i.S. von: beides tut weh, hat aber heilende Wirkung) (Molawi);  غَم ِ عِشق آمَد و غَمهای ِ دِگَر بِبُرد سوزَنی بايَد کَز پای بَرآوَرَد خاری
+- So wie der Rauch zum Feuer gehört, gehört der Schmerz zur Liebe;مُلزِم ِ آتَش دود است، مُلزِم ِ عِشق دَرد
+- Die Traurigkeit der Liebe kam und nahm andere Traurigkeiten weg, die Nadel entfernt vom Fuss die Dornen (i.S. von: beides tut weh, hat aber heilende Wirkung) (Molawi); غَم ِ عِشق آمَد و غَمهای ِ دِگَر بِبُرد سوزَنی بايَد کَز پای بَرآوَرَد خاری
 liebedienernd; سینه مال
 Liebelei; عِشق بازی
 lieben; دوست داشتَن، مُحَبَت کَردَن
@@ -1001,7 +1001,7 @@ Listenwahl; اِنتِخاب ِ جَدوَلی
 listig; روباه باز، نیرَنگ، با کِسی حیله کَردَن، حُقه باز
 Liter; لیتِر
 literarisch; اَدَبی
-Literat (pl.);  (اَدیب (اُدَباء
+Literat (pl.); (اَدیب (اُدَباء
 Literatur; اَدَبیات
 - jem. Literatur unterrichten; (umg.) با کِسی اَدَبیات کار کَردَن
 Literaturkritik; سَنجِش ِ اَدَبیات، نَقادی ِ ـ، نَقد ِ اَدَبی
@@ -1107,7 +1107,7 @@ los;
 - dass er weiss, was los ist; که بِدانَد چی به چیه
 - was ist mit dir los?; با تو چه شُده؟، تو چِته؟
 - was ist in der Stadt los?; دَر شَهر چه خَبَره؟
-- solange im Laden nichts los ist, muß er ...;   تا تَه ِ تَرازو به زَمین بِخورَد او بايَد
+- solange im Laden nichts los ist, muß er ...; تا تَه ِ تَرازو به زَمین بِخورَد او بايَد
 - lass mich los!; وِلَم کُن
 - los gehts!; راه بيُفت!، بِرَویم
 Los (n); قُرِعه
@@ -1116,7 +1116,7 @@ Los (n); قُرِعه
 - durch das Los entscheiden; از راه ِ قُرِعِه کِشی تَعیین کَردَن
 - das Los fällt auf mich; قُرِعِه به نام ِ مَن می اُفتَد، ـ بَر میايَد، ـ اِصابَت می کُنَد
 löschen;
-- eine Schiffsladung löschen;  .کِشتی را بار اَندازی کَردَن، ـ خالی ک
+- eine Schiffsladung löschen; .کِشتی را بار اَندازی کَردَن، ـ خالی ک
 - die Tinte löschen; جوهَر خُشک کَردَن
 - das Licht löschen; چِراغ را خاموش کَردَن
 - den Durst löschen; عَطَش ِ خودرا فُرو نِشاندَن
@@ -1220,7 +1220,7 @@ Luftschutz; حِفاظَت ِ هَوائی
 Luftspiegelung; سَر آب، آبنَما
 Luftsprung;
 - er machte einen Luftsprung; او جَست زَد توی ِ هَوا، دِلََش بَرای ِ ... پَر می زََد، به هَوا پَرید
-Luftströmungen; (sing.)  (مُجاری ِ هَوا (مَجرا
+Luftströmungen; (sing.) (مُجاری ِ هَوا (مَجرا
 Lüftung; تَهویه
 Luftveränderung; تَغییر ِ هَوا
 - zwecks Luftveränderung ...; تا آب به آب شَوَد

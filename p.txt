@@ -13,7 +13,7 @@ Pächter; مُستأجِر
 pachten; اِجاره کَردَن
 Pachtung; اِستیجار
 packen;
-- packen, einpacken;  .بَسته بَندی کَردَن، بار بَندی ک
+- packen, einpacken; .بَسته بَندی کَردَن، بار بَندی ک
 - seine Siebensachen packen; بار و بُنه را بَستَن
 - packen, herausreissen; قاپیدَن، قاپ زَدَن
 - einander packen; بِهَم گِلاویز شُدَن
@@ -97,7 +97,7 @@ parabolisch;
 - parabolisch (literat.); حِکايَت گونه
 - parabolisch (mathemat.); مُکافى
 Parade; رِژه
-- Parade abnehmen; سان دادَن،  ـ دیدَن
+- Parade abnehmen; سان دادَن، ـ دیدَن
 - er nimmt die Heeresparade ab; او از لَشکَر سان مى بینَد
 Paradies; بِهِشت، فِردوس، مینو
 Paradiesbewohner; فِردوس نِشین، خُلد آشیان
@@ -127,7 +127,7 @@ parat;
 - Haben Sie ... parat?; آیا ... دَسترِس ِ شُما است؟
 Paravent; پارَوان، تِجیر
 - Paravent aufstellen; پارَوان کِشیدَن
-Parfüm; (pl.)  (عَطر (عُطور
+Parfüm; (pl.) (عَطر (عُطور
 Paria; مَطرودین ِ جامِعه، طَبَقهٔ پَست
 parieren; اِطاعَت کَردَن
 - parieren, zügeln; مَهار کَردَن
@@ -169,7 +169,7 @@ Partie;
 - eine gute Partie machen; شَخص ِ مؤَثِر را اِزدِواج کَردَن
 partiell; جُزئی، جُزء
 - partielle Umsetzung; اِجراى ِ جُزء به جُزء
-Partikel; (pl.)  (جُزء (جُزئیات)، ذَره (ذَرات
+Partikel; (pl.) (جُزء (جُزئیات)، ذَره (ذَرات
 partikulär; جُزئى، خاص، مَخصوص
 Partisan; پارتیزان، چَریک
 Partner; شَریک، مُتَعامِل
@@ -229,10 +229,10 @@ Passungsspiel; گُشادى ِ مُناسِب، فَضاى ِ ـ
 Paste; خَمیر
 pasteurisieren; پاستوریزه کَردَن
 pastig; خَمیر شُده
-- etwas pastig machen;  .چیزى را لینَت کَردَن، ـ خَمیر ک
+- etwas pastig machen; .چیزى را لینَت کَردَن، ـ خَمیر ک
 Pastor; کِشیش
 Patchwork; چِهِل تیکه بافى
-Pate; (Patin)  (پِدَر ِ تَعَمیدى (مادَر ِ ـ
+Pate; (Patin) (پِدَر ِ تَعَمیدى (مادَر ِ ـ
 patent;
 - er ist patent; او آدَمى با هوش و مَزه است، ـ خوش بَرخورد است
 Patent; (n) اِختِراع ِ ثَبت شُده
@@ -273,7 +273,7 @@ pausieren; .تَوَقُف کَردَن، وَقفه ک
 Pauspapier; کاغَذ ِ رَسم، ـ کاربُن
 Pavillon; آلاچیق
 - Ausstellungspavillon; غُرفه
-Pazifik; اُقیانوس  ِ آرام
+Pazifik; اُقیانوس ِ آرام
 Pazifismus; صُلح طَلَبى
 Pazifist; صُلح طَلَب
 Pech; مَفلوک، تیره بَختى، بَخت ِ بَد، بَد بَخت، بَدشِانسى
@@ -334,7 +334,7 @@ Perfektionist; شَخصى که دَر اِجراى ِ کار سَعى مى کُ�
 perforieren; سوراخ دادَن
 Pergament; پارقَمیه
 Periode; دوره
-- sie hat ihre Periode;  پِریود دارَد، قاعِدِگی دارَد، حِیض دارَد
+- sie hat ihre Periode; پِریود دارَد، قاعِدِگی دارَد، حِیض دارَد
 - Legislaturperiode; دورۀ قانونگُذارى ِ مَجلِس
 Periodensystem; جَدوَل ِ تَناوُبى ِ عَناصُر
 periodisch; اَدوارى، مُتَناوِب، دوره اى
@@ -372,7 +372,7 @@ persönlich; بنَفسِه، شَخصاً، حُضورى
 - persönlicher Referent; مُشاوِر ِ شَخصى
 Persönlichkeit; هُويَت، شَخصيَت
 - bedeutende Persönlichkeit; کَله گُنده
-- führende Persönlichkeiten; (sing.)  (شَخصيَتهاى ِ سَر شِناس، رَجال (رَجُل
+- führende Persönlichkeiten; (sing.) (شَخصيَتهاى ِ سَر شِناس، رَجال (رَجُل
 - bekannte Persönlichkeiten (der Gesellschaft); سَرِشان به تَنِشان می ارزَد
 - er gibt seine Persönlichkeit auf; او می خواهَد کِرم ِ دِرَختی يِکی باشَد
 Persönlichkeitsbildung; هُويَت سازی
@@ -437,11 +437,11 @@ Pfeil; تیر
 - Pfeil (für Richtungshinweis); فلِش
 - mit Pfeil gekennzeichnet werden; با فلِش عَلامَت گُذارى شُدَن
 Pfeiler; سُتون، جَرز
-- Grundpfeiler; (pl.)  (اُصول ِ اَساسى، رُکن (اَرکان
+- Grundpfeiler; (pl.) (اُصول ِ اَساسى، رُکن (اَرکان
 pfeilgerade;
 - pfeilgerade stehen; خَدَنگ شُدَن
 Pfeilspitze; پِیکان، فلِش
-Pfennig;  (پفِنیگ (پول سابِق ِ آلمان
+Pfennig; (پفِنیگ (پول سابِق ِ آلمان
 - meinen letzten Pfennig eingesetzt; آخَرین دینار ِ خودَم را مایه گُذاشتَم
 - ... bis auf den letzten Pfennig bezahlt; تا پولَش را تَمام و کَمال بِپَردازَد
 - man müht s. für ein paar Pfennige ab; جان مى کَنَم بَراى ِ چَند رِقاز
@@ -488,7 +488,7 @@ pflegebedürftig;
 Pflegeeltern; ناپِدَرى و نامادَرى
 pflegeleicht;
 - ein pflegeleichtes Kind (popul.); بَچهٔ بى درد ِ سَر
-pflegen;  .از کِسی مُواظِبَت کَردَن، - پَرَستداری ک
+pflegen; .از کِسی مُواظِبَت کَردَن، - پَرَستداری ک
 - jem. pflegen, der hilflos ist; کِسی را تَر و خُشک کَردَن
 - sein Äusseres pflegen; ظاهِرِش را آراستَن
 - diese Arbeit war, ... zu pflegen; این شُغل مُراقِبَت از ... بود
@@ -504,13 +504,13 @@ Pflichtteil; سَهم ِ اِرث
 Pflichtverteidiger; وَکیل ِ تَسخیرى
 Pflock; دیرَک
 - Pflock (als Strafmittel); کُنده
-pflücken; (präs.)  (چیدَن (مى چینَد
+pflücken; (präs.) (چیدَن (مى چینَد
 Pflug; خیش، شُخم، گاو ِ آهَنگ
 pflügen; .خیش زَدَن، شُخمکارى کَردَن، شیار ک
 - gepflügter Boden; زَمین ِ شیار شُده، - شُخم خورده
 Pforte; دَر ِ وُرودى، دَرب
 Pförtner; دَربان
-Pfosten; (pl.)  (سُتون، رُکن (اَرکان
+Pfosten; (pl.) (سُتون، رُکن (اَرکان
 - Zeltpfosten; دیرَک ِ چادُر
 Pfote; چَنگول، پَنچه
 Pfriem; دِرَفشه، جَوال دوز
@@ -598,7 +598,7 @@ pikant;
 pikiert;
 - er reagiert pikiert; مِثل ِ اینکه آبرويَش رَفته است قیافه به خود مى گیرَد
 Pilger; (pl.) زائِر (زائِرین، زُوار)، چاوُش
-- (echter) Pilger; (i. Gegensatz zu: Pseudo-)  (حاجی جاده ای (- مِعده ای
+- (echter) Pilger; (i. Gegensatz zu: Pseudo-) (حاجی جاده ای (- مِعده ای
 Pilgerschaft; زیارَت
 Pille; قُرض، حُب
 Pilot; خَلَبان
@@ -610,7 +610,7 @@ Pinguin; پِنگوئِن
 Pinie; صَنوبَر
 Pinkel;
 - das ist vielleicht ein feiner Pinkel; او نَگو بِگو دَستهٔ گُل است
-pinkeln; (präs.)  .میزیدَن (مى میزَد)، شاشیدَن، شاش کَردَن، اِدرار ک
+pinkeln; (präs.) .میزیدَن (مى میزَد)، شاشیدَن، شاش کَردَن، اِدرار ک
 - pinkeln (Kindersprache); جیش کَردَن
 - (im Stehen) pinkeln; تَشَرشُر
 Pinsel;
@@ -621,7 +621,7 @@ Pionier; پیش آهَنگ، نَقاب
 - er ist ein Pionier in seinem Fach; او دَر رِشتهٔ خود راه گُشا است
 Pipette; پیپِت
 Pirat; راهزَن ِ دَریائى
-Pissoir; (dari)  (آبریز گاه، توالِت، مُستَراح، (تِشناب
+Pissoir; (dari) (آبریز گاه، توالِت، مُستَراح، (تِشناب
 Pistazie; پِسته
 Piste; پیست
 - Skipiste; پیست ِ اِسکى
@@ -647,14 +647,14 @@ Plan; (m) نَقشه، بَرنامه
 - Dreijahresplan; بَرنامهٔ سه ساله
 - Flugplan; (pl.) (بَرنامهٔ پَرواز ( ـ پَروازها
 - Stadtplan; نَقشهٔ شَهر
-planarbeiten;  .مُسَطَح کَردَن، صاف ک
+planarbeiten; .مُسَطَح کَردَن، صاف ک
 Plane; پوشِش
 planen; بَرنامه ریزى کَردَن، طَرح ریزى ک.، نَقشه کِشیدَن
 - eine Ausgabe im Etat planen; .خَرج دَر بودجه پیش بینى کَردَن، ـ تأمین ک
 - planen (i.S.: etwas im Augen haben); دَر پیش داشتَن
 - es ist geplant, 10 Leute als Berater einzustellen; دَه نَفَر پُست ِ مُستَشار نَظَر داده مى شَوَد
 - geplante Veränderungen; تَغییرات ِ دَر نَظَر گِرِفته شُده، - مَطروحِه
-Planet; (pl.)  (سَیاره (سَیارات
+Planet; (pl.) (سَیاره (سَیارات
 Planetarium; رَصَد خانه
 Planetengetriebe; گیربُکس ِ سَیاره اى
 plangemäss; طِبق ِ بَرنامه
@@ -675,7 +675,7 @@ Planung; بَرنامه ریزی
 Planungsamt; اِدارهٔ بَرنامه
 Planungsgruppe; گُروه ِ بَرنامه ریزى
 Planungsstab; سِتاد ِ بَرنامه ریزى
-plappern;  .وِردهاى ِ بیمَعنى تِکرار کَردَن، وِرد ِ زَبان ک
+plappern; .وِردهاى ِ بیمَعنى تِکرار کَردَن، وِرد ِ زَبان ک
 - ... fing an zu plappern; شُروع به وِراجى کَرد
 - ununterbrochen plappern; وِروِر حَرف زَدَن
 plärren; عَر و تیز کَردَن، وِنگ زَدَن
@@ -690,7 +690,7 @@ plastisch; خَمیرى، مُستَعِد ِ هَرگونه شِکل
 Platane; چِنار
 Plateau; فِلات
 Platon; اِفلاطون
-Plätschern; (vom Regen)  (شُرشُر (ـ ِ باران
+Plätschern; (vom Regen) (شُرشُر (ـ ِ باران
 platt;
 - er legt s. platt hin; او طاقباز دِراز مى کِشَد
 - jem. platt machen; نَقش ِ زَمینِش کَردَن، کِسی را خُرد و خَمیر کَردَن
@@ -708,7 +708,7 @@ Plattenspieler; گرامافون
 Plattform; صَحنه
 - politische Plattform; زَمینهٔ سیاسى، صَحنهٔ ـ
 Plattfuss; پای ِ کَف ِ تَخت
-plattieren;  .روکِش کَردَن، جِلد ک
+plattieren; .روکِش کَردَن، جِلد ک
 Platz; (pl.) جاى گاه، صَحن، مَحَل (مَحال)، مَکان
 - Platz da!; خَبر خَبر، نَسوزى نَفتى نَشى، جا بِده
 - das findet seinen Platz in ...; این دَر ... جا مى اُفتَد
@@ -748,7 +748,7 @@ Pleite; (f) وَرشِکَستِگى
 - ich habe eine Pleite erlebt; مَن به هَچَل اُفتادَم
 Plejaden; ثُرَیا، سِتارِگان ِ پَروین
 Plektrum; زَخمه
-Plenarsaal; تالار  ِ مَجلِس
+Plenarsaal; تالار ِ مَجلِس
 Plenarsitzung; جَلَسهٔ عُمومى ِ مَجلِس
 Pleuellager; یاتاغان ِ شاتون
 Pleuelstange; شاتان، میلهٔ اِتِصال، میله لَنگ
@@ -824,11 +824,11 @@ politisch; سیاسى
 politisieren; گَپ ِ سیاسى زَدَن
 Politisierung; سیاسَت گُذارى
 Politur; صِیقَل، جَلا
-Polizei; (alt)  (شَهربانى، نَظمیه، پُلیس (آژان
+Polizei; (alt) (شَهربانى، نَظمیه، پُلیس (آژان
 polizeilich; از طَرَف ِ پُلیس
 Polizeirevier; کَلانتَرى، شَهربانى ِ مَحَل
 Polizeistreife; پُلیس گَشت
-Polizist; (alt)  (پاسِبان (آژان
+Polizist; (alt) (پاسِبان (آژان
 Pollenkorn; دانهٔ گَرده، گَردهٔ گُل
 Pollution; اِحتِلام
 Polospieler; چوگان باز
@@ -867,7 +867,7 @@ Portion; پُرس
 - 1 Portion Essen; يِک پُرس ِ غَذا
 portionieren; پُرس کَردَن، تَقسیم بَندی کَردَن
 Porto; اُجرَت ِ پُستى، هَزینهٔ ـ
-Portrait; (pl.)  (تِمثال، شَمیله (شَمائِل
+Portrait; (pl.) (تِمثال، شَمیله (شَمائِل
 Portraitierung; شَبیه سازى، چِهره یا چیزى نَقاشى کَردَن
 Porzellan; چینى
 Porzellanerde; گِل ِ چینى
@@ -908,7 +908,7 @@ Postmoderne; پَسانوگِرایی، پُست مُدِرنیسم، پَسام
 Postskriptum; بَعد اُلتَحریر، یاد داشت، پِی نِوِشت
 postum; پَسامَرگ
 Potenz; تَوانائى، قُدرَت، قُوه
-- Zehnerpotenz;  بنَماى ِ ۱۰، به قُوهٔ ۱۰
+- Zehnerpotenz; بنَماى ِ ۱۰، به قُوهٔ ۱۰
 Potenzial;
 - Nuklearpotenzial; قُوهٔ هَسته اى
 - Wählerpotenzial; تَوان ِ اِنتِخاب کُنَندِگان
@@ -963,7 +963,7 @@ Präsentation; (einer Sache) تَلفیق
 Präservativ; کاپُت
 Präsident; (pl.) (رَئیس (رُؤَساء
 - Ministerpräsident; نَخُست وَزیر
-- Staatspräsident; رَئیس  ِ جُمهور
+- Staatspräsident; رَئیس ِ جُمهور
 Präsidentschaft; ریاسَت، دورهٔ ریاسَت
 Präsidium; هَیئَت ِ مُدیره
 - Polizeipräsidium; اِدارهٔ مَرکَزى ِ پُلیس
@@ -986,9 +986,9 @@ präzise; دَقیق، با دِقَت
 Präzision; دِقت، صَراحَت، عِینيَت
 Präzisionswaage; تَرازوى ِ حَساس
 predigen; .وَعظ کَردَن، موعِظه ک
-Prediger; (pl.)  (واعِظ (واعِظین
+Prediger; (pl.) (واعِظ (واعِظین
 - Prediger, dessen Lehre mit dem Leben nicht übereinstimmt; واعِظ ِ غِیر ِ مُتَعِظ
-Predigt; (pl.)  (وَعظ، موعظه (مَواعِظ
+Predigt; (pl.) (وَعظ، موعظه (مَواعِظ
 Preis; قِیمَت
 - Preis, Gewinn; جايِزه
 - wie hoch ist der Preis?; قِیمَتِش چَند است؟
@@ -1149,7 +1149,7 @@ produzieren; تولید کَردَن
 Produzierender; صانِع
 profan; دُنيَوى
 professionell; حِرفه اى
-Professor; (pl.)  (اُستاد (اَساتید
+Professor; (pl.) (اُستاد (اَساتید
 Profi; حِرفه اى
 - er ist Profifussballer; او فوتبال باز ِ حِرفه اى است
 Profil;
@@ -1193,7 +1193,7 @@ Promotion; رِسالهٔ دُکتُرا
 Promotor; وَلی ِ نِعمَت
 promovieren; دَرَجهٔ دُکتُرا گِرِفتَن، دُکتُرا کَردَن
 - über ein Thema promovieren; رِسالهٔ دُکتُری دَر مورِد ِ چیزی نِوِشتَن
-Pronomen; (pl.)  (ضَمیر (ضَمايِر
+Pronomen; (pl.) (ضَمیر (ضَمايِر
 - unbestimmtes Pronomen; ضَمیر ِ مُبهَم
 - Zahlwort in Funktion eines unbestimmten Pronomens; ضَمیر ِ عَدَد
 - Demonstrativpronomen; ضَمیر ِ اِشاره
@@ -1243,7 +1243,7 @@ protzen; مُباهات کَردَن، قُمپُز دَر آوَردَن، پُ
 Proviant; خوار بار، آذوقه، اَزواد، سورسات، جیره
 Proviantlieferant; سورسات چى
 Provianttasche; توبره، توشه دان، خورجین
-Provinz; (pl.)  (وِلايَت (وِلایات)، ایالَت(ایالات
+Provinz; (pl.) (وِلايَت (وِلایات)، ایالَت(ایالات
 - die Provinz Judäa; ایالَت ِ يَهودیه
 Provinzler; روستائى، وِلايَتى
 Provinzstadt; شَهر ِ ایالَتى
@@ -1271,7 +1271,7 @@ Prozession; گَردِش
 - Fronleichnamsprozession; گَردِش ِ مَذهَبی دَر کِلیسای ِ کاتُلیک
 - Leichenprozession; تَشییع ِ جِنازه
 - jem., der eine Prozession anführt; چاوُش
-prüfen;  .اِمتِحان کَردَن، آزمايِش ک
+prüfen; .اِمتِحان کَردَن، آزمايِش ک
 - jem. prüfen (*:geprüft); کِسى را اِمتِحان کَردَن
 - genau prüfen; دِقَت گِرِفتَن
 - ich lasse mich prüfen; مَن اِمتِحان مى دَهَم
@@ -1303,7 +1303,7 @@ Prügel; کُتَک
 - Prügel beziehen; لَت خوردن، کُتَک خ.، ضَربه خ.، ضَربه را نوش ِ جان کَردَن
 - s. mit jem. eine Prügelei liefern; با کِسى گِلاویز شُدَن، ـ زَد و خورد کَردَن
 - Prügelknabe der Grossen; سِپَر ِ بالاى ِ اَوَلیاى ِ اُمور
-prügeln;  .لَت کَردَن، مَضروب ک.، زَد و خورد ک
+prügeln; .لَت کَردَن، مَضروب ک.، زَد و خورد ک
 - ich werde ihn windelweich prügeln; حِسابَش را کَف ِ دَستِش مى گُذارَم
 Prunk; رَنگ و بو، شُکوه، حَشَمَت، طُمطُراق
 - mit all dem Prunk; با دَبدَبهٔ تَمام، با آن همه حَشَمَت
@@ -1384,20 +1384,20 @@ Püree; پوره
 Purpur; اَرغَوان
 purpurn; اَرغَوانى
 Purzelbaum; کَله مُعَلَق، پُشتَک
-- Purzelbaum schlagen;  .مُعَلَق زَدَن، پُشتَک ز
+- Purzelbaum schlagen; .مُعَلَق زَدَن، پُشتَک ز
 Pustel; کورَک، جوش ِ پوست
 pusten; پوف کَردَن
 - Suppe pusten; آش فوت کَردَن
 Pute; بوقَلَمون
 puterrot;
-- puterrotes Gesicht (vor Wut);  چِهرهٔ بَراَفروخته
+- puterrotes Gesicht (vor Wut); چِهرهٔ بَراَفروخته
 Putsch; کودِتا
 Putschist; کودِتاگَر
 Putz;
 - auf den Putz hauen; لاف زَدَن
 - Frühjahrsputz; خانه تَکانى ِ بَهارى
 - Verputz; اَندود
-putzen;  .پاک کَردَن، مُرُتَب ک
+putzen; .پاک کَردَن، مُرُتَب ک
 - s. die Nase putzen (*:schneutzen); دَماغ گِرِفتَن
 - ausputzen; چیزى را خانه تَکانى کَردَن
 - durchputzen; چارو پارو کَردَن
