@@ -2,7 +2,7 @@ a;
 - "a"- Vokal (über Konsonant); عَلامَت ِ فَتحَه
 - eine Treppe à 5 Stufen; نَردِبان ِ فى ۵ پِله
 - von 3 Reihen à 15 Stück; سِه رَدیف ِ پانزدَه تائى
-- Wer A sagt, muss auch B sagen; کِسى که خَربوزه مى خورَد، پاى ِ لَرزِش هَم مى نِشینَد، کارى که شُروع شُد بایَد تَمام کَرده شَوَد،  كار را كه كَرد آنكه تَمام كَرد
+- Wer A sagt, muss auch B sagen; کِسى که خَربوزه مى خورَد، پاى ِ لَرزِش هَم مى نِشینَد، کارى که شُروع شُد بایَد تَمام کَرده شَوَد، كار را كه كَرد آنكه تَمام كَرد
 - von A bis Z; اَز اِبتِدا تا اِنتِها
 Aal; مار ماهى
 aalen (s. -); لَم دادَن
@@ -23,13 +23,13 @@ Abänderung; اِصلاح، تَغییر
 abarbeiten; تَمام کَردَن
 - s. abarbeiten; فَعلِگى کَردَن
 abartig;
-- abartiger Mensch; آدَم  ِ مُتَهجِن، ـ غِیر ِ عادى، ـ نا بِهَنجار، ـ مُنحَرِف
+- abartiger Mensch; آدَم ِ مُتَهجِن، ـ غِیر ِ عادى، ـ نا بِهَنجار، ـ مُنحَرِف
 Abbau;
 - Abbau (psychol.); تَباهى
 - Abbau (von Erz); اِستِخراج
 - Abbau von Hindernissen; مانِع تَراشى
-- Abbau der Spannungen; رَفع  ِ تَشَنُج، کاهِش ِ تَنِش ها
-- Abbau der Streitkräfte; تَقلیل ِ  ِقُواى ِ نِظامى
+- Abbau der Spannungen; رَفع ِ تَشَنُج، کاهِش ِ تَنِش ها
+- Abbau der Streitkräfte; تَقلیل ِ ِقُواى ِ نِظامى
 Abbaureaktion; فِعل وَ اِنفِعال ِ تَجزیه اى
 abbeeren; دانه کَردَن
 abbeissen; گاز زَدَن
@@ -72,7 +72,7 @@ abbüssen (*:Busse); توبه کَردَن
 abdämmen; سَد کَردَن
 abdecken;
 - das Dach abdecken; پُشت ِ بام را بَر داشتَن
-- der Wind deckt die Dächer ab; (infin.)  (باد سَقف ِ خانه ها را از جا می کَنَد (کَندَن
+- der Wind deckt die Dächer ab; (infin.) (باد سَقف ِ خانه ها را از جا می کَنَد (کَندَن
 - den Tisch abdecken; صُفره را وَر چیدَن
 - das Tier abdecken; پوست ِ حِیوان را کَندَن
 - der Begriff X deckt nicht alles ab; اِصطِلاح ِ »فِلان« رَسا وَ وافى به مَقصود نیست
@@ -174,7 +174,7 @@ Abgabe;
 - Abgaben; مالیات، رُسومات
 - Geldabgaben (z.B. Strassengebühr); عَوارِض
 - Steuerabgaben; مالیات
-abgabepflichtig; مُستَلزِم  ِعَوارِض
+abgabepflichtig; مُستَلزِم ِعَوارِض
 Abgang; اِستِعفاء
 - Abgang, Fehlgeburt; اَفگانه
 abgeben; اَز دَست دادَن
@@ -233,7 +233,7 @@ Abgeordnetenversammlung; مَجلِس ِ مَبعوثان، ـ نِمایَند�
 Abgeordneter; نِمایَنده، وَکیل ِ مَجلِس
 abgerieben (Kleidung, u.ä.); سائِیده
 abgerissen;
-- abgerissener Kerl (in Lumpen); آدَم  ِ ژِنده پوش، ـ آش و لاش، ـ مُتَلاشى، ـ لِه و لورده
+- abgerissener Kerl (in Lumpen); آدَم ِ ژِنده پوش، ـ آش و لاش، ـ مُتَلاشى، ـ لِه و لورده
 - abgerissener Typ (i.S. arbeitsfaul); ریشه اش را مَلَخ خورده
 - abgerissene Klamotten; لِباس ِ چَرب و چیلى
 Abgesandter; مَبعوث، اِرسالى
@@ -339,7 +339,7 @@ abklären;
 Abklatsch; تَقلید، جَعَل، قالِب
 abklingen; فُرو نِشَستَن، بِتَدریج خاموش شُدَن
 - abklingen (von Schmerzen); .آرام شُدَن، خاموش ش
-- Abklingen; (psychol.) (میرائى (ـ  ِحِس
+- Abklingen; (psychol.) (میرائى (ـ ِحِس
 abklopfen (z.B.: Brust); سینه را دَق کَردَن، ـ با اَنگُشت کوبیدَن
 abknöpfen;
 - jem. etwas abknöpfen; چیزى را اَز کِسى به چَنگ آوَردَن
@@ -446,7 +446,7 @@ abmessen; اَندازه گِرِفتَن، پِیمودَن
 Abmessung; اَندازه
 - Abmessung, Dimension; (plur.) (بُعد (اَبعاد
 abmühen; به دَست و پا اُفتادَن، مِحنَت کِشیدَن، زَحمَت ک.، مُجاهِده کَردَن، بَراى ِ کِسى جِد و جَهد ک.، تَقَلا ک.، اُستُخوان خُرد کَردَن
-- um s. nicht mit ...  abmühen zu müssen; تا زَحمَت ِ.. بِخود نِمى دَهَند
+- um s. nicht mit ... abmühen zu müssen; تا زَحمَت ِ.. بِخود نِمى دَهَند
 - man müht s. für ein paar Cent ab; جان مى کَنَد بَراى ِ چَند رِقاز
 Abnahme; کاهِش، زُوال، کاست
 - Warenabnahme; پَذیرِش ِ کالا
@@ -561,7 +561,7 @@ abschliessen; به چیزى خاتِمه دادَن
 - Vertrag abschliessen; قَراردادرا بَستَن
 - das Programm wurde abgeschlossen; بَرنامه اَنجام گِرِفت
 - die Arbeit ist abgeschlossen; کار اَنجام گِرِفت
-- die Sache ist noch nicht abgeschlossen; (infin.)  (این چیز به سَر ِ اَنجام ِ خود نَرِسیده است، یِک پایَش می لَنگَد (لَنگیدَن
+- die Sache ist noch nicht abgeschlossen; (infin.) (این چیز به سَر ِ اَنجام ِ خود نَرِسیده است، یِک پایَش می لَنگَد (لَنگیدَن
 - die Tür abschliessen; دَررا قُفل کَردَن
 abschliessend;
 - abschliessend, vollendet; مُتِم، اِختِتامى
@@ -717,7 +717,7 @@ abstellen; گُذاشتَن
 - das Wasser abstellen; آب را قَطع کَردَن
 Abstellgleis; خَط ِ کور
 Abstellplatz;
-- Abstellplatz (für Schuhe); کَفش کَن، جاى  ِکَفش
+- Abstellplatz (für Schuhe); کَفش کَن، جاى ِکَفش
 - Abstellplatz (für Autos); جای ِ پارکینگ
 abstempeln; مُهر زَدَن
 - jem. abstempeln als; اَنگ ِ چیز بودَن به کِسى زَدَن
@@ -877,7 +877,7 @@ abwischen;
 - Tränen abwischen; اَشکهارا سُتُردن
 Abwischlappen; ژَنده، کُهنه
 abwürgen;
-- das Gewinde abwürgen; هَرز کَردَن  ِ پیچ
+- das Gewinde abwürgen; هَرز کَردَن ِ پیچ
 abzahlen;
 - Geld abzahlen; اَداى ِ پول کَردَن
 - Schulden abzahlen; .دِین ِ خودرا تأدیه کَردَن، قَرض ِ خودرا اَدا ک
@@ -1382,7 +1382,7 @@ Altersgruppe;
 Altersheim; مَنزل ِ سالخوردِگان
 Alterspyramide; هَرَم ِ سِنى
 altersschwach; فَرتوت، پوسیده، عاجِز دَر اَثَر ِ پیرى
-- sein Tod wurde nicht nur durch Altersschwäche herbeigeführt; عِلَت ِ مَرگ  ِاو تَنها پیرى گُشادى نَبود
+- sein Tod wurde nicht nur durch Altersschwäche herbeigeführt; عِلَت ِ مَرگ ِاو تَنها پیرى گُشادى نَبود
 Altersstarrsinn; کُهالَت
 Altersversorgung; تأمین ِ مَعاش ِ سالخوردِگان
 Altertum;
@@ -1411,7 +1411,7 @@ am;
 - am Mittwoch; سَر ِ چَهارشَنبه، دَر روز ِ ـ
 - das kannst du am Nachmittag machen; این کاررا موقِع ِ عَصر اَنجام بِده
 - am Ruder sein; بَر سَر ِ قُدرَت بودَن
-- am Telefon; پاىِ  تِلِفُن
+- am Telefon; پاىِ تِلِفُن
 - bleiben Sie am Telefon; گوشى خِدمَتِتان، پاى ِ تِلِفُن بِمانید
 - am Ufer; لَب ِ ساحِل، کِنار ـ
 - wer ist am Apparat?; جِنابعالى؟
@@ -1447,7 +1447,7 @@ Amphibie; حِیوان ِ خاکى و آبى، حِیوان ِ دوزى
 Amphibienfahrzeug; ماشین ِ خاکى و آبى
 Amplitude; مِیدان ِ نَوَسان، دامَنه نَوَسان
 Ampulle; آمپول
-Amputation; اِنقِطاع، قَطع  ِعُضو
+Amputation; اِنقِطاع، قَطع ِعُضو
 Amsel; تُرقه
 Amt;
 - Amt, Titel; مَنصَب
@@ -1781,7 +1781,7 @@ Angelpunkt; مَدار، نفطه گَردان
 angemessen;
 - einer Sache angemessen; ... ِ دَر خور ِ...، فَرا خور ِ ...، مُناسِب
 - angemessener Preis; قِیمَت ِ عادِلانه، ـ مُناسِب
-- eine dem Verbrechen angemessene Strafe; مُجازاتى دَر خور  ِ جِنایَت
+- eine dem Verbrechen angemessene Strafe; مُجازاتى دَر خور ِ جِنایَت
 angenehm; مَطبوع، پَسَندیده
 - angenehme Sitten; عادات و رُسوم ِ ظَریف، اَخلاق ِ خوش آیَند، ـ دِل پَسَند
 - angenehmes Wetter; هَواى ِ خُنَک، ـ مُصَفا
@@ -2108,7 +2108,7 @@ anordnen; دَستور دادَن
 Anordnung;
 - Anordnung, Auftrag; فَرمان، دَستور
 - Anordnung, Ordnung; تَنسیق، نَظم، سامان، آرایِش
-anorganisch; مَعدَنى،  غِیر ِ آلى،  کانى
+anorganisch; مَعدَنى، غِیر ِ آلى، کانى
 - anorganische Chemie; شیمى ِ مَعدَنى، ـ غِیر ِ آلى، ـ کانى
 anpacken;
 - jem. hart anpacken; به کِسى تَشدُد کَردَن
@@ -2117,12 +2117,12 @@ anpacken;
 - neue Sachen anpacken; به کار ِ دیگَر پَرداختَن
 anpassen;
 - s. anpassen; خودرا تَطبیق کَردَن
-- er passt s. den Umständen an; او نانَش را به نِرخ  ِ روز مى خورَد
+- er passt s. den Umständen an; او نانَش را به نِرخ ِ روز مى خورَد
 Anpassung; تَطبیق، تَطابُق، اِنطِباق، خوگیرى، سازِش با شَرایِط ِ بِخُصوص
 Anpassungsfähigkeit; اِنطِباق پَذیرى، قُوه ساز ِگارى، قابِلیَت ِ تَوافُق
 Anpassungsvermögen; تَوان ِ اِنطِباق، قابِلیَت ِ ـ
 anpflanzen; کِشتَن، کِشت کَردَن
-- Bäume anpflanzen; .دِرَختهارا مُشاجِر کَردَن،  ـ غَرض ک
+- Bäume anpflanzen; .دِرَختهارا مُشاجِر کَردَن، ـ غَرض ک
 anpöbeln; .توهین کَردَن، چُس ِ نَفسى ک
 anprangern; کِسى را با چیزى رُسوا کَردَن
 anpreisen;
@@ -2202,7 +2202,7 @@ anschaulich; واضِح، تَجَسُمى
 - in einer anschaulichen Art; به صورَت ِ مَلموس
 - in einer anschaulicheren Art; به صورَت ِ مَلموستَرى
 Anschauung;
-- Weltanschauung der ...; ِ مَسلَک ِ...، بینِش  ِ ...، جَهان بین
+- Weltanschauung der ...; ِ مَسلَک ِ...، بینِش ِ ...، جَهان بین
 - Anschauungsprinzip; اَصل ِ مُشاهِده
 Anschein;
 - es erweckt den Anschein, dass; چِنین مى نَمایَد که، اِحتِمال دارَد که، اینطور به نَظَر مى رِسَد که، بِظاهر ِ... بودَن، صورَت ِ... داشتَن
@@ -2438,7 +2438,7 @@ Antrag; تَقاضانامه، دَرخواست نامه
 - einen Antrag stellen für ein Visum; دَرخواست دادَن بَرای رَوادید
 Antragsteller; مُتَقاضى، تَقاضا کُنَنده
 antreiben;
-- jem. antreiben; کِسى را شِتابانیدَن، ـ سیاقه کَردَن، ـ  هِى ک.، ـ سوق دادَن
+- jem. antreiben; کِسى را شِتابانیدَن، ـ سیاقه کَردَن، ـ هِى ک.، ـ سوق دادَن
 - das Antreiben von ...; تَحریک ِ کِسى
 Antrieb;
 - aus eigenem Antrieb; اَز صَرافَت ِ طَبع ِ خود، ـ اَنگیزه ـ، ـ سائِق ِ ـ، ـ موجِب ِ ـ
@@ -2621,7 +2621,7 @@ Apprehension; اِدراک
 appretieren; آهار زَدَن
 Appretur; آهار زَدِگى، نِشاسته
 Approbation;
-- Approbation erhalten; تَجویز شُدَن، شِناسائى را دَریافت کَردَن،  تأیید را بِدَست آوَردَن
+- Approbation erhalten; تَجویز شُدَن، شِناسائى را دَریافت کَردَن، تأیید را بِدَست آوَردَن
 Approximation; تَقریب
 Aprikose; زَرد آلو
 April; ماه ِ آوریل
@@ -2658,7 +2658,7 @@ Arbeit; (plur.) (کار، عَمَل (اَعمال)، مَشغله (مَشاغِ
 - die Arbeit geht ihm nicht von der Hand; دَست و دِلِش به کار نِمى رَوَد
 - Halbtagsarbeit; کار ِ نِصف ِ روز، ـ نیم ِ وَقت
 - Hausarbeit ist für ihn Frauensache; کارخانه را با زَن مى دانَد
-- Knochenarbeit leisten; آتَش از آب (دریای ِ آب) بَرآمَدَن،  آتَش از آب اَفروختَن، کاری ِ عَظیم سَخت پیش آَمدَن
+- Knochenarbeit leisten; آتَش از آب (دریای ِ آب) بَرآمَدَن، آتَش از آب اَفروختَن، کاری ِ عَظیم سَخت پیش آَمدَن
 arbeiten; کار کَردَن
 - das Geld arbeiten lassen; دارائى ِ خودرا به جَریان انداختَن، پول را به کار انداختَن
 - jem. zum Arbeiten bringen; دَست ِ کِسى را تو کار بَند کَردَن
@@ -2738,7 +2738,7 @@ arm; مِسکین، فَقیر، بى نَوا
 - er ist bettelarm; او فَقیر فَقیر اَست، او مِسکین ِ مَساکین اَست، او نانجو اَست
 - er ist ein armer Tropf; او مَفلوک اَست، - مُفلِس است
 - ärmere Schichten; اَقشار ِ فَقیر
-Arm (m); (plur.)  (بازو (بازوان
+Arm (m); (plur.) (بازو (بازوان
 - Arm in Arm; دَست به دَست
 - jem. in den Arm nehmen; کِسى را دَر آغوش گِرِفتَن
 - wenn mir jem. in den Arm fällt (i.S. hindert); اَگَر کِسى جِلویَم را بگیرَد
@@ -2835,7 +2835,7 @@ Asepsis; جِلوگیرى از اِلتِهاب تَوَسُط ِ از بِین 
 Asien; آسیا
 - Kleinasien; آسیاى ِ ضَغیر
 Askese; ریاضَت، زُهر
-Asket; زاهِد،  ریاضَت کِش
+Asket; زاهِد، ریاضَت کِش
 asketisch;
 - asketisch leben; ریاضَت کِشیدَن
 Asoziale; آس و پاس ها
@@ -2878,7 +2878,7 @@ Asyl; پَناهگاه
 - sie geben ihm Asyl; آنها به او پَناه مى دَهَند
 - Asyl suchen; پَناه بُردَن
 Asylsuchender; پَناهجو، پَناهَنده ، آدَم ِ مُتَحَصِن
-Asymetrie; عَدَم  ِ تَقارُن
+Asymetrie; عَدَم ِ تَقارُن
 asymetrisch; نامُتَقارِن
 asymptotisch; مُجانِب
 Aszendenz; فَراپوئى، صُعود
@@ -3084,7 +3084,7 @@ Aufenthaltsort; مَحَل ِ اِقامَت
 - Aufenthaltsort in ... wählen; دَر ... رَحل ِ اِقامَت گُزیدَن
 auferbauend; سازَنده، تَحکیم کُنَنده
 Auferbauung; تَحکیم
-auferlegen; به کِسی مُحَوَل کَردَن، -  تَحویل ک.، بار گُذاشتَن
+auferlegen; به کِسی مُحَوَل کَردَن، - تَحویل ک.، بار گُذاشتَن
 auferstehen; بَرخاستن، قیام کَردَن
 - die Vergangenheit ersteht auf; به گُذَشته جان مى بَخشَد
 Auferstehung; قیامَت
@@ -3121,7 +3121,7 @@ auffordern;
 - jem. zum Tanz auffordern; کِسى را به رَقص دَعوَت کَردَن
 - jem. auffordern, zu erscheinen; کِسى را به حُضور طَلَبیدَن
 - jem. zum Spiel auffordern; کِسی را به بازی گِرِفتَن
-- eine innere Stimme forderte mich auf, ...; نِداى ِ باطِنى مَرا اَمر به ...  مى کَرد
+- eine innere Stimme forderte mich auf, ...; نِداى ِ باطِنى مَرا اَمر به ... مى کَرد
 - ich fragte nach dem Grund dieser Aufforderung; عِلَت ِ این دَستوررا پُرسیدم
 aufforsten; .مُشَجِر کَردَن، دِرَختهارا کِشت ک
 auffressen; بِدون ِ رُعایَت به دیگَران بُشقاب خالی کَردَن
@@ -3354,7 +3354,7 @@ aufmachen;
 - einen Stand aufmachen; .دَکه بَر پا کَردَن، ـ اِفتِتاح ک
 - s. auf den Weg machen; رَهسِپار شُدَن
 - ich machte mich auf den Weg; راه را دَر پیش گِرِفتَم
-- er machte s. auf den Weg zum Laden; او راهى  ِمَغازه شُد
+- er machte s. auf den Weg zum Laden; او راهى ِمَغازه شُد
 - alles, was aufzumachen war; هَرچه گُشودَنى بود
 Aufmachung;
 - deine Aufmachung (i.S. Schmuck); زیوَرهاى تو
@@ -3668,7 +3668,7 @@ Auftakt (Verhandlungs -); پیشدَرآمَد ِ مُذاکِره
 auftanken; بِنزین زَدَن، سوخت گیرى کَردَن
 auftauchen;
 - auftauchen, erscheinen; سَر از آب دَر آمَدَن، بُروز شُدَن، چیزى از کِسى سَر مى زَنَد، نَمایان شُدَن
-- aus der Versenkung auftauchen; آدم  به  آدم  ميرسد کوه  بکوه  نميرسد : هرچند سالها يا مرحله ها از يکديگر دور بوديم  و اميد ديدار نداشتيم  اکنون  باز يکديگر را ديديم
+- aus der Versenkung auftauchen; آدم به آدم ميرسد کوه بکوه نميرسد : هرچند سالها يا مرحله ها از يکديگر دور بوديم و اميد ديدار نداشتيم اکنون باز يکديگر را ديديم
 - bei ihm taucht manchmal ein Fehler auf; گاهى از او خَطائى سَر مى زَنَد
 - Auftauchen; ظُهور
 auftauen; آب شُدَن
@@ -4004,7 +4004,7 @@ auseinanderhalten; از هَم تَشخیص دادَن
 Auseinanderlaufen; واگِرائى، تَباعُد
 - auseinanderlaufend (psychol.); واگِرا، مُتَباعِد
 auseinanderleben;
-- sie werden s. auseinanderleben; میان ِ ایشان  شِکَر آب می شَوَد
+- sie werden s. auseinanderleben; میان ِ ایشان شِکَر آب می شَوَد
 auseinanderreissen; از هَم گُسیختَن
 auseinandersetzen;
 - s. auseinandersetzen mit ...; با کِسى مُقابله کَردَن، با چیزى مَشغول کَردَن
@@ -4081,7 +4081,7 @@ ausfüllen; آگَندَن، پُر کَردَن
 ausfüttern; آستُر کَردَن
 Ausgabe;
 - Ausgabe (literar.); چاپ، طَبع
-- (finanzielle) Ausgabe; (plur.)  (خَرج (مَخارج)، مَصرَف (مَصارف
+- (finanzielle) Ausgabe; (plur.) (خَرج (مَخارج)، مَصرَف (مَصارف
 - Ausgaben machen; خَرج دادَن
 - Ausgaben verursachen; به خَرج اُفتادَن
 - die Ausgaben richten s. nach den Einnahmen; چو دَخلِت نيست خَرج آهِسته تَر کُن
@@ -4168,7 +4168,7 @@ ausgezeichnet;
 ausgiebig; فَراخ، کافى، وافى، فَراوان، به حَد ِ کافى، بفَراوانى
 ausgiessen; ریختَن
 Ausgleich;
-- als Ausgleich für (bei Zahlungen); به مَنظور ِ تَعدیل  ِ
+- als Ausgleich für (bei Zahlungen); به مَنظور ِ تَعدیل ِ
 - Druckausgleich; تَعادُل ِ فِشار
 - Kräfteausgleich; تَوازُن ِ قُدرَت، بالانس ِ ـ، هَمانَندسازى
 - Ost- West- Kräfteausgleich; تَوازُن ِ قُدرَت شَرق و غَرب
@@ -4307,7 +4307,7 @@ auslösen;
 - etwas auslösen; واجِب ِ چیزى شُدَن، موجِد ِ ـ، باعِث ِ ـ، چیزى را ایجاد کَردَن
 - bei den Regierungen etwas auslösen; دَر اَذهان ِ دولَتها چیزى را زِنده کَردَن
 ausloten;
-- eine Sache zutiefst ausloten; چیزى را غوررَسى کَردَن،  تَه و توى ِ چیزى را دَر آوَردَن
+- eine Sache zutiefst ausloten; چیزى را غوررَسى کَردَن، تَه و توى ِ چیزى را دَر آوَردَن
 - eine Wand ausloten; دیواررا با شاقول تَراز کَردَن
 - Ausloten (auch im übertragenen Sinn); گَُمانه زَنى
 ausmachen;
@@ -4337,7 +4337,7 @@ ausnehmen;
 - er ist eine ausnehmende Erscheinung; آدَم ِ خوش پَسَند است
 ausnutzen; مُستَفید شُدَن، اِستِفاده کَردَن
 - jem. ausnutzen; آب دَر گوش ِکِسی کَردَن، دَر سودایی او را فِریفتَن
-- nicht die Schwäche anderer ausnutzen; آدم  حسابش  را پيش  خودش  ميکند : از شرمگني  و حجب  ديگران  استفاده  سوء نبايد کردن
+- nicht die Schwäche anderer ausnutzen; آدم حسابش را پيش خودش ميکند : از شرمگني و حجب ديگران استفاده سوء نبايد کردن
 - ausgenutzt werden; خَر شُدَن، خَر حَمال بودَن
 - ausnutzend; مُستَفید
 Ausnutzung; بَهره کِشى
@@ -4369,7 +4369,7 @@ ausrasten;
 - als er ... sah, rastete er aus; چِشمِش که به ... اُفتاد آن روى ِ سَگِش بالا آمَد
 - jem. zum Ausrasten bringen; حِسابی حال ِ کِسی را جا آوَردَن
 ausrauben; .غارَت کَردَن، تاراج ک
-- jem. ausrauben (bis aufs Hemd); کِسى را لُخت کَردَن،  ـ سَر و کیسه کَردَن
+- jem. ausrauben (bis aufs Hemd); کِسى را لُخت کَردَن، ـ سَر و کیسه کَردَن
 - ausgeraubt werden; به تاراج رَفتَن، غارَت شُدَن
 ausräuchern; با دود ضِد ِ عُفونى کَردَن، دود کَردَن
 ausräumen; خالى کَردَن، تَخلیه کَردَن
@@ -4534,7 +4534,7 @@ Außenseiter; تَکرو
 - Wirkung des Außenseitertums; عَمَلکِرد ِ بیرون گُذارى
 Außenstände; دُیون، مُطالِبات
 - Außenstände eintreiben; دُیون را بَرگَردانیدَن، مُطالِبات را ـ
-Außenstelle; (plur.)  (شُعبه (شُعَبات
+Außenstelle; (plur.) (شُعبه (شُعَبات
 Außenwelt; عالَم ِ ظاهِر
 außer;
 - außer, es sei denn; مَگر اینکه، بِجُز اینکه
@@ -4731,7 +4731,7 @@ ausufern;
 Ausverkauf; فُروش ِ کُلیه اُشیاء به قِیمَت ِ نازِل
 - Totalausverkauf; اَجناس ِ کُتره اى فُروخته مى شَوَد، حَراج بِخاطِر ِ تَخلیه مَغازه
 Auswahl; گُزینه، گُزینِش، اِنتِخاب ِ گُلچینى
-auswählen; (präs.)  (اِنتِخاب کَردَن، اِختیار ک.، گُزیدَن (مى گُزینَد
+auswählen; (präs.) (اِنتِخاب کَردَن، اِختیار ک.، گُزیدَن (مى گُزینَد
 - auswählen (vom Besten); گُلچین کَردَن
 - ausgewählte Fragen; سُؤالات ِ مُنتَخِب
 Auswanderer; مُهاجِر، تارِک ِ وَطَن
@@ -4781,7 +4781,7 @@ auswringen (z.B.: Handtuch); حوله را) چَلانیدن، آب ِ.. فِش�
 Auswuchs (anatom.); زایِده، زیادى
 auswuchten (z.B.: Reifen); طایره را) میزان کَردَن )
 Auswurf (beim Husten); اَخلاط
-auszählen; (z.B. bis 9)  (یِکى یِکى شُمُردَن (مَثَلاً به ۹
+auszählen; (z.B. bis 9) (یِکى یِکى شُمُردَن (مَثَلاً به ۹
 auszahlen;
 - Gehalt auszahlen; به کِسى خُقوق را پَرداختَن
 - das zahlt s. nicht aus; آفتابه را خَرج ِ لَحیم کَردَن

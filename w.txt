@@ -28,7 +28,7 @@ wachsam; هوشیار، هُشیار
 - wachsame Augen; چِشمان ِ هُشیار
 Wachsamkeit; هُشیارى
 wachsen; رُشد کَردَن
-- wachsen (Pflanzen); (präs.: - ruiad)  (رُستن، روئیدَن (مى رويَد
+- wachsen (Pflanzen); (präs.: - ruiad) (رُستن، روئیدَن (مى رويَد
 - wachsen lassen; رویانیدَن
 - wachsendes Vertrauen; اِعتِقاد ِ فُزون
 - ständig wachsende Bedrohung; تَهدید ِ دائِم اُلتَزايُد، تَهدید ِ روز اَفزون
@@ -177,7 +177,7 @@ Wald; جَنگَل
 Wäldchen; بیشه
 walken; مالیدَن
 Wall; حِصار، بارو
-Wallfahrer; (pl.)  (زائِر (زائِرین، زُوار
+Wallfahrer; (pl.) (زائِر (زائِرین، زُوار
 Wallfahrt; زیارَت
 Wallfahrtsort; زیارَتگاه
 Wallung;
@@ -210,7 +210,7 @@ wandeln; سالِک بودَن، سُلوک کَردَن
 Wanderer; سَیاح، راهسِپَر، راه نَوَرد
 wandern; .سیاحَت کَردَن، گَردِش ک
 - durch den Wald wandern (in Eile); از جَنگَل بِدَر رَفتَن
-- durchwandern; (präs.)  (نَوَردیدَن (مى نَوَردَد)، پِیمودَن (مى پِیمايَد
+- durchwandern; (präs.) (نَوَردیدَن (مى نَوَردَد)، پِیمودَن (مى پِیمايَد
 - rumwandern; سیاحَت کَردَن
 Wanderstiefel; چِکمهٔ راه پِیمائى
 Wanderung; سَرگَردانى، راه پِیمائى
@@ -275,7 +275,7 @@ Warnung; اِخطار، تَحذیر
 - nach dieser Warnung ging er; بَعد از این هُشدار رَفت
 - ohne jegliche Warnung; بى هیچ اِخطار
 - seine Stimme bringt Warnung zum Ausdruck; صِداى ِ او خَطَرى را هُشدار مى دَهَد
-- nimm das als Warnung, dass du ...; (nehmt ...)  ... تا تو باشی (تا شما باشید ...) که
+- nimm das als Warnung, dass du ...; (nehmt ...) ... تا تو باشی (تا شما باشید ...) که
 Warteliste; لیست ِ نوبَت
 warten; مُعَطَل کَردَن، پاییدَن
 - warum wartest du noch?; چِرا مُعَطَلى؟
@@ -316,7 +316,7 @@ Wäsche; رَخت، لِباس
 - bügelfreie Wäsche; بِشور و بِپوش بودَن
 Wäscheleine; بَند ِ رَخت
 waschen; شُستَن
-- s. waschen; (konjug.)  (شُست و شو کَردَن، شُستَن (مى شويَد
+- s. waschen; (konjug.) (شُست و شو کَردَن، شُستَن (مى شويَد
 - s. (rituell) waschen; وُضو گِرِفتَن
 - sie waschen s. vor dem Essen die Hände; آنها قَبل از خوردَن ِ غَذا دَستهايِشان را آب مى کِشَند
 - eine Hand wäscht die andere; آب به آب می خورَد زور بَرمیدارَد، دَستیاری با يِکدیگَر مَزید ِ قُوَت ِ هَمِگان است
@@ -354,7 +354,7 @@ Wasserfarbe; آب رَنگ
 Wasserfilter; صافى ِ آب
 Wassergefäss (eine Art -); مَشرَبه
 Wassergraben; آبراه، مَسیل، آبکَند
-- unterirdischer Wassergraben; (pl.)  (قَنات (قَنَوات
+- unterirdischer Wassergraben; (pl.) (قَنات (قَنَوات
 Wasserhahn; شیر ِآب
 wasserhaltig; آبدار
 Wasserkessel; کِترى
@@ -439,13 +439,13 @@ weg;
 - gut, ich bin dann weg; خوب پَس مَن رَفتَم
 - wirf sie weg!; اینرا بِزَن بِچاک
 - ich muss weg; مَن بايَد بِرَوَم
-- was weg ist, ist weg; آب ِ ریخته با کوزه نَیايَد، چیزی را گويَند که چون تَباهی یا زَوال یافت دُرُست کَردَن یا دوباره  به دَست آوَردَنِش مُمکِن نَباشَد، آب ِ ریخته جَمع نَگَردَد
+- was weg ist, ist weg; آب ِ ریخته با کوزه نَیايَد، چیزی را گويَند که چون تَباهی یا زَوال یافت دُرُست کَردَن یا دوباره به دَست آوَردَنِش مُمکِن نَباشَد، آب ِ ریخته جَمع نَگَردَد
 Weg (m); راه
 - unbefestigte Wege; جاده های ِ خاکی
 - falschen Weg gehen; گُمراه شُدَن
 - jem. auf den falschen Weg bringen; کِسى را گَم راهى کَردَن، ـ بیراه کَردَن
 - auf dem Weg dorthin (besuche ich ...); دَر سَر ِ راه، دَر اَثناى ِ راه، دَر بِین ِ راه
-- Helfen, etwas auf den Weg zu bringen (z.B.: Ethik und Wirtschaft); راه بُرد  ِ اَخلاق و اِقتصاد
+- Helfen, etwas auf den Weg zu bringen (z.B.: Ethik und Wirtschaft); راه بُرد ِ اَخلاق و اِقتصاد
 - von hier nach dort ist ein direkter Weg; از اینجا تا آنجا صِراط ِ مُستَقیمى است
 - nicht immer ist der direkte Weg der beste; رَه بُرو بیرَه مَرو هَر چَند رَه پیچان شَوَد
 - auf diplomatischem Weg; از طَریق ِ دیپلماسى
@@ -478,7 +478,7 @@ Weg (m); راه
 - auf halbem Weg stehenbleiben; کارى را نیمه کار گُذاشتَن
 - ich möchte auf diesem Wege gratulieren; مُتَقابِلاً مى خواهَم تَبریک بِگويَم
 - Land, das seinen Weg geht; راهبُرد
-- Das Feuer findet seinen Weg; آتَش جايِ  خود باز می کُنَد، مَرد ِ زیرَک و ماهِر و اُستاد زود شِناخته شَوَد
+- Das Feuer findet seinen Weg; آتَش جايِ خود باز می کُنَد، مَرد ِ زیرَک و ماهِر و اُستاد زود شِناخته شَوَد
 - Fluchtweg; راه ِ گُریز
 - Irrweg (vom eigentlichen Weg entfernt); بى راهى
 Wegbereiter; راهگُشا
@@ -525,7 +525,7 @@ wegspülen; از زیر ِ نَقب زَدَن
 Wegstrecke (1 Stunde); يِک ساعَت راه، فَرسَخ
 wegweisend;
 - wegweisende Forschung; تَحقیقات ِِ راه اَندازى
-Wegweiser; (pl.)  (تابلو، عَلامَت، مَعلَم (مَعالِم
+Wegweiser; (pl.) (تابلو، عَلامَت، مَعلَم (مَعالِم
 wegwerfen; به دور اَفکَندَن، دور اَنداختَن
 wegwischen; پاک کَردَن
 wehen; وَزیدَن
@@ -704,7 +704,7 @@ welche; کُدام، چه
 welk; پَژمُرده، از آب و رَنگ اُفتاده
 Wellblechdach; شیروانى ِ موجدار
 Welldrahtglas; شیشهٔ مات و نَصاف
-Welle; (pl.)  (موج (اَمواج
+Welle; (pl.) (موج (اَمواج
 - Wellen schlagen; موج زَدَن
 - Wellen schlagend (Meer, u.ä.); مَواج
 - Gelenkwelle; غُرغُره
@@ -744,7 +744,7 @@ Wende; تَغییر
 - Wende, Kurve; پیچگاه
 - Tendenzwende; تَغییر ِ جَهَت ِ گِرايِش
 Wendehals; نَرمخوئى
-Wendekreis; (nördlich, südlich)  (مَدار( ِ شُمالى، ـ جِنوبى
+Wendekreis; (nördlich, südlich) (مَدار( ِ شُمالى، ـ جِنوبى
 Wendeltreppe; پِلهٔ مارپیچى
 wenden;
 - Fleisch wenden; گوشت را چَپه کَردَن
@@ -798,7 +798,7 @@ Werft; کارخانهٔ کِشتى سازى
 Werg; کَنَف لائى
 Werk;
 - Werk, Arbeitsplatz; کارگاه، کارخانه
-- Werk, Arbeit; (pl.)  اَثَر، عَمَل (عَمال)، مَحصول، اَمر (اُمور)، کار
+- Werk, Arbeit; (pl.) اَثَر، عَمَل (عَمال)، مَحصول، اَمر (اُمور)، کار
 - gutes Werk (relig.); کار ِ ثَواب
 - musikalisches Werk; تَصنیف
 - das ist ihr Lebenswerk; حاصِل ِ کار ِ همهٔ عُمرِشان است
@@ -1011,7 +1011,7 @@ wieder;
 - das ist gelaufen, kommt nicht wieder; دَر هَمیشه به روى ِ يِک پاشنه نِمى گَردَد، باز هَم زِندِگى ِ گُذَشته رو نَخواهَد آوَرد
 Wiederaufbau; بازسازى
 Wiederaufnahme;
-- Wiederaufnahme der Beratungen; از سَر گیرى ِ مُذاکرِات، اِستیناف ِ  ـ
+- Wiederaufnahme der Beratungen; از سَر گیرى ِ مُذاکرِات، اِستیناف ِ ـ
 wiederaufnehmen; از سَر گِرِفتَن
 wiederbekommen; پَس گِرِفتَن
 wiederbeleben; اِحیاء کَردَن
@@ -1095,7 +1095,7 @@ wimmeln; (wul) وول زَدَن
 wimmern; .ناله کَردَن، فِغان ک
 - vor Schmerzen wimmern; از دَرد زوزه کِشیدَن
 Wimpel; دِرَفش، پَرچَم ِ سه گانه
-Wimper; (pl.)  (مُژه، مُژگه (مُژگان
+Wimper; (pl.) (مُژه، مُژگه (مُژگان
 - er zuckt nicht mit der Wimper; خَم به آبروى ِ او نِمى آيَد
 - ohne mit der Wimper zu zucken; کِیکَم هَم نِمى گَزَد
 Wimperntier; مُژَکدار
@@ -1207,7 +1207,7 @@ Wirsing; کَلَم ِ پیچ
 Wirt; صاحِب ِ مِیخانه
 Wirtschaft; اِقتِصاد
 - Betriebswirtschaft; اِقتِصاد ِ صَنَعتی
-- Volkswirtschaft; (Mikro-, Makroökonomie)  (اِقتِصاد ِ مِلی (اِقتِصاد ِ خُرد، - کََلان
+- Volkswirtschaft; (Mikro-, Makroökonomie) (اِقتِصاد ِ مِلی (اِقتِصاد ِ خُرد، - کََلان
 wirtschaftlich; اِقتِصادی
 - gesamtwirtschaftlich; اِقتِصادى ِ کَلان
 - wirtschaftlicher Rückschlag; وَخامَت ِ وَضع ِ اِقتِصادى
@@ -1243,9 +1243,9 @@ Wissen (n); فَضائِل، وُقوف، عِلم، دانِش، مَعرِفَ
 - Wissen ist Macht; تَوانا بُوَد هَر که دانا بُوَد
 - Wissen verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر، دِرَخت بارَش هَرچه بیشتَر میشَوَد سَرَش پائینتَر میشَوَد
 wissend; عارِف
-Wissenschaft; (pl.)  (عِلم (عُلوم
+Wissenschaft; (pl.) (عِلم (عُلوم
 - exakte Wissenschaft; عُلوم ِ ریاضیه
-Wissenschaftler; (pl.)  (دانِشمَند، عالِم (عُلَماء
+Wissenschaftler; (pl.) (دانِشمَند، عالِم (عُلَماء
 wissenschaftlich; عِلمى
 wittern;
 - die Gefahr wittern; بوى ِ خَطَر را کِشیدَن، ـ شِنیدَن
@@ -1329,7 +1329,7 @@ Wohlstand; تَمَوُل، اِفلاح، سَعادَت، رِفاه، بِه�
 Wohlstandsgleichgewicht; تَعادُل ِ رِفاه
 Wohltat;
 - Wohltat erweisen; اِحسان کَردَن
-Wohltäter; (pl.)  (مَرد ِ خَيِر، وِلى ِ نِعمَت، نیکوکار، شَخص ِ مَنان، مُنعِم (مُنعِمین
+Wohltäter; (pl.) (مَرد ِ خَيِر، وِلى ِ نِعمَت، نیکوکار، شَخص ِ مَنان، مُنعِم (مُنعِمین
 - s. als Wohltäter hinstellen; قیافهٔ ارباب و وِلى ِ نِعمَت بِخود گِرِفتَن
 wohltätig; نیکوکار
 Wohltätigkeit; خِیريَت، خِیریه
@@ -1348,7 +1348,7 @@ wohnhaft;
 Wohnheim;
 - Studentenwohnheim; خوابگاه ِ دانِشجوئى
 Wohnsitz; مَحَل ِ سُکونَت، قَرارگاه، اِستِحکامات، اِقامَت گاه، بود و باش
-Wohnung; (pl.)  (سُکَنىٰ، سَکَن، خانه، مَنزل، آپارتِمان، مَسکَن (مَساکِن
+Wohnung; (pl.) (سُکَنىٰ، سَکَن، خانه، مَنزل، آپارتِمان، مَسکَن (مَساکِن
 - Vormerkliste für Wohnungen; لیست مُتَقاضیان حائِز ِ شَرايِط ِ سُکونَت
 Wohnungsamt; اِدارهٔ مَسکَن
 Wohnungsbau; خانه سازى
@@ -1359,7 +1359,7 @@ Wölbung; خَمیدِگى، بَرآمدِگى، گُنبَد
 Wolf; گُرگ
 - Wolf im Schafspelz; مار ِ خوش خَطا و خال، گُرگى دَر لِباس ِ میش
 - Wolf bleibt Wolf; گُرگ با تَعليم و تَربيَت گوسفَند نِمی شَوَد
-Wolke; (pl.)  (اَبر، سَحابه (سَحاب
+Wolke; (pl.) (اَبر، سَحابه (سَحاب
 Wolkenbruch; رَگبار
 Wolkenkratzer; ساختِمان ِ آسِمان خَراش
 Wolle; پَشم
@@ -1560,7 +1560,7 @@ Wurzel;
 - Wurzel (mathemat.); جَذر
 - die Wurzel von 4 ziehen; جَذر ِ ۴ را گِرِفتَن
 - Menschen ohne Wurzel; اَشخاصى ِ بى ریشه
-- die Wurzel ist faul; آب از سَرچِشمه گِل است،  آب از بُنه تیره است، عِیب و خَلَل دَر اَصل و بُنیان ِ اَمر است
+- die Wurzel ist faul; آب از سَرچِشمه گِل است، آب از بُنه تیره است، عِیب و خَلَل دَر اَصل و بُنیان ِ اَمر است
 - Das Übel an der Wurzel packen; آب را از سَرچِشمه بايَد بَست، دَر دَفع ِ فِتنه و شَر بايَد مَنشاء و مَنبَع ِ اَصلی ِ آن را مَعلوم و مَسدود ساخت
 - die Wurzel des Übels liegt in einem selbst; کِرم ِ دِرَخت از خود ِ دِرَخت است
 Wurzelzeichen; عَلامَت ِ رادیکال

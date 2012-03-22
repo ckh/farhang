@@ -41,7 +41,7 @@ haben; داشتَن
 - bei s. haben; هَمراه اش بودَن، ـ داشتَن
 - ich habe 2 Kinder; مَن داراى ِ ۲ تا بَچه هَستَم
 - Schimpfworte, die es in s. haben; فُحش ِ آبدارى
-- diejenigen, die ... haben, können mitmachen; آنها میتَوانَند با دارا بودَن  ِ ...  شِرکَت کُنَند
+- diejenigen, die ... haben, können mitmachen; آنها میتَوانَند با دارا بودَن ِ ... شِرکَت کُنَند
 - jem., der ewiges Leben hat; او دارَندهٔ زِندِگى ِ جاوید است
 - wir hatten noch 3 Stufen vor uns; هَنوز سه تا پِله باقی داشتیم
 - dieses Land hat eine besondere Bedeutung als ...; این کِشوَر اَهَمیَت ِ خاصى بِعُنوان ِ ... قائِل است
@@ -171,13 +171,13 @@ Halt (m);
 haltbar;
 - haltbar bis ...; قابِل ِ مَصرَف تا
 - haltbare Tasche; کیف ِ مُداوِم، ـ مُحکَم
-- haltbarer Stoff, fester Stoff; پارچهٔ  هٔ قُرص
+- haltbarer Stoff, fester Stoff; پارچهٔ هٔ قُرص
 Haltbarkeit; نِگَهدارى، دَوام
 Haltbarkeitsdatum; زَمان ِ مَصرَف
 halten; تَوَقُف کَردَن، ایستادَن
 - s. an ... halten; چیزى را مُراعات کَردَن
 - Gelübde halten; نَذر وَفا کَردَن
-- kann man für ...  halten; میتَوان آنرا ... پِنداشت
+- kann man für ... halten; میتَوان آنرا ... پِنداشت
 - zu jem. halten; جانِب ِ کِسى را گِرِفتَن
 - kaum an s. halten können; بِسَختى خودرا بِجا آوَردَن
 - sie halten nicht viel von ihm; آنها از او زیر پاکِشى مى کِشَند
@@ -433,7 +433,7 @@ Hauptaugenmerk;
 - das Hauptaugenmerk von ... lag auf ...; رُئوس ِ تَوَجُه ِ فِلان دَر این بود
 Hauptmann; سَروان
 Hauptpunkt;
-- Hauptpunkt (z.B. beim Aufsatz); (pl.) (ro'us)  (رَأس ِ مَطلَب (رُئوس ِ مَطالِب
+- Hauptpunkt (z.B. beim Aufsatz); (pl.) (ro'us) (رَأس ِ مَطلَب (رُئوس ِ مَطالِب
 Hauptsache; اَصل
 - Hauptsache & Nebensache; اُصول و فُروع
 hauptsächlich; عُمده، اَصلى
@@ -605,7 +605,7 @@ heiß;
 - glühend heißer Ort; جاى ِ تَفسان، ـ تَفتى
 - heißes Wasser; آب ِ داغ
 - gestern war es brüllend heiß; دیروز آتَش مى بارید
-- jem. heiß machen auf etwas; سَر ِ کِسى را گَرم کَردَن،  شائِق شُدَن ِ او، مُشتاق  کَردَن ِ او
+- jem. heiß machen auf etwas; سَر ِ کِسى را گَرم کَردَن، شائِق شُدَن ِ او، مُشتاق کَردَن ِ او
 - auf etwas heiß sein; آج و داغ ِ چیزی بودَن
 heißen;
 - wie heißen Sie?; اِسم ِ شُما چیست؟
@@ -681,7 +681,7 @@ herabsetzend; خِفت آمیز، کَسر آمیز
 herabsteigen; فُرود آمَدَن
 herankommen;
 - wir kommen an die Sachen heran; به چیزها دَسترِسى داریم
-- an etwas nicht herankommen (was andere haben); کُلاه اش پَس  ِ مَرِکه بودَن، عَقَب بودَن از دیگَران
+- an etwas nicht herankommen (was andere haben); کُلاه اش پَس ِ مَرِکه بودَن، عَقَب بودَن از دیگَران
 heranmachen (s. -); نَزدیک شُدَن
 heranwachsen; از آب و گِل دَر آمَدَن، بُزُرگ شُدَن، رُشد کَردَن
 - heranwachsende Generation; نَسل ِ رو به رُشد
@@ -697,7 +697,7 @@ herausfinden;
 - mit Überraschung herausfinden; با شِگِفتِگى دَر یافتَن
 - ob er herausfindet, dass ...?; ... او هَم عَقلَش مى رِسَد که
 - sie finden heraus, dass ...; آنها بو مى بَرَند که، ـ کَشف مى کُنَند
-- zum Herausfinden (was ... weiss); جَهَت ِ آزمون  ِ دانِش ِ کِسى، سَر و گوشی ِ آب دادَن
+- zum Herausfinden (was ... weiss); جَهَت ِ آزمون ِ دانِش ِ کِسى، سَر و گوشی ِ آب دادَن
 Herausforderer; چالِش گَر، طالِب
 herausfordern; طَلَبیدَن، به چالِش کِشیدَن
 - jem. herausfordern; کِسی را به چالِش کِشیدَن
@@ -803,7 +803,7 @@ Herrlichkeit; شوکَت، فَر، شُکوه، جَلال
 Herrschaft;
 - Herrschaft erlangen; سُلطه یافتَن، تَسَلُط ـ
 - Fremdenherrschaft; سُلطهٔ بیگانِگان
-- meine sehr geehrten Herrschaften; بانویان و آقایان ِ مُحتَرَم،  حُضار ِ ـ
+- meine sehr geehrten Herrschaften; بانویان و آقایان ِ مُحتَرَم، حُضار ِ ـ
 herrschaftlich;
 - hochherrschaftlich (in der Haltung); با جَبَروت
 Herrschaftsbereich; قَلَمرو، وِلایَت
@@ -950,7 +950,7 @@ Heuschrecke; مَلَخ
 heute; اِمروز
 - heute abend; اِمشَب
 - heute morgen; اِمروز صُبح
-Heute (n); روز  ِ اِمروز
+Heute (n); روز ِ اِمروز
 heutig;
 - bis zum heutigen Tag; (al joum) تا اَلیوم، تا اِمروز
 - in der heutigen Zeit; دَر روزِگار ِ اِمروزه
@@ -982,7 +982,7 @@ Hilfe; پایمَردى، کُمَک، یارى، اِمداَد، مَدَد
 - jem. zu Hilfe rufen; سَر ِ کِسى داد کِشیدَن، فَریاد خواه
 - um Hilfe schreien; هَوار کِشیدَن
 - überall Hilfe suchen; به هَر دَرى زَدَن
-- mit Hilfe von ...; با پایمَردى  ِ..، با مُعاضِدَت ِ، با اِمداد ِ، با گُزیر ِ، به کُمَک ِ
+- mit Hilfe von ...; با پایمَردى ِ..، با مُعاضِدَت ِ، با اِمداد ِ، با گُزیر ِ، به کُمَک ِ
 - mit Hilfe der Duldung durch ...; به پاس ِ اِستِفاده از اِغماض ِ کِسى
 - er ist keine Hilfe; دَر این کار دَخیل نیست
 - sei Hilfe, kein Hindernis; راهبَر باش نَه راه بُر
@@ -1094,7 +1094,7 @@ hingeben;
 - ein hingegebener Mensch; آدَم ِ جان بَر کَف
 hinhocken; تَمَرگیدَن
 - hock dich endlich hin!; بِگیر سَر ِ جات بِتَمَرگ
-hinken; (präs.)  شَلیدَن (مى شَلَد)، لَنگیدَن
+hinken; (präs.) شَلیدَن (مى شَلَد)، لَنگیدَن
 - die Sache hinkt; یِک چیزَش لَنگ است
 - hinkend und hüpfend kamen sie an; اُفتان و خیزان به ... رِسیدَند، ـ لَنگان رِسیدَند
 Hinkender; شَخص ِ لَنگ
@@ -1150,7 +1150,7 @@ hinterher;
 - ich hinke hinterher (mit meiner Arbeit); مَن ماندَم
 hinterherrennen; دُنبال ِ کِسى بِراه اُفتادن، پُشت ِ کِسى دُو دُو زَدَن به
 - seit Tagen renne ich vergeblich hinter ... her; چَند روز است جِِز ... را می زَنَم
-hinterhersein; دُنبال ِ سَر ِ کِسى کَردَن ،  پى ِ جوى ِ کِسى بودَن
+hinterhersein; دُنبال ِ سَر ِ کِسى کَردَن ، پى ِ جوى ِ کِسى بودَن
 - er war immer einer Sache hinterher; او هَمیشه پُشت ِ این کاررا گِرِفته است
 - diese Sache erfordert ständiges Hinterhersein; این بَرنامه پِیگیرى ِ مُصِرانه را میخواهَد
 Hinterlader; تُفَنگ ِ تَه ِ پُر
@@ -1507,7 +1507,7 @@ humpeln; لَنگیدَن
 Hund; سَگ
 - Jagdhund; یوز
 - jem., der vor die Hunde geht; شَخصى که دَر خانهٔ خَرابى بِسَر مى بَرَد
-- Bekannt, wie ein bunter Hund; گاو ِ پیشانى ِ  سِفید
+- Bekannt, wie ein bunter Hund; گاو ِ پیشانى ِ سِفید
 - Bellende Hunde beissen nicht; از آن نَتَرس که هاى و هو دارَد، از آن بِتَرس که سَر بِتو دارَد
 - Auf den Hund kommen; به صِفر رِسیدَن
 - Das ist ein dicker Hund; هَضمَش نِمى شَوَد کَرد
@@ -1538,7 +1538,7 @@ hüpfen; جَست و خیز کَردَن، جَهیدَن
 - beidbeinig hüpfen; جُفت زَدَن
 - hinkend und hüpfend kamen sie an; اُفتان و خیزان به ... رِسیدَند
 - Das ist gehüpft, wie gesprungen; چه عَلى خواجه چه خواجهٔ عَلى
-Hürde; (pl.)  (مانِع (مَوانِع
+Hürde; (pl.) (مانِع (مَوانِع
 - die letzte parlamentarische Hürde nehmen; از آخَرین مَرحَلهٔ پارلِمانى گُذَشتَن
 Hürdenlauf; دُو با عَوارض
 Hurra; هورا

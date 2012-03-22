@@ -69,7 +69,7 @@ raffgierig; دَندان ِ گِرد
 - er ist raffgierig; دَندانَش گِرد است
 Raffinerie; پالايِشگاه
 - Erdölraffinerie; پالايِشگاه ِ نَفت، تَصفیه گاه
-raffinieren; (präs.)  (تَصفیه کَردَن، پالايِش ک.، پالودَن (مى پالايَد
+raffinieren; (präs.) (تَصفیه کَردَن، پالايِش ک.، پالودَن (مى پالايَد
 raffiniert; هیله گَر، زیرَکانه
 - raffinierter Zucker; شِکَر تَصفیه شُده
 Rage; غَضَب، خَشم
@@ -132,13 +132,13 @@ ranmachen;
 ranzig; خَراب، فاسِد
 Raps; کِلزا
 rar; کَمیاب، به نُدرَت
-Rarität; (pl.)  (تُخفه، نادِره (نَوادِر
+Rarität; (pl.) (تُخفه، نادِره (نَوادِر
 rascheln; خِش خِش کَردَن
 rasen; با سُرعَت ِ مَزید راندَن
 Rasen (m); چَمَن
 rasend; ژیان، جُنون آمیز
 Rasenmäher; ماشین ِ چَمَن چین، ـ زَنى
-Rasierapparat; (خود تَراش(ـ  ِ بَرقى
+Rasierapparat; (خود تَراش(ـ ِ بَرقى
 Rasiercreme; خَمیر ِ ریش تَراشى
 rasieren; صورَت را اِصلاح کَردَن، ریش تَراشیدَن
 - gegen den Strich rasieren; چَپَه تَراش کَردَن
@@ -164,12 +164,12 @@ Raststätte; رِستوران ِ بِین ِ راه
 Rasur; اِصلاح ِ صورَت، ریش تَراشى
 Rat; مَشوَرَت، پَند
 - Rat einholen (in religiösen und rechtlichen Fragen); اِستِفتاء کَردَن
-- Rat erteilen; (pl.)  (پَند دادَن، اندَرز د.، نَصیحَت د. (نَصایح
+- Rat erteilen; (pl.) (پَند دادَن، اندَرز د.، نَصیحَت د. (نَصایح
 - ... weiss um einen Rat; چاره ساز است
 - als Rat weitergeben; مِن باب ِ مَشوَرَت گُفتَن
 - auf den Rat hin; (be-sch-schour) بالشور
 - Rat für gegenseitige Wirtschaftshilfe; شوراى ِ کُمَکهاى ِ اِقتِصادى ِ مُتَقابِل
-Rate; (pl.)  (قِسط (اَقساط
+Rate; (pl.) (قِسط (اَقساط
 - auf Raten; قِسطى
 - auf Raten zahlen; .قِسطى پَرداختَن، به اَقساط پ
 raten;
@@ -192,7 +192,7 @@ Rationierung; جیره بَندى
 ratlos; مات و مَبهوت، حِیرَت زَده، سَراسیمه، دَرمانده
 ratsam;
 - für ratsam halten; .مَصلَحَت دانستَن، ـ دیدَن، مُفید د
-Ratsche; چَرخ ِ ضامِن دار، ـ  جَغجَغه دار
+Ratsche; چَرخ ِ ضامِن دار، ـ جَغجَغه دار
 Ratschlag; مَشوَرَت، پَند
 Rätsel; مُعَما، لُغَز
 - Kreuzworträtsel; جَدوَل ِ کَلَمات ِ مُتَقاطِع
@@ -419,7 +419,7 @@ rechtschaffen; دُرُستکار، اَمین، عادِل، مُنَزه
 Rechtschaffenheit; آبرومَندى، نیکى
 Rechtschreibung; دُرُست نِویسى
 rechtsdrehend; بِطَرَف ِ راست مى چَرخَد
-Rechtsgelehrter (isl.); (pl.)  (مُجتَحِد، فَقیه (فُقَها
+Rechtsgelehrter (isl.); (pl.) (مُجتَحِد، فَقیه (فُقَها
 Rechtsgültigkeit; قانونيَت، شَرعيَت
 Rechtsgutachten (isl.); فَتوا
 - Rechtsgutachten ausstellen; فَتوا دادَن
@@ -555,7 +555,7 @@ Regeneration; تَجدید ِ قُوىٰ، تَرمیم
 Regenmantel; پالتوى ِ بارانى
 Regenrinne; ناودان
 Regenschirm; چَتر
-Regent; (pl.)  (زِمامدار، وَلی اُلاَمر (اولیاء ِ اُمور
+Regent; (pl.) (زِمامدار، وَلی اُلاَمر (اولیاء ِ اُمور
 Regentschaft; زِمامدارى
 Regenwurm; خَراطین
 Regie; کارگَردانی
@@ -570,7 +570,7 @@ Regierung; دولَت، حُکومَت
 regierungsfähig; قادِر به حُکومَت
 - regierungsfähige Mehrheit; اَکثَريَت ِ قادِر به حُکومَت
 Regiment; فوج، هَنگ
-- ein Regiment von ...; ِ فوج  ِ...، هَنگ
+- ein Regiment von ...; ِ فوج ِ...، هَنگ
 Region; (pl.) (مَنطَقه، ناحیه (نَواحى
 - nördl. Polarregion; آفاق ِ قُطبى ِ شُمالى
 regional; مَنطَقه اى
@@ -625,7 +625,7 @@ reich; مُتَمَوِل، مایه دار، پولدار
 - er war nicht reich genug, um ...; دَستِش هَم نِمى رِسید که
 - Reich zu reich; آب دانَد که آبادانی کُجاست
 - reich sein, übertreffen; اَفزون آمَدَن
-- Reicher; (pl.)  (ثِروَتمَند، پولدار، مُتَمَوِل (مُتَمَوِلین
+- Reicher; (pl.) (ثِروَتمَند، پولدار، مُتَمَوِل (مُتَمَوِلین
 Reich (n); قَلَمرو، مَملَکَت
 - sein Reich ging bis ...; قَلَمروى ِ او تا ... رِسید
 reichen;
@@ -707,7 +707,7 @@ reinhauen;
 - jem. eine reinhauen; کِسی را کُتَک زَدَن
 - das Essen reinhauen (vulg.); شِکَنبارِگى کَردَن
 Reinheitsgrad; دَرَجهٔ خُلوص
-reinigen; (präs.)  (زِدودَن (مى زِدايَد
+reinigen; (präs.) (زِدودَن (مى زِدايَد
 - das Wort Gottes reinigt; کَلام ِ خُدا مُصَفى است
 - gründlich reinigen; با آب و جاروب زَمین را تََمیز کَردَن
 - gereinigt; مُطَهِر، پاک شُده
@@ -767,7 +767,7 @@ reißen; دَریدَن، پاره کَردَن
 - jem. aus dem Schlaf reißen; از خواب پَرانیدَن
 - bis der Lebensfaden reißt; تا رَگ ِ جان گُسیخت
 - Herrschaft an s. reißen; سُلطَنَت را غَصب کَردَن
-- auseinanderreißen; (präs.)  (از هَم گُسیختَن (مى گُسِلَد
+- auseinanderreißen; (präs.) (از هَم گُسیختَن (مى گُسِلَد
 reißend;
 - reißende Quelle; چِشمهٔ جوشان
 - reißendes Tier; حِیوان ِ دَرَنده
@@ -860,7 +860,7 @@ Repressalien; تَحَکُم، فِشار، زَجر
 - Repressalien erleiden; زَجر کِشیدَن
 - jem. einer Repressalie aussetzen; کِسى را تَحت ِ فِشار قَرار دادَن
 Reproduktion; چاپ ِ مُجَدَد، تولید ِ ـ
-Reptil; (pl.)  (خَزَنده (خَزَندِگان
+Reptil; (pl.) (خَزَنده (خَزَندِگان
 Republik; جُمهورى
 Republikaner; جُمهوریخواه
 Reputation; وِجهه، آبرو، حِیثيَت
@@ -875,7 +875,7 @@ reservieren; رِزِرو کَردَن
 reserviert; به خود گِرِفته
 - reservierte Haltung einnehmen; حالَت ِ دِفاعى به خود گِرِفتَن
 Reservierung; رِزِرو ِ جا
-Reservoir; (pl.)  (مَخزَن (مَخازِن
+Reservoir; (pl.) (مَخزَن (مَخازِن
 Residenz; قَرارگاه، مُقَر ِ سُلطَنَت
 Resignation; دِلخوری، سَرخوردِگی
 resignieren; دِلخورده شُدَن
@@ -917,7 +917,7 @@ Resultat; فَرايَند، بَرآيَند، دَست آوَرد، نَتیج
 - das Resultat der Arbeit; فَرجام ِ کار
 resultieren;
 - resultieren in; مُنجِر شُدَن به
-- das resultiert in; که مُنتَج  ِ... است
+- das resultiert in; که مُنتَج ِ... است
 Resumé; ماحَصَل، خُلاصه، تَلخیص
 Retina; شَبَکه چِشم
 Retortenbaby; طِفل که از لِقاح ِ مَصنوعى دَر آمَد
@@ -996,7 +996,7 @@ richten; مُراجِعه کَردَن
 - richten, reparieren; تَعمیر کَردَن
 - die Bestellung an ... richten; سِفارِش به کِسى مُراجِعه کَردَن
 - sie richten ihre Wut auf uns; خَشمِشان را مُتَوَجهٔ ما مى کُنَند
-- s. nach den Wünschen richten; بَر طِبق ِ مِیل  عَمَل کَردَن
+- s. nach den Wünschen richten; بَر طِبق ِ مِیل عَمَل کَردَن
 - jem. Aufmerksamkeit richten auf; تَوَجُه ِ کِسى را مَعطوف دارَد به
 - s. gegen etwas richten; به ضِد ِ چیزى جازِم شُدَن
 - ich richte dich nach deinen Taten; تورا به سَزاى ِ اَعمالَت مى رِسانَم
@@ -1018,7 +1018,7 @@ Richtlinie; خَط ِ مَشى
 Richtlinienkompetenz; صَلاحيَت ِ تَعیین ِ خَط ِ مَشى ِ سیاسى
 Richtschnur; مِعیار، مِقیاس
 - das Wort Gottes ist die Richtschnur; کَلام ِ خُدا فُرقان است، - مَلاک است
-Richtung; (pl.)  (مَسیر، سَمت، جَهَت (جَهات
+Richtung; (pl.) (مَسیر، سَمت، جَهَت (جَهات
 - eine andere Richtung einschlagen; خود را به راه ِ دیگَر زَدَن
 - in Richtung von ... schwimmen; رو به چیزى شِنا کَردَن
 - sein Denken geht in eine Richtung mit ...; فِکر ِ او با ... يِک راستا است
@@ -1063,7 +1063,7 @@ Ring; حَلقه، رینگ
 - Spionagering; شَبَکهٔ جاسوسى
 ringen; کُشتى گِرِفتَن
 - ringen um (z.B. um Wahrheit); مِحنَت کِشیدَن، مُجاهِده کَردَن
-- mit jem. ringen um; با کِسى مُغابِله کَردَن،  ـ کَلَنجار رَفتَن
+- mit jem. ringen um; با کِسى مُغابِله کَردَن، ـ کَلَنجار رَفتَن
 - mit s. ringen; با خود کَلَنجار رَفتَن
 - Ringen; کُشتى گیرى
 - Freistilringen; کُشتى ِ آزاد
@@ -1288,7 +1288,7 @@ Rücktritt; کِناره گیری، اِستِعفا
 - seinen Rücktritt anbieten; اِستِعفاى ِ خودرا عَرضه کَردَن
 Rücktrittbremse; تُرمُز ِ سايِشى، ـ پائى
 Rücktrittsklausel; شَرط ِ فَسخ
-Rückwand; دیوار ِ  پُشتى
+Rückwand; دیوار ِ پُشتى
 rückwärts; به طَرَف ِ عَقَب، بَر عَکس
 - rückwärts gerichtete Politik; سیاسَت ِ واپَس گِرایانه
 rückwärtsbewegen (s. -); به قَهقَرا رَفتَن

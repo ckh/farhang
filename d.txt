@@ -254,7 +254,7 @@ dauernd; هَمیشه، پِیوَسته
 Dauerschlaf; خواب ِ مَدام
 Dauerspannung; کِشِش ِ مُمتَد
 Dauervisum; رَوادید ِ دائِمى
-Dauerwelle; فِر  شِش ماهه
+Dauerwelle; فِر شِش ماهه
 Dauerzustand; حالَت ِ یِکنَواخت
 Daumen; (*:Finger) شَست
 - Daumen lutschen; شَست مَکیدَن
@@ -401,7 +401,7 @@ Dekret; حُکم، فَرمان
 Delegation; هَیئَت ِ نِمایندِگان
 - Regierungsdelegation; هَیئَت ِ نِمایندِگى ِ دولَت
 delegieren;
-- Verantwortung delegieren; .مَسؤلیَت را اِعزام کَردَن، ـ تَفویض ک.،  ـ مُنتَقِل ک
+- Verantwortung delegieren; .مَسؤلیَت را اِعزام کَردَن، ـ تَفویض ک.، ـ مُنتَقِل ک
 Delegierung;
 - Delegierung nach ...; اِعزام به
 - Delegierung von Befugnissen; تَفویض ِ اِختیارات، اِنتِقال ِ ـ
@@ -446,7 +446,7 @@ demoralisieren; روحیهٔ کِسی را ضَعیف کَردَن
 Demoskopie; نَظَر پُرسى ِ هَمِگانى
 Demut; تَواضُع، فُروتَنى، خُضوع، شِکَسته نَفسی
 - einen auf Demut machen; شِکَسته نَفسی کَردَن
-- Wahre Größe zeigt sich durch Demut; آدَم  از کوچِکی بُزُرگ میشَوَد : خُضوع  و فُروتَنی سَبَب ِ بُزُرگی ِ مَرد شَوَد
+- Wahre Größe zeigt sich durch Demut; آدَم از کوچِکی بُزُرگ میشَوَد : خُضوع و فُروتَنی سَبَب ِ بُزُرگی ِ مَرد شَوَد
 demütig; مُتَواضِع، فُروتَن، اُفتاده دِل، شِکَست ِ نَفس
 demütigen;
 - jem. demütigen; .تَذلیل کَردَن، تَحقیر ک
@@ -586,7 +586,7 @@ desto; هَر چه
 - je höher, desto besser; هَرچه بُلَندتَر بِهتَر
 deswegen;
 - deswegen, weil; چونکه
-Detail; (pl.)  (تَفصیل (تَفاصیل)، جُزئى (جُزئیات
+Detail; (pl.) (تَفصیل (تَفاصیل)، جُزئى (جُزئیات
 - im Detail; صُغرا و کُبرا، جُزئى، مُفَصَلاً
 - langsam fange ich an, die Details seines Lebens zu verstehen; کَم وبیش تَه و توی ِ زِندگی اش را دَر می آوَرَم
 - vom Allgemeinen zum Detail; از کُل به جُزء، بِطور ِ مَفصَل، ـ تَفصیلى
@@ -670,7 +670,7 @@ dicht;
 - dichtes Zelt; خِیمهٔ عایِق دَر مُقابِل ِ رُطوبَ
 - der Schuh ist nicht dicht; کَفش نَم مى کِشَد
 - der Stoff ist dicht gewebt; پارچه سِفت بافت است
-- sie sitzen dicht beieinander; آنها خِیلى نَزدیک بِهَم مى نِشینَند، ـ چَسب  ِ چَسب ـ
+- sie sitzen dicht beieinander; آنها خِیلى نَزدیک بِهَم مى نِشینَند، ـ چَسب ِ چَسب ـ
 - der Topf ist dicht; دیگ کیپ است
 - dichter Wald; جَنگَل ِ اَنبوه
 - jem. ist nicht ganz dicht; بالا خانه اَش را اِجاره دادَن
@@ -1348,7 +1348,7 @@ durch;
 - jem. durch den Fluss führen; کِسى را از رود خانه عُبور دادَن
 - durch die Menschen durch, zu ...; خودرا از لابِلاى ِ مَردُم میرِسانَند به
 durchackern;
-- das Buch durchackern; کِتاب را حَلاجى کَردَن، ـ از سَر تاسَر خواندَن،  ـ از سَر تا تَه ـ
+- das Buch durchackern; کِتاب را حَلاجى کَردَن، ـ از سَر تاسَر خواندَن، ـ از سَر تا تَه ـ
 durcharbeiten;
 - Tag und Nacht durcharbeiten; شَب و روز مَشغول بودَن
 - das Thema durcharbeiten; موضوع را مُرور کَردَن
@@ -1478,7 +1478,7 @@ durchlässig;
 Durchlässigkeit; قابِلیَت ِ عُبور
 Durchlauf; عُبور
 durchlaufen;
-- verschiedene Stufen durchlaufen; مَراحِل ِ مُختَلِفى را طِى کَردَن، ـ  پِیمودَن
+- verschiedene Stufen durchlaufen; مَراحِل ِ مُختَلِفى را طِى کَردَن، ـ پِیمودَن
 - Kaffee durchlaufen lassen; قَهوه را از فیلتِر گُذَراندَن
 - der Kaffee ist durchgelaufen; قَهوه رَد شُده است، - حاضِر است
 Durchlauferhitzer; آبگَرم کُن

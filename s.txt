@@ -65,12 +65,12 @@ Säge (f); اَره
 - Laubsäge; اَره موئى
 Sägemehl (n); خاک ِ اَره
 - frisches Sägemehl; خاک ِ اَرهٔ تازه
-sagen; (präs.)  (عَرض کَردَن، گُفتَن (مى گويَد
+sagen; (präs.) (عَرض کَردَن، گُفتَن (مى گويَد
 - nichts sagen; سُکوت کَردَن
 - er sagte kein Wort; او لاکَلام حَرف نِمى زَد، او سُکوت کَرد
 - s. selbst sagen; خودرا مُخاطِب قَرار دادَن
 - wenn ich Ihnen sagen darf; عَرض به خِدمَت ِ شُما، خِدمَت ِ شُما عَرض مى کُنَم
-- er läßt s. nichts sagen (weil er glaubt, alles zu wissen); آب بی لَجام (بی  لَگام) خوردَن، بی مُرَبی و سَرپَرَستی بار آمَدَن، خودسَر و مُطلَق ُالعَنان بودَن
+- er läßt s. nichts sagen (weil er glaubt, alles zu wissen); آب بی لَجام (بی لَگام) خوردَن، بی مُرَبی و سَرپَرَستی بار آمَدَن، خودسَر و مُطلَق ُالعَنان بودَن
 - ich will dir was sagen!; جَوابَش با مَن
 - du hast uns nichts zu sagen; به ما اَمر و نَهى نَکُن
 - das kann man gar nicht sagen; که نَگو
@@ -106,10 +106,10 @@ Sahara (f); صَحرا
 Sahne (f); خامه، سَر شیر
 - das ist allererste Sahne; این نُمره يِک است
 sahnig; خامه دار، خامه اى
-Saison (f); (pl.)  (فَصل (فُصول)، موسِم (مَواسِم
+Saison (f); (pl.) (فَصل (فُصول)، موسِم (مَواسِم
 - saisonale Nachfrage; تَقاضاى ِ فَصلى
 Saisonarbeiter (m); کارگَر ِ مُوَقَت، کارگَر ِ موسِمى، کارگَر ِ فَصلى
-Saite (f); (pl.)  (زِه، تار، وَتَر (اوتار
+Saite (f); (pl.) (زِه، تار، وَتَر (اوتار
 säkular; عِلمانى، ناسوتى، دُنیائى، دُنیاوَرز
 Säkularismus (m); عِلمانيَت، دُنیاوَرزى، اِصالَت ِ اُمور ِ دُنیائى
 Salamander (m); سَمَندَر
@@ -184,7 +184,7 @@ sanft; مُلايِم، حَلیم، فُروتَن، آرام، لَطیف
 Sänfte; کَجاوه، تَخت ِ رَوان
 Sanftmut; مُلايَمَت، خوش خُلقى، حِلم
 sanftmütig; حَلیم، مُلايِم
-- sanftmütiger Mensch; (pl.)  (حَلیم (حَلیمان
+- sanftmütiger Mensch; (pl.) (حَلیم (حَلیمان
 Sänger; خانَنده
 Sanguiniker; آدَم ِ دَمَوى
 Sanierung; بازسازى، بِهسازى، اِحیا، تَرمیم
@@ -197,7 +197,7 @@ Sanktionsdrohung; تَهدید به تَحریم
 Saphir; یاقوت ِ کَبود
 Sardelle; ماهى ِ کولى
 Sardine; سَماریس، ساردین
-Sarg; (pl.)  (تابوت (تَوابیت
+Sarg; (pl.) (تابوت (تَوابیت
 Sarkasmus; بَذله گوئى، طَعنه
 sarkastisch; طَعنه آمیز
 - sarkastisch sein; شَماتَت کَردَن
@@ -318,7 +318,7 @@ Schädel; جَمجَمه، کاسهٔ سَر، آهیانه
 - Dickschädel; کَله شَق
 schaden;
 - jem. schaden; ضَرَر رِسانیدَن به
-- blinder Eifer kann nur schaden; کوشِش  ِ حَریصانه زیان بَخش است
+- blinder Eifer kann nur schaden; کوشِش ِ حَریصانه زیان بَخش است
 - es schadet nicht; زیان نَدارَد، ضَرَر نَدارَد
 Schaden (m); ضَرَر، خِسارَت
 - Schaden erleiden; .ضَرَر کِشیدَن، آسیب دیدَن، صَدَمه د
@@ -405,7 +405,7 @@ schämen; (s. -) عار داشتَن، شَرمسار شُدَن، خِجالَ�
 - schäme dich nicht ihm gegenüber, weil ...; چیزی نَداری؟ خِجالَت ِ اورا نَبین
 - s. wegen etwas schämen; از چیزى شَرمَنده و مَنفَعِل بودَن
 Schamgefühl; حِس ِ شَرمزَدِگى
-- ohne Schamgefühl sein; بی شَرم  بودَن
+- ohne Schamgefühl sein; بی شَرم بودَن
 Schamgegend; جاى ِ عانى، شَرمگاه
 schamhaft; شَرمَنده، خَجول
 Schamhaftigkeit; چِشم و رو، شَرمَندِگی
@@ -458,7 +458,7 @@ Schärpe; شال ِ گردن ِ نِظامى، حَمايِل
 Scharte; کَنگَره، تورَفتِگى
 schartig; دَنده دَنده
 scharwenzeln; پُشت ِ کِسی کَردَن
-- sie scharwenzelt hinter ... her; او  بَرای ِ ... پَس ِ کون تِلو می دَهَد
+- sie scharwenzelt hinter ... her; او بَرای ِ ... پَس ِ کون تِلو می دَهَد
 Schaschlik; کَباب ِ سیخى، سیخ کَباب
 Schatten; سایه
 - in den Schatten gestellt von ...; تَحت اُلشُعاع شُده از
@@ -580,7 +580,7 @@ scheintot; به ظاهِر مُرده
 Scheinwerfer; نور اَفکَن
 Scheitel;
 - Scheitel, Scheitelpunkt; رأس
-- Haarscheitel; فَرق  ِ سَر
+- Haarscheitel; فَرق ِ سَر
 - eine Scheitel ziehen; فَرق باز کَردَن
 - ich ziehe dir gleich einen Scheitel; خِشتَک را بِکِشَم سَرِت
 Scheiterhaufen; تودهٔ هیزُم، اَنبار ِ هیزُم
@@ -601,7 +601,7 @@ schematisch; تَرسیمى، طَرحى
 Schemel; پاى اَنداز، چَهار پایه
 Schenke; مِی خانه، لُقانطه
 Schenkel;
-- Schenkel (bei Winkel); (pl.)  (ضِلع ِ زاویه (اَضلاع
+- Schenkel (bei Winkel); (pl.) (ضِلع ِ زاویه (اَضلاع
 - Oberschenkel; ران
 - Unterschenkel; ساق
 - schenkelhohe Stiefel; چَکمهٔ ساقه بُلَند
@@ -733,7 +733,7 @@ Schiffbrüchiger; کِشتى شِکَسته، شِکَستهٔ کِشتى
 Schifffahrt; کِشتیرانى
 Schiffsbauer; کِشتى ساز
 Schiffsbug; سینهٔ کِشتى
-Schiffschaukel; چَرخ  و فَلَک
+Schiffschaukel; چَرخ و فَلَک
 Schiffsladung; بار ِ کِشتى
 Schiffsschraube; پَروانهٔ کِشتى
 Schiismus; تَشَيُع
@@ -837,7 +837,7 @@ Schlag;
 - Schlag versetzt bekommen; لَطمه خوردَن، هول خوردَن
 - Leute vom gleichen Schlag; هَمطَراز ِ اَشخاص
 - Zwei Fliegen mit einem Schlag; با يِک تیر دو نِشان زَدَن
-- ein schwerer Schlag ereilte sie; بَد اِقبالی سَر  رِسید
+- ein schwerer Schlag ereilte sie; بَد اِقبالی سَر رِسید
 - Schläge einstecken; .لَت خوردَن، ضَربه خ
 - Nackenschlag; قَفا، پَس گَردَنی
 - Stockschläge; ضَربه هاى ِ چوب
@@ -938,7 +938,7 @@ Schleife;
 - Schleife, Knoten; گِره
 - Schleife, Fliege; پاپیون
 schleifen;
-- s. gegenseitig schleifen, reiben; (präs.)  (سائیدَن، سودَن (مى سايَد
+- s. gegenseitig schleifen, reiben; (präs.) (سائیدَن، سودَن (مى سايَد
 - Messer schleifen; کارد را صِیقل دادَن، - تیز کَردَن
 - etwas schleift über den Boden; چیزی روی ِ زَمین می کِشَد
 Schleifer; تیزگَر
@@ -951,7 +951,7 @@ Schleimhaut; بافت ِ مُخاطى
 - Mundschleimhaut; پوشِش ِ مُخاطى ِ دَهان
 - Nasenschleimhaut; غَشاء ِ بینى
 Schlemmer; تَن پَروَر، خوش خوراک
-schlendern; (präs.)  (گَردِش کَردَن، بِتَفریح رَفتَن، چَریدَن (می چِرَد
+schlendern; (präs.) (گَردِش کَردَن، بِتَفریح رَفتَن، چَریدَن (می چِرَد
 schlenkern;
 - die Beine schlenkern; پايِش را بی هَوا تَپاندَن
 Schleppe; شَلاله، دُنباله
@@ -1001,9 +1001,9 @@ schliesslich; دَر فَرجام، بالنَتیجه، آخَر سَر، سَ�
 - schliesslich (popul.); آخَر، آخه
 Schliessmuskel; اِسفَنگتَر
 Schliessung;
-- Schliessung der Grenze; بَستَن  ِمَرز
+- Schliessung der Grenze; بَستَن ِمَرز
 Schliff; پَخ
-- Schliff des Brillanten; پَخ  ِ برِلیان
+- Schliff des Brillanten; پَخ ِ برِلیان
 - dem Stein einen Schliff geben; اَلماس را پَخ دادَن، ـ از هَر طَرَف سُنباده زَدَن
 - Edelsteinschliff; تَراش ِ پَخ
 schlimm; بَد، ناجور
@@ -1320,7 +1320,7 @@ schon;
 Schonbezug; روکِش، سَرپوشیده، کاپوت
 schonen; بَر کِسى تَرَحُم کَردَن، کِسى را دَریغ کَردَن، بَر کِسى شَفَقَت داشتَن
 - schone meiner!; بَر مَن شَفَقَت فَرما
-- jem. schonen vor etwas; کِسى را از چیزى  خُلاصى دادَن، ـ دَریغ کَردَن
+- jem. schonen vor etwas; کِسى را از چیزى خُلاصى دادَن، ـ دَریغ کَردَن
 schönfärben;
 - eine Sache schönfärben; به چیزى رَنگ و جَلاء دادَن
 - schönfärberische Worte; حَرفهای ِ خَر رَنگ کُن
@@ -1343,7 +1343,7 @@ schöpfen;
 - Wasser schöpfen; آب کِشیدَن
 - Hoffnung schöpfen; اُمیدوار شُدَن
 Schöpfer; خالِق
-- Schöpfer der Welt; خالِق، آفَرینَنده، آفَریدِگار، دادار  ِجهان، کِردِگار، پَروَردِگار
+- Schöpfer der Welt; خالِق، آفَرینَنده، آفَریدِگار، دادار ِجهان، کِردِگار، پَروَردِگار
 - Jedes Blatt von einem Baum weist darauf hin, dass es einen Schöpfer gibt (Sadi); بَرگ ِ دِرَخت ِ سَبز دَر نَظَر ِ هوشیار هَر وَرَقِش است مَعَرِفَت ِ کِردِگار
 schöpferisch; خَلاقه، خَلاقانه
 - schöpferische Kräfte; قُوهٔ مَخلوقه، ـ خَلاقه
@@ -1435,7 +1435,7 @@ Schrift; خَط، دَستخَط
 Schriftführer; مُنشى
 schriftkundig (sein); (سَواد (بودَن
 schriftlich; کُتبى، به رِشتهٔ تَحریر
-- schriftlich etwas festhalten; قِید کَردَن،  قَلَمداد ک.، دَرج گَرداندَن، چیزى را به رِشتهٔ تَحریر دَر آوَردَن
+- schriftlich etwas festhalten; قِید کَردَن، قَلَمداد ک.، دَرج گَرداندَن، چیزى را به رِشتهٔ تَحریر دَر آوَردَن
 Schriftsetzerei; حُروف چینى
 Schriftsteller; (pl.) اَهل ِ قَلَم، اَدیب (اُدَباء)، نِویسَنده
 Schriftstücke; اَسناد و مَدارِک، نُسخه هاى ِ خَطى
@@ -1480,7 +1480,7 @@ schrumpfen; مُنقَبِض شُدَن، آب رَفتَن
 - mein Geld schrumpfte; کیسه ام داشت تَه کِشید
 - sie schrumpfen auf die halbe Grösse; آنها به نیمچه مى رِسَند
 Schrumpfung; اِنقِباض
-Schubkarre; چَرخ  ِدَستى، گارى ِ ـ
+Schubkarre; چَرخ ِدَستى، گارى ِ ـ
 Schubkraft; نیروى ِ حَرَکَت
 Schublade; کِشو
 Schublehre; کولیس ِ وَزنیه
@@ -1682,7 +1682,7 @@ Schwankung; نَوَسان، تَغییر، بى ثَباتى، اُفت و خی
 Schwankungsbreite; میزان ِ نَوَسانات
 Schwanz; دُم
 - er zog seinen Schwanz ein; دُمَش را روى ِ کولَش گُذاشت
-- Fettschwanz  (beim Schaf); دُنبه
+- Fettschwanz (beim Schaf); دُنبه
 schwänzen;
 - Schule schwänzen; از مَدرِسه جیم شُدَن، ـ دَر رَفتَن
 - einer, der die Schule schwänzt; مَکتَب گُریز
@@ -1743,7 +1743,7 @@ Schweinestall; خوکدان
 Schweiß; عَرَق
 - im Schweiße deines Angesichtes; به عَرَق ِ پیشانى ات
 - der Schweiß steht auf der Stirn (wegen Verlegenheit); از خِجالَت آب شُدَن
-- das habe ich mir im Schweiße meines Angesichts erarbeitet; این را از کَد ِ يَمین و عَرَق جَبین  ِخود دَر آوَردَم
+- das habe ich mir im Schweiße meines Angesichts erarbeitet; این را از کَد ِ يَمین و عَرَق جَبین ِخود دَر آوَردَم
 Schweißband; عَرَق چین
 Schweißbrenner; تُرج ِ جوش
 schweißen; جوش دادَن، جوشکارى کَردَن
@@ -1913,8 +1913,8 @@ seelisch; جانی
 Seelsorge; مَشوَرَت
 Seemann; دَریا نَوَرد، مِلوان
 Seemeile; میل ِ بَحرى
-Segel; باد بان،  شِراع
-- Segel hissen; باد بان کِشیدَن،  شِراع ک.، شِراع گُذاشتَن
+Segel; باد بان، شِراع
+- Segel hissen; باد بان کِشیدَن، شِراع ک.، شِراع گُذاشتَن
 - aufgeblähte Segel; باد بان ِ وَرَم کَرده
 Segelmast; دَگَل
 segeln; با قايِق ِ بادبانى سَفَر کَردَن
@@ -1936,7 +1936,7 @@ sehen; مُشاهِده کَردَن، دیدَن، چیزی را دید زَد�
 - zufälligerweise sah er mich; ... وَقتیکه چِشمِش به مَن اُفتاد
 - siehst du! (i.S.: ich hab's doch gesagt!); دیدی گُفتَم
 - du wirst schon sehen, was passiert; ! هَر چه دیدی از چیشم ِ خودِت دیدی
-- bei jem. nach dem rechten sehen; از کِسى سَر کِشى کَردَن، بازدید کَردَن به مَنظور نِظارَت و تَشخیص ِ خوب  و بَد کار
+- bei jem. nach dem rechten sehen; از کِسى سَر کِشى کَردَن، بازدید کَردَن به مَنظور نِظارَت و تَشخیص ِ خوب و بَد کار
 - lass dich mal sehen!; يِک سَرى به مَن بِزَن
 - schön, dich zu sehen; از دیدارَت خوشحالَم
 - aus dem Fenster sehen; از پَنجَره نِظاره کَردَن
@@ -1957,7 +1957,7 @@ Sehenswürdigkeit; چَشم اَنداز، آثار ِ دیدَنى
 Sehfeld; حوزهٔ دید، مِیدان ِ دید
 Sehkraft; قوهٔ بَصَر، ـ بینِش، ـ دید
 Sehne; زَرد پِى، زِه، تاندُن
-- Sehne (mathem.); (pl.)  (وَتَر (اوتار
+- Sehne (mathem.); (pl.) (وَتَر (اوتار
 sehnen;
 - s. sehnen nach jem. (*:wünschen); حَسرَت ِ کِسى را خوردَن، ـ بُردَن
 - er sehnt s. nach ...; دِلِش بَراى ِ چیزى لَک مى زَنَد، دِلِش هَوَس ِ... را مى کُنَد
@@ -1965,7 +1965,7 @@ Sehnenscheide; غِلاف ِ پوشِشى ِ دور ِ زَردپِى
 sehnlich;
 - ich wünsche mir sehnlichst ein Kind; حَسرَت ِ داشتَن ِ فَرزَندى را دارَم
 Sehnsucht; حَسرَت، چِشم داشت، اِشتیاق، آرِزو
-- die Sehnsucht nach ... bricht auf; چِشم اِنتِظارى  ِ... سَر مى آيَد
+- die Sehnsucht nach ... bricht auf; چِشم اِنتِظارى ِ... سَر مى آيَد
 - unerfüllte Sehnsucht; حَسرَت ِ چیزی به دِل ِ کِسی ماندَن
 - Welche Sehnsucht!; چه یاد و دَریغى
 - nach jem. Sehnsucht haben; آرِزوی ِ کِسی را کَردَن
@@ -2022,13 +2022,13 @@ seit;
 - seit wann leben Sie in Deutschland?; چَند وَقت است که شُما دَر آلمان تَشریف دارید؟، از کِى تا به حال دَر آلمان زِندِگى مى کُنید؟
 seitdem; از آن پَس، از این به بَعد، از وَقتیکه
 Seite; صَفحه
-- Seite (mathemat.); (pl.)  (ضِلع (اَضلاع
+- Seite (mathemat.); (pl.) (ضِلع (اَضلاع
 - ihn jem. zur Seite stellen; او را دَر کِنار ِ کِسی قَرار دادَن
 - jem. zur Seite ziehen; کِسى را به کِنارى کِشیدَن
 - geh zur Seite!; بُرو کِنار!، راه بِده
 - die linke Seite der Straße; سَمت ِ چَپ ِ خیابان
 - Seite an Seite gehen sie; دوش به دوش راه مى رَوَند
-- von Seiten ...; ِ از جانِب  ِ...، از طَرَف
+- von Seiten ...; ِ از جانِب ِ...، از طَرَف
 - mir tut die rechte Seite weh; پَک و پَهلوی ِ راست دَردَم می کُنَد
 - alles hat 2 Seiten; هَر سِکه عُقاب دارَد و عَدَد
 Seitenansicht; تَصویر ِ جانِبى
@@ -2166,7 +2166,7 @@ Senke;
 - Senke, Absturz; گودال، فُرورَفتِگی
 - Senke, Tal; دَره
 senken;
-- s. senken (z.B. Boden); (präs.)  (فُرو رَفتَن، فُرو هِشتَن (فُرو مى هِلَد
+- s. senken (z.B. Boden); (präs.) (فُرو رَفتَن، فُرو هِشتَن (فُرو مى هِلَد
 - die Mauer senkt s.; دیوار نِشَست مى کُنَد
 - die Nacht senkt s. herab (i.S. breitet s. aus); شَب خودرا فُرو مى گُستَرَد
 senkrecht; عَمودی
@@ -2227,7 +2227,7 @@ Seufzer; مُتَحَسِر، تَحَسُر
 - letzter Seufzer; آخَرین رَمَق
 - Stoßseufzer; تِلِنگ دَر رَفتَن
 Sexualität; جِنسيَت، تَمايُلات ِ جِنسى
-Sexualorgane; (sing.)  (اَجهِزهٔ تَناسُلى (جَهاز
+Sexualorgane; (sing.) (اَجهِزهٔ تَناسُلى (جَهاز
 sexuell; جِنسی
 - sexueller Impuls; سائِق ِ جِنسى
 - mit jem. eine sexuelle Beziehung haben; تن به معاقشه با کِسی دادَن
@@ -2388,7 +2388,7 @@ sinnlos; اَلَکى، مِثل نَقش بَر آب، ناپايدار دَر 
 - etwas sinnloses machen; آب به ریسمان بَستَن، کار ِ عَِبَث و بیهوده کَردَن، آب به (با) غَربال پِیمودَن، آب به هاوِن کوفتَن
 - und ähnlich sinnloses; و اینجور جَفَنگ بازی
 Sinnlosigkeit; پوچى، بی خودی
-Sinnspruch; (pl.)  (کَلَمهٔ قَصار، بِیت ِ حِکمَت (اَبیات ِـ
+Sinnspruch; (pl.) (کَلَمهٔ قَصار، بِیت ِ حِکمَت (اَبیات ِـ
 sinnverwandt; قَریب اُلمَعنى، مُتَرادِف
 Sintereisen; فِلِز حاصِل از عَمَلیات ِ حَرارَتى گرد فِلِزکارى
 Sintflut; طوفان ِ نوح
@@ -2452,7 +2452,7 @@ Skizze; طَرح، نَقشه، نِمودار، اَنگاره
 skizzieren; تَرسیم کَردَن
 - Plan skizzieren; .نَقشه را کِشیدَن، ـ طَرح ریزى کَردَن، طَرح را رَسم ک
 - die eigene Ansicht skizzieren; دیدگاه ِ خودرا تَرسیم کَردَن
-Sklave; (pl.)  (زَرخَرید، بَرده (بُردِگان)، غُلام (غُلامان، غِلمان
+Sklave; (pl.) (زَرخَرید، بَرده (بُردِگان)، غُلام (غُلامان، غِلمان
 - Sklaven erwerben; بَردِگان خَریدارى کَردَن
 Sklavenhalter; بَرده دار
 Sklavenhändler; بَرده فُروش
@@ -2488,7 +2488,7 @@ so;
 - so verzweifelt sehen sie nun auch wieder nicht aus; چِهره هايِشان چَندان هَم از سَرپَریشانى نیست
 sobald; به مَحض ِ اینکه، به مُجَرَد ِ اینکه
 - sobald er sich auswies, ...; به مَحض ِ اِرائه
-- sobald, als; به مَحض  ِاینکه
+- sobald, als; به مَحض ِاینکه
 - sobald sie die Tür passiert haben; آنان به مَحض ِ گُذَشتَن از دَر
 - sobald der Film entwickelt ist; به مَحض ِ ظاهِر شُدَن ِ فیلم
 Socke; جوراب
@@ -2572,7 +2572,7 @@ sonnenbestrahlt; آفتابرو
 Sonnenblume; گُل ِ آفتاب گَردان
 Sonnenbrand; آفتاب سوختِگی
 Sonnenbrille; عِینَک ِ آفتابى، - دودی
-Sonnenfinsternis; (total, teilweise)  کُسوف (کُلى، جُزئى)، خورشید گِرِفتِگى
+Sonnenfinsternis; (total, teilweise) کُسوف (کُلى، جُزئى)، خورشید گِرِفتِگى
 sonnengebleicht; آفتاب خورده
 - sonnengebleichte Knochen; اُستُخوانهای ِ آفتاب خورده
 sonnengebräunt; آفتاب سوخته
@@ -2621,7 +2621,7 @@ Sosse; سُس، آب ِ خورِشت
 Soterioligie; رَستِگارى شِناسى
 Souffleur; اِلقاء کُنَنده، سوفلور
 Souvenir; راهواره، رَه آوَرد، سوغات
-souverän; مُطلَق،  خود مُختار، بَرتَر
+souverän; مُطلَق، خود مُختار، بَرتَر
 - Souverän, Herrscher; مَتبوع
 Souveränität; مَتبوعيَت، بَرتَرى
 - Souveränität des Parlamentes; حُکميَت ِ مَجلِس
@@ -2629,7 +2629,7 @@ Souveränität; مَتبوعيَت، بَرتَرى
 soviel;
 - soviel Ausgaben hat er nicht; هَزینهٔ چَندانى نَدارَد
 - sammle, soviel du kannst; تا مى تَوانى جَمع کُن
-- soviel du willst, geben sie dir; تا بِخواهى  بِهِت مى دَهَند
+- soviel du willst, geben sie dir; تا بِخواهى بِهِت مى دَهَند
 sowas;
 - sowas gibt es nirgends; لِنگه نَدارد
 soweit;
@@ -2879,7 +2879,7 @@ Spinat; اِسفِناج
 Spindel; دوک
 Spinne; عَنکَبوت، کارتَن
 Spinnen (von Wolle); غَزالى
-spinnen (Wolle); (präs.)  (تَنیدَن، ریستَن، دوک ریسیدَن (می ریسَد
+spinnen (Wolle); (präs.) (تَنیدَن، ریستَن، دوک ریسیدَن (می ریسَد
 Spinnennetz; تار ِ عَنکَبوت
 Spinnerei; ریسَندِگى
 Spinnrad; نَخ ریس، چَرخ ِ ریسَندِگى، چَرخ ِ دوک ریسی
@@ -3024,7 +3024,7 @@ spröde (z.B. Metall); شِکَنَنده
 Sprödigkeit; شِکَنَندِگى
 Spross;
 - Spross (bei Pflanze); جَوانه
-- Spross, Nachkomme; (pl.)  (خَلَف (اَخلاف)، عَقیب (اَعقاب
+- Spross, Nachkomme; (pl.) (خَلَف (اَخلاف)، عَقیب (اَعقاب
 Sprosse; پِله
 Sprotte; از نوع شَگ‌ ماهیان
 Spruch; شُعار، مَثَل
@@ -3035,7 +3035,7 @@ sprudeln;
 - bis das Wasser sprudelnd kocht; تا آب غُلغُل می کُنَد
 Sprudelwasser; آب ِ مَعَدَنی
 sprühen; پاشیدَن
-- Funken sprühen; (infin.)  (شَراره ها مى تابَند (تابیدَن
+- Funken sprühen; (infin.) (شَراره ها مى تابَند (تابیدَن
 Sprühregen; ریز باران، نَم نَم باران مى بارَد
 Sprung; جَست، جَهِش، خیز، پَرِش
 - mit einem Sprung; با يِک خیز
@@ -3159,7 +3159,7 @@ Stamm;
 - Baumstamm; تَنهٔ دِرَخت
 - Holzstamm; کُندهٔ دِرَخت
 - Nomadenstamm; (pl.) تیره، ایل (ایلات)، عَشیره
-- Volksstamm; (pl.)  (قَبیله (قَبائِل)، طايِفه (طَوائِف
+- Volksstamm; (pl.) (قَبیله (قَبائِل)، طايِفه (طَوائِف
 Stammbaum; شَجَره نامه، نَسَب ـ
 Stammbuch; نَسَب نامه، تَبارنامه، شَجَره نامه
 stammeln;
@@ -3327,7 +3327,7 @@ Staub; غَبار، گَرد
 - jem. zu Staub machen; کِسى را به دود و خاکِستَر تَبدیل کَردَن
 - der Wind wirbelt Staub auf; باد روى ِ جاده گَرد و خاک مى کُنَد، باد گَرد و خاک به پا می کُنَد
 staubaufwirbelnd; گَرد و خاک کَنان
-Stäubchen; (pl.)  (ذَره (ذُرات
+Stäubchen; (pl.) (ذَره (ذُرات
 stauben; گَرد و خاک کَردَن
 - angestaubter Riemen; تِسمهٔ خاک گِرِفته
 Staubgefäss; پَرچَم ِ گُل
@@ -3458,7 +3458,7 @@ stellig;
 Stellmacher; چَرخه ساز
 Stellung; موضِع
 - Stellung, Ansehen; مَنزَلَت
-- (klare) Stellung beziehen; موضِع  اِتِخاذ کَردَن، موضِع را گِرِفتَن
+- (klare) Stellung beziehen; موضِع اِتِخاذ کَردَن، موضِع را گِرِفتَن
 - Stellung des Feindes (*:Lager); موضِع ِ اُردوى ِ دُشمَن
 - die Armee begibt s. in Stellung; لَشکَر صَف ِ آرائى مى کُنَد
 - für jem. Stellung beziehen; جانِب ِ کِسى را گِرِفتَن
@@ -3496,7 +3496,7 @@ sterben; فوت کَردَن، رِحلَت ک.، مُردن، جان سِپُر
 - er wäre beinahe gestorben; چیزى نَمانده بود که از پاى دَر آيَد
 - und wenn sie nicht gestorben sind, dann leben sie noch heute; قِصهٔ ما بِسَر رِسید کَلاغه به خانه اش نَرِسید
 - im Sterben liegen; دَر حال ِ جان کَندَن بودَن
-- jem., der im Sterben liegt; (pl.)  (مُحتَضِر (مُحتَصِرین
+- jem., der im Sterben liegt; (pl.) (مُحتَضِر (مُحتَصِرین
 - das Sterben erleben; جان دادَن ِ مُحتَضِررا دیدَن
 sterblich; مُردَنى، فانى
 Sterbliche; زَمانیان
@@ -3506,7 +3506,7 @@ stereotyp; يِکنَواخت
 steril; عَقیم، سَتَروَن
 - steril, unpersönlich; خُشک
 Sterilisation; سَتَروَنى، تَعقیم
-Stern; (pl.)  (کوکَب (کَواکِب)، سِتاره (سِتارِگان
+Stern; (pl.) (کوکَب (کَواکِب)، سِتاره (سِتارِگان
 - Abendstern; سِتارهٔ مَغرِب، ـ شَبکِش
 - Sternbild des Südens; بُروج ِ جِنوب
 Sternwarte; رَصَد خانه
@@ -3560,7 +3560,7 @@ Stief-;
 - vater; ناپدَرى، پِدَر اَندَر
 - kind; نافَرزَندى، فَرزَند ِ ناتَنى، ـ خوانده، ـ اَندَر
 - sohn; ناپِسَرى، پِسَر اَندَر
-- tochter; (pl.)  (نادُختَرى، رَبیب (رَبیبه
+- tochter; (pl.) (نادُختَرى، رَبیب (رَبیبه
 Stiefel; چِکمه، پوتین
 - Schnürstiefel; چِکمه هاى ِ بَند دار
 Stiefmütterchen; بَنَفشهٔ فَرَنگى
@@ -3570,10 +3570,10 @@ Stier; گاو نَر
 - Stier bei den Hörnern packen; پیشانی ِ پِلِنگ خاریدَن
 Stierkampf; گاو بازى
 stiften; وَقف کَردَن
-Stiftung; (pl.)  (بُنیاد، وَقف (اوقاف
+Stiftung; (pl.) (بُنیاد، وَقف (اوقاف
 Stiftungsvermögen; موقوفات
 Stil;
-- Baustil; نَسَق  ِساختِمان
+- Baustil; نَسَق ِساختِمان
 - Stil & Anordnung (literat.); سیاق و نَظم
 - Führungsstil; سَبک ِ رَهبَرى
 - Regierungsstil; سَبک ِ حُکومَت
@@ -3695,7 +3695,7 @@ Stofffetzen; جُل، تِکه، پارچه
 Stoffwechsel; تَجزیه و تَرکیب ِ مَواد، سوخت و ساز
 stöhnen; آه و ناله کَردَن، آه کِشیدَن
 - stöhnend, nach Luft schnappend; هِن هِن کُنان
-Stoiker; (pl.)  (رَواقى (رَواقیون
+Stoiker; (pl.) (رَواقى (رَواقیون
 stoisch; رَواقى
 Stollen; تونِل
 - Gebirgsstollen; نَقب ِ کوه
@@ -3814,7 +3814,7 @@ Strafstoß; پِنالتى ِ گُلى ِ حَوالهٔ دَروازه، پِن
 Strafverfahren; دادرِسى ِ کِیفَرى
 Strafversetzung; اِنتِقال ِ تأدیبى
 Strafvollzug; اِجراى ِ کِیفَر
-Strahl; (pl.)  (پَرتو، شُعاع (اَشِعِه
+Strahl; (pl.) (پَرتو، شُعاع (اَشِعِه
 strahlen; دِرَخشیدَن، تَشَعشُع کَردَن، پَرتو اَفکَندَن
 strahlend; بَراق، دِرَخشَنده
 Strahler; نور اَفکَن
@@ -3825,7 +3825,7 @@ strahlungsarm;
 Strahlungsdosis; اَندازهٔ تَشَعشُعى
 strammstehen; شَق ایستادَن
 strampeln; دَست و پا زَدَن
-Strand; (pl.)  (کِنار ِ دَریا، لَب ِ دَریا، ساحِل (سَواحِل
+Strand; (pl.) (کِنار ِ دَریا، لَب ِ دَریا، ساحِل (سَواحِل
 - am Strand spielen; ماسه بازی کَردَن
 Strandhütte; پِلاژ
 Strapaze; زَحمَت
@@ -3906,14 +3906,14 @@ streiten;
 - es gibt nichts zu streiten; دَعَوا نَدارَد
 - ob s. jem. mit ... streitet?; آیا کِسی با ... يِک به دو می کُنَد؟
 - streiten, s. auseinandersetzen; حِرص و جوش خوردَن، سَر و کَله زَدَن
-Streitender; (pl.)  (مُشاجِر، سِتیزَنده (سِتیزَندِگان
+Streitender; (pl.) (مُشاجِر، سِتیزَنده (سِتیزَندِگان
 Streitfall; دَعَوا
 - einen Streitfall schlichten; .دَر يِک دَعَوا داوَرى کَردَن، ـ وَساطَت ک
 Streitgespräch; مُناظِره، بِگو مَگو، جَر و بَحث، مُشاجِره
 streitig;
 - jem. etwas streitig machen; حَق ِ کِسی دیگررا سَلب کَردَن
 Streitkraft; نیروی ِ نِظامی
-- Streitkräfte; (zu Land, Luft & Wasser)  (نیروهاى ( ِ زَمینى، هَوائى و دَریائى
+- Streitkräfte; (zu Land, Luft & Wasser) (نیروهاى ( ِ زَمینى، هَوائى و دَریائى
 - er mobilisiert seine Streitkräfte gegen ihn; او لَشکَر ِ خودرا بَراى ِ حَمله به او بَسیج مى کُنَد
 Streitobjekt; مُنازِع فیه، مُدَعا
 streitsüchtig; پَرخاش جو، جَنگجو
@@ -3927,7 +3927,7 @@ strengstens;
 - Das Betreten ist strengstens verboten; وُرود اَکیداً مَمنوع است
 Streu; پوشال
 Streubereich; ناحیهٔ اِنحِراف، حوزهٔ تَغییرات
-streuen; (präs.)  (پاشیدَن، بیختََن (مى بیزَد
+streuen; (präs.) (پاشیدَن، بیختََن (مى بیزَد
 - zerstreuen; اَفشاندَن
 - Salzstreuer; نَمَک پاش
 streunen; بى هَدَف گَشتَن، پَرسه زَدَن، وِلگَردى کَردَن

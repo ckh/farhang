@@ -9,7 +9,7 @@ Vagina; (pl.) فَرج، غِلاف، مَهبَل (مَهابِل)، نیام
 Vakuum; خَلاء
 Vakuumpumpe; تُلُمبهٔ تَخلیهٔ هَوا
 Valenz; ظَرفيَت
-Valuta; (pl.)  (سِعِر (اَسعار
+Valuta; (pl.) (سِعِر (اَسعار
 Vanille; وانیل
 variabel; مُتَغَيِر
 - variables Kapital; سَرمایهٔ مُتَغَیر
@@ -21,7 +21,7 @@ Vasall; رَعيَت، دَست نِشانده
 Vase; گُلدان
 Vaseline; وازِلین
 vaskulös; آوَندى
-Vater; (pl.)  (پِدَر، والِد، اَب (آباء
+Vater; (pl.) (پِدَر، والِد، اَب (آباء
 Vaterland; (pl.) میهَن، وَطَن، مُوَطَن (مَواطِن)، سَرزَمین ِ اَجدادى، زاد و بوم
 väterlich; پِدَرانه
 - väterliche Liebe; مُحَبَت ِ پِدَرانه
@@ -38,7 +38,7 @@ vegetativ;
 - vegetative Vermehrung; تَکثير ِ لايَتَناسُل
 Veilchen; بَنَفشه
 Vektor; بُردار
-Vene; (pl.)  (سیاه رَگ، عِرق (عُروق
+Vene; (pl.) (سیاه رَگ، عِرق (عُروق
 Ventil; سوپاپ
 - Auslassventil; دَریچهٔ خُروج
 - Sicherheitsventil; دَریچهٔ خود گُشا، ـ اِطمینان
@@ -138,7 +138,7 @@ Verästelung; اِنشِباع
 verausgaben;
 - ich habe mich verausgabt; چَنته ام خالی شُد
 veräussern; از دَست دادَن، فُروختَن
-Verb; (pl.)  (فِعِل (اَفعال
+Verb; (pl.) (فِعِل (اَفعال
 - unregelmässige Verben; اَفعال ِ بیقاعِده
 verbal; بِطَریق ِ شَفاهى، شَفاهاً
 Verband;
@@ -155,7 +155,7 @@ verbergen; .مَستور کَردَن، قاِئم ک.، پِنهان ک.، غِ
 - s. verbergen; مُتَوارى شُدَن
 - um die eigenen Gefühle zu verbergen; بَرای ِ کِتمان ِ اِحساسات ِ خود
 - auf Dauer läßt s. das nicht verbergen; شُتُر سَواری دولا دولا نِمیشه
-- was verbirgt er vor uns?; چه کاسه ای  زیر ِ نیم کاسه اَش است
+- was verbirgt er vor uns?; چه کاسه ای زیر ِ نیم کاسه اَش است
 - s. verbergend; مُتَوارى
 - verborgen sein; .نِهُفته بودَن، قائم ب.، نهان ب.، پنهان ب.، مَکنون ب.، مُتَوارى ب
 - nichts ist mir verborgen; هیچ سِرى از مَن مَخفى نیست
@@ -233,7 +233,7 @@ verborgen;
 Verbot; نَهى، ناهیه، مَنع، مُمانَعَت، مَمنوعيَت
 - Verbot einer Partei; مَنع ِ حِزبى
 - Arbeitsverbot; مَنع ِ کار
-- Ausreiseverbot (Einreise-); (مَمنوع اُلخُروج  (ـ اُلوُرود
+- Ausreiseverbot (Einreise-); (مَمنوع اُلخُروج (ـ اُلوُرود
 verboten; نَهى، ناهى، مَمنوع
 - verbotene Taten; مَنهیات
 - er hat es ihm verboten; او این را به او مَنع کرد
@@ -254,7 +254,7 @@ verbreiten; .مُنتَشِر کَردَن.، شايِع ک.، پَخش ک
 - die weitverbreitetste Kritik; رايِج تَرین شِکايَت
 - verbreitet sein; شُیوع داشتَن
 - das Wissen verbreitet s.; دانِش با حُدود و حَواشى پیش مى رَوَد
-Verbreiter; (pl.)  (مُرَوِج ( ـ ین
+Verbreiter; (pl.) (مُرَوِج ( ـ ین
 verbreitern; .پَهن شُدَن، گُشاد ش.، تَعَریض ش
 - die Strasse wird verbreitert; جاده تَعریض مى شَوَد
 Verbreitung;
@@ -337,7 +337,7 @@ verdickt; غَلیظ
 Verdickung; تَغلیظ
 verdienen; دَرآمَد داشتَن
 - wieviel verdienst du?; حُقوقَت چَند است
-- s. mühsam Geld verdienen; پول از جوی  ِ آب دَر آوَردَن
+- s. mühsam Geld verdienen; پول از جوی ِ آب دَر آوَردَن
 - sein eigenes Brot verdienen; نان ِ خودرا دَرآوَردَن
 - wir bekommen, was wir verdienen; ما حَقِمان است که سَزاوار ِ ماست، آنکه سَزاوار ِ ماست گیر مى آوَریم
 - sie sahen ihn als jemand, der den Tod verdient; هَمه اورا مُستوجِب ِ اِعدام دانِستَند
@@ -390,7 +390,7 @@ veredeln; ناب کَردَن
 verehelichen; کِسى را به نِکاح دَر آوَردَن
 Verehelichung; تَزویج
 verehren; اِحتِرام کَردَن
-- er verehrt jem. (*:ehren); (präs.)  (کِسى را مى سِتايَد (سِتودَن
+- er verehrt jem. (*:ehren); (präs.) (کِسى را مى سِتايَد (سِتودَن
 Verehrer; خاطِر خواه
 vereidigen; سوگَند یاد دادَن، قَسَم دادَن
 - vereidigter Dolmetscher; مُتَرجِم ِ قَسَم خورده
@@ -648,7 +648,7 @@ Vergrösserungsglas; شیشهٔ بُزُرگ کُنَنده
 vergüten; جُبران کَردَن
 Vergütungsstahl; فولاد ِ آب دیده
 verhaften; دَست گیر کَردَن
-Verhaftung; توقیف، بازداشت، دَست گیرى،  بِگیر و بِبَند
+Verhaftung; توقیف، بازداشت، دَست گیرى، بِگیر و بِبَند
 - bei all den Verhaftungen von Seiten der ...; توی ِ این هَمه بِگیر و بِبَندهای ِ حُکومَت
 verhaken;
 - das Geweih hat s. verhakt; شاخها گیر کَرده است
@@ -719,7 +719,7 @@ verheiratet; مُتأهِل
 Verheiratung; تَزویج، عَقد
 verheissen; .وَعده دادَن، قول د
 - der verheissene Sohn; پِسَر ِ موعود، ـ پیش گوئى شُده
-Verheissenes; (pl.)  (موعود (مَواعيِد
+Verheissenes; (pl.) (موعود (مَواعيِد
 Verheissung; وَعده، قول
 - Gott steht zu seinen Verheissungen; خُدا به وَعده هايَش وَفا مى کُنَد
 verheissungsvoll; اُمیدبَخش
@@ -905,7 +905,7 @@ Verlegenheit; شَرمزَدِگى، خِجالَت زَدِگى، کَم روئ
 - jem. in Verlegenheit versetzen (durch eine freundliche Tat); کِسی را چوبکاری زَدَن
 - in Verlegenheit gebracht werden; خیت (خیط) شُدَن
 Verlegenheitspolitik; سیاسَت ِ ناچارى
-Verleger; (pl.)  (ناشِر (ناشِرین
+Verleger; (pl.) (ناشِر (ناشِرین
 Verleih; عاریه
 - Filmverleih; عاریهٔ فیلم
 verleihen; .قَرض دادَن، اَمانَت د
@@ -949,7 +949,7 @@ verlieben;
 - s. in jem. verlieben; دِلباختهٔ کِسى شُدَن، عاشِق ِ کَسى ش.، به هَم دِل دادَن و از هَم قُلوه گِرِفتَن، چِشم و اَبرو نِشان دادَن
 - total verliebt in ...; ... عاشِق و دِلباختهٔ ..، دِلدادهٔ
 - jem. in etwas verliebt machen; کِسى را شیفتهٔ چیزى کَردَن
-Verliebter; (pl.)  (عاشِق (عُشاق
+Verliebter; (pl.) (عاشِق (عُشاق
 Verliebtheit; شِدایی، دِلباختِگی، عِشق
 verlieren;
 - verlieren, zugrunde gehen; فاقِد شُدَن، از دَست رَفتَن، ضايِع شُدَن
@@ -998,8 +998,8 @@ vermachen (Erbe); به اِرث گُذاشتَن
 - vermachend (Erbe); توریث
 Vermächtnis;
 - Vermächtnis, Erbe; میراث، اِرث
-- Vermächtnis, Stiftung; (pl.)  (وَقف (اوقاف
-- schriftliches Vermächtnis; (pl.)  (وَثیقه (وَثائِق)، وَصيَت (وَصایا
+- Vermächtnis, Stiftung; (pl.) (وَقف (اوقاف
+- schriftliches Vermächtnis; (pl.) (وَثیقه (وَثائِق)، وَصيَت (وَصایا
 vermählen (s. -); اِزدِواج کَردَن
 vermählt; مُتأهِل
 - Neuvermählte (- r); (تازه عَروس (داماد
@@ -1026,7 +1026,7 @@ Vermessung; سَنجِش، اَندازه گیرى
 vermieten; .اِجاره دادَن، کِرایه د
 Vermieter; موجِر، صاحِب ِ خانه
 Vermietung; اِجاره، کِرایه
-vermindern; (präs.)  کاستَن (مى کاهَد)، کوچِک کَردَن، کَم ک.، مَحدود ک.، کاهِش دادَن، تَقلیل دادَن
+vermindern; (präs.) کاستَن (مى کاهَد)، کوچِک کَردَن، کَم ک.، مَحدود ک.، کاهِش دادَن، تَقلیل دادَن
 Verminderung; تَصغیر، تَقلیل، کاهِش
 - Verminderung der Spannungen; کاهِش ِ تَنِشها
 - Verminderung der Streitkräfte; تَقلیل ِ قُواى ِ نِظامى
@@ -1123,12 +1123,12 @@ Verpflegung; تَغذیه، مَواد ِ غَذائى
 verpflichten;
 - jem. verpflichten; کِسى را مُلزَم کَردَن، اِلتِزام گِرِفتَن از کِسی
 - s. zu etwas verpflichten; خودرا اِلزام ِ ... کَردَن، خودرا وَقف ِ ... کَردَن
-- mich bis ans Lebensende jemandem verpflichten; تا هَستَم به ریش  ِ تو بَستَم
+- mich bis ans Lebensende jemandem verpflichten; تا هَستَم به ریش ِ تو بَستَم
 - das letzte aufrechte Häuflein, die s. der ... verpflichten; تَنها بازماندِگان ِ مُلتَزِمین به
 - ... ist verpflichtend; اِلزام است
 - verpflichtet; مُوَظِف، مُلزَم
 - s. verpflichtet fühlen zu etwas; دَر بَند ِ چیزى بودَن
-- s. jem. gegenüber verpflichtet fühlen; (Gegenteil)  از کِسی خورده بُرده داشتَن (نَداشتَن
+- s. jem. gegenüber verpflichtet fühlen; (Gegenteil) از کِسی خورده بُرده داشتَن (نَداشتَن
 - verpflichtet sein zu; مَرهون بودَن، مَدیون ِ چیزى ب.، مُکَلَف ب.، مُلتَزِم ب.، مُوَظِف بودَن به، مِنَت کِشیدَن
 - die Teilnahme an ... verpflichtet zur Zahlung dieses Betrages; شِرکَت دَر ... واجِد ِ شَرايِط ِ پَرداخت ِ این مَبلَغ است
 - diese Aufgabe verpflichtet ihn, zu ...; این وَظیفه اورا مُلزَم می کُنَد که، - اورا مُوَظِف می کُنَد که
@@ -1182,7 +1182,7 @@ Verrückter; مَجنون، شَخصى ِ دیوانه
 Verrücktheit; جَنون، دیوانِگى
 Verruf; بَدنامى
 verrufen; بَدنام
-Vers; (pl.)  (بِیت (اَبیات)، آیه (آیات
+Vers; (pl.) (بِیت (اَبیات)، آیه (آیات
 - in Versen; به نَظم
 - Verweise auf andere Verse (*:Referenz); اِرجاعاتى به آیات ِ دیگَر
 versagen; غِفلَت کَردَن، عاجِز بودَن
@@ -1193,7 +1193,7 @@ versammeln; مَردُم را جَمع کَردَن
 - s. versammeln; گِرد آمَدَن، جَمع شُدَن، اِجتِماع کَردَن
 - sie versammeln s. auf der Tagung; آنها بَراى ِ کُنفِرانس گِرد ِ هَم مى آيَند
 - versammelt sein; جَمع بودَن
-Versammlung; (pl.)  (تَجَمُع، مَجمَع (مَجامِع
+Versammlung; (pl.) (تَجَمُع، مَجمَع (مَجامِع
 - Saal für öffentliche Versammlungen; تالار ِ اِجتِماعات
 - Generalversammlung; اِجتِماع ِ عُمومى
 - Plenarversammlung; اِجلاس ِ عُمومى
@@ -1264,7 +1264,7 @@ verschleißen; .فَرسايِش کَردَن، استِهلاک ک
 - verschlissen; .پوسیده شُده، فَرسوده ش
 verschleppen;
 - verschleppen (z.B. Verfahren); دادرِسى را بِتأخیر اَنداختَن، - مُعَطَل کَردَن
-- jem. verschleppen; (präs.)  (کِسى را رُبودَن (مى رُبايَد
+- jem. verschleppen; (präs.) (کِسى را رُبودَن (مى رُبايَد
 Verschleppung (i.S.: Verzögerung); تأخیر، وَقت گُذَرانى
 Verschleppungstaktik; تاکتیک ِ وَقت گُذَرانى، اِشکالتَراشى
 verschleudern; به باد دادَن
@@ -1471,7 +1471,7 @@ Versprechen (n); نَوید، وَعَده، قول
 - sich auf leere Versprechungen stützen; تِکیه بَر آب کَردَن
 versprengt; پَراکَنده، تَراوَنده، از هَم پاشیده
 - es gab ein paar Versprengte; تَک و توک بودَند
-Versprochenes; (pl.)  (موقوفات، موعود (مَواعید
+Versprochenes; (pl.) (موقوفات، موعود (مَواعید
 verspüren;
 - ich verspüre viel Achtung für Sie; چه اِحتِرام بَراى ِ شُما قائِلَم
 - er verspürt ein Unbehagen; او اِحساس ِ ناآرمى مى کُنَد
@@ -1634,7 +1634,7 @@ verteilen; .پَخش کَردَن، تَقسیم ک
 - verteilend; قَسام، پَخش کُنَنده
 Verteiler;
 - Verteiler (Name für Gott); قَسام
-- Verteiler (z.B. Zeitung); (pl.)  (توزیع کُنَنده (توزیع کُنَندِگان)، مُوَزِع (مُوَزعِین)، مُقَسِم (مُقَسِمین
+- Verteiler (z.B. Zeitung); (pl.) (توزیع کُنَنده (توزیع کُنَندِگان)، مُوَزِع (مُوَزعِین)، مُقَسِم (مُقَسِمین
 Verteilerkasten; جَعبهٔ تَقسیم ِ بَرق
 Verteilung; تَقسیم
 - Sitzneuverteilung; تَقسیم بَندى ِ کُرسیها
@@ -1686,7 +1686,7 @@ vertrauensbildend;
 - vertrauensbildende Maßnahmen; اِقدامات ِ اِعتِماد اَنگیز
 Vertrauensfrage; رأى ِ اِعتِماد
 - Vertrauensfrage stellen; دَرخواست ِ رأى ِ اِعتِماد کَردَن
-Vertrauensmann; (pl.)  (ثِقِه (ثِقات)، نَدیم (نُدَما
+Vertrauensmann; (pl.) (ثِقِه (ثِقات)، نَدیم (نُدَما
 vertrauensselig; سَلیم ِ دِل، مَحرَمانه، صَدیق
 Vertrauensseligkeit; سَلیم دِلى
 vertrauenswürdig; مؤتَمَن، موتوق، صَدیق، مُعتَمِد
@@ -1715,7 +1715,7 @@ vertreiben;
 Vertreibung; تَبعید، طَرد، اِبعاد
 vertretbar (eine Sache); قابِل ِ توجیه
 vertreten; .جانِشین بودَن، نِمايَنده ب
-- Belange vertreten; عُهده دار ِ مُصالح  ِ... بودَن
+- Belange vertreten; عُهده دار ِ مُصالح ِ... بودَن
 - s. die Beine vertreten; هَوا خوردَن
 Vertreter;
 - Vertreter (polit., jurist.); (pl.) وَکیل (وُکَلا
@@ -1866,7 +1866,7 @@ verwirrt; سَر گَشته، سَراسیمه
 Verwirrung; ضَلالَت، تَشَوُش، دَست پاچِگى، اِغتِشاش
 - Verwirrung stiften; موش دَوانى کَردَن
 - jem. in Verwirrung bringen; کِسى را به حِیرَت فُرو بُردَن، ـ بَر اَنداختَن
-- Verwirrung stiften und ausnutzen; آب را گِل آلود می کُنَد ماهی  بِگیرَد
+- Verwirrung stiften und ausnutzen; آب را گِل آلود می کُنَد ماهی بِگیرَد
 verwittert; هَوازَده
 Verwitterung; هَوازَدِگى
 verwitwet; بیوه شُده
@@ -1904,7 +1904,7 @@ verzerren; از شِکل اَنداختَن
 - s. verzerren; خود را خَمیدَن
 - vor Schmerzen verzerren; از دَرد تیر کِشیدَن
 Verzerrung; عِوَج
-Verzicht; (auf)  (چِشم پوشى، اِنصِراف، صَرف ِ نَظَر (از
+Verzicht; (auf) (چِشم پوشى، اِنصِراف، صَرف ِ نَظَر (از
 - Erbverzicht; چِشم پوشى از میراث
 verzichten; .صَرف ِ نَظَر کَردَن، اِبا ک
 - verzichte auf mich; دورَم را قَلَم بِگیر
@@ -1964,7 +1964,7 @@ vibrieren; مُرتَعِش کَردَن، لَرزیدَن
 Video; ویدِئو
 Videofilm; فیلم ِ ویدِئوئى
 Videokassette; کاسِت ِ ویدِئو
-Vieh; (pl.)  (حِیوان، ماشیه (مَواش)، بَهیمه (بَهائِم
+Vieh; (pl.) (حِیوان، ماشیه (مَواش)، بَهیمه (بَهائِم
 Viehhändler; نَخاس، بَهائِم فُروش
 Viehseuche; آفات ِ حِیوانى
 Viehtrieb; راه ِ گَله رو
@@ -2054,7 +2054,7 @@ Vokal; (pl.) حَرف (حُروف) ِ مُصَوَته، ـ صِدادار
 - "o" - Vokal; عَلامَت ِ ضَمَه
 Vokalharmonie; هَماهَنگی ِ اَصوات
 Vokalzeichen; عَلامَت ِ حَرف ِ صِدا دار
-Volk; (pl.)  (قوم (اَقوام)، مِلَت (مِلِل
+Volk; (pl.) (قوم (اَقوام)، مِلَت (مِلِل
 - Volk, Leute; عامهٔ مَردُم، خَلق
 - einfaches Volk; عَوام
 - zivilisierte Völker; مِلِل ِ مُتَمَدِنه
@@ -2241,7 +2241,7 @@ vorbeugen; پیش گیری کَردَن
 - vorbeugende Massnahmen; اِقدامات ِ پیش گیرَنده
 Vorbeugungsmassnahme; پیش گیرى، جِلوگیرى
 Vorbild; خَط ِ مَشق، سَرمَشق، نِمونه
-- Jeder ist ein Vorbild, auch wenn er ein schlechtes ist; از  کِسی پُرسيدَم اَدَب از کی آموختی: از بی اَدَبان
+- Jeder ist ein Vorbild, auch wenn er ein schlechtes ist; از کِسی پُرسيدَم اَدَب از کی آموختی: از بی اَدَبان
 Vorbote; پیش دَر آمَد
 - das sind Vorboten; آنها پیش دَر آمَدَند
 vorbringen;
@@ -2291,7 +2291,7 @@ Vorführung; نَمايِش
 Vorgabe; از قَبل تَعَیین شُده
 Vorgang; پَروَنده، سابِقه، مَرحَله، پروسه، فَرايَند، رَوَند
 - Wahlvorgang; فَرايَند ِ اِنتِخابات
-Vorgänger; (pl.)  (پیشین (پیشینیان)، سَلَف (اَسلاف
+Vorgänger; (pl.) (پیشین (پیشینیان)، سَلَف (اَسلاف
 vorgaukeln;
 - jem. etwas vorgaukeln; شُعبَده بازى کَردَن، سَر ِ کَِسى کُلاه گُذاشتَن، دوز و کَلَک سَوار کَردَن
 vorgeben; مُقَرَر کَردَن
@@ -2339,7 +2339,7 @@ vorherrschen; مُستولى، مُسَلَط بودَن، تَسَلُط یاف
 - die vorherrschende Theorie; تئورى ِ مُسَلَط
 - zwei vorherrschende Lehrmeinungen; دو مَکتَب ِ عُمدهٔ رايِج
 Vorherwissen; پیش دانى
-Vorhof (vom Herz); (دِهلیز (ـ  ِ قَلب
+Vorhof (vom Herz); (دِهلیز (ـ ِ قَلب
 Vorhut; طََلایه، طَلیعه
 vorig; پیشین
 - vorige Woche; هَفتهٔ قَبل
@@ -2360,7 +2360,7 @@ vorkommen; رُخ دادَن، اِتِفاق اُفتادَن، پیش آمَد
 - der Mensch kommt mir bekannt vor; این اِنسان به نَظَرَم آشِنا مى آيَد
 - sein Reden kommt ihnen komisch vor; حَرفَش به نَظَر ِ آنها مَسخَره مى آيَد
 - Trennung kommt vor; تَفرِقه می اُفتَد
-Vorkommnis; (pl.)  (اِتِفاق، حادِثه (حَوادِث
+Vorkommnis; (pl.) (اِتِفاق، حادِثه (حَوادِث
 vorladen; کِسى را اِحضار کَردَن
 - als Zeuge vorladen; گُواه آوَردَن، بِعُنوان شاهِد فَرا خواندَن، - اِحضار کَردَن
 Vorladung (zum Gericht); اِحضار نامه، وَرَقهٔ اِحضاریه
@@ -2434,7 +2434,7 @@ vorschreiben; دَستور دادَن، مُقَرَر داشتَن
 - das Gesetz schreibt vor; قانون مُقَرَر دارَد که، ـ تَصریح مى کُنَد که
 - vorgeschriebener Besuch; دیدار ِ مَحتوم
 Vorschrift; دَستور، مُقَرَرات
-- (relig.) Vorschrift; (pl.)  (فَریضه (فَرائِض
+- (relig.) Vorschrift; (pl.) (فَریضه (فَرائِض
 - Dienst nach Vorschrift; (خِدمَت طِبق ِ مُقَرَرات (حَد ِ اَقَل ِ لازِم
 vorschriftsgemäss; بَر طِبق ِ قانون، ـ مُقَرَرات
 Vorschub (Technik); تَغذیه
@@ -2545,7 +2545,7 @@ vorziehen;
 - sie zieht es vor, in ... zu bleiben; او ماندَن دَر ... را اِختیار مى کُنَد
 - vorgezogene Wahlen; اِنتِخابات ِ پیش رَس، اِنتخابات ِ قَبل از موعِد، ـ زودرَس
 Vorzug; اَرجَحيَت، تَرجیح
-- Vorzug, gute Eigenschaft; (pl.)  (مَحسَن (مَحاسِن
+- Vorzug, gute Eigenschaft; (pl.) (مَحسَن (مَحاسِن
 - der Grund, dass Männer den Vorzug vor Frauen erhalten ist, ...; سَبَب ِ اَرجَحيَت ِ مَردها به زَنها این است که
 - Vorzüge einer Ehe; مُحاسِن ِ اِزدِواج
 - Mängel & Vorzüge; مَعايِب و مُحاسِن

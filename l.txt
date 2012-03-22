@@ -73,7 +73,7 @@ Lage; وَضعيَت، موقِعيَت
 - wenn Ihr Euch in der Lage seht, ...; دَر صورَتی که قابِل می دانید
 - seiner Lage nicht mehr Herr sein; حال و روز ِ خودرا نَفَهمیدَن
 - er ist nicht in der Lage, zu heiraten (z.B. wegen Geldmangel); اِستِطاعَت ِ اِزدِواج نَدارَد
-Lager; (pl.)  (اَنبار، ذَخیره (ذَخايِر
+Lager; (pl.) (اَنبار، ذَخیره (ذَخايِر
 - etwas auf Lager haben; چیزی را دَر چَنته داشتَن
 - sie setzten alles ein, was sie an Erfahrung auf Lager hatten; هَر آنچه دَر چَنتهٔ تَجرُبه داشتَند بیرون ریختنَد
 - Eislager; مَخزَن ِ يَخ
@@ -340,7 +340,7 @@ laufend;
 - auf dem Laufenden sein über; بَر چیزی واقِف بودَن
 laufenlassen (jem. -); .کِسی را رَها کَردَن، ـ وِل ک
 Läufer; دَوَنده
-- Läufer, Teppich; زیر اَنداز، فَرش  ِ کِناره
+- Läufer, Teppich; زیر اَنداز، فَرش ِ کِناره
 - jem. den Roten Läufer ausrollen; پا اَنداختَن بَرای ِ کِسی
 läufig; طَلَب آمَدَن، فَحل آ.، لاس زَدَن، لاسیدَن
 - läufiger Hund; سَگ ِ لاس
@@ -457,7 +457,7 @@ Leben (n); رَوان، حَیات، زِندِگی
 - Das Leben ist zu kurz, um ständig für sein Recht zu kämpfen; آدَم دو دَفعه نِمی میرَد گاه دِفاع از حَق و حَقیقَتی رَعَب و هَراس ناسِزاوار است
 - Leben ist wertvoller als Geld; پول است نَه جان است که آسان بِتَوان داد
 - Die Mittel reichen weder zum Leben noch zum Sterben; سَد ِ رَمِق، پاداش ِ بخور و نَمیر
-- Jedes Korn, das in die Erde fällt, entsteht zu neuem Leben, warum  glaubt Ihr das nicht auch für den Menschen?; کُدام دانه فُرو رَفت دَر زَمین که نَرُست چِرا به دانهٔ اِنسانيَت این گُمان نَباشَد؟
+- Jedes Korn, das in die Erde fällt, entsteht zu neuem Leben, warum glaubt Ihr das nicht auch für den Menschen?; کُدام دانه فُرو رَفت دَر زَمین که نَرُست چِرا به دانهٔ اِنسانيَت این گُمان نَباشَد؟
 - das Leben von Tausenden; گُذَران ِ هِزاران نَفَر
 lebend; زِنده
 - lebende Mauer (beim Fussball); دیوار ِ گوشتی
@@ -520,7 +520,7 @@ Lebhaftigkeit; جُنب و جوش
 leblos; بی جان، مُرده
 - leblose Maschine; ماشین از جان اُفتاده، ـ اَنداخته، ـ از کار اُفتاده
 lechzen; از فَرط ِ دِرَندِگی لَه لَه زَدَن
-- lechzend sein nach; راغِب ِ چیزی بودَن،  آب از دَهانَش سَرازیر می شَوَد،  سَخت شیفته و خواهان ِ چیزی  گَشتَن، آب اَنداختَن ِ دَهان،  فُزوده شُدَن ِ اِشتِها نِسبَت بچیزی، آب دَر دَهان آمَدَن  از... ، شائِق و خواهان ِ آن شُدَن
+- lechzend sein nach; راغِب ِ چیزی بودَن، آب از دَهانَش سَرازیر می شَوَد، سَخت شیفته و خواهان ِ چیزی گَشتَن، آب اَنداختَن ِ دَهان، فُزوده شُدَن ِ اِشتِها نِسبَت بچیزی، آب دَر دَهان آمَدَن از... ، شائِق و خواهان ِ آن شُدَن
 leck; سوراخ دار، رَخنه دار
 Leck (n); سوراخ، رَخنه
 lecken; لیسیدَن
@@ -876,7 +876,7 @@ Liebe (f); مُحَبَت، حُب، عِشق
 - er macht das aus Liebe; این را با مُحَبَت اَنجام میدَهَد
 - Erweisung von Liebe; تَعشُق
 - Strohfeuer der Liebe; عِشق های ِ پوشالی
-- So wie der Rauch zum Feuer gehört, gehört der Schmerz zur Liebe; مُلزِم ِ آتَش  دود است، مُلزِم ِ عِشق دَرد
+- So wie der Rauch zum Feuer gehört, gehört der Schmerz zur Liebe; مُلزِم ِ آتَش دود است، مُلزِم ِ عِشق دَرد
 - Die Traurigkeit der Liebe kam und nahm andere Traurigkeiten weg, die Nadel entfernt vom Fuss die Dornen (i.S. von: beides tut weh, hat aber heilende Wirkung) (Molawi); غَم ِ عِشق آمَد و غَمهای ِ دِگَر بِبُرد سوزَنی بايَد کَز پای بَرآوَرَد خاری
 liebedienernd; سینه مال
 Liebelei; عِشق بازی
@@ -1220,7 +1220,7 @@ Luftschutz; حِفاظَت ِ هَوائی
 Luftspiegelung; سَر آب، آبنَما
 Luftsprung;
 - er machte einen Luftsprung; او جَست زَد توی ِ هَوا، دِلََش بَرای ِ ... پَر می زََد، به هَوا پَرید
-Luftströmungen; (sing.)  (مُجاری ِ هَوا (مَجرا
+Luftströmungen; (sing.) (مُجاری ِ هَوا (مَجرا
 Lüftung; تَهویه
 Luftveränderung; تَغییر ِ هَوا
 - zwecks Luftveränderung ...; تا آب به آب شَوَد

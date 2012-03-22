@@ -82,7 +82,7 @@ nachholen;
 nachjagen; .کِسی را تَعاقُب کَردَن، ـ تَعقیب ک
 Nachklang; طَنین، دو خوان
 nachklingen; طَنین گِرِفتَن
-Nachkomme; (pl.)  (نَسل، اولاد، خَلَف (اَخلاف)، عَقیب (اَعقاب)، ذُریه (ذُریات
+Nachkomme; (pl.) (نَسل، اولاد، خَلَف (اَخلاف)، عَقیب (اَعقاب)، ذُریه (ذُریات
 - direkter Nachkomme; فَرزَند ِ صُلبی
 - Ernennung der Nachkommen; اِستِخلاف
 - keine (männlichen) Nachkommen haben; اُجاق ِ کِسی گور است
@@ -131,7 +131,7 @@ Nachschlagewerk; کُتُب ِ مَرجَع، کِتاب ِ راهنَما
 Nachschlüssel; کِلید ِ اِضافی
 nachsehen;
 - jem. etwas nachsehen; چِشم پوشی کَردَن
-- bei jem. nachsehen; از کِسی سَر کِشی کَردَن، بازدید کَردَن به مَنظور نِظارَت و تَشخیص ِ خوب  و بَد کار
+- bei jem. nachsehen; از کِسی سَر کِشی کَردَن، بازدید کَردَن به مَنظور نِظارَت و تَشخیص ِ خوب و بَد کار
 - das Nachsehen haben; بی نَصیب ماندَن
 Nachsendung; مُرسِلهٔ پُستی به آدرِس ِ جَدید
 Nachsicht; شَفَقَت، گُذَشت
@@ -369,7 +369,7 @@ Nebenschauplatz; صَحنهٔ فَرعی
 nebenstehend;
 - mit nebenstehender Adresse; با آدرِس ِ مُجاوِر
 Nebenstrasse; خیابان ِ فَرعی
-Nebenwirkungen; عَوارِض  ِ جانِبی
+Nebenwirkungen; عَوارِض ِ جانِبی
 neblig; مِه آلود
 necken; توی ِ کوک ِ کِسی رَفتَن، با کِسی سَر به سَر گُذاشتَن
 - ich ging, um x zu necken; رَفتَم تو کوک ِ کِسی
@@ -385,7 +385,7 @@ nehmen; گِرِفتَن، بُردَن، بَرداشتَن
 - Sie können das nehmen (i.S.: mitnehmen); شما می تَوانید این را بَردارید
 - jem. das Recht nehmen; به حَق ِ کِسی تَجاوُز کَردَن
 - nehmen Sie s. Zeit für ...; مُدَت ِ زَمانی را بَرای ِ چیزی قائِل شَوید
-- hart im Nehmen sein; روی ِ زَمین  ِ سِفت شاشیدَن
+- hart im Nehmen sein; روی ِ زَمین ِ سِفت شاشیدَن
 - Unangenehmes auf s. nehmen; پیه چیزی را به تَن ِ خود مالیدَن
 - Verhältnis zwischen Nehmenden & Gebenden; نِسبَت ِ سِتانده ها به داده ها
 Neid; حَسودی، حَسَد، حِسادَت، غِبطه
@@ -422,7 +422,7 @@ Nenner; بَرخه نام، مُخرِج
 - auf keinen Nenner kommen; به هیچ صَراطی ِ مُستَقیم نَبودَن، آبِشان از یِک جوی نَرَوَد
 Nennwert; اَرزِش ِ اِسمی
 Neonlicht; چِراغ ِ نِئون
-Nerv; (pl.)  (عَصَب (اَعصاب
+Nerv; (pl.) (عَصَب (اَعصاب
 - er geht uns auf die Nerven; او موی ِ دَماغ ِ ما شُده، کَلافهٔ ما می کُنَد، کاسِمان می کُنَد
 - er verliert die Nerven; از کوره دَر می رَوَد
 - Nerven haben; عَجَب اَعصابی داشتَن
@@ -534,7 +534,7 @@ nichtrostend; زَنگ نَزَن
 nichts; هیچ
 - durch nichts und niemand anderes; وِ لاغِیر
 - lieber etwas, als nichts; کاچی به از هیچی
-- von nichts kommt nichts; تا نَباشَد چیزَکی مَردُم نَگويَد چیزها، نان  ِ بی مایه فَطیر است، عَدَم ِ باروَر نیست، بَر هیچ که نِمیتَوان چیزی اَفزود
+- von nichts kommt nichts; تا نَباشَد چیزَکی مَردُم نَگويَد چیزها، نان ِ بی مایه فَطیر است، عَدَم ِ باروَر نیست، بَر هیچ که نِمیتَوان چیزی اَفزود
 - da geht nichts mehr; بی خیالَش، آرِزوی ِ ما نَقشه بَر آب است
 - da wird nichts draus; سامان نِمیشَوَد، کاری نِمی شَوَد کرد
 - das macht nichts; مُهِم نیست، ناراحَت نَباش، عِیبی نَدارَد، بی خیال
@@ -567,7 +567,7 @@ nieder!; پَست باد
 - von einem niederen zu einem höheren Zustand übergehen; از صورَتی ِ اَدَنی به صورَتی ِ اَعلىٰ
 Niederdruck; فِشار ِ کَم
 Niedergang; فُرو پاشی، اِنحِطاط
-- Niedergang der Demokratie; فُرو پاشی  ِ دِموکراسی، اِنحِطاط  ِـ
+- Niedergang der Demokratie; فُرو پاشی ِ دِموکراسی، اِنحِطاط ِـ
 - dieses Land befindet s. im Niedergang; این کِشوَر دَر فُروپاشی قَرار میگیرَد
 niedergeschlagen; پَکَر، با سَر ِ اَفکَندِگی، دِل اُفتاده، چِگَرخواره، پَریشان حال، دَرمانده، مَلول، شِکَسته خاطِر
 Niedergeschlagenheit; سُتوه، دِلگِرِفتِگی، دَرماندِگی، شِکَسته خاطِری
@@ -622,7 +622,7 @@ niemand; هیچ کَس
 - niemand ist da; جا تَر است و بَچه نیست
 Niemandsland; سَرزَمین ِ بی صاحِب
 Niere; گِرده، کُلیه
-Nierenstein; (pl.)  (سَنگ ِ کُلیه، رَمل  ِکُلیه (رِمال ِ ـ
+Nierenstein; (pl.) (سَنگ ِ کُلیه، رَمل ِکُلیه (رِمال ِ ـ
 nieseln; تَراویدَن، يِک ریز می بارَد
 niesen; عَطسه زَدَن، ـ کَردَن
 Niesen (n); عَطسه
@@ -698,12 +698,12 @@ Normenausschuss; کُمیسیون ِ اِستانداردها، ـ مِعیار�
 Normvorschrift; مُشَخَصات ِ اِستاندارد
 Nostalgie; نوستالژی، پَس اَندیشه
 nostalgisch; پَس اَندیش
-Not; (pl.)  (مَضیقه (مَضائِق)، بَلیه (بَلایاء
+Not; (pl.) (مَضیقه (مَضائِق)، بَلیه (بَلایاء
 - in seiner Not; از زور ِ پَسی
 - Not leiden; به ذِلَت اُفتادَن، سَختی کِشیدَن
 Notabeln, führende Persönlichkeiten; اَعاظَم، رِجال
 Notar; کاتِب ِ شَرع، مَحضَر دار
-Notariat; مَحضَر  ِرَسمی
+Notariat; مَحضَر ِرَسمی
 notariell; مَحضَری
 - notariell beglaubigter Vertrag; قَرار داد ِ مَحضَر
 Notausgang; خُروج ِ اِضطِراری

@@ -73,7 +73,7 @@ Talgdrüse; غدهٔ چَربى
 Talisman; طِلِسم، حِرز
 Talkum; طَلق
 Talsohle; تَه ِ دَره
-- wirtschaftliche Talsohle; رُکود  ِ اِقتِصادى
+- wirtschaftliche Talsohle; رُکود ِ اِقتِصادى
 Talweg; خَط اُلقَعر، ژَرفاب
 Tamtam; طُمطُراق
 Tändeln; (mit anderem Geschlecht) عِشوه، عِشق بازى
@@ -143,7 +143,7 @@ tasten; لَمس کَردَن
 - nach etwas tasten; کورمالى دُنبال ِ چیزى گَشتَن
 - ich tastete mich durch die Menge; کورمال از لاى ِ مَردُم گُذَشتَم
 Tastsinn; حِس ِ لامِسه
-Tat; (pl.)  (عَمَل (اَعمال
+Tat; (pl.) (عَمَل (اَعمال
 - in der Tat; (be-l-fel) بِالقُوه، هَمانا، بِالفِعِل
 - es ist in der Tat deine Arbeit, ... zu tun; شُغل ِ تو هَمانه بِجا آوَردَن ِ ... است
 - gute Tat (relig.); کار ِ ثَواب
@@ -194,7 +194,7 @@ tauen; آب شُدَن، تابیدَن
 Taufe; غُسل ِ تَعمید
 taufen; کِسى را غُسل ِ تَعمید دادَن
 Täufling; شَخص ِ غُسل ِ تَعمید داده شُده
-Taufpate; (- in)  (پِدَر ِ تَعمیدى (مادَر ِ ـ
+Taufpate; (- in) (پِدَر ِ تَعمیدى (مادَر ِ ـ
 taugen;
 - als Leiter taugen; ساخت ِ یک رَهبَررا داشتَن، بدَرد ِ رَهبَر خوردَن
 - das taugt nicht für den Film; که به کار ِ سینِما نِمى آيَد
@@ -363,10 +363,10 @@ Terror; تِرور، وَحشت، اِرعاب
 terrorisieren; تِرور کَردَن
 Test; آزمايِش، آزمون، اِمتِحان، اَروین
 - Selbsttest; خود آزمائى
-Testament; (pl.)  (وَصيَت نامه (وَصایا
+Testament; (pl.) (وَصيَت نامه (وَصایا
 testamentarisch; وَصيَتى
 Testamentvollstrecker; وَصى، وَصيَت کُنَنده
-testen; (präs.)  (اِمتِحان کَردَن، آزمايِش ک.، آزمودَن (مى آزمايَد
+testen; (präs.) (اِمتِحان کَردَن، آزمايِش ک.، آزمودَن (مى آزمايَد
 - testen, was ... weiss; جَهَت ِ آزمون ِ دانِش ِ فِلان
 Testperson;
 - ich war für ... die Testperson (umg.); مَن موش ِ آزمايِشگاهی ِ ... بودَم
@@ -394,7 +394,7 @@ Theater; تِأتر، نَمايِش ِ ـ
 theatralisch; تیاترال
 Theismus; اِعتِقاد به خُدا
 Theke; پیش خوان
-Thema; (pl.)  (موضوع (موضوعات)، مَطلَب (مَطالِب
+Thema; (pl.) (موضوع (موضوعات)، مَطلَب (مَطالِب
 - war in seinem Leben noch kein Thema; دَر زِندِگى ِ او رِخنه نَکَرده بود
 - das Thema wechseln; حَرف توی ِ حَرف آمَدَن، حَرف را کِشیدَن به
 Theologe; اُستاد ِ اُلَهیات
@@ -455,8 +455,8 @@ Tieflader; تریلِر بَراى ِ بار سَنگین
 Tiefziehstahl; فولاد ِ فُروکِشى
 Tiegel; بوته
 Tiegelschmelzofen; کورهٔ ذوب ِ بوته اى
-Tier; (pl.)  (جانِوَر، بَهیمه (بَهايِم)، حِیوان (حِیوانات
-- ungezähmtes Tier; (pl.)  (وَحش (وُحوش
+Tier; (pl.) (جانِوَر، بَهیمه (بَهايِم)، حِیوان (حِیوانات
+- ungezähmtes Tier; (pl.) (وَحش (وُحوش
 - Nutztiere; دَد و دام
 Tierarzt; دام پِزِشک
 tierisch;
@@ -493,7 +493,7 @@ Tischler; نَجار
 Tischrede; سُخَنرانى ِ سَر ِ میز ِ غَذا
 Tischtennis; پینگ پُنگ
 Tischtuch; رومیزى
-Titel; (pl.)  (مَنصَب (مَناصِب)، لَقَب (اَلقاب
+Titel; (pl.) (مَنصَب (مَناصِب)، لَقَب (اَلقاب
 - Titel (bei Zeitung, u.ä.); تیتر، عُنوان
 - Verleihung eines Titels; تَلقیب
 - Titel ohne Mittel; شام و نَهار هيچى، غَذا نَدارَد بُخورَد پياز مى خورَد اِشتِهايَش باز شُد
@@ -632,7 +632,7 @@ trächtig; باردار
 Trächtigkeit; باردارى
 tradiert;
 - tradierte Geschichten; حِکايَتهاى ِ مأثور
-Tradition; (pl.)  (آداب و رُسوم، سُنَت (سُنَن
+Tradition; (pl.) (آداب و رُسوم، سُنَت (سُنَن
 traditionell; سُنَتى
 tragbar;
 - tragbar (als Gewicht); دَستى، قابِل ِ حَمل
@@ -640,7 +640,7 @@ tragbar;
 Trage; زَنبه، تَخت ِ رَوان
 träge; تَنبَل، بیحال
 - sie sind sehr träge; آنها خِیلى خُمود هَستَند
-- ein träger Typ; آدَم  ِ ناکار
+- ein träger Typ; آدَم ِ ناکار
 tragen; حَمل کَردَن، بُردَن
 - bequem zu tragen; خوش بار
 Träger; حامِل
@@ -919,7 +919,7 @@ tropfen; چِکیدَن، تَراویدَن
 Tropfen; (m) قَطره، چِکه
 - bis zum letzten Tropfen; لاجُرعِه
 tropfenweise; قَطره قَطره، چِکه چِکه
-Trophäe; (pl.)  (غَنیمَت (غَنائِم
+Trophäe; (pl.) (غَنیمَت (غَنائِم
 - Kriegstrophäe; غَنايِم ِ جَنگ
 Trost; تَسَليَت، تَسَلى، آسايِش، آسودِگى، دِلدارى، آرامِش خاطِر
 trösten; (jem. -) تَسَلى دادَن، آسايِش بَخشیدَن، آسودِگى ب.، دِلدارى دادَن، آب ِ شادی بَر آَتش ِ غَم ریختَن

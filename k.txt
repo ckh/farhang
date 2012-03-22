@@ -99,7 +99,7 @@ Kampagne; کَمپِین
 Kampf; مُقاتَله، مُبارِزه، نَبَرد
 - Kampf um Leben und Tod; مُبارِزهٔ حَیاتى و مَماتى
 - s. miteinander im Kampf befinden; دَر تَحارُب قَرار گِرِفتَن
-- Existenzkampf; کِشاکِش  ِدَهر، تَنازُع ِ بَقاء
+- Existenzkampf; کِشاکِش ِدَهر، تَنازُع ِ بَقاء
 - Wettkampf; مُسابِقه، مَصاف
 Kampfansage; مُبارِزه طَلَبى
 Kampfarena; مُعَرکه
@@ -115,7 +115,7 @@ Kampfflugzeug; هَواپِیماى ِ شِکارى، ـ جَنگَنده
 Kampfgebiet; مَنطَقهٔ نَبَرد
 Kampfhandlungen; نَبَرد، عَمَلیات ِ رَزمى، ـ نِظامى
 Kampfmoral; روحیهٔ رَزمى
-Kampfsport; وَرزِش  ِ رَزمى
+Kampfsport; وَرزِش ِ رَزمى
 Kampftruppen; عِدِه هاى ِ رَزمى
 Kanal; نَهر، کانال
 Kanalarbeiter; مُقَنى
@@ -212,7 +212,7 @@ Karriere; تَرفیع، مُوَفَقيَت ِ شُغل
 - Karriere innerhalb ...; سِیر ِ اِرتِقاء ِ شُغلى دَر
 - Karriere machen; تَرفیع گِرِفتَن
 Karte;
-- alles auf eine Karte setzen; خودرا به سیم  ِ آخَر زَدَن
+- alles auf eine Karte setzen; خودرا به سیم ِ آخَر زَدَن
 - die Karten auf den Tisch legen; قِصه را پیش کِشیدَن
 - mit falschen Karten spielen; آب دَر شیر کَردَن، غِش و دَغَل کَردَن دَر مُعامِله
 - Eintrittskarte; کارت ِ وُرود
@@ -248,10 +248,10 @@ Kasse; باجه، گیشه
 - wir werden wegen ... zur Kasse gebeten; ما بَراى ِ ... بِخَرج مى اُفتیم
 - knapp bei Kasse sein; دَست (و بال) ِ کِسی تَنگ است
 - Kinokasse; گیشهٔ سینِما، باجهٔ ـ
-Kassenprüfer; (pl.) بازرَس  ِ (ـ ان) حِسابها
+Kassenprüfer; (pl.) بازرَس ِ (ـ ان) حِسابها
 Kassenschalter; باجهٔ پَرداخت
 Kassenwart; خَزینه دار
-Kassenzettel; قَبض  ِ خَرید
+Kassenzettel; قَبض ِ خَرید
 Kassette; نَوار ِ ضَبط ِ صوت، کاسِت
 Kassettenrecorder; دَستگاه ِ ضَبط ِ صوت
 kassieren; .دَریافت کَردَن، وُصول ک
@@ -261,7 +261,7 @@ Kassierer;
 - Kassierer (beim Verein); خَزانه دار
 - Kassierer (im Geschäft an der Kasse); صَندوق دار
 Kastanie; شاه بَلوط
-- s. die Kastanien aus dem Feuer holen; سَر  ِ مار بِدَست  ِ غِیر کوبیدَن
+- s. die Kastanien aus dem Feuer holen; سَر ِ مار بِدَست ِ غِیر کوبیدَن
 Kasten; (pl.) جَعبه (جُعاب)، صَندوق
 kastrieren; .اَخته کَردَن، عَقیم ک
 kastriert; خایه کِشیده، اَخته شُده
@@ -539,7 +539,7 @@ Kissen; زیر سَرى، بالِش
 - Rückenkissen; مِخَده
 - Stützkissen; مُتَکا
 Kiste;
-- 1 Kiste Obst; یک لِنگه  بار
+- 1 Kiste Obst; یک لِنگه بار
 - Obstkiste; لِنگهٔ بار
 Kitsch; اِبتِذال
 kitschig; قُلُنبه، بى روح، بى مَزه، اِحساساتى
@@ -824,7 +824,7 @@ knicken; تا کَردَن
 - in der Mitten knicken; تا خوردَن
 - geknickt sein; سَر خَم شُدَن، سَر به زیر بودَن
 knickrig; خَسیس، نان ِ کور، مَگَس دَر هَوا رَگ زَدَن
-Knie; (pl.)  (زانو (زانوان
+Knie; (pl.) (زانو (زانوان
 - die Knie beugen (beim Sport); نِشَستَن و پا شُدَن
 - jem. auf die Knie zwingen; کِسى را به زانو دَر آوَردَن
 knieen; زانو زَدَن
@@ -1100,7 +1100,7 @@ kondolieren; تَسَليَت گُفتَن
 Kondom; کاپوت
 Konfekt; نُقل، تَنَقُلات
 Konferenz; کُنفِرانس
-- eine Pressekonferenz abhalten; يِک کُنفِرانس  ِ مَطبوعاتى بَر گُذار کَردَن
+- eine Pressekonferenz abhalten; يِک کُنفِرانس ِ مَطبوعاتى بَر گُذار کَردَن
 konferieren; مَشوَرَت کَردَن
 konfessionell; کِلیسائى
 - überkonfessionell; بِین اُلکِلیسائى
@@ -1181,7 +1181,7 @@ Konservatorium; هُنَرِستان ِ موسیقى
 Konserve; کُنسِرو
 - Olivenkonserven; تَغار ِ زِیتون، کُنسِرو ِ ـ
 konservieren; کُنسِرو کَردَن
-Konservierungsmitel; مَواد ِ شیمیائى بَراى ِ کُنسِرو کَردَن ِ مَواد ِ غَذائى، -  نِگَهداری ِ غَذا
+Konservierungsmitel; مَواد ِ شیمیائى بَراى ِ کُنسِرو کَردَن ِ مَواد ِ غَذائى، - نِگَهداری ِ غَذا
 Konsistenz; جِسميَت، ثَبات، اِستِحکام
 - Konsistenz als Wahrheitskriterium (philos.); اِثبات پَذیرى
 konsolidieren; اِستِحکام بَخشیدَن
@@ -1324,7 +1324,7 @@ Kopf; سَر، کَله
 - sie warf s. den Schleier über den Kopf; چادرَش را سَرَش کَرد
 - was man nicht im Kopf hat, muss man in den Beinen haben; هَر که خَر باشَد بارَش مى کُنَد، آدَم ِ فَراموشکار راه اَش را دو مَرتَبه مى پِیمايَد
 - Gelenkkopf; سیبَگ، غِرغِره
-- Hinterkopf; پَس  ِ گَردَن، پَس  ِ کَله، پُشت ِ سَر
+- Hinterkopf; پَس ِ گَردَن، پَس ِ کَله، پُشت ِ سَر
 Kopfball; ضَربهٔ سَر
 Kopfbedeckung; روسَری
 - Kopfbedeckung (deren Ende um den Hals geschlungen ist); تَحت اُلحَنَک
@@ -1919,7 +1919,7 @@ kürzlich; اَخیراً
 Kurzschluss; اِتِصالى
 kurzsichtig; کَم سو، قَصیر اُلبَصر، نزدیکبین
 - kurzsichtig (philos.); قاصِر اُلنَظَر
-- sein Auge ist kurzsichtig; چِشم  ِ نَزدیک بین دارَد
+- sein Auge ist kurzsichtig; چِشم ِ نَزدیک بین دارَد
 Kurzsichtigkeit; نَزدیک بینى ِ چِشم
 Kurzstreckenrakete; موشَک ِ کَم بُرد
 Kürzung; کاهِش

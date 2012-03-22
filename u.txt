@@ -89,8 +89,8 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 - übereinstimmende Meinung; اِتِفاق ِ نَظَر
 Übereinstimmung; اِنطِباق، هَماهَنگى، مُوافِقَت، تَوافُق
 - Übereinstimmung in vielen Punkten; اِنطِباق دَر نُقاط ِ زیاد
-- zur Übereinstimmung bringen mit ...; چیزى را به چیزى اِطلاق کَردَن، ـ هَموار ک.، ـ هَمسازى ک، با ...  جُفت و جور کَردَن
-- die Welt ist in Übereinstimmung mit den  Wünschen von ...; دُنیا بَر وَفق ِ مُراد ... است
+- zur Übereinstimmung bringen mit ...; چیزى را به چیزى اِطلاق کَردَن، ـ هَموار ک.، ـ هَمسازى ک، با ... جُفت و جور کَردَن
+- die Welt ist in Übereinstimmung mit den Wünschen von ...; دُنیا بَر وَفق ِ مُراد ... است
 - diese Dinge sind in Übereinstimmung mit ...; این چیزها با ... وَفق مى دَهَند، - جُفت و جور هَستَند
 - ... mit dem Gesetz in Übereinstimmung bringen; با قانون سازگار کُنَد
 - nur ein Teil würde damit in Übereinstimmung sein; فَقَط قِسمَتى از این به آن تَعریف مى خورَد
@@ -108,7 +108,7 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 - die Überweisung ist längst überfällig; پول بايَستی مُدَتها پیش پَرداتته شُده باشَد
 überfliegen;
 - den Text überfliegen; مَتن را سَرسَرى خواندَن
-- einen Ort überfliegen; پَروازکُنان از  ... گُذَشتَن
+- einen Ort überfliegen; پَروازکُنان از ... گُذَشتَن
 - Überflieger (Schüler, der mehrere Klassen überspringt); جَهِشى
 überfliessen; لَبریز شُدَن
 - überfliessende Freude; شادى ِ فَراوان، ـ غِیر ِ قابِل ِ وَصف، فَراوانى ِ خوشى
@@ -135,7 +135,7 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 Übergangsstelle; گُذَرگاه
 Übergangszone (Metallurgie); ناحیهٔ حَرارَت دیده
 übergeben;
-- jem. etwas übergeben; (präs.)  چیزى را به کِسى تَفویض کَردَن، چیزى را تَحویل ِ کِسى دادَن، ـ سِپُردَن (مى سِپارَد) به کِسی
+- jem. etwas übergeben; (präs.) چیزى را به کِسى تَفویض کَردَن، چیزى را تَحویل ِ کِسى دادَن، ـ سِپُردَن (مى سِپارَد) به کِسی
 - übergib ihnen den Artikel als von dir geschrieben; بِعُنوان ِ مَقالهٔ خود تَحویلِشان بِدَهى
 - s. übergeben (*:erbrechen); اُغ زَدَن
 übergehen;
@@ -311,7 +311,7 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 - überschüssige Kapazität; ظَرفيَت ِ اِضافى
 übersehen; نادیده گِرِفتَن
 - indem er sie völlig übersieht; او با به هیچ گِرِفتَنِشان آنهارا
-- jem., der andere übersieht; (popul.)  (کَم مَحَلی (چُس مَحَلی
+- jem., der andere übersieht; (popul.) (کَم مَحَلی (چُس مَحَلی
 übersetzen; تَرجُمه کَردَن
 - mit dem Boot übersetzen; با کِشتى مُنتَقِل شُدَن
 Übersetzer; مُتَرجِم
@@ -344,7 +344,7 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 - überstürzt; با دَستپاچِگى، تُند تُند، شِتابزَده
 - überstürzt handeln; از بیگُداری به آب زَدَن
 übertölpeln; .کِسى را مَکر کَردَن، اِغفال ک.، فَریفتَن، خَر ک
-Übertölpelung; (pl.)  مَکید (مَکائِد)، مَکر
+Übertölpelung; (pl.) مَکید (مَکائِد)، مَکر
 übertönen; پوشاندَن
 - seine Stimme übertönt die der anderen; صِدای ِ او بَقیهٔ صِداهارا می پوشانَد
 Übertopf; جا گُلدانى
@@ -569,7 +569,7 @@ umkippen (aktiv); چَپه کَردَن
 Umklammerung;
 - er befreite s. aus der Umklammerung, die ...; از توى ِ قِشرى که ... بِدور ِ او بَسته بود بیرون آمَد
 Umkleidekabine; کابین ِ اِستِحمام، رَفتکَن، جامه کَن
-umkommen; (präs.)  (هَلاک شُدَن، فوت ش.، مُردن (مى میرَد
+umkommen; (präs.) (هَلاک شُدَن، فوت ش.، مُردن (مى میرَد
 - umkommen vor Durst; از تِشنِگى جِگَر ِ کِسى آتَش مى گیرَد
 - elendiglich umkommen; سَگ کُش شُدَن، شیشهٔ عُمر ِ کِسى به سَنگ خورد
 Umkreis;
@@ -683,7 +683,7 @@ Umweltfaktoren; عَوامِل ِ مُحیط ِ زِندِگى، - مُحیط ِ
 Umweltschutz; حِفاظَت ِ مُحیط ِ زیست، حِفاظَت ِ طَبیعَت، حَراسَت ِ مُحیط
 Umweltverschmutzung; آلودِگى ِ مُحیط ِ زیست
 umwerfen; اَنداختَن
-- damit ihn der Wind nicht umwerfen würde; (infin.)  (تا باد نَيَندازَدِش (اَنداختَن
+- damit ihn der Wind nicht umwerfen würde; (infin.) (تا باد نَيَندازَدِش (اَنداختَن
 umwinden; تَنیدَن
 umzäunen; حِصار کِشیدَن
 - umzäunter Garten; چَهار دیواری ِ باغ
@@ -958,7 +958,7 @@ unflätig;
 - unflätige Worte; کَلَمات ِ رَکیک، ـ آبدار
 unförmig (z.B. Kleidungsstück); بَدریخت
 - unförmige Figur; بَدقَواره، بی اَندام
-Unfreier; (pl.)  (مَملوک (مَمالِک
+Unfreier; (pl.) (مَملوک (مَمالِک
 unfreiwillig; اِجبارى
 - unfreiwillig schlägt das Herz höher; بى اِختیار تَپِش ِ قَلب بالا مى رَوَد
 unfreundlich;
@@ -1033,7 +1033,7 @@ ungerufen;
 - ungerufener Gast; مِهمان ِ ناخوانده
 ungerührt; بی عاطِف، مُرده دِل، بی رَحم
 ungesagt;
-- es soll nicht ungesagt bleiben, dass ...; که  چیزى ناگُفته نَمانَد
+- es soll nicht ungesagt bleiben, dass ...; که چیزى ناگُفته نَمانَد
 ungesättigt;
 - ungesättigte Säure; اَسید ِ اِشباع نَشُده
 ungesäuert; بی نَمَک، بی مَزِه
@@ -1128,7 +1128,7 @@ universal; عُمومى، هَمِگانى
 Universalität; کليّت
 Universalitätsprinzip; اَصل ِ جَهانشُمولى
 universell; عام، هَمِگانى، عُمومى
-Universität; (Pashtu)  (دانِشگاه (پوهَنتون
+Universität; (Pashtu) (دانِشگاه (پوهَنتون
 Universum; کائِنات
 Unkenntnis;
 - Unkenntnis über; نا آگاهى از
@@ -1190,7 +1190,7 @@ unproduktiv; بى حاصِل، بِدون ِ نَتیجه
 Unproduktivität; بى حاصِلى
 unproportional; بى تَناسُب
 unpünktlich;
-- er ist ein unpünktlicher Mensch; او آدَمِ  وَقت نَشِناس است
+- er ist ein unpünktlicher Mensch; او آدَمِ وَقت نَشِناس است
 Unrat; آشغال
 unrealistisch; غِیر ِ واقِعی
 - der Gedanke ist unrealistisch; این فِکر ِ نَقش بَر آب است
@@ -1399,7 +1399,7 @@ unterrichten; دَرس دادَن، تَدریس کَردَن
 untersagen; .مَنع کَردَن، تَحریم ک.، قَدِغَن ک
 - untersagend; زاجِر
 - Das Betreten ist strengstens untersagt; وُرود اَکیداً مَمنوع است
-Untersagung; (pl.)  (زاجِرَت (زَواجِر
+Untersagung; (pl.) (زاجِرَت (زَواجِر
 unterschätzen; دَست ِ کَم گِرِفتَن، ناچیز شُمُردَن، کَم بَها دادَن
 unterscheiden; مُمَيِزه کَردَن، تَمايُز داشتَن، تَمییز دادَن
 - s. unterscheiden von ...; مُتَمايِز از ... بودَن
@@ -1462,7 +1462,7 @@ Untersuchung; تَحقیق، تَدقیق، بَررِسى، پَژوهِش، ر
 Untersuchungsausschuss; کُمیسیون ِ رِسیدِگى، ـ بَررِسى و تَحقیق
 Untersuchungshaft; بازداشتگاه ِ دادرِسى، بازداشت ِ مُوَقَت
 Untersuchungsrichter; باز پُرس
-Untertan; (pl.)  (رَعيَت (رَعایا)، تَبَعِه (اَتباع
+Untertan; (pl.) (رَعيَت (رَعایا)، تَبَعِه (اَتباع
 untertänigst;
 - "ich bin Ihr untertänigster Diener"; مَن غُلام دَرگاهِتان هَستَم
 Untertasse; نَعَلبَکى
