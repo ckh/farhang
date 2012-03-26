@@ -471,8 +471,8 @@ Kidnapper; آدَم رُبا، - دُزد
 Kidnapping; آدَم رُبایی
 Kiebitz; شانه بِسَر، هُدهُد
 kiebitzen; با کُنجکاوى نِگاه کَردَن، چَپ چَپ ـ
+Kiefer (Baum); دِرَخت ِ کاج
 Kiefer;
-- Kiefer (Baum); دِرَخت ِ کاج
 - Kiefer; آرواره، فَک
 - Oberkiefer; فَک ِ اَعلىٰ، فَک ِ بالائى
 - Unterkiefer; فَک ِ اَسفَل، حَنَک
