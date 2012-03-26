@@ -2898,9 +2898,9 @@ Spiritus; اَلکُل ِ صَنعَتى
 Spirituskocher; اُجاق ِ اَلکُلى
 spitz; تیز، حاد، تُند
 - mit spitzer Zunge; با مَتَلَک
-Spitzbube; آدَم ِ رَذل، حَرامى، جیب بُر، کَلاش
+Spitzbube; آدَم ِ رَذل، حَرامى، جیب بُر، کَلاش، دَغاباز، دَغا
 - das sind alles die gleichen Spitzbuben; هَمه اش از آن آپاردیان
-Spitzbüberei; عَیار، شوخى، شِیطانى
+Spitzbüberei; عَیار، شوخى، شِیطانى، دَغَلی
 spitzbübisch; رَذیل
 Spitze;
 - der Politiker kam an die Spitze; سیاسَت مَدار بَر سَر ِ کار آمَد
@@ -2911,8 +2911,6 @@ Spitze;
 - Nasenspitze; نوک ِ دَماغ
 - Führungsspitze; رأس ِ رَهبَرى
 - Schirmspitze; نوک ِ چَتر
-Spitzbube; دَغاباز، دَغا
-Spitzbüberei; دَغَلی
 Spitzel; جاسوس، خَبَر چین
 Spitzenkandidat; سَرآمَد ِ نامزَدها
 Spitzenpolitiker; سیاسَتمَدار ِ اَرشَد
