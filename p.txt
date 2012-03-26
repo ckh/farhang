@@ -1,3 +1,8 @@
+paar;
+- ein paar Schüler; چَند تا شاگِرد
+- mit den paar Büchern, die ich gelesen habe; با چُس مِثقال ِ کِتابى که خواندَم
+- er kommt alle paar Tage; هَر چَند روز قَرار است که بیايَد
+- ein paar Jungens sind eingestiegen; دو سه تا جاهِلان سَوار شُدَند
 Paar; جُفت
 - Ehepaar; زوج
 paaren; (s. -) (präs.) (جُفت گیرى کَردَن، گائیدَن (مى گايَد
@@ -735,12 +740,12 @@ Plättchen; وَرَقهٔ نازُک
 Plätzchen; بیسکویت
 Plebiszit; رأى ِ عُمومى
 plebiszitär; مُبتَنى بَر رأى ِ عُمومى
+Pleite; (f) وَرشِکَستِگى
+- ich habe eine Pleite erlebt; مَن به هَچَل اُفتادَم
 pleite; مایه سوز، وَر شِکَسته
 - ich bin total pleite; کَفگیرم به تَه ِ دیگ خورده است، جیبَم تَه کِشیده است، آس و پاسَم، آسِمان جُلَم، آه دَر بَساط نَدارَم
 - der Betrieb machte pleite; کارخانه وَر شِکَست
 - der Betrieb ist pleite gegangen; کار خانه وَرشِکَسته شُده
-Pleite; (f) وَرشِکَستِگى
-- ich habe eine Pleite erlebt; مَن به هَچَل اُفتادَم
 Plejaden; ثُرَیا، سِتارِگان ِ پَروین
 Plektrum; زَخمه
 Plenarsaal; تالار ِ مَجلِس
