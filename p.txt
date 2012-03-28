@@ -266,6 +266,7 @@ pauken;
 pauschal; روى ِ هَم رَفته
 Pauschalreisen; مُسافِرَت ِ شامِل ِ هَزینه ها
 Pause; اِستِراحَت
+- sie redet ohne Pause; او نَفَس نَکِش حَرف می زَنَد
 - in den Schreibpausen; دَر خَلال ِ نِوِشتَن
 Pausenklingel; زَنگ ِ اِستِراحَت
 pausenlos; بِدون ِ وَقفه، پُشت ِ سَر ِ هَم
