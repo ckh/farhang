@@ -1,7 +1,7 @@
 farhang ist die Rohfassung eines deutsch-persischen Lexikons.
 
-Es findet z.Zt. Verwendung im Online-Lexikon farhang-app, das
-unter der Adresse [http://farhang-app.heroku.com](http://farhang-app.heroku.com) zu erreichen ist.
+Es findet z.Zt. Verwendung im gleichnamigen Online-Lexikon Farhang, das
+unter der Adresse [http://www.farhang.im](http://www.farhangim) zu erreichen ist.
 
 ## Lizenz (siehe auch LICENSE)
 [![2]][1]
