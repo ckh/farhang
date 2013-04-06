@@ -231,9 +231,10 @@ Ei; تُخم ِ مُرغ
 - Weichei; شوشو
 Eiablage; تُخمگُذارى
 Eiche; دِرَخت ِ بَلوط
+Eichel; خَتنه گاه
 Eichelhäher; کَلاغ ِ کاکُلى
 eichen; مُدَرِج کَردَن ِ اَسبابهاى ِ اَندازه گیرى، رَسماً اَندازه گِرِفتَن، چیزى را عَیار کَردَن
-Eichhörnchen; راسو، سَنجاب، بَزمجه
+Eichhörnchen; سَنجاب
 Eichstrich; عَلامَت ِ تَنظیم و تَطابُق، عَلامَت ِ سَنجِش
 Eichung; میزان بَندى، دَرَجه بَندى
 Eid; سوگَند
@@ -437,12 +438,12 @@ eindeutig;
 - eindeutige Antwort; جَواب ِ قاطِع، ـ واضِح، ـ روشَن، ـ صَریح
 Eindeutigkeit; یِک جَهَت، صَراحَت
 eindicken (Saft, u.ä.); .مَشت کَردَن، غَلیظ ک
+Eindringen; نُفوذ، وُرود، دُخول
 eindringen;
 - in eine Sache eindringen; چیزى را غوررَسى کَردَن، دَر چیزى فُرو رَفتَن، نُفوذ کَردَن
 - in das Haus von jem. eindringen; به خانهٔ کِسى هُجوم بُردَن
 - auf jem. eindringen; به کِسى اِصرار کَردَن، کِسى را اِلحاح ک.، بَر کِسى فِشار آوَردَن
 - Feuchtigkeit dringt durch das Dach ein; رُطوبَت از راه ِ سَقف نَشت می کُنَد
-Eindringen; نُفوذ، وُرود، دُخول
 eindringlich; مُصِرانه، صَریحاً
 Eindringling; کَلاش، سَرخَر، مُتَجاوِز
 Eindruck; (pl.) اَثَر (آثار)، تأثیر
@@ -798,6 +799,9 @@ Einlass; اِجازهٔ وُرود، ـ دُخول
 - s. in vollem Bewusstsein auf etwas einlassen; با وُقوف به چیزى تَن دادَن
 - lass dich nicht mit ihm ein; سَر به تَنَش نَباش
 - er lässt s. auf nichts ein; او جائى نِمى خوابَد که آب زیرِش بِرَوَد
+einlassen;
+- ich lasse mich nicht auf dich ein; از پَسِت بَر نِمی آیَم
+- jem. einlassen; کِس را وارِد کَردَن
 Einlauf (medizin.); حُقنه، آب ِ اِماله
 einlaufen;
 - einlaufen (Wäsche); آب رَفتَن، تَنگ و کوتاه شُدَن
@@ -912,7 +916,7 @@ einpferchen; چَپاندَن
 - sie war in einem engen Kleid eingepfercht; بَدَنِش دَر لِباس تَنگ اُفتاده
 einpflanzen;
 - jem. etwas einpflanzen; چیزى را دَر کِسى نِشاندَن
-einprägen; (s. -) ذِهنى کَردَن
+einprägen (s. -); ذِهنى کَردَن
 - jem. etwas einprägen; چیزى را به کِسى خَرفَهم کَردَن، ـ تَلقین ک.، دَر ذِهن کِسى جایگیر ک.، اِصرار ک.، ـ مُؤکَد دادَن
 - s. im Gedächtnis einprägen; دَر یاد ِ آدَم نَقش بَستن، ـ زَدَن
 - s. das Thema einprägen; مَطلَب را مَلَکه کَردَن، ـ دَر خاطِر خوب ضَبط کَردَن
@@ -3630,6 +3634,8 @@ Euklid; اُقلیدُس
 Eule; بوف، بوم، جُغد
 - Eulen nach Athen tragen; زیره به کِرمان بُردَن، قَطره به دَریا زَدَن، آب به آبادانی می رَوَد ، تِشنِگی بَر شِبع و سیری دَلیل کُنَد
 Eunuch; خایه کِشیده، اَخته، خَصى، خواجهٔ حَرَمسَرا
+euphemisch;
+- euphemischer Ausdruck; لَفاظ ِ مُثبَت و با حُسن ِ تَعَبیر (به مَعنی ِ ماست مالی کَردَن)
 Euphorie; وَجد و طَرَب
 euphorisch; حالَت ِ وَجد
 Euphrat; رافِد، فُرات
@@ -3703,7 +3709,7 @@ Exhibitionist; عُریانگَر
 exhibitionistisch; عُریانگِرا
 Exhumierung; اِخراج ِ مُرده از قَبر
 Exil; تَبعید، جَلاء ِ وَطَن
-- ins Exil gehen; .جَلاى ِ وَطَن کَردَن، وَطَن رَها ک
+- ins Exil gehen; جَلاى ِ وَطَن کَردَن، وَطَن رَها ک.
 Exilpolitiker; سیاسَتمَدار ِ تَبعیدى
 existent; موجود، بَرجا، کائِن
 Existentialismus; اِصالَت ِ وُجود، فَلسَفهٔ اِگزیستانسیالیستى

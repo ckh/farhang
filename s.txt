@@ -28,12 +28,12 @@ sachgemäss;
 - sachgemäss mit etwas umgehen; دَر این مورِد کارشِناس بودَن، ماهِرانه عَمَل کَردَن
 Sachkenner (m); خِبره، کارشِناس، مُتَخصِص
 sachkundig; ماهِر، مُتَخَصِص
-sächlich; ‌ ‌‌‌ ٰخُنثی
 sachlich;
 - ruhig und sachlich sagte er ...; به آرامى و مَتانَت گُفت
 - sachliche Kritik; اِنتِقاد ِ عِینى
 - sachlicher Mensch; آدَم ِ کاربُر
 - sachlicher Zusammenhang; اِرتِباط ِ موضوعى
+sächlich; ‌ ‌‌‌ ٰخُنثی
 Sachliteratur (f); کُتُب ِ مَرجَع
 Sachschaden (m); خِسارَت ِ مادى
 sachte;
@@ -60,11 +60,12 @@ saftig; آبدار، آباَمبو
 Saftigkeit (f); طَرافَت
 saftlos;
 - saft- & kraftlos; سَخیف
-Sage (f); اَفسانه
 Säge (f); اَره
 - Laubsäge; اَره موئى
+Sage (f); اَفسانه
 Sägemehl (n); خاک ِ اَره
 - frisches Sägemehl; خاک ِ اَرهٔ تازه
+sägen; اَره کَردَن
 sagen; (präs.) (عَرض کَردَن، گُفتَن (مى گويَد
 - nichts sagen; سُکوت کَردَن
 - er sagte kein Wort; او لاکَلام حَرف نِمى زَد، او سُکوت کَرد
@@ -94,7 +95,6 @@ sagen; (präs.) (عَرض کَردَن، گُفتَن (مى گويَد
 - unbeabsichtigt habe ich etwas gesagt; مَنَم از دَهَنَم دَر رَفت
 - Gesagt, getan; گُفته و کَرده
 - diejenigen, die das Sagen haben; آنانى که بَر سَریر ِ قُدرَت هَستَند
-sägen; اَره کَردَن
 sagenhaft;
 - sagenhafter Reichtum; ثِروَت ِ عَجیب
 - sagenhaft schöner Teppich; قالى ِ عَبقَرى
@@ -255,9 +255,9 @@ Sauerstoff; اُکسیژِن
 Sauerstoffzelt; چادُر ِ اُکسیژِن
 Sauerteig; خَمیر ِ تُرش، مایهٔ خَمیر
 Säufer; جام باز، دُرد کِش، شارِب، خَراباتى
+säugen; شیر دادَن
 saugen; (präs.) مَکیدَن (مى میکَد)، مَص کَردَن
 - aufsaugen; نَشف کَردَن
-säugen; شیر دادَن
 Sauger; پِستانَک
 Säugetier; حِیوان ِ پِستاندار
 Saugkraft; نیرو با فِشار ِ مَنفى
@@ -627,11 +627,11 @@ scherzen; شوخى کَردَن
 - (negativ) scherzen; هَزل گوئى کَردَن
 - er scherzt mit jem.; سَر بِسَر ِ کِسى مى گُذارَد، با کِسى شوخى مى کُنَد
 Scherzo; رِنگ
+Scheu; حُجب
 scheu; سَربِزیر، کَمرو، کِناره گیر
 - scheu (Tier); رَمو
 - scheu blicken; با چِشمهاى ِ رَمَنده نِگاه کَردَن
 - arbeitsscheu; نِفرَت از کار
-Scheu; حُجب
 scheuen;
 - scheuen (Pferd); رَم کَردَن
 - er scheut s. vor keiner Arbeit; او از هیچ کارى روگَردان نِمى شَوَد، از هیچ کاری نمى تَرسَد
@@ -815,7 +815,7 @@ schlafen; خوابیدَن، خُسبیدَن
 - schlaf gut!; بِراى ِ کِسى آرِزوى ِ خواب ِ خوش کَردَن، شَب بِخِیر، شَبِت ـ
 - s. schlafend stellen; تَناوُم کَردَن
 schlaff; نَرم و لول، سُست، شُل، شُل و وِل، بى حال و وَررَفته
-- das Hemd hängt schlaff an ihm herab; پیراهَن به تَنِش زار مى زَنَد
+- das Hemd hängt schlaff an ihm herab; پیراهَن به تَنِش زار مى زَنَد، چُل
 Schlaffheit; رِخوَت، سُستى
 Schlaffi; اَمرَد، شوشو
 Schlaflied; لالایی
@@ -1188,6 +1188,7 @@ Schmuggel; قاچاق
 schmuggeln; قاچاق کَردَن
 Schmuggelware; اَجناس ِ قاچَاق
 Schmuggler; قاچاقچى
+Schmusekissen; نازبالِش
 schmusen; .ناز کَردَن، ناز و نَوازِش ک
 Schmutz; رِجاسَت، کِثافَت
 schmutzabweisend (Farbe); رَنگ ِ چرک تاب
@@ -1300,7 +1301,9 @@ Schnurrbart; سِبیل، شارِب
 schnurren (bes. bei Katzen); خُره زَدَن
 Schock; شوک
 - Elektroschock; شوک ِ بَرقى
-schockieren; .شُکه کَردَن، شوکه ک
+schocken;
+- schocken (jem.-); کِسی را تَرساندَن، شُکه ک.، شوک ک.
+schockieren; شُکه کَردَن، شوک ک.
 - ich bin schockiert; جا خوردَم، يَکه خ.، شُکه شُدَم
 - ich war echt geschockt; مَن پاک واخوردَم
 Schöffe; عُضو ِ هَیئَت ِ مُنصِفه
@@ -1308,15 +1311,15 @@ Schokolade; شُکُلات
 Scholle;
 - Scholle, Fischart; ماهى ِ پَهن
 - Scholle, Acker; زَمین
+schon;
+- ich habe das schon mal gehört; اینرا شِنیده بودَم
+- wenn schon, denn schon; یا رو میرَم یا زَنگى ِ زَنگ
+- was ist schon dabei?; مَگه چى شُده؟
 schön; زیبا، قَشَنگ
 - s. schön machen; .زیوَر دادَن، زینَت د
 - hier ist es schön warm; اینجا خوب گَرم است
 - jedes Mal, wenn ich dich sehe, bist du schöner als das Mal vorher (Sadi); هَر نوبَتَم که دَر نَظَر اى ماه بُگذَرى بار ِ دُوُم ز ِ بار ِ نَخُستین نیکوتَرى
 - Schöne Künste; صَنايِع ِ مُستَظرِفه، صَنايِع ِ ظَریف
-schon;
-- ich habe das schon mal gehört; اینرا شِنیده بودَم
-- wenn schon, denn schon; یا رو میرَم یا زَنگى ِ زَنگ
-- was ist schon dabei?; مَگه چى شُده؟
 Schonbezug; روکِش، سَرپوشیده، کاپوت
 schonen; بَر کِسى تَرَحُم کَردَن، کِسى را دَریغ کَردَن، بَر کِسى شَفَقَت داشتَن
 - schone meiner!; بَر مَن شَفَقَت فَرما
@@ -1402,7 +1405,7 @@ schrecklich; مَخوف، تَرس آوَر، سَهمناک
 - er ist schrecklich ungebildet; او به حَد ِ وَحشت انگیز بیسَواد است
 - schreckliche Nachrichten; اِطِلاعات ِ دِلهُره اَنگیز
 - schrecklicher Gesichtszug; صورَت ِ مَخوف
-Schrei; فَریاد
+Schrei; فَریاد، جیغ
 - entsetzlicher Schrei; فَریاد ِ هَراس آوَر
 - Schrei ausstossen; نَعره کِشیدَن، صَحیه زَدَن
 schreiben; کِتابَت کَردَن، نِوِشتَن، مَرقوم فَرمودَن، لَفظ را به قَلَم آوَردَن
@@ -1805,8 +1808,10 @@ Schwert; شَمشیر، قَمِچیل
 - steck dein Schwert weg; شَمشیرَت را غَلاف کُن
 Schwertfisch; اَره ماهى
 Schwertschaft; مُؤَخَر ِ نِیزه
-Schwester; (pl.) اُخت (اَخوات)، خواهَر
+Schwester;
+- Schwester (pl.); اُخت (اَخوات)، خواهَر
 - Schwester (familiär, in der Anrede); آبجی
+- die große Schwester sein; خاهَری کَردَن
 Schwiegereltern; والِدِین ِ هَمسَر
 Schwiegermutter; مادَر زَن، - شوهَر
 Schwiegersohn; داماد
@@ -1917,14 +1922,17 @@ Segel; باد بان، شِراع
 - Segel hissen; باد بان کِشیدَن، شِراع ک.، شِراع گُذاشتَن
 - aufgeblähte Segel; باد بان ِ وَرَم کَرده
 Segelmast; دَگَل
-segeln; با قايِق ِ بادبانى سَفَر کَردَن
+segeln; با قايِق ِ بادبانى سَفَر کَردَن، قایِقرانی کَردَن
+- Segeln (f); قایِقرانی (کِشتی ِ باد بانی)
 Segelschiff; کِشتى ِ باد بانى
 Segeltuch; کَرباس
 Segeltuchschuhe; کَفشهاى ِ بَرزَنتى
+Segelwettbewerb; مُسابِقۀ قایِق ِ باد بانی
 Segen; بَرَکَت
 - zum Segen von ...; به يَمن ِ کِسى
 - an Gottes Segen ist alles gelegen; هَر چه خدا خواست هَمان شُد هَر چه دِلَم خواست نَه آن شُد
 - mit Segenswünschen; با سَلام و صَلَوات
+Segler; قایِقران (کِشتی ِ باد بانی)
 Segment; بَخش، قَطِعه
 segmentieren; .قَطِعه قَطِعه کَردَن، بَند بَند ک
 Segmentierung; بَند بَند بودَن، تَقسیم بَندى
@@ -2007,7 +2015,6 @@ sein (*:bin, ist, war); بودَن
 seine;
 - das ist sein Auto; این ماشین مال ِ اوست
 - ... zu holen, war seine Aufgabe; آوَردَن ِ ... با او بود
-seine Kleidung aus längst vergangenen Tagen; لِباسی که یادگِار ِ روزهای ِ دَریانَوَردی اَش بود
 seinerseits;
 - er seinerseits reagierte auf die Schläge; او مُتَقابِلاً ضَربه هارا جَواب داد
 seinesgleichen;
@@ -2343,6 +2350,7 @@ Silbe; هِجا، سیلاب
 - mehrsilbig; چند هِجائى
 Silber; نُقره
 Silberschmiedearbeit; نُقره کارى
+Silikon; سیلیکون
 Silo; اَنبار ِغَلات، ـ عَلَف
 simplifizieren; .خَرفَهم کَردَن، ساده ک
 Sims; رَف جِلوى ِ پَنجَره
@@ -2357,7 +2365,9 @@ singen; تَرَنُم نِمودَن، سُرود خواندَن
 - singen (auch vor Gericht); جیک زَدَن
 - schräg singen; خارِج خواندَن
 - sang - und klanglos; بى ساز و آواز
-Singular; فَرد
+Singular; مُفرِد
+Singularität;
+- Singularität (astrophysikal.); تَکینِگی
 sinken;
 - das Barometer sinkt; هَواسَنج دارَد نُزول مى کُنَد
 - sein Mut sinkt; جُرأتَش رو به کاستى مى اُفتَد
@@ -2732,6 +2742,9 @@ Spass;
 - Spaß beiseite; از شوخى گُذَشته
 - er versteht keinen Spaß; شوخى سَرَش نِمى شَوَد
 - Spaß und gute Laune; عَیاشى و خوش گُذَرانى
+Spaß; شادی، خوشی، شوخی
+- viel Spaß; خوش باشید
+- Spaß beiseite; شوخی به کِنار
 spaßen; شوخی کَردَن
 - als ob es mit ihm spaßen würde; اِنگار که با او شوخى مى کُنَد
 spaßig; مُتَفَنُن، شوخى
@@ -2742,6 +2755,8 @@ spät;
 - wie spät ist es?; ساعَت چَند است؟
 - Lieber zu spät, als nie; دیر آى و دُرُست آى
 - wenn ich schon zu spät komme, dann wenigstens nicht mit leeren Händen; اَگَر دیر آمَدَم شیر آمَدَم
+- bist du zu spät?; دیزِت شُده؟
+- komm nicht zu spät; دیر نَکُنی
 Spaten; بیل
 später; مِنبَعد، بَعداً
 - früher oder später ...; این دَم آن دَم است که
@@ -2863,6 +2878,7 @@ Spielautomat; دَستگاه ِ بُرد و باخت
 Spielcasino; کازینو، قُمار خانه
 spielen; بازى کَردَن
 - am Strand spielen; ماسه بازی کَردَن
+- da spiele ich nicht mit; مَن گَندکاری نِمی کُنَم
 Spieler; قُمار باز
 - Spieler (Sport); بازیکُن، بَزیگَر، وَرزِشکار
 Spielkarte; وَرَق ِ گَنجَفه، وَرَق بازى
@@ -3005,6 +3021,111 @@ Spreu; خُرده های ِ باقیماندهٔ غَله
 - die Spreu vom Weizen nicht trennen; خُشک و تَر را با هَم سوزاندَن
 Sprichwort; ضَرب اُلمَثَل
 - Gebrauch eines Sprichwortes (in einem Vers); اِرسال ِ مَثَل
+Sprichworte "a";
+- Der Apfel fällt nicht weit vom Stamm; عاقِبَت ِ گُرگ زاده گُرگ شَوَد، گَرچه با آدمَى بُزُرگ شَوَد
+- In den sauren Apfel beißen; به چیزی قَناعَت کَردَن
+- Äpfel mit Birnen vergleichen; تَلافی ِ غوره را سَر ِ کوره دَر آوَردَن
+- Einer, der 1000 Sachen anfängt, aber nichts zu Ende bringt; آدم هزار کاره کم مایه است
+- Paß auf dich auf; آسه بُرو آسه بیا که گُربه شاخَت نَزَنه
+- Arm wie eine Kirchenmaus; از بی کَفنی زِنده ایم
+- Die Arbeit war für die Katz`; اَنگور ِ خوب نَصیب ِ شُغال می شَوَد
+- Das ist abgehakt; بایَد گُذاشت دَر کوزه آبِش را خورد
+- Die Absicht war gut, das Ergebnis jedoch nicht; بَچه سَر ِ راهی بَرداشتَم پِسَرَم شَوَد آقا بالا ِ سَرَم شُد
+- Ständig Ausflücht suchen; به شُتُر مُرغ گُفتَند : بار بِبَر , گُفت : مُرغَم . گُفتَند بِپَر , گُفت : شُتُرَم
+Sprichworte "b";
+- Brüderlich geteilt; بَرادَری  بَرابَری
+- Bodenhaftung verlieren; آب که سَر بالا بِره, قورباغه اَبوعَطا می خونه
+- Auf den kannst du nicht bauen; آب از او گرم نمیشه
+- Das beißt sich; آتَش و پَنبه
+- Der Besitzlose ist ungebunden; اِجاره نِشین خوش نِشینه
+- Gut betucht sein; آب دَر جوی داشتَن
+- Bildung ist das größte Kapital; اَدَب بُزُرگتَرین سَرمایه است
+- Ich bekam genau das, was ich nicht wollte; از هَرچه بَدَم آمَد بَر سَرَم آمَد
+- Dicke Backen machen; باد دَر کُلاه اَفکَندَن
+- Alles geht den Bach runter; بَند را آب بُرد
+- Etwas behaupten, was nicht stimmt; بی اَبر باران کَردَن
+Sprichworte "d";
+- Nurt wer bereit ist, zu dienen, kann auch herrschen; آدَم تا کوچِکی نَکُنه به   بُزُرگی نِمیرِسه
+Sprichworte "e";
+- Voller Einsatz lohnt sich; از خِرس موی کَندَن غَنیمَتِه
+Sprichworte "f";
+- Zu einem Freund hält man; با کِسی که عَلی گُفت عُمَر نِمی گویَد
+Sprichworte "g";
+- Der läßt nicht von seinen Gewohnheiten; توبۀ گُرگ مَرگ است
+- Das Gras wachsen hören; آب را زیر ِ هَفت طَبَقهٔ زمین می بینَد
+- Gewalt hat nicht das letzte Wort; ظلِم عاقِبَت نَداره
+- Der Gewalttäter stirbt durch sein eigenes Schwert; ظالِم پای ِ دیوار ِ خودِشو می کَنه
+- Von einem Geizhals Geld zu kriegen, ist was besonderes; از خِرس موی کَندَن غَنیمَته
+- Das Geschöpf ist ein Hinweis auf den Schöpfer; اَگَر نَخوردیم نان ِ گَندُم وَلی دیدیم دَست ِ مَردُم
+- Der Typ ist nicht zu genießen; او را با صَد مَن شِکَر هَم نِمی تَوان خورد
+- Der Himmel hat überall die gleiche Farbe; به هَرکُجا که رَوی آسِمان هَم هَمین رَنگ است
+- Rausgeworfenes Geld; پول عَلَف ِ خِرس است
+- Morgenstund´ hat Gold im Mund; سَحَر خیز باش تا کامرَوا گَردى
+- Es ist nicht alles Gold, was glänzt; گِردو گِرد است اَما گِردی گِردو نیست
+Sprichworte "h";
+- Vom Helden zum Feigling ist es manchmal nur ein Schritt; از مَردی تا نامَردی یِک قَدَم است
+- Hochmut kommt vor den Fall; آخَر شاه مَنِشی کاه کِشی است
+- Den Hammer fallen lassen (i.S.: Feierabend); پُشت ِ دَست را داغ کَردَن
+Sprichworte "j";
+- Jammern auf hohem Niveau; آب دَر کوزه و ما تِشنه لَبان می گَردیم
+Sprichworte "k";
+- Große Klappe, nichts dahinter; آفتابة لَگَن هَفت دَست , شام و ناهار هیچی
+- Viele Köche verderben den Brei; آشپَز که دو تا شُد آش یا شور میشه یا بی مَزه
+- Der ist kreditwürdig; بیلِش هِزار مَن آب بَر می دارَد
+Sprichworte "l";
+- Das lohnt sich nicht; آفتابه را خَرج ِ لَحیم کَردَن، آفتابه خَرج ِ لَحیمه
+- Das Leben hat ihn zu dem gemacht, was er heute ist; آنقَدر مار خورده اَفعی شُده
+- Ohne Sinn und Verstand lernen; طوطی وار یاد گِرِفتَن
+Sprichworte "m";
+- Ein Möchtegern (der es aber nicht gebacken kriegt); ظالِم ِ دَست ِ کوتاه ( آدَم ِ مُتَجاوِز و زورگو است   وَلی مّیدان ِ چِنین کاری را نَدارَد )
+- Sie sind so mächtig, dass man nicht mal ihre Hühner vertreibt; به مُرغِشان کیش نِمی شه گُفت
+- Freches Mundwerk haben; پاشنۀ دَهَن را کِشیدَن
+Sprichworte "n";
+- Nicht auf einen gemeinsamen Nenner kommen; آبِشان از یِک جوی نَرَوَد
+- Neid ist die Wurzel allen Übels; اَگَر خواهی اَندوهگین نَباشی , حَسود مَباش
+- Der ist niemand von Nutzen; بَرای ِ مَن آب نَدارَد بَرای ِ تو هَم نان نَدارَد
+- Nackt kommen wir in die Welt, nackt gehen wir von der Welt; بِِرَهنه آمَدیم و بِرَهنه خواهیم رَفت
+- Für sich den größten Nutzen herausholen; پول نَداده , میان ِ لَحاف خوابیده
+Sprichworte "o";
+- Jem. übers Ohr hauen; آب دَر گوش ِ کِسی کَردَن
+- Öl ins Feuer gießen; آتَش با آتَش خاموش نَشَوَد
+Sprichworte "p";
+- Wo ist das Problem?!; آب که از سَر گُذَشت چه یِک وَجِب چه صَد وَجِب
+- Falsche Prioritäten setzen; اَسب را گُم کَرده پِی ِ نَعَلِش می گَردَد
+- Perlen vor die Säue werfen; اَنگور ِ خوب نَصیب ِ شُغال می شَوَد
+- Probieren geht über studieren; اَوَل بِچِش بَعد بِگو بی نَمَکه
+- Alles hat seinen Preis; با پا راه بِری کَفش پاره مي شه، با سَر راه بِری کُلاه
+Sprichworte "r";
+- Reden ist Silber, Schweigen ist Gold; سُخَن اَگَر زَر است سُکوت گوهَر است ، حَرف زَدَن نُقره است حَرف نَزَدَن طَلا ست
+Sprichworte "s";
+- Stillstand ist Tod; آبی که دَر یِک جا مونده می گَنده
+- Seine Begeisterung ist auf Sand gebaut; اَلَکی خوش است
+- Es trifft immer den Schwächeren; بامی از بام ِ ما کوتاهتر نَدیده
+- Stier bei den Hörnern packen; پیشانی ِ پِلِنگ خاریدَن
+- Schwimmen lernt man nur im Wasser; تا به آب نَزَنی شِنا گَر نِمی شَوی
+Sprichworte "t";
+- Tapetenwechsel; آب به آب شُدَن
+- Seine Tricks führen zu nichts; آب از سَرِش گُذَشت
+- In der Theorie alles beherrschen, aber auch nur in der Theorie; آب نِمی بینه وَلی شِناگَر ِ ماهِریه
+- Ein transparenter Typ; ظاهِر و باطِنِش یِکی است
+- Gut betucht sein; آب دَر جوی داشتَََن
+- Der Tod (i.S. von: Angst vor Gott) hindert die Menschen, sich gegenseitig zu töten; اَگَر مُردَن نَبود آدَم آدَم را می خورَد
+- Jeder trickst jeden aus; با هَمه بَلی با مَن هَم بَلی ، با هَمه کَلَک با مَن هَم کَلَک
+- Runter kommen vom Thron; پیاده شو با هَم راه بِرَویم
+- So tun, als ob; پیاز هَم خودِش را داخِل ِ میوه ها کَرده
+Sprichworte "u";
+- Ein undurchsichtiger Typ; پُشت و روش مَعَلوم نیست
+Sprichworte "v";
+- Sich auf leere Versprechungen stützen; تِکیه بَر آب کَردَن
+- Sich bis ans Lebensende jemandem verpflichten; تا هَستَم به ریش ِ تو بَستَم
+Sprichworte "w";
+- Das Wertvolle spricht für sich; طَلا که پاکه, چه مِنَتِش به خاکه
+- Wer gut wirtschaftet, bekommt auch seinen Lohn; آدَم ِ خوش مُعامِله شَریک ِ مال ِ دیگَرانه
+- Wissen schützt vor Verführung; تا اَبلَه دَر جَهان است مُفلِس دَر نِمی مانَد
+- Mit seinem Wissen angeben; تو بِگی  فِ  مَن میگَم فَرَح زاد
+Sprichworte "z";
+- Der hat ganz schön zugelegt (an Umfang); آب زیر ِ پوستِش اُفتاده
+- Mit nichts zufrieden sein; پِی ِ خَر می گَردَد که نَعَلَش را بِکَنَد
 spriessen; جَوانه زَدَن
 Springbrunnen; فَواره
 springen; جَستَن، جَهانیدَن، جَست و خیز کَردَن، پَریدَن
@@ -3035,7 +3156,7 @@ sprudeln;
 - bis das Wasser sprudelnd kocht; تا آب غُلغُل می کُنَد
 Sprudelwasser; آب ِ مَعَدَنی
 sprühen; پاشیدَن
-- Funken sprühen; (infin.) (شَراره ها مى تابَند (تابیدَن
+- Funken sprühen; شَراره ها مى تابَند (تابیدَن) ( .infin)
 Sprühregen; ریز باران، نَم نَم باران مى بارَد
 Sprung; جَست، جَهِش، خیز، پَرِش
 - mit einem Sprung; با يِک خیز
@@ -3236,6 +3357,7 @@ Stapel; توده، کَپه
 stapeln; روى ِ هَم اَنباشتَن، توده کَردَن
 - achtlos stapeln; تَپه تَپه گذاشتَن
 stapfen; به زَحمَت راه رَفتَن
+Staphylokokken; اِستافیلوکُک
 Star;
 - Star (Vogel); سار
 - grauer Star (med.); آب ِ مَروارید
@@ -3392,7 +3514,7 @@ stehlen; به سِرقَت بُردَن، دُزدیدَن، دُزدى کَرد
 - gestohlen; مَسروق؛ دُزد شُده
 - gestohlen werden; به سِرقَت رَفتَن
 - gestohlenes Geld; پولهاى ِ مَسروقه
-steif; سیخ سیخ
+steif; سیخ سیخ، شَق
 Steifheit; شَقى و رَقى
 Steigbügel; رِکاب
 - Steigbügelhalter (auch im übertragenen Sinn); رِکاب دار
@@ -3506,9 +3628,12 @@ stereotyp; يِکنَواخت
 steril; عَقیم، سَتَروَن
 - steril, unpersönlich; خُشک
 Sterilisation; سَتَروَنى، تَعقیم
-Stern; (pl.) (کوکَب (کَواکِب)، سِتاره (سِتارِگان
+Stern;
+- Stern (pl.); کوکَب (کَواکِب)، سِتاره (سِتارِگان)
 - Abendstern; سِتارهٔ مَغرِب، ـ شَبکِش
 - Sternbild des Südens; بُروج ِ جِنوب
+- Sternschnuppe (*: Meteor); شِهاب
+- Sternschnuppenschwarm; پارِش ِ شِهابی
 Sternwarte; رَصَد خانه
 Stethoskop; گوشى ِ طَبى
 stetig; داِئم، مُدام، پِى در پِى
@@ -3530,6 +3655,9 @@ Steuerrad; رُل، فَرمان، غَربیل ِ فَرمان، سُکان
 Steuersystem; نِظام ِ مالیاتى
 Steuerung; کُنترُل، تَنظیم
 Steuerzahler; مالیات بِده
+Steward;
+- Steward, -ess; مِهماندار
+- Steward, Flugbegleiter; مِهماندار ِ هَواپِیما
 Stich;
 - jem. im Stich lassen; کِسى را قال گُذاشتَن، ـ خِذلان کَردَن
 - mit einem Stich von Demokratie; با ضَبَغهٔ دِموکراسى
@@ -3560,7 +3688,7 @@ Stief-;
 - vater; ناپدَرى، پِدَر اَندَر
 - kind; نافَرزَندى، فَرزَند ِ ناتَنى، ـ خوانده، ـ اَندَر
 - sohn; ناپِسَرى، پِسَر اَندَر
-- tochter; (pl.) (نادُختَرى، رَبیب (رَبیبه
+- tochter (pl.); نادُختَرى، رَبیب (رَبیبه)
 Stiefel; چِکمه، پوتین
 - Schnürstiefel; چِکمه هاى ِ بَند دار
 Stiefmütterchen; بَنَفشهٔ فَرَنگى
@@ -3775,11 +3903,11 @@ Stoßseufzer; تِلِنگ دَر رَفتَن
 Stoßstange; سِپَر ِ ماشین
 stoßweise; موج دار
 Stoßzahn; يَشک، دَندان ِ ناب
-Stottern; تِته پِته، لُکنَت ِ زَبان
-- ins Stottern kommen; به تِته پِته اُفتادَن
 stottern; لُکنَت خوردَن، با لُکنَت حَرف زَدَن، کُند زَبان، گِرِفتَن ِ زَبان
 - er stottert; زَبانَش گِرِفته است
 - er stotterte s. was zurecht; ِ از این زَبان بَسته هارا لوله کَرد توى
+Stottern; تِته پِته، لُکنَت ِ زَبان
+- ins Stottern kommen; به تِته پِته اُفتادَن
 stotternd; تِته تِپه کُنان
 - stotternd sagte ich ...; تِته تِپه کَردَم و گُفتَم
 Strafantrag; تَقاضای ِ مُجازات
@@ -3925,6 +4053,7 @@ Strenge; تَشَدُد
 - Strenge walten lassen; سَخت گیرى کَردَن
 strengstens;
 - Das Betreten ist strengstens verboten; وُرود اَکیداً مَمنوع است
+Streptokokken; اِسترِپتوکوک
 Streu; پوشال
 Streubereich; ناحیهٔ اِنحِراف، حوزهٔ تَغییرات
 streuen; (präs.) (پاشیدَن، بیختََن (مى بیزَد
@@ -4005,7 +4134,7 @@ Stuckdecke; سَقف ِ گَچ بُرى
 stückweise; تِکه تِکه
 - stückweise kaufen; کُتره اى خَریدَن
 Stückzahl; تا
-Student; (pl.) دانِشجو، مُحَصِل (مُحَصِلین)، طالِب (طَلاب)، دانِش آموز
+Student; دانِشجو، مُحَصِل (مُحَصِلین)، طالِب (طَلاب)، دانِش آموز (.pl)
 Studentenunruhen; ناآرامى ِ دانِشجویان، اِغتِشاشات ِ ـ
 Studie; مُطالِعه، تَحقیقات
 - Feldstudie; رِساله دَر تَحقیقات ِ مَحَل
@@ -4075,14 +4204,14 @@ stürzen; بَر اَنداختَن، سُقوط کَردَن، اُفتادَن
 - auf jem. losstürzen; به سوى ِ کِسى حَمله کَردَن، بَر سَر ِ کِسى ریختَن
 Stütze; پُشتِوانه، تِکیه گاه
 - Stütze (z.B. für Blumen); چُفت
-stützen;
-- s. auf etwas stützen; به چیزى مُتَمَسِک شُدَن، ـ اِتِکاء کَردَن، ـ تِکیه دادَن
-- die s. stützen auf ...; که مُتَمَسِک به ... هَستَند
 stutzen;
 - er stutzt (*:überraschen); او تَعَجُب کَرد
 - die Flügel stutzen; پَر و بال را قِیچى کَردَن
 - jem. stutzen (in seinem Einfluss); باروت ِ کِسی نَم کِشیدَن
 - jem. zurechtstutzen; کِسى را تا حَد ِ شِش دَر چَهار کوچِک کَردَن
+stützen;
+- s. auf etwas stützen; به چیزى مُتَمَسِک شُدَن، ـ اِتِکاء کَردَن، ـ تِکیه دادَن
+- die s. stützen auf ...; که مُتَمَسِک به ... هَستَند
 Stützholz; چوب ِ حایِل گوشه
 Stützpfeiler; سُتون ِ نِگَهدارَنده
 Stützpunkt; پایگاه
@@ -4192,7 +4321,7 @@ Sympathie; رأفَت، عاطِفه، هَمدِلى، اِنجِذاب، اُ�
 - Sympathie für seine Freunde haben; هَوای ِ دوستهايَش را داشتَن
 Sympathisant; هَواخواه، هَمدِل
 sympathisch; دوست داشتَنی
-sympathisieren; .هَواخواه بودَن، هَمدِل ب
+sympathisieren; هَواخواه بودَن، هَمدِل ب.
 sympathisierend; مُتَمايِل
 Symphonie; سَمفونى
 Symposium; سِمپوزیوم، هَمایِش

@@ -164,13 +164,13 @@ verbergen; .مَستور کَردَن، قاِئم ک.، پِنهان ک.، غِ
 - im Buch sind auch Lügen verborgen; دَر کِتاب هَم دُروغ مُستَتِر هَستَند
 - das, was verborgen ist; نَهانیها
 - aus dem Verborgenen Botschaften empfangen; از عالَم ِ غِیب پِیغامى گِرِفتَن
-verbessern; اِصلاح کَردَن، بِهتَر ک.، بِهبود بَخشیدَن، دَستکاری کَردَن
+verbessern; اِصلاح کَردَن، بِهتَر ک.، بِهبود بَخشیدَن، دَستکاری کَردَن، صَحیح ک.
 - s. verbessern; بِهبود یافتن، بِهتَر شُدَن
-- verbessert werden; .دَستکاری شُدَن، اِصلاح ش
+- verbessert werden; دَستکاری شُدَن، اِصلاح ش.
 - die Lage verbessert s.; وَضع بِهبود مى یابَد
 Verbesserung;
 - Verbesserung der Beziehungen; اِصلاح ِ رَوابِط، تَصحیح ِ ـ
-- Verbesserung der Lage; بِهبود ِ وَضع
+- Verbesserung der Lage; بِهبود ِ وَضع، - بِهساز -
 - durch Verbesserungen umsetzen; چیزى با جَرح و تَعدیل به اِجرا دَر آمَدَن
 - das braucht noch eine kleine Verbesserung (i.S.: Korrektur); دَستکاری می خواهَد
 verbeugen; .کُرنِش کَردَن، تَعظیم ک
@@ -228,6 +228,7 @@ Verblüffung;
 - vor Verblüffung blieb ihnen der Mund offen; اَنگُشت به دَهَن ماندَن
 verblühen; پَژمُرده شُدَن
 verbluten; از شِدَت ِ خونریزى مُردن
+verbocken; سَنبَل کاری کَردَن
 verborgen;
 - verborgen sein (*:verbergen); .نِهُفته بودَن، قائم ب.، نهان ب.، پنهان ب.، مَکنون ب.، مُتَوارى ب
 Verbot; نَهى، ناهیه، مَنع، مُمانَعَت، مَمنوعيَت
@@ -367,8 +368,8 @@ verdreht; مُلتَوى، مارپیچى
 - verdreht werden; مَقلوب از چیزى بودَن
 Verdrehung; پیچِش
 - Verdrehung der Ereignisse; قَلب ِ حَوادث
-- Verdrehung des Textes (diakritische Punkte falsch setzen); (تَصحیف (خُدا : جُدا
-- Verdrehung des Textes durch Umstellung von Buchstaben; تَحریف (رَشک : شُکر
+- Verdrehung des Textes (diakritische Punkte falsch setzen); تَصحیف (خُدا : جُدا)
+- Verdrehung des Textes durch Umstellung von Buchstaben; تَحریف (رَشک : شُکر)
 verdreschen; کُتَک زَدَن، مالِش دادَن
 verdrossen; کَدِر
 - verdrossenes Gesicht (*:mürrisch); چِهرهٔ تاسیده
@@ -538,6 +539,7 @@ vergällen (Laune); مُنَغَص کَردَن
 vergammelt; پوسیده، زِپِرتى، فاسِد
 vergangen; تَمام، گُذَشته
 - vergangene Woche; هَفتهٔ گُذَشته
+- seine Kleidung aus längst vergangenen Tagen; لِباسی که یادگِار ِ روزهای ِ دَریانَوَردی اَش بود
 Vergangenes; سابِقه، پیشینه
 Vergangenheit; گُذَشته، سابِقه
 - Vergangenheit (Grammatik); ماضى، زَمان ِ گُذَشته
@@ -1068,6 +1070,7 @@ vernachlässigen; مُهمَل گُذاشتَن، کِنار گ.، اَهمال 
 - s. selbst vernachlässigen; غافِل از خویش بودَن
 - sie können diese Lektion nicht vernachlässigen; آنها نِمى تَوانَند این دَرس را زیر ِ سَبیل رَد کُنَند
 - sie vernachlässigen das Lernen; آنها از دَرس خواندن مى اُفتَند، ـ صَرف ِ نَظَر مى کُنَند
+- ich habe einiges dir gegenüber vernachlässigt (in Beziehung); یِک کوچولایی دَر حَقِت کوتاه کَردَم
 Vernachlässigung; مُسامِحه، تَساهُل، بى تَوَجُهى، اَهمال، غِفلَت، کوتاهى، تَغافُل
 - bei Vernachlässigung; غافِل از اینکه، با عَدَم رَعايَت، بِدون ِ رِسیدِگى به
 vernageln; میخ زَدَن
@@ -1212,8 +1215,8 @@ Versäumnis; فُروگُذار، مُسامَحه، اِهمال، غَیاب،
 verschaffen; فَراهَم آوَردَن، مُهَیا کَردَن
 - du verschaffst mir nur Arbeit, du machst mir -; تو هَم واسهٔ مَن هَمَش کار دُرُست مى کُنى
 verschalen; روکِش کَردَن
-verschämt; شَرمزَده، از روى ِ خِجالَت، مُنفَعِل بودَن
-Verschämtheit; شَرمزَدِگى، چِشم و رو
+verschämt; شَرمزَده، از روى ِ خِجالَت، مُنفَعِل بودَن، کَمرو ب.
+Verschämtheit; شَرمزَدِگى، چِشم و رو، کَمرویی
 Verschandelung; لوث
 verschanzen (s. -); کَمین کَردَن
 verschärfen;
@@ -1317,8 +1320,6 @@ verschnüren; گِره زَدَن، ـ بَستَن
 - das Paket verschnüren; پاکَت را با بَند بَستَن
 verschollen; مَفقود، گُمگَشته
 Verschollener; غَايِب ِ مَفقود اُلاثَر
-verschönen; .زینَت کَردَن، ارايِش ک
-- Verschönern mit Grünzeug (bei Nouruz); سَبزه گِره زَدَن سیزدَه بِدَر
 verschonen; کِسی را دَریغ کَردَن، بَر کِسی شَفَقَت داشتَن
 - jem. vor den Kosten verschonen; .کِسى را از خَرج دَریغ کَردَن، ـ خوددارى ک
 - verschont (i.S. ausgenommen); مُبَرا
@@ -1326,6 +1327,8 @@ verschonen; کِسی را دَریغ کَردَن، بَر کِسی شَفَقَ
 - der General verschont die Städte nicht; ژِنِرال از اِنحِدام ِ شَهرها صَرف ِ نَظَر نِمى کُنَد
 - du hast ihn nicht verschont um meinetwillen; تو اورا از مَن دَریغ نَداشتى
 - er ist vor Folter nicht verschont geblieben; او از آزار غافِل نَمانده است
+verschönen; .زینَت کَردَن، ارايِش ک
+- Verschönern mit Grünzeug (bei Nouruz); سَبزه گِره زَدَن سیزدَه بِدَر
 Verschonung; خوددارى، دَریع
 - Bitte um Verschonung; اِستِرحام
 verschossen;
@@ -1375,6 +1378,7 @@ verschwörerisch; زَمینه ساز، توطِئه گَر، دَسیسه جو
 - verschwörerische Sache; کار ِ دَسیسه آمیز
 Verschwörung; زَمینه سازى، توطِئه، ساخت و پاخت، دَسیسه
 - Verschwörung gegen ... anzetteln; با ... بَند و بَست کَردَن، ضِد ِ کِسی توطِئه بَر پا کَردَن
+- Verschwörungstheorie; تئوریۀ توطئه
 versehen;
 - jem. mit etwas versehen (z.B. Proviant); چیزی را به کِسی دادَن
 - mit Fehlern versehen (i.S. voller Fehler); مَشوب به خَطا
@@ -1448,11 +1452,12 @@ Versorgungsoffizier; اَفسَر ِ تَدارُکات
 verspachteln; بِتونه کارى کَردَن
 verspannen; .مَهار کَردَن، مُحکَم ک
 Verspannung (im Rückenbereich); (قَلِنج (ـ ِ پُشت، ـ ِ شانه
-verspäten (s. -); تأخیر کَردَن
+verspäten (s. -); تأخیر کَردَن، دیر کَردَن
 - er verspätet s.; دیرِش می شَوَد
 - hast du dich verspätet?; دیرِت شُده ؟
 - etwas verspäten lassen; چیزى را به تأخیر اَنداختَن
 - ich verspäte mich nicht gerne; مَن اَهل ِ تأخیر مُدَت نیستَم
+- verspäte dich nicht; دیر نَکُنی
 Verspätung; تأخیر
 versperren;
 - den Weg versperren; راه را سَد کَردَن، - بَستَن
@@ -1471,7 +1476,8 @@ Versprechen (n); نَوید، وَعَده، قول
 - sich auf leere Versprechungen stützen; تِکیه بَر آب کَردَن
 versprengt; پَراکَنده، تَراوَنده، از هَم پاشیده
 - es gab ein paar Versprengte; تَک و توک بودَند
-Versprochenes; (pl.) (موقوفات، موعود (مَواعید
+Versprochenes;
+- Versprochenes (pl.); موقوفات، موعود (مَواعید)
 verspüren;
 - ich verspüre viel Achtung für Sie; چه اِحتِرام بَراى ِ شُما قائِلَم
 - er verspürt ein Unbehagen; او اِحساس ِ ناآرمى مى کُنَد
@@ -1567,7 +1573,7 @@ verstimmt;
 Verstimmung; کُدورَت
 verstockt;
 - sein Herz ist verstockt; قَلبَش سَخت شُده است
-verstohlen; دُزدَکى، يَواشَکى، زیر چِشمى
+verstohlen; دُزدَکى، يَواشَکى، زیر چِشمى، قاِئمَکی
 - verstohlen gucken; زیر چِشمى نِگاه کَردَن
 verstopft;
 - verstopft sein (z.B. Loch); مَسدود شُدَن، تو گِرِفته
@@ -2200,7 +2206,7 @@ Vorbedingung; پیش شَرط
 Vorbehalt; شَرط، ایراد
 - unter dem Vorbehalt, dass ...; به این شَرط که، به قِید ِ این شَرط که
 - Eigentumsvorbehalt; تَحَفُظ ِ مِلک ِ فُروخته شُده تا پَرداخت ِ بَهاى ِ آن
-vorbehaltlich; ِ به شَرط
+vorbehaltlich; به شَرط ِ
 vorbehaltlos; بِدون ِ قِید و شَرط، بیدَریغ
 Vorbehaltsurteil; حُکم ِ مَشروط
 vorbei;
@@ -2556,6 +2562,7 @@ vorzugsweise; عَلىٰ خُصوص
 Votum; رأی
 - Votum abgeben; رأی دادَن
 - Misstrauensvotum; رأى ِ عَدَم ِ اِعتِماد
+Voyeur; تَماشاگَر ِ جِنسی، وُیِر
 vulgär; مُبتَذَل، رَکیک، بى اَدَب
 Vulkan; کوه ِ آتَش فِشان
 - wie ein Vulkan kurz vor dem Ausbruch (i.S.: erregt); مِثل ِ خِرس ِ تیر خورده

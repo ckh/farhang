@@ -134,9 +134,27 @@ Comics; تَصاویر ِ فَکاهى
 common; sense عَقل ِ سَلیم، مُعتَقِدات ِ عامه
 Computer; کامپیوتر، رایانه
 Computerbegriffe;
-- Animation; اَنیمِیشِن سازى
-- Anwender; کاربَر
-- Anwenderinformationen (z.B.: Adresse, etc.); اِطِلاعات ِ کاربَری
+- Textverarbeitung; مَتن پَرداز
+- Textverarbeitungsprogramm; برنامهٔ واژه گارى، برنامهٔ مَتن پَرداز
+- virtuelle Maschine; ماشین ِ مَجازی
+- Weblog; وِبلاگ
+- Web-Site; سایت
+- Windows; ویندوز
+- Online sein; روی ِ خَط بودَن
+- e-Mail-Adresse; رایانِشانی، نِشانی ِ پُست ِ اِلِکترونیکی
+- einloggen; وُرود به سایت
+- Forum; تالار
+- Oberflächenumgebung (Desktop); مُحیط ِ میزکار
+- log out; خُروج از سایت
+- Messenger; پِیام رِسان
+- Mikroprozessor; ریزپَرداز
+- Modem; مودِم
+- Monitor; مانیتور
+- Multitasking; سیستِم ِ چَند تَکلیفى
+- Nachrichtensofortversand (Instant Messaging "IM"); پِیام رِسان ِ فوری
+- Netzwerkumgebung; شَبَکه اِرتِباطى
+- Textbearbeitung; ویرایِش
+- Zielordner; پوشهٔ مَقصَد
 - Auflösung (beim Monitor); تَفکیک پَذیرى ِ مانیتور
 - bearbeiten (z.B. kopieren, verschieben); ویرایِش کردن
 - Betriebssystem (z.B. Linux); سیستِم ِ عامِل
@@ -146,7 +164,7 @@ Computerbegriffe;
 - Buchstabenattribute:; خُصوصیات ِ حُروف: fett حُروف ِ ضَخیم, gedehnt حُروف ِ پَهن, hochgestellt حُروف ِ بالا نِویس, kursiv حُروف ِ کَج, normal حُروف ِ مَعَمولى, Outline حُروف ِ تو خالى, schattiert حُروف ِ سایه دار, tiefgestellt حُروف ِ زیر نِویس, unterstrichen حُروف ِ زیر خَطى
 - Chat; چَت
 - Cursor; مَکان نَما
-- Client; کارخاه
+- Lernplattform; سیستِم ِ مدیریَت ِ یادگیری
 - Datei; پَروَندهٔ رایانه، فایل
 - Datenbank; بانک ِ داده ها، بانک ِ اِطِلاعاتی
 - Datenschutz; حِفاظَت ِ اطِلاعات
@@ -154,29 +172,19 @@ Computerbegriffe;
 - Diktiersoftware; پَردازِش ِ گُفتار
 - Drucker; چاپگَر
 - e-Mail; رایانامه، ای‌مِیل
-- e-Mail-Adresse; رایانِشانی، نِشانی ِ پُست ِ اِلِکترونیکی
-- einloggen; وُرود به سایت
+- e-Learning; آموزِش بَر خَط
 - Einstellungen (z.B. Uhr, Farbe, etc.); تَنظیمات
-- Forum; تالار
+- Oberfläche (z.B. KDE); میز کار
 - Grafikprogramm; بَرنامهٔ طَراحى
 - Hardware; اَبزار ِ سَخت؛ سِفت اَبزار
 - Implementierung von Software; پیاده سازی ِ نَرم اَفزار
 - Installation; نَصب
 - Internet; شَبَکه اینتِرنِت
-- entsprechender Knopf (z.B. bei ein Softwareinstallation); دُکمهٔ مُرورگَر
-- Lernplattform; سیستِم ِ مدیریَت ِ یادگیری
-- log in; وُرود به سایت
-- log out; خُروج از سایت
-- Messenger; پِیام رِسان
-- Mikroprozessor; ریزپَرداز
-- Modem; مودِم
-- Monitor; مانیتور
-- Multitasking; سیستِم ِ چَند تَکلیفى
-- Nachrichtensofortversand (Instant Messaging "IM"); پِیام رِسان ِ فوری
-- Netzwerkumgebung; شَبَکه اِرتِباطى
+- entsprechender Knopf (z.B. bei einer Softwareinstallation); دُکمهٔ مُرورگَر
 - Ordner; پوشه
 - Installationsordner; پوشهٔ نَصب
-- Zielordner; پوشهٔ مَقصَد
+- Anwenderinformationen (z.B.: Adresse, etc.); اِطِلاعات ِ کاربَری
+- log in; وُرود به سایت
 - Passwort; رَمز ِ وُرود
 - public domain; مالِکیَت ِ عُمومی
 - Seitengestaltung; صَفحه آرائى
@@ -184,13 +192,11 @@ Computerbegriffe;
 - Server; سِروِر، کارساز، خادِم
 - Software; اَبزار ِ نَرم، نَرم اَبزار
 - Suchmaschine; جُستِجوگَر
-- Textbearbeitung; ویرایِش
-- Textverarbeitung; مَتن پَرداز
-- Textverarbeitungsprogramm; برنامهٔ واژه گارى، برنامهٔ مَتن پَرداز
-- virtuelle Maschine; ماشین ِ مَجازی
-- Weblog; وِبلاگ
-- Web-Site; سایت
-- Windows; ویندوز
+- Animation; اَنیمِیشِن سازى
+- Anwender; کاربَر
+- Client; کارخاه
+- Upload (uploaden); بارگُذاری (کَردَن)، آپلود
+- Download (downloaden); بارگیری (کَردَن)، دانلود
 Coniferen; دِرَحت ِ سوزَنی ِ بَرگ، دِرَحت ِ کاجی
 contra; ِ ضِد ِ، بَر خَلاف
 cool;

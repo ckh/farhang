@@ -50,7 +50,7 @@ tagsüber; دَر طِى ِ روز
 Tagträumerei; سوداهای ِ خام
 - Tagträumereien nachgehen; سوداهاى ِ خام پُختَن
 Tagundnachtgleiche; تَساوى ِ لِیل و نَهار
-Tagung; کُنفِرانس
+Tagung; کُنفِرانس، هَمایِش
 Taille; کَمَر
 Takelage; وَسائِل بَراى ِ اَفراشتَن ِ باد بان
 Takt;
@@ -182,10 +182,10 @@ taub; کَر، صُم
 Taube; کَبوتَر، کَفتَر، فاخته
 Taubenschlag; کَبوتَر خانه، چَخ
 taubstumm; (sommon-bokm) گُنگ و کَر، کَر و لال، صُم بُکم
-Tauchen; (n) غوطه، غوص، غَواصى
 tauchen; غوطه خوردَن، ـ زَدَن، غوطه وَر شُدَن
 - abtauchen; .شیرجه رَفتَن، با کَله زیر ِ آب ر
 - abtauchen, fliehen; دَر رَفتَن
+Tauchen; (n) غوطه، غوص، غَواصى
 Taucher; غوطه وَر، غَواص
 Taucheranzug; لِباس ِ غَواصى
 Tauchlack; لاک ِ غوطه اى
@@ -219,7 +219,8 @@ Täuschungsmanöver; مانوِر ِ اِنحِرافى
 tausend; هِزار
 Tausendfüssler; هِزارپا
 Tausendsassa; آدَم مِثل ِ دیزی ِ هَر کاره هِزاز کار از او می آيَد
-Tauwetter; (polit.) جَوّ ِ مُناسِب ِ سیاسى
+Tauwetter;
+- Tauwetter (polit.); جَوّ ِ مُناسِب ِ سیاسى
 Tauziehen; کِشمَکِش
 taxieren; قِیمَت گُذارى شُدَن
 - etwas finanziell taxieren, einschätzen; چیزى را قِیمَت گُذارى کَردَن
@@ -394,9 +395,11 @@ Theater; تِأتر، نَمايِش ِ ـ
 theatralisch; تیاترال
 Theismus; اِعتِقاد به خُدا
 Theke; پیش خوان
-Thema; (pl.) (موضوع (موضوعات)، مَطلَب (مَطالِب
+Thema;
+- Thema (pl.); موضوع (موضوعات)، مَطلَب (مَطالِب)
 - war in seinem Leben noch kein Thema; دَر زِندِگى ِ او رِخنه نَکَرده بود
 - das Thema wechseln; حَرف توی ِ حَرف آمَدَن، حَرف را کِشیدَن به
+- Schüchternheit als Thema; کَمرویی مَقوله ای است که
 Theologe; اُستاد ِ اُلَهیات
 Theologie; رِشتهٔ اِلَهيَت
 theologisch; اِلَهی
@@ -410,6 +413,9 @@ Theorie; نَظَریه، تِئورى
 - in der Theorie alles beherrschen, aber auch nur in der Theorie; آب نِمی بینه وَلی شِناگَر ِ ماهِریه
 Therapeut; دَرمان شِناس
 therapeutisch; دَرمانى
+Therapie; دَرمان
+- Therapiezentrum; مَرکَز ِ دَرمانی
+- Schmerztherapie; دَرمان ِ دَردها
 Thermalquelle; سَرچِشمهٔ آب ِ مَعدَنى
 thermisch; حَرارَتى، گَرمائى
 Thermometer; گَرماسَنج، دَماسَنج
@@ -448,7 +454,7 @@ Tiefbau; بَناهاى ِ زیرزَمینى
 Tiefdruck; فِشار ِ جَوى ِ کَم
 Tiefe; عُمق، اَعماق، گودى، ژَرفا
 - in der Tiefe des Geistes; دَر ژَرفاى ِ روح
-- Tiefe des Seins; (kohn-e-...) کنه ذات
+- Tiefe des Seins (kohn-e-...); کنه ذات
 Tiefenmessung; عُمق سَنجى
 Tiefgang; آب نِشین
 Tieflader; تریلِر بَراى ِ بار سَنگین
@@ -537,7 +543,8 @@ Toilette; (dari) مُستَراح، (تِشناب)، توالِت
 - Toilette machen; آرايِش کَردَن
 - jedesmal, wenn er zur Toilette muss, soll er es sagen (bei Kindern); هَر وَفت که جیش دارَد بايَد بِگويَد
 tolerant; با مُدارا، با گُذَشت، بُردبار
-Toleranz; مُدارا، بُردبارى
+Toleranz; مُدارا، بُردبارى، تَساهُل
+- Toleranz üben; تَساهُل داشتَن با ...
 tolerieren; تَحَمُل کَردَن
 toll; بَدیع، عالى
 - toll (unter Jugendlichen, ansonst iron.); دَمِت گَرم
@@ -637,10 +644,10 @@ traditionell; سُنَتى
 tragbar;
 - tragbar (als Gewicht); دَستى، قابِل ِ حَمل
 - tragbar (z.B. Kleidung); قابِل ِ پوشیدَن
-Trage; زَنبه، تَخت ِ رَوان
 träge; تَنبَل، بیحال
 - sie sind sehr träge; آنها خِیلى خُمود هَستَند
 - ein träger Typ; آدَم ِ ناکار
+Trage; زَنبه، تَخت ِ رَوان
 tragen; حَمل کَردَن، بُردَن
 - bequem zu tragen; خوش بار
 Träger; حامِل
@@ -766,6 +773,8 @@ Traute; جُرأت، شُجاعَت
 - ich hatte keine Traute; دِل توی ِ دِلَم نَبود
 Trauung; عَهد ِ نِکاح، اِزدِواج، عَقد، اِنکاح
 Traverse; تیر ِ مُتَقاطِع، تراوِرس
+Treffen; (n) بَرخورد، مُلاقات
+- ein gemütliches Treffen; گِردِهَمائى ِ خودِمانى
 treffen;
 - jem. treffen; کِسى را مُلاقات کَردَن، ـ بَرخورد ک.، با کِسى دیدار ک.، به دیدَن ِ کِسى رَفتَن
 - nicht treffen (z.B. ein Ziel); تیرَش به سَنگ مى خورد
@@ -777,8 +786,6 @@ treffen;
 - du hast nicht getroffen; جا خالى زَدى، نِشانه نَزَدى
 - das trifft ihn, das sitzt; بَر او کارگَر مى افتَد
 - für einen Augenblick trafen s. unsere Blicke; نِگاهِمان يِک لَحظه به هَم اُفتاد
-Treffen; (n) بَرخورد، مُلاقات
-- ein gemütliches Treffen; گِردِهَمائى ِ خودِمانى
 treffend;
 - er machte folgende treffende Bemerkung über ihn; او کَلَمات ِ قِصار ِ زیررا بَر زَبان آوَرد
 - treffendes Urteil; رأى ِ صائِب
@@ -868,7 +875,7 @@ triftig; مُوَجَه، قانِع کُنَنده
 Trigonometrie; مُثَلَثات
 Trikotage; کِش بافى
 Trikotwäsche; لِباس ِ کِش باف
-Trinität; تَثليَث، ثالوث، تَثلیس
+Trinität; تَثليَث، ثالوث، تَثلیس، سه یگانِگی
 trinkbar; آشامیدَنى
 trinken; نوشیدَن
 - mit. jem. ein Gläschen trinken; با کِسى دو گیلاس زَدَن
@@ -914,10 +921,10 @@ Trompete; ترُمپِت
 Tropen; نَواحى ِ گَرمسیر
 Tropf; (med.) سُرُم
 - ein armer Tropf; آدَم ِ کَم عَقل
-tropfen; چِکیدَن، تَراویدَن
-- abgetropfter Quark; ماست ِ چِکیده
 Tropfen; (m) قَطره، چِکه
 - bis zum letzten Tropfen; لاجُرعِه
+tropfen; چِکیدَن، تَراویدَن
+- abgetropfter Quark; ماست ِ چِکیده
 tropfenweise; قَطره قَطره، چِکه چِکه
 Trophäe; (pl.) (غَنیمَت (غَنائِم
 - Kriegstrophäe; غَنايِم ِ جَنگ
@@ -988,7 +995,7 @@ tugendhaft; صالحِانه
 Tugendhaftigkeit; فَضیلَت
 Tulpe; گُل ِ لاله
 Tümpel; آبگیر، بِرکه
-Tumult; کِشمَکِش
+Tumult; کِشمَکِش، غوغا
 - wegen Tumult; از داد و بیداد، از کِشمَکِش
 - nächtlicher Tumult; آشوب ِ شبانگاهى، گیر و دار ِ ـ
 - er fängt den grossen Tumult an; هَنگامه را به راه مى اَندازَد

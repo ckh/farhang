@@ -139,6 +139,8 @@ Hälfte; نِصف، نیم
 Halfter; خِطام، عِنان، لِگام، مَهار، قیاد
 Halle; تالار
 - selbsttragende Halle; سوله
+hallo; دُرود
+- hallo und tschüß!; دُرود و بِدُرود
 Halluzinose; تَوَهُم زَدِگى
 Halm; ساقه
 - Strohhalm; کاه
@@ -214,6 +216,7 @@ Hammer; چَکُش
 hämmern; چَکُش زَدَن
 Hammerwerfen; پَرتاب ِ چَکُش
 Hämorrhoiden; بَواسیر
+Hämostase; اِنِعقاد ِ خون، هِموستاز، خون ایستی
 Hand; دَست
 - , ... das er in der Hand hatte; که دَستَش اُفتاده بود
 - rechte Hand, Arbeitshand; یَمین، یُمنى، دَست ِ راست
@@ -242,13 +245,13 @@ Handbremse; تُرمُز ِ دَستى
 Handbuch; رَوال ِ کارگَردان، طَرز ِ عَمَل ـ، راهنَماى ِ اِستِفاده
 Händedruck; دادَن ِ دَست
 - Händedruck austauschen (z.B. Boxer); مُصافِحِه
-Händel; زَد و خورد
 Handel; داد و سِتَد، بازَرگانى، تِجارَت، مُعامِله، بِیع ِ مُتَقابِل، بِیع و شِراء
 - Handel treiben; مُعامِله کَردَن، داد و سِتَد ک
 - der Handel ist noch nicht perfekt; یَخَش چَندان نَگِرِفته است
 - ihre Wirtschaft hängt vom Handel ab; اِقتِصاد ِ آنها به داد و سِتَد بَستِگى دارد
 - Grosshandel; بُنَکدارى، عُمده فُروشى
 - Einzelhandel; خرده فُروشى، تَکفُروشى
+Händel; زَد و خورد
 handeln; چانه زَدَن
 - er bezahlte, ohne zu handeln; او بی چَک و چانه ... را پَرداخت
 - handeln mit, umgehen mit; عَمَل کَردَن با، رَفتار کَردَن با، عامِل بودَن
@@ -413,14 +416,14 @@ Haudegen; شیرمَرد، یَل
 hauen;
 - in Stein hauen; بَر سَنگ حَک کَردَن
 - in Stein gehauen; بَر سَنگ حَک شُده
-häufen;
-- die Verletzungen häufen s.; مَجروحات روز اَفزون مى شَوَند، ـ زیادتَر مى شَوَند
 Haufen;
 - Haufen machen, aufhäufen; تَل کَردَن
 - bunter Haufen; مَجلِس ِ بِلبِشو
 - sie kamen in Haufen; مِثل ِ مور و مَلَخ هُجوم آوَردَند
 - er hat einen Haufen Geld; او کومه پول دارَد
 - ein Haufen Sägemehl; کُپهٔ خاک ِ اَره
+häufen;
+- die Verletzungen häufen s.; مَجروحات روز اَفزون مى شَوَند، ـ زیادتَر مى شَوَند
 häufig; کَثیر اُلوُقوع، غالِباً
 - häufig muss man ...; به کَرات مَجبوریم
 Häufigkeit; کِثرَت ِ دَفعِات
@@ -777,6 +780,8 @@ hermachen;
 - s. über etwas hermachen; با سَبُعیَت چیزى را کَردَن
 - s. über jem. (etwas) hermachen; به جان ِ کِسى (چیزی) اُفتادَن
 - sie machen s. über das Essen her; آنها سَر گَرم ِ خوردَن میشَوَند، آنها وَلَع ِ خوردَن ِ غَذارا دارَند
+Hermaphroditismus; دو حِنسی بودَن، هِرمافرودیسم
+- Hermaphrodit; آدَم ِ ود جِنسی
 Hermelin; راسو
 hermetisch;
 - der Topf ist hermetisch abgeschlossen; دیگ کیپ است
@@ -996,13 +1001,15 @@ hilflos; بی چاره
 - total hilflos; مَذبوحانه، دَرمانده
 Hilflosigkeit; بی چارِگی
 - in seiner Hilflosigkeit sagte er ...; او که مانده بود چه کُند، گُفت ..، دَر بی چارِگى اَش گُفت
-hilfreich (- sein); کار ساز بودَن، سودمَند ب.، مُفید بودَن
+hilfreich;
+- hilfreich sein; کار ساز بودَن، سودمَند ب.، مُفید ب.، مُساعِد ب.
+- war das hilfreich (z.B. mein Rat); کارساز بود؟
 Hilfsarbeiter; عَمَله
 Hilfsgüter; وَسائِل ِ اِمدادى
 Hilfsorgan; نَهاد ِ کُمَکى، مؤِسِسهٔ اِمدادى
 Hilfswerke; خَدَمات ِ کُمَک رِسانى
 Hilfswissenschaften; دانِشهاى ِ دَخیله
-Himbeere; تَمِشک
+Himbeere; تِمِشک
 Himmel; آسمان
 - Himmel (poes.); گُنباد ِ کَبود
 - Himmel & Erde; عَرش و فَرش
@@ -1304,6 +1311,7 @@ hocken; .چُمباتِمه زَدَن، چُندَک ز
 Höcker (anatom.); زایِده، قوز
 - Kamelhöcker; کوههٔ شُتُر، کوهان ِ ـ
 Hoden; خایه، بِیضه
+- Hodensack; کیسهٔ خایه
 Hof; مُحَوَطه، صَحن، حَیاط
 - einer Frau den Hof machen; با یِک زَن لاس زَدَن
 - Hof des Königs; دَربار ِ پادِشاه
@@ -1506,7 +1514,7 @@ humorvoll; فُکاهى
 humpeln; لَنگیدَن
 Hund; سَگ
 - Jagdhund; یوز
-- jem., der vor die Hunde geht; شَخصى که دَر خانهٔ خَرابى بِسَر مى بَرَد
+- jem., der vor die Hunde geht; شَخصى که دَر خانهٔ خَرابى بِسَر مى بَرَد، کِسی دِق می کُنَد
 - Bekannt, wie ein bunter Hund; گاو ِ پیشانى ِ سِفید
 - Bellende Hunde beissen nicht; از آن نَتَرس که هاى و هو دارَد، از آن بِتَرس که سَر بِتو دارَد
 - Auf den Hund kommen; به صِفر رِسیدَن
@@ -1515,6 +1523,8 @@ Hund; سَگ
 - ich kam mir vor, wie ein geprügelter Hund; به سَگى ِ کُتَک خورده مى مانِستَم
 Hundegekläff; پارس ِ سَگ
 - wie das Hundegekläff bei Mondschein; مانَند ِ پارس ِ سَگ دَر شَب ِ مَهتاب
+Hundeleine; قَلاده
+- goldene Hundeleine (i.S. Göldener Käfig); قَلادۀ طَلا
 hundert; صَد
 Hunderter (mathemat.); مَآت، صَدِگان
 hundertst;
@@ -1537,7 +1547,7 @@ hüpfen; جَست و خیز کَردَن، جَهیدَن
 - sie hüpfen herum wie kleine Kinder; مِثل ِ بَچه ها مَشغول ِ وِرجه و وِرجه اَند
 - beidbeinig hüpfen; جُفت زَدَن
 - hinkend und hüpfend kamen sie an; اُفتان و خیزان به ... رِسیدَند
-- Das ist gehüpft, wie gesprungen; چه عَلى خواجه چه خواجهٔ عَلى
+- Das ist gehüpft, wie gesprungen; چه عَلى خواجه چه خواجه عَلى
 Hürde; (pl.) (مانِع (مَوانِع
 - die letzte parlamentarische Hürde nehmen; از آخَرین مَرحَلهٔ پارلِمانى گُذَشتَن
 Hürdenlauf; دُو با عَوارض

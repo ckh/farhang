@@ -73,6 +73,7 @@ Lage; وَضعيَت، موقِعيَت
 - wenn Ihr Euch in der Lage seht, ...; دَر صورَتی که قابِل می دانید
 - seiner Lage nicht mehr Herr sein; حال و روز ِ خودرا نَفَهمیدَن
 - er ist nicht in der Lage, zu heiraten (z.B. wegen Geldmangel); اِستِطاعَت ِ اِزدِواج نَدارَد
+- s. aus einer misslichen Lage befreien; جُل ِ خود را از آب بیرون کِشیدَن
 Lager; (pl.) (اَنبار، ذَخیره (ذَخايِر
 - etwas auf Lager haben; چیزی را دَر چَنته داشتَن
 - sie setzten alles ein, was sie an Erfahrung auf Lager hatten; هَر آنچه دَر چَنتهٔ تَجرُبه داشتَند بیرون ریختنَد
@@ -197,7 +198,8 @@ langweilen (s. -); .ضَجور بودَن، کَسِل شُدَن، خَسته �
 - langweilig sein; .مَلول بودَن، خَسته کُنَنده ب
 - langweiliges Leben; زِندِگی ِ کَسِل کُنَنده، ـ مَلال آوَر
 - uns ist langweilig; از هَمه چیز مَلولیم، ـ خَسته ایم
-Langweiler; اَلدَنگ
+Langweiler;
+- Langweiler (i.S.: jem., der nichts zu sagen hat); اَلدَنگ
 langwierig;
 - langwierige Debatte; مُباحِثهٔ وَقت گیر، ـ طَویل اُلمُدَت
 - langwieriger Versuch; تَلاش ِ مُستَمَر
@@ -265,10 +267,13 @@ lasten;
 Lastenträger; باربَر، آدَم ِ بار کِش
 Laster; شَهوَت
 - ein Laster haben; عادَت ِ بَد داشتَن
-Lästerer (Gott gegenüber); (pl.) (کافَر (کُفار
+Lästerer;
+- Lästerer (Gott gegenüber) (pl.); کافَر (کُفار)
 lasterhaft; فاجِر، فاسِق، جِلف
 Lästermaul; بَدزَبان
 lästern; به کسی کُفر گُفتَن، ـ اِهانَت کَردَن، ـ بَد گوئی کَردَن، ـ فُحش دادَن
+Lästerung;
+- Lästerung (Gottes); کُفر گویی
 lästig; سَمِج، مُزاحِم
 - lästige Aufgabe; تَکلیف ِ شاق
 - lästiger Mensch; آدَم ِ سَمِج، آدَم ِ موذی، آدَمی که زَحمَت میدَهَد
@@ -287,11 +292,11 @@ Laterne; فانوس
 - Strassenlaterne; چِراغ ِ خیابان
 Latrine; مُستَراح
 Latrinenreiniger; مُتَصِدی ِ مُستَراح
-latschen; تِلو تِلو راه رَفتَن
-- jem. eine latschen (popul.); يِکی توی ِ گوش ِ کِسی خواباندَن
 Latschen;
 - Latschen (Hausschuhe); دَمپائی
 - Latschen (Strauch); دِرَخت ِ کاج ِ کوهی
+latschen; تِلو تِلو راه رَفتَن
+- jem. eine latschen (popul.); يِکی توی ِ گوش ِ کِسی خواباندَن
 Latte; تَختهٔ باریک
 Lätzchen; پیش بَند
 lau; مُلايِم
@@ -648,6 +653,7 @@ leid;
 - es tut uns leid, dass es nicht so ist; دَریغ که چِنین نیست
 - wo es dir leid tut, dass ...; که حِیفَت می آيَد که
 - ich bin seine Unaufmerksamkeit leid; از دَست ِ سَر به هَوائی ِ این شَخص خَسته می شَوَم
+- es tut mir leid (z.B. weil wir etwas nicht haben); شَرمَندیم
 Leid (n); نِکبَت، دَرد، رَنج
 - jem. kein Leid zufügen; به کِسی صَدَمه ای نَزَدَن
 - Leid tragen; غُصه خوردَن
@@ -779,8 +785,13 @@ leprös; پیس دار
 Lerche; کاکُلی، چَکاوَک، قَزلاق، غَزلاق
 lernen; دَرس خواندَن، یاد گِرِفتَن، آموختَن
 - wenn er früh lernt, auf eigenen Beinen zu stehen, umso besser; اَگَر گِلیم ِ خودرا از آب بیرون می کِشَد که چه بِهتَر
-- praxisorientiertes Lernen; آموزِش ضِمن ِ خِدمَت
-- mein Lernen; دَرس خواندَنَم
+- online lernen; آموزِش بَر خَط
+Lernen;
+- Lernen (f); یادگیری، آموزِش
+-     praxisorientiertes Lernen; آموزِش ضِمن ِ خِدمَت 
+-     mein Lernen; دَرس خواندَنَم
+- kognitives Lernen; یادگیری ِ شِناختی
+- integriertes Lernen (blended learning); آموزِش  ِ آمیخته
 lesbar; خوانا
 - lesbare Zahlen; اَعداد ِ خوانا
 Lesbarkeit; خَط خوانی

@@ -157,13 +157,13 @@ bannen;
 Banner; (pl.) لیوا (اَلویه)، عَلَم
 - Banner der Freiheit erheben; لِواى ِ آزادى را اَفراشتَن
 - unter dem Banner von ...; ... ِ دَر زیر لِواى
-Bär; خِرس
-- jem. einen Bären aufbinden; دُروغهاى ِ شاخدارى تحویل دادَن
 bar;
 - bar von; عارى از، خالى از
 - in bar & in Ware; نَقداً و جِنساً
 - Verkauf nur gegen bar; فُروش فَقَط دَر اَزاى ِ پَرداخت ِ نَقدى
 - den Lohn bar auf die Hand zahlen; مُزدرا گُذاشتَن کَف ِ دَست، ـ نَقدى پَرداخت کَردَن
+Bär; خِرس
+- jem. einen Bären aufbinden; دُروغهاى ِ شاخدارى تحویل دادَن
 Baracke; کُلبه
 Barbar; بَربَر
 Barbarei; جَباريَت
@@ -563,9 +563,10 @@ befreien; کِسى را بِدَر بُردَن، رَها کَردَن، مُب
 - sie wurden von der Steuer befreit; آنها از پَرداخت ِ مالیات مُعاف شُدَند، ـ رَها شُدَند
 Befreier; ناجى
 - Befreier aus der Armut; مُغَنی
-Befreiung; تَخلیص، تَبرِئه، رَستِگارى، اِستِخلاص
+Befreiung; تَخلیص، تَبرِئه، رَستِگارى، اِستِخلاص، رَهائی
 - Befreiung von ...; واراستِگى از
 - Befreiung vom Dienst; مُعافيَت از خِدمَت
+Befreiungsbewegung; نِهضَت ِ رَهائی بَخش
 Befreiungsorganisation; سازمان ِ آزادیبَخش
 befreunden;
 - s. befreunden mit; با کِسى گَرم گِرِفتَن، ـ دوست شُدَن
@@ -1142,6 +1143,8 @@ bemühen;
 - bemüht sein; کوشا بودَن
 Bemühung; تَلاش، هِمَت، زَحمَت، سَختکوشى
 - aufgrund der Bemühungen; ... ِ به اِهتِمام ِ ، به هِمَت
+bemuttern;
+- bemuttern (jem.); کِسی را مادَری کَردَن
 benachbart; مُجاوِر، هَمجَوار
 benachrichtigen; اِبلاغ کَردَن
 - jem. benachrichtigen; .کِسى را با خَبَر کَردَن، ـ مُطَلَع ک.، به کِسى اِطِلاعات دادَن، ـ خَبَر د
@@ -1381,7 +1384,7 @@ besagen;
 besaitet;
 - ein zart besaiteter Mensch; آدَم ِ حَساس
 Besamung; تَرَشُحات ِ بِیضه، تُحم ریزى، تَلقیح
-besänftigen; .آرام کَردَن، مُلتِف ک.، مُلايِم ک
+besänftigen; آرام کَردَن، مُلطَف ک.، مُلايِم ک.
 - jem. besänftigen (nachdem man jem. aufgeregt hat); کور ِ کِسی را گُم کَردَن
 Besatz; (beim Kleid) لَبه، حاشیه دوزى
 Besatzung (von Schiff, u.ä.); راکِبین
@@ -1487,10 +1490,11 @@ beschneiden; غُلفه را بُریدن، خَتنه کَردَن
 - Baum beschneiden; دِرَخت را خُشودَن
 - jem. das Gehalt beschneiden; حُقوق ِ کِسى را کَم کَردَن
 - beschnitten; مَختون، خَتنه کَرده
+Beschneider; خاتِن
 Beschneidung; خَتنه، خِتانَت، بُریدن ِ غُلفه
 - Wasser, das nach der Beschneidung gegeben wird (am 3. Tag); آب ِ سه
 Beschneidungsfest; خَتنه سوران
-beschönigen; .چیزى را پَرده پوشى کَردَن، ـ ماست مالى ک.، از چیزى چِشم پوشى ک
+beschönigen; چیزى را پَرده پوشى کَردَن، ـ ماست مالى ک.، از چیزى چِشم پوشى ک .
 Beschönigung; رَفع و رُجوع، پَرده پوشى
 beschränkt;
 - beschränkt (im Verstand); ضَعیف اُلذِهن، پَخمه، بى عُرضه
@@ -1536,7 +1540,7 @@ beschwerlich;
 - jem. beschwerlich fallen; به کِسى تَحمیل شُدَن، بر کِسى بار نَهادَن
 - beschwerliche Arbeit; کَمَرشِکَن بودَن ِ کار
 - beschwerlicher Weg; يِک راه ِ سَختى
-beschwichtigen; .آرام کَردَن، تَسکین ک
+beschwichtigen; آرام کَردَن، تَسکین ک.
 - beschwichtigende Antwort; جَواب ِ صُلح آمیز، ـ مُسَکِت
 beschwingt;
 - beschwingt antworten; سَبُکبال جَواب دادَن
@@ -1752,7 +1756,7 @@ bestickt; گُل دوزی شُده
 Bestie; وَحش، حِیوان ِ وَحشى
 bestimmbar; قابِل ِ تَعیین
 bestimmen; تَعیین کَردَن، تَعریف ک.، مُعَيِن ک
-- er bestimmt einen, um aufzupassen; (infin.) (فِلان را بَراى ِ مُواظِبَت دَر آنجا مى گُمارَد (گُماشتَن
+- er bestimmt einen, um aufzupassen ; فِلان را بَراى ِ مُواظِبَت دَر آنجا مى گُمارَد (گُماشتَن) (.infin)
 - den Kurswert bestimmen; نِرخ را مَظَنه دادَن
 - jem. speziell bestimmen; کِسى را تَخصیص کَردَن، ـ دادَن، ـ گُماشتَن
 bestimmt;
@@ -1844,6 +1848,7 @@ Beteiligung; هَمکارى، شِرکَت، شَراکَت، مُشارِکَت
 Beteiligungsquote; ... دَر صَد ِ شِرکَت دَر
 beten; دُعا کَردَن، نَماز خواندَن
 - wir beten dafür, dass ...; ما دُعاگو هَستیم تا، ما بَراى ِ ... دُعا می کُنیم
+- betender Mensch (beim Pflichtgebet); آدَم ِ نَمازگُزار
 beteuern; تأکید کَردَن.
 betiteln; عُنوان گُذاشتَن، مُلَقَب کَردَن، نامیدَن
 betitelt; مُعَنوَن، مُلَقَب به
@@ -1859,7 +1864,7 @@ Betracht;
 - in Betracht kommen; مورِد ِ نَظَر بودَن
 - in Betracht ziehen; دَر نَظَر گِرِفتَن
 - ausser Betracht lassen; نادیده گِرِفتَن
-betrachten; (präs.) نِگَرِستَن (مى نِگَرَد)، بَرانداز کَردَن
+betrachten; نِگَرِستَن (مى نِگَرَد)، بَرانداز کَردَن  (.präs)
 - er wird als Spion von ... betrachtet; او چِشم و گوش ِ فِلان به حِساب میايَد
 Betrachter; نِگَرَنده، مُشاهِده گَر، تَماشاچى
 beträchtlich;
@@ -2072,16 +2077,16 @@ bewaffnet; مُسَلَح
 - er war mit einem Gewehr bewaffnet; او به سَلاح ِ تُفَنگ مُجَهَز بود
 - bewaffneter Überfall; تَجاوُز با سَلاح، ـ با اَسلَحه، ـ مُسَلَحانه
 - bewaffnetes Auge (mit Mikroskop u.ä.); چِشم ِ مُسَلَح
+bewähren; (s. -) از اِمتِحان دَر آمَدَن، خودرا مُعتَبَر نِشان دادَن
 bewahren; مُحافِظَت کَردَن، حِفظ ک.، نِگه داشتَن
 - Ruhe bewahren; خاطِر جَمع بودَن، دَست پاچه َنشُدَن
-bewähren; (s. -) از اِمتِحان دَر آمَدَن، خودرا مُعتَبَر نِشان دادَن
 bewahrheiten;
 - s. bewahrheiten, bestätigen; به تَواتُر رسیدن، تَصدیق شُدَن
 - s. bewahrheiten, erfüllen; اَنجام گِرِفتَن، تَمام شُدَن
 bewahrt;
 - bewahrt bleiben; مَحفوظ شُدَن
-Bewährung; آزمودِگى، آزمايِش
 Bewahrung; مُحافِظَت، صیانَت
+Bewährung; آزمودِگى، آزمايِش
 Bewährungsfrist; تَعلیق ِ مُجازات، حُکم ِ اِبراء بِشَرط ِ اِمتِحان
 Bewährungshelfer; مَدَدکار ِ دورهٔ آزمايِشى
 bewältigen; بِزیر ِ قُدرَت کِشیدَن، از عُهده بَر آمَدَن
@@ -2196,6 +2201,7 @@ bewusst; هوشمَند، آگاه، آگاهانه، دانِسته
 - bewusst & beabsichtigt; عالِماً و عامِداً
 - diese bewusste Person; آن شَخص ِ مَعلوم
 - an der bewussten Strasse; سَر ِ خیابان مورِد ِ نَظَر
+- ... mit einem Bericht, der die gesellschaftlichen Probleme bewusst macht; با گُزارِش آسیب شِناسانه به مَسائِل ِ اِجتِماعی
 bewusstlos; بیهوش، مَدهوش
 Bewusstlosigkeit; بیهوشى، غَش
 - aus der Bewusstlosigkeit aufwachen; حال ِ کِسى جا آمَدَن
@@ -2468,6 +2474,10 @@ bissig;
 Bissstelle;
 - Bissstellen von Insekten; جاى ِ نیش ِ حَشَرات، مَحَل ِ گاز ِ ـ
 bisweilen; اِحیاناً، گاهگاهى
+bitte;
+- kannst du mir bitte geben; بى زَحمَت ... را به من بِده، اگر لُطف کُنى ـ، اگر زَحمَت نَباشَد ـ، خواهِش می کُنَم ـ، لُطفاً ـ
+- bitte geben Sie mir die Zeitung; روزنامه را مَرحَمَت کُنید
+- wie bitte?; بَلى؟ جان؟
 Bitte; خواهِش، تَمَنا، اِلتِماس
 - Bitte, Gebet; مَسئلَت، دُعا
 - Bitte (um Segen); صَلَوات
@@ -2475,10 +2485,6 @@ Bitte; خواهِش، تَمَنا، اِلتِماس
 - dringende Bitte äussern; اِلحاح کَردَن
 - Bitte erfüllt bekommen; حاجَت گِرِفتَن
 - sie bringen ihre Bitten vor Gott; آنها از خُدا مَسئلَت می کُنَند
-bitte;
-- kannst du mir bitte geben; بى زَحمَت ... را به من بِده، اگر لُطف کُنى ـ، اگر زَحمَت نَباشَد ـ، خواهِش می کُنَم ـ، لُطفاً ـ
-- bitte geben Sie mir die Zeitung; روزنامه را مَرحَمَت کُنید
-- wie bitte?; بَلى؟ جان؟
 bitten (*:gebeten); اِستِغاثه کَردَن، تَقاضا ک.، خواهِش ک.، تَمَنا داشتَن
 - um etwas bitten; حاجَت طَلَبیدَن
 - inständig bitten; .عَجز و لابه کَردَن، اِلحاح ک
@@ -3133,15 +3139,7 @@ Brillenträger; عِینَکى
 Brimborium;
 - ohne viel Brimborium etwas sagen; بِدون ِ شاخ و بَرگ حَرف زَدَن، بِدون ِ فیس و فوس ـ، بِدون ِ لِفت و لُعاب ـ
 bringen; آوَردَن
-- jem. um etwas bringen; کِسى را از چیزى باز داشتَن
-- jem. dazu bringen, dass ...; کِسى را وادار کَردَن که، موجِب ِ این شُدَن که کِسى
-- es zu etwas bringen; از آب دَر آمَدَن
-- etwas bringen; چیزى را فَراهَم کَردَن
-- Wohlstand mit s. bringen; سَعادَت به اَرمَغان آوَردَن
-- Motor in Gang bringen; موتوررا بِکار اَنداختَن
-- etwas zum Kochen bringen; چیزى را جوشانیدَن
-- Waren zum Verkauf bringen; کُالاهارا بِفُروش رِساندَن
-- ich bringe Sie zum Auto; مَن شُمارا به ماشین مى بَرَم
+- hat meine Hilfe was gebracht?; کُمَکَم کارساز بود؟
 - eine Sache vor jem. bringen; چیزى را بِعَرض ِ کِسى رِساندَن
 - jem. Glück bringen; بَراى ِ کِسى شانس آوَردَن
 - Unglück für jem. bringen; بَلارا بَر سَر ِ کِسى آوَردَن
@@ -3152,6 +3150,15 @@ bringen; آوَردَن
 - was bringt's (davon kannst du dir nichts kaufen); اُصول دین شُمُردَن، بَرای ِ چه می خواهی خِیمه روی ِ آب بِزَنی؟
 - bring mal einen Tee, aber dalli; يِک چاى بیار بِبینَم
 - zur Sprache bringen; راجِع به چیزى گُفتِگو کَردَن
+- ich bringe Sie zum Auto; مَن شُمارا به ماشین مى بَرَم
+- jem. um etwas bringen; کِسى را از چیزى باز داشتَن
+- jem. dazu bringen, dass ...; کِسى را وادار کَردَن که، موجِب ِ این شُدَن که کِسى
+- es zu etwas bringen; از آب دَر آمَدَن
+- etwas bringen; چیزى را فَراهَم کَردَن
+- Wohlstand mit s. bringen; سَعادَت به اَرمَغان آوَردَن
+- Motor in Gang bringen; موتوررا بِکار اَنداختَن
+- etwas zum Kochen bringen; چیزى را جوشانیدَن
+- Waren zum Verkauf bringen; کُالاهارا بِفُروش رِساندَن
 Brise; نَسیم
 bröckeln; ریزریز کَردَن
 Brocken; قََطِعِه، تِکه
@@ -3161,7 +3168,7 @@ bröcklig; سُست، تُرد، کَمزور، زودشِکَن
 brodeln; غُلغُل زَدَن، جوش و خُروش کَردَن
 brodelnd; پُر جوش و خُروش، جوشان
 Brokat; زَربافت، زَرى
-Brombeer; شاهتوت ِ سیاه
+Brombeere; شاهتوت ِ سیاه، تِمِشک ِ سیاه
 Bronchien; ریه
 Bronchitis; برونشیت
 Bronze; بِرِنج، بُرُنز
@@ -3331,11 +3338,11 @@ bügeln; اُطو کِشیدَن
 bugsieren; کِشتى را يَدَک کِشى کَردَن
 buhlen; خودَش را پیش ِ کِسى شیرین کَردَن، دُنبال ِ دُختَرى اُفتادَن، ـ بودَن
 - Nebenbuhlerschaft; چِشم و هَمچِشمی
+Buhne; سَد بَراى ِ اِنحِراف ِ اَمواج
 Bühne; صَحنه
 - zur Bühne gehen; آکتُر شُدَن
 - ein Stück auf die Bühne bringen; نَمايِش را به روى ِ صَحنه بُردَن، ـ روى ِ صَحنه آوَردَن
 - Rednerbühne; کُرسى ِ سُخَنرانى
-Buhne; سَد بَراى ِ اِنحِراف ِ اَمواج
 Bühnenbearbeitung; تَطبیق با مُقتَضیات ِ صَحنه
 Bühnenbild; دِکوراسیون ِ صَحنه
 Bühneneinrichtung; لَوازِم ِ صَحنه، تَزئین ِ ـ

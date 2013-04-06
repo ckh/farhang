@@ -148,7 +148,7 @@ abfinden;
 - sie mussten s. damit abfinden, dass; آنها دِل و دَماغى بَرایِشان باقى نَمانده بود که
 Abfindungssumme; مَبلَغ ِ مُصالِحه، غَرامَت
 - Abfindungssumme bei Immobilie; سَر قُفلی
-abflachen; .پَهن کَردَن، مُسَطَح ک.، عَریض ک
+abflachen; پَهن کَردَن، مُسَطَح ک.، عَریض ک.
 - Ecken abflachen; گوشه هارا پَخ دادَن
 abflauen;
 - der Wind flaut ab; باد فُروکِش می کُنَد، - فُرو می نِشَینَد
@@ -539,8 +539,9 @@ abschieben;
 Abschied;
 - Abschied (von jem.); فَراق، خُداحافِظى
 - Abschied einreichen; مُستَعفى شُدَن، اَز کِسى اِجازه مُرَخَصى گِرِفتَن
-- Abschied nehmen von; .اَز کِسى خُداحافِظى کَردَن، کِسى را وِداع ک
+- Abschied nehmen von; اَز کِسى خُداحافِظى کَردَن، کِسى را وِداع ک.
 - Abschiedsgruss (wörtlich: möge s. dein Ruhm vermehren); عِزَتِت زیاد
+- Abschiedsgruß; بِدُرود
 Abschiedsbrief; وِداع نامه
 abschiessen;
 - Pfeil abschiessen; تیررا خالى کَردَن
@@ -932,7 +933,6 @@ achtgeben; مُواظِب ِ چیزى بودَن
 - gib auf ihn acht!; !مُواظِبَش باش
 achtlos; بى اِتناء، بى اِحتیاط، بى تَوَجُه
 achtsam; با اِحتیاط
-Ächtung; تَحریم
 Achtung; (i.S.: aufpassen!) تَوَجُه
 - Achtung (beim Militär); ! بِپا
 - Achtung (*:Ehre); اِحتِرام
@@ -940,6 +940,7 @@ Achtung; (i.S.: aufpassen!) تَوَجُه
 - Achtung finden; اَرج و اِعتِبار پِیدا کَردَن
 - ich verspüre viel Achtung für Sie; چه اِحتِرام بَراى ِ شُما قائِلَم
 - sie haben vor ... keine Achtung; بَراى ِ ... اِحتِرامى قائِل نیستَند
+Ächtung; تَحریم
 achtzehn; هِجدَه
 achtzig; هَشتاد
 ächzen; آه کِشیدَن، آه و ناله کَردَن
@@ -1260,7 +1261,8 @@ Allianz; اِتِحاد، اِتِفاق
 alliert;
 - allierte Rechte; اِختیارات ِ مُتَفِقِین
 - allierte Staaten; دُوَل ِ مُتَفِقه
-Allmacht (relig.); جَبَروت، اِقتِدار ِ مُطلَق، هَمه تَوانى، قَدر ِ قُدرَت
+Allmacht;
+- Allmacht (relig.); جَبَروت، اِقتِدار ِ مُطلَق، هَمه تَوانى، قَدر ِ قُدرَت
 allmählich; نَرمَک نَرمَک، نَرم نَرم، بِتَدریج، تَدریجى، مُتَدَرِجاً
 Allradantrieb; چَرخِش ِ هَمه چَرخها
 Alltag; روزهاى ِ هَفته) به غِیر اَز یِکشَنبه و روزهاى تَعطیل)، روز ِ کار
@@ -1601,7 +1603,7 @@ andeutungsweise; تَلویحاً، تَلمیحاً
 Andrang; هُجوم، اِزدِحام
 andrehen;
 - jem. etwas andrehen; چیزى را به کِسى جا زَدَن
-androgyn; دو جِنسه، نَر و ماده
+androgyn; دو جِنسی، نَر و ماده
 aneignen;
 - s. einen Gegenstand aneignen; چیزى را به خود اِختِصاص دادَن
 - Aneignen (von Besitz); تَصاحُب، تَمَلُک
@@ -2305,7 +2307,7 @@ Anspruch;
 - Anspruch haben; .داعیه داشتَن، اِنتِظار د
 - jem. hat hohe Ansprüche; کِسى تَوَقُعات ِ زیادى دارَد
 - jem., der in Anspruch genommen ist; سَر ِ کِسى شُلوغ اَست
-- für s. in Anspruch nehmen; بَراى ِ خود قائِل بودَن
+- für s. in Anspruch nehmen; بَراى ِ خود قائل بودَن
 - welche Sache wollen Sie in Anspruch nehmen?; اَز چه چیز مى خواهید بَهره بگیرید؟
 anspruchslos; قانِع، بى طَلَب
 Anspruchsverjährung; تَضییع ِ حَق دَر اَثَر ِ مورِد ِ زَمان
@@ -2335,6 +2337,7 @@ anstecken;
 - jem. mit seiner Krankheit anstecken; بیمارى اش را به کِسى سَرایَت دادَن
 - jem. mit seinen Ideen anstecken; کِسى را مَشوب کَردَن
 - s. eine Nadel anstecken; سوزَن را سَنجاق کَردَن
+- er hat mich mit dem Virus angesteckt; ویروس به من سَرایَت کَرد
 ansteckend;
 - ansteckende Freude; شادى ِ هَمِگیر
 - ansteckende Krankheit; بیمارى ِ مُسرى، مَرَض ِ واگیر
@@ -2597,6 +2600,8 @@ Apostel; (plur.) (رَسول، حَوارى (حَواریون
 Apostroph; عَلامَت ِ حَذف
 Apotheke; دارو خانه
 Apparat; دَستگاه
+Appeasement; پَرده پوشى، کوچِک کَردَن یِک خَطَر
+- Appeasement-Politik; سیاسَت رَفع کَردَن ِ خَطَر
 Appell; فَراخوان
 - Friedensappell; فَراخوان به صُلح
 Appellationsgericht; دادگاه ِ تَجدید ِ نَظَر، ـ اِستیناف
@@ -2731,6 +2736,8 @@ aristokratisch; اَشرافى
 Aristoteles; اَرِسطو
 Arithmetik; حِساب
 Arkade; مَعبَر با سَقف ِ مُقَوَس
+Arktis; شُمالِگان
+- arktische Gegend; قِسمَت ِ سَرد سیر حَهان
 arm; مِسکین، فَقیر، بى نَوا
 - arm an Kenntnis; کَمبود ِ شِناخت
 - er war zu arm, um ...; دَستِش هَم نِمى رِسید که
@@ -3005,7 +3012,7 @@ aufbauschen;
 - eine Sache aufbauschen; .یِک کَلاغ و ۴۰ کَلاغ مى شَوَد، چیزى را اِغراق کَردَن، ـ مُبالِغه ک
 Aufbaustudium; تَحصیلات ِ تَکمیلى
 aufbegehren; بُلَند کَردَن
-- gegen Gott aufbegehren; .با خُدا عُصیان کَردَن، ـ مُبارِزه ک
+- gegen Gott aufbegehren; با خُدا عُصیان کَردَن، ـ مُبارِزه ک.
 aufbehalten (- werden); چیزى مُحرِز مى شَوَد، ـ نِگَه داشته مى شَوَد
 aufbereiten; آماده کَردَن
 aufbessern;
@@ -3071,7 +3078,7 @@ aufeinanderfolgend; بِطور ِ پِیا پِى، پُشت ِ سَر ِ هَم
 - aufeinanderfolgende Jahre; سالهاى ِ مُتَوالى
 - aufeinanderfolgende Tage; روزهای ِ مُتَمادی
 - aufeinanderfolgende Katastrophen kommen auf uns zu; بَلاها پِى دَر پِى بَر ما مى آیَند
-aufeinanderstossen; .بَرخورد کَردَن، تَصادُف ک
+aufeinanderstossen; بَرخورد کَردَن، تَصادُف ک.
 Aufeinandertreffen;
 - Aufeinandertreffen von etwas mit ...; چیزى مُصادِف مى شَوَد با چیزى دیگَر
 Aufenthalt;
@@ -3286,6 +3293,7 @@ aufhören; چیزى را موقوف کَردَن، لَنگ ک.، مَکث ک.،
 Aufkäufer; مُرَوِج، مُشتَرى، خَریدار
 aufklären; .فَهیم کَردَن، مُنَوَر ک.، با هوش ک
 - der Himmel klärt s. auf; آسمان صاف مى شَوَد
+- ... mit einem Bericht, der über die gesellschaftlichen Problemem aufklärt; با گُزارِش آسیب شِناسانه به مَسائِل ِ اِجتِماعی
 Aufklärung; پِى گَردى، روشَنگَرى
 - Aufklärung (philos.); تَنویر اَفکار
 - mit Aufklärung verbunden; مَعارِفى
@@ -3366,6 +3374,7 @@ aufmerksam; مُواظِب، مُتَوَجه، غَرق ِ عِبادَت
 - jem. auf etwas aufmerksam machen; کِسى را مُتَوَجِهٔ چیزى ساختَن، چِشم ِ کِسی را باز کَردَن
 - ein aufmerksamer Blick; یِک نِگاه ِ کِشدار
 - der Ton seiner Stimme macht auf die Gefahr aufmerksam; صِداى ِ او خَطَرى را هُشدار مى دَهَد
+- ... mit einem Bericht, der auf die gesellschaftlichen Probleme aufmerksam macht; با گُزارِش آسیب شِناسانه به مَسائِل ِ اِجتِماعی
 Aufmerksamkeit;
 - mit Aufmerksamkeit (i.S. mit Interesse); با اِعتِناء، با تَوَجه
 - Aufmerksamkeit richten auf; به چیزى اِعتِنا کَردَن
@@ -3695,16 +3704,16 @@ auftreiben;
 - wenn ich schicke Kleidung auftreiben würde; اَگَر لِباس ِ شیک دَر بَر داشتَم
 - auf den letzten Drücker das Geld auftreiben; با هِزار جان کَندَن پول را تأمین کَردَن
 auftrennen; باز کَردَن، وَشِکافتَن
+Auftreten;
+- angenehmes Auftreten; حُسن ِ اَدَب
+- ungeeignetes Auftreten; مَظاهِر ِ نامَطلوب
+- Beginn prophetischen Auftretens; مَبعَث
 auftreten;
 - jem. gegenüber auftreten; بَر عَلیِه کِسى اِقدام کَردَن
 - mit dem Fuss auftreten; لَگَد کَردَن، پا کوبیدَن
 - als Schauspieler auftreten; ظاهِر شُدَن
 - Ort, wo Erdbeben auftritt; مَحَل ِ وُقوع ِ زِلزِله
 - die Krise tritt auf; بُحران عارِض مى شَوَد
-Auftreten;
-- angenehmes Auftreten; حُسن ِ اَدَب
-- ungeeignetes Auftreten; مَظاهِر ِ نامَطلوب
-- Beginn prophetischen Auftretens; مَبعَث
 Auftrieb; بالا بُر
 - Preisauftrieb; جَهِش ِ قِیمَتها
 Auftritt; ظُهور روى ِ صَحنه
@@ -3897,8 +3906,10 @@ ausbedingen;
 - s. im Vertrag ausbedingen; .دَر قَرار داد قِید کَردَن، شَرط ک.، مُقَرَر ک.، مُصَرَح ک
 - Recht für s. ausbedingen; حَق را به خود اِختِصاص دادَن، ـ بَراى ِ خود مَحفوظ داشتَن
 Ausbedingung; مُصَرَحات
-ausbessern; .مَرَمَت کَردَن، تَعمیر ک.، اِصلاح ک
+ausbessern;
+- ausbessern, verbessern; اِصلاح کَردَن، صَحیح ک.
 - ausbessern, flicken; رُفوگَری کَردَن
+- ausbessern, reparieren; مَرَمَت کَردَن، تَعمیر ک.
 Ausbesserung; اِصلاح، تَعمیر، تَرمیم، مَرَمَت، بِهسازى
 - Ausbesserung, Flicken; رُفوگَری
 ausbeulen; بَرجَستِگى داشتَن
@@ -4501,6 +4512,12 @@ ausschweifend; لَوَند، شَهوَت ران، رِند
 Ausschweifung; لَوَندى، فُجور، شَهوَترانى، رِندى، عِیش و نوش، هَرزِگى، جِنده بازى
 ausschwitzen; .تَراوُش کَردَن، تَرَشُح ک
 - Ausschwitzung; تَرَشُحات
+Aussehen; سَر و پُز، ظاهِرى، نَمایِش
+- Aussehen (einer Sache); مَنظَر
+- welches Aussehen ... annimmt; که ... چه مَنظَرى به خود مى گیرَد
+- sein Aussehen überprüfen; نِگاهى به سَر و وَضع ِ خود اَنداختَن
+- furchterregendes Aussehen; هِیبَت ِ تَرسانَنده
+- äusserlich gut aussehend; خوش ظاهِر
 aussehen;
 - armselig aussehen (*:erscheinen); کِسى تا حَد ِ شِش دَر چَهار کوچِک مى شَوَد
 - um gut auszusehen; تا خوش مَنظَره باشَد
@@ -4509,12 +4526,6 @@ aussehen;
 - es sieht so aus, als ob ...; بویَش مى آیَد که
 - wie sahen sie aus?; آنها چه شِکل داشتَند؟
 - er sah mir wie ein Betrüger aus; مَرا به دیدهٔ یِک کُلاه بَردار و حیله گَر نِگَریست
-Aussehen; سَر و پُز، ظاهِرى، نَمایِش
-- Aussehen (einer Sache); مَنظَر
-- welches Aussehen ... annimmt; که ... چه مَنظَرى به خود مى گیرَد
-- sein Aussehen überprüfen; نِگاهى به سَر و وَضع ِ خود اَنداختَن
-- furchterregendes Aussehen; هِیبَت ِ تَرسانَنده
-- äusserlich gut aussehend; خوش ظاهِر
 außen; خارِج، بیرون
 - außen hui, innen pfui; دَرونَش گُل ِ لاله، بیرونَش میناله
 Außenantenne; آنتن ِ بیرونى
@@ -4534,8 +4545,11 @@ Außenseiter; تَکرو
 - Wirkung des Außenseitertums; عَمَلکِرد ِ بیرون گُذارى
 Außenstände; دُیون، مُطالِبات
 - Außenstände eintreiben; دُیون را بَرگَردانیدَن، مُطالِبات را ـ
-Außenstelle; (plur.) (شُعبه (شُعَبات
+Außenstelle;
+- Außenstelle (pl.); شُعبه (شُعَبات)
 Außenwelt; عالَم ِ ظاهِر
+äußer;
+- äußerer Einfluss; اَثَر ِ بیرونى
 außer;
 - außer, es sei denn; مَگر اینکه، بِجُز اینکه
 - etwas anderes, außer; چیزى سِواى ِ آنچه
@@ -4547,8 +4561,6 @@ außer;
 - er ist außer s. geraten; از کوره دَر رَفت، به جوش آمَد، اورا کارد مى زَدى خونَش دَر نِمى آمَد
 - sie bringt alle außer sich; او هَمه را از کوره بِدَر مى آوَرَد
 - als ich ... sah, geriet ich außer mich; از دیدَن ِ... از خود بیخود شُدَم
-äußer;
-- äußerer Einfluss; اَثَر ِ بیرونى
 außerdem; وَنِگَهى
 Äußeres;
 - respekteinflössendes Äußeres; هِیبَت
@@ -4781,10 +4793,10 @@ auswringen (z.B.: Handtuch); حوله را) چَلانیدن، آب ِ.. فِش�
 Auswuchs (anatom.); زایِده، زیادى
 auswuchten (z.B.: Reifen); طایره را) میزان کَردَن )
 Auswurf (beim Husten); اَخلاط
-auszählen; (z.B. bis 9) (یِکى یِکى شُمُردَن (مَثَلاً به ۹
 auszahlen;
 - Gehalt auszahlen; به کِسى خُقوق را پَرداختَن
 - das zahlt s. nicht aus; آفتابه را خَرج ِ لَحیم کَردَن
+auszählen; (z.B. bis 9) (یِکى یِکى شُمُردَن (مَثَلاً به ۹
 Auszehrung; مَخمَصه
 - er leidet an Auszehrung; او مُبتَلا به مَرَض ِ سِل اَست
 - sein Gesicht ist von Auszehrung gezeichnet; قیافهٔ تَب ِ لازِمى را دارَد

@@ -216,8 +216,8 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 übermannen;
 - der Schlaf übermannte ihn; اورا خواب دَر رُبود
 - der Zorn übermannte ihn; غَضَب بَر او مُستولى شُد
-übermässig; مُفرِط، زیاده از حَد
-- das war keine übermässige Arbeit; کار ِ سُتُرگ نَبود
+übermäßig; مُفرِط، زیاده از حَد
+- das war keine übermäßige Arbeit; کار ِ سُتُرگ نَبود
 übermitteln; اِبلاغ کَردَن، رِساندَن
 - Glückwunsch übermitteln; تَبریک عَرض کَردَن
 - Grüsse von jem. übermitteln; سَلامى ِ کِسى را رِساندَن
@@ -370,6 +370,7 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 - übertreibend; اِفراط آمیز، اِغراق آمیز
 Übertreibung; اِغراق، اِفراط و تَفریط، مُبالِغه
 - ohne Übertreibung; بِدون ِ مُبالِغه، ـ اِغراق
+- Übertreibung (i.S.: Anmaßung); غُلُو
 übertreten;
 - das Gesetz übertreten; از قانون تَجاوُز کَردَن، ـ زِنهار خوردَن، ـ سَرپیچى کَردَن
 - zur katholischen Kirche übertreten; به کِلیساى ِ کاتولیک مُلحَق شُدَن
@@ -1420,7 +1421,8 @@ unterschiedlich; مُتَفاوِت، جور بِجور
 - ein weiterer unterschiedlicher Aspekt von ihm; وَجه ِ تَمايُز ِ دیگَر ِ او
 - unterschiedliche Gedanken; فِکرهاى ِ جور به جور
 Unterschlagung; اِختِلاس، خَلسه
-Unterschlupf (*:Zufluchtsort); مَفَر
+Unterschlupf (*:Zufluchtsort);
+- Unterschlupf; مَفَر
 unterschreiben; اِمضاء کَردَن
 - unterschreiben lassen; به اِمضا رِساندَن
 Unterschrift; اِمضا
@@ -1541,6 +1543,7 @@ unverletzt; زَخمی نَشُده
 unvermeidlich; گُزیر ناپَذیر، اِجتِناب ناپَذیر، مُبَرَم
 - unvermeidlich sein bezüglich; ناگُزیر به چیزى شُدَن
 unvermittelt; با شَرزِگى، ناگِهان
+unvernünftig; جاهِل، اَحمقانه، نامَعقول
 unverschämt; جَسور، چِشم دَریده، چِشم سِفید، سِمِج، وَقیح
 - unverschämter Mensch; آدَم ِ وَقیحانه
 - die Zensur ist unverschämt; سانسور وَقیح است
@@ -1664,7 +1667,7 @@ Ursprung; مَبدَأ، مَنشأ، جُرثومه
 ursprünglich; اِبتِدائى، دَر اَصل، اَساسى
 Urteil; قِضاوَت
 - was ist euer Urteil?; رأى ِ شُما چیست؟
-- Urteil aussprechend bezüglich; ِ مُتَحَکِم
+- Urteil aussprechend bezüglich; مُتَحَکِم ِ
 - Urteil eines islamischen Geistlichen; اِجتِهاد، مُجتَهَد
 - Todesurteil; حُکم ِ اِعدام
 urteilen; .قِصاوَت کَردَن، حُکم ک

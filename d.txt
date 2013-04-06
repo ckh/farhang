@@ -91,14 +91,14 @@ Dampf;
 - Tuch, das den Dampf auffängt (beim Reiskocher); دَم کَنى
 - Hans Dampf in allen Gassen; هَمه کاره هیچ کاره
 - Wasserdampf; بُخار ِ آب
+dampfen; بُخار دادَن
 dämpfen;
 - dämpfen (beim Bügeln); با بُخار ِ اُتو زَدَن
 - die Stimme dämpfen; (präs.) (صِدارا خَفه کَردَن، کاستَن (مى کاهَد
-dampfen; بُخار دادَن
 Dämpfen (best. Reisgericht); دَمپُختِگی
+Dampfer; کِشتى ِ بُخارى
 Dämpfer; صِدا کَر کُن، - خَفه کُن
 - jem. einen Dämpfer geben; آتَش ِ کِسى را فُرو نِشاندَن، بایَد گوشمال ِ کِسى بِدَهَد
-Dampfer; کِشتى ِ بُخارى
 Dämpfung; خَفِگى ِ صِدا
 danach; بَعداً، مابَعد
 - es sieht danach aus; مِثل ِ اینکه
@@ -217,7 +217,8 @@ dasselbe;
 - es ist immer dasselbe; هَمیشه هَمینطور است
 Datei; پَروَنده
 Daten; داده ها
-Datenbank; بانک ِ اِطِلاعات، بانک ِ داده ها
+Datenbank; بانک ِ اِطِلاعاتی، بانک ِ داده ها
+- gemeinsame Datenbank; بانک ِ اِطِلاعات ِ مُشتَرِک
 Datenschutz; حِفظ ِ اِطِلاعات راجِع به اَفراد
 datieren; تاریخ گُذاشتَن
 - der Brief datiert vom ...; نامه تاریخ ِ ... دارد، ـ مُوَرَخ ِ ... است
@@ -267,7 +268,7 @@ davonkommen;
 - das kommt davon; این از آن است
 - billig davonkommen; مُفت دَر رَفتَن
 - mit heiler Haut davonkommen; ریش را از زیر ِ قِیچى ِ این ماجِرا پَس کِشیدَن، جان ِ سالِم بِدَر بُردَن، نِجات یافتَن
-davonmachen (s. -); دَر رَفتَن
+davonmachen (s. -); دَر رَفتَن، زِه زَدَن
 davontragen;
 - Verletzungen davontragen; جَراحَت بَرداشتَن
 davor;
@@ -514,6 +515,7 @@ deplaziert; بى جا
 Deponie; مَحَل ِ آشغال
 deponieren; به اَمانَت گُذاشتَن
 Deportation; تَبعید
+deportieren; تَبعید کَردَن
 Deposit; سِپُرده، اَمانَت
 Depot; اَنبار ِ ذَخائِر
 - Heeresdepot; مَخزَن ِ لَوازِم
@@ -525,7 +527,7 @@ deprimierend; مأیوس کُنَنده
 deprimiert; گِرِفته خاطِر، دِلگِران، واخورده
 Deputation; هئیَت ِ نِمایَندِگی
 Deputiertenkammer; مَجلِس ِ مَبعوثان، ـ نِمایَندِگان
-Deputierter; مَبعوث ،نِمایَنده
+Deputierter; مَبعوث
 derartig;
 - es war ein derartiges Geschiebe; چِنان اِزدِحامى به راه اُفتاده بود
 - sie begegneten einem derartigen Widerstand; با چِنان مُقاوِمَت مُتَوَجه شُدَند که
@@ -677,6 +679,8 @@ dicht;
 Dichte; تَراکُم، غَلظَت
 - spezifische Dichte; جِرم ِ مَخصوص، وَزن ِ مَخصوص
 - Bevölkerungsdichte; تَراکُم ِ نُفوس
+- Massendichte (physikal., Masse/Volumen)); چِگالی
+- Ladungsdichte (physikal.); چِگالی بار ِ اِلِکترُنیکی
 dichten; شِعر نِوِشتَن
 - abdichten; آب بَندى کَردَن
 - Abdichten; آب بَندى
@@ -842,6 +846,9 @@ diplomatisch;
 - diplomatisch vorgehen; سائِسانه عَمَل کَردَن
 - ein diplomatischer Mensch; یِک آدَم ِ مُدَبِر
 - er fing es ganz diplomatisch an; او تَدبیر به کار میبرُد که
+dir (Dativ);
+- dir; به تو
+- Gott ist dir gnädig; خُدا بَر تو رَحم می کُنَد
 direkt; مُستَقیم، بى واسِطه، بِلافَصل، یِکراست، یِکسَره
 - direkter Nachkomme; فَرزَند ِ صُلبى
 Direktion; ریاسَت، مُدیریَت
@@ -863,13 +870,16 @@ diskreditieren; آبروى ِ کِسى را بُردَن، کِسى را بى ا
 Diskreditierung; آبروریزى
 diskret;
 - diskrete äusserung; اِظهار ِ مُحتاطانه، ـ رازدار، ـ مَخفیانه
+diskriminieren; تَبعیض کَردَن، فَرق گُذاشتَن بِین ِ ...
 Diskriminierung; تَبعیض
 - Rassendiskriminierung; تَبعیض ِ نِژادى
+- Antidiskriminierung; ضِد ِ تَبعیض
 Diskurs; مُکالِمه
 Diskussion; بَحث، مُباحِثه، گُفتِگو
 - zur Diskussion stellen; به بَحث گُذاشتَن
 - ... wurde zur Diskussion gestellt; ... به بَحث گُذاشته شُده است
 - seinen Wunsch öffentlich zur Diskussion stellen; آرِزوى ِ خودرا به مَنَصهٔ ظُهور رِسانیدَن
+Diskussionsgegenstand; مَقوله
 diskussionsreif; قابِل ِ بَحث
 Diskuswerfen; پَرتاب ِ دیسک
 diskutabel; قابِل ِ بَحث
@@ -1026,10 +1036,10 @@ Drahtzaun; حِصار ِ سیمى
 Drahtzieher; تَحریک کُنَنده، مُحَرِک
 Drainage; زِه کِشى
 Drainagegraben; فاضِلاب رو، زِه کِش
-drall; چاق
-- eine dralle Person (*:dick); شَخص ِ تَنومَند
 Drall; چَرخِش، تاب، پیچِش
 - Rechtsdrall; پیچِش ِ سَمت ِ راست
+drall; چاق
+- eine dralle Person (*:dick); شَخص ِ تَنومَند
 Drama; درام
 dramatisch; فَجیع، بُحرانی
 - in dramatischer Weise; به نَحو ِ فاجِع
@@ -1045,14 +1055,14 @@ drängeln; تَنه زَدَن، هُل دادَن
 - vor der Kasse drängeln; جلوى باجهٔ صَندوق اِزدِحام کَردَن
 - bitte nicht drängeln; فِشار نَدهید، تَنه نَزنید
 - ich drängle mich nicht zu dieser Aufgabe; مَن به این کار مُبادِرَت نِمى کُنَم
-Drängen; اِصرار
-- auf das Drängen hin von ...; ... ِ به اِصرار
 drängen; بَر کِسى فِشار آوَردَن
 - jem. drängen, zu tun; .کِسى را اِصرار کَردَن، به کِسى وادار ک
 - in die Versammlung drängen; به مَجلِس هُجوم آوَردَن، ـ کَردَن
 - die Zeit drängt; وَقت کَم است، وَقت ضَیِق است
 - es drängte ihn nach draussen; هَواى بیرون به کَله اش زَده بود
 - in die Defensive drängen; بِحالَت ِ تَدافُع کِشاندَن
+Drängen; اِصرار
+- auf das Drängen hin von ...; ... ِ به اِصرار
 drangsalieren; کِسى را اَذیَت کَردَن
 dranhängen;
 - ein bisschen Zeit dranhängen; وَقتى بیشتَرى صَرف کَردَن
@@ -1202,7 +1212,6 @@ Druck;
 - Bilddruck (kein Original); یِک تَصویر ِ باسِمه
 Drückeberger; طَفره زَن
 - er neigte zum Drückebergertum; دَر صَدَد ِشانه خالى کَردَن از زیر کار بود
-drucken; .چاپ کَردَن، طَبع ک.
 drücken; فِشُردَن، فِشار دادَن
 - s. drücken vor ...; از ... طَفره زَدَن، ـ سَر باز زَدَن، از زیر ِ.. دَر رفتن، زِه زَدَن
 - jemandem die Hand drücken; دَست ِ کِسى را فِشُردن
@@ -1217,6 +1226,7 @@ drücken; فِشُردَن، فِشار دادَن
 - drückende Armut; فَقر ِ مُکِب، فِشار ِ فَقر
 - die Last wird drückend; شانه ها دَر زیر فِشار تا مى شَوَد
 - drückende Luft; هَواى ِ حار، ـ خَفه کُنَنده
+drucken; .چاپ کَردَن، طَبع ک.
 Drücker;
 - auf den letzten Drücker das Geld auftreiben; با هِزار جان کَندَن پول را تأمین کَردَن
 Drucker; چاپگَر، چاپچى، طَباع
@@ -1291,6 +1301,8 @@ Dünger;
 - Kunstdünger; کود ِ شیمیائى
 - Naturdünger; کود ِ طَبیعى
 Düngung; کودپاشى
+Dünkel; اَنانیَت، باد و دَم، اِستِکبار، تَکَبُر
+- aus reinem Dünkel; از باد ِ نِخوَت
 dunkel; تاریک، تار و تیره
 - dunkle Geschäfte; مُعامِلهٔ کَچ
 - dunkle Materie (astron.); جِرم ِ تاریک
@@ -1300,8 +1312,6 @@ dunkel; تاریک، تار و تیره
 - er ist dunkelhäutig; رَنگَش تیره است
 - es ist stockdunkel; چِشم چِشم را نِمیبینَد، سَخت تاریک است
 - er kommt im Dunkel; دَر سیاهى ِ شَب مى آیَد
-Dünkel; اَنانیَت، باد و دَم، اِستِکبار، تَکَبُر
-- aus reinem Dünkel; از باد ِ نِخوَت
 Dunkelheit; تاریکى
 Dunkelkammer; تاریک خانه
 Dunkelmänner; اَشخاص ِ سیاه کار
@@ -1398,10 +1408,10 @@ durchdringend;
 Durchdringung;
 - wechselseitige Durchdringung; داخِل شُدِگى ِ یِکدیگَر
 Durchdringungsvermögen; قابِلیَت ِ نُفوذ
-Durcheinander; هَرج و مَرج
-- in diesem Durcheinander; دَر این دِه و دار، ـ هَرج و مَرج، ـ گیر و دار، ـ حِیص و بِیص، ـ خَر تو خَرى، ـ کى به کى، ـ دوغ و دوشاب
 durcheinander; قاتى پاتى، دَرهَم بَرهَم، تار و مار، چِرت و پِرت
 - er ist ein bisschen durcheinander (popul.) (*:verstört); او یه کَمى گیجه، پَکَرش است، پَریشان حال است، دِل او شور مى زَنَد
+Durcheinander; هَرج و مَرج
+- in diesem Durcheinander; دَر این دِه و دار، ـ هَرج و مَرج، ـ گیر و دار، ـ حِیص و بِیص، ـ خَر تو خَرى، ـ کى به کى، ـ دوغ و دوشاب
 durcheinanderbringen; مُنقَلِب ساختَن، قاتى پاتى کَردَن، مُختَل ک.، زیر و رو ک.، بَراَنداختَن، بُشولانیدن، به هَم ریختَن
 - alles durcheinanderbringen; چیزى را قَر و قاطى دیدَن، ـ از تَرتیب اَنداختَن، ، ـ بِهَم ریختَن
 - etwas durcheinanderbringen bei ...; کاسه کوزهٔ کِسی را به هَم زَدَن
@@ -1629,9 +1639,10 @@ dutzen;
 - jeder dutzt uns; ما با ضَمیر » تو« مورد ِ خِطاب قَرار مى گیریم، تو زیر کُلاهِت است
 Dutzend; دَوازده، دوجین
 dutzendweise; دو جین دو جین
-Dynamik; جُنبِش، دینامیک، تَحَرُک
+Dynamik; جُنبِش، دینامیک، تَحَرُک، پویایی
 - Eigendynamik; خودگَردانی
 - Eigendynamik haben; خودگَردان بودَن
+- Gruppendynamik; پویایی ِ گُروه
 dynamisch; پر قُدرَت، پُر جُنب و جوش
 Dynamisierung; جُنبِش سازى
 Dynamit; دینامیت

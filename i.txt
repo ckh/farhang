@@ -27,8 +27,9 @@ Idiom; اِصطِلاح
 - idiomatischer Ausdruck; اِصطِلاح
 Idiotie; بیمارى ِ مَغز، حِماقَت
 Idol; بُت
-Igel; خارپُشت
+Igel; جوجه تیغی
 - sie igeln s. total ein; آنها کامِلاً دَر لاک ِ خود فُرو می رَوَند
+- Ameisenigel; خارپُشت
 Iglu; خانهٔ يَخى
 Ignoranz; بى اِعتِنائى
 ignorieren; اَباء کَردَن از چیزى، نادیده گِرِفتَن
@@ -193,12 +194,14 @@ Inflation; تَوَرُم ِ مالى
 - Inflation der Begriffe; فُروپاشی ِ مَعنا
 - inflationärer Preisauftrieb; جَهِش ِ تَوَرُمى ِ قِیمَتها
 Influenza; اِنفلوانزا
-Information; (pl.) (اِطِلاع (اِطِلاعات
-- in Bezug auf Information von ...; ... ِ دَر اَمر ِ اِطِلاع رِسانى
+Information;
+- Information (pl.); اِطِلاع (اِطِلاعات)
+- in Bezug auf Information von ...; دَر اَمر ِ اِطِلاع رِسانى ...
+- Information (i.S. von Info. weitergeben); اِعطلاع رِسانی
 Informationsnetz; شَبَکهٔ اِطِلاعات
 Informationsquelle; مَنبَع ِ اِطِلاعاتى
 Informationsreise; سَفَر ِ کَسب ِ اِطِلاعات
-Informationsstand; غُرفهٔ اِعتِلاع رِسانی
+Informationsstand; غُرفهٔ اِعتِلاعات
 informieren; خَبَر دادَن، اِطلاع د.، مُطَلَع کَردَن
 - s. informieren; کَسب ِ اِطِلاع کَردَن
 - informiert sein über; .بَر چیزى واقِف بودن، خَبَردار ب .، مُطَلَع ب
@@ -291,6 +294,9 @@ Inspektion; بازرِسى، سَرکِشى
 Inspiration; اِلهام اِلهى
 Inspirator; مُشَوِق
 - Inspirator zu sein; اِمکان ِ مُلهِم شُدن
+inspirieren; اِلهام کَردَن
+- inspiriert werden; اِلهام شُدَن
+- inspiriert; مُلهِم شُده
 Inspizierung; تَفتیش، بازرِسى، سَرکِشى
 instabil; بى ثَبات، بى ثابِت
 Instabilität; بى ثَباتى

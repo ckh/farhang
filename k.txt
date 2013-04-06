@@ -152,7 +152,7 @@ Kanzleramt; مَقام ِ صِدارَت ِ اَعظَمى، دَفتَر ِ ص�
 Kapazität;
 - Kapazität, Rauminhalt; ظَرفيَت، حَجم، گُنجايِش
 - er ist eine Kapazität; او کارشِناس است، دَر این مورِد اَهل ِ فَن است
-Kapern; کَوَر
+Kapern; کَبَر
 kapieren; دَر یافتَن، فَهمیدَن، گِرِفتَن، دَستَش آمَدَن، سَر دَر آمَدَن
 - ich habe es kapiert; شیرفَهم شُدَم
 - ich muß diese Arbeit kapieren; مَن بايَد از چَند و چون ِ این کار سَر دَر آوَرَم
@@ -475,9 +475,9 @@ Kidnapping; آدَم رُبایی
 Kiebitz; شانه بِسَر، هُدهُد
 kiebitzen; با کُنجکاوى نِگاه کَردَن، چَپ چَپ ـ
 Kiefer; آرواره، فَک
-- Kiefer (Baum); دِرَخت ِ کاج
 - Oberkiefer; فَک ِ اَعلىٰ، فَک ِ بالائى
 - Unterkiefer; فَک ِ اَسفَل، حَنَک
+Kiefer (Baum); دِرَخت ِ کاج
 Kieferhöhle; حُفرهٔ فَکى
 Kiel; تَه ِ کِشتى
 Kiemen; آبشُش، برانشى، دَستگاه ِ تَنَفُس ِ اَکثَر ِ حِیوانات ِ آبزى
@@ -537,6 +537,7 @@ Kissen; زیر سَرى، بالِش
 - s. gegen das Kissen lehnen; .پُشت به پُشتى دادَن، به مُتَکا تِکیه د
 - Kopfkissen; سَربالین، رو بالِش
 - Rückenkissen; مِخَده
+- Schmusekissen; نازبالِش
 - Stützkissen; مُتَکا
 Kiste;
 - 1 Kiste Obst; یک لِنگه بار
@@ -878,15 +879,18 @@ knurren; ژَکیدَن
 - jem. anknurren; سَر ِ کِسى قُر زَدَن
 - Magenknurren; قارت و قورت ِ شِکَم، غار و غور ِ شِکَم
 knutschen; ماچ و موچ کَردَن
+Koagulation;
+- Koagulation (mediz.); اِنِعقاد ( ِ خون)
 Koalition; اِئتِلاف
 - Parteienkoalition; اِئتِلاف ِ اَحزاب
 - Koalitions- (zusammengesetztes Wort); مؤتَلِف
 Koch; آشپَز، طَباخ
 - Viele Köche verderben den Brei; آشپَز که دو تا شُد آش یا شور است یا بى نَمَک
-kochen; (präs.) (پُختَن (مى پَزَد
+kochen; پُختَن (مى پَزَد) (.präs)
 - kochen (vor Wut); از جا دَر رَفتَن
 - etwas fängt an, zu kochen; چیزى جوش میايَد، چیزى مى جوشَد
 - gekochte Eier; تُخم ِ مُرغ ِ آب پَز
+- Kochen (n); پُختَ و پَز
 Köcher; تَرکِش
 Kochgeschirr; دیگ و دیگبَر
 Kochkunst; طَباخى، هُنَر ِ آشپَز
@@ -934,14 +938,16 @@ Kolbenantrieb; پیستون ِ مُحَرَکه
 Kolbenring; رینگ ِ پیستون
 Kolik; قولِنج
 Kollaborateur; هَمدَست ِ دُشمَن، سازِش کار
+kollateral; حانِبی، جانِبه
+Kollateralschaden; خِسارَت ِ جانِِبه، - تَوَسُط ِ اِستِفادۀ مُفرِِط اسلَحه
 Kollege; هَمپایه، هَمتا
 - Ressortkollege; هَمتاى ِ وِزارَتى
 Kollektion; کُلِکسیون
 - eine Kollektion von Stoffen erstellen; پارچه ها را کُلِکسیون کَردَن
+Kollektiv; (n) جَمع
 kollektiv; جَمعی
 - kollektive Führung; رَهبَرى جَمعى، ـ دَستِجَمعى
 - kollektive Sicherheit; اَمنيَت ِ جَمعى
-Kollektiv; (n) جَمع
 Kollier; توق، طوق
 Kollision; بَرخورد
 - Interessenkollision; بَرخورد ِ مُصالِح
@@ -1064,7 +1070,7 @@ kompliziert; بُغرَنج، غامِض، پیچیده، مُشکِل
 - die Geschichte ist komplizierter, als man denkt; این قَضیه بیخ دارَد
 - warum kompliziert, wenn's auch einfach geht; گِرِهی که با دَست باز شَوَد نَبايَد به دَندان گِرِفت
 Kompliziertheit; تَعقید، پیچیدِگى
-Komplott; ساخت و پاخت، توطِئه
+Komplott; ساخت و پاخت، توطِئه، تَبانی
 - einen Komplott schmieden; توطِئه چیدَن
 komponieren; .تَصنیف کَردَن، آَهَنگسازى ک
 Komponist; آهَنگ ساز، مُصَنَف
@@ -1102,6 +1108,8 @@ Konfekt; نُقل، تَنَقُلات
 Konferenz; کُنفِرانس
 - eine Pressekonferenz abhalten; يِک کُنفِرانس ِ مَطبوعاتى بَر گُذار کَردَن
 konferieren; مَشوَرَت کَردَن
+Konfession; مَذهَب
+- welche Konfession haben Sie? (z.B. evangelisch); مَذهَب ِ شُما چیست؟ (بِطور ِ مِثال: اِنجیلی)
 konfessionell; کِلیسائى
 - überkonfessionell; بِین اُلکِلیسائى
 Konfiguration; تَرتیب، شِکل ِ عُمومى
@@ -1157,8 +1165,6 @@ Konkurs; وَرشِکَستِگى، اِفلاس، تَفلیس
 - Konkurs machen; وَرشِکَست شُدَن
 Konkursmasse; اَموال ِ شِرکَت ِ وَرشِکَستِگى
 Konkursverwalter; مُتَوَلى ِ وَرشِکَستِگى
-Können; (n) مُهارَت، لیاقَت، قابِليَت، اَهَليَت، تَوانائى
-- Können verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر
 können; تَوانستَن، بَلَد بودَن، تَوانائى داشتَن
 - dieser Mangel an ... könnte ...; این نَقصان ... مُمکِن بود که
 - sie versuchen so gut sie können; آنها هَرچه از دَستِشان بَر مى آيَد تَلاش مى کُنَند
@@ -1167,6 +1173,8 @@ können; تَوانستَن، بَلَد بودَن، تَوانائى داشت�
 - es kann gut sein, dass ...; چه بَسا است که
 - kannst du das?; قِلِقِش را بَلَدى؟، فوت و فَنى اَش را ـ؟
 - Jem., der nichts kann, Looser; آب از گََلوی ِکِسی پایین نِمی رَوَد
+Können; (n) مُهارَت، لیاقَت، قابِليَت، اَهَليَت، تَوانائى
+- Können verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر
 Konsens; مُبتَنى بَر) اِجماع ِ نَظَر)
 konsequent;
 - er ist konsequent; او سَر سَخت است، ـ جِدى است
@@ -1187,6 +1195,8 @@ Konsistenz; جِسميَت، ثَبات، اِستِحکام
 konsolidieren; اِستِحکام بَخشیدَن
 Konsonanten; حُروف ِ غِیر ِ مُصَوَته، ـ بیصِدا
 Konsortium; اِتِحاد ِ مُوَقَت ِ پِیمانکاران
+Konspiration; توطئه
+konspirativ; توطئه آمیز
 konstant; ثابِت، اِنعِطاف ناپَذیر
 - konstantes Kapital; سَرمایهٔ ثابِت
 Konstantin; قُسطَنطین
@@ -1390,6 +1400,7 @@ korrespondieren;
 - mit etwas korrespondieren; تَطابُق داشتن با چیزى
 Korridor; دالان
 - Luftkorridor; دالان ِ هُوائى
+korrigieren; اِصلاح کَردَن، صَحیح ک.
 Korrosion; خوردِگی، زَنگزَدِگی
 - Bodenkorrosion; زَمین خوردِگى
 - Feuchtigkeitskorrosion; - پوسیدِگى رُطوبَت، خوردَنِگی
@@ -1732,7 +1743,7 @@ Kropf; غَم باد
 Krösus; قارون، مایه دار، اُتُرخان
 Kröte; وَزَق
 Krücke; چوب زیر ِ بَغل، دَستوار
-Krug; سَبو، کوزه، خُم
+Krug; سَبو، کوزه، خُم، پارچ
 - Der Krug geht solange zum Brunnen, bis er bricht; کوزهٔ آب دَر راه ِ آب می شِکَنَد
 - bauchiger Krug; بُلونی
 - Milchkrug; بَستو، کوزهٔ سُفالین لُعاب دار دَهانهٔ گُشاد
@@ -1907,6 +1918,7 @@ kurz; کوتاه
 - nach kurzer Zeit; بَعد از مُدَت ِ کَم
 - in Kürze; به زودی، عَنقَریب
 - in kürzester Zeit; دَر اَسرَع ِ وَقت، دَر کوتاه مُدَت
+- einiges ist (in unserer Beziehung) zu kurz gekommen;  یِک کوچولایی دَر حَقِت کوتاه کَردَم
 Kürzel; مُخَفَفه
 kürzen; (z.B. Text) .خُلاصه کَردَن، کوتاه ک
 - Kürzen (zur Präzisierung von Text); ایجاز

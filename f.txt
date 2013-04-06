@@ -159,7 +159,12 @@ fakultativ; اِختیارى، آزادانه، داوطَلَبانه
 Fakultativklausel; مادهٔ اِختیارى، تَبصِرهٔ ـ
 Falke; شاهباز، شاهین
 Falkner; بازبان، مُرَبى ِ باز ِ شِکارى
-Fall; قَضیه، مَسأله، اَمر، مورِد
+Fall;
+- zu Fall bringen; ساقِط کَردَن، بَر اَنداختَن
+- der Fall Adams; هُبوط ِ آدَم، سُقوط ِ  -
+- die Gewohnheit bringt ihn zu Fall; این عادَت حِسابى کَله پایَش مى کُنَد
+- in dringenden Fällen; دَر صورَت ِ ضَرورَت
+- Fall (jurist.); قَضیه، مَسأله، اَمر، مورِد
 - Fall, Sturz; سُقوط
 - freier Fall (phys.); سُقوط ِ اَجسام، ـ آزاد
 - erster Fall; حالَت ِ فاعِلى
@@ -172,14 +177,10 @@ Fall; قَضیه، مَسأله، اَمر، مورِد
 - so wie der Fall liegt; از قَرار ِ واقع
 - mit jem. den Fall durchsprechen; با کِسى بِجُزئیات قَضیه را وارِسى کَردَن
 - jem. zu Fall bringen; کِسى را اُفتانیدَن، ـ لَغزانیدَن، - نَقش ِ زَمین ساختَن، پوست ِ خَربُزه زیر ِ پاى ِ کِسى گُذاشتَن
-- auf jeden Fall; دَر هَر حال، هَر آیِنه، به هَر جَهَت
+- auf jeden Fall; دَر هَر حال، هَر آیِنه، به هَر جَهَت دَر هَر صورَت
 - auf keinen Fall; بِهیچوَجه
-- im Falle, dass ...; چِنانچه
-- ein Fall von ... (jurist.); ... ِ یِک مورِد
-- zu Fall bringen; ساقِط کَردَن، بَر اَنداختَن
-- der Fall Adams; - ِ هُبوط ِ آدَم، سُقوط
-- die Gewohnheit bringt ihn zu Fall; این عادَت حِسابى کَله پایَش مى کُنَد
-- in dringenden Fällen; دَر صورَت ِ ضَرورَت
+- im Falle, dass ...; چِنانچه، دَر صورَتی که
+- ein Fall von ... (jurist.); یِک مورِد ِ ... ِ
 Fallbeschleunigung; شِتاب ِ ثَقل
 Falle; کَمین، تَله، دام
 - in eine Falle geraten; به تَله اُفتادَن
@@ -217,6 +218,7 @@ Fallobst; میوِجات ِ پائین اُفتاده
 Fallreep; نَردِبان ِ طِنابى کِشتى
 falls; چِنانچه، اَگَر، به شَرط ِ اینکه
 - falls jem. teilnehmen möchte; چِنانچه کِسى مایِل به شِرکَت ِ ... باشَد
+- falls Bedarf ist; ذَر صورَت ِ لُزوم، - نیاز
 Fallschirm; چَتر ِ هَوائى
 Fallschirmspringer; چَتر باز
 Fallstrick; دام
@@ -565,9 +567,9 @@ feiern; به سور نِشَستَن، سور دادَن، سور چَرانى �
 - das muss gefeiert werden; از حُسن ِ فُرصَت بایَد شادى کَرد، چَشن گِرفته می شَوَد
 Feiertag; روز ِ تَعطیل
 - Nationalfeiertag; روز ِ مِلى
+Feige; اَنجیر
 feige; بى غِیرَت، نامَرد، جَبون، خَردِل
 - ein feiger Diebstahl; دُزدى ِ نامَردانه
-Feige; اَنجیر
 Feigenbaum; دِرَخت ِ اَنجیر
 Feigheit; بى غِیرَتى، جُبن، خَردِلى، کَم جُرأتى
 Feigling; بى غِیرَت، آدَم ِ جَبون
@@ -857,7 +859,7 @@ feststellen;
 Feststellschraube; پیچ ِ تَنظیم
 Feststellung; تَشخیص، تَعیین
 Feststellungsverfahren; طَریق ِ دَریافت ِ واقِعیَت
-Festung; حِصار، حِصن، قَلِعه، مُستَحکَمات، اِستِحکامات، پاى گاه، دِژ
+Festung; حِصار، حِصن، قَلِعه، مُستَحکََمات، اِستِحکامات، پاى گاه، دِژ
 Festungskommandant; دِژبان
 Festungsmauer; بارو
 festzurren; چیزى را سِفت بَستَن، ـ کِشیدَن
@@ -1283,6 +1285,7 @@ Flug; پَرواز
 - Sperling im Flug; گُنجِشک دَر طِیران
 - wie im Flug vergehen; چیزى مانَند ِ آنى آمَد و گُذَشت
 Flugbahn; خَط ِ سِیر
+Flugbegleiter; مِهماندار ِ هَواپِیما
 Flugblatt; شب نامه، اِعلامیه
 Flügel; پَر و بال
 - die Flügel stutzen; پَر و بال را قِیچى کَردَن
@@ -1394,16 +1397,16 @@ fordern; طالِب بودَن، طَلَبیدَن
 - gefordert wird; مَطلوب است
 - wenn Eile gefordert wird; اگر مُتَلزِم ِ عَجَله باشَد
 fordernd; طالِب
-Forderung; طَلَب، اِدِعا، دَرخواست
-- Forderung stellen an ...; از ... مُطالِبه کَردَن
-- eine Forderung an jem. haben; از کِسى طَلَب داشتَن
-- Forderung von jem. begleichen; حِساب ِ کِسی را کَردَن
-- entsprechend eigener Forderungen; بابَت ِ طَلَب ِ خود، بَرطِبق ِ دَرخواست ِ خود
 Förderung;
 - Förderung (z.B. von Erz); اِستِخراج
 - Förderung der Beziehung; گُستَرِش ِ رَوابِط، پیش بُرد ِ ـ
 - Förderung der Investition; تَرجیح ِ سَرمایه گُذارى
 - Begabtenförderung; تَشویق ِ مُستَعِدان
+Forderung; طَلَب، اِدِعا، دَرخواست
+- Forderung stellen an ...; از ... مُطالِبه کَردَن
+- eine Forderung an jem. haben; از کِسى طَلَب داشتَن
+- Forderung von jem. begleichen; حِساب ِ کِسی را کَردَن
+- entsprechend eigener Forderungen; بابَت ِ طَلَب ِ خود، بَرطِبق ِ دَرخواست ِ خود
 Forelle; قَزَل آلا
 Form; شِکل
 - Form (literat.); سَبک
@@ -1445,8 +1448,8 @@ Forschung; تَحقیقات، پَژوهِش
 Forschungsauftrag; مأموریَت ِ پَژوهِشى
 Forschungsvorhaben; طَرح ِ تَحقیقاتى
 Förster; جَنگَلبان
-Fort; دِژ، جایگاه ِ نِظامی
 fort; دور، حُضور نَداشتَن
+Fort; دِژ، جایگاه ِ نِظامی
 Fortbestand; اِبقاء، دَوام، تَداوُم
 fortbewegen (s. -); حَرَکَت کَردَن
 fortbilden (s. -); به آموزِش ِ خود اِدامه دادَن
@@ -1819,6 +1822,8 @@ Frühstadium; مَرحَلهٔ اِبتِدائى
 Frühstück; صُبحانه، ناشتائى
 Frühverstorbener; جَوانمَرگ
 Frühwarnsystem; سیستِم ِ اِعلام ِ خَطَر
+Frust; دِق ِ دِل، دِلخوری
+- Frust oder Freude; دِلخوری یا دِلخوشی
 Frustration; دِلخورى، یأس، خودباختِگى، سَرخوردِگى
 - seine Frustration rauslassen; دِق ِ دِلی ِ خودرا سَر ِ کِسی خالی کَردَن
 frustriert; دِلخور، مأیوس، سَرخورده، خودباخته

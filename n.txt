@@ -95,7 +95,9 @@ nachkommen;
 - nachkommende Generation; نوباوِگان
 Nachkommenschaft; ذُریات، سَلاله
 Nachkriegsgesellschaft; جامِعه بَعد از جَنگ
-Nachlass (i.S. Vermächtnis); تَرَکه، ماتَرَک، میراث
+Nachlass;
+- Nachlass (i.S.: Vermächtnis); تَرَکه، ماتَرَک، میراث
+- Nachlass (i.S.: Rabatt); تَخفیف
 nachlassen;
 - in der Hilfe nicht nachlassen; دَر کُمَک کوتاهی نَکَردَن
 - nachlassen (z.B. Wind); باد فُروکِش می کُنَد
@@ -409,6 +411,7 @@ nein; نَه، نَخِیر، خِیر
 - ja oder nein; بَلی یا خِیر
 - Nein-Sager; مَنفی باف
 Nektar; شَهد
+Nektarine; شَلیل، شَفت آلو
 Nelke (Blume & Gewürz); میخَک
 Nenndrehzahl; سُرعَت ِ نامی
 nennen; کِسی را نامیدَن، اِسم بُردَن
@@ -821,13 +824,14 @@ Nut; زِه وار، شیار، فاق
 - Feder & Nut; فَنَر و شیار
 - nuten & spunden; فاق و زَبانه دُرُست کَردَن
 Nutzeffekt; راندِمان، بازده
-nutzen; اِستِفاده کَردَن
-- die Gelegenheit nutzen; فُرصَت را مُغتَنَم شُمُردَن، از فُرصَت اِستِفاده کَردَن
 nützen; فایده داشتن
 - das nützt mir; به دَرد ِ مَن می خورَد، مَنفَعَت می بینَم
 - etwas kaufen, was jem. nützt; يِک چیز بَرای ِ دَردخوری ِ کِسی خَریدَن
 - wem nützt das (z.B. eine Reise)?; آبَش نَبود نانَش نَبود ... اش چه بود؟؛ بِطور ِ مِثال: آبَت نَبود نانَت نَبود توی ِ این بَرف سَفَر کَردَنَت چه بود؟
+nutzen; اِستِفاده کَردَن
+- die Gelegenheit nutzen; فُرصَت را مُغتَنَم شُمُردَن، از فُرصَت اِستِفاده کَردَن
 Nutzen (m); مَنفعَت، بَهره، فایده، اَرزِش، هوده، هُده
+- war es von Nutzen?; کارساز بود؟
 - zum Nutzen; ِ بَرای ِ خِیريَت، ـ اِنتِفاع، به نَفع
 - Nutzen ziehen (allg.); مُستَفید شُدَن، بَهره بُردَن، بَهره گِرِفتَن، سود بُردَن، اِستِفاده کَردَن
 - geistlichen Nutzen ziehen aus ...; از ... مُستَفیض شُدَن

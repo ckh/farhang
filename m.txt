@@ -379,7 +379,7 @@ Mauervorsprung; جِرز
 Maul; پوزه
 - jem. was aufs Maul geben; توپوزی به کِسی زَدَن
 Maulbeerbaum; دِرَخت ِ توت
-Maulheld; رُستَم صولَت و اَفَندى پیزى
+Maulheld; رُستَم صولَت و اَفَندى پیزى، خالی بَند
 Maulkorb; پوزه بَند، مَنع ِ اِظهار ِ نَظَر
 Maulschlüssel; آچار ِ مُهَندِس
 Maultier; اَستَر، قاطِر
@@ -415,12 +415,14 @@ medial; از راه ِ رِسانه ها
 Medikament; دارو
 Meditation; تَعَمُق ِ فِکرى، تَفَکُر
 - meditative Konzentration; ریاضَت
-Medium; (pl.) (وَسیله (وَسائِل
+Medium;
+- Medium (pl.); وَسیله (وَسائِل)
 - audio-visuelle Medien; رِسانه هاى ِ دیدارى و شِنیدارى
 - von anderen Medien übernommen; از رِسانه هاى ِ دیگَر مُنتَقِل شُده
 - Information durch Medien; اِطِلاع رِسانی
 - Massenmedium; رِسانهٔ گُروهى
 - Medien-Center; دَفتَر ِ رِسانه ها
+- Medienkompetenz; صَلاحیَت ِ رِسانه ها
 Medizin; رِشتهٔ پِزِشکى، طِب
 - Medizin, Medikament; دارو
 - hergebrachte Medizin; طِب ِ سُنَتی
@@ -605,7 +607,7 @@ Messe; مَکاریه، بازاره مَکاره، نَمايِشگاه ِ اِ
 - Totenmesse lesen; فاتِحه خواندَن
 messen; اَندازه گِرِفتَن
 - ausmessen, abschreiten; پِیمايِش نِمودَن
-- s. mit jem. messen; با کِسى مُقابله کَردَن، قابِليَت ِ خودرا با کِسى سَنجِش ک.، مَرد ِ مِیدان و حَریف ِ کِسى بودَن، خود را به پای ِ کِسی گُذاشتَن
+- s. mit jem. messen; با کِسى مُقابله کَردَن، قابِليَت ِ خودرا با کِسى سَنجِش ک.، مَرد ِ مِیدان و حَریف ِ کِسى بودَن، خود را به پای ِ کِسی گُذاشتَن، از پَس ِ کِسی بَر آمَدَن
 - unser Team kann s. mit ihnen messen; تیم ِ ما حَریف ِ آنهاست
 - mit dem Mass, mit dem du andere misst, wirst du gemessen werden; با هَر پِیمانه اى که به دیگَران بِدَهى با هَمان پِیمانه عَوَض خواهى گِرِفت
 - er mass ihn von Kopf bis Fuss; نِگاهى به سَر تا پاى ِ او کَرد
@@ -631,7 +633,9 @@ Metamorphose; تَماسُخ، اِستِحاله، دِگَردیسى
 Metapher; (pl.) اِستِعاره (اِستِعارات)، کِنایه
 metaphysisch; مابَعد اُلطَبیعى، ماوَراء ِ طَبیعى
 Metazoen; پُر یاخته ها
-Meteorit; ذوذَنَب، شِهاب
+Meteor;
+- Meteor (*: Sternschnuppe); ذوذَنَب
+- Meteorit; شِهاب
 Meteorologie; عِلم ِ نیوار، عِلم ِ هَوا شِناسى
 Meter; مِتر
 Methode; اُسلوب، سَبک، رَوِش، رَویه، مِتُد
@@ -1043,7 +1047,7 @@ Mohn; خَشخاش
 Möhre; هَویج
 Mole; اِسکِله
 Molekül; مولِکول
-Molke; آب پَنیر، کَشک
+Molke; آب ِ پَنیر، کَشک
 Molkerei; صِنايِع ِ لَبَنیات
 Moll; مینور
 mollig; گوشتالو، چاق و چِله
@@ -1190,7 +1194,8 @@ motzen; غُر و لُند کَردَن
 Möve; مُرغ ِ سِفید ِ دَریائى
 Mücke; پَشه
 - aus einer Mücke einen Elefanten machen; کاه را کوه کَردَن، يِک کَلاغ و ۴۰ کَلاغ میشَوَد
-mucken; مُخالِفَت کَردَن
+mucken;
+- mucken (i.S.: aufmucken); مُخالِفَت کَردَن
 - ohne zu mucken s. beschimpfen lassen; فُحش را خوردَن و دُم نَزَدَن
 Mucks;
 - er tat keinen Mucks mehr; و ب ِ و میم را نِمی تَوانِست بِگويَد
@@ -1233,6 +1238,7 @@ Mühle; آسیاب، آسیا
 Mühsal; مَشَقَت، مِحنَت
 mühsam; به زَحمَت، هِن و هِن کُنان
 - mühsam nach Atem ringen; به سَختى نَفَس کِشیدَن، به زَحمَت ـ
+- das war mühsam für dich; زَحمَت اُفتادی
 Muldenkipper; دامپ تراک
 Müll; آخال، خاکروبه، آشغال، زُباله، اِسقاطی
 - Sperrmüll; چِرت و پِرت
@@ -1277,9 +1283,9 @@ Mund; دَهَن، دَهان
 Mundart; لَهجه
 Mundbereich; چَک و چانه
 Mündel; (musā - alej-he) تَحت ِ وِصايَت، ـ قِیمومَت، موصى علیه
-munden; خوش مَزه بودَن
 münden;
 - das ganze mündet in ...; این هَمه اَش به ... مُنتَهى میشَوَد
+munden; خوش مَزه بودَن
 mundgerecht;
 - mundgerecht sein; سَرد و دَهَن گیر شُدَن
 - der Tee muss mundgerecht sein; چاى بايَد لَب پَذیر باشَد
@@ -1415,7 +1421,9 @@ mutig; بى باک، سَر دَر کَف، شُجاع، جَرى، رَشید،
 mutlos; دِل افتاده، خَردِل
 mutmassen; اَنگاشتَن، گُمان بُردَن، حَدس زَدَن
 mutmasslich; به اِحتِمال، اِحتِمالاً
-Mutter; (pl.) اُم (اُمَهات)، مادَر
+Mutter;
+- Mutter (pl.); اُم (اُمَهات)، مادَر
+- ich habe auf ihn wie eine Mutter aufgepaßt; مَن بَرایَش مادَری کَرئَم
 - Schraubenmutter; مُهرهٔ پیچ
 Mutterleib; رَحِم
 mütterlicherseits;

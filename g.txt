@@ -329,6 +329,9 @@ Geck; جَوان ِ خودآرا، جوجهٔ مَشهَدى
 Gedächtnis; یاد، حافِظه
 - im Gedächtnis haftend; از یاد نَرَفتَنی
 - s. im Gedächtnis einprägen; - دَر یاد ِ آدَم نَقش بَستَن، ـ زَدَن، دَر حافِظهٔ آدَم
+- ... ruft ihm ins Gedächtnis ...; به او یاد آوَر میشَوَد که
+- aus dem Gedächtnis verdrängen; از یاد بُردَن
+- er hat ein Kurzzeitgedächtnis; او فَراموش کار است
 Gedächtnisfeier; جَشن ِ یادبود، - آوَری
 Gedächtnislücke; یادزَدودِگى، مَرَض ِ نِسیان، فَراموشى ِ بیمارگونه
 gedämpft; خَفه
@@ -659,6 +662,8 @@ gehetzt; شِتاب زَده
 Geheul;
 - Geheul (Wind); هو هوى ِ باد
 - Geheul (Hund, u.ä.); (zanuije) زَنویه
+Gehfrei;
+- Gehfrei (für Babys); رورَوَک
 Gehilfe; مُعاوِن، دَستیار
 Gehirn; مُخ، مَغز
 Gehirnentzündung; سام ِ سَر، اِلتِهاب ِ مَغز
@@ -1138,7 +1143,7 @@ Geringschätzung; اِستِخفاف، اِحتِقار، سَبُک داشت، 
 gerinnen; لَخته شُدَن
 - geronnene Flüssigkeit (Blut, Milch); دَلَمه شُده، بُریده، لَخته شُده
 Gerinnung;
-- Blutgerinnung; اِنِعقاد ِ خون
+- Blutgerinnung; اِنِعقاد  ِ خون
 Gerinsel; لَخته
 gerissen;
 - gerissener Mensch; آدَم ِ دَرَنده
@@ -1193,8 +1198,9 @@ Geschäft;
 - Geschäft, Laden; مَغازه، فُروشگاه، دَکه، دُکان
 - Leitung der laufenden Geschäfte; راندَن ِ اُمور ِ جارى
 - sein Geschäft blüht; نانَش توى ِ روغَن است
-- schmutzige Geschäfte treiben; کار ِ نابِکارى کَردَن
 - Regierungsgeschäfte; اُمور ِ دولَت
+- schmutziges Geschäft; گَندکاری
+- schmutzige Geschäfte treiben; کار ِ نابِکارى کَردَن
 Geschäftemacher; کارچاق کُن
 Geschäftemacherei; مُعامِله گَرى
 Geschäftevermittler; کارچاق کُن، واسِطه
@@ -1233,6 +1239,7 @@ Geschichte; تاریخ
 - die Geschichte aufdecken; قِصه را پیش کِشیدَن
 - Vorgeschichte, Frühzeit; ماقَبل اُلتاریخ
 Geschichtenerzähler; قِصه خوان، قِصه سَرا
+- der erzählt vielleicht Geschichten; قِصه دِراز می کُنَد
 geschichtlich; تاریخى
 Geschicklichkeit; مَهارَت، زِبَردَستى، تَردَستى
 - mit äusserster Geschicklichkeit; با کَمال ِ مَهارَت
@@ -1513,12 +1520,12 @@ gewachsen;
 - er ist dieser Aufgabe gewachsen; او بَر این تَکلیف مُسَلَط میشَوَد، ـ فائِق میایَد
 Gewächshaus; گُلخانه
 Gewähr; ضِمانَت، تأمین، تَضمین
-gewahren; حِفظ کَردَن
-- das muss gewahrt bleiben; این بایَد مَحفوظ باشَد
 gewähren; رَوا کَردَن
 - s. das Recht gewähren; حَق را به خود اِختِصاص دادَن، ـ بَراى ِ خود مَحفوظ داشتَن
 - wir gewähren Rabatt; بَراى ِ ... تَخفیف قائِل میشَویم
 - Gott gewährt uns unser Gebet; خُدا مُجیب ِ دُعاى ِ ماست
+gewahren; حِفظ کَردَن
+- das muss gewahrt bleiben; این بایَد مَحفوظ باشَد
 gewährleisten; تأمین کَردَن
 - gewährleistet sein; مُطمَئن بودَن، تأمین شُدَن، یَقین بودَن
 - wird gewährleistet; تَضمین میشَوَد
@@ -1975,10 +1982,13 @@ Gottesgeschenk; خُداداد
 Gotteslästerung; کُفر
 göttlich;
 - göttlichen Wesens; خُداگونه
+- göttliche Weisheit; حِکمَت ِ اِلهی، - اِلاهی
 Göttlichkeit; کِبریائى، اُلوهیَت
 gottlos; کُفر آمیز، کَفور، خُداناشِناس، مُلحِد
 Gottlosigkeit; کُفر، خُداناشِناسى
-Götze; (plur.) صَنَم (اَصنام)، بُت
+Götze;
+- Götze (plur.); صَنَم (اَصنام)، بُت
+- Götzenanbetung; بُت پَرَستی
 Gouverneur; اُستاندار
 Grab; (plur.) مَغاک، مَزار، مَقبَره (مَقابِر)، ضَریح (ضَرایح)، مَرقَد (مَراقِد)، قَبر
 - einem Grab nicht unähnlich sein; بى شَباهَت به دَخمه نیست
@@ -2075,6 +2085,8 @@ grenzenlos;
 Grenzfläche; سَطح ِ تَماس
 Grenzgebiet; سَر حَد، مَنطَقهٔ مَرزى
 Grenzstein; سَنگ ِ مَرزى
+Grenzüberschreitung;
+- Grenzüberschreitung (i.S.: Anmaßung); غُلُو
 Greuel; شَرارَت
 - Greuel begehen; .شَرارَت بِعَمَل آوَردَن، رِجاسَت بِعَمَل آ
 Griechenland; یونان
@@ -2190,9 +2202,10 @@ grün; سَبز، خَضیر
 - grüne Frucht, unreif; میوهٔ کال، نارَس
 - er ist nicht mehr grün; او بى ساِبقه نیست، او آدَم ِ پُخته است
 - sie sind s. nicht mehr grün; میانِشان شِکَر آب شُده
-Grund; (plur.) دَلیل (دَلائِل)، عامِل
+Grund;
+- Grund (pl.); دَلیل (دَلائِل)، عامِل
 - auf Grund von ...; ... ِ به مُقتَضاى ِ، به اِستِناد ِ، بِدَلیلى که، به واسِطهٔ، به سَبَب
-- eigentlicher Grund; (plur.) عِلَت (عِلَل)، مَنبَع
+- eigentlicher Grund (pl.); عِلَت (عِلَل)، مَنبَع
 - ob er nicht einen Grund (Ausrede) fände; تا مَگَر بَهانه اى بَراى ِ ... بیابَد
 - aus diesem Grund; و از این رو
 - aus diesem Grunde war es, dass ...; از این روى بود که، از اینکه، بَراى ِ این بود که
@@ -2256,6 +2269,7 @@ grüppchenweise; دَسته دَسته، گُروه گُروه
 Gruppe; گُروه، رَسته، دَسته
 - Gruppe von Menschen, die gleiche Interessen haben; جُرگه
 - mit jem. in der gleichen Gruppe sein; با کِسى هَمگروه بودَن
+Gruppendynamik; پویایی ِ گُروه
 gruppieren; طَبَقه بَندى کَردَن، گُروه تَشکیل دادَن
 Gruppierung; دَسته بَندى
 Gruselfilm; فیلم ِ وَحشزا
@@ -2286,6 +2300,7 @@ Gültigkeit; اَرزِش، اِعتِبار
 - das hat für uns Gültigkeit; ما این را صِحَت مى گُذاریم
 Gummi; لاستیک
 Gummiband; کِش
+Gummibärchen; پاستیل
 Gummibaum; دِرَخت ِ کائوچوک
 Gummigrundsubstanz; کَتیرا
 Gummischlauch; لولهٔ لاستیکى، شِلَنگ

@@ -1,10 +1,10 @@
+Paar; جُفت
+- Ehepaar; زوج
 paar;
 - ein paar Schüler; چَند تا شاگِرد
 - mit den paar Büchern, die ich gelesen habe; با چُس مِثقال ِ کِتابى که خواندَم
 - er kommt alle paar Tage; هَر چَند روز قَرار است که بیايَد
 - ein paar Jungens sind eingestiegen; دو سه تا جاهِلان سَوار شُدَند
-Paar; جُفت
-- Ehepaar; زوج
 paaren; (s. -) (präs.) (جُفت گیرى کَردَن، گائیدَن (مى گايَد
 Paarung; جُفت گیرى
 paarweise; دو به دو، جُفت جُفت، دو تا دو تا
@@ -43,7 +43,7 @@ Palette; تَخته شِستى
 - das umfasst die ganze Pallette; از شیر ِ مُرغ گِرِفته تا جان ِ آدَمى زاد
 - Farbpalette; جَدوَل ِ رَنگها
 paletti;
-- alles paletti; هَمه اش رو بِراه است
+- alles paletti; هَمه اش رو بِراه است، هَمه چیز خوب و رَدیف است
 Palme; نَخل
 - Zierpalme; نَخل ِ زینَتى
 Palmenhain; نَخلِستان
@@ -100,6 +100,8 @@ Paradies; بِهِشت، فِردوس، مینو
 Paradiesbewohner; فِردوس نِشین، خُلد آشیان
 Paradiesgarten; جَنَت
 Paradiesquelle; کوثَر
+Paradigma; چارچوب ِ فکری، اُلگو، اُلگوواره، جَهان بینی
+- Paradigmenwechsel; تَغییر ِ اُلگوواره
 paradox; ضِد و نَقیض، مُتَناقِض
 paradoxerweise; بِطور ِ مُتَناقِض
 Paragraph; ماده، بَند
@@ -232,7 +234,8 @@ Patchwork; چِهِل تیکه بافى
 Pate; (Patin) (پِدَر ِ تَعَمیدى (مادَر ِ ـ
 patent;
 - er ist patent; او آدَمى با هوش و مَزه است، ـ خوش بَرخورد است
-Patent; (n) اِختِراع ِ ثَبت شُده
+Patent;
+- Patent (n); اِختِراع ِ ثَبت شُده، سَنَد ِ ثَبت ِ اِختِراع
 - er hat das Patent dafür; او صاحِب ِ حَق ِ اِمتیاز بَراى ِ این چیز است
 Patentamt; اِدارهٔ ثَبت ِ اِختِراعات
 Patentinhaber; صاحِب ِ اِمتیاز ِ اِختِراع
@@ -263,6 +266,7 @@ pauken;
 pauschal; روى ِ هَم رَفته
 Pauschalreisen; مُسافِرَت ِ شامِل ِ هَزینه ها
 Pause; اِستِراحَت
+- sie redet ohne Pause; او نَفَس نَکِش حَرف می زَنَد
 - in den Schreibpausen; دَر خَلال ِ نِوِشتَن
 Pausenklingel; زَنگ ِ اِستِراحَت
 pausenlos; بِدون ِ وَقفه، پُشت ِ سَر ِ هَم
@@ -326,9 +330,9 @@ Pension; مُستَمِرى، حُقوق ِ بازنِشَستِگی
 - Pension, Gasthaus; خوابگاه، پانسیون
 Pensionär; مُستَمِرى بِگیر، بازنِشَسته
 Perestroika; پِروستریکا
+Perfekt; (n) ماضى ِ نَقلى
 perfekt; بى عِیب، کامِل
 - der Handel ist noch nicht perfekt; يَخَش چَندان نَگِرِفته است
-Perfekt; (n) ماضى ِ نَقلى
 Perfektion; کَمال
 Perfektionist; شَخصى که دَر اِجراى ِ کار سَعى مى کُنَد آنرا به بِهتَرین وَجه اَنجام دَهَد
 perforieren; سوراخ دادَن
@@ -486,6 +490,7 @@ Pflege; مُراقِبَت، پَرَستارى
 pflegebedürftig;
 - pflegebedürftige Person; آدَم ِ بالینى، ـ بَستَرى، ـ فَراشى
 Pflegeeltern; ناپِدَرى و نامادَرى
+Pflegeheim; خانهٔ سالمَندان
 pflegeleicht;
 - ein pflegeleichtes Kind (popul.); بَچهٔ بى درد ِ سَر
 pflegen; .از کِسی مُواظِبَت کَردَن، - پَرَستداری ک
@@ -597,8 +602,8 @@ pikant;
 - eine pikante Geschichte; داستان جِلف است
 pikiert;
 - er reagiert pikiert; مِثل ِ اینکه آبرويَش رَفته است قیافه به خود مى گیرَد
-Pilger; (pl.) زائِر (زائِرین، زُوار)، چاوُش
-- (echter) Pilger; (i. Gegensatz zu: Pseudo-) (حاجی جاده ای (- مِعده ای
+Pilger; زائِر (زائِرین، زُوار) (.pl) ، چاوُش
+- echter Pilger; حاجی جاده ای (- مِعده ای) (- i. Gegensatz zu: Pseudo)
 Pilgerschaft; زیارَت
 Pille; قُرض، حُب
 Pilot; خَلَبان
@@ -631,6 +636,7 @@ Plackerei; سَگ دُوى، کَد
 Plage; زَجر، اَذیَت
 - Plage (z.B. Tier-); بَلا، آفَت
 - von der Plage des ... verschont; از شَر ِ... راحَت شُدَن
+- das ist eine Plage (i.S.: Problem); این مَخمَصه است
 plagen;
 - jem. plagen; رَنجانیدَن، رَنج دادَن، آزار د.، اَذيَت کَردَن
 - s. plagen; سَگ دو زَدَن
@@ -765,7 +771,7 @@ plump; (linkisch) بَد قُواره
 Plunder; آل و آشغال، خِرت و پِرت
 Plural; جَمع
 - das Wort steht im Plural; این کَلَمه به صورَت ِ جَمع نِوِشته شُده
-Pluralismus; کِثرَت ِ عَقايِد و آراء، کِثرَت گِرائى
+Pluralismus; کِثرَت ِ عَقايِد و آراء، کِثرَت گِرائى، تَکثَرگِرایی
 Plus;
 - ich habe ein Plus gemacht (finanz.); مَن سود بُردَم
 plus;
@@ -803,8 +809,8 @@ Polarisation; اِستِقطاب
 Polarisierung;
 - Polarisierung der öffentlichen Meinung; قُطبى کَردَن ِ عَقايِد ِ عُمومى
 Polemik; جَدَل، مُناظِره، مُجادِله
-Polen; (geograph.) لَهِستان
 polen; قُطبى کَردَن
+Polen; (geograph.) لَهِستان
 Police;
 - Versicherungspolice; بیمه نامه
 polieren; صِیقَل دادَن
@@ -1357,13 +1363,13 @@ Pumpe; تُلُمبه، پُمپ
 pumpen; تُلُمبه زَدَن، پُمپ کَردَن
 - jem. Geld pumpen; به کِسى پول قَرض دادَن
 - von jem. Geld pumpen; پول قَرض گِرِفتَن، پَرداخت ِ بَعدى
+punkt; رأس ِ
+- punkt 4 Uhr; سَر ِ ساعَت ِ ۴، رأس ِ ـ
 Punkt; (m) نُقطه، نُکته
 - das ist mein schwacher Punkt; این نُکته ضَعَف ِ مَن است
 - mein Drachen wurde zu einem winzigen Punkt; بادبادَکَم خال ( - ِ آسمان) شُد
 - kommen Sie bitte auf den Punkt; به موضوع ِ اَصلى بِرِسید، بِدون ِ شاخ و بَرگ حَرف بِزَنید، حاشیه نَرو
 - Hauptpunkt; لُب ِ مَطلَب
-punkt; رأس ِ
-- punkt 4 Uhr; سَر ِ ساعَت ِ ۴، رأس ِ ـ
 Punkto;
 - in Punkto ...; دَر رابِطه با
 Punktzahl; حَد ِ نِصاب

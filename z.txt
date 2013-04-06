@@ -16,7 +16,8 @@ zähflüssig; مايِعى که داراى ِ اِصطِحکاک ِ داخِلى
 Zähflüssigkeit; ویسکوسیته، چَسبَندِگى
 Zähigkeit;
 - sie geben an wegen ihrer Zähigkeit; لاف ِ اِستِحکام و مُقاوَمَت مى زَنَند
-Zahl; (pl.) (شُماره، عَدَد (اَعداد)، رَقَم (اَرقام
+Zahl;
+- Zahl (pl.) ; شُماره، عَدَد (اَعداد)، رَقَم (اَرقام)
 - ganze Zahl; عَدَد ِ صَحیح
 - gebrochene Zahl; عَدَد ِ کَسرى
 - gerade Zahl; عَدَد ِ زوج، ـ جُفت
@@ -72,7 +73,8 @@ Zahlungsbilanz;
 Zahlungseinstellung; خاطِمهٔ پَرداخت، قَطع ـ
 Zahlungsfälligkeit; واجِب اُلاَدا
 zahlungsfreudig; خوش حِساب
-zahlungsunfähig (*:pleite); مایه سوز
+zahlungsunfähig;
+- zahlungsunfähig (*:pleite); مایه سوز
 Zahlungsunfähigkeit; اِفلاس، تَفلیس، پَرداخت ناپَذیرى، اِعسار
 Zählwerk; شُمارِشگَر ِ کُنتور
 zahm; مُستأنِس، اَهَلى، رام شُده
@@ -676,6 +678,7 @@ zuckend; مُرتَعِش
 Zucker; شِکَر
 - Rohrzucker; قَند ِ نِیشِکَر
 - Zuckerbrot & Peitsche; شَلاق و عَلیق، چَماق و حَلوا
+- Puderzucker; خاکه قَند
 Zuckerkrankheit; ذیابیطوس، بیماری ِ قَند
 Zuckerrohr; قَصَب اُلسُکر، نِیشِکَر
 Zuckerrübe; جُغُندُر ِ قَند
@@ -780,7 +783,7 @@ Zugmaschine; کَلهٔ ماشین، سَر ِ ـ، خودرو
 Zugochse; وَرزگاو
 Zugriff; دَسترِس، دَسترِسی
 zugrunde;
-- zugrunde gehen; به هَدَر رَفتَن، سَگ کُش شُدَن
+- zugrunde gehen; به هَدَر رَفتَن، سَگ کُش شُدَن، دِق کَردَن
 - einer Sache zugrunde liegen; زَمینهٔ چیزى بودَن
 - jem. zugrunde richten; کِسى را تَباه کَردَن، ـ ضايِع ک.، ـ بى سَر و سامان ساختَن
 Zugseil; سیم ِ بُگسِل
@@ -966,6 +969,11 @@ zurückschicken; بَرگَرداندَن
 - sie waren in der Gefahr, nach ... zurückgeschickt zu werden; آنها در خَطَر ِ بَرگَردانده شُدَن به ... بودَند
 zurückschlagen; وا زَدَن
 - (Gegenstand) zurückschlagen; چیزى را پَس زَدَن
+zurückschrecken;
+- zurückschrecken, zögern; دِل کَردَن
+- sie schrecken nicht zurück vor Manipulationen; آنها دِل نِمی کُنَند از دَست کاری کَردَن
+- er wüde vor einem Verbrechen nicht zurückschrecken; از اِرتِکاب به جُرم رو گَردان نَبود
+- jem., der vor nichts zurückschreckt; کِسى از سَر ِ هیچ چیز نِمى گُذَرَد، او از هیچ کارى روگَردان نِمى شَوَد
 zurücksenden;
 - eingegangene Manuskripte werden nicht zurückgesandt; مَقاله هاى ِ رِسیده مُستَرِد نِمى شَوَند، - بَرگَردانده نِمی شَوَند
 zurückstecken; کوتاه آمَدَن، کوتاهى کَردَن
@@ -1331,8 +1339,9 @@ Zwitter; نَرموک
 - zwittrige Pflanze; گیاه ِ يِک پایه داراى ِ پَرچَم و مادِگى است
 zwölf; دَوازدَه
 Zygote; سِلول ِ تُخم ِ لِقاح یافته
-zyklisch; دايِره اى، حَلقَوى، اِدوارى، دوره اى
+zyklisch; دايِره اى، حَلقَوى، اِدوارى، دوره اى، دورانی
 - zyklische Veränderung; تَغییر ِ گِرد گَشت، ـ دوره اى
+- zyklische Schwankungen; نَوَسانات ِ دورانی
 Zyklus; دوره
 - Lebenszyklus; چَرخهٔ زِندِگى، دورهٔ ـ
 Zylinder; اُستُوانه، سیلَندر

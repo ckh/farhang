@@ -23,6 +23,10 @@ oben;
 Ober; گارسُن
 Oberarzt; سَرپِزِشک
 Oberbürgermeister; شَهر دار ِ کُل
+Oberfläche; سَطح، رویه
+- Oberflächenumgebung (*: Computerbegriffe); میزکار
+- Wasseroberfläche; رویۀ آب، سَطح ِ آب
+- Erdoberfläche; کُرِۀ زَمین
 Oberfläche; (pl.) سَطح (سُطوح)، رویه
 Oberflächenspannung; کِشِش ِ سَطحى ِ مايِعات
 oberflächlich; سَطحى
@@ -124,10 +128,11 @@ offensichtlich;
 - das ist offensichtlich eine Lüge; این دُروغ ِ شاخدار است
 offensiv; تَهاجُمى
 Offensive; تَهاجُم، تَعرُض، آفِند، حَمله، هُجوم
+öffentlich; دَر مَلا ِ عام، دَر حُضور ِ هَمه
 Öffentlichkeit;
 - Öffentlichkeit des Verfahrens; عَلَنيَت ِ مُحاکِمه
 - an die Öffentlichkeit kommen; شايِع شُدَن
-- an die Öffentlichkeit bringen; به شُیوع رِساندَن
+- an die Öffentlichkeit bringen; به شُیوع رِساندَن، به اِطِلاع ِ مَردُم رِساندَن
 - in aller Öffentlichkeit; دَر مَلاء ِ عام، دَر اِنظار ِ عُمومى، جِلوى ِ چِشم ِ هَمِگان
 offerieren; عَرضه کَردَن
 offiziell; رَسمى
@@ -140,7 +145,7 @@ oft; غالِباً، بارها، اَغلَب
 - oft kommt es vor, dass ...; بَسا مى شَوَد که
 - wie oft habe ich gesagt, dass ...?; چَند بار گُفتَم که ...؟ بارها و بارها ـ
 - des öfteren; مُکَرَر، بارها
-ohne; ِ بِدون
+ohne; بِدون ِ
 - ohne dich; بى تو
 - ohne jede ...; خالى از
 - ohne wirklich ...; بى هیچ
@@ -259,6 +264,7 @@ Opposition; اُپوزیسیون، مُخالِفَت، جِناح ِ مُخال
 - ausserparlamentarische Opposition; اُپوزیسیون ِ بُرون ِ پارلِمانى
 - in die Opposition gehen; عُهده دار ِ وَظیفهٔ اَقَليَت شُدَن
 Optik; نور شِناسى، تَجهیزات ِ نورى
+- das kommt ganz auf die Optik an; این مَربوط به دید است
 Optiker; عِینَک ساز
 optimal; عالى، از هَمه چیز بِهتَر است
 optimieren; به حَد ِ اَعلاء رِساندَن
@@ -318,6 +324,7 @@ Ordnung;
 - Gemeindeordnung; آئین نامهٔ بَخشدارى
 - Neuordnung (der ...); (... ِ) نوسازِماندَهى
 - Raumordnung; نَسق ِ اِنتِفاع از زَمین، آئین نامهٔ انتفاع از مُلک و زَمین
+- alles ist in bester Ordnung; هَمه چیز خوب و رَدیف است
 Ordnungsamt; اِدارهٔ ثَبت
 ordnungsgemäss; بَر طِبق ِ قانون
 Oregano; مَرزَنگوش
@@ -352,7 +359,7 @@ Orgie; عَیاشى، عِیش و نوش، عِشرَت
 - eine Orgie veranstalten; جَشن ِ خارِق ِ رُسوم گِرِفتَن
 Orient; مَشرِق زمین، شَرق
 Orientalistik; شَرق شِناسى
-orientieren; .وانِگَریستَن، جَهَت دادَن، اِطِلاعات د
+orientieren; وانِگَریستَن، جَهَت دادَن، اِطِلاعات د.
 - ich muss mich erst einmal orientieren; مَن بایَد اَوَل جَهَت ِ خودَم را پِیدا کُنَم
 - eine Politik neu orientieren; به سیاسَت جَهَت ِ نو دادَن
 - linksorientiert; چَپ گِرا
@@ -383,7 +390,8 @@ Orthopäde; اُستُخوان پِزِشک
 örtlich; مَحَلی
 - örtliche Zuständigkeit; صَلاحيَت ِ مَحَلى
 Ortsanzeiger; مَکان نَما
-Ortschaft; (pl.) دِهکَده، آبادى، قَریه (قَراء)، قَصَبه (قَصَبات)، بَلاد
+Ortschaft;
+- Ortschaft (pl.); دِهکَده، آبادى، قَریه (قَراء)، قَصَبه (قَصَبات)، بَلاد
 ortsfest; ثابِت
 Ortsgespräch (Telefon); صُحبَت ِ تِلِفُنى ِ مَحَلى
 Ortskrankenkasse; بیمهٔ مَحَلى ِ بیمارى

@@ -17,6 +17,7 @@ rächend; مُنتَقِم
 Rächer; مُنتَقِم، دادگیر
 Rachitis; مَلاسَت ِ اُستُخوان، نَرمى ِ ـ
 Rachsucht; کینه توزى، اِنتِقام جوئى
+rachsüchtig; کینه به دِل
 Rad; چَرخ
 - sie erfinden das Rad nochmal neu; آنها راهى را طِى مى کُنَند که بُزُرگتَرها و گُذَشتِگان تَلاش ِ خودرا صَرف ِ آن کَرده اَند
 - er ist nur ein kleines Rädchen im Getriebe; او مُهرهٔ ناچیز بیش نیست
@@ -69,7 +70,7 @@ raffgierig; دَندان ِ گِرد
 - er ist raffgierig; دَندانَش گِرد است
 Raffinerie; پالايِشگاه
 - Erdölraffinerie; پالايِشگاه ِ نَفت، تَصفیه گاه
-raffinieren; (präs.) (تَصفیه کَردَن، پالايِش ک.، پالودَن (مى پالايَد
+raffinieren;  تَصفیه کَردَن، پالايِش ک.، پالودَن (مى پالايَد)  (.präs)
 raffiniert; هیله گَر، زیرَکانه
 - raffinierter Zucker; شِکَر تَصفیه شُده
 Rage; غَضَب، خَشم
@@ -124,9 +125,9 @@ rangieren;
 - rangieren (Zug); به خَط ِ دیگَر راندَن
 - er rangiert an 2. Stelle; او دَر دَرَجهٔ دُوُم قَرار دارَد
 Rangordnung; تَرتیب ِ مَقام
+Ranke; پیچَک
 Ränke; زَمینه سازی
 - Ränke schmieden; زَمینه سازى کَردَن، از هَم خورده گِرِفتَن
-Ranke; پیچَک
 ranmachen;
 - s. an jem. ranmachen; تو نَخ ِ کِسی رَفتن
 ranzig; خَراب، فاسِد
@@ -433,6 +434,7 @@ Rechtsnorm; مِعیار ِ حُقوقى، قاعِدهٔ ـ
 Rechtsordnung; نِظام ِ قَضائى
 rechtsorientiert; راست رو، راستگَرا
 Rechtspflege; نِصفَت، حَقانيَت
+Rechtsprechung; نِظام ِ قَضایی
 Rechtsspruch; حُکم ِ قِضاوَت
 Rechtsstaat; حُکومَت مُبتَنىٰ بَر قانون، حُکومَت ِ مَشروطه
 Rechtsstreitigkeit; دَعواى ِ حُقوقى، نِزاع ِ ـ
@@ -456,32 +458,34 @@ Rede; صُحبَت، مُخاطِبه، سُخَنرانى
 - jem. zur Rede stellen; کِسى را با چیزى رو بِرو کَردَن
 - kaum war ich zu Hause, stellte mich meine Mutter zur Rede; هَمینکه آمَدَم خانه مادَرَم شُروع کَرد به سین جیم کَردَنَم
 - Tischrede; سُخَنرانى ِ سَر ِ میز ِ غَذا
+- große Reden schwingen; قِصه دِراز کَردَن
 redegewandt; زَبان فَصیح، فَصیح اُلکَلام، دَر سُخَن گُفتَن فَصیح و بَلیغ بودَن
 Redegewandtheit; فَصیحى
 Redekunst; فَن ِ بَلاغَت
 reden; صُحبَت کَردَن، سُخَن گُفتَن
 - reden von; دَم زَدَن از
-- viel reden; شاخ و بَرگ حَرف زَدَن
+- viel reden; شاخ و بَرگ حَرف زَدَن، کِسی زَبان دارَد
 - nicht viel reden; بدون شاخ و بَرگ حَرف زَدَن
-- ununterbrochen reden; يِک ریز حَرف زَدَن، وِروِر حَرف زَدَن
-- rede nicht von Dingen, von denen du nichts weißt; تو به اوج ِ فَلَک چه دانى چیست چون نَدانى که در سَراى ِ تو کیست
-- unfähig zu reden; صامِت
-- einer, der langsam redet; آدَم ِ بَطى اُلکَلام
-- drauf los reden; .دَهَن لَق کَردَن، آسمان ریسمان ک
-- von jem. reden; حَرف از کِسی شُدَن
-- dazwischen reden; حَرف توی ِ حَرف آمَدَن
-- freundlich reden; خوش زَبان
-- so reden wir nicht miteinander!; ! ما با هَم از این حَرفها نَداریم
-- gegen die Wand reden; به دیوار حَرف زَدَن
 - aus dem hohlen Bauch heraus reden; از روی ِ بُخار ِ مِعده حَرف زَدَن
 - in sich nicht schlüssiges Zeug reden; بَلبَلی خواندَن
 - gespreizt reden; مَجیز گوئى کَردَن
+- ununterbrochen reden; يِک ریز حَرف زَدَن، وِروِر حَرف زَدَن
+- rede nicht von Dingen, von denen du nichts weißt; تو به اوج ِ فَلَک چه دانى چیست چون نَدانى که در سَراى ِ تو کیست
+- unfähig zu reden; صامِت
+- Reden ist Silber, Schweigen ist Gold; سُخَن اَگَر زَر است سُکوت گوهَر است
+- jem. zum Reden bringen; از کِسى حَرف کِشیدَن، از زیر ِ زَبان ِ کِسى حَرف ک.
+- geschickter sein im Reden als ...; سَر ِ زَباندارتَر از ... بودَن
+- dazwischen reden; حَرف توی ِ حَرف آمَدَن
+- freundlich reden; خوش زَبان
+- so reden wir nicht miteinander!; ما با هَم از این حَرفها نَداریم
+- gegen die Wand reden; به دیوار حَرف زَدَن
+- einer, der langsam redet; آدَم ِ بَطى اُلکَلام
+- drauf los reden; دَهَن لَق کَردَن، آسمان ریسمان ک.
+- von jem. reden; حَرف از کِسی شُدَن
 - redendes Wesen (Mensch); وُجود ِ مَقولاتى
 - falsche Reden führen; بِکَذب تَنَطُق کَردَن
 - Reden und Tun sind zweierlei; دو صَد گُفته چون نیم کِردار نیست
-- Reden ist Silber, Schweigen ist Gold; سُخَن اَگَر زِر است سُکوت گوهَر است
-- jem. zum Reden bringen; .از کِسى حَرف کِشیدَن، از زیر ِ زَبان ِ کِسى حَرف ک
-- geschickter sein im Reden als ...; سَر ِ زَباندارتَر از ... بودَن
+- viel (dummes Zeug) reden; زِه زَدَن
 Redeordnung; تَرتیب ِ تَقَدُم ِ سُخَنرانى
 Redewendung; عِبارَت ِ عامیانه، اِصطِلاح ِ ـ
 redigieren; ویرایِش کَردَن
@@ -1142,7 +1146,9 @@ Rolle;
 rollen; غَلتاندَن، غِل دادَن
 - seine Augen rollen; چِشمهايَش غِل مى خورَند
 - der Reifen rollt auf mich zu; لاستیک به طَرَف ِ مَن قِل مى خورَد
-Roller (Spielzeug); رو رؤک، رورورَک
+Roller (Spielzeug); رو رؤک
+- mit dem Roller rollern; رورَوَک سَواری کَردَن
+rollern; رورَوَک سَواری کَردَن
 Rollstuhl; صَندَلى ِ چَرخ دار
 Rolltreppe; پِله هاى ِ مُتَحَرک
 Roman; رُمان
