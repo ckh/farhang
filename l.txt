@@ -118,7 +118,8 @@ lamentieren; وِنگ زَدَن
 Lamm; بَره
 Lampe; لامپ، چِراغ
 - Hängelampe; قِندیل
-Lampenfieber; تَرس از ظُهور روی ِ صَحنه
+Lampenfassung; سَرپیچ
+Lampenfieber; تَرس از ظُهور روی ِ صَحنه، صَحنه هَراسی
 Land; کِشوَر، زَمین، خاک
 - im Lande der Toten (poes.); دَر دَیار ِ مُردِگان
 Landebahn; باند ِ فُرود گاه
@@ -296,7 +297,7 @@ Latschen;
 - Latschen (Hausschuhe); دَمپائی
 - Latschen (Strauch); دِرَخت ِ کاج ِ کوهی
 latschen; تِلو تِلو راه رَفتَن
-- jem. eine latschen (popul.); يِکی توی ِ گوش ِ کِسی خواباندَن
+- jem. eine latschen (Dialekt, i.S. ohrfeigen); يِکی توی ِ گوش ِ کِسی خواباندَن
 Latte; تَختهٔ باریک
 Lätzchen; پیش بَند
 lau; مُلايِم
@@ -309,6 +310,7 @@ Laubbaum; دِرَخت ِ بَرگدار با بَرگهای ِ غِیر ِ سو
 Laube; آلاچیق، سايِبان
 Laubholz; چوب ِ دِرَخت ِ بَرگدار
 Lauch; تَرهٔ فَرَنگی
+Laudatio; مَداحی، سِتایِشگَری
 Lauer;
 - sie liegen auf der Lauer; آنها دَر کَمین هَستَند
 lauern;
@@ -357,7 +359,7 @@ Laufpass;
 Laufschritt;
 - im Laufschritt; (be-dow) دَوان دَوان، بِه دو
 - sie kamen im Laufschritt an; آنها بِدو بِدو آمَدَند
-Laufsteg; گُذَرگاه
+Laufsteg; دِفیله
 Laufwerk (bei Computer); دیسک ِ گَردان
 Laufzeit; زَمان ِ عُبور، مُدَت ِ زَمان ِ اِعتِبار
 Lauge; مَحلول ِ مَواد ِ قِلیائی دَر آب، مَحلول ِ بازی
@@ -524,6 +526,7 @@ lebhaft; چابُک
 Lebhaftigkeit; جُنب و جوش
 leblos; بی جان، مُرده
 - leblose Maschine; ماشین از جان اُفتاده، ـ اَنداخته، ـ از کار اُفتاده
+- ihre leblosen Gesichter (vor Schreck); قیافهٔ موش مُردهٔ ایشان
 lechzen; از فَرط ِ دِرَندِگی لَه لَه زَدَن
 - lechzend sein nach; راغِب ِ چیزی بودَن، آب از دَهانَش سَرازیر می شَوَد، سَخت شیفته و خواهان ِ چیزی گَشتَن، آب اَنداختَن ِ دَهان، فُزوده شُدَن ِ اِشتِها نِسبَت بچیزی، آب دَر دَهان آمَدَن از... ، شائِق و خواهان ِ آن شُدَن
 leck; سوراخ دار، رَخنه دار
@@ -744,11 +747,12 @@ Leiter;
 - s. als Leiter eignen; ساخت ِ يِک رَهبررا داشتَن
 - er ist Leiter der Bibliothek; او مُتَصِدی ِ کِتابخانه است، او مُدیر ِ ـ
 - elektrischer Leiter; هادی ِ بَرقی
+- Leiter (einer Einrichtung); سَرپَرَست (ِ یِک مؤَسِسه)
 Leitfaden; راهنَمائی
 Leitfähigkeit; قابِليَت ِ هِدايَت
 Leitgewebe (biolog.); بافت ِ آوَندی
 Leithammel; نُخراز
-Leitung; راهبُرد
+Leitung; راهبُرد، ریاسَت
 - er ist mit Leitung betraut; او دَر مَقام ِ ریاسَت است
 - unter der Leitung von; با رَهنِمود ِ فِلان، با مُدیريَت ِ ـ
 - er hat die Leitung der Schule; او ریاسَت ِ مَدرِسه را عُهده دار است
@@ -1040,6 +1044,7 @@ Lobeshymnen;
 - Lobeshymnen in Bezug auf ... halten; نُطق ِ غَرائی دَر چیزی کَردَن، خَطابهٔ فَصیحی دَر مَدح ِ کِسی خواندَن
 Lobpreis; تَسبیح، حَمد، ثَناء، سُبحان، سِتايِش، نیايِش
 lobpreisen; حَمد و ثَناء گُفتَن
+Lobrede; مَداحی، سِتایِشگَری
 Lobredner (auch iron.); ثَنا گو
 Loch; گودال، سوراخ
 - elendes Loch; سولدانی
@@ -1239,11 +1244,11 @@ Luftwaffe; نیروی ِ هَوائی
 Lüge; کِذب، دُروغ
 - sein Tun straft diesem Anspruch Lügen; اَعمالَش این اِدِعا را تَکذیب می کُنَد
 - Notlüge; دُروغ ِ مَصلَحَت آمیز
+lugen; سَرَک کِشیدَن
+- kein Mensch lugt hervor; هیچ سَری سَرَک نمی کِشَد
 lügen; دُروغ گُفتَن
 - lügen, um seine religiöse Überzeugung nicht zu verraten; تَقیه کَردَن
 - lügen wie gedruckt; چاپ زَدَن، هَمهٔ حَرفَش کَشک است
-lugen; سَرَک کِشیدَن
-- kein Mensch lugt hervor; هیچ سَری سَرَک نمی کِشَد
 Lügenmärchen; اَباطیل
 Lügner; چاخان، دُروغگو، کاذِب، کَذاب
 Luke; روزَنه

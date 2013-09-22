@@ -140,7 +140,10 @@ verausgaben;
 veräussern; از دَست دادَن، فُروختَن
 Verb; (pl.) (فِعِل (اَفعال
 - unregelmässige Verben; اَفعال ِ بیقاعِده
-verbal; بِطَریق ِ شَفاهى، شَفاهاً
+verbal; بِطَریق ِ شَفاهى، شَفاهاً، کَلامی، زَبانی، 
+- verbale Fähigkeiten; تَوانایی ِ کَلامی
+- verbale Vorstellung; تَصویر ِ ذِهنی ِ کَلامی
+- verbales Fassungsvermögen; دَرک ِ کَلامی
 Verband;
 - Verband (mediz.); باند
 - Verband anlegen; .باند کَردَن، ضِماد ک.، پانسِمان ک
@@ -181,7 +184,7 @@ verbeult;
 - verbeulte Mütze; کُلاه از ریخت اُفتاده
 verbiegen (s. -); خَم شُدَن، خَمیدَن
 - verbogen; دَر هَم پیچیده، کَژ و مَژ
-verbieten; .مَنع کَردَن، مَمنوع ک.، تَحریم ک.، قَدِغَن ک
+verbieten; مَنع کَردَن، مَمنوع ک.، تَحریم ک.، قَدِغَن ک.، مُمانَعَت ک.
 verbietend, abratend; زاجِر
 Verbilligung; اَرزانى
 verbinden; مُتَصِل کَردَن، وَصل ک.، پِیوَستَن، پِیوَند دادَن، مُلحَق شُدَن
@@ -231,10 +234,10 @@ verbluten; از شِدَت ِ خونریزى مُردن
 verbocken; سَنبَل کاری کَردَن
 verborgen;
 - verborgen sein (*:verbergen); .نِهُفته بودَن، قائم ب.، نهان ب.، پنهان ب.، مَکنون ب.، مُتَوارى ب
-Verbot; نَهى، ناهیه، مَنع، مُمانَعَت، مَمنوعيَت
+Verbot; نَهى، ناهیه، مَنع، مُمانَعَت، مَمنوعيَت، مُمانَعَت
 - Verbot einer Partei; مَنع ِ حِزبى
 - Arbeitsverbot; مَنع ِ کار
-- Ausreiseverbot (Einreise-); (مَمنوع اُلخُروج (ـ اُلوُرود
+- Ausreiseverbot (Einreise-); مَمنوع اُلخُروج (ـ اُلوُرود)
 verboten; نَهى، ناهى، مَمنوع
 - verbotene Taten; مَنهیات
 - er hat es ihm verboten; او این را به او مَنع کرد
@@ -1556,6 +1559,7 @@ versteigern; به مُزايِده گُذاشتَن، حَراج کَردَن
 Versteigerung; مُزايِده، حَراج
 versteinern; سَنگواره، تَبدیل به مُستَحاث شُدَن
 - wie versteinert stehen bleiben; کِسى سَر ِ جايَش خُشکِش زَده باشَد
+- ihre verstenerten Gesichter; قیافهٔ موش مُردهٔ ایشان
 Versteinerung; مُستَحاث، سَنگ شُده
 verstellen;
 - die Uhr verstellen; ساَعت را تَغییر دادَن
@@ -1781,7 +1785,7 @@ Verwahrlosung; پوسیدِگی، خَرابی
 Verwahrung; اَمانَت، نِگَهدارى
 - etwas in Verwahrung nehmen; چیزى را اَمانَت گِرِفتَن
 Verwahrzelle; بازداشتگاه
-Verwalter; مُباشِر، پیشکار
+Verwalter; مُباشِر، پیشکار، سَرپَرَست
 - Konkursverwalter; مُتَوَلى ِ وَرشِکَستِگى
 Verwaltung; ضَبط و رَبط، اِداره، مُدیريَت
 Verwaltungsgericht; دادگاه ِ اِدارى
@@ -2233,6 +2237,7 @@ vorbeiziehen;
 Vorbeiziehender; رَهگُذَر
 Vorbemerkung; مُقَدَمه، پیش گُفتار
 - eine kurze Vorbemerkung; يِک مُقَدَمهٔ کوتاه
+- Vorbemerkung zu Buch Daniel; پیشگُفتار بَر کِتاب ِ دانیال
 vorbereiten; .تَدارُک دیدَن، آمادِگى کَردَن، تَهیه ک. مُهَیا ک
 - s. vorbereiten (für bestimmte Aufgabe); .خودرا مُستَعِد کَردَن، ـ آماده ک
 - ich brauche 2 Tage, um alles vorzubereiten; دو روز بايَد مَشغول ِ تَرتیب دادَن ِ کارها باشَم

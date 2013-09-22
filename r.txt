@@ -66,6 +66,7 @@ raffen;
 - (Geld) raffen; از روى ِ حِرص جَمع کَردَن
 - Segel raffen; شِراع را پائین آوَردَن
 - geraffter Stoff; پارچهٔ چین خورده
+Raffgier; حِرص
 raffgierig; دَندان ِ گِرد
 - er ist raffgierig; دَندانَش گِرد است
 Raffinerie; پالايِشگاه
@@ -1141,7 +1142,7 @@ Rolle;
 - er ist von der Rolle; فیوزِش پَرت است
 - Farbrolle; غَلتَک ِ رَنگ
 - Papierrolle; اُستُوانهٔ کاغَذ
-- Qumranrollen; مَخطوطات ِ کومران
+- Qumranrollen; مَخطوطات ِ طومران، طومار ِ -
 - Tuchrolle; يِک پارچهٔ چَنبَره
 rollen; غَلتاندَن، غِل دادَن
 - seine Augen rollen; چِشمهايَش غِل مى خورَند
@@ -1187,6 +1188,7 @@ rot; سُرخ، قِرمِز
 - Roter Halbmond; هِلال ِ اَحمَر
 - Rotes Kreuz; صَلیب ِ سُرخ
 Rotation; دَوار، گَردان، چَرخِگى، چَرخِش
+Rotationsachse; مِحوَر ِ چَرخِش
 Rotationswalze; اُستُوانهٔ دَوار
 Röteln; بیمارى ِ سُرخچه
 rotieren; چَرخیدَن، بِدور ِ مِحوَر چَرخیدَن
@@ -1209,7 +1211,8 @@ Rübe; جُغُندُر
 Rubin; یاقوت ِ سُرخ
 Rubrik; مَقوله
 - unter die Rubrik von ... stellen; به حِساب ِ چیزی گُذاشتَن
-Rückbesinnung; باز شِناسى
+Rückbesinnung; باز شِناسى، بازنِگَری
+- Rücbesinnung auf ...; بازنِگَری دَر ...
 Rückblick; نَظَر به گُذَشته
 rücken;
 - einander auf den Leib rücken; به جان يِکدیگَر اُفتادَن
@@ -1425,6 +1428,8 @@ Rundlaufabweichung; از گَردِش ِ شُعاعى خارِج شُدَن
 rundlaufen (z.B.: Reifen); میزان چَرخیدَن
 Rundschreiben; پَخشنامه
 Rundstab; میله گِرد
+runterkommen;
+- runterkommen (i. S.: s. beruhigen); آرام باش،، راحَت باش
 runterschlucken; قورَت دادَن
 Runzel; شِکَن
 runzeln;

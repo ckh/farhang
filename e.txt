@@ -17,6 +17,7 @@ ebenbürtig;
 Ebene;
 - Ebene (geographisch); دَشت، قاع
 - die Ebene & die Berge; دَشت و کوها
+- die Ebene von ...; دَر جُلگۀ 
 - senkrechte Ebene; سَطح ِ عَمودى
 - auf Regierungsebene; دَر سَطح ِ دولَت
 ebenerdig; طَبَقهٔ هَم کَف، سَطح ِ هَموار ِ زَمین
@@ -217,6 +218,7 @@ Ehrlichkeit; راستگوئى، اِخلاص مَنوى
 ehrlos;
 - ehrloser Mensch; آدَم ِ شَلتاق
 - etwas als ehrlos darstellen; چیزى را بى آبرو جِلوه دادَن
+ehrsüchtig; جاه طَلَب
 Ehrung; بُزُرگداشت، تَجلیل، تَکریم، اِحتِرام
 ehrwürdig; بُزُرگوار
 - ehrwüdige Dame; زَن ِ مُوَقِر، ـ بُزُرگوار
@@ -438,12 +440,12 @@ eindeutig;
 - eindeutige Antwort; جَواب ِ قاطِع، ـ واضِح، ـ روشَن، ـ صَریح
 Eindeutigkeit; یِک جَهَت، صَراحَت
 eindicken (Saft, u.ä.); .مَشت کَردَن، غَلیظ ک
-Eindringen; نُفوذ، وُرود، دُخول
 eindringen;
 - in eine Sache eindringen; چیزى را غوررَسى کَردَن، دَر چیزى فُرو رَفتَن، نُفوذ کَردَن
 - in das Haus von jem. eindringen; به خانهٔ کِسى هُجوم بُردَن
 - auf jem. eindringen; به کِسى اِصرار کَردَن، کِسى را اِلحاح ک.، بَر کِسى فِشار آوَردَن
 - Feuchtigkeit dringt durch das Dach ein; رُطوبَت از راه ِ سَقف نَشت می کُنَد
+Eindringen; نُفوذ، وُرود، دُخول
 eindringlich; مُصِرانه، صَریحاً
 Eindringling; کَلاش، سَرخَر، مُتَجاوِز
 Eindruck; (pl.) اَثَر (آثار)، تأثیر
@@ -1533,9 +1535,11 @@ elementar;
 Elementareinheit; واحِد ِ اَصل
 Elementarteilchen; ذُرات ِ بُنیادى
 elend;
-- er fühlt s. elend; کوفته خاطِر است
+- elend /Mensch); (آدَم ِ) لئیم
 - elende Lage; حالَت ِ زار، ـ بَد بَخت، ـ مَفلوکانه
-Elend (n); مُستَمَندى، سیاه روزى، عُسرَت، سُتوه، فَلاکَت
+- er fühlt s. elend; کوفته خاطِر است
+Elend;
+- Elend (n); مُستَمَندى، سیاه روزى، عُسرَت، سُتوه، فَلاکَت
 - er ist nur ein Häufchen Elend; او سَر و پا رَنج و عِلَت است
 - das ganze Elend dieser Welt; تَمام ِ رَنج و ناکامى ِ این دُنیا
 Elendsviertel; مَحَل ِ فَقیر نِشینان، حَلَبى آباد
@@ -1555,6 +1559,8 @@ Ellenbogenfreiheit;
 - s. Ellenbogenfreiheit verschaffen; بِزور ِ آرَنج راه ِ خودرا باز کَردَن، بازو زَدَن
 Ellenbogengesellschaft; جامِعه که فَقَط از راه ِ زور به نَتیجه میرِسَد
 Ellipse; بِیضى
+Elogie;
+- Elogie, Lobrede; مَداحی
 Elohim (Name Gottes aus dem Alten Testament); اِلُهیم
 Elster; کَلاغ ِ جاره
 elterlich;
@@ -1854,7 +1860,7 @@ entfernen; بَرداشتَن، بیرون کَردَن
 - jem. aus dem Amt entfernen; کِسى را از مَنصَبى بَرداشتَن، ـ خَلع کَردَن
 entfernt; مُتَباعِد، دور اُفتاده
 - entfernte Ähnlichkeit; شَباهَت ِ تَقریبی
-- ... km entfernt von ...; ... کیلومِتر دور از ...
+- 50 km entfernt von ...; 50 کیلومِتر دور از ...، دَر 50 کیلومِتری  ِ ... است
 - eine Ewigkeit entfernt; تا آنجا یِک عالَم فاصِله دارَد
 - mehr als ... entfernt ist; بیش از ... به دور است
 - weit entfernt (*:abgelegen); مَتروک
@@ -2532,7 +2538,7 @@ Erfolgsaussichten; اُمید ِ مُوَفَقیَت
 Erfolgsleiter;
 - die Erfolgsleiter erklimmen; مَدارج ِ تَرَقى طِى کَردَن
 erforderlich;
-- erforderlich sein; مَطلوب بودَن
+- erforderlich sein; مَطلوب بودَن، مُستَلزِم ب.
 - es ist erforderlich, dass ...; از واجِبات است که، اِقتِضا مى کند، مُقتَضى است، ایجاب مى کُنَد که، واجِب است که
 - falls erforderlich; بِقَدر ِ لازِم، ـ لُزوم
 - dringend erforderlich; نیاز ِ مُبرَم
@@ -2540,6 +2546,7 @@ erforderlich;
 - die erforderliche Anzahl erreichen; بِحَد ِ نِصاب رِِسیدَن
 - wie auch immer erforderlich; هَر طور اِقتِضاء کُنَد
 - erforderliche Sorgfalt; دِقَت ِ لازِم، ـ واجِب
+- erforderlich machen; مُستَلزِم کَردَن
 erfordern; .مُستَلزِم بودَن، ایجاب کَردَن، تَقاضاى ِ چیزى را کَردَن، چیزى را مُلزَم ک
 - diese Situation erfordert Eile (*:verlangen); این وَضع عَجَله را ایجاب می کُنَد
 - das erfordert den ganzen Mann; مَرد میخواهَد
@@ -2631,7 +2638,7 @@ ergeben;
 - ergebener Mensch; آدَم ِ اِرادَت کیش
 - s. ergebend aus; ناشى از
 Ergebenheit; اِرادَتمَندى، تَسلیم، اِخلاصمَندى
-- Ergebenheit (relig.); عُبودیَت، تَوَرُع، فُروتَنى
+- Ergebenheit (relig.); عُبودیَت، تَوَرُع، فُروتَنى، خُشوع
 Ergebnis; کارکِرد، نَتیجه، حاصِل
 - Ergebnisse werden erlangt; نَتایِج حاصِل می شَوَد
 - die Ergebnisse sehen wir; پَدیدآوَرَنده ها را مى بینیم
@@ -3331,7 +3338,8 @@ erteilen; عَطا کَردَن، دادَن
 - jem. einen Auftrag erteilen; دَستور دادَن
 - jem. Vollmacht erteilen; اِختیار دادَن
 - jem. das Wort erteilen; به کِسى اِجازهٔ سُخَن دادَن
-Ertrag; (pl.) حُصول (حَواصِل)، مَحصول، عَمَل کِرد، نَتیجه (نَتایِج)، کار بُرد
+Ertrag;
+- Ertrag (pl.); حُصول (حَواصِل)، مَحصول، عَمَل کِرد، نَتیجه (نَتایِج)، کاربُرد، بازدِه
 - der Ertrag seiner Arbeit; راندِمان ِ کارِش، نَتیجهٔ ـ
 ertragen; چیزى را تاب آوَردَن، طاقَت آ.، تَحَمُل داشتَن، مُتَحَمِل شُدَن، با کِسى بُردبارى داشتَن
 - Hunger ertragen (*:aushalten); گُرُسنِگى را تَحَمُل کَردَن، با نَدارى ساختَن
@@ -3341,6 +3349,7 @@ erträglich;
 ertragreich; حاصِلخیز، پُر بار
 - sein Leben ist ertragreich; زِندِگى اَش پُر ثَمَر است، ـ رَیع دار است
 ertragsarm; کَم حاصِل
+Ertragsrate; نِرخ ِ بازدِه
 ertränken; .چیزى را دَر خود غَرق کَردَن، سَر ِ کِسى را زیر آب ک
 ertrinken; .غَرق شُدَن، مَغروق ش
 Ertrinkender; غَریق، مَغروق
@@ -3550,13 +3559,7 @@ essbar; مأکول، قابِل ِ خوردَن، خوردَنى، شِکُمى
 - ... um es eßbar zu machen (z.B. hartes Brot); تا دَندان گیرِش کُنَند
 - essbare Pilze; قارچ ِ خوراکى، ـ مأکول، ـ خوردَنى
 Essbares; مأکَل
-essen; خوردَن
-- mit vollen Backen essen; لُپ لُپ خوردَن
-- jem. etwas zu essen geben; چیزى را به خورد ِ کِسى دادَن، کِسی را خوراندَن
-- was soll ich ihm zu essen geben?; چه خوردِش بِدَهَم؟
-- essen kommen!; بیائید سُفره، غَذا حاضِر است
-- das Kind isst gut; بَچه خوب بُخور است
-Essen (n);
+Essen;
 - Essen (als Handlung); غَذا خورى، خورد
 - Essen, Nahrung; پُختَنیها، غَذا، خوراک
 - jem. zum Essen einladen; کِسى را به سَرف ِ غَذا دَعوَت کَردَن
@@ -3567,6 +3570,13 @@ Essen (n);
 - Essen & Trinken; تَناوُل، اَکل و شُرب، خورد و خوراک، آب و نان
 - Essen & Trinken hält Leib & Seele zusammen; خورد و خوراک تَن و جان را طَراوَت مى بَخشَد
 - Festessen; ضیافَت ِ غَذا، پُلو خوری
+- Kleinigkeit zum Essen; بَزمَچه
+essen; خوردَن
+- mit vollen Backen essen; لُپ لُپ خوردَن
+- jem. etwas zu essen geben; چیزى را به خورد ِ کِسى دادَن، کِسی را خوراندَن
+- was soll ich ihm zu essen geben?; چه خوردِش بِدَهَم؟
+- essen kommen!; بیائید سُفره، غَذا حاضِر است
+- das Kind isst gut; بَچه خوب بُخور است
 Essensreste; تَه ِ سُفره ها
 Essenz; اِسانس
 Essig; سِرکه، تُرشى
@@ -3634,8 +3644,8 @@ Euklid; اُقلیدُس
 Eule; بوف، بوم، جُغد
 - Eulen nach Athen tragen; زیره به کِرمان بُردَن، قَطره به دَریا زَدَن، آب به آبادانی می رَوَد ، تِشنِگی بَر شِبع و سیری دَلیل کُنَد
 Eunuch; خایه کِشیده، اَخته، خَصى، خواجهٔ حَرَمسَرا
-euphemisch;
-- euphemischer Ausdruck; لَفاظ ِ مُثبَت و با حُسن ِ تَعَبیر (به مَعنی ِ ماست مالی کَردَن)
+euphemistisch;
+- euphemistischer Ausdruck; لَفاظ ِ مُثبَت و با حُسن ِ تَعَبیر (به مَعنی ِ ماست مالی کَردَن)
 Euphorie; وَجد و طَرَب
 euphorisch; حالَت ِ وَجد
 Euphrat; رافِد، فُرات

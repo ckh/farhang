@@ -128,9 +128,11 @@ Fahrradständer; جاى ِ تَوَقُف دو چَرخه
 Fahrstuhl; آسانسُر
 Fahrt; سَفَر، عَزیمَت، گَردِش
 - in Fahrt sein (*:fit); سَر ِ حال بودَن
-- Fahrt bekommen; سُرعَت گِرِفتَن
 - er ist gut in Fahrt; کَله اَش گَرم شُده است
+- Fahrt bekommen; سُرعَت گِرِفتَن
 - innerlich in Fahrt kommen; از دَرون به جوش و خُروش آمَدَن، سَر ِ خُلق آمَدَن
+- in Fahrt kommen; از کوره دَر رَفتَن، جوشی شُدَن، به جوش آمَدَن
+- jem. in Fahrt bringen; کِسی را جوشی کَردَن
 Fährte; رَد ِپا، اَثَر ِ ـ
 Fahrtenbuch; سَفَرنامه
 Fahrtenschreiber; دَستگاه ِ سَفَر نِگار ِ ماشین
@@ -185,10 +187,6 @@ Fallbeschleunigung; شِتاب ِ ثَقل
 Falle; کَمین، تَله، دام
 - in eine Falle geraten; به تَله اُفتادَن
 - Mausefalle; موش تَله
-fällen; از ریشه دَر آوَردَن، کَندَن
-- Urteil fällen; حُکمى را صادِر کَردَن، قِضاوَت کَردَن
-- aus einer chem. Lösung fällen; جِسمى را از مایع رُسوب دادَن
-- Fällen des Baumes; دِرَخت کَنى
 fallen; اُفتادَن، سُقوط کَردَن، زَمین خوردَن
 - im Kampf fallen (*:umkommen); دَر جَنگ به خاک اُفتادَن
 - in den Sessel zurückfallen; یَله شُدَن روى ِ صَندَلى
@@ -208,6 +206,10 @@ fallen; اُفتادَن، سُقوط کَردَن، زَمین خوردَن
 - der Tag fällt auf dieses Datum; روز با این تاریخ مُصادِف مى شَوَد
 - wer hoch steigt, fällt tief; فَواره چون بُلَند شود سَرنِگون شَوَد
 - er ist durch das Examen gefallen; او دَر اِمتِحان مَردود شُده است، - قَبول نَشُد
+fällen; از ریشه دَر آوَردَن، کَندَن
+- Urteil fällen; حُکمى را صادِر کَردَن، قِضاوَت کَردَن
+- aus einer chem. Lösung fällen; جِسمى را از مایع رُسوب دادَن
+- Fällen des Baumes; دِرَخت کَنى
 fallend; اُفتان، سُقوط کُنَنده، ساقِط
 - fallende Preise; قِیمَتهاى ِ مُتَنازِل
 Fallgeschwindigkeit; سُرعَت ِ سُقوطى
@@ -273,6 +275,7 @@ Faltung; چین خوردِگى
 - Faltung des Gebirges; چین خوردِگى ِ کوهِستان
 Falz; خَط ِ تا
 falzen; به چیزى تا دادَن
+familiär; مأنوس
 Familie; اَهل و عَیال، عایله، خانِواده، خاندان، آل
 - Familie, Gattung; فَصیله
 - im Schoss der Familie; دَر کانون ِ خانِواده
@@ -280,6 +283,7 @@ Familie; اَهل و عَیال، عایله، خانِواده، خاندان،
 - Haus & Familie; دار و دَسته، فَک و فامیل
 Familienangehöriger; خویشاوَند، اَهل ِ خانه، بَر و بَچه ها
 Familienangelegenheit; اُمور ِ خانِوادِگى، کار ِ خودِمانى
+Familienbande; خویشی، خویشاوَندی
 familienbezogen; مَربوط به خانِواده
 - familienbezogenes Programm; بَرنامهٔ خانِوادِگى
 Familienbuch; تَبارنامه، شَجَره نامه
@@ -1139,6 +1143,7 @@ Flankenangriff; تَعرُض ِ جِناح
 Flansch; لَبهٔ چَرخ، سَر ِ لوله، فلانش
 Flappe;
 - eine Flappe machen; لَب و لوچه اَش آویزان شُد
+flapsig; گُستاخ، پُر رو
 Flasche; بُطرى
 - Korbflasche; قَرابه
 Flaschenbier; آبجوى ِ شیشه اى
@@ -1243,6 +1248,7 @@ flink; با چُستى و چالاکى
 Flinte; تُفَنگ
 - die Flinte ins Korn werfen; لُنگ اَنداختَن، جا زَدَن
 - Doppellaufflinte; تُفَنگ دولول
+flippig; بی مُلاحِظه، چَرب زَبان
 Flirt; لاس
 flirten; لاس زَدَن، لاسیدَن
 - flirten mit jem.; با کِسى لاس زَدَن
@@ -1250,6 +1256,8 @@ Flitterwochen; ماه ِ عَسَل
 flockig; نَرم پا، کُرکى
 Floh; کِک
 Flohmarkt; بازار ِ فُروش ِ اَجناس ِ کُهنه
+Flop;
+- das ist ein Flop; شِکَست خوردَن
 florierend; بازار پَسَند، گُل کَرده
 Floss; جاله، کَلَک، دوبه
 Flosse; باله
@@ -1267,7 +1275,7 @@ Flucht; فَرار، گُریز
 - s. zur Flucht wenden; گُریزان شُدَن
 - die Flucht ergreifen; به چاک زَدَن
 - Flucht nach vorne; حَمله بَراى ِ دِفاع
-- Kapitalflucht; فَرار ِ سَرمایه
+- Kapitalflucht; فَرار ِ سَرمایه، سَرمایه گُریزی
 flüchten; فَرار کَردَن، گُریختَن، به چاک زَدَن
 - flüchten, s. in Sicherheit bringen; رو به هَزیمَت نَهادَن
 flüchtend; گُریز پا
@@ -1448,8 +1456,8 @@ Forschung; تَحقیقات، پَژوهِش
 Forschungsauftrag; مأموریَت ِ پَژوهِشى
 Forschungsvorhaben; طَرح ِ تَحقیقاتى
 Förster; جَنگَلبان
-fort; دور، حُضور نَداشتَن
 Fort; دِژ، جایگاه ِ نِظامی
+fort; دور، حُضور نَداشتَن
 Fortbestand; اِبقاء، دَوام، تَداوُم
 fortbewegen (s. -); حَرَکَت کَردَن
 fortbilden (s. -); به آموزِش ِ خود اِدامه دادَن
@@ -1609,6 +1617,8 @@ freilich; اَلبَته، مُسَلَماً،، پَس چی
 freimachen;
 - den Brief freimachen; تَمبر زَدَن
 - im Betrieb freimachen; در کارخانه مُرَخَصى گِرِفتَن
+Freimut; صَراحَت
+- mit allem Freimut; با صَراحَت ِ تَمام
 freimütig; بِدون ِ رو دَربایستی
 - freimütig etwas sagen; رو راست گُفتَن، رُک ـ، بى پَرده ـ
 - in aller Freimütigkeit; با صَراحَت ِ تمام

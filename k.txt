@@ -105,10 +105,10 @@ Kampfansage; مُبارِزه طَلَبى
 Kampfarena; مُعَرکه
 kämpfen; مُبارِزه کَردَن
 kämpfend; مُقاتِل، مُحارِب
+Kampfer; کافور
 Kämpfer; مُبارِز
 - Einzelkämpfer (auch: alleg.); مُبارز ِ تَک و تَنها
 - Spezialkämpfer (milit.); تَکاوَر
-Kampfer; کافور
 kämpferisch; جَنگ جو، رَزم جو
 - kämpferischer Geist; حال ِ حَمله اى، روح ِ پِیکار جو
 Kampfflugzeug; هَواپِیماى ِ شِکارى، ـ جَنگَنده
@@ -117,7 +117,7 @@ Kampfhandlungen; نَبَرد، عَمَلیات ِ رَزمى، ـ نِظامى
 Kampfmoral; روحیهٔ رَزمى
 Kampfsport; وَرزِش ِ رَزمى
 Kampftruppen; عِدِه هاى ِ رَزمى
-Kanal; نَهر، کانال
+Kanal; نَهر، کانال، آبراه
 Kanalarbeiter; مُقَنى
 Kanalisation; فاضِل آب کِشی
 Kanarienvogel; قَنارى
@@ -160,6 +160,7 @@ kapieren; دَر یافتَن، فَهمیدَن، گِرِفتَن، دَستَ
 Kapillare; موی ِ رَگ
 Kapital; سَرمایه
 Kapitalanlage; سَرمایه گُذارى
+Kapitalertrag; بازدِه ِ سَرمایه گُذاری
 Kapitalflucht; فَرار ِ سَرمایه
 Kapitalverbrechen; کَبیره
 Kapitän; کَدخُدا
@@ -282,6 +283,8 @@ Kategorie; (pl.) مَقوله، نوع (اَنواع)، صَنَف (صُنوف)�
 - Kategorie von Menschen bestimmter Art; زُمره
 kategorisch; قَطعاً، قاطِعانه
 - kategorisch verboten sein; .اَکیداً مَمنوع بودَن، قَطعاً مَمنوع ب
+Kater; گُربۀ نَر
+- einen Kater haben; حالَت ِ خُماری
 Katharsis; طَهارَت، طُهور
 Katheder; (کُرسى ( ِ تَدریس
 Kathete; (pl.) (ضِلع (اَضلاع
@@ -292,7 +295,7 @@ katholisch; کاتولیک
 Katze; گُربه
 - Katz & Maus spielen mit jem.; نَرد ِ عِشق باختَن، کِسی را بازی دادَن
 - in der Nacht sind alle Katzen grau; شَب گُربه سَمور می نَمايَد
-Katzenjammer; خُمار
+Katzenjammer; حالَت ِ خُماری
 Katzensprung; چَهار اَنگُشت
 - bis ... ist es nur ein Katzensprung; تا ... چَهار اَنگُشت بیشتَر نیست
 Kauderwelsch; حَرفهای ِ بی مَعنی، - بی رَبط
@@ -314,7 +317,8 @@ kaufen; .خَریدَن، خَرید کَردَن، اِبتیاع ک
 - haben Sie es neu gekauft?; تازه اِبتیاع نِموده اید؟
 Käufer; خَریدار، مُشتَرى
 Kaufkraft; قُدرَت ِ خَرید
-Kaufmann; (pl.) (تاجِر (تُجار
+Kaufmann;
+- Kaufmann (pl.); تاجِر (تُجار)
 Kaufvertrag; مُعاهِده، قَرار داد ِ خَرید
 Kaugummi; آدامس
 Kaukasus; قَفقاز
@@ -594,6 +598,8 @@ klappen;
 - es klappte nicht mit dem Schlafen; هَر کارى میکَردَم که بِخوابَم نِمى شُد
 - klapp nicht so mit der Tür; دَر را نَزَن
 - die Mühle klappert; آسیاب صِدا مى کُنَد
+Klapper;
+- Klapper (*: Ratsche); جَغجَغه
 klapprig; لَق بودَن
 - klappriger Bus; اُتوبوس ِ اِسقاطی
 - klappriger Bursche; پِسَر ِ بادبادی
@@ -682,6 +688,7 @@ Kleidung; لِباس، جامه، مَلبوس، لِباس و پوشاک
 - Kleidung zum Wechseln (eine zum Waschen, eine zum Anziehen); آشور واشور
 - Ausgehkleidung (der Frauen); چادُر چاقچور
 - Einheitskleidung; لِباس ِ مُتَحِد اُلشِکل
+- entsprechende Kleidung ist erforderlich; مُستَلزِم ِ لِباس ِ رَسمی
 Kleie; سَبوس و پوشهٔ خوشهٔ غَلات
 klein; کوچِک
 - klein, aber fein; ریز وَلى تیز
@@ -858,12 +865,12 @@ Knorpel; غُضروف
 Knospe; جَوانه، غُنجه
 - Veränderung von wachsender zu fertiger Knospe; تَبدیل ِ جَوانهٔ رويِشى به جَوناهٔ رايِشى
 knospen; جَوانه زَدَن
-knoten; گِره زَدَن، ـ بَستَن
-- verknotet; گِره خورده
 Knoten; (m) گِره
 - Mach dir einen Knoten!; کَف دَستَت بِنِویس!، گِره بِزَن
 - der Knoten ist geplatzt (und man konnte endlich weinen); بُغض ِ کِسی تَرکید
 - Haarknoten; گیسوى ِ پُشت ِ سَر
+knoten; گِره زَدَن، ـ بَستَن
+- verknotet; گِره خورده
 Knotenpunkt; جاى ِ تَقاطُع
 knüllen;
 - etwas zusammenknüllen; .چیزى را مُچاله کَردَن، ـ چُروک ک
@@ -964,8 +971,9 @@ kolossal; فوق اُلعاده
 Kolostrum; نَخستین شیر، ماک، سَرَس
 Koma; بیهوشى
 Kombination;
-- Kombination (Kleidung); کُت و شَلوار
+- Kombination (*: Mischung); تَرکیب
 - in Kombination mit ...; دَر رابِطه با
+- Kombination (Kleidung); کُت و شَلوار
 Kombinationszange; انبُر ِ چَندکار
 kombinieren; رابِطه را بَر قَرار کَردَن، فَهمیدَن
 Komet; ذوذَنَب، شِهاب
@@ -1139,12 +1147,14 @@ Konglomerat; مَجموع
 - Zellkonglomerat; مَجموِعهٔ چَند یاختهٔ پِیوَسته
 Kongress; کُنگره، مَجمَع
 Kongruenz; مُماتِله، قابِليَت ِ تَطابُق، اِنطِباق
-König; (pl.) مَلِک (مُلوک)، پادِشاه
+König;
+- König (pl.); مَلِک (مُلوک)، پادِشاه
 - zwei Könige gleichzeitig geht nicht gut; چِهِل دَرویش مى تَوانَند رو يِک گِلیم بِنِشینَند اما ۲ پادِشاه دَر يِک کِشوَر زِندِگى نِمى کُنَند
 Königin; مَلِکه، شَهبانو
 - Königinmutter; مَلَکه مادَر
 königlich; مَلوکانه، شاهانه
-Königreich; (pl.) مَملَکَت (مَمالِک)، مَلَکوت
+Königreich;
+- Königreich (pl.); مَملَکَت (مَمالِک)، مَلَکوت
 Königsgeschlecht; دودمان ِ سَلطَنَتى
 Königsherrschaft; پادِشاهى، حُکومَت ِ سَلطَنَتی
 konisch; مَخروطى
@@ -1165,6 +1175,8 @@ Konkurs; وَرشِکَستِگى، اِفلاس، تَفلیس
 - Konkurs machen; وَرشِکَست شُدَن
 Konkursmasse; اَموال ِ شِرکَت ِ وَرشِکَستِگى
 Konkursverwalter; مُتَوَلى ِ وَرشِکَستِگى
+Können; (n) مُهارَت، لیاقَت، قابِليَت، اَهَليَت، تَوانائى
+- Können verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر
 können; تَوانستَن، بَلَد بودَن، تَوانائى داشتَن
 - dieser Mangel an ... könnte ...; این نَقصان ... مُمکِن بود که
 - sie versuchen so gut sie können; آنها هَرچه از دَستِشان بَر مى آيَد تَلاش مى کُنَند
@@ -1173,8 +1185,6 @@ können; تَوانستَن، بَلَد بودَن، تَوانائى داشت�
 - es kann gut sein, dass ...; چه بَسا است که
 - kannst du das?; قِلِقِش را بَلَدى؟، فوت و فَنى اَش را ـ؟
 - Jem., der nichts kann, Looser; آب از گََلوی ِکِسی پایین نِمی رَوَد
-Können; (n) مُهارَت، لیاقَت، قابِليَت، اَهَليَت، تَوانائى
-- Können verpflichtet; هَر که بامَش بیش بَرفَش بیشتَر
 Konsens; مُبتَنى بَر) اِجماع ِ نَظَر)
 konsequent;
 - er ist konsequent; او سَر سَخت است، ـ جِدى است
@@ -1339,6 +1349,8 @@ Kopfball; ضَربهٔ سَر
 Kopfbedeckung; روسَری
 - Kopfbedeckung (deren Ende um den Hals geschlungen ist); تَحت اُلحَنَک
 köpfen; سَر بُریدَن
+Kopfjagd;
+- Kopfjagd (engl.: headhunting); سَر آوَردَن
 Kopfkissen; کوسِن، بالِش زیر ِ سَر
 kopflos; بی کَله
 - kopflos werden; عَلاف شُدَن
@@ -1426,6 +1438,12 @@ kostbar; مَرغوب، گِرانبَها
 - kostbare Kleidung; جامهٔ زَربَفت
 - kostbare Information; اِطِلاع ِ ذیقِیمَت
 Kostbarkeit; (pl.) (نَفیسه (نَفايِس
+kosten; قِیمَت ِ آن این است، قِیمَت داشتَن
+- die ... Dollar kosten; که ... دُلار خَرج دَر بَر داشتَن
+- was kostet das?; قِیمَتَش چَنده؟
+- Koste es, was es wolle; به هَر قِیمَتى که شُده
+- das kostet schon einiges; این مَبلَغى خَرج دَر مى دارَد
+- kosten, probieren; چِشیدَن، لَب زَدَن
 Kosten; (f) مَخارِج
 - auf anderer Leute Kosten leben; نِیزه بازى کَردَن
 - es s. gut gehenlassen auf Kosten anderer; بَراى ِ خوش باشى از دیگَران مایه گُذاشتَن
@@ -1435,12 +1453,6 @@ Kosten; (f) مَخارِج
 - das Auto verursacht Kosten; ماشین بِخَرج مى اُفتَد
 - Lebenshaltungskosten; هَزینهٔ زِندِگى، مَخارِج ِ زِندِگى
 - Produktionskosten; هَزینهٔ تولید
-kosten; قِیمَت ِ آن این است، قِیمَت داشتَن
-- die ... Dollar kosten; که ... دُلار خَرج دَر بَر داشتَن
-- was kostet das?; قِیمَتَش چَنده؟
-- Koste es, was es wolle; به هَر قِیمَتى که شُده
-- das kostet schon einiges; این مَبلَغى خَرج دَر مى دارَد
-- kosten, probieren; چِشیدَن، لَب زَدَن
 kostendeckend;
 - die Anlage arbeitet kostendeckend; طَرح به مَرحَلهٔ بَهره بَر دارى رِسید
 kostengünstig;
@@ -1639,12 +1651,12 @@ kreißen; زائیدَن
 - es kreißte der Berg und gebar eine Maus; كوه كَندَن و موش بَر آوَردَن، کوه ِ اِلبُرز پَس از دَرد ِ فَراوان موش زائید
 Kreißsaal; اُتاق ِ زايِمان
 Kresse; شاهى
-kreuz;
-- er läuft kreuz & quer; او اینوَر و آنوَر میرَوَد، بى هَدَف راه میرَوَد
-- Schnittwunden, die kreuz & quer verlaufen; زَخمهاى ِ چَپ اَندَر راست
 Kreuz; (n) صَلیب
 - deshalb lag er mit uns über Kreuz; این بود که با ما کَج اُفتاده بود
 - Fensterkreuz; خاچ ِ پَنجَره
+kreuz;
+- er läuft kreuz & quer; او اینوَر و آنوَر میرَوَد، بى هَدَف راه میرَوَد
+- Schnittwunden, die kreuz & quer verlaufen; زَخمهاى ِ چَپ اَندَر راست
 Kreuzbein; اُستُخوان ِ خاچى
 kreuzen;
 - kreuzen (biolog.); آمیزِش دادَن، پِیوَند زَدَن

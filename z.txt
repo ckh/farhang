@@ -385,6 +385,7 @@ zerreissen;
 - zerrissenes Hemd; پیراهَن ِ پاره و پوره
 Zerreissfestigkeit; اِستِحکام ِ گُسیختِگى
 Zerreissprobe; نَزدیک به گُسیختِگى، آزمايِش ِ کِشِش
+Zerreisspunkt; نُقطۀ شِکَست
 zerren; به زور کِشیدَن
 Zerrissenheit; از هَم گُسیختِگى
 Zerrüttung;
@@ -513,7 +514,8 @@ zieren;
 zierlich; مَلوس، ظَریف
 Zierpalme; نَخل ِ زینَتى
 Zierrat; پیرایه، آرایه، زینَت، تَزئین
-Ziffer; (pl.) (رَقَم (اَرقام
+Ziffer;
+- Ziffer (pl.); رَقَم (اَرقام)
 Zifferblatt; صَفحهٔ ساعَت
 Zigarette; سیگار
 Zigarettenasche; خاکِستَر ِ سیگار
@@ -750,6 +752,8 @@ Zugang;
 - ich hatte keinen Zugang zum Spezialisten; دَسترِسى به مُتَخَصِصان نَداشتَم
 - Zugang zum Meer finden; به گُذرگاه ِ دَریائى راه یافتَن
 zugänglich; ِ در دَسترِس
+Zugänglichkeit; قابِلیَت ِ وُصول
+- Zugänglichkeit (z.b. zu Literatur); دَستیابی پَذیری، دَسترِسی
 Zugbelastung; تَنِش ِ کِشِشى
 Zugbrücke; پُل ِ کِشِشى
 zugeben; .اِقرار کَردَن، اِعتِراف ک.، مُقِر شُدَن، اِذعان ک
@@ -1327,6 +1331,7 @@ zwischen;
 - fiel zwischen die Dornen; لابِلاى ِ خارها اُفتاد
 - das er zwischen die Finger bekam; که دَستَش اُفتاده بود
 Zwischenfall; (pl.) (اِغتِشاش، حادِثه (حَوادِث
+Zwischenruf; لا اَفکَنی
 Zwischenvereinbarung; تَوافُق ِ مُوَقَت
 Zwischenverteiler; مُقَسِم ِ میانى
 Zwischenwand; دیوار ِ میانى، تیغه

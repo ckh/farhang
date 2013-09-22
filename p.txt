@@ -1,10 +1,10 @@
-Paar; جُفت
-- Ehepaar; زوج
 paar;
 - ein paar Schüler; چَند تا شاگِرد
 - mit den paar Büchern, die ich gelesen habe; با چُس مِثقال ِ کِتابى که خواندَم
 - er kommt alle paar Tage; هَر چَند روز قَرار است که بیايَد
 - ein paar Jungens sind eingestiegen; دو سه تا جاهِلان سَوار شُدَند
+Paar; جُفت
+- Ehepaar; زوج
 paaren; (s. -) (präs.) (جُفت گیرى کَردَن، گائیدَن (مى گايَد
 Paarung; جُفت گیرى
 paarweise; دو به دو، جُفت جُفت، دو تا دو تا
@@ -330,9 +330,9 @@ Pension; مُستَمِرى، حُقوق ِ بازنِشَستِگی
 - Pension, Gasthaus; خوابگاه، پانسیون
 Pensionär; مُستَمِرى بِگیر، بازنِشَسته
 Perestroika; پِروستریکا
-Perfekt; (n) ماضى ِ نَقلى
 perfekt; بى عِیب، کامِل
 - der Handel ist noch nicht perfekt; يَخَش چَندان نَگِرِفته است
+Perfekt; (n) ماضى ِ نَقلى
 Perfektion; کَمال
 Perfektionist; شَخصى که دَر اِجراى ِ کار سَعى مى کُنَد آنرا به بِهتَرین وَجه اَنجام دَهَد
 perforieren; سوراخ دادَن
@@ -395,6 +395,8 @@ Pessimismus; بَد بینى
 pessimistisch; بَدبین
 - pessimistisch etwas sehen; بَدبینانه به چیزى نِگاه کَردَن
 Pest; طاعون
+- etwas wie die Pest meiden; بَرای ِ جِلوگیری از آن چیزی مانَند ِ طاعون
+- wählen zwischen Pest und Cholera; نَه راه ِ پَس دارَد نَه راه ِ پیش
 Petersilie; جَعفَرى
 Petition; عَریضه، داد خواست
 Petitionsausschuss; کُمیسیون ِ عَرايِض
@@ -457,6 +459,7 @@ Pferd; اَسب
 - das Pferd beim Schwanz aufzäumen; از تَه ِ سُرنا زَدَن، اَسب را عَقَب ِ دُرُشکه بَستَن
 - er hat auf ein gutes Pferd gesetzt; او بَر خِنگ ِ مُراد سَوار شُد
 - Pferd in der Tretmühle; اَسب ِ اَسیره
+-  Man kann von zwei Seiten vom Pferd fallen; نَه از این طَرَف ِ بام و نَه از آن طَرَف ِ بام نَیُفتی
 Pferdefuhrwerk; اَسب کِش
 Pferdemanege; مِیدان ِ اَسبدَوانى
 Pferderennen; مُسابِقهٔ اَسب دَوانى، ـ اَسب سَوارى
@@ -532,6 +535,9 @@ Pfütze; دَست چال، گودال، چاله
 Phalangist; سَرباز شِبه نِظامی
 - phalangistische Milizen; نیروهاى ِ شِبه نِظامى ِ اُلکَتائِب
 Phanerogamen; گیاه هاى ِ روشَن زاد
+Phänologie; پَدیده شِناسی
+Phänomen; پَدیده
+Phänotyp; سِنخ ِ پَدیداری
 Phantasie; خیال، تَخَيُل، رؤیا
 phantasiebegabt; مُتَخايِل
 phantasieren; خیال کَردَن
@@ -579,6 +585,7 @@ Phrase; کُلی بافی
 phrasenhaft; اِسطِلاحات ِ هَمه جائى، ـ پیش ِ پا اُفتاده
 Physik; فیزیک
 - Festkörperphysik; فیزیک ِ اَجسام ِ صُلب
+- Teilchenphysik; فیزیک  ِ ذَرات
 physikalisch; فیزیکى
 Physiker; فیزیک دان
 Physiognomie; سیما، مَنظَر
@@ -651,7 +658,7 @@ Plan; (m) نَقشه، بَرنامه
 - der Plan fällt ins Wasser; نَقش بَر آب مى شَوَد
 - der Plan hätte ins Wasser fallen können; دَر آن صورَت حِساب ِ ما پاک بود و هَر چه رِشته بودیم پَنبه مى شُد
 - Dreijahresplan; بَرنامهٔ سه ساله
-- Flugplan; (pl.) (بَرنامهٔ پَرواز ( ـ پَروازها
+- Flugplan (pl.); بَرنامهٔ پَرواز ( ـ پَروازها)
 - Stadtplan; نَقشهٔ شَهر
 planarbeiten; .مُسَطَح کَردَن، صاف ک
 Plane; پوشِش
@@ -746,12 +753,12 @@ Plättchen; وَرَقهٔ نازُک
 Plätzchen; بیسکویت
 Plebiszit; رأى ِ عُمومى
 plebiszitär; مُبتَنى بَر رأى ِ عُمومى
-Pleite; (f) وَرشِکَستِگى
-- ich habe eine Pleite erlebt; مَن به هَچَل اُفتادَم
 pleite; مایه سوز، وَر شِکَسته
 - ich bin total pleite; کَفگیرم به تَه ِ دیگ خورده است، جیبَم تَه کِشیده است، آس و پاسَم، آسِمان جُلَم، آه دَر بَساط نَدارَم
 - der Betrieb machte pleite; کارخانه وَر شِکَست
 - der Betrieb ist pleite gegangen; کار خانه وَرشِکَسته شُده
+Pleite; (f) وَرشِکَستِگى
+- ich habe eine Pleite erlebt; مَن به هَچَل اُفتادَم
 Plejaden; ثُرَیا، سِتارِگان ِ پَروین
 Plektrum; زَخمه
 Plenarsaal; تالار ِ مَجلِس
@@ -772,11 +779,11 @@ Plunder; آل و آشغال، خِرت و پِرت
 Plural; جَمع
 - das Wort steht im Plural; این کَلَمه به صورَت ِ جَمع نِوِشته شُده
 Pluralismus; کِثرَت ِ عَقايِد و آراء، کِثرَت گِرائى، تَکثَرگِرایی
-Plus;
-- ich habe ein Plus gemacht (finanz.); مَن سود بُردَم
 plus;
 - 5 plus 5 ist 10; پَنج به (عِلاوهٔ) ۵ مى شَوَد دَه
 - 10 Grad plus; دَه دَرَجه بالاى ِ صِفر
+Plus;
+- ich habe ein Plus gemacht (finanz.); مَن سود بُردَم
 Plusquamperfekt; ماضى ِ بَعید
 Pluszeichen; عَلامَت ِ مُثبَت
 Plünderer; تاراجگَر، غارَتگَر، چَپاوُلگَر
@@ -809,8 +816,8 @@ Polarisation; اِستِقطاب
 Polarisierung;
 - Polarisierung der öffentlichen Meinung; قُطبى کَردَن ِ عَقايِد ِ عُمومى
 Polemik; جَدَل، مُناظِره، مُجادِله
-polen; قُطبى کَردَن
 Polen; (geograph.) لَهِستان
+polen; قُطبى کَردَن
 Police;
 - Versicherungspolice; بیمه نامه
 polieren; صِیقَل دادَن
@@ -839,8 +846,10 @@ poltern; با سَر و صِدا
 Polverschiebung; سَرگَردانى ِ قُطبى
 Polyäthylen; پُلى اِتیلِن
 Polygamie; تَعَدُد ِ زوجات، چَند زَن (شوهَر) گیرى
-Polypen; بَواسیر ِ لَحمى
-polyphon; کَثیراُلاصَوات
+Polymerisation; تَرکیب و تَراکُم ِ ذَرات، پُلیمِریزاسیون
+polymorph; موجود ِ چَند شِکلی
+Polypen; بَواسیر ِ لَحمى ِ بینی
+polyphon; کَثیراُلاصوات، چَند صوتی
 Polytheismus; کَثیر اُلبُتها
 Polytheist; مُشرِک
 Pomp; دار و بُرد، کوکَبه، رَنگ و بو
@@ -1363,13 +1372,13 @@ Pumpe; تُلُمبه، پُمپ
 pumpen; تُلُمبه زَدَن، پُمپ کَردَن
 - jem. Geld pumpen; به کِسى پول قَرض دادَن
 - von jem. Geld pumpen; پول قَرض گِرِفتَن، پَرداخت ِ بَعدى
-punkt; رأس ِ
-- punkt 4 Uhr; سَر ِ ساعَت ِ ۴، رأس ِ ـ
 Punkt; (m) نُقطه، نُکته
 - das ist mein schwacher Punkt; این نُکته ضَعَف ِ مَن است
 - mein Drachen wurde zu einem winzigen Punkt; بادبادَکَم خال ( - ِ آسمان) شُد
 - kommen Sie bitte auf den Punkt; به موضوع ِ اَصلى بِرِسید، بِدون ِ شاخ و بَرگ حَرف بِزَنید، حاشیه نَرو
 - Hauptpunkt; لُب ِ مَطلَب
+punkt; رأس ِ
+- punkt 4 Uhr; سَر ِ ساعَت ِ ۴، رأس ِ ـ
 Punkto;
 - in Punkto ...; دَر رابِطه با
 Punktzahl; حَد ِ نِصاب

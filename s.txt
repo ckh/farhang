@@ -28,12 +28,12 @@ sachgemäss;
 - sachgemäss mit etwas umgehen; دَر این مورِد کارشِناس بودَن، ماهِرانه عَمَل کَردَن
 Sachkenner (m); خِبره، کارشِناس، مُتَخصِص
 sachkundig; ماهِر، مُتَخَصِص
+sächlich; ‌ ‌‌‌ ٰخُنثی
 sachlich;
 - ruhig und sachlich sagte er ...; به آرامى و مَتانَت گُفت
 - sachliche Kritik; اِنتِقاد ِ عِینى
 - sachlicher Mensch; آدَم ِ کاربُر
 - sachlicher Zusammenhang; اِرتِباط ِ موضوعى
-sächlich; ‌ ‌‌‌ ٰخُنثی
 Sachliteratur (f); کُتُب ِ مَرجَع
 Sachschaden (m); خِسارَت ِ مادى
 sachte;
@@ -60,12 +60,11 @@ saftig; آبدار، آباَمبو
 Saftigkeit (f); طَرافَت
 saftlos;
 - saft- & kraftlos; سَخیف
+Sage (f); اَفسانه
 Säge (f); اَره
 - Laubsäge; اَره موئى
-Sage (f); اَفسانه
 Sägemehl (n); خاک ِ اَره
 - frisches Sägemehl; خاک ِ اَرهٔ تازه
-sägen; اَره کَردَن
 sagen; (präs.) (عَرض کَردَن، گُفتَن (مى گويَد
 - nichts sagen; سُکوت کَردَن
 - er sagte kein Wort; او لاکَلام حَرف نِمى زَد، او سُکوت کَرد
@@ -95,6 +94,7 @@ sagen; (präs.) (عَرض کَردَن، گُفتَن (مى گويَد
 - unbeabsichtigt habe ich etwas gesagt; مَنَم از دَهَنَم دَر رَفت
 - Gesagt, getan; گُفته و کَرده
 - diejenigen, die das Sagen haben; آنانى که بَر سَریر ِ قُدرَت هَستَند
+sägen; اَره کَردَن
 sagenhaft;
 - sagenhafter Reichtum; ثِروَت ِ عَجیب
 - sagenhaft schöner Teppich; قالى ِ عَبقَرى
@@ -255,9 +255,9 @@ Sauerstoff; اُکسیژِن
 Sauerstoffzelt; چادُر ِ اُکسیژِن
 Sauerteig; خَمیر ِ تُرش، مایهٔ خَمیر
 Säufer; جام باز، دُرد کِش، شارِب، خَراباتى
-säugen; شیر دادَن
 saugen; (präs.) مَکیدَن (مى میکَد)، مَص کَردَن
 - aufsaugen; نَشف کَردَن
+säugen; شیر دادَن
 Sauger; پِستانَک
 Säugetier; حِیوان ِ پِستاندار
 Saugkraft; نیرو با فِشار ِ مَنفى
@@ -554,7 +554,7 @@ scheiden (s. -); طَلاق دادَن
 Scheidewand; جِداری
 - innerhalb der Scheidewand; داخِل ِ جِدارى
 Scheideweg; سَر ِ دو راهى
-Scheidung; اِطلاق، طَلاق
+Scheidung; اِطلاق، طَلاق، ظِهار
 - die Scheidung einreichen; طَلاق دادَن
 Scheidungsprozess; مُحاکِمهٔ طَلاق
 Schein;
@@ -860,9 +860,9 @@ schlagen; .زَدَن، ضَربه زَدَن، کُتَک ز
 - die Uhr schlägt 12; ساعَت زَنگ ِ دوازده را مى زَنَد، ـ مى نَوازَد، ساعَت دَوازدَه ضَربه مى نَوازَد
 - geschlagen; مَصدوم، مَضروب
 - Stelle, auf die geschlagen wurde; جاى ِ ضَرب دیده
-Schlager; تَصنیف
 Schläger; ضارِب، قُلدُر، بِزَن
 - Schläger (z.B. Tennisschläger); راکِت
+Schlager; تَصنیف
 Schlägerei; قُلدُرى
 - bei der Schlägerei; هَنگام ِ زَد و خورد
 - wir hatten dort eine Schlägerei; آنجا بِزَن بِزَن کَردیم
@@ -1290,6 +1290,7 @@ Schnitzerei; کَنده کارى
 schnorcheln; غوطه کَردَن با لولهٔ هَوا
 Schnorrer; مُفت خور
 schnüffeln; اِستِشمام کَردَن
+- schnüffeln, herumsuchen; کاوِش کَردَن، کاویدَن
 Schnuller; پِستانَک
 Schnupfen; نَزله، زُکام
 - ich habe Schnupfen; .نَزله کَردَم، زُکام ک
@@ -1311,15 +1312,15 @@ Schokolade; شُکُلات
 Scholle;
 - Scholle, Fischart; ماهى ِ پَهن
 - Scholle, Acker; زَمین
-schon;
-- ich habe das schon mal gehört; اینرا شِنیده بودَم
-- wenn schon, denn schon; یا رو میرَم یا زَنگى ِ زَنگ
-- was ist schon dabei?; مَگه چى شُده؟
 schön; زیبا، قَشَنگ
 - s. schön machen; .زیوَر دادَن، زینَت د
 - hier ist es schön warm; اینجا خوب گَرم است
 - jedes Mal, wenn ich dich sehe, bist du schöner als das Mal vorher (Sadi); هَر نوبَتَم که دَر نَظَر اى ماه بُگذَرى بار ِ دُوُم ز ِ بار ِ نَخُستین نیکوتَرى
 - Schöne Künste; صَنايِع ِ مُستَظرِفه، صَنايِع ِ ظَریف
+schon;
+- ich habe das schon mal gehört; اینرا شِنیده بودَم
+- wenn schon, denn schon; یا رو میرَم یا زَنگى ِ زَنگ
+- was ist schon dabei?; مَگه چى شُده؟
 Schonbezug; روکِش، سَرپوشیده، کاپوت
 schonen; بَر کِسى تَرَحُم کَردَن، کِسى را دَریغ کَردَن، بَر کِسى شَفَقَت داشتَن
 - schone meiner!; بَر مَن شَفَقَت فَرما
@@ -1802,7 +1803,7 @@ schwermütig; مالیخولیائى، اَفسُرده
 schwernehmen;
 - s. das Leben schwernehmen; زِندِگى را سَخت گِرِفتَن
 Schwerpunkt; مَرکَز ِ ثِقَل، گِرانیگاه
-- mit Schwerpunkt auf ...; ... با تَوَجُه ِ خاص بَر
+- mit Schwerpunkt auf ...; با تَوَجُه ِ خاص بَر
 Schwert; شَمشیر، قَمِچیل
 - Schwert (2-schneidig); قَداره
 - steck dein Schwert weg; شَمشیرَت را غَلاف کُن
@@ -2526,6 +2527,7 @@ solange;
 - solange Leben in mir ist, ...; ... مادامیکه جانَم دَر مَن است، تا ما باشیم
 - solange die Welt besteht; تا دِنیا دِنیاست
 solar; خورشیدى
+Solarium; آفتابخانه
 Solartechnik; تِکنیک بَر اَساس ِ اِنِرژى ِ خورشیدى
 solch;
 - ein Mensch mit solch ...; آدَمى با چِنان ...، ـ با چِنین
@@ -2554,6 +2556,7 @@ Solo; تَک نَوازى
 Solquelle; چِشمهٔ آب ِ مَعدَنى
 Sommer; تابِستان
 - Sommerferien; تَعطیلات ِ تابِستانى
+- Höhepunkt der Sommerhitze; چِلۀ تابِستان
 Sommersitz; اِقامَتگاه ِ تابِستانى، يِیلاق
 Sommersprossen; جوش ِ غُرور، کَکمَک
 Sonde; میل
@@ -2575,7 +2578,8 @@ Sonne; آفتاب، خُورشید
 - die Sonne scheint; هَوا آفتابى است، آفتاب است، آفتاب مى تابَد
 - beim ersten Strahl der Sonne; هَمینکه آفتاب تیغ زَد
 - der Sonne zugewandt (z.B. ein Zimmer); اُتاق آفتاب رو است، - آفتاب گیر
-sonnen (s. -); آفتاب خوردَن
+sonnen;
+- sonnen (s. -); آفتاب گِرِفتَن
 Sonnenaufgang; اَذان ِ صُبح، طُلوع ِ خُرشید
 - bei Sonnenaufgang; با سَر زَدَن ِ خُرشید
 sonnenbestrahlt; آفتابرو
@@ -2592,6 +2596,8 @@ Sonnenstich; آفتاب زَدِگى
 Sonnenstrahl; پَرتو ِ آفتاب
 Sonnensystem; مَنظومهٔ شَمسى
 Sonnenuhr; ساعَت ِ آفتابى
+sonnig; آفتابگیر
+- er hat ein sonniges Gemüt; او خوش بَرخورد است، آدَمی با روح ِ مِنَت
 Sonntag; يِکشَنبه
 sonst;
 - ... und sonst nichts; و نَه بَر چیزى سَواى ِ آن یا وَراى ِ آن، دیگه هیچى
@@ -2731,6 +2737,9 @@ Sparren; شاه تیر) زیر شیروانى)
 sparsam; قِیمَتَش مُناسِب است
 - sparsam sein (Mensch); صَرفه جو بودَن
 - sparsam sein (Mittel); با صَرفه بودَن، مَصرَف کَم است
+Spaß; شادی، خوشی، شوخی
+- viel Spaß; خوش باشید
+- Spaß beiseite; شوخی به کِنار
 Spass;
 - Spaß haben an ...; از چیزى حِسابى کِیف کَردَن
 - hat nichts mit Spaß zu tun; با شوخ سَر ِ کار نَدارَد
@@ -2742,14 +2751,12 @@ Spass;
 - Spaß beiseite; از شوخى گُذَشته
 - er versteht keinen Spaß; شوخى سَرَش نِمى شَوَد
 - Spaß und gute Laune; عَیاشى و خوش گُذَرانى
-Spaß; شادی، خوشی، شوخی
-- viel Spaß; خوش باشید
-- Spaß beiseite; شوخی به کِنار
 spaßen; شوخی کَردَن
 - als ob es mit ihm spaßen würde; اِنگار که با او شوخى مى کُنَد
 spaßig; مُتَفَنُن، شوخى
 - er machte eine spaßige Bemerkung; او حَرف با مَزه اى زَد
 Spaßmacher; این آدَم ِ خوش مَزه است، مازِح، دَلقَک، آدَم ِ شوخ
+Spaßvogel; بَذله گو
 spät;
 - spät in der Nacht; شَب ِ دیر وَقت
 - wie spät ist es?; ساعَت چَند است؟
@@ -3794,6 +3801,7 @@ stirnrunzeln; اَخم را دَر هَم کَردَن
 Stirnwand; دیوار ِ مُقابِل
 stöbern;
 - nach Herzenslust stöbern; هَر چه مى خواهَد بِجويَد
+- stöbern, schnüffeln; کاوِش کَردَن، کاویدَن
 Stochastik; اِتِفاق
 - stochastischer Prozess; پروسهٔ اِتِفاقى
 stochern;
@@ -3903,11 +3911,11 @@ Stoßseufzer; تِلِنگ دَر رَفتَن
 Stoßstange; سِپَر ِ ماشین
 stoßweise; موج دار
 Stoßzahn; يَشک، دَندان ِ ناب
+Stottern; تِته پِته، لُکنَت ِ زَبان
+- ins Stottern kommen; به تِته پِته اُفتادَن
 stottern; لُکنَت خوردَن، با لُکنَت حَرف زَدَن، کُند زَبان، گِرِفتَن ِ زَبان
 - er stottert; زَبانَش گِرِفته است
 - er stotterte s. was zurecht; ِ از این زَبان بَسته هارا لوله کَرد توى
-Stottern; تِته پِته، لُکنَت ِ زَبان
-- ins Stottern kommen; به تِته پِته اُفتادَن
 stotternd; تِته تِپه کُنان
 - stotternd sagte ich ...; تِته تِپه کَردَم و گُفتَم
 Strafantrag; تَقاضای ِ مُجازات
@@ -3926,7 +3934,7 @@ strafen; .نَسَق کَردَن، تَنبیه ک
 straff; مُحکَم
 - straffe Organisation; سازِمان ِ مُنجِم
 - straffes Gewebe; بافت ِ مُتَراکِم
-straffällig; مُقَصِر، مُجرِم
+straffällig; مُقَصِر، مُجرم، بِزِهکار
 - er ist straffällig geworden; او مُرتَکِب ِ جُرم شُده
 straffrei; مُعاف از کِیفَر
 Strafgerichtshof; دادگاه ِ جِنائى
@@ -4122,6 +4130,7 @@ Strukturwandel; تَحَوُل ِ ساختار
 Strumpf; جوراب
 struppig;
 - struppige Haare; موهاى ِ ژولیده
+Struwwelpeter; پِسَر ِ ژالودِگی ِ مو
 Stüber; ضَربه
 Stück; تا
 - Stück für Stück; دانه دانه
@@ -4204,14 +4213,14 @@ stürzen; بَر اَنداختَن، سُقوط کَردَن، اُفتادَن
 - auf jem. losstürzen; به سوى ِ کِسى حَمله کَردَن، بَر سَر ِ کِسى ریختَن
 Stütze; پُشتِوانه، تِکیه گاه
 - Stütze (z.B. für Blumen); چُفت
+stützen;
+- s. auf etwas stützen; به چیزى مُتَمَسِک شُدَن، ـ اِتِکاء کَردَن، ـ تِکیه دادَن
+- die s. stützen auf ...; که مُتَمَسِک به ... هَستَند
 stutzen;
 - er stutzt (*:überraschen); او تَعَجُب کَرد
 - die Flügel stutzen; پَر و بال را قِیچى کَردَن
 - jem. stutzen (in seinem Einfluss); باروت ِ کِسی نَم کِشیدَن
 - jem. zurechtstutzen; کِسى را تا حَد ِ شِش دَر چَهار کوچِک کَردَن
-stützen;
-- s. auf etwas stützen; به چیزى مُتَمَسِک شُدَن، ـ اِتِکاء کَردَن، ـ تِکیه دادَن
-- die s. stützen auf ...; که مُتَمَسِک به ... هَستَند
 Stützholz; چوب ِ حایِل گوشه
 Stützpfeiler; سُتون ِ نِگَهدارَنده
 Stützpunkt; پایگاه

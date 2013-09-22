@@ -106,14 +106,14 @@ daneben;
 - der Schlag ging daneben; لَگَد به خَطا رَفت
 - der Schuss ging daneben; تیر خَطا رَفت، گُلوله اِصابَت نَکرد
 - Danebensitzender; بَغَل دَستی
+dank;
+- dank, auf Grund; بِسَبَبِ، به خاطِرِ
+- dank deiner Freundlichkeit; از مُحَبَت ِ تو، از اِلتِفات ِ تو
 Dank; تَشَکُر، شُکر
 - vielen Dank für deine Mühe; دَست ِ شُما دَرد نَکُنَد
 - jemandem zu Dank verpflichtet sein; خِیلى از کِسى مُتشَکِر بودَن، مِنَت ِ کِسى را کِشیدَن
 - ich weiss mich gegenüber Herrn ... zu Dank verpflichtet; اِداى ِ دِین مى کُنَم به آقاى ِ فِلان
 - 1000 Dank meinerseits; یِک دُنیا سِپاسگُزارَم
-dank;
-- dank, auf Grund; بِسَبَبِ، به خاطِرِ
-- dank deiner Freundlichkeit; از مُحَبَت ِ تو، از اِلتِفات ِ تو
 dankbar;
 - wie sehr ich dir dankbar bin, wenn ...; تا چه حَد مِنَت دارَت خواهَم شُد اَگَر
 - s. dankbar & erkenntlich zeigen; اِظهار ِ تَشَکُر و اِمتِنان کَردَن
@@ -371,6 +371,7 @@ dehnen; کِشیدَن، مُنبَسِط کَردَن
 - gedehnt (z.B. Buchstabe); مُتَمَدِد، کِشیده
 - gedehnt (Zeit); دیرَند
 Dehnung; اِنبِساط، کِشِش
+Dehnungsgrenze; نُقطۀ شِکَست
 Deich; سَد، آب بَند
 Deichsel; مالبَند، تیر ِ عَرابه
 deichseln;
@@ -909,7 +910,7 @@ Dissonanz; بى آهَنگى، ناسازِگارى
 Dissoziation; عَمَل جُدا کَردَن
 Distanz; مَسافَت، فاصِله
 distanzieren;
-- s. von etwas distanzieren; خودرا دور کَردَن از، فاصِله گِرِفتَن از، از چیزى مُنصَرِف شُدَن، ـ کِنار کِشیدَن
+- s. von etwas distanzieren; خودرا دور کَردَن از، فاصِله گِرِفتَن از، از چیزى مُنصَرِف شُدَن، ـ کِنار کِشیدَن، از چیزی اِبایی داشتَن
 Distel; خار، خارخَسَک
 Distrikt; حومه، مَنطَقه
 Disziplin; اِنضِباط، نَظم و تَرتیب
@@ -977,7 +978,9 @@ Donner; صاعِقه، تُندَر، رَعد
 - wie vom Donner gerührt; یَکه خورده
 donnern; رَعد زَدَن
 - Donnern; غُرِش، رَعد
+Donnerschlag; رَعَد زَده، ساعِقه زَده
 Donnerstag; پَنجشَنبه
+Donnerwolke; اَبر ِ ساعِقه دار
 Doping; تَحریک با دارو، دوپینگ
 Dopingmittel; مَواد ِ نیروزا
 Doppelbereifung; لاستیکهاى ِ جُفتى
@@ -1212,6 +1215,7 @@ Druck;
 - Bilddruck (kein Original); یِک تَصویر ِ باسِمه
 Drückeberger; طَفره زَن
 - er neigte zum Drückebergertum; دَر صَدَد ِشانه خالى کَردَن از زیر کار بود
+drucken; .چاپ کَردَن، طَبع ک.
 drücken; فِشُردَن، فِشار دادَن
 - s. drücken vor ...; از ... طَفره زَدَن، ـ سَر باز زَدَن، از زیر ِ.. دَر رفتن، زِه زَدَن
 - jemandem die Hand drücken; دَست ِ کِسى را فِشُردن
@@ -1226,10 +1230,9 @@ drücken; فِشُردَن، فِشار دادَن
 - drückende Armut; فَقر ِ مُکِب، فِشار ِ فَقر
 - die Last wird drückend; شانه ها دَر زیر فِشار تا مى شَوَد
 - drückende Luft; هَواى ِ حار، ـ خَفه کُنَنده
-drucken; .چاپ کَردَن، طَبع ک.
+Drucker; چاپگَر، چاپچى، طَباع
 Drücker;
 - auf den letzten Drücker das Geld auftreiben; با هِزار جان کَندَن پول را تأمین کَردَن
-Drucker; چاپگَر، چاپچى، طَباع
 Druckerhöhung; اِزدیاد ِ فِشار
 Druckerpresse; مَنگَنهٔ چاپ
 Druckfeder; فَنَر ِ فِشارى
@@ -1301,8 +1304,6 @@ Dünger;
 - Kunstdünger; کود ِ شیمیائى
 - Naturdünger; کود ِ طَبیعى
 Düngung; کودپاشى
-Dünkel; اَنانیَت، باد و دَم، اِستِکبار، تَکَبُر
-- aus reinem Dünkel; از باد ِ نِخوَت
 dunkel; تاریک، تار و تیره
 - dunkle Geschäfte; مُعامِلهٔ کَچ
 - dunkle Materie (astron.); جِرم ِ تاریک
@@ -1312,6 +1313,8 @@ dunkel; تاریک، تار و تیره
 - er ist dunkelhäutig; رَنگَش تیره است
 - es ist stockdunkel; چِشم چِشم را نِمیبینَد، سَخت تاریک است
 - er kommt im Dunkel; دَر سیاهى ِ شَب مى آیَد
+Dünkel; اَنانیَت، باد و دَم، اِستِکبار، تَکَبُر
+- aus reinem Dünkel; از باد ِ نِخوَت
 Dunkelheit; تاریکى
 Dunkelkammer; تاریک خانه
 Dunkelmänner; اَشخاص ِ سیاه کار
@@ -1347,7 +1350,7 @@ Dünung; لَپَر ِ دَریا، موج ِ ـ
 Duplikat; نُسخهٔ دُوُم، اَلمُثَنىٰ
 Dur; ماژور
 durch;
-- durch & durch; سَرتاسَر
+- durch & durch; سَرتا سَر، کامِلاً
 - durch die Scheiben schauend, ...; از پُشت ِ شیشه ها نِگَریسته
 - durch Jesus gerettet; به وَساطَت ِ عیسىٰ نِجات یافتَن، از راه ِ ـ
 - durch den Wald gehen; از جَنگَل رَد شُدَن، ـ گُذَشتَن
@@ -1408,10 +1411,10 @@ durchdringend;
 Durchdringung;
 - wechselseitige Durchdringung; داخِل شُدِگى ِ یِکدیگَر
 Durchdringungsvermögen; قابِلیَت ِ نُفوذ
-durcheinander; قاتى پاتى، دَرهَم بَرهَم، تار و مار، چِرت و پِرت
-- er ist ein bisschen durcheinander (popul.) (*:verstört); او یه کَمى گیجه، پَکَرش است، پَریشان حال است، دِل او شور مى زَنَد
 Durcheinander; هَرج و مَرج
 - in diesem Durcheinander; دَر این دِه و دار، ـ هَرج و مَرج، ـ گیر و دار، ـ حِیص و بِیص، ـ خَر تو خَرى، ـ کى به کى، ـ دوغ و دوشاب
+durcheinander; قاتى پاتى، دَرهَم بَرهَم، تار و مار، چِرت و پِرت
+- er ist ein bisschen durcheinander (popul.) (*:verstört); او یه کَمى گیجه، پَکَرش است، پَریشان حال است، دِل او شور مى زَنَد
 durcheinanderbringen; مُنقَلِب ساختَن، قاتى پاتى کَردَن، مُختَل ک.، زیر و رو ک.، بَراَنداختَن، بُشولانیدن، به هَم ریختَن
 - alles durcheinanderbringen; چیزى را قَر و قاطى دیدَن، ـ از تَرتیب اَنداختَن، ، ـ بِهَم ریختَن
 - etwas durcheinanderbringen bei ...; کاسه کوزهٔ کِسی را به هَم زَدَن
@@ -1533,8 +1536,8 @@ durchschmoren;
 Durchschnitt;
 - monatlicher Durchschnitt; مُتَوَسِط ِ ماهیانه
 - guter Durchschnitt; مُعَدِل ِ عالى
-- im Durchschnitt ...; . بِطور ِ مُتَوَسِط
-- ... liegt über dem Durchschnitt ...; از حَد ِ وَسَط بیشتَر است
+- im Durchschnitt ...; بِطور ِ مُتَوَسِط
+- ... liegt über dem Durchschnitt von ...; ... از حَد ِ وَسَط بیشتَر است
 - der Durchschnitt beträgt; وَسَطِش ... مى شَوَد
 durchschnittlich; مُتَوَسِط، مُتَداوِل
 Durchschnittsgeschwindigkeit; سُرعَت ِ مُتَوَسِط، حَد ِ مُتَوَسِط ِ سُرعَت

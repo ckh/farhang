@@ -238,6 +238,7 @@ Hand; دَست
 - soll ich dich mit leeren Händen auf das Fest schicken?; سَر و کون ِ بِرَحنه بِبَرَمِت جَشن
 - mit leeren Händen zurückkommen; اُردَک رَفتَن غاز آمَدَن، دَست از پا دِِرازتَر بَرگَشتَن
 - mit leeren Händen dastehen; دَست ِ کِسی بی نَمَک بودَن
+- Gott gab dir 2 Hände: Eine füllt er dir, mit der anderen hilfst du; دانی که چِرا خُدا به تو داده دو دَست مَن مُعتَقِدَم که اَندَر آن سِری هَست یِک دَست به تو داده به کار ِ خویشتَن پَردازی با دَست ِ دِگَر ز ِ دیگَران گیری دَست
 Handarbeit; دَستکارى، دَست آفَرینه
 handbearbeitet; دَستکار، کارِدَستى
 Handbreite; وَجَب، یِک کَف ِ دَست
@@ -245,13 +246,13 @@ Handbremse; تُرمُز ِ دَستى
 Handbuch; رَوال ِ کارگَردان، طَرز ِ عَمَل ـ، راهنَماى ِ اِستِفاده
 Händedruck; دادَن ِ دَست
 - Händedruck austauschen (z.B. Boxer); مُصافِحِه
+Händel; زَد و خورد
 Handel; داد و سِتَد، بازَرگانى، تِجارَت، مُعامِله، بِیع ِ مُتَقابِل، بِیع و شِراء
 - Handel treiben; مُعامِله کَردَن، داد و سِتَد ک
 - der Handel ist noch nicht perfekt; یَخَش چَندان نَگِرِفته است
 - ihre Wirtschaft hängt vom Handel ab; اِقتِصاد ِ آنها به داد و سِتَد بَستِگى دارد
 - Grosshandel; بُنَکدارى، عُمده فُروشى
 - Einzelhandel; خرده فُروشى، تَکفُروشى
-Händel; زَد و خورد
 handeln; چانه زَدَن
 - er bezahlte, ohne zu handeln; او بی چَک و چانه ... را پَرداخت
 - handeln mit, umgehen mit; عَمَل کَردَن با، رَفتار کَردَن با، عامِل بودَن
@@ -314,6 +315,7 @@ Handwerk; حِرفه، کاسِبى
 Handwerker; پیشه وَر، کاسِب
 Handwerkzeug; اَبزار
 Handy; تِلِفُن ِ دَستى، تِلِفُن ِ سَیار، تِلِفُن ِ هَمراه، مُبایل
+- Bitte Handy ausschalten (auf Vibration stellen); پارس بِدارید، روی ِ لَرزانَک بِگُذارید
 Handzettel; تراکت ِ دَستی
 Hanf; شاه دانه، کَنَف
 - Hanf rauchen; بَنگ کِشیدَن
@@ -354,6 +356,8 @@ Happy End; پایان ِ حوش
 Hardware; اَبزار ِ سَخت، سِفت اَبزار
 Harem; حَرامسَرا
 Haremswächter; پَرده دار
+Häresie; هَرطَقه، بِدعَت کاری
+Häretiker; بِدعَت کار
 Harfe; چَنگ، بَربَط
 Harfenspieler; چَنگ زَن
 harmlos; بى آسیب، بى ضَرَر
@@ -945,8 +949,9 @@ hetzerisch; تَحریک کُنَنده
 Hetzjagd; تازیبانى
 Heu; عَلَف ِ خُشک
 Heuchelei; شیله پیله، ریاکارى، مُقَدَسبازى، مُنافِقَت، اِفتِعال، نِفاق
-heucheln; .آب زیر ِ کاه از آب در آمَدَن، ریاکارى کَردَن، مُنافِقَت ک
+heucheln; آب زیر ِ کاه از آب در آمَدَن، ریاکارى کَردَن، مُنافِقَت ک.
 Heuchler; مُرائى، ریاکار، مُنافِق
+heuchlerisch; ریاکارانه، دو رویی، مُزَوَرانه، مُنافِقانه
 Heugabel; چَنگال ِ چار شاخه
 heulen; گِریه کَردَن، گِریستَن
 - der Hund heult; زَنودَن
@@ -1057,7 +1062,8 @@ hinderlich;
 - die hinderlichen Tonnen liessen es nicht zu, ...; تُنهاى ِ حائِل نِمى گُذاشت
 hindern; از ... باز داشتَن، جِلوى ِ کِسى را گِرِفتَن، حَایل شُدَن
 - sie haben ihn daran gehindert, nach ... zu gehen; از رَفتَن به ... مَنعَش کَرده بودَند
-Hindernis; (pl.) مَحظور، مانِع (مَوانِع)، مُشکِل (مُشکِلات)، مَضیقه (مَضایِق)، گیر
+Hindernis;
+- Hindernis (pl.) ; مَحظور، مانِع (مَوانِع)، مُشکِل (مُشکِلات)، مَضیقه (مَضایِق)، گیر
 - Hindernisse ausräumen; رَفع ِ مَوانِع کَردَن
 - als Hindernis dazwischen stellen; حَایل کَردَن
 - der syrische Zoll ist ein schwer zu überwindendes Hindernis; گُمرُک ِ سوریه پُل ِ خَر بِگیری است
@@ -1151,7 +1157,7 @@ hinterfragen; دَر مَعرَض ِ سؤال قَرار دادَن، مورِد
 Hintergrund; زَمینه
 - auf dem Hintergrund der Kultur; دَر زَمینهٔ فَرهَنگ
 Hinterhalt; مَخفی گاه، کَمین گاه
-hinterhältig; رَذیل، مَکر آمیز، دورو، آب زیر ِ کاه
+hinterhältig; رَذیل، مَکر آمیز، دورو، آب زیر ِ کاه، مُزَوَر
 Hinterhältigkeit; تَرفَند، نیرَنگ
 hinterher;
 - ich hinke hinterher (mit meiner Arbeit); مَن ماندَم
@@ -1365,6 +1371,7 @@ hohl; پوک، توخالى، مُجَوَف
 Höhle; بیغوله، کُنام، غار
 - Erdhöhle; بومکَند
 Hohlkegel; مَخروطى ِ مُجَوَف
+Hohlkopf; جِلف
 Hohlraum; فَضاى ِ تو خالى، ـ میان تُهى
 Hohlziegelstein; آجُر ِ مُجَوَف، ـ مُشَبَک
 Hohn; اِستِهزاء، تَمَسخُر
@@ -1409,6 +1416,7 @@ Honigwabe; شان ِ عَسَل
 Honorar; دَستمایه، پاداش، دَستمُزد، حَق اُلزَحمه، حَق اُلعَمَل
 Hopfen; رازَک، لَبلاب
 - bei dem ist Hopfen & Malz verloren; دو زَره اَش نِمى اُفتَد
+hoppla; ای بابا
 hopsen; جَست و خیز کَردَن
 - das ist gehopst wie gesprungen; چه عَلى خواجه، چه خواجهٔ عَلى
 hörbar; قابِل ِ شِنیدَن، شِنیدَنى
@@ -1524,7 +1532,7 @@ Hund; سَگ
 Hundegekläff; پارس ِ سَگ
 - wie das Hundegekläff bei Mondschein; مانَند ِ پارس ِ سَگ دَر شَب ِ مَهتاب
 Hundeleine; قَلاده
-- goldene Hundeleine (i.S. Göldener Käfig); قَلادۀ طَلا
+- goldene Hundeleine (i.S. Goldener Käfig); قَلادۀ طَلا
 hundert; صَد
 Hunderter (mathemat.); مَآت، صَدِگان
 hundertst;
@@ -1547,7 +1555,7 @@ hüpfen; جَست و خیز کَردَن، جَهیدَن
 - sie hüpfen herum wie kleine Kinder; مِثل ِ بَچه ها مَشغول ِ وِرجه و وِرجه اَند
 - beidbeinig hüpfen; جُفت زَدَن
 - hinkend und hüpfend kamen sie an; اُفتان و خیزان به ... رِسیدَند
-- Das ist gehüpft, wie gesprungen; چه عَلى خواجه چه خواجه عَلى
+- Das ist gehüpft wie gesprungen; چه عَلى خواجه چه خواجه عَلى
 Hürde; (pl.) (مانِع (مَوانِع
 - die letzte parlamentarische Hürde nehmen; از آخَرین مَرحَلهٔ پارلِمانى گُذَشتَن
 Hürdenlauf; دُو با عَوارض

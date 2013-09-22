@@ -940,6 +940,7 @@ mitten; مُتَمَرکِز، دَر وَسَط
 - mitten im Winter; دَر قَعر ِ زِمِستان
 Mitternacht; نیمه شَب، نِصف ِ شَب
 - Land der Mitternachtssonne; سَرزَمین ِ آفتاب ِ نیمه شَب
+Mitternachtssonne; آفتاب نیم ِ شَب
 mittler;
 - er ist im mittleren Alter; او آدَم ِ میان سال است
 - mittlerer Dienst; خِدمَت ِ اِجرائى ِ مُتَوَسِط
@@ -1265,7 +1266,7 @@ mumienartig; مومیائى
 mumifizieren; مومیائى کَردَن
 Mumm; جُرأت، شُجاعَت، دِلاوَرى، جَسارَت، بى باکى، رِشادَت، حِماسَت
 - wenn du Mumm hast; اَگَر مَرد هَستى
-Mumps; اَروین
+Mumps; اَروین، اوریون
 Mund; دَهَن، دَهان
 - halt den Mund!; خَفَقون بِگیر، خَفه شو
 - s. den Mund spülen; غَراره زَدَن
@@ -1283,9 +1284,9 @@ Mund; دَهَن، دَهان
 Mundart; لَهجه
 Mundbereich; چَک و چانه
 Mündel; (musā - alej-he) تَحت ِ وِصايَت، ـ قِیمومَت، موصى علیه
+munden; خوش مَزه بودَن
 münden;
 - das ganze mündet in ...; این هَمه اَش به ... مُنتَهى میشَوَد
-munden; خوش مَزه بودَن
 mundgerecht;
 - mundgerecht sein; سَرد و دَهَن گیر شُدَن
 - der Tee muss mundgerecht sein; چاى بايَد لَب پَذیر باشَد

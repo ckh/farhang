@@ -147,7 +147,7 @@ Inder; هِندى
 Index; فِهرِست
 - Index der Lebenshaltungskosten; شاخِص ِ هَزینهٔ زِندِگى
 Indianer; سُرخ پوست
-Indien; هِندوستان
+Indien; هِند، هِندوستان
 indifferent; بى تَفاوُت
 Indigo; وَسمه
 Indikativ; وَجه خَبَرى
@@ -273,6 +273,7 @@ Innerweltlichkeit;
 - Innerweltlichkeit Gottes; هَمِگامى و حُضور ِ دائِم ِ خُدا
 innig; پُر اِخلاص
 Innovation; نو آوَری
+Inquisition; تَفتیش ِ عَقایِد
 Insasse; سَرنِشین
 insbesondere; عُمدَتاً، بخُصوص، به ویژه، خُصوصاً
 - insbesondere für die Gesellschaft; به دِلیل ِ خاص ِ جامِعه
@@ -345,7 +346,7 @@ intellektuell; فِکرى، با قُوهٔ دَرک، روشَن فِکر
 intelligent; فَهام، فاضِل، هوشمَند، زِرَنگ
 Intelligenz; حَرايَت، اَندیشمَندى، هوش
 - künstliche Intelligenz; هوش ِ مَصنوعى
-Intelligenzquotient; ضَریب ِ هوشی
+Intelligenzquotient; ضَریب ِ هوشی، هوشبَهر
 Intensität; شِدَت
 intensiv;
 - intensiv glänzen; بِشِدَت میدِرَخشَد
@@ -419,6 +420,7 @@ Investition; حُصول، سَرمایه گُذارى، خَرج
 - gute Investition (billig, aber im Ergebnis gut); سَنگ مُفت گُنجِشک مُفت
 - Rationalisierungsinvestition; سَرمایه گُذارى بَراى ِ کِفايَت ِ اَفزايِش
 Investitionsanreiz; تَشویق ِ سَرمایه گُذارى
+Investitionsertrag; بازدِه ِ سَرمایه گُذاری
 Investitionskosten; مَخارج ِ حُصول، مَخارج ِ خَرید
 Investor; سَرمایه گُذار
 inwiefern; به چه حالَت، تا چه حَد
@@ -426,6 +428,8 @@ Inzest; زِناى ِ خویشاوَندان، زِناى ِ مُحارَم، و
 inzwischen; دَر این میان
 - inzwischen kam ich zu dem Ergebnis; دَر این میان به نَتیجه نائِل آمَدَم
 Ion; یون
+IQ; ضَریب ِ هوشی، هوشبَهر
+Irak; عِراق
 Iran; ایران
 Iraner (- in); (ایرانى (زَن ِ ـ
 irgendein;

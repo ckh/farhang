@@ -63,7 +63,7 @@ gängig;
 Ganove (m); آدَم ِ تَبَه کارى، جانى
 - das sind alles die gleichen Ganoven; هَمه اَش از آن آپاردیان
 Gans (f); غاز
-Gänseblümchen (n); گُل ِ مَروارید
+Gänseblümchen (n); گُل ِ مُروارید
 Gänsehaut (f); مور مور ِ بَدَن
 - ich habe Gänsehaut bekommen; موهاى ِ بَدَنَم بَر خاسته
 - jagt ihm eine Gänsehaut über den Rücken; لَرزه بَر اَندامَش مى نَوازَد
@@ -99,16 +99,17 @@ Garaus (m);
 - jem. den Garaus machen; کِسى را به دود و خاکِستَر تَبدیل کَردَن
 Garbe (f); بافهٔ گَندُم
 - Garbe einbringen; بافهٔ گَندُم بَر داشتَن
-Garderobe (f); رَخت کَن، جارَختى، جاى ِ لِباس
+Garderobe;
+- Garderobe (f); رَخت کَن، جارَختى، جاى ِ لِباس
 Garderobenstange (f); چوب ِ لِباس
 Gardine (f); سِتار، پَرده
 Gardinenpredigt (f);
 - jem. eine Gardinenpredigt halten; بَراى ِ کِسى بالاى ِ مَنبَر رفتَن
 Gardinenstange (f); چوب ِ پَرده
-garen;
-- das Fleisch muss noch garen; گوشت هَنوز حاضِر نیست، ـ پُخته نیست
 gären; تَخمیر کَردَن
 - gären lassen; مُخَمِر کَردَن
+garen;
+- das Fleisch muss noch garen; گوشت هَنوز حاضِر نیست، ـ پُخته نیست
 Gärfutter (n); عُلوفهٔ تَخمیر
 Garn (n); سَرنَخ
 Garnele (f); جَراد اُلبَحر، مِیگو
@@ -668,6 +669,8 @@ Gehilfe; مُعاوِن، دَستیار
 Gehirn; مُخ، مَغز
 Gehirnentzündung; سام ِ سَر، اِلتِهاب ِ مَغز
 Gehirnerschütterung; ضَربهٔ مَغزی
+Gehirnhälfte;
+- Gehirnhälfte (rechte-, linke); نیم کُرۀ مَغز ( ِ راست، ِ چَپ)
 Gehirnschlag; سِکتهٔ مَغزی، خونریزی مَغزی
 Gehirnwäsche; شُست و شوى ِ مَغزى
 gehoben (z.: Dienst); خِدمَت ِ اِجرائى ِ سَطح ِ بالا
@@ -837,7 +840,8 @@ Gelenkentzündung; وَرَم ِ مَفاصِل، باد ِ ـ
 Gelenkfahrzeug; ماشین‌آلات ِ کَمَرشِکَن
 gelenkig; نَرم، مُتَحَرِک
 Gelenkkopf; سیبَگ، غِرغِرى، سَر ِ مَفصَل گردان
-Gelenkpfanne (aus Metall); بابیت
+Gelenkpfanne;
+- Gelenkpfanne (aus Metall); بابیت
 Gelenkschmiere; مایعِ لَزِج دَرون ِ سَرپوش ِ مَفصَل
 Gelenkwelle (Kardanwelle); غِرغِره، میلهٔ گاردان
 geliebt; مَحبوب، حَبیب
@@ -1407,7 +1411,8 @@ gesondert; جُداگانه
 gespalten (z.B. in Partei); مُنشَعِب، مُنشَق
 gespannt; کُنجکاو بودَن
 - wir sind gespannt; ما کُنجکاویم
-Gespenst; (plur.) (شَبَح (اَشباح
+Gespenst;
+- Gespenst (pl.); شَبَح (اَشباح)
 Gespinst; تارهاى ِ پیله، ـ بِهَم پیچیده
 - Hirngespinst; خیال ِ خام
 Gespött;
@@ -1690,6 +1695,7 @@ Girlande; شاخه هاى ِ گُل و بَرگ، حَلقهٔ ـ
 Girokonto; حِساب ِ جارى
 Gischt; کَف
 Gitter; شَبَکه، نَرده، مِعجَر
+Gitterwerk; داربَست بَندی، شَبَکۀ داربَست
 Gladiator; سِلَحشور
 Glanz; تابِش، فُروغ، شُکوه، جِلوه، جَلا، دِرَخشِش
 - einer Sache Glanz verleihen; آب به (بَر) روی ِ کار آوَردَن، به صَلاح آوَردَن فِسادی را
@@ -1822,6 +1828,7 @@ gleichmäßig;
 - es regnet gleichmäßig; باران یِک ریز مى بارَد
 - gleichmäßig laufen; میزان چَرخیدَن
 - gleichmäßig zusammengesetzte Klassen; کلاسهای ِ هَمِگون
+- gleichmäßige Aufteilung; تَقسیم بَندی ِ مُنَظَم
 - ungleichmäßssig; لِنگه به لِنگه، تا به تا، ناموزون
 - etwas ungleichmäßig schneiden; چیزی را تا به تا زَدَن
 - ungleichmäßig zusammengesetzte Klassen; کلاسهای ِ ناهَمِگون

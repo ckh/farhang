@@ -119,6 +119,7 @@ wahr; راست، واقِعى، حَقیقى، دُرُست، بِراستی
 - nicht wahr?; هان؟، مَگِه نَه؟
 - wahre Gründe; دَلايِل ِ واقِعى
 - was ist schon wahr daran?; که بايَد زیر ِ کاسهٔ نیم کاسه اى باشَد
+- Alles was du sagst, muß wahr sein. Aber die ganze Wahrheit mußt du nicht sagen (Saadi); جُز راست نَبایَد گُفت  هَر راست نَبایَد گُفت
 wahren; حِفظ کَردَن
 - Interessen wahren (*:gewahrt); مُصالِح را حِفظ کَردَن
 - das muss gewahrt bleiben; این بايَد مَحفوظ باشَد
@@ -158,10 +159,10 @@ wahrscheinlich; مُحتَمَل، اِحتِمالى، اِحتِمالاً
 Wahrscheinlichkeit; اِحتِمال
 Wahrscheinlichkeitslehre; عِلم ِ اِحتِمالات
 Wahrscheinlichkeitsrechnung; حِساب ِ اِحتِمالات
-Wahrung; اِبقاء
-- Schutz & Wahrung einer Tradition; حِفظ و حِراسَت ِ سُنَت
 Währung; اِرز، نِرخ، یِکای ِ پول
 - Landeswährung; اِرز ِ کِشوَر، ـ مِلى، پول ِ رايِج ِ کِشوَر
+Wahrung; اِبقاء
+- Schutz & Wahrung einer Tradition; حِفظ و حِراسَت ِ سُنَت
 Währungsabkommen; قَرار داد ِ اَسعارى
 Währungsfond; صَندوق ِ پول
 - Internationaler Währungsfond; صَندوق ِ جَهانى ِ پول
@@ -275,7 +276,7 @@ Warnung; اِخطار، تَحذیر
 - nach dieser Warnung ging er; بَعد از این هُشدار رَفت
 - ohne jegliche Warnung; بى هیچ اِخطار
 - seine Stimme bringt Warnung zum Ausdruck; صِداى ِ او خَطَرى را هُشدار مى دَهَد
-- nimm das als Warnung, dass du ...; (nehmt ...) ... تا تو باشی (تا شما باشید ...) که
+- nimm das als Warnung, dass du ... (nehmt);  ... تا تو باشی (تا شما باشید ...) که ...
 Warteliste; لیست ِ نوبَت
 warten; مُعَطَل کَردَن، پاییدَن
 - warum wartest du noch?; چِرا مُعَطَلى؟
@@ -345,6 +346,7 @@ Wasser; آب
 - Wasser mit einem Sieb schöpfen; آب دَر هاوِن کوبیدَن
 - Leitungswasser; آب ِ شیر
 - Quellwasser; آب ِ چِشمه
+- Hochwasser; سِیل آب
 Wasserball; واتِرپُلو
 Wasserbehälter; آبِش خور، مَخزَن ِ آب
 wasserbeständig; ضِد ِ آب
@@ -352,12 +354,14 @@ wasserdurchlässig; آب نَشت کَردَن، ـ پَس دادَن
 Wasserfall; شَلاله، آبشار
 Wasserfarbe; آب رَنگ
 Wasserfilter; صافى ِ آب
-Wassergefäss (eine Art -); مَشرَبه
+Wassergefäss;
+- Wassergefäss (eine Art -); مَشرَبه
 Wassergraben; آبراه، مَسیل، آبکَند
 - unterirdischer Wassergraben; (pl.) (قَنات (قَنَوات
 Wasserhahn; شیر ِآب
 wasserhaltig; آبدار
 Wasserkessel; کِترى
+Wasserknappheit; کَم آبی
 Wasserkreislauf; مَسیر ِ گَردِش ِ آب
 Wasserkrug (auf Toilette); لولهِنگ، آفتابه
 Wasserkühlung; خُنَک کُنَندِگى ِ آب، سَرد ـ
@@ -479,6 +483,7 @@ Weg (m); راه
 - ich möchte auf diesem Wege gratulieren; مُتَقابِلاً مى خواهَم تَبریک بِگويَم
 - Land, das seinen Weg geht; راهبُرد
 - Das Feuer findet seinen Weg; آتَش جايِ خود باز می کُنَد، مَرد ِ زیرَک و ماهِر و اُستاد زود شِناخته شَوَد
+- etwas auf den Weg bringen; چیزی را سَر ِ راه آوَردَن
 - Fluchtweg; راه ِ گُریز
 - Irrweg (vom eigentlichen Weg entfernt); بى راهى
 Wegbereiter; راهگُشا
@@ -1208,7 +1213,7 @@ Wirsing; کَلَم ِ پیچ
 Wirt; صاحِب ِ مِیخانه
 Wirtschaft; اِقتِصاد
 - Betriebswirtschaft; اِقتِصاد ِ صَنَعتی
-- Volkswirtschaft; (Mikro-, Makroökonomie) (اِقتِصاد ِ مِلی (اِقتِصاد ِ خُرد، - کََلان
+- Volkswirtschaft (Mikro-, Makroökonomie) ; اِقتِصاد ِ مِلی (اِقتِصاد ِ خُرد، - کََلان)
 wirtschaftlich; اِقتِصادی
 - gesamtwirtschaftlich; اِقتِصادى ِ کَلان
 - wirtschaftlicher Rückschlag; وَخامَت ِ وَضع ِ اِقتِصادى
@@ -1360,7 +1365,8 @@ Wölbung; خَمیدِگى، بَرآمدِگى، گُنبَد
 Wolf; گُرگ
 - Wolf im Schafspelz; مار ِ خوش خَطا و خال، گُرگى دَر لِباس ِ میش
 - Wolf bleibt Wolf; گُرگ با تَعليم و تَربيَت گوسفَند نِمی شَوَد
-Wolke; (pl.) (اَبر، سَحابه (سَحاب
+Wolke;
+- Wolke (pl.) ; اَبر، سَحابه (سَحاب)
 Wolkenbruch; رَگبار
 Wolkenkratzer; ساختِمان ِ آسِمان خَراش
 Wolle; پَشم
@@ -1576,6 +1582,7 @@ wüst;
 - ein wüstes Durcheinander; چِرت و پِرت، دَرهَم بَرهَم
 - wüster Mensch; آدَم ِ هَرزه، ـ زِشت
 Wüste; بادیه، کَویر، بیابان، هامون
+- (trotz) Wüste; (با وُجود ِ ) کَویر بودَن ِ ...
 Wüstenbewohner; بادى، صَحرا نِشین
 Wüstenblume; خارخَسَک
 Wüstensand; ماسهٔ کَویر

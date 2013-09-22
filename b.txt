@@ -157,13 +157,13 @@ bannen;
 Banner; (pl.) لیوا (اَلویه)، عَلَم
 - Banner der Freiheit erheben; لِواى ِ آزادى را اَفراشتَن
 - unter dem Banner von ...; ... ِ دَر زیر لِواى
+Bär; خِرس
+- jem. einen Bären aufbinden; دُروغهاى ِ شاخدارى تحویل دادَن
 bar;
 - bar von; عارى از، خالى از
 - in bar & in Ware; نَقداً و جِنساً
 - Verkauf nur gegen bar; فُروش فَقَط دَر اَزاى ِ پَرداخت ِ نَقدى
 - den Lohn bar auf die Hand zahlen; مُزدرا گُذاشتَن کَف ِ دَست، ـ نَقدى پَرداخت کَردَن
-Bär; خِرس
-- jem. einen Bären aufbinden; دُروغهاى ِ شاخدارى تحویل دادَن
 Baracke; کُلبه
 Barbar; بَربَر
 Barbarei; جَباريَت
@@ -418,6 +418,7 @@ bedienen;
 - bedient werden; مَخدوم شُدَن
 - werden Sie schon bedient?; سِفارِشتان را داده اید؟
 - jeder möchte als erster bedient werden; هَمه میخواهَند اَوَل از آنها پَذیرائى شَوَند
+Bedienkomfort; دَستیابی پذیری
 Bedienung; خِدمَت، طَرز ِ عَمَل
 - Bedienung (Kellner); گارسُن
 - die Bedienung ist im Preis enthalten; قِیمَت شامِل ِ سِرویس است
@@ -663,6 +664,7 @@ beginnen;
 - die Schule beginnt um 8 Uhr; مَدرِسه ساعَت ِ ۸ شُروع مى شَوَد
 - beginnt im Herzen des Menschen; از قَلب ِ اِنسان سَرچِشمه مى گیرَد
 - die Veranstaltung begann mit der Rede von ...; جَلَسه با سُخَنرانى ِ فِلان آغاز به کار کَرد
+- beginnend mit ...; شُروع شُده با، آغاز  -
 beglaubigt;
 - beglaubigte Kopie; رونِوِشت ِ مُصَدِق، ـ ثابِت شُده
 - notariell beglaubigter Vertrag; قَرار داد ِ مَحضَر
@@ -709,6 +711,7 @@ begrenzt;
 Begrenztheit;
 - wir wissen um unsere (wissenschaftliche) Begrenztheit; به این نُکته رِسیده ایم که مَحصور ِ جَهل ِ مُرَکَب هَستیم
 Begrenzung; تَحدید، مَحدوديَت
+Begrenzungsraum; حَد ِ سَیَلان
 Begriff; (plur.) (اِصطلاح، واژه، عِبارَت (عِبارات
 - er ist im Begriff, zu gehen; او دارَد راه میرَوَد
 Begriffsapparat; دَستگاه ِ مَفاهیمى
@@ -1096,7 +1099,8 @@ Belobigung; تَحسین
 belohnen; به مُکافات رِساندن، اَجر دادَن
 - jem. für seine Mühe belohnen; زَحمَت ِ کِسى را تَلافى کَردَن
 - belohnt werden; به مُکافات رِسیدَن، اَجر گِرِفتَن
-Belohnung (*:Lohn); اِنعام، اَجر، مُکافات، پاداش، مُشتلُق
+Belohnung;
+- Belohnung (*:Lohn); اِنعام، اَجر، مُکافات، پاداش، مُشتلُق
 - Belohnungs - Bestrafungs - Mechanismus; مِکانیزم ِ پاداش و تَنبیه
 belüften; هَوا دادَن، تَهویه کَردَن
 Belüftung; تَهویه
@@ -1378,6 +1382,8 @@ Berührung; مُماسَت، تَماس، مالِش
 Berührungsangst; لَمس حَراسى
 Berührungsfläche; سَطح ِ مُماس
 Berührungspunkt; نُقطهٔ تَماس، نُقاط ِ اِشتِراک
+Berührungsscheibe;
+- Berührungsscheibe (touch screen); صَفحۀ اِحساس به تَماس
 besagen;
 - seine Worte besagen, dass ...; از حَرفهايَش چِنین مَفهوم می شَوَد که
 - das Gesetz besagt; قانون تَصریح دارَد
@@ -1550,6 +1556,7 @@ beschwören; قَسَم خوردَن
 - jem. beschwören, etwas zu tun; کِسى را قَسَم دادَن که
 - er beschwört ihn beim Namen von ...; اورا به اِسم ِ فِلان قَسَم می دَهَد
 - Krise heraufbeschwören; بُحرانى را بَر اَنگیختَن
+- beschwören von "alten Zeiten"; طَلَب کَردَن ِ زَمانهای ِ گُذَشته
 beseelt; ذیروح
 besehen; .سیاحَت کَردَن، نِگاه ک.، تَماشا ک
 beseitigen;
@@ -1581,7 +1588,7 @@ Besiedlung; نونِشانى، سُکونَت
 besiegeln; مَمهور کَردَن، مُهر زَدَن
 - besiegeln, beenden; .خاتِمه دادَن، فَراهَم آوَردَن، کامِل کَردَن، مَختوم ک
 - das Unglück ist besiegelt; بَد بَختى کامِل شُد، ـ فَراهم آوَرَده شُد، ـ به وُقوع پِیوَسته
-besiegen; .بَر کِسى غالِب شُدَن، ـ چیره ش.، کِسى را شِکَست دادَن، ـ مَقهور کَردَن، ـ غَلَبه ک.، ـ مَغلوب ک
+besiegen; بَر کِسى غالِب شُدَن، ـ چیره ش.، کِسى را شِکَست دادَن، ـ مَقهور کَردَن، ـ غَلَبه ک.، ـ مَغلوب ک.
 - besiegte Armee; نیروى ِ شِکَست خورده
 Besiegter; مَغلوب
 besinnen;
@@ -1704,6 +1711,7 @@ bestätigend; مُؤَيِد، مُصَدِق، با تأکید و اِبرام
 Bestätigung; تأئیدیه، تأیید، تَصدیق، ثابِت، تَصویب
 Bestattung; دَفن، به خاک سِپُردَن
 - ... wurde er zur Bestattung freigegeben; جَواز ِ دَفن صادِر گَردید
+- Feuerbestattung; سوزاندَن ِ پِیکَر
 Bestattungsinstitut; (wörtlich: Verwaltung des Vorhofes) توليَت آستان
 bestäuben; .گَرد پوشى کَردَن، گَرد اَفشانى ک
 Bestäubung; گَرد اَفشانى
@@ -2077,9 +2085,9 @@ bewaffnet; مُسَلَح
 - er war mit einem Gewehr bewaffnet; او به سَلاح ِ تُفَنگ مُجَهَز بود
 - bewaffneter Überfall; تَجاوُز با سَلاح، ـ با اَسلَحه، ـ مُسَلَحانه
 - bewaffnetes Auge (mit Mikroskop u.ä.); چِشم ِ مُسَلَح
-bewähren; (s. -) از اِمتِحان دَر آمَدَن، خودرا مُعتَبَر نِشان دادَن
 bewahren; مُحافِظَت کَردَن، حِفظ ک.، نِگه داشتَن
 - Ruhe bewahren; خاطِر جَمع بودَن، دَست پاچه َنشُدَن
+bewähren; (s. -) از اِمتِحان دَر آمَدَن، خودرا مُعتَبَر نِشان دادَن
 bewahrheiten;
 - s. bewahrheiten, bestätigen; به تَواتُر رسیدن، تَصدیق شُدَن
 - s. bewahrheiten, erfüllen; اَنجام گِرِفتَن، تَمام شُدَن
@@ -2269,6 +2277,7 @@ Beziehung; نِسبَت، اِرتِباط، مُدارا ، رابِطه، سَ
 - Lasst es uns wagen, aus dem sicheren Hafen herauszugehen und in Beziehung zu Menschen zu treten; از پِناهگاه بیرون میائیم و دَر راهگُذَر ِ زِندِگى دَر رابِطه با دیگَران قَرار گیریم
 - angespannte Beziehung; تیرِگی ِ رَوابِط
 - diplomatische Beziehungen; مُراوِدهٔ دیپلُماسى
+- ich habe keine besondere Beziehung zu ...; با ... چَندان جوشِشی نَدارَم
 Beziehungsgefüge; ساختار ِ رَوابِط
 beziehungslos (*:unzusammenhängend); بی سَر و تَه
 beziehungsweise;
@@ -2404,7 +2413,9 @@ Bimsstein; سَنگ ِ پا
 bin; (*:sein)
 - ich bin Schüler; مَن شاگِرد هَستَم
 - du bist wie ich (z.B.: im Verhalten); حال ِ مَن را داری
-binär; دواَرزِشى، دونَمادى
+binär; دونَمادى، دودویی، جُفتی
+- binäres System; سیستِم ِ دوتایی، -  دودویی، نِظام ِ نَمادیb
+- binäre Variable; مُتَغَیِر ِ دودویی
 Binde; بَند
 - s. einen hinter die Binde kippen; گَلویش را پُر کَردَن
 Bindegewebe; بافت ِ پِیوَندى
@@ -2474,10 +2485,6 @@ bissig;
 Bissstelle;
 - Bissstellen von Insekten; جاى ِ نیش ِ حَشَرات، مَحَل ِ گاز ِ ـ
 bisweilen; اِحیاناً، گاهگاهى
-bitte;
-- kannst du mir bitte geben; بى زَحمَت ... را به من بِده، اگر لُطف کُنى ـ، اگر زَحمَت نَباشَد ـ، خواهِش می کُنَم ـ، لُطفاً ـ
-- bitte geben Sie mir die Zeitung; روزنامه را مَرحَمَت کُنید
-- wie bitte?; بَلى؟ جان؟
 Bitte; خواهِش، تَمَنا، اِلتِماس
 - Bitte, Gebet; مَسئلَت، دُعا
 - Bitte (um Segen); صَلَوات
@@ -2485,6 +2492,10 @@ Bitte; خواهِش، تَمَنا، اِلتِماس
 - dringende Bitte äussern; اِلحاح کَردَن
 - Bitte erfüllt bekommen; حاجَت گِرِفتَن
 - sie bringen ihre Bitten vor Gott; آنها از خُدا مَسئلَت می کُنَند
+bitte;
+- kannst du mir bitte geben; بى زَحمَت ... را به من بِده، اگر لُطف کُنى ـ، اگر زَحمَت نَباشَد ـ، خواهِش می کُنَم ـ، لُطفاً ـ
+- bitte geben Sie mir die Zeitung; روزنامه را مَرحَمَت کُنید
+- wie bitte?; بَلى؟ جان؟
 bitten (*:gebeten); اِستِغاثه کَردَن، تَقاضا ک.، خواهِش ک.، تَمَنا داشتَن
 - um etwas bitten; حاجَت طَلَبیدَن
 - inständig bitten; .عَجز و لابه کَردَن، اِلحاح ک
@@ -3206,6 +3217,7 @@ Bruchbude; آلونَک
 - in Bruchbuden leben; دَر آلونَک زِندِگى کَردَن
 Bruchgestein; مَعدَن ِ سَنگ ِ پاره
 brüchig; سُست بُنیاد، شِکَستَنى
+Bruchlandung; سُقوط کَردَن ِ هَواپِیما
 Bruchrechnung; حِساب ِ کُسور
 bruchsicher; شِکَست ِ مُطمَئِن
 Bruchstelle; نُقطهٔ شِکَستِگى
@@ -3271,7 +3283,8 @@ brutto; وَزن ِ غِیر ِ خالِص، ـ ناخالِص
 Bruttosozialprodukt; تولید ِ ناخالِص ِ مِلى
 brutzeln; جِز و وِز، جِلِز و وِلِز
 - in der Pfanne brutzeln; دَر ماهى تاوه جِز و وِز می کُنَد، ـ جِلِز وِلِز می کُنَد
-Buch; (pl.) (کِتاب (کُتُب
+Buch;
+- Buch (pl.); کِتاب (کُتُب)
 - als Buch herausgeben; چیزى را کِتاب کَردَن
 - zu Buch schlagen; به حِساب آمَدَن
 - Telefonbuch; دَفتَر ِ تِلِفُن
@@ -3338,11 +3351,11 @@ bügeln; اُطو کِشیدَن
 bugsieren; کِشتى را يَدَک کِشى کَردَن
 buhlen; خودَش را پیش ِ کِسى شیرین کَردَن، دُنبال ِ دُختَرى اُفتادَن، ـ بودَن
 - Nebenbuhlerschaft; چِشم و هَمچِشمی
-Buhne; سَد بَراى ِ اِنحِراف ِ اَمواج
 Bühne; صَحنه
 - zur Bühne gehen; آکتُر شُدَن
 - ein Stück auf die Bühne bringen; نَمايِش را به روى ِ صَحنه بُردَن، ـ روى ِ صَحنه آوَردَن
 - Rednerbühne; کُرسى ِ سُخَنرانى
+Buhne; سَد بَراى ِ اِنحِراف ِ اَمواج
 Bühnenbearbeitung; تَطبیق با مُقتَضیات ِ صَحنه
 Bühnenbild; دِکوراسیون ِ صَحنه
 Bühneneinrichtung; لَوازِم ِ صَحنه، تَزئین ِ ـ

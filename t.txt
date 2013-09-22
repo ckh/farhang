@@ -67,9 +67,12 @@ Talent; فَضائِل، قَریحه، اِستِعداد، اَهليَت، ق
 - Talente (biblischer Begriff); قِنطار
 talentiert; قَریحه، مُستَعِد
 talentlos; بى هُنَر، بى عُرضه
-Talfahrt; (finanz.) سِیر ِ نُزولى ِ اِقتِصادى
+Talfahrt;
+- Talfahrt (finanz.); سِیر ِ نُزولى ِ اِقتِصادى
 Talg; شَحم، چَربى
 Talgdrüse; غدهٔ چَربى
+Talgrund;
+- (im) Talgrund; (دَر) کَف ِ دَره
 Talisman; طِلِسم، حِرز
 Talkum; طَلق
 Talsohle; تَه ِ دَره
@@ -182,10 +185,10 @@ taub; کَر، صُم
 Taube; کَبوتَر، کَفتَر، فاخته
 Taubenschlag; کَبوتَر خانه، چَخ
 taubstumm; (sommon-bokm) گُنگ و کَر، کَر و لال، صُم بُکم
+Tauchen; (n) غوطه، غوص، غَواصى
 tauchen; غوطه خوردَن، ـ زَدَن، غوطه وَر شُدَن
 - abtauchen; .شیرجه رَفتَن، با کَله زیر ِ آب ر
 - abtauchen, fliehen; دَر رَفتَن
-Tauchen; (n) غوطه، غوص، غَواصى
 Taucher; غوطه وَر، غَواص
 Taucheranzug; لِباس ِ غَواصى
 Tauchlack; لاک ِ غوطه اى
@@ -208,11 +211,11 @@ Tauglichkeit; ارزَش، کارآمَد، قابِليَت
 taumeln; نَوان شُدَن، جُنبیدَن، گیج خوردُن
 Taupunkt; نُقطهٔ شَبنَم
 Tausch; مُبادِله، مُعاوِضه
-täuschen; مُشتَبه کَردَن، گُمراه ک.، مُنحَرِف ک.، گول زَدَن
 tauschen;
 - Geld gegen Ware tauschen; پول دَر مُقابِل ِ جِنس دادَن
 - die Kleidung mit jem. tauschen; لِباس را با کِسى مُعاوِضه کَردَن
 - austauschen; .مُبادِله کَردَن، عَوَض ک
+täuschen; مُشتَبه کَردَن، گُمراه ک.، مُنحَرِف ک.، گول زَدَن
 Täuschung; مَکر، گُمراهى
 - Täuschung (*:Liebe); شِید
 Täuschungsmanöver; مانوِر ِ اِنحِرافى
@@ -265,6 +268,9 @@ Teil; بَخش، جُزء، قِسمَت
 - Teil des Marktplatzes; راسته بازار، قِسمَت ِ ـ
 - zum Teil; تا يِک اَندازه
 teilbar; تَقسیم پَذیر، قابِل ِ قِسمَت
+Teilchen;
+- Teilchen (in Atomphysik) (pl.); ذَره (ذَرات)
+Teilchenbeschleuniger; شِتاب‌ دَهَندۀ ذُره‌ای
 Teildrehung; چَرخِش ِ جُزء بِجُزء
 teilen; .مُنقَسِم کَردَن، تَقسیم ک.، مُتَفَرِق ک
 - teilen durch ...; چیزى را بَر ... تَقسیم کَردَن
@@ -413,10 +419,11 @@ Theorie; نَظَریه، تِئورى
 - in der Theorie alles beherrschen, aber auch nur in der Theorie; آب نِمی بینه وَلی شِناگَر ِ ماهِریه
 Therapeut; دَرمان شِناس
 therapeutisch; دَرمانى
+- therapeutische Eigenschaft (z.B. Heilquelle); خواص ِ دَرمانی
 Therapie; دَرمان
 - Therapiezentrum; مَرکَز ِ دَرمانی
 - Schmerztherapie; دَرمان ِ دَردها
-Thermalquelle; سَرچِشمهٔ آب ِ مَعدَنى
+Thermalquelle; سَرچِشمهٔ آب ِ مَعَدَنى، چِشمۀ مَعَدَنی
 thermisch; حَرارَتى، گَرمائى
 Thermometer; گَرماسَنج، دَماسَنج
 thermonuklear;
@@ -443,13 +450,13 @@ Tick; ضَعَف، خُل
 - das ist ein nervöser unheilbarer Tick; این يِك تیك ِ عَصَبی است كه هیچ وَقت دُرُست بِشو نیست
 ticken; تیک تاک کَردَن
 - entweder du tickst nicht richtig oder ...; یا به سَرِت زَده یا
+Tief;
+- nach jedem Tief kommt ein Hoch; هَر سَرازيری يِک سَر بالايی داره
 tief; عَمیق، ژَرف، گود
 - tiefe Trauer ergriff alle; اَندوهى ِ ژَرف هَمه را گِرِفت
 - im tiefsten Winter; دَر قَعر ِ زِمِستان
 - tief liegende Augen; چِشمهاى ِ به گودى نِشَسته
 - tief sitzende Traurigkeit; اَندوه ِ خُفته
-Tief;
-- nach jedem Tief kommt ein Hoch; هَر سَرازيری يِک سَر بالايی داره
 Tiefbau; بَناهاى ِ زیرزَمینى
 Tiefdruck; فِشار ِ جَوى ِ کَم
 Tiefe; عُمق، اَعماق، گودى، ژَرفا
@@ -664,7 +671,8 @@ tragisch; فاجِعه اَنگیز، غَم اَنگیز، حُزن آوَر
 Tragödie; فاجِعه
 - Tragödie (Theater); تراژِدى
 Tragweite; (polit.) عَواقِب
-Trainer; مُدَرِب، مُرَبى
+Trainer;
+- Trainer (*: Coach); مُدَرِب، مُرَبى
 trainieren; تَمرین کَردَن
 Training; تَمرین
 Trainingsanzug; لِباس ِ وَرزِشى
@@ -773,8 +781,6 @@ Traute; جُرأت، شُجاعَت
 - ich hatte keine Traute; دِل توی ِ دِلَم نَبود
 Trauung; عَهد ِ نِکاح، اِزدِواج، عَقد، اِنکاح
 Traverse; تیر ِ مُتَقاطِع، تراوِرس
-Treffen; (n) بَرخورد، مُلاقات
-- ein gemütliches Treffen; گِردِهَمائى ِ خودِمانى
 treffen;
 - jem. treffen; کِسى را مُلاقات کَردَن، ـ بَرخورد ک.، با کِسى دیدار ک.، به دیدَن ِ کِسى رَفتَن
 - nicht treffen (z.B. ein Ziel); تیرَش به سَنگ مى خورد
@@ -786,6 +792,8 @@ treffen;
 - du hast nicht getroffen; جا خالى زَدى، نِشانه نَزَدى
 - das trifft ihn, das sitzt; بَر او کارگَر مى افتَد
 - für einen Augenblick trafen s. unsere Blicke; نِگاهِمان يِک لَحظه به هَم اُفتاد
+Treffen; (n) بَرخورد، مُلاقات
+- ein gemütliches Treffen; گِردِهَمائى ِ خودِمانى
 treffend;
 - er machte folgende treffende Bemerkung über ihn; او کَلَمات ِ قِصار ِ زیررا بَر زَبان آوَرد
 - treffendes Urteil; رأى ِ صائِب
@@ -816,6 +824,7 @@ Trennscheibe; قُرس ِ جُدا کُنَنده
 Trennung;
 - Trennung von jem.; فَراق، حاشیه رَفتَن از کِسى، جُدائى ـ
 - Trennung von Kirche & Staat; تَفکیک ِ دین از دولَت، جُداسازى ِ ـ
+- Trennung zwischen arm und reich; شِکاف بِین ِ فَقیر و غَنی
 Trennungsentschädigung; جُبران ِ خِسارَت ِ جُدائى
 Trennungszulage; اِضافهٔ حُقوق ِ جُدائى
 Trennwand; دیوار ِ تیغه
@@ -925,6 +934,8 @@ Tropfen; (m) قَطره، چِکه
 - bis zum letzten Tropfen; لاجُرعِه
 tropfen; چِکیدَن، تَراویدَن
 - abgetropfter Quark; ماست ِ چِکیده
+Tropfen (m); قَطره، چِکه
+- bis zum letzten Tropfen; لاجُرعه
 tropfenweise; قَطره قَطره، چِکه چِکه
 Trophäe; (pl.) (غَنیمَت (غَنائِم
 - Kriegstrophäe; غَنايِم ِ جَنگ

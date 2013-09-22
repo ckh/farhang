@@ -953,6 +953,7 @@ Unfallflucht; فَرار بَعد از تَصادُف
 Unfallverhütung; جِلوگیرى از حادِثه
 Unfallverhütungsvorschrift; مُقَرَرات ِ ایمَنى و حِفاظَت
 Unfallversicherung; بیمهٔ سَوانِح، ـ حَوادِث
+unfehlbar; مَصون از لَغزِش
 Unfehlbarkeit; مَصونيَت از خَطا، مَعصوميَت، لَغزِش ناپَذیر
 unfertig (z.B. Kleid); نَدوخته، تَمام نَشُده
 unflätig;
@@ -1243,7 +1244,8 @@ unscheinbar;
 - unscheinbar gewordene Mütze; کُلاه از ریخت اُفتاده
 unschlüssig; دو بِشَک، با تَذَبذُب
 - er steht unschlüssig herum; او پا سُست مى کُنَد
-Unschuld; مَعصوميَت، بى قُصور، بى تَقصیر
+Unschuld; بی تَقسیر
+- Unschuld (relig.); مَعَصومیَت، مَصونیَت
 unschuldig; مَعصوم، مُنَزَه، بى تَقصیر
 - rein & unschuldig; پاک و مُنَزَه
 - unschuldiges Lächeln; لَبخَند ِ مَعصوم
@@ -1542,6 +1544,7 @@ unverletzt; زَخمی نَشُده
 - Unverletzbarkeit, Immunität; مَصونيَت، حُرمَت
 unvermeidlich; گُزیر ناپَذیر، اِجتِناب ناپَذیر، مُبَرَم
 - unvermeidlich sein bezüglich; ناگُزیر به چیزى شُدَن
+- unvermeidlich bin ich eingeschlafen; به ناچار خوابیدَم
 unvermittelt; با شَرزِگى، ناگِهان
 unvernünftig; جاهِل، اَحمقانه، نامَعقول
 unverschämt; جَسور، چِشم دَریده، چِشم سِفید، سِمِج، وَقیح
