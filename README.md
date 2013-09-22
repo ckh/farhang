@@ -1,7 +1,13 @@
 farhang ist die Rohfassung eines deutsch-persischen Lexikons.
 
 Es findet z.Zt. Verwendung im gleichnamigen Online-Lexikon Farhang, das
-unter der Adresse [http://www.farhang.im](http://www.farhangim) zu erreichen ist.
+unter der Adresse [http://www.farhang.im](http://www.farhang.im) zu erreichen ist.
+
+Neben dem [`master` Branch](https://github.com/ckh/farhang), der die
+Originalfassung enthält, gibt es noch den
+[`reverse` Branch](https://github.com/ckh/farhang/tree/reverse) mit mehr oder 
+weniger aktuellen Einspielungen von Änderungen, die über
+[farhang.im](http://www.farhang.im) eingegeben wurden.
 
 ## Lizenz (siehe auch LICENSE)
 [![2]][1]
