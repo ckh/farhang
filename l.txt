@@ -293,11 +293,11 @@ Laterne; فانوس
 - Strassenlaterne; چِراغ ِ خیابان
 Latrine; مُستَراح
 Latrinenreiniger; مُتَصِدی ِ مُستَراح
+latschen; تِلو تِلو راه رَفتَن
+- jem. eine latschen (Dialekt, i.S. ohrfeigen); يِکی توی ِ گوش ِ کِسی خواباندَن
 Latschen;
 - Latschen (Hausschuhe); دَمپائی
 - Latschen (Strauch); دِرَخت ِ کاج ِ کوهی
-latschen; تِلو تِلو راه رَفتَن
-- jem. eine latschen (Dialekt, i.S. ohrfeigen); يِکی توی ِ گوش ِ کِسی خواباندَن
 Latte; تَختهٔ باریک
 Lätzchen; پیش بَند
 lau; مُلايِم
@@ -327,25 +327,27 @@ Lauf; دُو
 Laufbahn; تَرفیع، سِیر ِ اِرتِقاء
 Laufband; باند ِ رَوَنده
 Laufbursche; پادو، پَرقِیچی
-Laufeigenschaften (phys.); مُشَخَصات ِ حَرَکَت
+Laufeigenschaften;
+- Laufeigenschaften (phys.); مُشَخَصات ِ حَرَکَت
 laufen; دَویدَن
 - er läuft 100 Meter; او ۱۰۰ مِتر می دُوَد
-- Pferd laufen lassen (z.B.: ohne Zügel); اَسب را دَوانیدَن، - دَواندَن
 - ohne dass wir Gefahr laufen; بی اینکه این خَطَررا دَر پیش داشته باشیم
 - wenn bei mir alles gut läuft; اگر کار و بارَم خوب باشَد
 - das Cafe läuft gut; قَهوه خانه خوب می چَرخَد
 - er läuft als einer von ihnen, er gilt -; او بِعُنوان ِ يِکی از آنها گُذَران می کُنَد
-- er lässt den Motor laufen; می گُذارَد موتور روشَن باشَد
 - das ist gelaufen (*:aus); کار از کار گُذَشته
 - zum Laufen bringen; دايِر کَردَن
 - zum Laufen gebracht werden; دايِر شُدَن
+laufen lassen;
+- laufen lassen (jem. -); کِسی را رَها کَردَن، ـ وِل ک.
+- er lässt den Motor laufen; می گُذارَد موتور روشَن باشَد
+- Pferd laufen lassen (z.B.: ohne Zügel); اَسب را دَوانیدَن، - دَواندَن
 laufend;
 - im laufenden Jahr; سال ِ جاری، سَنهٔ حالیه
 - Leitung der laufenden Geschäfte; راندَن ِ اُمور ِ جاری
 - jem. auf dem Laufenden halten; کِسی را دَر جَریان ِ این کار قَرار دادَن
 - die Abrechnungen befinden s. auf dem Laufenden; سَر ِ حِساب
 - auf dem Laufenden sein über; بَر چیزی واقِف بودَن
-laufenlassen (jem. -); .کِسی را رَها کَردَن، ـ وِل ک
 Läufer; دَوَنده
 - Läufer, Teppich; زیر اَنداز، فَرش ِ کِناره
 - jem. den Roten Läufer ausrollen; پا اَنداختَن بَرای ِ کِسی
@@ -360,7 +362,8 @@ Laufschritt;
 - im Laufschritt; (be-dow) دَوان دَوان، بِه دو
 - sie kamen im Laufschritt an; آنها بِدو بِدو آمَدَند
 Laufsteg; دِفیله
-Laufwerk (bei Computer); دیسک ِ گَردان
+Laufwerk;
+- Laufwerk (*: Computerbegriffe); دیسک ِ گَردان
 Laufzeit; زَمان ِ عُبور، مُدَت ِ زَمان ِ اِعتِبار
 Lauge; مَحلول ِ مَواد ِ قِلیائی دَر آب، مَحلول ِ بازی
 Laune; خود کامی، بُلهَوَسی، خُلق، حالَت
@@ -708,6 +711,8 @@ Leine; بَند، ریسمان
 - Leine ziehen; کَعب ِ پارا نِشان دادَن، دَر رَفتَن
 - Wäscheleine; بَند ِ رَخت
 Leinen; بَز، کَتان
+- grobes Leinen; کَرباس
+Leineweber; کَرباس باف
 Leinöl; روغَن ِ تُخم ِ کَتان، ـ بَرزَک
 Leinsamen; تُخم ِ بَرزَک
 Leinwand; پردهٔ سینِما
@@ -804,7 +809,10 @@ lesen; قَرائَت کَردَن، خواندَن
 - er kann lesen; او سَواد دارَد
 - er kann nicht lesen; او بی سَواد است
 - Ähren lesen; خوشه چیدَن
+Lesen;
+- Lesen (n); قَرائَت، خواندَن ِ ...
 Leser; (pl.) (خوانَنده (خوانَندِگان
+leserlich; خوانا، قابِل ِ خواندَن
 Lesung; شِعر خوانی، قَرائَت
 - in erster Lesung; دَر شور ِ اَوَل
 Lethargie; سُبات، خواب و غِفلَت، اِغما
@@ -884,7 +892,8 @@ lieb;
 - deine liebe Familie; خانِوادهٔ گِراميَت، - عَزیزَت
 liebäugeln; .نَظَربازی کَردَن، کِرِشمه ک
 Liebchen; مَعشوق
-Liebe (f); مُحَبَت، حُب، عِشق
+Liebe;
+- Liebe (f); مُحَبَت، حُب، عِشق
 - gegenseitige Liebe; مُعشِقه
 - die Liebe hat ihn gefangen; آتَش ِ عِشق دامَن ِ او گِرِفت
 - blind vor Liebe; شِیدا
@@ -893,6 +902,7 @@ Liebe (f); مُحَبَت، حُب، عِشق
 - Strohfeuer der Liebe; عِشق های ِ پوشالی
 - So wie der Rauch zum Feuer gehört, gehört der Schmerz zur Liebe; مُلزِم ِ آتَش دود است، مُلزِم ِ عِشق دَرد
 - Die Traurigkeit der Liebe kam und nahm andere Traurigkeiten weg, die Nadel entfernt vom Fuss die Dornen (i.S. von: beides tut weh, hat aber heilende Wirkung) (Molawi); غَم ِ عِشق آمَد و غَمهای ِ دِگَر بِبُرد سوزَنی بايَد کَز پای بَرآوَرَد خاری
+- Liebe findet immer einen Weg; دِل به دِل راه دارَد
 liebedienernd; سینه مال
 Liebelei; عِشق بازی
 lieben; دوست داشتَن، مُحَبَت کَردَن
@@ -1003,7 +1013,7 @@ liquidieren; کِسی را از مِیدان بِدَر کَردَن، ـ ناب
 Liquidierter; تَصفیه شُده، اِعدام شُده
 Liquidierung; تَصفیه، اِعدام
 lispeln;
-- er lispelt; زَبانَش گرفته است، لَکنَت دارَد
+- er lispelt; زَبانَش گرفته است، لَکنَت دارَد، نُکزَبان حَرف زَدَن
 List (pl.); نیرَنگ، خُدِعه، حیله گَری، حُقه بازی، مَکید (مَکائِد)، تَرفَند
 - überlisten; سَر و کیسه کَردَن
 Liste; لیست، فِهرِست

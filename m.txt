@@ -264,6 +264,7 @@ markig;
 Markise; سايِبان
 Markt; مَکاریه، بازار
 - Obst- & Gemüsemarkt; مِیدان ِ میوه و تَره بار
+- Markt mit fallenden Kursen; بازار رو به زِوال
 - Schwarzmarkt; بورس ِ سیاه، بازار ِ ـ
 Marktforschung; بَررِسى ِ نَظَر یابى
 Marktordnung; نِظام ِ بازار، مُقَرَرات ِ ـ
@@ -274,6 +275,8 @@ marktwirtschaftlich;
 Marmelade; مُرَبا
 Marmor; مَرمَر
 marmoriert; مَرمَر نَما
+marodieren;
+- marodieren (z.B.: marodierende Truppen); سَربازهای ِ بی قِید و بَند، اَفراد ِ غِیر ِ قانونی
 Marone; شاه بَلوط
 Mars; مِریخ
 Marsch; مارش، راه پِیمائى
@@ -396,8 +399,10 @@ mausern; پَر ریختَن
 Mausoleum; (pl.) (مَقبَره، آرامگاه، تُربَت، بُقِعه، ضَریح (ضَرايِح
 Maut; عَوارِض ِ خیابان
 maximal; حَدِاَکثَر، نَهايَت
+Maxime; قاِعدۀ اَخلاقیMaxime
 maximieren; بِحَد ِ اَکثَر رِساندَن، از ... حَدِاَکثَر ِ اِستِفاده را کَردَن
 Maximierung; بِحَدِاَکثَر رِسانى، بى اِنتِها رِسانیدَن
+- Gewinnmaximierung; بیحَدِ اَکثَر رِسانی ِ سود
 Mäzen; هُنَر پَروَر، ولی اُلنِعَم
 Mechanik; مِکانیک
 Mechaniker; مِکانیک، مِکانیسيِن
@@ -615,6 +620,7 @@ Messer; کارد
 - Hackmesser; ساطور
 - Klappmesser; چاقو
 - Radiermesser; قَلَم ِ تَراش
+- Tranchiermesser; چاقوی ِ گوشت بُری
 - Auf Messers Schneide; بِدَم ِ شَمشیر
 Messerstecher; قَمه زَن، چاقو کِش
 Messing; بِرِنج، مِس
@@ -643,6 +649,9 @@ Metier;
 - das ist nicht mein Metier; باب ِ طَبع ِ مَن نیست
 Metzelei; سَلاخى، کُشت و کُشتار، خونریزى
 Metzger; قَصاب
+Meuchelmörder;
+- ^Meuchelmörder; مُزَوَرانه کِسی را به قَتل رِساندَن
+meucheln; مُزَوَرانه
 Meuterei; عُصیان، یاغى گَرى، سَرکُشى، تَمَرُد، نافَرمائى، طُغیان، شورِش
 mich; مَرا
 - an mich; به اینجانِب، به مَن
@@ -703,12 +712,14 @@ militärisch; نِظامی
 Militärstab; سِتاد ِ نِظامى
 Miliz; نیروهاى ِ شَبه نِظامى
 - phalangistische Milizen; نیروهاى ِ شَبه نِظامى ِ اُلکَتائِب
+Millenium; دورۀ هِزار ساله
 Million; میلیون
 - eine halbe Million Menschen kam; عِده ی مَردُم که آمَدَند يِک کُرور بود
 Milz; طَحال
 Milzbrand; سیاه زَخم
 mimosenhaft; آدَم ِ زودرَنج، ـ حَساس
 Minarett; مَناره، گُلدَسته
+mind map; نَقشۀ ذِهنی
 Minderheit; اَقَليَت
 Minderheitenschutz; حِمايَت ِ اَقَليَتها
 minderjährig; خُردسال، کَم سال، کَم سِن، کَم سِن و سال، صَغیر
@@ -928,6 +939,8 @@ Mittelmeer; دَریاى ِ مِدیتِرانه
 Mittelost; خاوَرِمیانه
 Mittelpunkt; نُقظهٔ مَرکَزی
 - s. in den Mittelpunkt stellen; دوررا از دَست ِ هَمه گِرِفتَن، يِکه تازى کَردَن، خودرا دَر مَرکَز قَرار دادَن
+Mittelpunktregel;
+- Mittelpunktregel (math.); قاِعدۀ نُقطۀ میانی ِ
 Mittelschicht; طَبَقهٔ مُتَوَسِط
 Mittelstreifen;
 - durchgezogener Mittelstreifen (z.B. auf der Strasse); خَط ِ مُمتَد
@@ -1108,6 +1121,7 @@ monopolisiert; مُنحَصِر
 monopolistisch; اِنحِصار گِرانه، اِنحِصارى
 Monopolstellung; موقِعيَت ِ اِنحِصارى
 Monostruktur; تَک ساختار
+Monotheimus; یِکتاپَرَستی
 monotheistisch; مُوَحِد
 monoton; يِکنَواخت
 Monowirtschaft; اِقتِصاد ِ يِکجانِبه
@@ -1135,10 +1149,11 @@ Moral; اَخلاق
 moralisch; اَخلاقى
 moralisieren; اَخلاقى کَردَن
 Moralpredigt; نُطق ِ غَرا
-Morast; باطلاق، گِل، لَجَنزار
+Morast; باطلاق، گِل، لَجَنزار، لَش آب
 Moratorium; اِستِمهال
 Mord; آدَم کُشى، قَتل
 Mörder; قاطِل، آدَم کُش
+- Meuchelmörder; مُزَوَرانه کِسی را به قَتل رِساندَن
 mörderisch; آدَم کُشانه
 - mörderischer Wettbewerb; رِقابَت ِ آدَمکُشانه، ـ وَحشیانه، ـ وَحشَتناک
 mordgierig; خون آشام
@@ -1174,6 +1189,7 @@ Moslembrüder; اَخوان ِ مُسلِمین
 moslemisch; اِسلامى
 Most; آب ِ اَنگور
 Motiv; دَلیل، سَبَب
+- Motiv (auch musikalisch); نَغمه
 - persönliches Motiv; غَرَض و مَرَض
 Motivation; اَنگیزه، آرمان
 Motivationsbremse; حال گیرى
@@ -1284,9 +1300,9 @@ Mund; دَهَن، دَهان
 Mundart; لَهجه
 Mundbereich; چَک و چانه
 Mündel; (musā - alej-he) تَحت ِ وِصايَت، ـ قِیمومَت، موصى علیه
-munden; خوش مَزه بودَن
 münden;
 - das ganze mündet in ...; این هَمه اَش به ... مُنتَهى میشَوَد
+munden; خوش مَزه بودَن
 mundgerecht;
 - mundgerecht sein; سَرد و دَهَن گیر شُدَن
 - der Tee muss mundgerecht sein; چاى بايَد لَب پَذیر باشَد
@@ -1449,4 +1465,6 @@ Mysterium; رَمز، سِر
 Mystik; عِرفان، تَصَوُف
 Mystiker; عارِف، سالِک، صوفى
 mystisch; اَفساطیرى، اِسرارآمیز، مُبهَم، مَرموز
-Mythos; (pl.) (اُسطوره (اَساطیر
+Mythologie; اُسطوره شِناسی
+Mythos;
+- Mythos (pl.); اُسطوره (اَساطیر)

@@ -56,7 +56,7 @@ Panik; سَراسیمِگى، دَست پاچِگى
 panisch; سَراسیمه، دَست پاچه شُده
 Panne; پَنچَر
 Panorama; مَنظَره
-Pantheismus; هَمه خُداگِرائى
+Pantheismus; هَمه خُداگِرائى، خُدافَراگیردانی
 Panther; پِلِنگ
 - rosa Panther (popul.); پِلِنگ ِ صورَتی
 Pantoffel; دَم پائى
@@ -120,6 +120,7 @@ paramilitärisch; شَبهٔ نِظامى، نیمه نِظامى
 paranoïd; دیوانه
 paraphiert; پاراف شُده، اِمضاء شُده
 - paraphierter Vertrag; قَرار داد ِ پاراف شُده، ـ اِمضاء شُده
+Parapsychologie; فَرارَوانی
 Parasit; اَنگُل
 - parasitärer Mensch; مَردُم خور
 parat;
@@ -232,11 +233,11 @@ pastig; خَمیر شُده
 Pastor; کِشیش
 Patchwork; چِهِل تیکه بافى
 Pate; (Patin) (پِدَر ِ تَعَمیدى (مادَر ِ ـ
-patent;
-- er ist patent; او آدَمى با هوش و مَزه است، ـ خوش بَرخورد است
 Patent;
 - Patent (n); اِختِراع ِ ثَبت شُده، سَنَد ِ ثَبت ِ اِختِراع
 - er hat das Patent dafür; او صاحِب ِ حَق ِ اِمتیاز بَراى ِ این چیز است
+patent;
+- er ist patent; او آدَمى با هوش و مَزه است، ـ خوش بَرخورد است
 Patentamt; اِدارهٔ ثَبت ِ اِختِراعات
 Patentinhaber; صاحِب ِ اِمتیاز ِ اِختِراع
 pathetisch;
@@ -330,9 +331,10 @@ Pension; مُستَمِرى، حُقوق ِ بازنِشَستِگی
 - Pension, Gasthaus; خوابگاه، پانسیون
 Pensionär; مُستَمِرى بِگیر، بازنِشَسته
 Perestroika; پِروستریکا
+Perfekt; (n) ماضى ِ نَقلى
 perfekt; بى عِیب، کامِل
 - der Handel ist noch nicht perfekt; يَخَش چَندان نَگِرِفته است
-Perfekt; (n) ماضى ِ نَقلى
+- Keiner ist perfekt; هیچ گُل بی خار نیست
 Perfektion; کَمال
 Perfektionist; شَخصى که دَر اِجراى ِ کار سَعى مى کُنَد آنرا به بِهتَرین وَجه اَنجام دَهَد
 perforieren; سوراخ دادَن
@@ -590,6 +592,7 @@ physikalisch; فیزیکى
 Physiker; فیزیک دان
 Physiognomie; سیما، مَنظَر
 Physiologie; فیزیولوژى
+Physiotherapie; فیزیوتِراپی
 physisch; جِسیمانی، بَدَنی
 Piano; پیانو
 Pickel; شیرینَک، جوش
@@ -901,8 +904,9 @@ Positionsgenauigkeit; دِقَت ِ جاگیرى
 positiv; مُثبَت
 - positive Gesinnung; خوش باوَر
 - man muß die Dinge postiv sehen; هَر چه پیش آیَد خوش آیَد
-Posse; بیهودِگى، مَسخرِگى، بَذله گوئى، هَزل گوئى
-Possenreisser; دِلقَک، هَزَل گو
+Posse; بیهودِگى، مَسخرِگى، بَذله گوئى، هَزل گوئى، بوزینه بازی
+Possenreisser; دَلقَک، هَزَل گو
+Possenreisserei; لُودِگی
 Possessivpronomen; ضَمیر ِ مُلکى
 Post; پُستخانه
 Postbote; پُستچى
@@ -927,11 +931,17 @@ potenziell; بالقُوه
 - potenzieller Wähler; رأى دَهَندهٔ مُمکِن
 Pöbel; عَوام اُلناس، اوباش، اَراذِل
 Pökelfleisch; گوشت ِ نَمَک سود
-pökeln; نَمَک سود کَردَن، دَر آب نَمَک گُذاشتَن
 Pökeln; تَملیح
+pökeln; نَمَک سود کَردَن، دَر آب نَمَک گُذاشتَن
 Pracht; رَنگ و بو، شُکوه، حَشَمَت، طُمطُراق
 - mit aller Pracht; با دَبدَبهٔ تَمام
 - Salomo in aller seiner Pracht; سُلِیمان با آن همه حَشَمَت
+Prädikat;
+- Prädikat (gram.); مُسنَد
+- Prädikat (z.B.; - wertvoll, bei Film); اَرزِش، اِمتیاز
+prägen;
+- prägen (z.B. Münze); نَقش بَستَن، - اَنداختَن
+- jem. prägen; کِسی را تأثیر گُذاشتَن
 Pragmatiker; مَصلَحَت گَر، عَمَل گَر
 Pragmatismus; مَصلَحَت آئىنى، آئین ِ صَلاح ِ عَمَلى، اِصالَت ِ عَمَل
 Prägung;
@@ -979,8 +989,8 @@ Prämie; پاداش، جايِزه، اِنعام
 Präparat; ماده
 präparieren; آماده کَردَن
 Präsens; زَمان ِ حال
-präsent; (- sein) حاضِر بودَن
 Präsent; (n) هِدیه، کادو
+präsent; (- sein) حاضِر بودَن
 Präsentation; (einer Sache) تَلفیق
 präsentieren; تَقدیم کَردَن، هِدیه دادَن
 - s. präsentieren; خود را نِشان دادَن
@@ -1029,6 +1039,8 @@ Preisniveau; سَطح ِ قِیمَت
 Preisnotierung; مَظَنه گُذارى، قِیمَت ـ
 Preistreiber; گِرانفُروش
 preiswert; کَم خَرج، اَرزان
+prekär; ناپایدار، وابَسته به مِیل ِ دیگَران
+Prekariat; ناپایداری، تَزَلزُل
 Prellbock; راه بَند ِآخَر ِ راه ِ آهَن
 - er wurde zum Prellbock; او سِپَر ِ بَلا شُد
 prellen;
@@ -1085,7 +1097,7 @@ Printer; پرینتِر، چاپگَر
 Prinz; شاهزاده
 - Kronprinz; وَلیعَهد
 Prinzessin; دُختَر شاهزاده
-Prinzip; اَصل، رُکن، اُس
+Prinzip; اَصل، رُکن، اُس، قاِِعدۀ کُلی
 - es geht ums Prinzip; از اَصل پِیرَوى کَردَن
 - Prinzip der Gegenseitigkeit; اَصل ِ عَمَل ِ مُتَقابِل، مُعامِله بِمَثَل
 prinzipiell; اُصولاً

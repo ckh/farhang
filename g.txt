@@ -21,7 +21,9 @@ Gähnen (f); دَهَن دَره، خَمیازه
 Galaxis (f); کَهکَشان، کائِنات
 Galerie (f); نَمایشِگاه
 - Bildergalerie; گالِرى ِ نَقاشى
-Galgen (m); دار
+Galgen;
+- Galgen (m); دار
+Galgenvogel; آدَم خَبیث
 Gallapfel (m); مازو
 Galle (f); زَهره، صَفرا، زَردآب
 - ihm steigt die Galle hoch; جانَش دارَد بِلَبَش مى آیَد
@@ -62,7 +64,8 @@ gängig;
 - gängige Ware; جِنس ِ بازار پَسَند
 Ganove (m); آدَم ِ تَبَه کارى، جانى
 - das sind alles die gleichen Ganoven; هَمه اَش از آن آپاردیان
-Gans (f); غاز
+Gans;
+- Gans (f); غاز
 Gänseblümchen (n); گُل ِ مُروارید
 Gänsehaut (f); مور مور ِ بَدَن
 - ich habe Gänsehaut bekommen; موهاى ِ بَدَنَم بَر خاسته
@@ -370,7 +373,7 @@ Gedenken (n); یادبود، یادآوَرى
 Gedenkstätte; مَحَل ِ یادبود
 Gedicht; (plur.) (شِعِر (اَشعار
 gediegen (z.B.: Möbel); مُبلهاى ِ با سَلیقه
-Gedöns;
+Gedöns; کَچلَک بازی
 - ohne viel Gedöns; بى حَشو و زَوائِد، بِدون ِ شاخ و بَرگ
 Gedränge; غوغا، بیا و بُرو، اِزدِحام، شُلوغ
 - in diesem Gedränge; دَر این گیر و دار
@@ -1060,6 +1063,7 @@ Geplätscher; شُرشُره
 Geplauder; دَرد ِ دِل
 Gepolter;
 - mit Gepolter gehen; تَلَق تَلَق راه رفتَن
+geprägt; مَنقوش شُده، نَقش اَنداخته
 Gepränge; دَبدَبه
 - er kam mit Prunk und Gepränge; با دَبدَبه و کَبکَبه آمَد
 gerade;
@@ -1187,7 +1191,7 @@ Gesamtgewicht; کُل ِ وَزن
 Gesamtheit; کُلیّت، قاطِبه
 Gesamtkosten; مَخارِج ِ کُل
 Gesamtmenge;
-- Gesamtmenge der ...; ... ِ مَجموع
+- Gesamtmenge der ...; مَجموعۀ ...
 Gesamtschau;
 - wir brauchen eine Gesamtschau; به کُلى ِ بینها نیاز داریم
 gesamtwirtschaftlich; اِقتِصادى ِ کَلان
@@ -1500,6 +1504,7 @@ Gesundheit; بِهبودى، سَلامَتى
 - er ist bei bester Gesundheit; حال ِ او دَر کَمال ِ صِحَت و عافیَت است
 Gesundheit!; !عافیَت باش
 Gesundheitsamt; اِدارهٔ بِهزیستی
+Gesundheitskongress; هَمایِش ِ بِهداشت
 Gesundheitsminister; وَزیر ِ بِهداشت
 gesundheitsschädlich; ضَرَر ِ جانى، صَدَمهٔ ـ، ناسالِم
 Gesundheitswesen; بِهداشت
@@ -1516,7 +1521,7 @@ getrennt;
 Getriebe; جَو ِ دَنده ، چَرخ ِ دَنده، گیربُکس
 - er ist nur ein kleines Rädchen im Getriebe; او مُهرهٔ ناچیز بیش نیست
 - das Getriebe lässt grüssen; آبمیوِگى نَکُن
-Getue; اَداها، اِظهار ِ نَجابَت، رَفتار ِ خوش نَما، تَظاهُر
+Getue; اَداها، اِظهار ِ نَجابَت، رَفتار ِ خوش نَما، تَظاهُرکَچلَک بازی
 Getümmle; غوغا
 - im Getümmle des Kampfes; دَر وَسَط ِ مُبارِزه، دَر بُحبوحهٔ مُبارِزه
 Gewächs; نَبات، گیاه
@@ -1604,6 +1609,7 @@ gewinnen; بُردَن، بَرَنده شُدَن
 - wir haben 4:1 gewonnen; با نَتیجهٔ چَهار بَر یک به سود ِ ما تَمام شُد
 Gewinner; بَرَنده، پیروز
 - er ist der Gewinner (Sprichwort); کور از خُدا چه خواهَد جُز دو دیدهٔ بینا و گِرِفت
+Gewinnmaximierung; بِحَدِ اَکثَر رِسانی ِ سود
 Gewinnung;
 - Gewinnung, Förderung; اِستِخراج
 - Gewinnung, Beschaffung; تَهیه، بِدَست آوَرى
@@ -1859,6 +1865,8 @@ gleichzeitig; دَر عِین ِ حال، دَر هَمان دَم، ضِمنا�
 Gleis; خَط ِ آهَن
 - der Zug dröhnt über die Gleise; قَطار بَر فَراز ِ خُطوط مى غُرَد
 Gleisbau; رِیل گُذارى
+gleisnerisch;
+- gleisnerisch (i.S.: wichtigtuerisch); سَفسَطه آمیز، اِفاده، تَکَبُر
 gleissen; پُر رونَق
 - gleissnerisches Reden; زَبان ِ چَرب و نَرم
 gleiten;
@@ -1987,6 +1995,7 @@ Gottesfürchtigkeit; پارسائى
 Gottesgeschenk; خُداداد
 - gottgeschenkte Kraft; نیروى ِ خُدادادى
 Gotteslästerung; کُفر
+Gottgläubigkeit; دادار باوَری، خدا اِنگاری
 göttlich;
 - göttlichen Wesens; خُداگونه
 - göttliche Weisheit; حِکمَت ِ اِلهی، - اِلاهی
@@ -2032,6 +2041,8 @@ Granate; خَمپاره
 - Handgranate; نارَنجَک
 Granit; سَنگ ِ خارا
 granuliert; دانه دانه
+Graph;
+- Graph (math., Darstellung einer Funktion); گراف (دَر ریاضی)
 Graphit; کَربُن ِ خالِص
 grapschen (nach etwas -); به چیزى چَنگ انداختن، ـ پَنجول زَدَن
 Gras; عَلَف
@@ -2256,7 +2267,7 @@ Grundsatz; اَصل
 - Parteigrundsätze; اُصول ِ حِزبى
 - allgemeiner Wirtschaftsgrundsatz; اَصل ِ کُلى ِ اِقتِصادى
 grundsätzlich; اُصولاً
-- grundsätzliche Aufstellung; (be-z-zāt) اِستِقرار ِ بُنیادى، ـ بِالذات
+- grundsätzliche Aufstellung (be-z-zāt); اِستِقرار ِ بُنیادى، ـ بِالذات
 Grundschule; دَبِستان
 Grundschullehrer; آموزِگار، مُعَلِم ِ دَبِستان
 Grundstück; (plur.) اَرض (اَراضى)، زَمبن
@@ -2376,7 +2387,7 @@ gut; خوب، خوش، نیک، نیکو
 - etwas Gutes an s. haben; شُگون داشتَن
 - jem. Gutes tun; به کِسى خوبى کَردَن
 - Gutes & Schlechtes erleben; گَرم و سَرد چِشیدَن
-Gut (n);
+Gut;
 - Hab & Gut; دار و نَدار، مال و مَنال
 - Landgut; مُلک
 - Massengut; کالاه ِ توده اى

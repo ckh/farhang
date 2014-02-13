@@ -119,6 +119,7 @@ Clinch;
 Clique; جِرگه، گُروهَک
 - herrschende Clique; هِیئَت ِ حاکِمه
 Clown; دَلقَک، هَزال
+Clownerie; هَزل گویی
 Club; باشگاه
 cm; سانتى مِتر
 CO; (Kohlenmonoxyd) اُکسید کَربُن
@@ -158,7 +159,7 @@ Computerbegriffe;
 - Netzwerkumgebung; شَبَکه اِرتِباطى
 - Textbearbeitung; ویرایِش
 - Zielordner; پوشهٔ مَقصَد
-- Auflösung (beim Monitor); تَفکیک پَذیرى ِ مانیتور
+- Auflösung (beim Monitor); تَفکیک پَذیرى ِ مانیتور، وُضوح ِ تَصویری
 - bearbeiten (z.B. kopieren, verschieben); ویرایِش کردن
 - Betriebssystem (z.B. Linux); سیستِم ِ عامِل
 - Bit (Masseinheit bei Datenverarbeitung); بیت، اَرقام ِ دوتائى
@@ -201,6 +202,8 @@ Computerbegriffe;
 - Upload (uploaden); بارگُذاری (کَردَن)، آپلود
 - Download (downloaden); بارگیری (کَردَن)، دانلود
 - Patch; وَصله
+- Laufwerk; دیسک ِ گَردان
+- Repository; مَخزَن ِ نَرم اَفزاری
 Coniferen; دِرَحت ِ سوزَنی ِ بَرگ، دِرَحت ِ کاجی
 contra; ِ ضِد ِ، بَر خَلاف
 cool;

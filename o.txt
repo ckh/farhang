@@ -81,6 +81,9 @@ Ochse; گاو ِ نَر اَخته
 Ocker; گِل ِ زَرد
 oder; یا، یا اینکه
 - entweder das, oder jenes; یا این یا آن
+Odyssee;
+- ^Odyssee; سَفَر بی راهِه
+Odysseus; اودیسئوساودیسئوس
 OECD (Organisation für wirtschaftliche Zusammenarbeit); سازِمان ِ هَمکارى ِ اِقتِصادى و توسِعه
 Ofen; اُجاق، بُخارى
 - Backofen; تَنور
@@ -187,15 +190,18 @@ ok; باشه
 - so, das alles ok wird; که آب از آب تَکان نَخورَد
 - ist bei dir alles ok?; حالا خوب حالیَت شُد؟
 - die Arbeit ist ok; کار تَخت و تَبار است
+- ist das ok für dich? (umg.); بَرات جاری می کُنه
 okkult; جادو مِزاج
 Okkultismus; جادوگَری
 Okkupation; اِشغال، تَصاحُب
 ökologisch; اِکولوژیک
 - ökologische Bewegung; نِهضَت ِ مُحیط ِ زیست
 - ökologisches Gleichgewicht; تَعادُل ِ اِکولوژیک
+Ökonom; اِقتِصاددان
 Ökonomie; اِقتِصاد
 - Makroökonomie; اِقتِصاد ِ کَلان
 - Mikroökonomie; اِقتِصاد ِ خُرد
+ökonomisch; اِقتِصادی
 Oktave; اُکتاو
 Oktober; اُکتُبر
 Oktopus; اَخطَبوط

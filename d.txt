@@ -91,14 +91,14 @@ Dampf;
 - Tuch, das den Dampf auffängt (beim Reiskocher); دَم کَنى
 - Hans Dampf in allen Gassen; هَمه کاره هیچ کاره
 - Wasserdampf; بُخار ِ آب
-dampfen; بُخار دادَن
 dämpfen;
 - dämpfen (beim Bügeln); با بُخار ِ اُتو زَدَن
 - die Stimme dämpfen; (präs.) (صِدارا خَفه کَردَن، کاستَن (مى کاهَد
+dampfen; بُخار دادَن
 Dämpfen (best. Reisgericht); دَمپُختِگی
-Dampfer; کِشتى ِ بُخارى
 Dämpfer; صِدا کَر کُن، - خَفه کُن
 - jem. einen Dämpfer geben; آتَش ِ کِسى را فُرو نِشاندَن، بایَد گوشمال ِ کِسى بِدَهَد
+Dampfer; کِشتى ِ بُخارى
 Dämpfung; خَفِگى ِ صِدا
 danach; بَعداً، مابَعد
 - es sieht danach aus; مِثل ِ اینکه
@@ -216,6 +216,8 @@ dass;
 dasselbe;
 - es ist immer dasselbe; هَمیشه هَمینطور است
 Datei; پَروَنده
+- Datei (*: Computerbegriffe); پَروَندهٔ رایانه، فایل
+- Metadatei; فَراداده
 Daten; داده ها
 Datenbank; بانک ِ اِطِلاعاتی، بانک ِ داده ها
 - gemeinsame Datenbank; بانک ِ اِطِلاعات ِ مُشتَرِک
@@ -378,7 +380,7 @@ deichseln;
 - seine Sache deichseln; خَر ِ خودرا از پُل گُذَراندَن، کار ِ خودرا سَر و صورَت دادَن
 Deichselstange; مالبَند
 deinetwegen; از بَراى ِ تو، بِخاطِر ِ تو، به هَواى ِ تو
-Deismus; دِئیسموس: فَلسَفهٔ آفَرینِش ِ جَهان از خُدا و اِدارهٔ جَبرى ِ تَقدیرى ِ آن از اِنسان، اِعتِماد به وُجود ِ خُدا
+Deismus; دِئیسموس: فَلسَفهٔ آفَرینِش ِ جَهان از خُدا و اِدارهٔ جَبرى ِ تَقدیرى ِ آن از اِنسان، اِعتِماد به وُجود ِ خُدا، دادارباوری
 Dekade; دَهه
 - in den Dekaden; دَر دَهه
 Dekadenz; اِنحِطاط، زَوال
@@ -423,6 +425,7 @@ Demarkationslinie; خَط ِ مَرزى ِ نیروهاى ِ مُتَخاصِم
 Dementi; تَکذیب، رَد، اِنکار
 dementieren; تَکذیب کَردَن
 dementsprechend; بَر طِبق ِ آن، از هَمین قَرار
+Demenz; زِوال ِ عَقل، کاهِش ِ عَقل
 demgegenüber; دَر مُقابِل ِ آن
 demnächst; به زودی
 - demnächst, an gleicher Stelle; دَر اَندَک ِ زَمانى ِ هَمینجا
@@ -587,6 +590,8 @@ destilliert;
 - destilliertes Wasser; آب ِ مُقَطَر، ـ تَقطیر شُده
 desto; هَر چه
 - je höher, desto besser; هَرچه بُلَندتَر بِهتَر
+destruktiv;
+- destruktiv (i.S.: nach unten ziehend); پائین آوَردَن
 deswegen;
 - deswegen, weil; چونکه
 Detail; (pl.) (تَفصیل (تَفاصیل)، جُزئى (جُزئیات
@@ -646,6 +651,8 @@ diagonal; اُریب، قُطراً، مُوَرَب
 - das Buch diagonal (schnell) lesen; کِتاب را سَریع (نَظَرى) خواندَن
 Diagonale; وَرب، قُطر
 Diagramm; دیاگرام، نِمودار، تَرسیمیه، دَرنِگار
+- Baumdiagramm; نِمودار ِ دِرَختی
+- Flußdiagramm (Flowchart); رَوَندنَما
 Diakon; شَماس، خادم ِ کلیسا
 Diakonisse; شَماسه
 Dialekt; لَهجه
@@ -718,7 +725,8 @@ Dicke;
 - Dicke, Beleibtheit; شَحامَت، چاقى
 Dickenwachstum; رویِش ِ قُطرى
 Dickerchen; تُپُلى، چاقالو
-dicketun (s. -); گَرد و خاک خالى کَردَن، لاف زَدَن
+dicketun;
+- dicketun (s. -); گَرد و خاک خالى کَردَن، لاف زَدَن
 dickfellig; بى عاطِف، از جُنب و جوش اُفتاده، بى رَگ، پوست ِ کُلُفت
 - er ist gegenüber dem Leid anderer dickfellig; او دَر مُقابِل ِ دَردهای ِ دیگَر پوست ِ کُلُفتی دارَد
 dickflüssig; غَلیظ، غیر سَیال، نیمه رَوان، چَسبَنده
@@ -1058,14 +1066,14 @@ drängeln; تَنه زَدَن، هُل دادَن
 - vor der Kasse drängeln; جلوى باجهٔ صَندوق اِزدِحام کَردَن
 - bitte nicht drängeln; فِشار نَدهید، تَنه نَزنید
 - ich drängle mich nicht zu dieser Aufgabe; مَن به این کار مُبادِرَت نِمى کُنَم
+Drängen; اِصرار
+- auf das Drängen hin von ...; ... ِ به اِصرار
 drängen; بَر کِسى فِشار آوَردَن
 - jem. drängen, zu tun; .کِسى را اِصرار کَردَن، به کِسى وادار ک
 - in die Versammlung drängen; به مَجلِس هُجوم آوَردَن، ـ کَردَن
 - die Zeit drängt; وَقت کَم است، وَقت ضَیِق است
 - es drängte ihn nach draussen; هَواى بیرون به کَله اش زَده بود
 - in die Defensive drängen; بِحالَت ِ تَدافُع کِشاندَن
-Drängen; اِصرار
-- auf das Drängen hin von ...; ... ِ به اِصرار
 drangsalieren; کِسى را اَذیَت کَردَن
 dranhängen;
 - ein bisschen Zeit dranhängen; وَقتى بیشتَرى صَرف کَردَن
@@ -1215,7 +1223,6 @@ Druck;
 - Bilddruck (kein Original); یِک تَصویر ِ باسِمه
 Drückeberger; طَفره زَن
 - er neigte zum Drückebergertum; دَر صَدَد ِشانه خالى کَردَن از زیر کار بود
-drucken; .چاپ کَردَن، طَبع ک.
 drücken; فِشُردَن، فِشار دادَن
 - s. drücken vor ...; از ... طَفره زَدَن، ـ سَر باز زَدَن، از زیر ِ.. دَر رفتن، زِه زَدَن
 - jemandem die Hand drücken; دَست ِ کِسى را فِشُردن
@@ -1230,6 +1237,7 @@ drücken; فِشُردَن، فِشار دادَن
 - drückende Armut; فَقر ِ مُکِب، فِشار ِ فَقر
 - die Last wird drückend; شانه ها دَر زیر فِشار تا مى شَوَد
 - drückende Luft; هَواى ِ حار، ـ خَفه کُنَنده
+drucken; .چاپ کَردَن، طَبع ک.
 Drucker; چاپگَر، چاپچى، طَباع
 Drücker;
 - auf den letzten Drücker das Geld auftreiben; با هِزار جان کَندَن پول را تأمین کَردَن
@@ -1253,7 +1261,7 @@ Dschungel; جَنگَل
 - hier herrscht das Gesetz des Dschungels; هَمه چیز به نوعى ِ قُلدُرى بَستِگى دارَد
 du; تو
 - mit jemandem auf du und du stehen; .هَمدَم ِ کِسى بودَن، با کِسى صَمیمى ب
-Dualismus; ثَنَویَت، دوگانِگى
+Dualismus; ثَنَویَت، دوگانِگى، دوگانه گِرایی
 dualistisch; دوگانه، ثَنَوى
 Dualwirtschaft; اِقتِصاد ِ دوگانه
 Dübel; چوب ِ میخى، رُل پلاگ
@@ -1304,6 +1312,8 @@ Dünger;
 - Kunstdünger; کود ِ شیمیائى
 - Naturdünger; کود ِ طَبیعى
 Düngung; کودپاشى
+Dünkel; اَنانیَت، باد و دَم، اِستِکبار، تَکَبُر
+- aus reinem Dünkel; از باد ِ نِخوَت
 dunkel; تاریک، تار و تیره
 - dunkle Geschäfte; مُعامِلهٔ کَچ
 - dunkle Materie (astron.); جِرم ِ تاریک
@@ -1313,8 +1323,6 @@ dunkel; تاریک، تار و تیره
 - er ist dunkelhäutig; رَنگَش تیره است
 - es ist stockdunkel; چِشم چِشم را نِمیبینَد، سَخت تاریک است
 - er kommt im Dunkel; دَر سیاهى ِ شَب مى آیَد
-Dünkel; اَنانیَت، باد و دَم، اِستِکبار، تَکَبُر
-- aus reinem Dünkel; از باد ِ نِخوَت
 Dunkelheit; تاریکى
 Dunkelkammer; تاریک خانه
 Dunkelmänner; اَشخاص ِ سیاه کار
@@ -1411,10 +1419,10 @@ durchdringend;
 Durchdringung;
 - wechselseitige Durchdringung; داخِل شُدِگى ِ یِکدیگَر
 Durchdringungsvermögen; قابِلیَت ِ نُفوذ
-Durcheinander; هَرج و مَرج
-- in diesem Durcheinander; دَر این دِه و دار، ـ هَرج و مَرج، ـ گیر و دار، ـ حِیص و بِیص، ـ خَر تو خَرى، ـ کى به کى، ـ دوغ و دوشاب
 durcheinander; قاتى پاتى، دَرهَم بَرهَم، تار و مار، چِرت و پِرت
 - er ist ein bisschen durcheinander (popul.) (*:verstört); او یه کَمى گیجه، پَکَرش است، پَریشان حال است، دِل او شور مى زَنَد
+Durcheinander; هَرج و مَرج
+- in diesem Durcheinander; دَر این دِه و دار، ـ هَرج و مَرج، ـ گیر و دار، ـ حِیص و بِیص، ـ خَر تو خَرى، ـ کى به کى، ـ دوغ و دوشاب
 durcheinanderbringen; مُنقَلِب ساختَن، قاتى پاتى کَردَن، مُختَل ک.، زیر و رو ک.، بَراَنداختَن، بُشولانیدن، به هَم ریختَن
 - alles durcheinanderbringen; چیزى را قَر و قاطى دیدَن، ـ از تَرتیب اَنداختَن، ، ـ بِهَم ریختَن
 - etwas durcheinanderbringen bei ...; کاسه کوزهٔ کِسی را به هَم زَدَن
@@ -1651,4 +1659,6 @@ Dynamisierung; جُنبِش سازى
 Dynamit; دینامیت
 Dynamo; دینام، مولد ِ بَرق
 Dynastie; سِلسِله، آل، دودِمان
+Dyspareunia;
+- Dyspareunia (sex. Unverträglichkeit); دیسپارونیا
 Dystrophie; اِختِلال دَر تَغذیه، عَدَم ِ رُشد ِ طَبیعى

@@ -360,7 +360,11 @@ verdrallen; پیچ دادَن، تابیدَن
 verdrängen; کِسى را پَس زَدَن، ـ بیرون راندَن
 - andere verdrängen; دوررا از دَست ِ هَمه گِرِفتَن، يِکه تازى کَردَن
 - etwas aus dem Gedächtnis verdrängen; چیزى را از یاد بُردَن، ـ از ذِهن بِدَر کَردَن
+- etwas verdrängen (psychisch); چیزی را سَرکوب کَردَن، - واپَس زَدَن
 - der Glaube an ... verdrängte andere Gesichtspunkte; اِعتِقاد به ... دیده هاى ِ دیگَررا تَحت اُلشُعا قَرار مى دَهَد
+Verdrängung;
+- Verdrängung (in Psychoanalyse); واپَس رانی، سَرکوبی
+- Verdrängung (z.B.: Wasser); کِنار زَدِگی
 verdrehen; پیچ دادَن، تابیدَن
 - verdrehen (Knoten); گِرِه خوردَن
 - verdrehen (z.B. statt 28: 82); وارونه کَردَن
@@ -998,6 +1002,9 @@ Verlust; اِتلاف، خِسارَت، فُقدان، از دَست دادِگ
 - Stimmenverlust; باختَن ِ آراء
 - Zeitverlust; تَضییع ِ وَقت
 Verlustbilanz; کَسر ِ بودجه
+Verlustfaktor; ضَریب ِ اِتلاف
+Verlustsyndrom;
+- Verlustsyndrom (*: Syndrom); نِشانِگان ِ اِتلاف
 Verlustzeit; زَمان ِ تَلَف شُده
 vermachen (Erbe); به اِرث گُذاشتَن
 - vermachend (Erbe); توریث
@@ -1323,6 +1330,8 @@ verschnüren; گِره زَدَن، ـ بَستَن
 - das Paket verschnüren; پاکَت را با بَند بَستَن
 verschollen; مَفقود، گُمگَشته
 Verschollener; غَايِب ِ مَفقود اُلاثَر
+verschönen; .زینَت کَردَن، ارايِش ک
+- Verschönern mit Grünzeug (bei Nouruz); سَبزه گِره زَدَن سیزدَه بِدَر
 verschonen; کِسی را دَریغ کَردَن، بَر کِسی شَفَقَت داشتَن
 - jem. vor den Kosten verschonen; .کِسى را از خَرج دَریغ کَردَن، ـ خوددارى ک
 - verschont (i.S. ausgenommen); مُبَرا
@@ -1330,8 +1339,6 @@ verschonen; کِسی را دَریغ کَردَن، بَر کِسی شَفَقَ
 - der General verschont die Städte nicht; ژِنِرال از اِنحِدام ِ شَهرها صَرف ِ نَظَر نِمى کُنَد
 - du hast ihn nicht verschont um meinetwillen; تو اورا از مَن دَریغ نَداشتى
 - er ist vor Folter nicht verschont geblieben; او از آزار غافِل نَمانده است
-verschönen; .زینَت کَردَن، ارايِش ک
-- Verschönern mit Grünzeug (bei Nouruz); سَبزه گِره زَدَن سیزدَه بِدَر
 Verschonung; خوددارى، دَریع
 - Bitte um Verschonung; اِستِرحام
 verschossen;
@@ -1569,6 +1576,7 @@ verstellen;
 Verstellung;
 - Verstellung, Heuchelei; توريَت، توریه، نِفاق، اِختِفا
 - Verstellung der Ereignisse; تَقَلُب ِ حَوادِث
+- Verstellung (aus relig. Gründen, eine Art Notlüge, die erlaubt ist bei Shiiten)); تَقیه
 verstimmt;
 - verstimmt (Musikinstrument); ناکوک
 - die Geige ist verstimmt; ویولون ناکوک است
@@ -1673,10 +1681,10 @@ Vertrag; مُقاوِله، قَرارداد
 vertragen;
 - schwer zu vertragen, unverdaulich; ناگُوار
 - s. vertragen mit (*:auskommen); با کِسى سُلوک کَردَن، ـ سازِش کَردَن
-vertraglich;
-- vertraglich gebunden; مُکَلَف طِبق ِ قَرار داد
 verträglich;
 - das ist gut verträglich; این سازگار است، خوش گُوار است
+vertraglich;
+- vertraglich gebunden; مُکَلَف طِبق ِ قَرار داد
 Vertragsabschluss; اِنعِقاد ِ قَرارداد
 Vertragsbruch; پِیمانشِکَنى، نَقض ِ قَرار داد
 vertragsbrüchig; پِیمانشِکَن، ناقِض ِ قَرار داد
@@ -1899,6 +1907,7 @@ verzagen; مأیوس شُدَن
 - verzagte Stimmen; آوازهاى ِ حَزین
 verzahnen; دَندانه دار کَردَن
 Verzahnung; وابَستِگى ِ مُتَقابِل
+verzaubern; جادو کَردَن
 Verzehr; مَصرَف، صَرف
 verzehren;
 - verzehrendes Feuer; آتَش ِ سوزنده
@@ -1974,6 +1983,11 @@ vibrieren; مُرتَعِش کَردَن، لَرزیدَن
 Video; ویدِئو
 Videofilm; فیلم ِ ویدِئوئى
 Videokassette; کاسِت ِ ویدِئو
+Videoprojektor; ویدِئو پروژِکتور
+- Technische Details; جزئیات ِ فَنی:
+- Helligkeit (z.B.: Lumen); روشَنایی (لومِن)
+- Kontrast; کُنتراست
+- Sensor; سِِنسور
 Vieh; (pl.) (حِیوان، ماشیه (مَواش)، بَهیمه (بَهائِم
 Viehhändler; نَخاس، بَهائِم فُروش
 Viehseuche; آفات ِ حِیوانى

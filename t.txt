@@ -185,10 +185,10 @@ taub; کَر، صُم
 Taube; کَبوتَر، کَفتَر، فاخته
 Taubenschlag; کَبوتَر خانه، چَخ
 taubstumm; (sommon-bokm) گُنگ و کَر، کَر و لال، صُم بُکم
-Tauchen; (n) غوطه، غوص، غَواصى
 tauchen; غوطه خوردَن، ـ زَدَن، غوطه وَر شُدَن
 - abtauchen; .شیرجه رَفتَن، با کَله زیر ِ آب ر
 - abtauchen, fliehen; دَر رَفتَن
+Tauchen; (n) غوطه، غوص، غَواصى
 Taucher; غوطه وَر، غَواص
 Taucheranzug; لِباس ِ غَواصى
 Tauchlack; لاک ِ غوطه اى
@@ -311,6 +311,7 @@ Telefon; تِلِفُن
 Telefonbuch; دَفتَرچهٔ اَسامى ِ مُشتَرِکین ِ تِلِفُن، دَفتَرچهٔ تِلِفُن
 Telefonhörer; گوشى ِ تِلِفُن
 telefonieren; تِلِفُن کَردَن، زَنگ زَدَن
+- mit jem. telefonieren; با کِسی تِلِفُنی صُحبَت کَردَن
 - beim Telefonieren; دَر حال ِ مُکالِمهٔ تِلِفُنى
 telefonisch; تِلِفُنی
 - telefonisch eine Pizza bestellen; تِلِفُنی یِک پیتزا سِفارِش دادَن
@@ -559,6 +560,7 @@ toll; بَدیع، عالى
 - toller Erfolg; توفیق ِ چِشم گیر، ـ مُعجِزه آسا
 - toller Garten; باغ ِ مُحتَشَم
 - tolles Kleid; لِباس ِ جِلف و قَشَنگ
+Tollpatsch; لَش
 Tollwut; هارى
 tollwütig; هار
 Tölpel; اَحمَق
@@ -651,10 +653,12 @@ traditionell; سُنَتى
 tragbar;
 - tragbar (als Gewicht); دَستى، قابِل ِ حَمل
 - tragbar (z.B. Kleidung); قابِل ِ پوشیدَن
+Trage; زَنبه، تَخت ِ رَوان
 träge; تَنبَل، بیحال
 - sie sind sehr träge; آنها خِیلى خُمود هَستَند
 - ein träger Typ; آدَم ِ ناکار
-Trage; زَنبه، تَخت ِ رَوان
+- die Wirtschaft ist träge; اِقتِصاد دَر حالَت کَسادی
+- ein träger Fluß; رودخانه با جَریان ِ کُند
 tragen; حَمل کَردَن، بُردَن
 - bequem zu tragen; خوش بار
 Träger; حامِل
@@ -680,6 +684,11 @@ Trainingsstunden; دورهٔ کلاس ِ مُرَبیگَرى
 Traktat; رِساله
 Traktor; تراکتور
 trampen; با اُتو اِستاپ مُسافِرَت کَردَن
+Trance; نَشئه، نَشئَت،  از خود بیخودی
+Tranche;
+- Tranche (*: Überweisung); اِنتقال، واریزی
+tranchieren; تَکسیم کَردَن، تیکه تیکه کَردَن، بُریدَن
+Tranchiermesser; چاقوی ِ گوشت بُری
 Träne; سِرِشک، اَشک
 - unechte Tränen vergießen; آب ِ غوره گِرِفتَن
 - jem. zu Tränen rühren (v.a. bei Trauerveranstaltung); کِسی را به گریه اَنداختَن، اَشک گِرِفتَن
@@ -687,11 +696,14 @@ Träne; سِرِشک، اَشک
 - Krokodilstränen; اَشک ِ تَمسَح
 Tränendrüse; غُدهٔ اَشکى
 Tränengas; گاز ِ اَشک آور
+tranig;
+- tranig (Person); لَش، گِران جان
 Tränke; آبِشخور
 tränken; کِسى را سیرآب کَردَن، ـ نوشانیدَن، ـ آب دادَن
 Transaktion; مُعامِله
 Transfer; اِنتِقال
 - Geldtransfer; حَواله
+transferieren; اِنتِقال کَردَن
 Transformator; مُبَدَل، ترانسفورماتور
 transformieren; .تَبدیل کَردَن، دِگَرگون ک
 Transfusion; تَزریق، اِنتِقال
@@ -998,7 +1010,7 @@ Tuch; ماهوت، پارچه
 tüchtig; کارى، زِرَنگ
 - tüchtig sein für ...; لیاقَت ِ این چیزرا داشتَن، قابِليَت ِ ـ ، اَهَليَت ِ ـ
 tuckern; (z.B. Motor) ریپ زَدَن
-tückisch; بَد جِنس
+tückisch; بَد جِنس، مُزَوَرانه
 - tückische Krankheit; مَرَض ِ موذى، ـ خَطَرناک
 Tugend; ماهيَت، تَقوا
 tugendhaft; صالحِانه

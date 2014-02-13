@@ -105,10 +105,10 @@ Kampfansage; مُبارِزه طَلَبى
 Kampfarena; مُعَرکه
 kämpfen; مُبارِزه کَردَن
 kämpfend; مُقاتِل، مُحارِب
-Kampfer; کافور
 Kämpfer; مُبارِز
 - Einzelkämpfer (auch: alleg.); مُبارز ِ تَک و تَنها
 - Spezialkämpfer (milit.); تَکاوَر
+Kampfer; کافور
 kämpferisch; جَنگ جو، رَزم جو
 - kämpferischer Geist; حال ِ حَمله اى، روح ِ پِیکار جو
 Kampfflugzeug; هَواپِیماى ِ شِکارى، ـ جَنگَنده
@@ -159,6 +159,7 @@ kapieren; دَر یافتَن، فَهمیدَن، گِرِفتَن، دَستَ
 - er kapiert nichts; او چیزى دَستگیرِش نِمى شَوَد، دو زارى اش کَج است، دو زارى اش نِمى اُفتَد
 Kapillare; موی ِ رَگ
 Kapital; سَرمایه
+- Eigenkapital; قاِعدۀ اِنصاف
 Kapitalanlage; سَرمایه گُذارى
 Kapitalertrag; بازدِه ِ سَرمایه گُذاری
 Kapitalflucht; فَرار ِ سَرمایه
@@ -266,6 +267,13 @@ Kastanie; شاه بَلوط
 Kasten; (pl.) جَعبه (جُعاب)، صَندوق
 kastrieren; .اَخته کَردَن، عَقیم ک
 kastriert; خایه کِشیده، اَخته شُده
+kasual;
+- kasual (i.S.: zufällig); اِتِفاقاً
+Kasuistik;
+- Kasuistik (i.S: Wortklauberei); سَفسَطه
+- Kasuistik (im ethischen Sinne); قاِعدۀ اَخلاقی
+kasuistisch;
+- kasuistisch (*: wortklauberisch); سَفسَطه آمیز
 Katalog; کاتالوگ، فِهرِست، بروشور
 - Bücherkatalog; صورَت ِ کُتُب ِ مُنتَشره، فِهرِست ِ کُتُب
 Katalysator; کاتالیزور، عامِل ِ فِعل و اِنفِعال ِ شیمیائى
@@ -656,7 +664,7 @@ klatschen;
 - klatschen (Beifall); دَست زَدَن
 - klatschen, tratschen; .دو بَر هَم زَنى کَردَن، جُغُلى ک
 Klatschtante; خاله زَنَک
-Klaue; پنچه
+Klaue; پَنچه
 - Klaue (Schrift); خَط ِ خَرچَنگ ِ غورباغه ای
 klauen; کِش رَفتَن، دَُزدیدَن
 Klausel; مُصَرَحات
@@ -729,7 +737,8 @@ klemmen; گیر کَردَن
 klettern;
 - auf den Berg klettern; از کوه بالا رَفتَن
 Kletterpflanze; گیاه بالا رَوَنده، پیچَک
-Klient; مُراجِعِه کُنَنده، اَرباب ِ رُجوع، مُوَکِل
+Klient; مُراجِعِ کُنَنده،، مُوَکِل
+klientel; اَرباب ِ رُجوع، مُراجِعین
 Klima; مُناخ، آب و هوا، جَوّ، اِقلیم
 Klimaanlage; دَستگاه ِ تَهویه
 klimatisch; اِقلیمی
@@ -865,12 +874,12 @@ Knorpel; غُضروف
 Knospe; جَوانه، غُنجه
 - Veränderung von wachsender zu fertiger Knospe; تَبدیل ِ جَوانهٔ رويِشى به جَوناهٔ رايِشى
 knospen; جَوانه زَدَن
+knoten; گِره زَدَن، ـ بَستَن
+- verknotet; گِره خورده
 Knoten; (m) گِره
 - Mach dir einen Knoten!; کَف دَستَت بِنِویس!، گِره بِزَن
 - der Knoten ist geplatzt (und man konnte endlich weinen); بُغض ِ کِسی تَرکید
 - Haarknoten; گیسوى ِ پُشت ِ سَر
-knoten; گِره زَدَن، ـ بَستَن
-- verknotet; گِره خورده
 Knotenpunkt; جاى ِ تَقاطُع
 knüllen;
 - etwas zusammenknüllen; .چیزى را مُچاله کَردَن، ـ چُروک ک
@@ -951,10 +960,10 @@ Kollege; هَمپایه، هَمتا
 - Ressortkollege; هَمتاى ِ وِزارَتى
 Kollektion; کُلِکسیون
 - eine Kollektion von Stoffen erstellen; پارچه ها را کُلِکسیون کَردَن
-Kollektiv; (n) جَمع
 kollektiv; جَمعی
 - kollektive Führung; رَهبَرى جَمعى، ـ دَستِجَمعى
 - kollektive Sicherheit; اَمنيَت ِ جَمعى
+Kollektiv; (n) جَمع
 Kollier; توق، طوق
 Kollision; بَرخورد
 - Interessenkollision; بَرخورد ِ مُصالِح
@@ -1062,11 +1071,11 @@ Kompetenzstreitigkeiten; مُشاجِرات بَر سَر ِ صَلاحيَت
 Kompetenzüberschneidung; تَداخُل ِ صَلاحيَت ها
 Komplemetärfarben; رَنگهاى ِ مُکَمَل که رَنگ ِ سِفید بِوُجود میايَد
 komplett; جامِع، تَمام و کامِل، کامِل
-komplex; پیچیده
 Komplex; (m) عُقده
 - unterdrückte Komplexe; عُقده‌ها‌ی ِ فُروخُفته‌
 - Minderwertigkeitskomplex; عُقدهٔ حِقارَت
 - Schuldkomplex; عُقدهٔ گُناه
+komplex; پیچیده
 Komplexität; تَرکیب ِ پیچیده
 Komplikation; گِرِفتاری
 - es gibt Komplikationen; گِرِِهى دَر کار است، گِرِفتاریها ـ
@@ -1386,6 +1395,7 @@ Körper; (pl.) جِسم (اَجسام)، بَدَن
 - flüssiger Körper; جِرم ِ مایع
 Körperhaltung; قامَت
 körperlich; جِسمى، جِسمانى، بَدَنى
+Körperpflege; بِهداشت ِ بَدَن، - تَن
 Körperschaft; اِجماع، هِیئَت ِ اِجتِماع
 Körpersprache; عَلائم ِ بَدَنى، با بَدَن اِرائه دادَن که آیا از طَرَف ِ مُقابِل خوشحال است یا نه
 Körperverletzung; آسیب ِ بَدَنى، جَراحَت ِ ـ
@@ -1438,12 +1448,6 @@ kostbar; مَرغوب، گِرانبَها
 - kostbare Kleidung; جامهٔ زَربَفت
 - kostbare Information; اِطِلاع ِ ذیقِیمَت
 Kostbarkeit; (pl.) (نَفیسه (نَفايِس
-kosten; قِیمَت ِ آن این است، قِیمَت داشتَن
-- die ... Dollar kosten; که ... دُلار خَرج دَر بَر داشتَن
-- was kostet das?; قِیمَتَش چَنده؟
-- Koste es, was es wolle; به هَر قِیمَتى که شُده
-- das kostet schon einiges; این مَبلَغى خَرج دَر مى دارَد
-- kosten, probieren; چِشیدَن، لَب زَدَن
 Kosten; (f) مَخارِج
 - auf anderer Leute Kosten leben; نِیزه بازى کَردَن
 - es s. gut gehenlassen auf Kosten anderer; بَراى ِ خوش باشى از دیگَران مایه گُذاشتَن
@@ -1453,6 +1457,12 @@ Kosten; (f) مَخارِج
 - das Auto verursacht Kosten; ماشین بِخَرج مى اُفتَد
 - Lebenshaltungskosten; هَزینهٔ زِندِگى، مَخارِج ِ زِندِگى
 - Produktionskosten; هَزینهٔ تولید
+kosten; قِیمَت ِ آن این است، قِیمَت داشتَن
+- die ... Dollar kosten; که ... دُلار خَرج دَر بَر داشتَن
+- was kostet das?; قِیمَتَش چَنده؟
+- Koste es, was es wolle; به هَر قِیمَتى که شُده
+- das kostet schon einiges; این مَبلَغى خَرج دَر مى دارَد
+- kosten, probieren; چِشیدَن، لَب زَدَن
 kostendeckend;
 - die Anlage arbeitet kostendeckend; طَرح به مَرحَلهٔ بَهره بَر دارى رِسید
 kostengünstig;
@@ -1481,8 +1491,6 @@ Krach; غَلَیان و خُروش، سَر و صِدا
 - die Tür mit Krach zuschlagen; دَر را با سَر و صِدا بَستَن
 - Krach machen; جُفت و تیز کَردَن، جِز زَدَن
 Krächzen; قارقار
-kraft;
-- kraft seiner Autorität; با ضَرب ِ اِقتِدارَش
 Kraft; (f) نیرو، قُدرَت، قُوه، تاب
 - die Kraft des Meeres; صَلابَت ِ دَریا
 - Kraft aufbringen; تاب آوَردَن
@@ -1496,6 +1504,8 @@ Kraft; (f) نیرو، قُدرَت، قُوه، تاب
 - vom Menschen unabhängige Kräfte; قُوهٔ مُجبَره
 - Kräfte messen; دَست پَنچه نَرم کَردَن، کَلَنجار وَررَفتَن با
 - die Kräfte übersteigend; فوق اُلطاقه
+kraft;
+- kraft seiner Autorität; با ضَرب ِ اِقتِدارَش
 Kräftegleichgewicht; - ِ تَوازُن ِ قُوا، تَکافوی
 kräfteraubend; طاقَت فَرسا
 - die Lebensbedingungen sind unglaublich kräfteraubend; شَرايِط ِ زِندِگى بینَهايَت طاقَت فَرسا است
@@ -1657,7 +1667,7 @@ Kreuz; (n) صَلیب
 kreuz;
 - er läuft kreuz & quer; او اینوَر و آنوَر میرَوَد، بى هَدَف راه میرَوَد
 - Schnittwunden, die kreuz & quer verlaufen; زَخمهاى ِ چَپ اَندَر راست
-Kreuzbein; اُستُخوان ِ خاچى
+Kreuzbein; اُستُخوان ِ خاجى
 kreuzen;
 - kreuzen (biolog.); آمیزِش دادَن، پِیوَند زَدَن
 - jemandes Weg kreuzen; کِسى را بَرخورد کَردَن

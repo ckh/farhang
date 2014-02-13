@@ -106,6 +106,8 @@ Ego;
 - das Ego des Menschen; نَفس ِ اِنسان
 Egoismus; مَنى، خودخواهى، خودمِحوَرى
 egozentrisch; خود مِحوَر، خودمَرکَز، خودپَرَست
+ehe;
+- ehe die Berge wurden ...; قَبل از آنکه کوها بِوجود آمَدَند
 Ehe; زَناشوئى، زَن و شوهَرى، زوجیَت، نِکاح
 - eine Ehe eingehen; به نِکاح دَر آمَدَن، اِزدِواج کَردَن
 - sie sollte in den Stand der Ehe eintreten mit ...; او بایَد عَقد به فِلان کَس بِشَوَد
@@ -114,12 +116,11 @@ Ehe; زَناشوئى، زَن و شوهَرى، زوجیَت، نِکاح
 - nach 10- jähriger Ehe; بَعد از دَه سال تأهُل، - اِزدِواج
 - Zeitehe; اِزدِواج ِ مُوَقَت، سیغه گِرِفتَن
 - Zweckehe; اِزدِواج ِ مِسیار
-ehe;
-- ehe die Berge wurden ...; قَبل از آنکه کوها بِوجود آمَدَند
-Ehebrecher; (pl.) مَرد ِ زانى، فاسِق (فُساق)، زِناکار
+Ehebrecher;
+- Ehebrecher (pl.); مَرد ِ زانى، فاسِق (فُساق)، زِناکار
 Ehebrecherin; زَن ِ زانیه، فاسِقه
 Ehebruch; زِنا
-- Ehebruch begehen; زِنا کَردَن، ـ دادَن
+- Ehebruch begehen (von Mann, von Frau); زِنا کَردَن، ـ دادَن (مَردزانیگَری، زَنزانیگَری)
 Ehefrau; عِیال، زَن، مَنکوحِه، حَلیله
 - ich möchte, dass du mir deine Tochter zur Ehefrau gibst; مى خواهَم دُختَرِت را به هَمسَرى بِمَن بِدَهى
 Ehegatte (fem.); (زوج (زوجه
@@ -278,6 +279,7 @@ Eigenartigkeit; غَرابَت
 Eigenbrödler; تَکرو، کِنارگیر
 Eigengewicht; وَزن ِ حَقیقى
 Eigeninitiative; اِبتِکار ِ شَخصى
+Eigenkapital; قاِدۀ اِنصاف
 Eigenlob; مَنى، مَن مَنى، خود سِتائى، فَخریه، فَخر به خود
 eigenmächtig; خود سَرانه، دِلبِخاه، خود رأى
 Eigennutz; غَرَض، نَفع ِ شَخصى
@@ -1463,7 +1465,7 @@ Eisschmelze; یَخ آب
 Eisscholle; تَختهٔ یَخ
 Eiswaffel; نان ِ بَستَنى
 Eiszapfen; زَنگولهٔ یَخ، دَرکاله، مَکداله
-Eiszeit; دوران ِ یَخ بَندان
+Eiszeit; دوران ِ یَخ بَندان، عَصر یَخبَندان
 eitel;
 - das ist alles eitel; هَمه اَش باطِل است، ـ پوچ و پوک است
 - dieser Mensch ist eitel; این شَخص نازو است، ـ خودآرا، ـ خودپَسَند، ـ دَماغ ِ گُنده
@@ -1572,7 +1574,8 @@ emaillen; لُعابى
 emaillieren; لُعابدار کَردَن، مینائى ک
 emailliert; لُعاب زَده
 Emaillieüberzug; پوشِش ِ لُعابى
-Emanzipation; خُروج از قِیمومَت، آزادى از قِید
+Emanzipation;
+- Emanzipation (z.B. von der Männerherrschaft); خُروج از قِیمومَت، آزادى از قِید، رَهاسازی (بطور مثال: از مَردسالاری)
 emanzipieren (s. -); خودرا از قِید ِ ... رَها کَردَن
 emanzipiert; یَله و رَها، مُطلَق، بى بَند و بار
 Embargo; تَحریم ِ تِجارى، توقیف ِ کِشتى
@@ -1596,6 +1599,7 @@ Emotion; هَیَجان ِ اِحساسات
 emotional; اِحساس ِ قَلبى، حَساس
 - er reagiert sehr emotional; خِیلى با اِحساسات عَکس اُلعَمَل می کُنَد
 - emotionaler Quotient; ضَریب ِ اِحساسی
+Empathie; تَلقین، اِنتِقال ِ فِکر، هَمدِلی
 Empfang; اِستِقبال، پَذیرائى
 - in Empfang nehmen; اِستِقبال کَردَن
 - in Empfang genommen werden; پَذیرا شُدَن
@@ -1604,7 +1608,7 @@ Empfang; اِستِقبال، پَذیرائى
 - Neujahrsempfang; ضیافَت ِ سال ِ نو
 - Presseempfang; ضیافَت ِ مَطبوعاتى
 empfangen;
-- jem. empfangen; به پیشباز ِ کِسی رَفتَن
+- jem. empfangen; به پیشباز ِ کِسی رَفتَن، از کِسی پَذسرایی کَردَن
 - jem. herzlich empfangen; از کِسى به گَرمى پَذیرائى کَردَن
 - Gäste werden mit Kaffee empfangen; مِهمانها با قَهوه پَذیرائى خواهَند شُد
 - in feierlicher Audienz empfangen; با تَشریفات ِ رَسمى بِحُضور پَذیرُفتَن
@@ -2767,6 +2771,8 @@ erholt; جان گِرِفته
 - er hat s. wieder erholt (nach Krankheit); آب زیر ِ پوستَش دَوید
 - das Land hat s. erholt; کِشوَر تَجدید ِ قُوا کَرد
 - das Geschäft hat s. wieder erholt; فُروشگاه دوباره جان گِرِفته
+Erholung; تَفریح
+- Erholung (mediz.); بِهبودی
 erholungsbedürftig; مُحتاج به اِستِراحَت
 erhören;
 - Gott erhört Gebet; خُدا دُعارا اِجابَت می کُنَد، ـ مُستَجاب ـ
@@ -3551,6 +3557,7 @@ Eskalation; گُستَرِش بالا گِرِفتَن، دَرگیرى ـ
 eskalieren; توسِعه گِرِفتَن، رو بِه بالا گ.، گُستَرِش پِیدا کَردَن
 Eskorte; بَدرَقه، موکِب، اِسکورت
 eskortieren; کِسى را اِسکورت کَردَن
+Esoterik; عُلوم ِ غَریبه، - خَفیه
 esoterisch; سِرى، مَخفى
 Espenlaub;
 - wie Espenlaub zittern; مِثل ِ بَرگ ِ دِرَخت ِ بید لَرزیدَن
@@ -3662,7 +3669,7 @@ Europäisierung; فَرَنگى گَرى
 eustachisch;
 - eustachische Röhren; شِیپور گوش، لولهٔ اُستاخ
 Euter; پِستان ِ حِیوان ِ ماده
-Euthanasie; کُشتَن بَرای ِ رَفع ِ دَرد
+Euthanasie; کُشتَن بَرای ِ رَفع ِ دَرد، مَرگ از طَریق ِ تَرَحُم
 Eva; حَواء
 evakuieren; کوچ دادَن، تَخلیه کَردَن، کوچانیدَن
 Evakuierung; تَخلیهٔ کِشوَر

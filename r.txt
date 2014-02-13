@@ -126,9 +126,9 @@ rangieren;
 - rangieren (Zug); به خَط ِ دیگَر راندَن
 - er rangiert an 2. Stelle; او دَر دَرَجهٔ دُوُم قَرار دارَد
 Rangordnung; تَرتیب ِ مَقام
-Ranke; پیچَک
 Ränke; زَمینه سازی
 - Ränke schmieden; زَمینه سازى کَردَن، از هَم خورده گِرِفتَن
+Ranke; پیچَک
 ranmachen;
 - s. an jem. ranmachen; تو نَخ ِ کِسی رَفتن
 ranzig; خَراب، فاسِد
@@ -317,8 +317,8 @@ real; حَقیقى، واقِعى، عِینى، موضوعى
 realisieren; عَمَل کَردَن، اَنجام دادَن، به وُقوع پِیوَستَن
 - realisiert werden; واقِع شُدَن، وُقوع یافتَن
 Realisierung; تَحَقُق
-Realismus; واقِع بینى، واقِع آئینى، واقِعگَرى
-- Begriffsrealismus; واقِعگَرى ِ مَفهومى
+Realismus; واقِع بینى، واقِع آئینى، واقِعگِرایی
+- Begriffsrealismus; واقِعگِرایی ِ مَفهومى
 Realist; واقِعبین
 realistisch; واقِعى
 - realistisch gesehen; واقِعيَتَش این است
@@ -338,11 +338,12 @@ Reblaus; شَتهٔ مو
 Rechen; عَلَف کِش
 Rechenbrett; چُتکه
 - mit Rechenbrett rechnen; جُتکه اَنداختَن
-Rechenschaft;
+Rechenschaft; بازخواست، به حِساب آمَدَن
 - jem. Rechenschaft ablegen; به کِسى حِساب پَس دادَن، - جَواب پَس دادَن، پاسُخگوئی دَر مُقابِل
 - Rechenschaft fordern; حِساب ِ کِسى را باز خواستَن، باز خواست کَردَن
 - ich ziehe dich wegen deiner Taten zur Rechenschaft; تورا به سَزاى ِ اَعمالَت مى رِسانَم، حَق ِ تو را کَف ِ دَستَِت مى گُذارَم
-Rechenschaftsbericht (- geben); (حِساب (پَس دادَن
+Rechenschaftsbericht;
+- Rechenschaftsbericht (- geben); حِساب (پَس دادَن)
 Rechenschieber; خَط کِش ِ حِساب
 Rechentafel; جَدوَل ِ مُحاسِباتى
 Recherche; پِی گَردی، تَفَحُص
@@ -490,7 +491,8 @@ reden; صُحبَت کَردَن، سُخَن گُفتَن
 Redeordnung; تَرتیب ِ تَقَدُم ِ سُخَنرانى
 Redewendung; عِبارَت ِ عامیانه، اِصطِلاح ِ ـ
 redigieren; ویرایِش کَردَن
-Redlichkeit; بَرائَت، آبرومَندى، اِستِقامَت
+redlich; صادِق
+Redlichkeit; بَرائَت، آبرومَندى، اِستِقامَت، صِداقَت
 Redner; خَطیب، خاطِب، سُخَنران، ناطِق
 - Lobredner (auch iron.); ثَناگو
 Rednergabe; قُوهٔ ناطِقه
@@ -601,6 +603,8 @@ Regression; بَرگَشت، تَنَزُل، پَس رَوى
 regressiv; پَس رو، پَس رَوَنده
 regulär; مُنَظَم، ثابِت
 Regulation; تَنظیم
+Regulativ;
+- Regulativ (n); قاِعده گُذاری
 regulieren; تَنظیم کَردَن
 - regulierender Faktor; عُنصُر ِ تَعدیل
 - Regulierung des Marktes; تَعدیل ِ اِقتِصادى
@@ -608,8 +612,10 @@ Regung; تَحَرُک، حَرَکَت، جُنبِش
 regungslos; تَکان نَخوردَن
 - regungslos bleiben; چَهار شاخ ماندَن
 Reh; آهو
-Rehabilitation (jurist.); اِعادهٔ حِیثيَت
+Rehabilitation;
+- Rehabilitation (jurist.); اِعادهٔ حِیثيَت
 - Rehabilitierung von Suchtkranken; باز پَروَرى ِ مُعتادین
+Rehabilitationszentrum; مَرکَز ِ تَوانبَخشی
 rehabilitieren (jem. -); از کِسی اِعادهٔ حِیثيَت شُدَن
 - er hat s. rehabilitiert; او از خود اِعادهٔ حِیثيَت کَرد
 - sie sind rehabilitiert worden; بَهانهٔ خوبی به دَستِشان اُفتاد
@@ -855,6 +861,7 @@ Repatriierung; اعادهٔ تابِعيَت
 Report; گُزارِش
 Reporter; خَبَرنِگار، مُخَبِر
 - Gerichtsreporter; خَبَرنِگار ِ قَضائى
+Repository; (*: Computerbegriffe)
 Repräsentant; نَمايَنده
 Repräsentantenhaus; مَجلِس ِ نَمايَندِگان
 repräsentativ;
@@ -864,6 +871,8 @@ repräsentieren; نَمايَندِگى کَردَن، نِمونه بودَن
 Repressalien; تَحَکُم، فِشار، زَجر
 - Repressalien erleiden; زَجر کِشیدَن
 - jem. einer Repressalie aussetzen; کِسى را تَحت ِ فِشار قَرار دادَن
+repressiv;
+- repressiv (*: hemmend); مانِع شَوَنده، سَرکوب کُنَنده
 Reproduktion; چاپ ِ مُجَدَد، تولید ِ ـ
 Reptil; (pl.) (خَزَنده (خَزَندِگان
 Republik; جُمهورى
@@ -1066,15 +1075,17 @@ Ring; حَلقه، رینگ
 - Kolbenring; رینگ ِ پیستون
 - Ohrring; گوشواره
 - Spionagering; شَبَکهٔ جاسوسى
+Ringen;
+- Ringen (n); کُشتی
+- Freistilringen; کُشتى ِ آزاد
 ringen; کُشتى گِرِفتَن
 - ringen um (z.B. um Wahrheit); مِحنَت کِشیدَن، مُجاهِده کَردَن
 - mit jem. ringen um; با کِسى مُغابِله کَردَن، ـ کَلَنجار رَفتَن
 - mit s. ringen; با خود کَلَنجار رَفتَن
-- Ringen; کُشتى گیرى
-- Freistilringen; کُشتى ِ آزاد
 Ringer; کُشتى گیر
 ringförmig; حَلقه اى، حَلقه حَلقه
 Ringgefäss; آوَند ِ حَلقَوى
+Ringkampf; کُشتی
 Ringstrasse; چادهٔ کَمَربَندى
 ringsum; دُورادُور، دور و بَر
 Rinne; شیار، مَجرا، چاهَک
@@ -1173,9 +1184,9 @@ Rosine; کِشمِش
 Rosmarin; اِکلیل ِ کوهى، رومارِن
 Ross; اَسب
 Rost; زَنگ ِ آهن
-rosten; زَنگ زَدَن
 rösten; بُریان کَردَن، ـ شُدَن، بِرِشته ک.، بِرِشتَن، تَفت دادَن
 - geröstet (Kaffee); بوداده
+rosten; زَنگ زَدَن
 Rostfrass; خوردِگى، فَرسايِش
 rostfrei; زَنگ نَزَن
 - rostfreier Stahl; فولاد ِ زَنگ نَزَن
@@ -1213,7 +1224,7 @@ Rubrik; مَقوله
 - unter die Rubrik von ... stellen; به حِساب ِ چیزی گُذاشتَن
 Rückbesinnung; باز شِناسى، بازنِگَری
 - Rücbesinnung auf ...; بازنِگَری دَر ...
-Rückblick; نَظَر به گُذَشته
+Rückblick; نَظَر به گُذَشته، بازنِگَری
 rücken;
 - einander auf den Leib rücken; به جان يِکدیگَر اُفتادَن
 - er rückte s. auf seinem Platz zurecht; او سَرِ جايَش وول مى خورَد

@@ -77,6 +77,7 @@ immerzu; دَمبِدَم
 Immission; تَجاوُز به حُقوق ِ کِسى، ـ به مَرز ِ مُجاوِر
 - Bundesimmissionsschutzgesetz; قانون ِ حِراسَت ِ مُحیط ِ کِشوَر
 Immobilien; اَموال ِ غِیر ِ مَنقول، عَقار، آثاثیه
+Immobilienblase; حُباب ِ مَسکَن
 Immobilienbüro; بُنگاه ِ اِجاره و مُعامِلات ِ مِلکى
 immun; مَصون
 - er ist gegen die Krankheit immun; او مَصون دَر مُقابِل ِ مَرَض است
@@ -163,6 +164,7 @@ individuell; فَردى، مُنحَصِر به فَرد
 Individuum; فَرد
 Indiz; اَثَر، اِشاره، بَيَنه، قَرینه، دَلیل، عَلائِم، نِشان، دَلالَت
 Indizienbeweis; اِثبات بَر مَبناى ِ واقِعِیات
+indoktrinieren; اِلقاء کَردَن، تَلقین ک.
 Induktion;
 - Induktion (philos.); اِستِقراء، قیاس
 - Induktion (phys.); اِلقاء، اَندوکسیون
@@ -239,7 +241,7 @@ inklusive ...; ... ِ به انِضِمام
 inkognito; نام ِ مُستَعار، اِسم ِ رَمز، مَجهول اُلهُویه، نامَعلوم اُلِمکان
 inkompatibel; مُتَضاد، به چیزی نِمی خورَد
 Inkompatibilität; ناسازگارى
-Inkompitenz; عَدَم ِ صَلاحيَت
+Inkompetenz; عَدَم ِ صَلاحيَت
 - Inkompetenz bei ...; عَدَم ِ صَلاحيَت دَر
 inkonsequent;
 - er ist inkonsequent; او ثابِت نیست، ـ پایدار ـ
@@ -465,6 +467,7 @@ irrend; ضَلیل
 Irrer; مَجنون، دیوانه
 - warum schlägst du wegen ... wie ein Irrer?; واسهٔ هَوائى ِ ... میزَنى؟
 irreversibel; غِیر ِ قابِل ِ باز گَشت، يِکجانِبه
+Irrfahrt; سَفَر بی راهِه
 irrig; اِشتِباه، غَلَط
 - das ist eine irrige Meinung; عَقیدهٔ مَغلوط است
 irritieren; .ذِهن ِ کِسى را مَشوب کَردَن، ـ گیچ ک.، ـ مَغشوش ک

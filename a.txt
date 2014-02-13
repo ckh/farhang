@@ -403,7 +403,7 @@ ablaufen;
 - unsere Schuhe waren abgelaufen; تَه ِ کَفشهایمان سایید
 - das Uhrwerk ist abgelaufen; کوک ِ ساعَت خالى شُد
 Ableben; دَرگُذَشت
-ablecken; لیسیدَن
+ablecken; لیسیدَن، لِشتَن
 - s. die Finger ablecken (Lob für den Koch); اَنگُشتَش را باهاشان (یَعنی: با غَذا) می خورَد
 ablegen;
 - Kleidung ablegen; لِباس اَز تَن کَندَن
@@ -429,7 +429,7 @@ Ableitung; اِشتِقاق، اِستِنتاج، اِستِنباط
 - Wärmeableitung; تَخلیه حَرارَت
 ablenken; مُنحَرِف کَردَن
 - jem. ablenken; تَوَجُه ِ کِسی را به چیز ِ دیگَر جَلب کَردَن
-Ablenkung; تَصریف، اِنصِراف، اِنحِراف
+Ablenkung; تَصریف، اِنصِراف، اِنحِراف، واراهی
 abliefern (z.B. Geld); ایصال کَردَن
 ablösen; مُفَرِق شُدَن، رَها ش.
 - s. ablösen von; وَر آمَدَن، خودرا باز کَردَن اَز
@@ -562,6 +562,7 @@ abschlagen;
 - jem. seine Hilfe abschlagen; کُمَک ِ خودرا اَز کِسى دَریغ داشتَن
 abschlägig;
 - jem. eine abschlägige Antwort geben; به کِسى جَواب ِ دَریغ دادَن، ـ رَد ـ، ـ مَنفى ـ
+abschlecken; لِشتَن، لیسیدَن
 abschleppen; یَدَک کِشیدَن
 Abschlepphaken; قُلاب ِ یَدَک کِش
 Abschleppseil; طِناب ِ یدَک کِش
@@ -858,7 +859,7 @@ Abweichung; مُبایَنَت، کَژرَوى، کَجرَوى، اِنحِر�
 abweisen (*:zurückweisen); رَد کَردَن، دَست کِشیدَن اَز
 abwendbar; جِلوگیرى پَذیر
 abwenden;
-- s. abwenden von; دَست کِشیدَن اَز، مُنزَجِر شُدَن اَز، اعِراض کَردَن اَز، اَز چیزى دَست شُستَن، به کِسى پُشت کَردَن
+- s. abwenden von; دَست کِشیدَن اَز، مُنزَجِر شُدَن اَز، اعِراض کَردَن اَز، اَز چیزى دَست شُستَن، به کِسى پُشت کَردَن، پُشت به کِسی ک.
 - Unglück abwenden; دَفع ِ بَلا کَردَن
 - s. von der Nachfolge Gottes abwenden; اَز پِیرَوى ِ خُداوَند رو گَردانیدَن، ـ روى بَرگَرداندَن، روکَردَن شُدَن اَز خُدا
 - s. abwendend; رو گَردان، در حال ِ پُشت کَردَن
@@ -1016,13 +1017,15 @@ aerob; هَوازى
 Affäre; جَنجال، رُسوائى
 - er hat s. gut aus der Affäre gezogen; خوب گِلیمَش را اَز آب دَر آوَرد
 - Liebesaffäre; نَرد ِ عِشق باختَن
-Affe; نَسناس، مِیمون
+Affe; نَسناس، مِیمون، بوزینه
 - wie vom Affen gebissen; مِثل ِ فیل مار گَزیده
+- den Affen machen; بوزینه بازی
 Affekt; هَیَجان، آشُفتِگى، اِعراض ِ نَفسانى، بى اِرادِگى، اِنفِعال
 Affekthascherei; آب و تاب، تَکَلُف، پیرایه
 affektiert; خود پَسَند، بِخود بَسته، با اَدا و اَطوار
 Affektiertheit; تَصَنُع
 Affentheater; عَنتَربازى
+affig; مِیمون صِفَت، بوزینه خو
 Affinität; جاذِبه
 Affix; وَند
 Afrika; آفریقا
@@ -1043,7 +1046,7 @@ Aggressor; مُتَجاوِز، مُتَعَرِض
 Agitation; تَهییج، تَحریکات
 Agitator; آشوب کُن، تَحریک کُنَنده
 Agnostiker; لااَدرى
-Agnostizismus; لااَدرىه آئینه، مَذهَب ِ لااَدرى
+Agnostizismus; لااَدرک گَری، نَدانَم‌ گِرایی
 Agrarprodukt; مَحصولات ِ اَرضى
 Aha; آهان
 - Aha- Erlebnis; تَجرُبه آهان
@@ -1109,7 +1112,8 @@ Akte; پَروَنده، مَحضَر
 Aktie; سَهم
 Aktiengesellschaft; شِرکَت ِ سَهامى
 Aktienkurs; نِرخ ِ سَهم
-Aktion; عَمَل، اِقدام، فِعِل
+Aktion;
+- Aktion (pl.); عَمَل (اَعمَل)، اِقدام، فِعِل
 - wir führen eine gemeinsame Aktion durch; ما یک اِقدام ِ دَستِجَمعى اِجراء مى کُنیم
 - das in Aktion treten der Regierung; روى ِ کار آمَدَن ِ دولَت
 - Aktion & Reaktion; فِعل و اِنفِعال
@@ -1119,9 +1123,12 @@ Aktionspotential; تَوان ِ عَمَل
 aktiv; فَعال، عامِل
 - s. aktiv beteiligen; خودرا دَر چیزى فَعالانه شِرکَت دادَن
 - aktiv werden; فَعاب شُدَن
-aktivieren (jem. -); .کِسى را اِحیاء کَردَن، ـ فَعالیَت دادَن، ـ فَعال ک
+aktivieren;
+- aktivieren (etwas -); چیزی را به عَمَل رِساندَن
+- aktivieren (jem. -); کِسى را اِحیاء کَردَن، ـ فَعالیَت دادَن، ـ فَعال ک.
 Aktivismus; فِعِل باوَرى
-Aktivist; (plur.) (فَاعِل، عامِل (عُمال
+Aktivist;
+- Aktivist (pl.); فَاعِل، عامِل (عُمال)
 Aktivität; فَعالیَت
 Aktivkohle; نوعى ِ زُغال که داراى ِ خاصیَت ِ جَذب ِ سَطحى است
 Aktualität; فِعِلیَت، تَحَقق
@@ -1357,6 +1364,7 @@ altbacken;
 - altbackenes Brot; نان ِ بِیات
 alteingesessen; اَهل ِ مَحَل، بومى
 Alteisen; قُراضه
+Altenheim; مَرکَز ِ نِگَهداری ِ سالمَندان
 Alter;
 - Alter, alter Mensch; (plur.) (سالخورده، پیر (پیران)، شِیخ (شَیوخ
 - im besten Alter; بِهتَرین اَیام زِندِگی
@@ -1650,7 +1658,7 @@ anfällig;
 - die anfälligsten Punkte; پَذیرتَرین نُکات
 Anfälligkeit; اِبتِلا، اِستِعداد اِبتِلا به
 Anfang; بَدو، بِدایَت، شُروع
-- am Anfang des ...; ِ دَر اِبتِداى ِ، دَر آغاز ِ، دَر اَوائِل
+- am Anfang des ...; دَر اِبتِداى ِ، دَر آغاز ِ، دَر اَوائِل ِ
 - am Anfang des Gedichtes; سَر ِ آغاز ِ شِعر
 - für den Anfang, ...; بَراى ِ سُهولَت ِ عَمَل
 - aller Anfang ist schwer; شُروع ِ هَر کارى مُشکِل اَست
@@ -1659,6 +1667,7 @@ Anfang; بَدو، بِدایَت، شُروع
 - ohne Anfang und Ende (Gott); لابَداء و لایَزال
 - von Anfang bis Ende jem. was erzählen; اَز سیر تا پیاز بَراى ِ کِسى باز گُفتَن، اَز اَوَل تا آخَر ـ
 - mit den Anfängen der Revolution; با صَدر ِ اِنقِلاب
+- ist der Anfang gut, gelingt auch meist das Ende; سالی که نیکوست از بَهارَش پِیداست
 anfangen; آغازیدَن، آغاز کَردَن، شُروع ک.، پَرداختَن
 - die Arbeit anfangen; این کاررا دَر پیش گِرِفتَن
 - er fängt als Trainer an; به اَمر ِ مُرَبیگَرى روى مى آوَرَد، ـ شُروع مى کُنَد
@@ -2447,6 +2456,7 @@ Antisemit; ضِد ِ سامى
 Antisemitismus; یَهود سِتیزى
 antiseptisch; گَند زِدا، ضِد ِ عُفونى
 Antiterroreinheit; پلیس ِ ضِد ِ شورِش
+Antitheismus; ضِد ِ خُدایی
 Antithese; تَضاد
 antörnen; حَشرى کَردَن
 Antrag; تَقاضانامه، دَرخواست نامه
@@ -2921,7 +2931,7 @@ Atemwege; نَفَس گاه
 Atemzug; دَم و بازدَم
 - der letzte Atemzug; نَفَس ِ اِحتِضار
 - in 1 Atemzug durchschreiben; یِک نَفَس نِوِشتَن
-Atheismus; اِلحاد، خُداناشِناسى
+Atheismus; اِلحاد، خُداناشِناسى، بی خدایی
 Atheist; مُلحِد، لامَذهَب، خُداناشِناس
 Äther;
 - Äther (chem.); اِتِر
@@ -3369,7 +3379,9 @@ Auflösung;
 - ... führt zur Auflösung der Kunst; به اِضمِحلال ِ هُنَر مى رِسَد
 - Geschäftsauflösung; بَرچیدِگى ِ اِداره
 - Auflösungsrecht des Parlamentes; حَق ِ اِنحِلال ِ مَجلِس
-Auflösungsvermögen (beim Mikroskop); قابِلیت ِ تَشخیص
+Auflösungsvermögen;
+- Auflösungsvermögen (beim Mikroskop); قابِلیت ِ تَشخیص
+- Auflösungsvermögen beim Monitor (*: Computerbegriffe); وُضوح ِ تَصویری
 aufmachen;
 - ein Fass aufmachen; بُشکه را باز کَردَن
 - einen Stand aufmachen; .دَکه بَر پا کَردَن، ـ اِفتِتاح ک
@@ -3481,12 +3493,13 @@ aufrechterhalten; نِگَهداشتَن، حِفظ کَردَن
 - das Gesetz aufrechterhalten; قانون را اِبقاء کَردَن
 - die Ordnung aufrechterhalten; نَظم را حِفظ کَردَن
 Aufrechterhaltung; نِگهدارى، مُحافِظَت، حِفظ
-aufregen (*:aufgeregt);
+aufregen;
 - s. aufregen; به هِیَجان اُفتادَن، جُفت و تیز کَردَن، دَست پاچه شُدَن، خون ِ کِسى بِجوش مى آیَد، به قَلَیان اُفتادَن
 - reg dich nicht auf!; ناراحَت نَشو، جوش نَزَن
 - seine Stimme regt ihn auf; صِدایَش اورا کَلافه مى کُنَد
 - er regt s. auf (ohne es zu zeigen); خون خونَش را می خورَد
 - ... als er hörte, wurde er aufgeregt; وَقتیکه ... شِنید از این حَرفها دَنگ شُد
+- ich hab' mich aufgeregt; دِلَم شور می زَنَم
 Aufregung;
 - Aufregung, Verwirrung; تَشَوُش، بَرانگیختِگى
 - nachts konnte sie vor Aufregung nicht schlafen; شَب را از ذوق خوابَش نَبُرد
@@ -4462,7 +4475,7 @@ Aussage; اِظهار، گُفتار، بَیان
 aussagen; باز گو کَردَن
 - Aussagesatz; جُملهٔ خَبَرى
 - etwas wird aussagestärker; چیزى گویاتر مى شَوَد
-Aussatz; خوره، جُذام، بَرَص، آکِله
+Aussatz; خوره، جُذام، بَرَص
 aussätzig; مَبروص، اَبرَص، مَجذوم
 - Aussätziger; مَبروص، جُذامى، بَرَصدار
 ausschachten; حَفارى کَردَن، چاه کَندَن
@@ -4880,7 +4893,7 @@ Avantgarde; پیشرو و موجِد ِ سَبک ِ نو
 Avicenna; اِبن سینا
 axial; مِحوَرى
 - Axialbelastung; بار ِ مِحوَرى
-Axiom; اَصل، مُسَلَمَت، اَصل ِ مُتَعارِف، بَدیهى
+Axiom; اَصل، مُسَلَمَت، اَصل ِ مُتَعارِف، بَدیهى، قاِعدۀ اَص در عُلوم
 - Axiomatik (literat.); عِلم ِ اُصول ِ مَتعارِف
 Axt; تَبَر، تیشه
 - mit der Axt schlagen; تَبَری کَردَن

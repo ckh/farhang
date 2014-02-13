@@ -3,14 +3,19 @@ Saal (m); سالُن
 Saat (f); زَرع
 - Aussaat; کِشته
 Saatgut (n); بَذر
-Sabbat (m); سَبت، روز ِ شَنبهٔ يَهودى
-Sabber (m); آب ِ دَهَن
+Sabbat;
+- Sabbat (m); سَبت، روز ِ شَنبهٔ يَهودى
+Sabber;
+- Sabber (m); آب ِ دَهَن
 sabbern; آب از لَب و لوچه راه مى اُفتَد
 Säbel (m); خَنجَر
 Säbelrasseln (n); نَمایش و مانُوِر ِ تَهدید آمیز
-Sabotage (f); خرابکارى، سابوتاژ
-Saboteur (m); خَرابکار
-sabotierend; تَخریبى
+Sabotage;
+- Sabotage (f); خرابکارى، سابوتاژ
+Saboteur;
+- Saboteur (m); خَرابکار
+sabotieren; خَراب کَردَن
+- sabotierend; تَخریبى
 Sachbearbeiter (m); صَلاحيَتدار، مُتَخَصِص
 Sachbeschädigung (f); خِسارت ِ مالى
 Sache (f); چیز
@@ -48,7 +53,9 @@ Sack (m); گونى، اَنبان، جُوال، گاله
 - mit Sack & Pack geht er weg; با دار و نَدارَش وَر مى رَوَد، بَساطَش را جَمع کَرد و رَفت
 Säckchen (n); چَنته
 Sackgasse (f); بُن بَست
-säen; (präs.) بیختَن (مى بیزَد)، کاشتَن (مى کارَد)، کِشت کَردَن، بَذر اَفشاندَن
+säen;
+- säen (präs.); بیختَن (مى بیزَد)، کاشتَن (مى کارَد)، کِشت کَردَن، بَذر اَفشاندَن
+- Was man sät, erntet man auch; هَر چی بِکارَند هَمان را دِرو می کُنَند
 Safe (m); گاو ِ صَندوق
 Safran (m); زَعفَران
 Saft (m);
@@ -65,7 +72,8 @@ Säge (f); اَره
 - Laubsäge; اَره موئى
 Sägemehl (n); خاک ِ اَره
 - frisches Sägemehl; خاک ِ اَرهٔ تازه
-sagen; (präs.) (عَرض کَردَن، گُفتَن (مى گويَد
+sagen;
+- sagen (präs.); عَرض کَردَن، گُفتَن (مى گويَد)
 - nichts sagen; سُکوت کَردَن
 - er sagte kein Wort; او لاکَلام حَرف نِمى زَد، او سُکوت کَرد
 - s. selbst sagen; خودرا مُخاطِب قَرار دادَن
@@ -102,7 +110,8 @@ sagenumwoben;
 - sagenumwobener Ort; مَحَل ِ اَفسانه اى
 Sägespäne (f); تَراشهٔ چوب، خاک ِ چوب
 Sägewerk (n); کارخانهٔ تَخته بُرى
-Sahara (f); صَحرا
+Sahara;
+- Sahara (f); صَحرا
 Sahne (f); خامه، سَر شیر
 - das ist allererste Sahne; این نُمره يِک است
 sahnig; خامه دار، خامه اى
@@ -560,7 +569,7 @@ Scheidungsprozess; مُحاکِمهٔ طَلاق
 Schein;
 - Schein, Glanz; تابِش
 - den Schein wahren; تَظاهُر کَردَن
-Scheinangriff; حَملهٔ کاذِبه، حَملهٔ ظاهِرى، حَملهٔ مَغلَطه
+Scheinangriff; حَملهٔ کاذِبه، حَملهٔ ظاهِرى، حَملهٔ مَغلَطه، - واراهی
 scheinbar; اِحتِمالاً
 - zum scheinbaren Allgemeinwohl; بِلِطافَط اُلحيل
 scheinen; دِرَخشیدَن، تابیدَن
@@ -693,7 +702,7 @@ schief; مُوَرَب، کَج، مايِل، شیبدار، اَعوَج
 Schieferdach; بام ِ تَخته سَنگ پوش
 Schiefergestein; پَلمهٔ سَنگ، سَنگ ِ لوح، تَخته سَنگ
 schiefgehen;
-- der Unterricht geht schief; آموختَن رَه به جائى نِمى بَرَد
+- der Unterricht geht schief; آموختَن رَه به جائى نِمى بَرَد، دَرس به بی راهِه رَفت
 - alles, was nur schiefgehen konnte, sagte man ihm; هَرچه بَد و بیراهه بود به او گُفتَند
 - die Dinge fangen an, schief zu gehen; اوضاع بَر وَفق ِ مُراد نیست
 Schieflage;
@@ -796,7 +805,8 @@ Schlachtreihe; صَف آرائی
 - Schlachtreihe aufstellen; بَرای ِ جَنگ صَف آرائی کَردَن
 Schlacke; سَرباره، جِرم
 schlackern (vor Kälte); بیدبید لَرزیدَن
-Schlaf; (qonaw) خُفت، خواب، نَوم، غُنَو
+Schlaf;
+- Schlaf (qonaw); خُفت، خواب، نَوم، غُنَو
 - Schlaf übermannte ihn; .چُرتِش گِرِفت، خوابِش گ
 - jem. aus dem Schlaf reißen; از خواب پَراندَن، چُرت ِ کِسی را پاره کَردَن
 - jem. am Schlaf hindern; خواب ِ کِسی را گِرِفتَن
@@ -860,9 +870,9 @@ schlagen; .زَدَن، ضَربه زَدَن، کُتَک ز
 - die Uhr schlägt 12; ساعَت زَنگ ِ دوازده را مى زَنَد، ـ مى نَوازَد، ساعَت دَوازدَه ضَربه مى نَوازَد
 - geschlagen; مَصدوم، مَضروب
 - Stelle, auf die geschlagen wurde; جاى ِ ضَرب دیده
+Schlager; تَصنیف
 Schläger; ضارِب، قُلدُر، بِزَن
 - Schläger (z.B. Tennisschläger); راکِت
-Schlager; تَصنیف
 Schlägerei; قُلدُرى
 - bei der Schlägerei; هَنگام ِ زَد و خورد
 - wir hatten dort eine Schlägerei; آنجا بِزَن بِزَن کَردیم
@@ -919,7 +929,7 @@ schlecht;
 - es war ein schlechter Morgen; يِک روز ِ صُبح ِ بَد جوری
 - schlechte Zeiten; وَقت ِ اَسَف بار
 - unsere materielle Lage war schlecht; وَضع ِ مالى ِ خودِمان هَم چَنگى به دِل نِمى زَد
-schlecken; لیس زَدَن
+schlecken; لیس زَدَن، لیسیدَن، لِشتَن
 schleichen; دُزدَکى راه رَفتَن، نوک ِ پا رَفتَن
 - müde schleichen; به کُندى پیش رَفتَن
 - schleichende Inflation; تَوَرُم ِ خَزَنده، تَوَرُم ِ تَدریجى
@@ -1076,7 +1086,7 @@ Schlüsselfrage; مَسئَلهٔ اَصلى، مَسئَلهٔ مِحوَرى
 Schlüsselfunktion; وَظیفهٔ اَساسى
 Schlüsselposition; مَقام ِ کِلیدى
 Schlüsselrolle; نَقش ِ اَساسى، نَقش ِ کِلیدى
-schlussendlich; سَر اَنجام، لِذا، خُلاصه، آخَر ِ سَر
+schlussendlich; سَر اَنجام، لِذا، خُلاصه، آخَر ِ سَر، سَر ِ آخَر
 - schlussendlich starben sie; و عاقِبَت مُردَند
 schlussfolgern; از قِصه حِصه گِرِفتَن، اِستِنباط کَردَن
 Schlussfolgerung; اِستِنباط، اِستِنتاج، پیش فَرض، اِستِقراء، نَتیجه
@@ -1312,15 +1322,15 @@ Schokolade; شُکُلات
 Scholle;
 - Scholle, Fischart; ماهى ِ پَهن
 - Scholle, Acker; زَمین
+schon;
+- ich habe das schon mal gehört; اینرا شِنیده بودَم
+- wenn schon, denn schon; یا رو میرَم یا زَنگى ِ زَنگ
+- was ist schon dabei?; مَگه چى شُده؟
 schön; زیبا، قَشَنگ
 - s. schön machen; .زیوَر دادَن، زینَت د
 - hier ist es schön warm; اینجا خوب گَرم است
 - jedes Mal, wenn ich dich sehe, bist du schöner als das Mal vorher (Sadi); هَر نوبَتَم که دَر نَظَر اى ماه بُگذَرى بار ِ دُوُم ز ِ بار ِ نَخُستین نیکوتَرى
 - Schöne Künste; صَنايِع ِ مُستَظرِفه، صَنايِع ِ ظَریف
-schon;
-- ich habe das schon mal gehört; اینرا شِنیده بودَم
-- wenn schon, denn schon; یا رو میرَم یا زَنگى ِ زَنگ
-- was ist schon dabei?; مَگه چى شُده؟
 Schonbezug; روکِش، سَرپوشیده، کاپوت
 schonen; بَر کِسى تَرَحُم کَردَن، کِسى را دَریغ کَردَن، بَر کِسى شَفَقَت داشتَن
 - schone meiner!; بَر مَن شَفَقَت فَرما
@@ -1661,7 +1671,7 @@ schwachsinnig; خَرَفت
 Schwächung; تَضعیف
 - wirtschaftliche Schwächung; تَضعیف ِ اِقتِصادى
 Schwager; (باجِناق (شوهَر ِ خواهَر ِ زَنَم)، آیزِنه (شوهَر ِ خواهَر
-Schwägerin; (هَمگیس، خازِنه، زَن ِ بَرادَر، جاری (زَن ِ بَرادَر ِ شوهَر
+Schwägerin; هَمگیس، خازَنه، زَن ِ بَرادَر، جاری (زَن ِ بَرادَر ِ شوهَر)
 Schwalbe; پَرَستوک، چِلچِله
 - eine Schwalbe macht noch keinen Sommer; با يِک گُل بَهار نِمى آيَد
 - einer Schwalbe das Fliegen beibringen wollen; آزموده را آزمودَن خَطاست
@@ -1763,6 +1773,7 @@ Schwelle; آستانه
 - Eisenbahnschwelle; تراوِرس ِ راه ِ آهَن، رِیل بَند
 - an der Schwelle des ...; دَر آستانهٔ
 schwellen; .وَرَم کَردَن، آماسیدَن، نَفخ کَردَن، باد ک
+Schwellenland; کِشوَر ِ تازه صَنَعتی شُده
 Schwellenreiz; کَمتَرین شِدَت ِ تَحریک
 Schwellenwert; حَدِاَقَل ِ شِدَت ِ تَحریک
 Schwellung; وَرَم، آماس
@@ -2170,6 +2181,7 @@ Sendung;
 Senf; خَردِل
 senil; کاهِل، خِنگ و خِرِفت، فَرتوت
 Senilität; فَرتوتى
+Senior; سالمَند
 Senke;
 - Senke, Absturz; گودال، فُرورَفتِگی
 - Senke, Tal; دَره
@@ -2390,6 +2402,7 @@ Sinn; مَضمون، مَفهوم، مُفاد، مَقصود، مَعنى
 - wenn keiner reagiert, welchen Sinn hat dann das Ganze? (Hafez); کِشِش جو نَبُوَد از آن سو چه سود کوشیدَن
 - wenn er nicht auf etwas grosses Appettit hat, dann steht ihm der Sinn auf etwas kleines; اَگَر چیزى بُزُرگى نَبود که حَسرَتِش را بِخورَد حَسرَت ِ چیزهاى ِ کوچِک را مى خورَد
 - von Sinnen sein; بیخود بودَن، عَقل ِ خودرا از دَست دادَن
+- macht das Sinn für dich? (umg.); بَرات جاری می کُنه
 Sinnesorgan; دَستگاه ِ حِسى، اَندام ِ ـ
 sinngemäss; ِطِبق ِ مَضمون، به فَحوا
 sinnlich; هَوَس باز، ـ ران، ـ نَفسانى
@@ -2411,6 +2424,8 @@ Sippenhaft; گُناه ِ دیگَرى سوختَن
 Sippschaft; دار و دَسته
 Sirene; آژیر
 - Sirene einschalten; آژیر کِشیدَن
+- Sirene (mythol.); سیرِن، سایرِن
+Sirenengesang; آهَنگ ِ جادوگَری
 Sirup; سیرآب، شَربَت
 - Sirup (mit Essig & Honig); شَربَت ِ سِکَنجَبین
 Sit-in; اِعتِصاب ِ نِشَسته
@@ -2604,6 +2619,7 @@ sonst;
 - sonst ist er ...; او دَر موقع ِ عادى
 - im Gegensatz zu sonst; بَر خَلاف ِ هَمیشه
 - sonst käme ihnen der Gedanke nicht; اَگَر نَه فِکر ِ ... به سَرِشان نِمى زَد
+Sophist; سَفسَطه باز
 Sophisterei; سَفسَطه بازى
 Sopran; زیر خوان، صِداى ِ زیر
 Sorge;
@@ -2692,12 +2708,14 @@ Spaltung; تَفرِقه، تَجزیه، جُدائى، شِکافت، نِفا
 - Parteispaltung; اِنشِعاب ِ حِزبى، اِنشِقاق ِ ـ
 Span; تَراشه
 - Holzspan; تَراشهٔ چوب
+- Eisenspan; بُرِش ِ فِلِز
 Späne; خَش و خاش، کِرِشته
 - Eisenfeilspäne; بُرادهٔ آهَن، تَراشهٔ ـ
 Spange; سَگَگ
 Spanien; اِسپانیا
 spanisch; اِسپانى، اِسپانیائى
-Spann (beim Fuss); قوزَک ِ پا
+Spann;
+- Spann (beim Fuss); قوزَک ِ پا
 Spannbacke; فَک ِ مَهار کُنَنده
 Spannbeton; بِتُن ِ فِشُرده شُده
 Spanne;
@@ -2770,6 +2788,10 @@ später; مِنبَعد، بَعداً
 - spätere Zeiten; اَیام ِ طَویل، زَمان ِ مُتأخِر
 Spatz; گُنجِشک
 - Besser der Spatz in der Hand, als die Taube auf dem Dach; قَسَم ِ حَضرَت ِ عَباس را باوَر کُنَم یا دُم ِ خُروس را؟، سِیلى ِ نَقد به است از حَلواى ِ نَسیه، فُرصَتهاى ِ کوچِک را غَنیمَت بشُماریم
+Spätzünder;
+- Spätzünder (*: Sprichwörter "l"); دو زاری اَش  دیر می اُفتَد
+Spätzündung;
+- Spätzündung (bei techn. Defekt); گیر دَر آتَش،
 spazieren; هَوا خوردَن، گَردِش کَردَن
 - Herumspazieren; گَردِش و خُرامِش
 spazierengehen; گَردِش رَفتَن، قَدَم زَدَن
@@ -2816,6 +2838,7 @@ Spekulant; مُحتَکِر، سوداگَر، سَفته باز، بورس با
 Spekulation;
 - Spekulation, Vermutung; تَخَيُل، نَظَرپَردازى، گُمانه زَنى، تَوَهُم
 - Börsenspekulation; سَفته بازى، سوداگَرى، بورس بازى، اِحتِکار
+Spekulationsblase; حُباب ِ اِقتِصادی
 Spekulationskauf; اِحتِکار
 spekulativ; تَخَيُلی، مُتَوَهِم
 - spekulativ kaufen; اِحتِکار کَردَن
@@ -2937,6 +2960,7 @@ Spitze;
 - Schirmspitze; نوک ِ چَتر
 Spitzel; جاسوس، خَبَر چین
 Spitzenkandidat; سَرآمَد ِ نامزَدها
+Spitzenmanagement; مُدیریَت ِ سَطح ِ بالا
 Spitzenpolitiker; سیاسَتمَدار ِ اَرشَد
 Spitzenposition;
 - sie haben eine Spitzenposition; آنها مُصَدِر ِ کار مُهِم هَستَند
@@ -2948,6 +2972,7 @@ Spitzer; تَراش کُن
 - Bleistiftspitzer; مِداد تَراش
 spitzfindig; موشِکاف
 - er war ein spitzfindiger Typ; او يِک جور ِ خُرده شیشه بود
+- spitzfindig argumentieren; سَفسَطه کَردَن
 Spitzfindigkeit; خُرده شیشه
 Spitzhacke; کُلَنگ
 Spitzhut (aus Papier, als Strafe für Fehlverhalten); کُلاه ِ بوقی
@@ -3003,6 +3028,7 @@ sprachlos;
 Sprachschule; مَدرِسهٔ زَبان، کلاس ِ ـ
 Sprachspielerei; چُپُل پیچُل
 Sprachstrukturen; عِبارات ِ زَبانى
+Sprachtherapie; گُفتاردَرمانی
 sprechen; صُحبَت کَردَن، حَرف زَدَن
 - mit jem. sprechen; .با کِسى صُحبَت کَردَن، ـ گُفتِگو ک
 - undeutlich sprechen; زَبان ِ کِسی تُپُق می زَنَد
@@ -3073,16 +3099,19 @@ Sprichworte "h";
 - Vom Helden zum Feigling ist es manchmal nur ein Schritt; از مَردی تا نامَردی یِک قَدَم است
 - Hochmut kommt vor den Fall; آخَر شاه مَنِشی کاه کِشی است
 - Den Hammer fallen lassen (i.S.: Feierabend); پُشت ِ دَست را داغ کَردَن
+- Hunger ist stärker als Heimweh; غَمی هَر چیزی می رَوَد، لیکِن غَم ِ شِکَم نِی
 Sprichworte "j";
 - Jammern auf hohem Niveau; آب دَر کوزه و ما تِشنه لَبان می گَردیم
 Sprichworte "k";
 - Große Klappe, nichts dahinter; آفتابة لَگَن هَفت دَست , شام و ناهار هیچی
 - Viele Köche verderben den Brei; آشپَز که دو تا شُد آش یا شور میشه یا بی مَزه
 - Der ist kreditwürdig; بیلِش هِزار مَن آب بَر می دارَد
+- Für manche ist eine kleine Sache bereits eine Katastrophe; دَر خانۀ مورچه شَبنَم طوفان است
 Sprichworte "l";
 - Das lohnt sich nicht; آفتابه را خَرج ِ لَحیم کَردَن، آفتابه خَرج ِ لَحیمه
 - Das Leben hat ihn zu dem gemacht, was er heute ist; آنقَدر مار خورده اَفعی شُده
 - Ohne Sinn und Verstand lernen; طوطی وار یاد گِرِفتَن
+- Eine lange Leitung haben; دو زاری اَش دیر می اُفتَد، - نِمی اُفتَد
 Sprichworte "m";
 - Ein Möchtegern (der es aber nicht gebacken kriegt); ظالِم ِ دَست ِ کوتاه ( آدَم ِ مُتَجاوِز و زورگو است   وَلی مّیدان ِ چِنین کاری را نَدارَد )
 - Sie sind so mächtig, dass man nicht mal ihre Hühner vertreibt; به مُرغِشان کیش نِمی شه گُفت
@@ -3110,6 +3139,7 @@ Sprichworte "s";
 - Es trifft immer den Schwächeren; بامی از بام ِ ما کوتاهتر نَدیده
 - Stier bei den Hörnern packen; پیشانی ِ پِلِنگ خاریدَن
 - Schwimmen lernt man nur im Wasser; تا به آب نَزَنی شِنا گَر نِمی شَوی
+- Was man sät, erntet man auch; هَر چی بِکارَند هَمان را دِرو می کُنَند
 Sprichworte "t";
 - Tapetenwechsel; آب به آب شُدَن
 - Seine Tricks führen zu nichts; آب از سَرِش گُذَشت
@@ -3133,6 +3163,7 @@ Sprichworte "w";
 Sprichworte "z";
 - Der hat ganz schön zugelegt (an Umfang); آب زیر ِ پوستِش اُفتاده
 - Mit nichts zufrieden sein; پِی ِ خَر می گَردَد که نَعَلَش را بِکَنَد
+- Zufrieden sein mit dem, was man hat; نان و پیاز، پیشانی ِ باز
 spriessen; جَوانه زَدَن
 Springbrunnen; فَواره
 springen; جَستَن، جَهانیدَن، جَست و خیز کَردَن، پَریدَن
@@ -3318,6 +3349,9 @@ Stand;
 - Messestand; غُرفه
 - Standverkäufer; بَساطی
 Standard; مِعیار، اِستاندارد
+standardisieren;
+- standardisieren (*: normieren); اِستاندارد سازی کَردَن
+Standardisierung; اِستاندارد سازی
 Standardklausel; مادهٔ مُتَحِد اُلشِکل، قید ـ
 Standarte; دِرَفش
 - Königsstandarte (zur Zeit der Sassaniden); دِرَفش ِ کاویانی
@@ -3559,6 +3593,7 @@ Steinschlag; رُمبِش، سَنگریزه
 Steinschleuder; سَنگ ِ فَلاخَن، دَست سَنگ، قُلاب ِ سَنگ
 Steinwolle; پَشم ِ مَعدَنى، ـ سَنگ
 Steinzeit; عَصر ِ حَجَر
+Steißbein; دُنبالچه
 Steissbein; دُم ِ غازه، خار ِ عانه، اُستُحوان ِ دُنبالیچه، عُصعُص
 Stelle; جا، گاه، مَکان
 - auf der Stelle, sofort; فى الفور، هَمین دَم، دَر جا
@@ -3765,6 +3800,7 @@ stimmen;
 - keines seiner Worte stimmt; از این حَرفهاى ِ صَد تا يِک غاز زیاد است
 - alles stimmte haargenau; مو لاى ِ دَرزَش نِمى رَفت
 - Gitarre stimmen; گیتار کوک کَردَن
+- wenn es zwischen uns stimmt; اَگَر خوب با هَم سازِگار هَست
 Stimmenanteil; سَهم ِ آراء
 Stimmenauszählung; شُمارِش ِ آراء
 Stimmenfang; شِکار ِ آراء
@@ -3911,11 +3947,11 @@ Stoßseufzer; تِلِنگ دَر رَفتَن
 Stoßstange; سِپَر ِ ماشین
 stoßweise; موج دار
 Stoßzahn; يَشک، دَندان ِ ناب
-Stottern; تِته پِته، لُکنَت ِ زَبان
-- ins Stottern kommen; به تِته پِته اُفتادَن
 stottern; لُکنَت خوردَن، با لُکنَت حَرف زَدَن، کُند زَبان، گِرِفتَن ِ زَبان
 - er stottert; زَبانَش گِرِفته است
 - er stotterte s. was zurecht; ِ از این زَبان بَسته هارا لوله کَرد توى
+Stottern; تِته پِته، لُکنَت ِ زَبان
+- ins Stottern kommen; به تِته پِته اُفتادَن
 stotternd; تِته تِپه کُنان
 - stotternd sagte ich ...; تِته تِپه کَردَم و گُفتَم
 Strafantrag; تَقاضای ِ مُجازات
@@ -4268,8 +4304,11 @@ Süddeutschland; آلمان ِ جِنوبى
 Süden; جِنوب
 südlich; جِنوبى
 Suezkanal; کانال ِ سوئز
+Sufi; صوفی
 Sufismus; تَوَصُف
-suggerieren; .اِلقاء کَردَن، تَلقین ک
+suggerierbar; تَلقین پَذیر
+suggerieren; اِلقاء کَردَن، تَلقین ک.
+Suggestierbarkeit; تَلقین پَذیری
 Suggestion; تَلقین
 - Autosuggestion; تَلقین بِنَفس
 - suggestive Frage; سؤال ِ اِلقائى، ـ مُلقىٰ
@@ -4317,14 +4356,19 @@ Süßigkeit; شیرینی، نُقل
 süßsauer; مَلَس
 Süßwasserkrebs; خَر جَنگ ِ آب ِ شیرین
 Symbiose; هَمزیستى
+symbiotisch; وابَسته به هَمزیگری
+- symbiotische Lebewesen; موحودات ِ هَمزی
+- symbiotische Beziehung; رابِطۀ هَمزیستی
 Symbol; صورَت ِ مِثالیه، نَما، نَمایان گَر، سَمبُل، نَماد، رَمز، نِشانه، مَثَله
 symbolisch; سَمبُلیک، نَمادى، رَمزى، نِشانه اى، نِمونه اى، نِمونه دار
-Symetrie; تَقارُن، تَناسُب، قَرینه
-Symetrieschaltung; مَدار ِ مُتَعادِل، اِتِصال ِ سیمِتریک
-symetrisch; موزون، مُتَقارِن، قَرین، مُتَناسِب
-- unsymetrisch; لِنگه به لِنگه، تا به تا، ناموزون
-- etwas unsymetrisch schneiden; چیزی را تا به تا زَدَن
-- unsymetrische Kriegsführung; جَنگهای ِ ناهَمِگون
+Symbolismus; نَمادگِرایی
+Symmetrie; تَقارُن، تَناسُب، قَرینه
+Symmetrieachse; مِحوَر ِ  تَقارِن
+Symmetrieschaltung; مَدار ِ مُتَعادِل، اِتِصال ِ سیمِتریک
+symmetrisch; موزون، مُتَقارِن، قَرین، مُتَناسِب
+- unsymmetrisch; لِنگه به لِنگه، تا به تا، ناموزون
+- etwas unsymmetrisch schneiden; چیزی را تا به تا زَدَن
+- asymmetrische Kriegsführung; جَنگهای ِ ناهَمِگون
 Sympathie; رأفَت، عاطِفه، هَمدِلى، اِنجِذاب، اُنس، اُلفَت
 - Erweisung von Sympathie; تَعطُف
 - Sympathie für seine Freunde haben; هَوای ِ دوستهايَش را داشتَن
@@ -4340,6 +4384,9 @@ synchron; يِک زَمان، هَمزَمان، هَماهَنگ
 Synchrongetriebe; گیربُکس ِ سِنکرونیزه
 synchronisieren; هَمزَمان کَردَن
 - Film synchronisieren; فیلم را دوبله کَردَن
+Syndrom; نِشانِگان
+- Lockes-in-Syndrom (med.); نِشانِگان ِ قُفل شُدِگی
+- Verlustsyndrom; نِشانِگان اِتلاف
 Synkretist; اِلتِقاطى
 synonym; مُتَرادِف، مُرادِف
 Synonym (n); تَرادُف

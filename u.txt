@@ -285,6 +285,8 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 überschatten; بَر چیزى سایه اَفکندَن
 überschätzen;
 - dass Sie meine Fähigkeiten nicht überschätzen; دَر مورِد ِ قُدرَت ِ مَن مُبالِغه نَکُنید
+überschaubar; قابِل ِ اِداره
+- überschaubarer Zeitraum; مُدَت ِ مَعقول
 überschäumen;
 - seine Vergangenheit ist nicht so überschäumend als die von ...; گُذَشته اش از ... بَسى کَمرَنگتَر است
 überschlagen;
@@ -321,6 +323,8 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 - Simultanübersetzung; تَرجُمهٔ هَمزَمان
 Übersicht; دید ِ کُلی
 übersichtlich; نَظَرى، شَفاف، روشَن
+übersinnlich; فَرا حِسی
+- übersinnliche Wahrnehmung; اِدراک ِ فَرا حِسی
 überspannt; تُندرو، غِیر ِ مَعقول، مُبالِغه آمیز
 überspringen;
 - eine Klasse überspringen; دو کلاس يِکى کَردَن
@@ -388,6 +392,7 @@ u.s.w.; اِلَخ (مُخَفَفه است بَراى ِ: اِلى ٰ آخَر)
 - überwechseln in ein ...; به ... تَغییر ِ مَحَل دادَن
 überweisen; حَواله دادَن، واریختَن، واریز کَردَن
 - ich überweise 10,- Euro; مَن ۱۰ یورو واریز مى کُنَم، ـ وا مى ریزَم
+- ich überweise ... Euro auf Ihr Konto; مَن مَبلَغ ... یورو به بانک واریز می کُنَم
 Überweisung;
 - Überweisung an einen Ausschuss; اِرجاع به يِک کُمیسیون
 - telegrafische Überweisung; بُرات ِ تِلِگرافى، حَوالهٔ ـ، واریز ِ ـ
@@ -774,7 +779,7 @@ unbedeutend;
 - der Glaube ist nicht unbedeutender als die Weisheit; ایمان دَستِکَمى از حِکمَت نَدارَد
 unbedingt; بِدون ِ چون و چِرا
 - das muss nicht unbedingt so sein; خِیر اُلزاماً اینطور نیست
-unbefangen; بِدون ِ رودَربايَستى، بى طَرَف
+unbefangen; بِدون ِ رودَربايَستى، - واسی،  بى طَرَف
 unbefleckt; طاهِر
 unbefriedigend; نامَرضى، اِرضا کُنَنده نیست
 unbefriedigt; ناراضى، ناخُرسَند
@@ -1067,7 +1072,7 @@ ungezügelt (*:zügellos); بی لِگام
 - ungezügelte Gesellschaft; اِجتِماع ِ وِلِنگ و واز
 ungezwungen; بى تَکَلُف
 - ein ungezwungenes Leben; زِندِگى ِ بى بَند و بار، ـ از قِید رَها شُده، زِندِگى بى تَکَلُف
-Unglaube; بى ایمانى، ناایمانى، دیرباوَرى
+Unglaube; بى ایمانى، ناایمانى، دیرباوَرى، خداناباوَری
 ungläubig; خُدا ناشِناس، ناایماندار، لامَذهَب
 - ungläubig sagte sie ...; ناباوَرانه گُفت
 Ungläubiger; شَخص ِ لادین، خدا نَشِناس
@@ -1255,7 +1260,9 @@ Unschuldsmiene;
 unselig; مَشئوم دادَن
 unsicher; نا اَمن
 Unsicherheit; نابَسامانى، نا اَمنى
+- Unsicherheit (z.B. bei Entscheidungsfindung); عَدَم ِ قَطعیَت
 - Rechtsunsicherheit; عَدَم ِ اَمنيَت ِ قانونى
+unsichtbar; نامَرئى، نادیدَنی
 Unsinn; مُزَخرَفات، جَفَنگ بازی
 - er redet Unsinn; مُزَخرَف مى گويَد، لیچار ـ، جَفَنگ ـ، هَذیان ـ
 - vieles von ... ist Unsinn; خِیلى از ... حَماقَت است
@@ -1319,7 +1326,8 @@ unterdrücken; مَظلوم کَردَن، ظُلم ک.، تَحت ِ فِشار
 - mit unterdrückter Stimme; مِن مِن کَنان
 unterdrückend; مُتَعَدى
 Unterdrücker; (pl.) مُستَبِد (مستَبدین)، مُتَعَدیون، مُفسِد فى اُلاَرض
-Unterdrückter; (pl.) (زور دیده، مُستَضَعف (مُستَضَعفین)، مَظلوم (مَظلومان
+Unterdrückter;
+- Unterdrückter (pl.); زور دیده، مُستَضَعف (مُستَضَعفین)، مَظلوم (مَظلومان)
 Unterdrückung; اِستِبداد، ظُلم
 - Unterdrückung des Marktes; تَفشیر ِ اِقتِصادى
 - Unterdrückung der Opposition; سَرکوب ِ اَقَليَت
@@ -1527,8 +1535,8 @@ unverdaulich; گُوارِش ناپَذیر، غِیر ِ قابِل ِ هَضم
 unverderblich; فاسِد نَشُدَنى
 unverdrossen; دَوام، دَست بَردار نَبودَن
 unvereinbar;
-- unvereinbar sein mit; با چیزى مُنافات داشتَن، بِدور بودَن از
-Unvereinbarkeit; ناسازگارى، عَدَم ِ تَطبیق، عَدَم ِ مُطابِقَت
+- unvereinbar sein mit; با چیزى مُنافات داشتَن، بِدور بودَن از، مُنافات داشتَن با ...
+Unvereinbarkeit; ناسازگارى، عَدَم ِ تَطبیق، عَدَم ِ مُطابِقَت، مُنافات
 unverfälscht; دَست نَحورده
 - unverfälschte Liebe; مُحَبَت ِ بى شائِبه
 - Unverfälschtheit der Kultur; اِصالَت ِ فَرهَنگ

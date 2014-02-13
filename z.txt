@@ -17,7 +17,7 @@ Zähflüssigkeit; ویسکوسیته، چَسبَندِگى
 Zähigkeit;
 - sie geben an wegen ihrer Zähigkeit; لاف ِ اِستِحکام و مُقاوَمَت مى زَنَند
 Zahl;
-- Zahl (pl.) ; شُماره، عَدَد (اَعداد)، رَقَم (اَرقام)
+- Zahl (pl.); شُماره، عَدَد (اَعداد)، رَقَم (اَرقام)
 - ganze Zahl; عَدَد ِ صَحیح
 - gebrochene Zahl; عَدَد ِ کَسرى
 - gerade Zahl; عَدَد ِ زوج، ـ جُفت
@@ -118,7 +118,7 @@ Zange; گاز
 - Zange, die Isolierung entfernt; سیم لُخت کُن
 - Drahtzange; سیم چین
 - Kneifzange; گاز ِ اَنبُر
-- Wasserpumpenzange; اَنبُر ِ کَلااغى
+- Wasserpumpenzange; اَنبُر ِ کَلااغى، - لوله
 Zank; مُشاجِره، نِزاع، دَعوا، تَنازُع، مُناقِشه
 zanken; .دَعوا کَردَن، نِزاع ک
 zankend; مُشاجِر
@@ -146,6 +146,7 @@ zärtlich; دِلجو
 Zärtlichkeit; دِلجوئى، نازِش، دِل نَوازى
 - sie tauschen Zärtlichkeiten aus; آنها دَر حال ِ مُغازِله هَستَند
 Zauber; جادو
+- fauler Zauber; کَچلَک بازی
 Zauberei; جادوگَرى
 - sie hatten mit Zauberei zu tun; آنها با سِحر و جادو سَر و کار داشتَند
 zauberhaft; دِلرُبا، جُذاب
@@ -356,6 +357,7 @@ zerfurcht;
 - zerfurchtes Gesicht; رُخسارهٔ پُر شیار
 zerkleinern; خُرد کَردَن، تیکه تیکه ک.، دَرهَم شِکَستَن
 zerknautscht; مُچاله
+Zerknirschung; نِدامَت
 zerknittert; مُچاله
 zerkratzen; خَدشه دار کَردَن، خَراش دادَن، خَش بَر چیزی می اُفتَد
 - Vollkommenheit ist zerkratzt; کَمال خَدشه دار شُد
@@ -450,7 +452,7 @@ Zeugenvernehmung; بازپُرسى از شاهِد
 Zeugnis; کارنامه، دانِش نامه
 Zeugung; زاد و وَلَد، تولید ِ مِثل
 Zichorie; کاسنى
-Zicke;
+Zicke; بُزغاله
 Zickenkrieg; رَخت ِ دو جاری را دَر یِک تَشت نِمیشه شُست
 zickig; چَموش، سَرکِش، عاصى
 - du bist doch nie so zickig gewesen; تو که این قَدر نازُک ِ نارَنجى نَبودى
@@ -489,7 +491,8 @@ zielen; نِشانه گِرِفتَن، به طَرَف ِ کِسى قَراوُ
 - auf etwas zielen; نِشانهٔ چیزى را گِرِفتَن
 - gezielte Indiskretion; اَفشای ِ عَمدی
 zielgenau; هَدَف دوز
-Zielgerade (Am Ende des Lebens); آخَر ِ خَط
+Zielgerade;
+- Zielgerade (Am Ende des Lebens); آخَر ِ خَط
 Ziellinie;
 - Ziellinie erreichen; به خَط ِ پایان ِ مُسابِقه رِسیدَن
 ziellos;
@@ -499,6 +502,8 @@ Zielort; مَقصَد
 Zielscheibe; تیر نِشانه، آماج ِ نِظامى، تیماج، آماجگاه
 - Zielscheibe der Kritik; آماج ِ اِنتِقاد
 - sie machten ihn zur Zielscheibe ihres Spottes; اورا دَر مَعرَض ِ تَمَسخُر قَرار دادَند
+Zielverfehlung;
+- Zielverfehlung (auch allegor.); تیرَش به سَنگ مى خورد ، نِشانه نَزَدَن
 ziemen (s. -); شايِسته بودَن
 - wie es s. ziemt; چِنانکه شايَد و بايَد
 - das Verhalten ziemt s. nicht für ...; رَفتار ِ زیبَندهٔ ... نیست
@@ -1311,11 +1316,12 @@ Zwickel (beim Kleid); مُرغَک، خِشتَک
 zwicken; .نَشگون گِرِفتَن، نیشگون گ
 Zwieback; نان ِ سوخارى
 Zwiebel; پیاز
-Zwielicht; خِط ِ اَسوَد
+Zwielicht; خِط ِ اَسوَد، کَمنورى
 zwielichtig; مَشکوک
 Zwiespalt; تَفرِقه، شِکاف
 Zwietracht; خُصونَت، نِفاق
 Zwilling; دوغُلو، دوقُلو
+- Siamesische Zwillinge; دوقُلوی ِ پِیوَسته
 Zwillingsreifen; لاستیکهاى ِ جُفتى، ـ دو قُلو
 Zwinge; مَنگَنه، گیره
 zwingen; کِسى را مَجبور کَردَن
